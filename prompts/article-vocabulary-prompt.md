@@ -1,0 +1,4 @@
+my template file is `/Users/polodev/sites/eng-content/templates/article-with-story.json`
+my pdf is in `learn_vocabulary_through_stories/01-learn-vocabulary-through-stories-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A7%87%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%AC%E0%A6%BE%20%20%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF%20%E0%A6%B8%E0%A6%AE%E0%A6%BE%E0%A6%9C%20%E0%A6%93%20%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B7%E0%A7%87%E0%A6%B0%20%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%20%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%A8%20%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87%20%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87.pdf`
+
+please convert pdf content to text content and make a json file inside `response-json` folder with name like pdf. json file should follow template style. exact same as template. as it has only single language. so other locale will be just empty. but key should be present 
