@@ -54,9 +54,12 @@ my template file is \`$TEMPLATE_FILE\`
 my pdf is in \`$pdf_file\`
 
 please convert pdf content to text content and make a json file inside \`response-json\` folder with name like pdf. Json file should follow template style. exact same as template. as it has only single language. so other locale need to be done: translation, transliteration and native_transliteration
-basic about 2 terms: 
+### basic about 2 terms: 
 - \`*_native_transliteration\`: datatype json with [bn, es, fr, hi] keys. written in respective language. Help non english speakers to know english pronunciation.
 - \`*_transliteration\`: datatype string. written in Pure English. Help english speakers know its pronunciation 
+### content_translation": "
+  its a translatable json string. each locale content having both respective locale and english word. in case of english word please make it markdown bold. like **hello** বাংলা", english word remain english in all locales
+
 
 EOF
         
