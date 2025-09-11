@@ -1,0 +1,677 @@
+{
+    "position": 20,
+    "title_translation": {
+        "en": "Causes and Prevention of Juvenile Crime",
+        "hi": "किशोर अपराध के कारण और रोकथाम",
+        "es": "Causas y Prevención del Crimen Juvenil",
+        "bn": "কিশোর অপরাধের কারণ ও প্রতিকার"
+    },
+    "content_translation": {
+        "en": "**Peer influence** is extremely important in juvenile crime. Adolescents at this age want to break free from family **dominance** and **unify** with peers. This relationship with neighbors and companions helps them **spontaneously** **acquire** various subjects. However, if companions are of **unscrupulous** nature, then under their influence, adolescents can become crime-prone.\n\nThe **shortcomings** of educational institutions are responsible for juvenile crime. The lack of **moral values** and **integrity-based education** is evident in current society. In many institutions, teachers' **impartiality**, sincerity, and **constructive recreation** opportunities are limited. As a result, students feel **alienated** and start exhibiting **counterproductive behaviors**.\n\nFor example, they **loiter** on the streets after skipping school, get involved in **substance abuse** and **eve teasing**. **Inadequate curricula** and **non-adaptive teaching methods** create **discontent** among adolescents, which **propels** them toward criminal activities.",
+        "hi": "**Peer influence** किशोर अपराध के क्षेत्र में अत्यंत गुरुत्वपूर्ण है। किशोर-किशोरियां इस उम्र में परिवार के **dominance** से बाहर आना चाहते हैं और समवयस्क लोगों के साथ **unify** होते हैं। पड़ोसियों और साथियों के साथ यह रिश्ता उन्हें **spontaneously** विभिन्न विषयों में **acquire** करने में मदद करता है। लेकिन यदि साथी **unscrupulous** प्रकृति के हों, तो उनके प्रभाव में किशोर-किशोरियां अपराधप्रवण हो सकते हैं।\n\nशिक्षा संस्थानों की **shortcomings** किशोर अपराध के लिए जिम्मेदार हैं। **Moral values** और **integrity-based education** की कमी वर्तमान समाज में स्पष्ट है। कई संस्थानों में शिक्षकों की **impartiality**, ईमानदारी, और **constructive recreation** के अवसर सीमित हैं। परिणामस्वरूप छात्र **alienated** महसूस करते हैं और **counterproductive behaviors** प्रदर्शित करना शुरू करते हैं।\n\nउदाहरण के लिए, वे स्कूल छोड़कर सड़कों पर **loiter** करते हैं, **substance abuse** और **eve teasing** में शामिल होते हैं। **Inadequate curricula** और **non-adaptive teaching methods** किशोर-किशोरियों में **discontent** पैदा करते हैं, जो उन्हें आपराधिक गतिविधियों की दिशा में **propel** करता है।",
+        "es": "La **peer influence** es extremadamente importante en el crimen juvenil. Los adolescentes a esta edad quieren liberarse de la **dominance** familiar y **unify** con compañeros. Esta relación con vecinos y acompañantes les ayuda **spontaneously** a **acquire** varios temas. Sin embargo, si los compañeros son de naturaleza **unscrupulous**, entonces bajo su influencia, los adolescentes pueden volverse propensos al crimen.\n\nLas **shortcomings** de las instituciones educativas son responsables del crimen juvenil. La falta de **moral values** y **integrity-based education** es evidente en la sociedad actual. En muchas instituciones, la **impartiality** de los profesores, sinceridad, y oportunidades de **constructive recreation** son limitadas. Como resultado, los estudiantes se sienten **alienated** y comienzan a exhibir **counterproductive behaviors**.\n\nPor ejemplo, **loiter** en las calles después de faltar a la escuela, se involucran en **substance abuse** y **eve teasing**. Los **inadequate curricula** y **non-adaptive teaching methods** crean **discontent** entre los adolescentes, lo cual los **propel** hacia actividades criminales.",
+        "bn": "কিশোর অপরাধের ক্ষেত্রে **peer influence** অত্যন্ত গুরুত্বপূর্ণ। কিশোর-কিশোরীরা এই বয়সে পরিবারের **dominance** থেকে বেরিয়ে আসতে চায় এবং সমবয়সীদের সঙ্গে **unify** হয়। পাড়া-প্রতিবেশী ও সঙ্গীদের সঙ্গে এই সম্পর্ক তাদের **spontaneously** বিভিন্ন বিষয়ে **acquire** করতে সাহায্য করে। কিন্তু যদি সঙ্গীরা **unscrupulous** প্রকৃতির হয়, তবে তাদের প্রভাবে কিশোর-কিশোরীরা অপরাধপ্রবণ হয়ে উঠতে পারে।\n\nশিক্ষা প্রতিষ্ঠানগুলোর **shortcomings** কিশোর অপরাধের জন্য দায়ী। **Moral values** এবং **integrity-based education** এর অভাব বর্তমান সমাজে প্রকট। অনেক প্রতিষ্ঠানে শিক্ষকদের **impartiality**, আন্তরিকতা, এবং **constructive recreation**-এর সুযোগ সীমিত। ফলে শিক্ষার্থীরা **alienated** অনুভব করে এবং **counterproductive behaviors** প্রদর্শন করতে শুরু করে।\n\nযেমন, তারা স্কুল পালিয়ে রাস্তায় **loiter** করে, **substance abuse** এবং **eve teasing**-এ জড়িয়ে পড়ে। **Inadequate curricula** এবং **non-adaptive teaching methods** কিশোর-কিশোরীদের মধ্যে **discontent** তৈরি করে, যা তাদের অপরাধমূলক কর্মকাণ্ডের দিকে **propel** করে।"
+    },
+    "list": [
+        {
+            "word": "peer influence",
+            "phonetic": "pɪr ˈɪnfluəns",
+            "word_native_transliteration": {
+                "bn": "পিয়ার ইনফ্লুয়েন্স",
+                "hi": "पियर इन्फ्लुएंस",
+                "es": "pier ínfluens"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👥",
+            "meaning": "The influence that peers (people of similar age) have on an individual's behavior, attitudes, or decisions.",
+            "example_sentence": "Peer influence can shape juvenile behavior significantly.",
+            "example_sentence_native_transliteration": {
+                "bn": "পিয়ার ইনফ্লুয়েন্স কেন শেপ জুভেনাইল বিহেভিয়ার সিগনিফিক্যান্টলি।",
+                "es": "pier ínfluens kan sheip júvenil bihéivior signifikántli.",
+                "hi": "पियर इन्फ्लुएंस कैन शेप जुवेनाइल बिहेवियर सिग्निफिकेंटली।"
+            },
+            "example_expression": "negative peer influence",
+            "example_expression_native_transliteration": {
+                "bn": "নেগেটিভ পিয়ার ইনফ্লুয়েন্স",
+                "es": "negátiv pier ínfluens",
+                "hi": "नेगेटिव पियर इन्फ्लुएंस"
+            },
+            "example_expression_meaning": "The harmful impact that peers can have on someone's behavior or choices.",
+            "position": 1,
+            "synonyms": "peer pressure, social impact, social influence, group influence",
+            "antonyms": "independence, autonomy, self-reliance, individual thinking",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সমবয়সীদের প্রভাব",
+                    "word_transliteration": "shomoboyshider prabhab",
+                    "example_sentence_translation": "সমবয়সীদের প্রভাব কিশোরদের আচরণ উল্লেখযোগ্যভাবে প্রভাবিত করতে পারে।",
+                    "example_sentence_transliteration": "Shomoboyshider prabhab kishorder acharon ullekhjoggyobhabe prabhobito korte pare.",
+                    "example_expression_translation": "নেতিবাচক সমবয়সীদের প্রভাব",
+                    "example_expression_transliteration": "netibachok shomoboyshider prabhab",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "समवयस्कों का प्रभाव",
+                    "word_transliteration": "samvayaskon ka prabhav",
+                    "example_sentence_translation": "समवयस्कों का प्रभाव किशोरों के व्यवहार को महत्वपूर्ण रूप से आकार दे सकता है।",
+                    "example_sentence_transliteration": "Samvayaskon ka prabhav kishoron ke vyavhar ko mahattvapurn roop se aakar de sakta hai.",
+                    "example_expression_translation": "नकारात्मक समवयस्कों का प्रभाव",
+                    "example_expression_transliteration": "nakaratmak samvayaskon ka prabhav",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "influencia de los compañeros",
+                    "word_transliteration": "influénsia de los kompañéros",
+                    "example_sentence_translation": "La influencia de los compañeros puede moldear significativamente el comportamiento juvenil.",
+                    "example_sentence_transliteration": "La influénsia de los kompañéros puéde moldéar signifikativamente el komportamiénto juveníl.",
+                    "example_expression_translation": "influencia negativa de los compañeros",
+                    "example_expression_transliteration": "influénsia negatíva de los kompañéros",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dominance",
+            "phonetic": "ˈdɒmɪnəns",
+            "word_native_transliteration": {
+                "bn": "ডমিন্যান্স",
+                "hi": "डॉमिनेंस",
+                "es": "dóminans"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👑",
+            "meaning": "Power and influence over others; control or command over someone or something.",
+            "example_sentence": "Adolescents seek to escape parental dominance.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাডোলেসেন্টস সিক টু এস্কেপ প্যারেন্টাল ডমিন্যান্স।",
+                "es": "adolésents sik tu eskéip paréntál dóminans.",
+                "hi": "एडोलेसेंट्स सीक टु एस्केप पैरेंटल डॉमिनेंस।"
+            },
+            "example_expression": "parental dominance",
+            "example_expression_native_transliteration": {
+                "bn": "প্যারেন্টাল ডমিন্যান্স",
+                "es": "paréntál dóminans",
+                "hi": "पैरेंटल डॉमिनेंस"
+            },
+            "example_expression_meaning": "The controlling influence that parents have over their children.",
+            "position": 2,
+            "synonyms": "control, supremacy, authority, power, command",
+            "antonyms": "subordination, inferiority, submission, weakness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আধিপত্য",
+                    "word_transliteration": "adhipoittyo",
+                    "example_sentence_translation": "কিশোররা পিতামাতার আধিপত্য থেকে মুক্তি পেতে চায়।",
+                    "example_sentence_transliteration": "Kishorra pitamatar adhipoittyo theke mukti pete chay.",
+                    "example_expression_translation": "পিতামাতার আধিপত্য",
+                    "example_expression_transliteration": "pitamatar adhipoittyo",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "प्रभुत्व",
+                    "word_transliteration": "prabhutva",
+                    "example_sentence_translation": "किशोर माता-पिता के प्रभुत्व से बचना चाहते हैं।",
+                    "example_sentence_transliteration": "Kishor mata-pita ke prabhutva se bachna chahte hain.",
+                    "example_expression_translation": "माता-पिता का प्रभुत्व",
+                    "example_expression_transliteration": "mata-pita ka prabhutva",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "dominación",
+                    "word_transliteration": "dominasión",
+                    "example_sentence_translation": "Los adolescentes buscan escapar de la dominación parental.",
+                    "example_sentence_transliteration": "Los adoleséntes búskan eskápar de la dominasión paréntál.",
+                    "example_expression_translation": "dominación parental",
+                    "example_expression_transliteration": "dominasión paréntál",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "unify",
+            "phonetic": "ˈjuːnɪfaɪ",
+            "word_native_transliteration": {
+                "bn": "ইউনিফাই",
+                "hi": "यूनिफाई",
+                "es": "iúnifai"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🤝",
+            "meaning": "To make or become united, uniform, or whole; to bring together as one.",
+            "example_sentence": "Adolescents unify with peers for social acceptance.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাডোলেসেন্টস ইউনিফাই উইথ পিয়ারস ফর সোশ্যাল অ্যাকসেপ্টেন্স।",
+                "es": "adolésents iúnifai uith píers for sóshál aksépténs.",
+                "hi": "एडोलेसेंट्स यूनिफाई विथ पियर्स फॉर सोशल एक्सेप्टेंस।"
+            },
+            "example_expression": "unify with peers",
+            "example_expression_native_transliteration": {
+                "bn": "ইউনিফাই উইথ পিয়ারস",
+                "es": "iúnifai uith píers",
+                "hi": "यूनिफाई विथ पियर्स"
+            },
+            "example_expression_meaning": "To come together and form bonds with people of similar age or status.",
+            "position": 3,
+            "synonyms": "unite, integrate, consolidate, merge, combine",
+            "antonyms": "divide, separate, split, fragment, isolate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একত্রিত করা",
+                    "word_transliteration": "ekotrrito kora",
+                    "example_sentence_translation": "কিশোররা সামাজিক গ্রহণযোগ্যতার জন্য সঙ্গীদের সঙ্গে একত্রিত হয়।",
+                    "example_sentence_transliteration": "Kishorra shamajik grohonjoggota'r jonno shongider shonge ekotrrito hoy.",
+                    "example_expression_translation": "সঙ্গীদের সাথে একত্রিত হওয়া",
+                    "example_expression_transliteration": "shongider shathe ekotrrito howa",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "एकजुट करना",
+                    "word_transliteration": "ekjut karna",
+                    "example_sentence_translation": "किशोर सामाजिक स्वीकृति के लिए साथियों के साथ एकजुट होते हैं।",
+                    "example_sentence_transliteration": "Kishor samajik sweekriti ke liye sathiyon ke saath ekjut hote hain.",
+                    "example_expression_translation": "साथियों के साथ एकजुट होना",
+                    "example_expression_transliteration": "sathiyon ke saath ekjut hona",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "unificar",
+                    "word_transliteration": "unifikár",
+                    "example_sentence_translation": "Los adolescentes se unifican con sus compañeros para obtener aceptación social.",
+                    "example_sentence_transliteration": "Los adoleséntes se unifikán kon sus kompañéros pára obténer aseptasión sosíál.",
+                    "example_expression_translation": "unificarse con compañeros",
+                    "example_expression_transliteration": "unifikárse kon kompañéros",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "spontaneously",
+            "phonetic": "spɒnˈteɪniəsli",
+            "word_native_transliteration": {
+                "bn": "স্পন্টেনিয়াসলি",
+                "hi": "स्पॉन्टेनियसली",
+                "es": "spontániasli"
+            },
+            "parts_of_speech": "adverb",
+            "emoji": "⚡",
+            "meaning": "In a natural, unplanned way; without external cause or influence; automatically.",
+            "example_sentence": "Children learn spontaneously through peer interactions.",
+            "example_sentence_native_transliteration": {
+                "bn": "চিলড্রেন লার্ন স্পন্টেনিয়াসলি থ্রু পিয়ার ইন্টারঅ্যাকশনস।",
+                "es": "chíldren lern spontániasli thru píer interákshons.",
+                "hi": "चिल्ड्रन लर्न स्पॉन्टेनियसली थ्रू पियर इंटरएक्शन्स।"
+            },
+            "example_expression": "learn spontaneously",
+            "example_expression_native_transliteration": {
+                "bn": "লার্ন স্পন্টেনিয়াসলি",
+                "es": "lern spontániasli",
+                "hi": "लर्न स्पॉन्टेनियसली"
+            },
+            "example_expression_meaning": "To acquire knowledge or skills naturally without formal instruction.",
+            "position": 4,
+            "synonyms": "naturally, instinctively, automatically, impulsively",
+            "antonyms": "deliberately, hesitantly, artificially, reluctantly",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বতঃস্ফূর্তভাবে",
+                    "word_transliteration": "shotoshfurtobhabe",
+                    "example_sentence_translation": "শিশুরা সমবয়সীদের সঙ্গে স্বতঃস্ফূর্তভাবে শেখে।",
+                    "example_sentence_transliteration": "Shishura shomoboyshider shonge shotoshfurtobhabe shekhe.",
+                    "example_expression_translation": "স্বতঃস্ফূর্তভাবে শেখা",
+                    "example_expression_transliteration": "shotoshfurtobhabe shekha",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "स्वतः स्फूर्त रूप से",
+                    "word_transliteration": "swatah sphurt roop se",
+                    "example_sentence_translation": "बच्चे साथियों के साथ बातचीत के माध्यम से स्वतः स्फूर्त रूप से सीखते हैं।",
+                    "example_sentence_transliteration": "Bacche sathiyon ke saath batcheet ke madhyam se swatah sphurt roop se seekhte hain.",
+                    "example_expression_translation": "स्वतः स्फूर्त रूप से सीखना",
+                    "example_expression_transliteration": "swatah sphurt roop se seekhna",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "espontáneamente",
+                    "word_transliteration": "espontániamente",
+                    "example_sentence_translation": "Los niños aprenden espontáneamente a través de las interacciones con sus compañeros.",
+                    "example_sentence_transliteration": "Los níños aprénden espontániamente a través de las interaksiónes kon sus kompañéros.",
+                    "example_expression_translation": "aprender espontáneamente",
+                    "example_expression_transliteration": "apréndér espontániamente",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "acquire",
+            "phonetic": "əˈkwaɪə",
+            "word_native_transliteration": {
+                "bn": "অ্যাকোয়ার",
+                "hi": "अक्वायर",
+                "es": "akuáir"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🎯",
+            "meaning": "To buy or obtain (an asset or object) for oneself; to learn or develop (a skill, habit, or quality).",
+            "example_sentence": "Students acquire knowledge through various learning methods.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্টুডেন্টস অ্যাকোয়ার নলেজ থ্রু ভ্যারিয়াস লার্নিং মেথডস।",
+                "es": "stúdents akuáir nólidch thru várias lérnin méthods.",
+                "hi": "स्टूडेंट्स अक्वायर नॉलेज थ्रू वेरियस लर्निंग मेथड्स।"
+            },
+            "example_expression": "acquire skills",
+            "example_expression_native_transliteration": {
+                "bn": "অ্যাকোয়ার স্কিলস",
+                "es": "akuáir skils",
+                "hi": "अक्वायर स्किल्स"
+            },
+            "example_expression_meaning": "To develop or learn new abilities or competencies.",
+            "position": 5,
+            "synonyms": "obtain, gain, get, learn, develop",
+            "antonyms": "lose, forfeit, abandon, give up, release",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অর্জন করা",
+                    "word_transliteration": "orjon kora",
+                    "example_sentence_translation": "শিক্ষার্থীরা বিভিন্ন শিক্ষা পদ্ধতির মাধ্যমে জ্ঞান অর্জন করে।",
+                    "example_sentence_transliteration": "Shikkharthira bhinno shikkha poddhoti'r madhyome gyan orjon kore.",
+                    "example_expression_translation": "দক্ষতা অর্জন করা",
+                    "example_expression_transliteration": "dokkhota orjon kora",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "प्राप्त करना",
+                    "word_transliteration": "prapt karna",
+                    "example_sentence_translation": "छात्र विभिन्न शिक्षण विधियों के माध्यम से ज्ञान प्राप्त करते हैं।",
+                    "example_sentence_transliteration": "Chhatr vibhinn shikshan vidhiyon ke madhyam se gyan prapt karte hain.",
+                    "example_expression_translation": "कौशल प्राप्त करना",
+                    "example_expression_transliteration": "kaushal prapt karna",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "adquirir",
+                    "word_transliteration": "adkirír",
+                    "example_sentence_translation": "Los estudiantes adquieren conocimiento a través de varios métodos de aprendizaje.",
+                    "example_sentence_transliteration": "Los estudiántes adkirén konosimiénto a través de vários métodos de aprendiságe.",
+                    "example_expression_translation": "adquirir habilidades",
+                    "example_expression_transliteration": "adkirír abilidádes",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "unscrupulous",
+            "phonetic": "ʌnˈskruːpjʊləs",
+            "word_native_transliteration": {
+                "bn": "আনস্ক্রুপুলাস",
+                "hi": "अनस्क्रुपुलस",
+                "es": "anskrúpulas"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "😈",
+            "meaning": "Having or showing no moral principles; not honest or fair.",
+            "example_sentence": "Unscrupulous peers can lead adolescents to delinquency.",
+            "example_sentence_native_transliteration": {
+                "bn": "আনস্ক্রুপুলাস পিয়ারস কেন লিড অ্যাডোলেসেন্টস টু ডেলিনকোয়েন্সি।",
+                "es": "anskrúpulas píers kan lid adolésents tu delinküénsi.",
+                "hi": "अनस्क्रुपुलस पियर्स कैन लीड एडोलेसेंट्स टू डेलिंक्वेंसी।"
+            },
+            "example_expression": "unscrupulous behavior",
+            "example_expression_native_transliteration": {
+                "bn": "আনস্ক্রুপুলাস বিহেভিয়ার",
+                "es": "anskrúpulas bihévior",
+                "hi": "अनस्क्रुपुलस बिहेवियर"
+            },
+            "example_expression_meaning": "Actions that lack moral principles or ethical standards.",
+            "position": 6,
+            "synonyms": "immoral, deceitful, dishonest, corrupt, unethical",
+            "antonyms": "ethical, honest, principled, moral, scrupulous",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অসৎ",
+                    "word_transliteration": "oshoth",
+                    "example_sentence_translation": "অসৎ সঙ্গীরা কিশোরদের অপরাধে প্ররোচিত করতে পারে।",
+                    "example_sentence_transliteration": "Oshoth shongira kishorder oporadhe prorochito korte pare.",
+                    "example_expression_translation": "অসৎ আচরণ",
+                    "example_expression_transliteration": "oshoth achron",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "अनैतिक",
+                    "word_transliteration": "anaitik",
+                    "example_sentence_translation": "अनैतिक साथी किशोरों को अपराध की ओर ले जा सकते हैं।",
+                    "example_sentence_transliteration": "Anaitik saathi kishoron ko apradh ki or le ja sakte hain.",
+                    "example_expression_translation": "अनैतिक व्यवहार",
+                    "example_expression_transliteration": "anaitik vyavhar",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "sin escrúpulos",
+                    "word_transliteration": "sin eskrúpulos",
+                    "example_sentence_translation": "Los compañeros sin escrúpulos pueden llevar a los adolescentes a la delincuencia.",
+                    "example_sentence_transliteration": "Los kompañéros sin eskrúpulos puéden levár a los adoleséntes a la delinkuénsia.",
+                    "example_expression_translation": "comportamiento sin escrúpulos",
+                    "example_expression_transliteration": "komportamiénto sin eskrúpulos",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "shortcomings",
+            "phonetic": "ˈʃɔːtkʌmɪŋz",
+            "word_native_transliteration": {
+                "bn": "শর্টকামিংস",
+                "hi": "शॉर्टकमिंग्स",
+                "es": "shórtkamins"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚠️",
+            "meaning": "A fault or failure to meet a certain standard; deficiencies or inadequacies.",
+            "example_sentence": "Institutional shortcomings affect student behavior negatively.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনস্টিটিউশনাল শর্টকামিংস অ্যাফেক্ট স্টুডেন্ট বিহেভিয়ার নেগেটিভলি।",
+                "es": "institusionál shórtkamins afékt stúdent bihévior negatívli.",
+                "hi": "इंस्टीट्यूशनल शॉर्टकमिंग्स अफेक्ट स्टूडेंट बिहेवियर नेगेटिवली।"
+            },
+            "example_expression": "institutional shortcomings",
+            "example_expression_native_transliteration": {
+                "bn": "ইনস্টিটিউশনাল শর্টকামিংস",
+                "es": "institusionál shórtkamins",
+                "hi": "इंस्टीट्यूशनल शॉर्टकमिंग्स"
+            },
+            "example_expression_meaning": "Deficiencies or inadequacies within organizations or institutions.",
+            "position": 7,
+            "synonyms": "deficiencies, flaws, weaknesses, inadequacies, failures",
+            "antonyms": "strengths, advantages, assets, merits, qualities",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ঘাটতি",
+                    "word_transliteration": "ghatoti",
+                    "example_sentence_translation": "প্রতিষ্ঠানের ঘাটতি শিক্ষার্থীদের আচরণে নেতিবাচক প্রভাব ফেলে।",
+                    "example_sentence_transliteration": "Protishtaner ghatoti shikkharthider achrone netibachok prabhab fele.",
+                    "example_expression_translation": "প্রাতিষ্ঠানিক ঘাটতি",
+                    "example_expression_transliteration": "pratishthanic ghatoti",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "कमियां",
+                    "word_transliteration": "kamiyan",
+                    "example_sentence_translation": "संस्थागत कमियां छात्रों के व्यवहार को नकारात्मक रूप से प्रभावित करती हैं।",
+                    "example_sentence_transliteration": "Sansthagat kamiyan chaatron ke vyavhar ko nakaratmak roop se prabhavit karti hain.",
+                    "example_expression_translation": "संस्थागत कमियां",
+                    "example_expression_transliteration": "sansthagat kamiyan",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "deficiencias",
+                    "word_transliteration": "defisiénsias",
+                    "example_sentence_translation": "Las deficiencias institucionales afectan negativamente el comportamiento estudiantil.",
+                    "example_sentence_transliteration": "Las defisiénsias institusionáles aféktan negatívamente el komportamiénto estudiántil.",
+                    "example_expression_translation": "deficiencias institucionales",
+                    "example_expression_transliteration": "defisiénsias institusionáles",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "integrity",
+            "phonetic": "ɪnˈtegrɪti",
+            "word_native_transliteration": {
+                "bn": "ইন্টেগ্রিটি",
+                "hi": "इंटेग्रिटी",
+                "es": "integriti"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "The quality of being honest and having strong moral principles; moral uprightness.",
+            "example_sentence": "Teachers' integrity fosters a positive learning environment.",
+            "example_sentence_native_transliteration": {
+                "bn": "টিচার্স ইন্টেগ্রিটি ফস্টার্স অ্যা পজিটিভ লার্নিং এনভায়রনমেন্ট।",
+                "es": "tíchers integriti fósters a pósitiv lérnin enváironmént.",
+                "hi": "टीचर्स इंटेग्रिटी फॉस्टर्स अ पॉजिटिव लर्निंग एनवायरनमेंट।"
+            },
+            "example_expression": "moral integrity",
+            "example_expression_native_transliteration": {
+                "bn": "মোরাল ইন্টেগ্রিটি",
+                "es": "morál integriti",
+                "hi": "मोरल इंटेग्रिटी"
+            },
+            "example_expression_meaning": "The adherence to moral and ethical principles in one's actions and decisions.",
+            "position": 8,
+            "synonyms": "honesty, uprightness, morality, rectitude, virtue",
+            "antonyms": "dishonesty, corruption, deceit, immorality",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সততা",
+                    "word_transliteration": "shothota",
+                    "example_sentence_translation": "শিক্ষকদের সততা একটি ইতিবাচক শিক্ষার পরিবেশ গড়ে তোলে।",
+                    "example_sentence_transliteration": "Shikkhokder shothota ekti itibachok shikkhar poribesh gore tole.",
+                    "example_expression_translation": "নৈতিক সততা",
+                    "example_expression_transliteration": "noitik shothota",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "ईमानदारी",
+                    "word_transliteration": "imaandari",
+                    "example_sentence_translation": "शिक्षकों की ईमानदारी एक सकारात्मक शिक्षण वातावरण को बढ़ावा देती है।",
+                    "example_sentence_transliteration": "Shikshkon ki imaandari ek sakaratmak shikshan vatavaran ko badhava deti hai.",
+                    "example_expression_translation": "नैतिक ईमानदारी",
+                    "example_expression_transliteration": "naitik imaandari",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "integridad",
+                    "word_transliteration": "integridád",
+                    "example_sentence_translation": "La integridad de los profesores fomenta un ambiente de aprendizaje positivo.",
+                    "example_sentence_transliteration": "La integridád de los profésdres foménta un ambiénte de aprendiságe pósitivo.",
+                    "example_expression_translation": "integridad moral",
+                    "example_expression_transliteration": "integridád morál",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "alienated",
+            "phonetic": "ˈeɪliəneɪtɪd",
+            "word_native_transliteration": {
+                "bn": "এলিয়েনেটেড",
+                "hi": "एलियनेटेड",
+                "es": "eliénetid"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "😔",
+            "meaning": "Experiencing or inducing feelings of isolation or estrangement; feeling disconnected from others.",
+            "example_sentence": "Alienated students are more prone to delinquency.",
+            "example_sentence_native_transliteration": {
+                "bn": "এলিয়েনেটেড স্টুডেন্টস আর মোর প্রোন টু ডেলিনকোয়েন্সি।",
+                "es": "eliénetid stúdents ar mor pron tu delinküénsi.",
+                "hi": "एलियनेटेड स्टूडेंट्स आर मोर प्रोन टू डेलिंक्वेंसी।"
+            },
+            "example_expression": "feel alienated",
+            "example_expression_native_transliteration": {
+                "bn": "ফিল এলিয়েনেটেড",
+                "es": "fíl eliénetid",
+                "hi": "फील एलियनेटेड"
+            },
+            "example_expression_meaning": "To experience a sense of isolation or disconnection from others or society.",
+            "position": 9,
+            "synonyms": "isolated, detached, estranged, disconnected, withdrawn",
+            "antonyms": "included, engaged, connected, integrated, involved",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিচ্ছিন্ন",
+                    "word_transliteration": "bichhinn",
+                    "example_sentence_translation": "বিচ্ছিন্ন শিক্ষার্থীরা অপরাধের দিকে বেশি ঝোঁকপ্রবণ।",
+                    "example_sentence_transliteration": "Bichhinn shikkharthira oporadher dike beshi jhokprobon.",
+                    "example_expression_translation": "বিচ্ছিন্ন অনুভব করা",
+                    "example_expression_transliteration": "bichhinn onubhob kora",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "अलग-थलग",
+                    "word_transliteration": "alag-thalag",
+                    "example_sentence_translation": "अलग-थलग पड़े छात्र अपराध की ओर अधिक प्रवृत्त होते हैं।",
+                    "example_sentence_transliteration": "Alag-thalag pade chhatr apradh ki or adhik pravratt hote hain.",
+                    "example_expression_translation": "अलग-थलग महसूस करना",
+                    "example_expression_transliteration": "alag-thalag mahsoos karna",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "alienado",
+                    "word_transliteration": "alienádo",
+                    "example_sentence_translation": "Los estudiantes alienados son más propensos a la delincuencia.",
+                    "example_sentence_transliteration": "Los estudiántes alienádos son más propensos a la delinkuénsia.",
+                    "example_expression_translation": "sentirse alienado",
+                    "example_expression_transliteration": "sentírse alienádo",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "counterproductive",
+            "phonetic": "ˌkaʊntəprəˈdʌktɪv",
+            "word_native_transliteration": {
+                "bn": "কাউন্টারপ্রোডাকটিভ",
+                "hi": "काउंटरप्रोडक्टिव",
+                "es": "káunterprodáktiv"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔄",
+            "meaning": "Having the opposite of the desired effect; tending to hinder rather than help one's purpose.",
+            "example_sentence": "Counterproductive activities often stem from dissatisfaction.",
+            "example_sentence_native_transliteration": {
+                "bn": "কাউন্টারপ্রোডাকটিভ অ্যাক্টিভিটিস অফেন স্টেম ফ্রম ডিসস্যাটিসফ্যাকশন।",
+                "es": "káunterprodáktiv aktívitis ófen stem from disatisfákshon.",
+                "hi": "काउंटरप्रोडक्टिव एक्टिविटीज़ ऑफन स्टेम फ्रॉम डिसैटिसफैक्शन।"
+            },
+            "example_expression": "counterproductive behavior",
+            "example_expression_native_transliteration": {
+                "bn": "কাউন্টারপ্রোডাকটিভ বিহেভিয়ার",
+                "es": "káunterprodáktiv bihévior",
+                "hi": "काउंटरप्रोडक्टिव बिहेवियर"
+            },
+            "example_expression_meaning": "Actions that work against achieving the intended goals or desired outcomes.",
+            "position": 10,
+            "synonyms": "detrimental, ineffective, harmful, self-defeating",
+            "antonyms": "beneficial, constructive, helpful, productive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিপরীত ফলদায়ক",
+                    "word_transliteration": "biporito foldayok",
+                    "example_sentence_translation": "অসন্তোষ থেকে প্রায়শই বিপরীত ফলদায়ক কার্যকলাপের উদ্ভব হয়।",
+                    "example_sentence_transliteration": "Oshontosh theke prayshoi biporito foldayok karyokalaper udbhob hoy.",
+                    "example_expression_translation": "বিপরীত ফলদায়ক আচরণ",
+                    "example_expression_transliteration": "biporito foldayok achron",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "विपरीत परिणामी",
+                    "word_transliteration": "vipareet parinaami",
+                    "example_sentence_translation": "असंतुष्टि से अक्सर विपरीत परिणामी गतिविधियों का जन्म होता है।",
+                    "example_sentence_transliteration": "Asantushti se aksar vipareet parinaami gatividhiyon ka janm hota hai.",
+                    "example_expression_translation": "विपरीत परिणामी व्यवहार",
+                    "example_expression_transliteration": "vipareet parinaami vyavhar",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "contraproducente",
+                    "word_transliteration": "kontraprodusénte",
+                    "example_sentence_translation": "Las actividades contraproducentes a menudo surgen de la insatisfacción.",
+                    "example_sentence_transliteration": "Las aktividádes kontraprodusénte a menúdo súrgen de la insatisfaksión.",
+                    "example_expression_translation": "comportamiento contraproducente",
+                    "example_expression_transliteration": "komportamiénto kontraprodusénte",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "propel",
+            "phonetic": "prəˈpel",
+            "word_native_transliteration": {
+                "bn": "প্রোপেল",
+                "hi": "प्रोपेल",
+                "es": "propél"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🚀",
+            "meaning": "Drive, push, or cause to move in a particular direction, typically forward.",
+            "example_sentence": "Lack of proper guidance can propel adolescents toward delinquency.",
+            "example_sentence_native_transliteration": {
+                "bn": "ল্যাক অফ প্রোপার গাইডেন্স কেন প্রোপেল অ্যাডোলেসেন্টস টুওয়ার্ড ডেলিনকোয়েন্সি।",
+                "es": "lak of próper gáidens kan propél adolésents tuárd delinküénsi.",
+                "hi": "लैक ऑफ प्रॉपर गाइडेंस कैन प्रोपेल एडोलेसेंट्स टुवार्ड डेलिंक्वेंसी।"
+            },
+            "example_expression": "propel forward",
+            "example_expression_native_transliteration": {
+                "bn": "প্রোপেল ফরওয়ার্ড",
+                "es": "propél fórward",
+                "hi": "प्रोपेल फॉरवर्ड"
+            },
+            "example_expression_meaning": "To drive or push something ahead in a forward direction.",
+            "position": 11,
+            "synonyms": "drive, push, thrust, launch, impel",
+            "antonyms": "hinder, restrain, stop, hold back, impede",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ধাবিত করা",
+                    "word_transliteration": "dhabito kora",
+                    "example_sentence_translation": "সঠিক দিকনির্দেশনার অভাব কিশোরদের অপরাধের দিকে ধাবিত করতে পারে।",
+                    "example_sentence_transliteration": "Shothik diknierdeshnar obhab kishorder oporadher dike dhabito korte pare.",
+                    "example_expression_translation": "সামনে ধাবিত করা",
+                    "example_expression_transliteration": "shamne dhabito kora",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "आगे बढ़ाना",
+                    "word_transliteration": "aage badhana",
+                    "example_sentence_translation": "उचित मार्गदर्शन की कमी किशोरों को अपराध की ओर आगे बढ़ा सकती है।",
+                    "example_sentence_transliteration": "Uchit margdarshan ki kami kishoron ko apradh ki or aage badha sakti hai.",
+                    "example_expression_translation": "आगे बढ़ाना",
+                    "example_expression_transliteration": "aage badhana",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "impulsar",
+                    "word_transliteration": "impulsár",
+                    "example_sentence_translation": "La falta de orientación adecuada puede impulsar a los adolescentes hacia la delincuencia.",
+                    "example_sentence_transliteration": "La fálta de orientasión adekuáda puéde impulsár a los adoleséntes hásia la delinkuénsia.",
+                    "example_expression_translation": "impulsar hacia adelante",
+                    "example_expression_transliteration": "impulsár hásia adelánte",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1157 @@
+{
+    "position": 17,
+    "title_translation": {
+        "en": "How does social media affect relationships?",
+        "hi": "सोशल मीडिया रिश्तों को कैसे प्रभावित करता है?",
+        "es": "¿Cómo afectan las redes sociales a las relaciones?",
+        "bn": "সোশ্যাল মিডিয়া কীভাবে সম্পর্ককে প্রভাবিত করে?"
+    },
+    "content_translation": {
+        "en": "In today's fast-paced world, we are becoming **addicted** to social media. We **waste** time and energy by **scrolling** social media for hours. It has a **significant** impact on our lives and relationships. While social media helps us **connect** with others, it can also create **distance** in relationships.\n\nThrough social media, we can **interact** with others and **maintain** regular communication. It helps **strengthen** relationships by enhancing **communication**.\n\nHowever, social media can **compromise** your privacy. Someone can **track** your location, **misuse** your profile, or create **fake accounts**. In terms of relationships, it can cause misunderstandings and **interference** with privacy.",
+        "hi": "आज की तेज-तर्रार दुनिया में, हम सोशल मीडिया के प्रति **addicted** हो रहे हैं। घंटों सोशल मीडिया **scrolling** करके समय और ऊर्जा **waste** कर रहे हैं। इसका हमारे जीवन और रिश्तों पर **significant** प्रभाव पड़ता है। सोशल मीडिया जैसे हमें दूसरों से **connect** करने में मदद करता है, वैसे ही रिश्तों में **distance create** कर सकता है।\n\nसोशल मीडिया के माध्यम से हम दूसरों के साथ **interact** और नियमित संपर्क **maintain** कर सकते हैं। यह **communication** बंधन को **enhance** करके रिश्तों को **strengthen** करने में मदद करता है।\n\nहालांकि, सोशल मीडिया आपकी निजता को **compromise** कर सकता है। कोई आपका स्थान **track**, प्रोफाइल का **misuse** या **fake accounts create** कर सकता है। रिश्तों के मामले में, यह गलतफहमियों और गोपनीयता में **interference cause** कर सकता है।",
+        "es": "En el mundo acelerado de hoy, nos estamos volviendo **addicted** a las redes sociales. Estamos **waste**ando tiempo y energía haciendo **scrolling** en redes sociales durante horas. Esto tiene un impacto **significant** en nuestras vidas y relaciones. Mientras las redes sociales nos ayudan a **connect**arse con otros, también pueden crear **distance create** en las relaciones.\n\nA través de las redes sociales, podemos **interact** con otros y **maintain** comunicación regular. Ayuda a **strengthen** las relaciones al **enhance** la **communication**.\n\nSin embargo, las redes sociales pueden **compromise** tu privacidad. Alguien puede **track** tu ubicación, hacer **misuse** de tu perfil, o crear **fake accounts create**. En términos de relaciones, puede causar malentendidos e **interference cause** con la privacidad.",
+        "bn": "বর্তমান দ্রুত-গতির বিশ্বে, আমরা সোশ্যাল মিডিয়ার প্রতি **addicted** হয়ে পড়ছি। ঘণ্টার পর ঘণ্টা সোশ্যাল মিডিয়া **scrolling** করে সময় এবং শক্তি **waste** করছি। এটি আমাদের জীবন এবং সম্পর্কের ওপর **significant** প্রভাব ফেলে। সোশ্যাল মিডিয়া যেমন আমাদের **connect** করতে সাহায্য করে, তেমনই সম্পর্কের মধ্যে **distance create** করতে পারে।\n\nসোশ্যাল মিডিয়ার মাধ্যমে আমরা অন্যদের সাথে **interact** এবং নিয়মিত যোগাযোগ **maintain** করতে পারি। এটি সম্পর্ককে **strengthen** করতে সাহায্য করে কারণ **communication** বন্ধনকে **enhance** করে।\n\nতবে, সোশ্যাল মিডিয়া আপনার গোপনীয়তা **compromise** করতে পারে। কেউ আপনার অবস্থান **track**, প্রোফাইল **misuse** বা **fake accounts create** করতে পারে। সম্পর্কের ক্ষেত্রে, এটি ভুল বোঝাবুঝি এবং গোপনীয়তায় **interference cause** করতে পারে।"
+    },
+    "list": [
+        {
+            "word": "addicted",
+            "phonetic": "əˈdɪktɪd",
+            "word_native_transliteration": {
+                "bn": "অ্যাডিক্টেড",
+                "hi": "एडिक्टेड",
+                "es": "adíkted"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📱",
+            "meaning": "Having an uncontrolled compulsion to use or do something habitually.",
+            "example_sentence": "Many people are addicted to social media.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেনি পিপল আর অ্যাডিক্টেড টু সোশ্যাল মিডিয়া।",
+                "es": "méni pípl ar adíkted tu sóshial mídia.",
+                "hi": "मेनी पीपल आर एडिक्टेड टू सोशल मीडिया।"
+            },
+            "example_expression": "addicted to technology",
+            "example_expression_native_transliteration": {
+                "bn": "অ্যাডিক্টেড টু টেকনোলজি",
+                "es": "adíkted tu teknolójy",
+                "hi": "एडिक्टेड टू टेक्नोलॉजी"
+            },
+            "example_expression_meaning": "Having a compulsive dependency on technological devices or platforms.",
+            "position": 1,
+            "synonyms": "dependent, hooked, obsessed, compulsive, devoted, attached",
+            "antonyms": "detached, unaffected, indifferent, free, independent, liberated",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আসক্ত",
+                    "word_transliteration": "ashokto",
+                    "example_sentence_translation": "অনেক মানুষ সোশ্যাল মিডিয়ার প্রতি আসক্ত।",
+                    "example_sentence_transliteration": "Onek manush social media-r proti ashokto.",
+                    "example_expression_translation": "প্রযুক্তির প্রতি আসক্ত",
+                    "example_expression_transliteration": "projuktir proti ashokto",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "आदी",
+                    "word_transliteration": "aadi",
+                    "example_sentence_translation": "बहुत से लोग सोशल मीडिया के आदी हैं।",
+                    "example_sentence_transliteration": "Bahut se log social media ke aadi hain.",
+                    "example_expression_translation": "तकनीक के आदी",
+                    "example_expression_transliteration": "takneek ke aadi",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "adicto",
+                    "word_transliteration": "adíkto",
+                    "example_sentence_translation": "Muchas personas son adictas a las redes sociales.",
+                    "example_sentence_transliteration": "Múchas persónas son adíktas a las rédes sociáles.",
+                    "example_expression_translation": "adicto a la tecnología",
+                    "example_expression_transliteration": "adíkto a la teknolojía",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "scrolling",
+            "phonetic": "ˈskroʊlɪŋ",
+            "word_native_transliteration": {
+                "bn": "স্ক্রোলিং",
+                "hi": "स्क्रॉलिंग",
+                "es": "eskróling"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "👆",
+            "meaning": "Moving displayed text or graphics up or down on a computer screen to view different parts of them.",
+            "example_sentence": "Scrolling through feeds wastes a lot of time.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্ক্রোলিং থ্রু ফিডস ওয়েস্টস অ্যা লট অফ টাইম।",
+                "es": "eskróling zru fíds uésts a lot of táim.",
+                "hi": "स्क्रॉलिंग थ्रू फीड्स वेस्ट्स अ लॉट ऑफ टाइम।"
+            },
+            "example_expression": "endless scrolling",
+            "example_expression_native_transliteration": {
+                "bn": "এন্ডলেস স্ক্রোলিং",
+                "es": "éndles eskróling",
+                "hi": "एंडलेस स्क्रॉलिंग"
+            },
+            "example_expression_meaning": "Continuously browsing through content without a clear stopping point.",
+            "position": 2,
+            "synonyms": "browsing, navigating, sliding, moving, swiping, gliding",
+            "antonyms": "stopping, halting, pausing, fixing, staying, remaining",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্ক্রোল করা",
+                    "word_transliteration": "scroll kora",
+                    "example_sentence_translation": "ফিড স্ক্রোল করা অনেক সময় নষ্ট করে।",
+                    "example_sentence_transliteration": "Feed scroll kora onek shomoy noshto kore.",
+                    "example_expression_translation": "অন্তহীন স্ক্রোলিং",
+                    "example_expression_transliteration": "ontoheen scrolling",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "स्क्रॉल करना",
+                    "word_transliteration": "scroll karna",
+                    "example_sentence_translation": "फीड स्क्रॉल करना बहुत समय बर्बाद करता है।",
+                    "example_sentence_transliteration": "Feed scroll karna bahut samay barbaad karta hai.",
+                    "example_expression_translation": "अनंत स्क्रॉलिंग",
+                    "example_expression_transliteration": "anant scrolling",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "desplazarse",
+                    "word_transliteration": "desplasárse",
+                    "example_sentence_translation": "Desplazarse por los feeds desperdicia mucho tiempo.",
+                    "example_sentence_transliteration": "Desplasárse por los fíds desperdísia múcho tiémpo.",
+                    "example_expression_translation": "desplazamiento infinito",
+                    "example_expression_transliteration": "desplasamiénto infiníto",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "waste",
+            "phonetic": "weɪst",
+            "word_native_transliteration": {
+                "bn": "ওয়েস্ট",
+                "hi": "वेस्ट",
+                "es": "uéist"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⏰",
+            "meaning": "To use or expend carelessly, extravagantly, or to no purpose.",
+            "example_sentence": "Social media often leads to wasting valuable time.",
+            "example_sentence_native_transliteration": {
+                "bn": "সোশ্যাল মিডিয়া অফেন লিডস টু ওয়েস্টিং ভ্যালুয়েবল টাইম।",
+                "es": "sóshial mídia ófen líds tu uéisting váliuabl táim.",
+                "hi": "सोशल मीडिया ऑफेन लीड्स टू वेस्टिंग वैल्यूएबल टाइम।"
+            },
+            "example_expression": "waste of time",
+            "example_expression_native_transliteration": {
+                "bn": "ওয়েস্ট অফ টাইম",
+                "es": "uéist of táim",
+                "hi": "वेस्ट ऑफ टाइम"
+            },
+            "example_expression_meaning": "An activity that serves no useful purpose and consumes time unnecessarily.",
+            "position": 3,
+            "synonyms": "squander, misuse, fritter, dissipate, lose, throw away",
+            "antonyms": "save, utilize, conserve, preserve, use, employ",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অপচয় করা",
+                    "word_transliteration": "opochoy kora",
+                    "example_sentence_translation": "সোশ্যাল মিডিয়া প্রায়ই মূল্যবান সময় অপচয় করে।",
+                    "example_sentence_transliteration": "Social media prayoi mulloban shomoy opochoy kore.",
+                    "example_expression_translation": "সময়ের অপচয়",
+                    "example_expression_transliteration": "shomoyer opochoy",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "बर्बाद करना",
+                    "word_transliteration": "barbaad karna",
+                    "example_sentence_translation": "सोशल मीडिया अक्सर कीमती समय बर्बाद करता है।",
+                    "example_sentence_transliteration": "Social media aksar keemti samay barbaad karta hai.",
+                    "example_expression_translation": "समय की बर्बादी",
+                    "example_expression_transliteration": "samay ki barbaadi",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "desperdiciar",
+                    "word_transliteration": "desperdisiár",
+                    "example_sentence_translation": "Las redes sociales a menudo llevan a desperdiciar tiempo valioso.",
+                    "example_sentence_transliteration": "Las rédes sociáles a menúdo liévan a desperdisiár tiémpo valióso.",
+                    "example_expression_translation": "pérdida de tiempo",
+                    "example_expression_transliteration": "pérdida de tiémpo",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "significant",
+            "phonetic": "sɪɡˈnɪfɪkənt",
+            "word_native_transliteration": {
+                "bn": "সিগনিফিক্যান্ট",
+                "hi": "सिग्निफिकेंट",
+                "es": "signifikánt"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📊",
+            "meaning": "Sufficiently great or important to be worthy of attention; noteworthy.",
+            "example_sentence": "Social media has a significant impact on relationships.",
+            "example_sentence_native_transliteration": {
+                "bn": "সোশ্যাল মিডিয়া হ্যাজ অ্যা সিগনিফিক্যান্ট ইমপ্যাক্ট অন রিলেশনশিপস।",
+                "es": "sóshial mídia jas a signifikánt impákt on releishshíps.",
+                "hi": "सोशल मीडिया हैज अ सिग्निफिकेंट इंपैक्ट ऑन रिलेशनशिप्स।"
+            },
+            "example_expression": "significant change",
+            "example_expression_native_transliteration": {
+                "bn": "সিগনিফিক্যান্ট চেঞ্জ",
+                "es": "signifikánt chéinj",
+                "hi": "सिग्निफिकेंट चेंज"
+            },
+            "example_expression_meaning": "A notable or important alteration that has meaningful impact.",
+            "position": 4,
+            "synonyms": "important, notable, considerable, substantial, meaningful, major",
+            "antonyms": "insignificant, trivial, minor, negligible, unimportant, small",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উল্লেখযোগ্য",
+                    "word_transliteration": "ullekhjoggo",
+                    "example_sentence_translation": "সোশ্যাল মিডিয়ার সম্পর্কের ওপর উল্লেখযোগ্য প্রভাব রয়েছে।",
+                    "example_sentence_transliteration": "Social media-r somporkher opor ullekhjoggo prabhab royeche.",
+                    "example_expression_translation": "উল্লেখযোগ্য পরিবর্তন",
+                    "example_expression_transliteration": "ullekhjoggo poriborton",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "महत्वपूर्ण",
+                    "word_transliteration": "mahattvapurn",
+                    "example_sentence_translation": "सोशल मीडिया का रिश्तों पर महत्वपूर्ण प्रभाव है।",
+                    "example_sentence_transliteration": "Social media ka rishton par mahattvapurn prabhav hai.",
+                    "example_expression_translation": "महत्वपूर्ण बदलाव",
+                    "example_expression_transliteration": "mahattvapurn badlaav",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "significativo",
+                    "word_transliteration": "signifikatívo",
+                    "example_sentence_translation": "Las redes sociales tienen un impacto significativo en las relaciones.",
+                    "example_sentence_transliteration": "Las rédes sociáles tiénen un impákto signifikatívo en las relasioneés.",
+                    "example_expression_translation": "cambio significativo",
+                    "example_expression_transliteration": "kámbio signifikatívo",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "connect",
+            "phonetic": "kəˈnɛkt",
+            "word_native_transliteration": {
+                "bn": "কানেক্ট",
+                "hi": "कनेक्ट",
+                "es": "konékt"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔗",
+            "meaning": "To bring together or into contact so that a real or notional link is established.",
+            "example_sentence": "Social media helps us connect with others.",
+            "example_sentence_native_transliteration": {
+                "bn": "সোশ্যাল মিডিয়া হেল্পস আস কানেক্ট উইথ আদার্স।",
+                "es": "sóshial mídia jelps as konékt uiz ádars.",
+                "hi": "सोशल मीडिया हेल्प्स अस कनेक्ट विथ अदर्स।"
+            },
+            "example_expression": "connect with friends",
+            "example_expression_native_transliteration": {
+                "bn": "কানেক্ট উইথ ফ্রেন্ডস",
+                "es": "konékt uiz fréns",
+                "hi": "कनेक्ट विथ फ्रेंड्स"
+            },
+            "example_expression_meaning": "To establish communication or relationship with friends.",
+            "position": 5,
+            "synonyms": "link, join, unite, attach, bond, relate",
+            "antonyms": "disconnect, separate, detach, isolate, divide, sever",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংযুক্ত করা",
+                    "word_transliteration": "songjukto kora",
+                    "example_sentence_translation": "সোশ্যাল মিডিয়া আমাদের অন্যদের সাথে সংযুক্ত হতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Social media amader onnoeder sathe songjukto hote shahayjo kore.",
+                    "example_expression_translation": "বন্ধুদের সাথে সংযোগ",
+                    "example_expression_transliteration": "bondhuer sathe songjog",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "जोड़ना",
+                    "word_transliteration": "jodna",
+                    "example_sentence_translation": "सोशल मीडिया हमें दूसरों से जुड़ने में मदद करता है।",
+                    "example_sentence_transliteration": "Social media hamein doosron se judne mein madad karta hai.",
+                    "example_expression_translation": "दोस्तों से जुड़ना",
+                    "example_expression_transliteration": "doston se judna",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "conectar",
+                    "word_transliteration": "konektár",
+                    "example_sentence_translation": "Las redes sociales nos ayudan a conectar con otros.",
+                    "example_sentence_transliteration": "Las rédes sociáles nos ayúdan a konektár kon ótros.",
+                    "example_expression_translation": "conectar con amigos",
+                    "example_expression_transliteration": "konektár kon amígos",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "distance",
+            "phonetic": "ˈdɪstəns",
+            "word_native_transliteration": {
+                "bn": "ডিস্ট্যান্স",
+                "hi": "डिस्टेंस",
+                "es": "dístans"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📏",
+            "meaning": "The length of space between two points or the state of being apart in space or time.",
+            "example_sentence": "Social media can create distance in relationships.",
+            "example_sentence_native_transliteration": {
+                "bn": "সোশ্যাল মিডিয়া ক্যান ক্রিয়েট ডিস্ট্যান্স ইন রিলেশনশিপস।",
+                "es": "sóshial mídia kan kriét dístans in releishshíps.",
+                "hi": "सोशल मीडिया कैन क्रिएट डिस्टेंस इन रिलेशनशिप्स।"
+            },
+            "example_expression": "emotional distance",
+            "example_expression_native_transliteration": {
+                "bn": "ইমোশনাল ডিস্ট্যান্স",
+                "es": "emoshonál dístans",
+                "hi": "इमोशनल डिस्टेंस"
+            },
+            "example_expression_meaning": "A lack of emotional connection or intimacy between people.",
+            "position": 6,
+            "synonyms": "gap, space, separation, interval, remoteness, detachment",
+            "antonyms": "closeness, proximity, nearness, intimacy, connection, togetherness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দূরত্ব",
+                    "word_transliteration": "durotvo",
+                    "example_sentence_translation": "সোশ্যাল মিডিয়া সম্পর্কে দূরত্ব তৈরি করতে পারে।",
+                    "example_sentence_transliteration": "Social media somporkhe durotvo toiri korte pare.",
+                    "example_expression_translation": "আবেগীয় দূরত্ব",
+                    "example_expression_transliteration": "abegiyo durotvo",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "दूरी",
+                    "word_transliteration": "doori",
+                    "example_sentence_translation": "सोशल मीडिया रिश्तों में दूरी बना सकता है।",
+                    "example_sentence_transliteration": "Social media rishton mein doori bana sakta hai.",
+                    "example_expression_translation": "भावनात्मक दूरी",
+                    "example_expression_transliteration": "bhaanatmak doori",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "distancia",
+                    "word_transliteration": "distánsia",
+                    "example_sentence_translation": "Las redes sociales pueden crear distancia en las relaciones.",
+                    "example_sentence_transliteration": "Las rédes sociáles puéden kreár distánsia en las relasioneés.",
+                    "example_expression_translation": "distancia emocional",
+                    "example_expression_transliteration": "distánsia emosionál",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "interact",
+            "phonetic": "ˌɪntərˈækt",
+            "word_native_transliteration": {
+                "bn": "ইন্টারঅ্যাক্ট",
+                "hi": "इंटरैक्ट",
+                "es": "interákt"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "👥",
+            "meaning": "To communicate or be involved directly with someone or something.",
+            "example_sentence": "Social media allows us to interact with people worldwide.",
+            "example_sentence_native_transliteration": {
+                "bn": "সোশ্যাল মিডিয়া অ্যালাউজ আস টু ইন্টারঅ্যাক্ট উইথ পিপল ওয়ার্ল্ডওয়াইড।",
+                "es": "sóshial mídia aláus as tu interákt uiz pípl uórluáid.",
+                "hi": "सोशल मीडिया अलाउज़ अस टू इंटरैक्ट विथ पीपल वर्ल्डवाइड।"
+            },
+            "example_expression": "interact online",
+            "example_expression_native_transliteration": {
+                "bn": "ইন্টারঅ্যাক্ট অনলাইন",
+                "es": "interákt onláin",
+                "hi": "इंटरैक्ट ऑनलाइन"
+            },
+            "example_expression_meaning": "To communicate or engage with others through internet platforms.",
+            "position": 7,
+            "synonyms": "communicate, engage, socialize, connect, converse, participate",
+            "antonyms": "isolate, withdraw, ignore, avoid, disconnect, separate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মিথস্ক্রিয়া করা",
+                    "word_transliteration": "mithoskriya kora",
+                    "example_sentence_translation": "সোশ্যাল মিডিয়া আমাদের বিশ্বব্যাপী মানুষের সাথে মিথস্ক্রিয়া করার সুযোগ দেয়।",
+                    "example_sentence_transliteration": "Social media amader bisshobapi manusher sathe mithoskriya korar sujog dey.",
+                    "example_expression_translation": "অনলাইনে মিথস্ক্রিয়া",
+                    "example_expression_transliteration": "online-e mithoskriya",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "बातचीत करना",
+                    "word_transliteration": "baatchit karna",
+                    "example_sentence_translation": "सोशल मीडिया हमें दुनिया भर के लोगों से बातचीत करने की अनुमति देता है।",
+                    "example_sentence_transliteration": "Social media hamein duniya bhar ke logon se baatchit karne ki anumati deta hai.",
+                    "example_expression_translation": "ऑनलाइन बातचीत",
+                    "example_expression_transliteration": "online baatchit",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "interactuar",
+                    "word_transliteration": "interaktuár",
+                    "example_sentence_translation": "Las redes sociales nos permiten interactuar con personas de todo el mundo.",
+                    "example_sentence_transliteration": "Las rédes sociáles nos permitén interaktuár kon persónas de tódo el múndo.",
+                    "example_expression_translation": "interactuar en línea",
+                    "example_expression_transliteration": "interaktuár en línea",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "maintain",
+            "phonetic": "meɪnˈteɪn",
+            "word_native_transliteration": {
+                "bn": "মেইনটেইন",
+                "hi": "मेंटेन",
+                "es": "maintéin"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔧",
+            "meaning": "To keep something in existence or continuance; to preserve or retain.",
+            "example_sentence": "We can maintain regular communication through social media.",
+            "example_sentence_native_transliteration": {
+                "bn": "উই ক্যান মেইনটেইন রেগুলার কমিউনিকেশন থ্রু সোশ্যাল মিডিয়া।",
+                "es": "ui kan maintéin reguiulár komiuunikéishon zru sóshial mídia.",
+                "hi": "वी कैन मेंटेन रेगुलर कम्युनिकेशन थ्रू सोशल मीडिया।"
+            },
+            "example_expression": "maintain relationships",
+            "example_expression_native_transliteration": {
+                "bn": "মেইনটেইন রিলেশনশিপস",
+                "es": "maintéin releishshíps",
+                "hi": "मेंटेन रिलेशनशिप्स"
+            },
+            "example_expression_meaning": "To keep relationships active and healthy over time.",
+            "position": 8,
+            "synonyms": "preserve, sustain, keep, uphold, continue, retain",
+            "antonyms": "abandon, neglect, discontinue, destroy, end, cease",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বজায় রাখা",
+                    "word_transliteration": "bojay rakha",
+                    "example_sentence_translation": "আমরা সোশ্যাল মিডিয়ার মাধ্যমে নিয়মিত যোগাযোগ বজায় রাখতে পারি।",
+                    "example_sentence_transliteration": "Amra social media-r madhome niyomito jogajog bojay rakhte pari.",
+                    "example_expression_translation": "সম্পর্ক বজায় রাখা",
+                    "example_expression_transliteration": "sompork bojay rakha",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "बनाए रखना",
+                    "word_transliteration": "banaye rakhna",
+                    "example_sentence_translation": "हम सोशल मीडिया के माध्यम से नियमित संपर्क बनाए रख सकते हैं।",
+                    "example_sentence_transliteration": "Ham social media ke madhyam se niyamit sampark banaye rakh sakte hain.",
+                    "example_expression_translation": "रिश्ते बनाए रखना",
+                    "example_expression_transliteration": "rishte banaye rakhna",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "mantener",
+                    "word_transliteration": "mantenér",
+                    "example_sentence_translation": "Podemos mantener comunicación regular a través de las redes sociales.",
+                    "example_sentence_transliteration": "Podémos mantenér komunikasión regulár a travéz de las rédes sociáles.",
+                    "example_expression_translation": "mantener relaciones",
+                    "example_expression_transliteration": "mantenér relasioneés",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "strengthen",
+            "phonetic": "ˈstrɛŋkθən",
+            "word_native_transliteration": {
+                "bn": "স্ট্রেংদেন",
+                "hi": "स्ट्रेंगथन",
+                "es": "stréngthen"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "💪",
+            "meaning": "To make or become stronger in power, resolve, or physical strength.",
+            "example_sentence": "Communication can strengthen bonds between people.",
+            "example_sentence_native_transliteration": {
+                "bn": "কমিউনিকেশন ক্যান স্ট্রেংদেন বন্ডস বিটুইন পিপল।",
+                "es": "komiuunikéishon kan stréngthen bonds bituín pípl.",
+                "hi": "कम्युनिकेशन कैन स्ट्रेंगथन बॉन्ड्स बिट्वीन पीपल।"
+            },
+            "example_expression": "strengthen friendship",
+            "example_expression_native_transliteration": {
+                "bn": "স্ট্রেংদেন ফ্রেন্ডশিপ",
+                "es": "stréngthen fréndship",
+                "hi": "स्ट्रेंगथन फ्रेंडशिप"
+            },
+            "example_expression_meaning": "To make a friendship more solid and enduring.",
+            "position": 9,
+            "synonyms": "reinforce, fortify, enhance, bolster, consolidate, intensify",
+            "antonyms": "weaken, undermine, diminish, reduce, impair, damage",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শক্তিশালী করা",
+                    "word_transliteration": "shoktishali kora",
+                    "example_sentence_translation": "যোগাযোগ মানুষের মধ্যে বন্ধনকে শক্তিশালী করতে পারে।",
+                    "example_sentence_transliteration": "Jogajog manusher modhhe bondhonke shoktishali korte pare.",
+                    "example_expression_translation": "বন্ধুত্ব শক্তিশালী করা",
+                    "example_expression_transliteration": "bondhutto shoktishali kora",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "मजबूत करना",
+                    "word_transliteration": "majboot karna",
+                    "example_sentence_translation": "संवाद लोगों के बीच रिश्तों को मजबूत कर सकता है।",
+                    "example_sentence_transliteration": "Samvaad logon ke beech rishton ko majboot kar sakta hai.",
+                    "example_expression_translation": "दोस्ती मजबूत करना",
+                    "example_expression_transliteration": "dosti majboot karna",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "fortalecer",
+                    "word_transliteration": "fortalesér",
+                    "example_sentence_translation": "La comunicación puede fortalecer los vínculos entre las personas.",
+                    "example_sentence_transliteration": "La komunikasión puéde fortalesér los vínkulos éntre las persónas.",
+                    "example_expression_translation": "fortalecer la amistad",
+                    "example_expression_transliteration": "fortalesér la amistád",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "communication",
+            "phonetic": "kəˌmjuːnɪˈkeɪʃən",
+            "word_native_transliteration": {
+                "bn": "কমিউনিকেশন",
+                "hi": "कम्युनिकेशन",
+                "es": "komiuunikéishon"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💬",
+            "meaning": "The imparting or exchanging of information or ideas.",
+            "example_sentence": "Good communication enhances relationships.",
+            "example_sentence_native_transliteration": {
+                "bn": "গুড কমিউনিকেশন এনহান্সেস রিলেশনশিপস।",
+                "es": "gud komiuunikéishon enjánses releishshíps.",
+                "hi": "गुड कम्युनिकेशन एन्हांसेस रिलेशनशिप्स।"
+            },
+            "example_expression": "effective communication",
+            "example_expression_native_transliteration": {
+                "bn": "এফেক্টিভ কমিউনিকেশন",
+                "es": "eféktiv komiuunikéishon",
+                "hi": "इफेक्टिव कम्युनिकेशन"
+            },
+            "example_expression_meaning": "Clear and successful exchange of information that achieves its intended purpose.",
+            "position": 10,
+            "synonyms": "interaction, dialogue, correspondence, contact, exchange, discussion",
+            "antonyms": "silence, isolation, miscommunication, disconnect, separation, withdrawal",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "যোগাযোগ",
+                    "word_transliteration": "jogajog",
+                    "example_sentence_translation": "ভালো যোগাযোগ সম্পর্কউন্নত করে।",
+                    "example_sentence_transliteration": "Bhalo jogajog somporkke unnoto kore.",
+                    "example_expression_translation": "কার্যকর যোগাযোগ",
+                    "example_expression_transliteration": "karjokori jogajog",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "संचार",
+                    "word_transliteration": "sanchaar",
+                    "example_sentence_translation": "अच्छा संचार रिश्तों को बेहतर बनाता है।",
+                    "example_sentence_transliteration": "Accha sanchaar rishton ko behtar banata hai.",
+                    "example_expression_translation": "प्रभावी संचार",
+                    "example_expression_transliteration": "prabhaavi sanchaar",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "comunicación",
+                    "word_transliteration": "komunikasión",
+                    "example_sentence_translation": "La buena comunicación mejora las relaciones.",
+                    "example_sentence_transliteration": "La buéna komunikasión mejóra las relasioneés.",
+                    "example_expression_translation": "comunicación efectiva",
+                    "example_expression_transliteration": "komunikasión efektíva",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "enhance",
+            "phonetic": "ɪnˈhæns",
+            "word_native_transliteration": {
+                "bn": "এনহান্স",
+                "hi": "एन्हांस",
+                "es": "enjáns"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⬆️",
+            "meaning": "To improve the quality, amount, or strength of something.",
+            "example_sentence": "Technology can enhance our daily lives.",
+            "example_sentence_native_transliteration": {
+                "bn": "টেকনোলজি ক্যান এনহান্স আওয়ার ডেইলি লাইভস।",
+                "es": "teknolójy kan enjáns áuar déili láivs.",
+                "hi": "टेक्नोलॉजी कैन एन्हांस आवर डेली लाइव्स।"
+            },
+            "example_expression": "enhance performance",
+            "example_expression_native_transliteration": {
+                "bn": "এনহান্স পারফরমেন্স",
+                "es": "enjáns perfórmans",
+                "hi": "एन्हांस परफॉर्मेंस"
+            },
+            "example_expression_meaning": "To improve the effectiveness or quality of how something works.",
+            "position": 11,
+            "synonyms": "improve, boost, augment, amplify, elevate, upgrade",
+            "antonyms": "diminish, reduce, weaken, impair, worsen, degrade",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উন্নত করা",
+                    "word_transliteration": "unnoto kora",
+                    "example_sentence_translation": "প্রযুক্তি আমাদের দৈনন্দিন জীবনকে উন্নত করতে পারে।",
+                    "example_sentence_transliteration": "Projukti amader doinondin jibonke unnoto korte pare.",
+                    "example_expression_translation": "কর্মক্ষমতা উন্নত করা",
+                    "example_expression_transliteration": "kormokkhomota unnoto kora",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "बढ़ाना",
+                    "word_transliteration": "badhana",
+                    "example_sentence_translation": "तकनीक हमारे दैनिक जीवन को बेहतर बना सकती है।",
+                    "example_sentence_transliteration": "Takneek hamaare dailik jeevan ko behtar bana sakti hai.",
+                    "example_expression_translation": "प्रदर्शन बढ़ाना",
+                    "example_expression_transliteration": "pradarshan badhana",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "mejorar",
+                    "word_transliteration": "mejorár",
+                    "example_sentence_translation": "La tecnología puede mejorar nuestras vidas diarias.",
+                    "example_sentence_transliteration": "La teknolójía puéde mejorár nuéstras vídas diárias.",
+                    "example_expression_translation": "mejorar el rendimiento",
+                    "example_expression_transliteration": "mejorár el rendimiénto",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "compromise",
+            "phonetic": "ˈkɒmprəmaɪz",
+            "word_native_transliteration": {
+                "bn": "কমপ্রোমাইজ",
+                "hi": "कॉम्प्रोमाइज",
+                "es": "kómpromaiz"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⚖️",
+            "meaning": "To expose to danger, suspicion, or disrepute by reckless behavior.",
+            "example_sentence": "Excessive sharing can compromise your privacy.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সেসিভ শেয়ারিং ক্যান কমপ্রোমাইজ ইয়োর প্রাইভেসি।",
+                "es": "eksésiv shéaring kan kómpromaiz yór práivesi.",
+                "hi": "एक्सेसिव शेयरिंग कैन कॉम्प्रोमाइज यॉर प्राइवेसी।"
+            },
+            "example_expression": "compromise security",
+            "example_expression_native_transliteration": {
+                "bn": "কমপ্রোমাইজ সিকিউরিটি",
+                "es": "kómpromaiz sekiúriti",
+                "hi": "कॉम्प्रोमाइज सिक्यूरिटी"
+            },
+            "example_expression_meaning": "To put safety measures at risk or make them less effective.",
+            "position": 12,
+            "synonyms": "endanger, jeopardize, threaten, expose, weaken, undermine",
+            "antonyms": "secure, protect, safeguard, strengthen, defend, preserve",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্ষতিগ্রস্ত করা",
+                    "word_transliteration": "khotigrosto kora",
+                    "example_sentence_translation": "অতিরিক্ত শেয়ারিং আপনার গোপনীয়তাকে ক্ষতিগ্রস্ত করতে পারে।",
+                    "example_sentence_transliteration": "Otirikto sharing apnar goponiytake khotigrosto korte pare.",
+                    "example_expression_translation": "নিরাপত্তা ক্ষতিগ্রস্ত করা",
+                    "example_expression_transliteration": "nirpotta khotigrosto kora",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "समझौता करना",
+                    "word_transliteration": "samjhauta karna",
+                    "example_sentence_translation": "अत्यधिक साझाकरण आपकी निजता से समझौता कर सकता है।",
+                    "example_sentence_transliteration": "Atyadhik sajhakaran aapki nijta se samjhauta kar sakta hai.",
+                    "example_expression_translation": "सुरक्षा से समझौता",
+                    "example_expression_transliteration": "suraksha se samjhauta",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "comprometer",
+                    "word_transliteration": "komprometeér",
+                    "example_sentence_translation": "Compartir en exceso puede comprometer tu privacidad.",
+                    "example_sentence_transliteration": "Kompartír en eksésso puéde komprometeér tu privacidád.",
+                    "example_expression_translation": "comprometer la seguridad",
+                    "example_expression_transliteration": "komprometeér la seguridád",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "track",
+            "phonetic": "træk",
+            "word_native_transliteration": {
+                "bn": "ট্র্যাক",
+                "hi": "ट्रैक",
+                "es": "trak"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📍",
+            "meaning": "To follow and monitor the course or progress of someone or something.",
+            "example_sentence": "Someone can easily track your location on social media.",
+            "example_sentence_native_transliteration": {
+                "bn": "সমওয়ান ক্যান ইজিলি ট্র্যাক ইয়োর লোকেশন অন সোশ্যাল মিডিয়া।",
+                "es": "sámuan kan ísili trak yór lokéishon on sóshial mídia.",
+                "hi": "समवन कैन ईजिली ट्रैक यॉर लोकेशन ऑन सोशल मीडिया।"
+            },
+            "example_expression": "track activities",
+            "example_expression_native_transliteration": {
+                "bn": "ট্র্যাক অ্যাক্টিভিটিজ",
+                "es": "trak aktívitis",
+                "hi": "ट्रैक एक्टिविटीज"
+            },
+            "example_expression_meaning": "To monitor and record what someone does or their behaviors.",
+            "position": 13,
+            "synonyms": "follow, monitor, trace, pursue, observe, watch",
+            "antonyms": "ignore, miss, lose, overlook, abandon, neglect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনুসরণ করা",
+                    "word_transliteration": "onushoron kora",
+                    "example_sentence_translation": "কেউ সহজেই সোশ্যাল মিডিয়ায় আপনার অবস্থান অনুসরণ করতে পারে।",
+                    "example_sentence_transliteration": "Keu shohjei social media-y apnar obosthan onushoron korte pare.",
+                    "example_expression_translation": "কার্যকলাপ অনুসরণ",
+                    "example_expression_transliteration": "karjokälap onushoron",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "ट्रैक करना",
+                    "word_transliteration": "track karna",
+                    "example_sentence_translation": "कोई भी आसानी से सोशल मीडिया पर आपकी स्थिति को ट्रैक कर सकता है।",
+                    "example_sentence_transliteration": "Koi bhi aasani se social media par aapki sthiti ko track kar sakta hai.",
+                    "example_expression_translation": "गतिविधियों को ट्रैक करना",
+                    "example_expression_transliteration": "gatividhiyon ko track karna",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "rastrear",
+                    "word_transliteration": "rastreár",
+                    "example_sentence_translation": "Alguien puede rastrear fácilmente tu ubicación en las redes sociales.",
+                    "example_sentence_transliteration": "Álguien puéde rastreár fásilménte tu ubikasión en las rédes sociáles.",
+                    "example_expression_translation": "rastrear actividades",
+                    "example_expression_transliteration": "rastreár aktivídades",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "misuse",
+            "phonetic": "ˌmɪsˈjuːz",
+            "word_native_transliteration": {
+                "bn": "মিসইউজ",
+                "hi": "मिसयूज",
+                "es": "misyús"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⚠️",
+            "meaning": "To use something incorrectly or for the wrong purpose.",
+            "example_sentence": "Misusing social media profiles can harm relationships.",
+            "example_sentence_native_transliteration": {
+                "bn": "মিসইউজিং সোশ্যাল মিডিয়া প্রোফাইলস ক্যান হার্ম রিলেশনশিপস।",
+                "es": "misyúsing sóshial mídia prófails kan jarm releishshíps.",
+                "hi": "मिसयूजिंग सोशल मीडिया प्रोफाइल्स कैन हार्म रिलेशनशिप्स।"
+            },
+            "example_expression": "misuse of power",
+            "example_expression_native_transliteration": {
+                "bn": "মিসইউজ অফ পাওয়ার",
+                "es": "misyús of páuer",
+                "hi": "मिसयूज ऑफ पावर"
+            },
+            "example_expression_meaning": "Using authority or influence in an inappropriate or corrupt way.",
+            "position": 14,
+            "synonyms": "abuse, mishandle, exploit, pervert, corrupt, misapply",
+            "antonyms": "use properly, respect, handle correctly, utilize well, employ right, apply properly",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অপব্যবহার করা",
+                    "word_transliteration": "opobebohar kora",
+                    "example_sentence_translation": "সোশ্যাল মিডিয়া প্রোফাইলের অপব্যবহার সম্পর্কের ক্ষতি করতে পারে।",
+                    "example_sentence_transliteration": "Social media profile-er opobebohar somporkher khoti korte pare.",
+                    "example_expression_translation": "ক্ষমতার অপব্যবহার",
+                    "example_expression_transliteration": "kkhomatar opobebohar",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "दुरुपयोग करना",
+                    "word_transliteration": "durupyog karna",
+                    "example_sentence_translation": "सोशल मीडिया प्रोफाइल का दुरुपयोग रिश्तों को नुकसान पहुंचा सकता है।",
+                    "example_sentence_transliteration": "Social media profile ka durupyog rishton ko nuksan pahuncha sakta hai.",
+                    "example_expression_translation": "शक्ति का दुरुपयोग",
+                    "example_expression_transliteration": "shakti ka durupyog",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "abusar",
+                    "word_transliteration": "abusár",
+                    "example_sentence_translation": "Abusar de los perfiles de redes sociales puede dañar las relaciones.",
+                    "example_sentence_transliteration": "Abusár de los perfíles de rédes sociáles puéde dañár las relasioneés.",
+                    "example_expression_translation": "abuso de poder",
+                    "example_expression_transliteration": "abúso de podér",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fake",
+            "phonetic": "feɪk",
+            "word_native_transliteration": {
+                "bn": "ফেইক",
+                "hi": "फेक",
+                "es": "féik"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎭",
+            "meaning": "Not genuine; counterfeit or fraudulent.",
+            "example_sentence": "Fake accounts create problems on social media.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফেইক অ্যাকাউন্টস ক্রিয়েট প্রব্লেমস অন সোশ্যাল মিডিয়া।",
+                "es": "féik akáunts kriét próblems on sóshial mídia.",
+                "hi": "फेक अकाउंट्स क्रिएट प्रॉब्लेम्स ऑन सोशल मीडिया।"
+            },
+            "example_expression": "fake news",
+            "example_expression_native_transliteration": {
+                "bn": "ফেইক নিউজ",
+                "es": "féik nyús",
+                "hi": "फेक न्यूज"
+            },
+            "example_expression_meaning": "False or misleading information presented as legitimate news.",
+            "position": 15,
+            "synonyms": "false, counterfeit, fraudulent, bogus, artificial, phony",
+            "antonyms": "genuine, real, authentic, legitimate, true, original",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নকল",
+                    "word_transliteration": "nokol",
+                    "example_sentence_translation": "নকল অ্যাকাউন্ট সোশ্যাল মিডিয়ায় সমস্যা তৈরি করে।",
+                    "example_sentence_transliteration": "Nokol account social media-y shomoshya toiri kore.",
+                    "example_expression_translation": "মিথ্যা খবর",
+                    "example_expression_transliteration": "mithya khobor",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "नकली",
+                    "word_transliteration": "nakli",
+                    "example_sentence_translation": "नकली खाते सोशल मीडिया पर समस्याएं पैदा करते हैं।",
+                    "example_sentence_transliteration": "Nakli khate social media par samasyayen paida karte hain.",
+                    "example_expression_translation": "झूठी खबर",
+                    "example_expression_transliteration": "jhoothi khabar",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "falso",
+                    "word_transliteration": "fálso",
+                    "example_sentence_translation": "Las cuentas falsas crean problemas en las redes sociales.",
+                    "example_sentence_transliteration": "Las kuéntas fálsas kréan problémas en las rédes sociáles.",
+                    "example_expression_translation": "noticias falsas",
+                    "example_expression_transliteration": "notísias fálsas",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "create",
+            "phonetic": "kriˈeɪt",
+            "word_native_transliteration": {
+                "bn": "ক্রিয়েট",
+                "hi": "क्रिएट",
+                "es": "kriét"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "✨",
+            "meaning": "To bring something into existence; to cause something to happen.",
+            "example_sentence": "Social media can create distance between people.",
+            "example_sentence_native_transliteration": {
+                "bn": "সোশ্যাল মিডিয়া ক্যান ক্রিয়েট ডিস্ট্যান্স বিটুইন পিপল।",
+                "es": "sóshial mídia kan kriét dístans bituín pípl.",
+                "hi": "सोशल मीडिया कैन क्रिएट डिस्टेंस बिट्वीन पीपल।"
+            },
+            "example_expression": "create opportunities",
+            "example_expression_native_transliteration": {
+                "bn": "ক্রিয়েট অপরচুনিটিজ",
+                "es": "kriét oportúnitis",
+                "hi": "क्रिएट अपॉर्चुनिटीज"
+            },
+            "example_expression_meaning": "To make new chances or possibilities available.",
+            "position": 16,
+            "synonyms": "make, produce, generate, form, establish, build",
+            "antonyms": "destroy, eliminate, remove, demolish, end, dissolve",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সৃষ্টি করা",
+                    "word_transliteration": "srishti kora",
+                    "example_sentence_translation": "সোশ্যাল মিডিয়া মানুষের মধ্যে দূরত্ব সৃষ্টি করতে পারে।",
+                    "example_sentence_transliteration": "Social media manusher modhhe durotvo srishti korte pare.",
+                    "example_expression_translation": "সুযোগ সৃষ্টি করা",
+                    "example_expression_transliteration": "sujog srishti kora",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "बनाना",
+                    "word_transliteration": "banana",
+                    "example_sentence_translation": "सोशल मीडिया लोगों के बीच दूरी बना सकता है।",
+                    "example_sentence_transliteration": "Social media logon ke beech doori bana sakta hai.",
+                    "example_expression_translation": "अवसर बनाना",
+                    "example_expression_transliteration": "avasar banana",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "crear",
+                    "word_transliteration": "kreár",
+                    "example_sentence_translation": "Las redes sociales pueden crear distancia entre las personas.",
+                    "example_sentence_transliteration": "Las rédes sociáles puéden kreár distánsia éntre las persónas.",
+                    "example_expression_translation": "crear oportunidades",
+                    "example_expression_transliteration": "kreár oportunídades",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "accounts",
+            "phonetic": "əˈkaʊnts",
+            "word_native_transliteration": {
+                "bn": "অ্যাকাউন্টস",
+                "hi": "अकाउंट्स",
+                "es": "akáunts"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👤",
+            "meaning": "User profiles or records of personal information on digital platforms.",
+            "example_sentence": "Many people have multiple social media accounts.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেনি পিপল হ্যাভ মাল্টিপল সোশ্যাল মিডিয়া অ্যাকাউন্টস।",
+                "es": "méni pípl jav máltipl sóshial mídia akáunts.",
+                "hi": "मेनी पीपल हैव मल्टिपल सोशल मीडिया अकाउंट्स।"
+            },
+            "example_expression": "user accounts",
+            "example_expression_native_transliteration": {
+                "bn": "ইউজার অ্যাকাউন্টস",
+                "es": "yúser akáunts",
+                "hi": "यूजर अकाउंट्स"
+            },
+            "example_expression_meaning": "Individual profiles belonging to people who use a service or platform.",
+            "position": 17,
+            "synonyms": "profiles, records, registrations, memberships, identities, logins",
+            "antonyms": "deletions, closures, terminations, removals, cancellations, deactivations",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অ্যাকাউন্ট",
+                    "word_transliteration": "account",
+                    "example_sentence_translation": "অনেক মানুষের একাধিক সোশ্যাল মিডিয়া অ্যাকাউন্ট আছে।",
+                    "example_sentence_transliteration": "Onek manusher ekädhik social media account ache.",
+                    "example_expression_translation": "ব্যবহারকারী অ্যাকাউন্ট",
+                    "example_expression_transliteration": "beboharkari account",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "खाते",
+                    "word_transliteration": "khate",
+                    "example_sentence_translation": "बहुत से लोगों के पास कई सोशल मीडिया खाते हैं।",
+                    "example_sentence_transliteration": "Bahut se logon ke paas kai social media khate hain.",
+                    "example_expression_translation": "उपयोगकर्ता खाते",
+                    "example_expression_transliteration": "upyogkarta khate",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "cuentas",
+                    "word_transliteration": "kuéntas",
+                    "example_sentence_translation": "Muchas personas tienen múltiples cuentas de redes sociales.",
+                    "example_sentence_transliteration": "Múchas persónas tiénen múltiples kuéntas de rédes sociáles.",
+                    "example_expression_translation": "cuentas de usuario",
+                    "example_expression_transliteration": "kuéntas de usuário",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "interference",
+            "phonetic": "ˌɪntərˈfɪrəns",
+            "word_native_transliteration": {
+                "bn": "ইন্টারফেরেন্স",
+                "hi": "इंटरफेरेंस",
+                "es": "interfereéns"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚫",
+            "meaning": "The action of interfering or the process of intervening in someone else's affairs.",
+            "example_sentence": "Social media can cause interference in personal relationships.",
+            "example_sentence_native_transliteration": {
+                "bn": "সোশ্যাল মিডিয়া ক্যান কজ ইন্টারফেরেন্স ইন পার্সোনাল রিলেশনশিপস।",
+                "es": "sóshial mídia kan kós interfereéns in personál releishshíps.",
+                "hi": "सोशल मीडिया कैन कॉज इंटरफेरेंस इन पर्सनल रिलेशनशिप्स।"
+            },
+            "example_expression": "external interference",
+            "example_expression_native_transliteration": {
+                "bn": "এক্সটার্নাল ইন্টারফেরেন্স",
+                "es": "eksternál interfereéns",
+                "hi": "एक्सटर्नल इंटरफेरेंस"
+            },
+            "example_expression_meaning": "Unwanted involvement or disruption from outside sources.",
+            "position": 18,
+            "synonyms": "obstruction, disruption, intrusion, meddling, intervention, disturbance",
+            "antonyms": "support, assistance, cooperation, harmony, peace, non-interference",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "হস্তক্ষেপ",
+                    "word_transliteration": "hostokhep",
+                    "example_sentence_translation": "সোশ্যাল মিডিয়া ব্যক্তিগত সম্পর্কে হস্তক্ষেপ সৃষ্টি করতে পারে।",
+                    "example_sentence_transliteration": "Social media bektigoto somporkhe hostokhep srishti korte pare.",
+                    "example_expression_translation": "বাহ্যিক হস্তক্ষেপ",
+                    "example_expression_transliteration": "bahyik hostokhep",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "हस्तक्षेप",
+                    "word_transliteration": "hastakshep",
+                    "example_sentence_translation": "सोशल मीडिया व्यक्तिगत रिश्तों में हस्तक्षेप का कारण बन सकता है।",
+                    "example_sentence_transliteration": "Social media vyaktigat rishton mein hastakshep ka karan ban sakta hai.",
+                    "example_expression_translation": "बाहरी हस्तक्षेप",
+                    "example_expression_transliteration": "bahri hastakshep",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "interferencia",
+                    "word_transliteration": "interferénsia",
+                    "example_sentence_translation": "Las redes sociales pueden causar interferencia en las relaciones personales.",
+                    "example_sentence_transliteration": "Las rédes sociáles puéden kausár interferénsia en las relasioneés personáles.",
+                    "example_expression_translation": "interferencia externa",
+                    "example_expression_transliteration": "interferénsia eksterna",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cause",
+            "phonetic": "kɔːz",
+            "word_native_transliteration": {
+                "bn": "কজ",
+                "hi": "कॉज",
+                "es": "kós"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "➡️",
+            "meaning": "To make something happen, especially something bad or unpleasant.",
+            "example_sentence": "Too much screen time can cause health problems.",
+            "example_sentence_native_transliteration": {
+                "bn": "টু মাচ স্ক্রিন টাইম ক্যান কজ হেলথ প্রব্লেমস।",
+                "es": "tu mach skrín táim kan kós jelz próblems.",
+                "hi": "टू मच स्क्रीन टाइम कैन कॉज हेल्थ प्रॉब्लेम्स।"
+            },
+            "example_expression": "cause problems",
+            "example_expression_native_transliteration": {
+                "bn": "কজ প্রব্লেমস",
+                "es": "kós próblems",
+                "hi": "कॉज प्रॉब्लेम्स"
+            },
+            "example_expression_meaning": "To create difficulties or issues that need to be resolved.",
+            "position": 19,
+            "synonyms": "bring about, trigger, produce, generate, lead to, result in",
+            "antonyms": "prevent, stop, avoid, cure, solve, fix",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কারণ হওয়া",
+                    "word_transliteration": "karon howa",
+                    "example_sentence_translation": "অত্যধিক স্ক্রিন টাইম স্বাস্থ্য সমস্যার কারণ হতে পারে।",
+                    "example_sentence_transliteration": "Ottodhik screen time swasthyo shomoshyar karon hote pare.",
+                    "example_expression_translation": "সমস্যার কারণ হওয়া",
+                    "example_expression_transliteration": "shomoshyar karon howa",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "कारण बनना",
+                    "word_transliteration": "karan bannaa",
+                    "example_sentence_translation": "बहुत ज्यादा स्क्रीन टाइम स्वास्थ्य समस्याओं का कारण बन सकता है।",
+                    "example_sentence_transliteration": "Bahut jyada screen time swasthya samasyaon ka karan ban sakta hai.",
+                    "example_expression_translation": "समस्याओं का कारण बनना",
+                    "example_expression_transliteration": "samasyaon ka karan bannaa",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "causar",
+                    "word_transliteration": "kausár",
+                    "example_sentence_translation": "Demasiado tiempo de pantalla puede causar problemas de salud.",
+                    "example_sentence_transliteration": "Demasiádo tiémpo de pantálla puéde kausár problémas de salúd.",
+                    "example_expression_translation": "causar problemas",
+                    "example_expression_transliteration": "kausár problémas",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}
