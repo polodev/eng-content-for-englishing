@@ -3,6 +3,7 @@
         "en": "My first Article",
         "hi": "",
         "es": "",
+        "fr": "",
         "bn": ""
     },
     "_comment_content_translation": "its a translatable json string. each locale content having both respective locale and english word. in case of english word please make it markdown bold. like **hello** বাংলা",
@@ -10,6 +11,7 @@
         "en": "my english content with markdown",
         "hi": "",
         "es": "",
+        "fr": "",
         "bn": ""
     },
     "list": [
@@ -21,7 +23,8 @@
             {
                 "bn": "হ্যাপিনেস",
                 "hi": "हैप्पीनेस",
-                "es": "jápines"
+                "es": "jápines",
+                "fr": "apines"
             },
             "parts_of_speech": "noun",
             "emoji": "😊",
@@ -30,15 +33,17 @@
             "_comment_example_sentence_native_transliteration": "Native transliteration field contains phonetic representations of the English example sentence in multiple native language scripts. This is a JSON object with locale keys (bn=Bengali, hi=Hindi, es=Spanish) where each value shows how the English sentence sounds when written in that native script. Used for pronunciation guidance.",
             "example_sentence_native_transliteration": {
                 "bn": "শী কুডন্ট হাইড হার হ্যাপিনেস হোয়েন শী রিসিভড দ্য অ্যাওয়ার্ড।",
-                "hi": "शी कुडन्ट हाइड हर हैप्पीनेस वेन शी रिसीव्ड द अवार्ड।",
-                "es": "shí kúdnt jáid jer jápines uen shí risívd de auárd."
+                "es": "shí kúdnt jáid jer jápines uen shí risívd de auárd.",
+                "fr": "shí kúdnt jáid jer apines uen shí risívd de auárd.",
+                "hi": "शी कुडन्ट हाइड हर हैप्पीनेस वेन शी रिसीव्ड द अवार्ड।"
             },
             "example_expression": "pursuit of happiness",
             "_comment_example_expression_native_transliteration": "Native transliteration field contains phonetic representations of the English example expression in multiple native language scripts. This is a JSON object with locale keys (bn=Bengali, hi=Hindi, es=Spanish) where each value shows how the English expression sounds when written in that native script. Used for pronunciation guidance.",
             "example_expression_native_transliteration": {
                 "bn": "পারসুইট অফ হ্যাপিনেস",
-                "hi": "पर्सूइट ऑफ हैप्पीनेस",
-                "es": "pérsúit of jápines"
+                "es": "pérsúit of jápines",
+                "fr": "pérsúit of apines",
+                "hi": "पर्सूइट ऑफ हैप्पीनेस"
             },
             "example_expression_meaning": "The ongoing effort to find satisfaction, enjoyment, and meaning in life.",
             "position": 1,
@@ -78,6 +83,16 @@
                     "example_expression_translation": "búsqueda de la felicidad",
                     "example_expression_transliteration": "búskeda de la felisidád",
                     "source": "oxford"
+                },
+                {
+                    "locale": "fr",
+                    "word_translation": "bonheur",
+                    "word_transliteration": "bon-ur",
+                    "example_sentence_translation": "Elle n'a pas pu cacher son bonheur quand elle a reçu le prix.",
+                    "example_sentence_transliteration": "El na pa pu kash-ay son bon-ur kan el a re-su le pree.",
+                    "example_expression_translation": "poursuite du bonheur",
+                    "example_expression_transliteration": "poor-sweet du bon-ur",
+                    "source": "oxford"
                 }
             ]
         },
@@ -87,8 +102,9 @@
             "word_native_transliteration":
             {
                 "bn": "ফ্রিডম",
-                "hi": "फ्रीडम",
-                "es": "frídom"
+                "es": "frídom",
+                "fr": "frídom",
+                "hi": "फ्रीडम"
             },
             "parts_of_speech": "noun",
             "emoji": "🗽",
@@ -96,14 +112,16 @@
             "example_sentence": "The prisoners were granted their freedom after serving their sentences.",
             "example_sentence_native_transliteration": {
                 "bn": "দ্য প্রিজনারস ওয়্যার গ্রান্টেড দেয়ার ফ্রিডম আফটার সার্ভিং দেয়ার সেন্টেন্সেস।",
-                "hi": "द प्रिज़नर्स वेर ग्रान्टेड देयर फ्रीडम आफ्टर सर्विंग देयर सेंटेंसेस।",
-                "es": "de prisonérs uér gránted der frídom áfter sérving der séntenses."
+                "es": "de prisonérs uér gránted der frídom áfter sérving der séntenses.",
+                "fr": "de prizonér uér gránted der frídom áfter sérving der séntenses.",
+                "hi": "द प्रिज़नर्स वेर ग्रान्टेड देयर फ्रीडम आफ्टर सर्विंग देयर सेंटेंसेस।"
             },
             "example_expression": "freedom of speech",
             "example_expression_native_transliteration": {
                 "bn": "ফ্রিডম অফ স্পিচ",
-                "hi": "फ्रीडम ऑफ स्पीच",
-                "es": "frídom of spích"
+                "es": "frídom of spích",
+                "fr": "frídom of spích",
+                "hi": "फ्रीडम ऑफ स्पीच"
             },
             "example_expression_meaning": "The right to express any opinions without censorship or restraint.",
             "position": 2,
@@ -119,7 +137,6 @@
                     "example_sentence_transliteration": "Bondira tader bakyo poribeshon korar pore tader shadhinota peyechhilo.",
                     "example_expression_translation": "বাকস্বাধীনতা",
                     "example_expression_transliteration": "bakshadhinota",
-                    "source": "oxford"
                 },
                 {
                     "locale": "hi",
@@ -129,7 +146,6 @@
                     "example_sentence_transliteration": "Kaidiyon ko unki saja poori karne ke baad aazadi di gayi thi.",
                     "example_expression_translation": "बोलने की आजादी",
                     "example_expression_transliteration": "bolne ki aazadi",
-                    "source": "oxford"
                 },
                 {
                     "locale": "es",
@@ -139,10 +155,18 @@
                     "example_sentence_transliteration": "A los prisionéros se les konsedió la libertád despwés de kumplir sus kondénas.",
                     "example_expression_translation": "libertad de expresión",
                     "example_expression_transliteration": "libertád de ekspresión",
-                    "source": "oxford"
+                },
+                {
+                    "locale": "fr",
+                    "word_translation": "liberté",
+                    "word_transliteration": "lee-ber-tay",
+                    "example_sentence_translation": "Les prisonniers ont obtenu leur liberté après avoir purgé leurs peines.",
+                    "example_sentence_transliteration": "Lay pree-zon-yay on ob-te-nu lur lee-ber-tay ah-pray ah-vwar pur-zhay lur payn.",
+                    "example_expression_translation": "liberté d'expression",
+                    "example_expression_transliteration": "lee-ber-tay deks-pray-syon",
                 }
             ]
-        },
+        }
     ]
 }
 
