@@ -48,11 +48,12 @@ for pdf_file in "$PDF_FOLDER"/*.pdf; do
         # Add heading and prompt for each PDF
         cat >> "$ALL_PROMPTS_FILE" << EOF
 # $pdf_basename
+## status: not done
 
 my template file is \`$TEMPLATE_FILE\`
 my pdf is in \`$pdf_file\`
 
-please convert pdf content to text content and make a json file inside \`response-json\` folder with name like pdf. json file should follow template style. exact same as template. as it has only single language. so other locale need to be done: translation, transliteration and native_transliteration
+please convert pdf content to text content and make a json file inside \`response-json\` folder with name like pdf. Json file should follow template style. exact same as template. as it has only single language. so other locale need to be done: translation, transliteration and native_transliteration
 basic about 2 terms: 
 - \`*_native_transliteration\`: datatype json with [bn, es, fr, hi] keys. written in respective language. Help non english speakers to know english pronunciation.
 - \`*_transliteration\`: datatype string. written in Pure English. Help english speakers know its pronunciation 
