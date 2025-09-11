@@ -1,0 +1,496 @@
+{
+    "title_translation": {
+        "en": "Can Smartphone Scrolling Damage Your Fingers",
+        "hi": "क्या स्मार्टफोन स्क्रॉलिंग आपकी उंगलियों को नुकसान पहुंचा सकती है",
+        "es": "¿Puede el scrolling en smartphones dañar tus dedos?",
+        "bn": "স্মার্টফোনে স্ক্রল করলে কি আঙুলের ক্ষতি হয়"
+    },
+    "content_translation": {
+        "en": "Like many others around ten at night, Hamid is trapped in smartphone **scrolling addiction**. Hours of scrolling not only waste time but also cause various problems in the body. Especially, it has an **adverse impact** on the muscles, nerves, and tendons of the hands.\n\nMost people use phones with one hand. As a result, **excessive strain** is placed on the thumb, which can gradually **manifest** as De Quervain's Syndrome. This is a **musculoskeletal condition** caused by excessive pressure on finger muscles and tendons. This results in finger pain and numbness. Sometimes this **condition** becomes so severe that it becomes difficult to move the thumb.\n\nTo get relief from this problem, **digital detox**, regular **hand exercises**, and limiting phone usage are recommended.",
+        "hi": "रात दशटार दिके हामिदेर मতो अनेकेई **scrolling addiction**-ए आटके थाकेन। घंटार पर घंटा स्क्रॉल करार फले शुधु समय नष्टई हय ना, शरीरेओ नाना समस्या देखा देय। बिशेष करे, हातेर पेशि, नार्व एबं टेन्डनेर ओपर एर **adverse impact** पड़े।\n\nअधिकांश मानुष एक हाते फोन ब्यबहार करेन। फले, बुड़ो आंगुलेर उपर **excessive strain** पड़े, या धीरे धीरे **De Quervain's Syndrome**-एे **manifest** हते पारे। एटि आंगुलेर पेशि एबं टेन्डनेर ओपर अतिरिक्त चापेर कारणे सृष्ट एकटि **musculoskeletal condition**। एর फले आंगुले ब्यथा एबं असाड़ता देखा देय। अनेक समय एই **condition** एतटा गुरुतर हय ये बुड़ो आंगुल नड़ानोই कठिन हये पड़े।\n\nএই समस्या थेके मुक्ति पेते **digital detox**, नियमित **hand exercises**, एबं फोनेर ব্যबহার सीमিত করার पরामर্श देওया হয়।",
+        "es": "রাত দশটার দিকে হামিদের মতো অনেকেই **scrolling addiction**-এ আটকে থাকেন। ঘণ্টার পর ঘণ্টা স্ক্রল করার ফলে শুধু সময় নষ্টই হয় না, শরীরেও নানা সমস্যা দেখা দেয়। বিশেষ করে, হাতের পেশি, নার্ভ এবং টেন্ডনের ওপর এর **adverse impact** পড়ে।\n\nঅধিকাংশ মানুষ এক হাতে ফোন ব্যবহার করেন। ফলে, বুড়ো আঙুলের উপর **excessive strain** পড়ে, যা ধীরে ধীরে **De Quervain's Syndrome**-এ **manifest** হতে পারে। এটি আঙুলের পেশি এবং টেন্ডনের ওপর অতিরিক্ত চাপের কারণে সৃষ্ট একটি **musculoskeletal condition**। এর ফলে আঙুলে ব্যথা এবং অসাড়তা দেখা দেয়। অনেক সময় এই **condition** এতটা গুরুতর হয় যে বুড়ো আঙুল নড়ানোই কঠিন হয়ে পড়ে।\n\nএই সমস্যা থেকে মুক্তি পেতে **digital detox**, নিয়মিত **hand exercises**, এবং ফোনের ব্যবহার সীমিত করার পরামর্শ দেওয়া হয়।",
+        "bn": "রাত দশটার দিকে হামিদের মতো অনেকেই **scrolling addiction**-এ আটকে থাকেন। ঘণ্টার পর ঘণ্টা স্ক্রল করার ফলে শুধু সময় নষ্টই হয় না, শরীরেও নানা সমস্যা দেখা দেয়। বিশেষ করে, হাতের পেশি, নার্ভ এবং টেন্ডনের ওপর এর **adverse impact** পড়ে।\n\nঅধিকাংশ মানুষ এক হাতে ফোন ব্যবহার করেন। ফলে, বুড়ো আঙুলের উপর **excessive strain** পড়ে, যা ধীরে ধীরে **De Quervain's Syndrome**-এ **manifest** হতে পারে। এটি আঙুলের পেশি এবং টেন্ডনের ওপর অতিরিক্ত চাপের কারণে সৃষ্ট একটি **musculoskeletal condition**। এর ফলে আঙুলে ব্যথা এবং অসাড়তা দেখা দেয়। অনেক সময় এই **condition** এতটা গুরুতর হয় যে বুড়ো আঙুল নড়ানোই কঠিন হয়ে পড়ে।\n\nএই সমস্যা থেকে মুক্তি পেতে **digital detox**, নিয়মিত **hand exercises**, এবং ফোনের ব্যবহার সীমিত করার পরামর্শ দেওয়া হয়।"
+    },
+    "list": [
+        {
+            "word": "scrolling addiction",
+            "phonetic": "ˈskroʊlɪŋ əˈdɪkʃən",
+            "word_native_transliteration": {
+                "bn": "স্ক্রোলিং অ্যাডিকশন",
+                "hi": "स्क्रॉलिंग एडिक्शन",
+                "es": "eskroling adikshon"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📱",
+            "meaning": "The compulsive and excessive use of scrolling through content on electronic devices, particularly smartphones and social media platforms.",
+            "example_sentence": "Scrolling addiction is a growing concern among smartphone users.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্ক্রোলিং অ্যাডিকশন ইজ অ্যা গ্রোয়িং কনসার্ন অ্যামং স্মার্টফোন ইউজারস।",
+                "es": "eskroling adikshon es a grouing konsern among smartfon iusers.",
+                "hi": "स्क्रॉलिंग एडिक्शन इज़ अ ग्रोइंग कंसर्न अमंग स्मार्टफ़ोन यूज़र्स।"
+            },
+            "example_expression": "digital dependency",
+            "example_expression_native_transliteration": {
+                "bn": "ডিজিটাল ডিপেনডেন্সি",
+                "es": "diyital dependensi",
+                "hi": "डिजिटल डिपेंडेंसी"
+            },
+            "example_expression_meaning": "Excessive reliance on digital devices and technology in daily life.",
+            "position": 1,
+            "synonyms": "digital dependency, phone addiction, screen addiction",
+            "antonyms": "balanced usage, digital discipline, mindful usage",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্ক্রল করার আসক্তি",
+                    "word_transliteration": "skrol korar ashokti",
+                    "example_sentence_translation": "স্ক্রল করার আসক্তি স্মার্টফোন ব্যবহারকারীদের মধ্যে একটি ক্রমবর্ধমান সমস্যা।",
+                    "example_sentence_transliteration": "Skrol korar ashokti smartphone byaboharkariদের modhye ekti krombordhoman shomoshya.",
+                    "example_expression_translation": "ডিজিটাল নির্ভরতা",
+                    "example_expression_transliteration": "digital nirbhorata",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "स्क्रॉल करने की लत",
+                    "word_transliteration": "scroll karne ki lat",
+                    "example_sentence_translation": "स्क्रॉल करने की लत स्मार्टफ़ोन उपयोगकर्ताओं के बीच एक बढ़ती हुई चिंता है।",
+                    "example_sentence_transliteration": "Scroll karne ki lat smartphone upyogkartaon ke beech ek badhti hui chinta hai.",
+                    "example_expression_translation": "डिजिटल निर्भरता",
+                    "example_expression_transliteration": "digital nirbharata",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "adicción al scrolling",
+                    "word_transliteration": "adiksiyon al eskroling",
+                    "example_sentence_translation": "La adicción al scrolling es una preocupación creciente entre los usuarios de smartphones.",
+                    "example_sentence_transliteration": "La adiksiyon al eskroling es una preokupasyon kresyente entre los usuarios de smartphones.",
+                    "example_expression_translation": "dependencia digital",
+                    "example_expression_transliteration": "dependensya diyital",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "adverse impact",
+            "phonetic": "ˈædvɜrs ˈɪmpækt",
+            "word_native_transliteration": {
+                "bn": "অ্যাডভার্স ইমপ্যাক্ট",
+                "hi": "एडवर्स इम्पैक्ट",
+                "es": "adbérs impakt"
+            },
+            "parts_of_speech": "adjective + noun",
+            "emoji": "⚠️",
+            "meaning": "A negative or harmful effect or influence on something.",
+            "example_sentence": "Long screen time has an adverse impact on hand muscles.",
+            "example_sentence_native_transliteration": {
+                "bn": "লং স্ক্রিন টাইম হ্যাজ অ্যান অ্যাডভার্স ইমপ্যাক্ট অন হ্যান্ড মাসলস।",
+                "es": "long eskrin taim jas an adbérs impakt on jand másls.",
+                "hi": "लॉन्ग स्क्रीन टाइम हैज़ एन एडवर्स इम्पैक्ट ऑन हैंड मसल्स।"
+            },
+            "example_expression": "negative effect",
+            "example_expression_native_transliteration": {
+                "bn": "নেগেটিভ ইফেক্ট",
+                "es": "negatib efekt",
+                "hi": "नेगेटिव इफ़ेक्ट"
+            },
+            "example_expression_meaning": "An undesirable or harmful consequence of an action or event.",
+            "position": 2,
+            "synonyms": "negative effect, detrimental outcome, harmful consequence",
+            "antonyms": "positive impact, beneficial result, favorable effect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিরূপ প্রভাব",
+                    "word_transliteration": "birup prabhab",
+                    "example_sentence_translation": "দীর্ঘ স্ক্রিন টাইম হাতের পেশির উপর বিরূপ প্রভাব ফেলে।",
+                    "example_sentence_transliteration": "Dirgho screen time hater peshir upor birup prabhab phele.",
+                    "example_expression_translation": "নেতিবাচক প্রভাব",
+                    "example_expression_transliteration": "netibachok prabhab",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "प्रतिकूल प्रभाव",
+                    "word_transliteration": "pratikul prabhav",
+                    "example_sentence_translation": "लंबे स्क्रीन टाइम का हाथ की मांसपेशियों पर प्रतिकूल प्रभाव पड़ता है।",
+                    "example_sentence_transliteration": "Lambe screen time ka haath ki manspeshiyon par pratikul prabhav padta hai.",
+                    "example_expression_translation": "नकारात्मक प्रभाव",
+                    "example_expression_transliteration": "nakaratmak prabhav",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "impacto adverso",
+                    "word_transliteration": "impakto adbérso",
+                    "example_sentence_translation": "El tiempo prolongado frente a la pantalla tiene un impacto adverso en los músculos de las manos.",
+                    "example_sentence_transliteration": "El tyempo prolongado frente a la pantaya tyene un impakto adbérso en los múskulos de las manos.",
+                    "example_expression_translation": "efecto negativo",
+                    "example_expression_transliteration": "efekto negatibo",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "excessive strain",
+            "phonetic": "ɪkˈsesɪv streɪn",
+            "word_native_transliteration": {
+                "bn": "এক্সেসিভ স্ট্রেইন",
+                "hi": "एक्सेसिव स्ट्रेन",
+                "es": "eksésib estrein"
+            },
+            "parts_of_speech": "adjective + noun",
+            "emoji": "💪",
+            "meaning": "More than the normal or acceptable amount of physical pressure or stress on body parts.",
+            "example_sentence": "Excessive strain on fingers can cause musculoskeletal issues.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সেসিভ স্ট্রেইন অন ফিঙ্গারস ক্যান কজ মাসকুলোস্কেলেটাল ইস্যুজ।",
+                "es": "eksésib estrein on fíngers kan kaus maskuloskeletál isús.",
+                "hi": "एक्सेसिव स्ट्रेन ऑन फिंगर्स कैन कॉज़ मस्क्यूलोस्केलेटल इश्यूज़।"
+            },
+            "example_expression": "overexertion",
+            "example_expression_native_transliteration": {
+                "bn": "ওভারএক্সারশন",
+                "es": "oberegsérshon",
+                "hi": "ओवरएक्ज़र्शन"
+            },
+            "example_expression_meaning": "Physical or mental effort that exceeds what is healthy or sustainable.",
+            "position": 3,
+            "synonyms": "overload, pressure, stress, tension",
+            "antonyms": "minimal strain, light effort, gentle pressure",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতিরিক্ত চাপ",
+                    "word_transliteration": "otirikto chap",
+                    "example_sentence_translation": "আঙুলের উপর অতিরিক্ত চাপ মাসকুলোস্কেলেটাল সমস্যা সৃষ্টি করতে পারে।",
+                    "example_sentence_transliteration": "Anguler upor otirikto chap maskuloskeletal shomoshya srishti korte pare.",
+                    "example_expression_translation": "অতিরিক্ত পরিশ্রম",
+                    "example_expression_transliteration": "otirikto porishrom",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "अत्यधिक दबाव",
+                    "word_transliteration": "atyadhik dabav",
+                    "example_sentence_translation": "उंगलियों पर अत्यधिक दबाव मांसपेशी और हड्डी संबंधी समस्याएं पैदा कर सकता है।",
+                    "example_sentence_transliteration": "Ungliyon par atyadhik dabav manspeshi aur haddi sambandhी samasyaen paida kar sakta hai.",
+                    "example_expression_translation": "अत्यधिक परिश्रम",
+                    "example_expression_transliteration": "atyadhik parishram",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "tensión excesiva",
+                    "word_transliteration": "tensyón eksésiba",
+                    "example_sentence_translation": "La tensión excesiva en los dedos puede causar problemas musculoesqueléticos.",
+                    "example_sentence_transliteration": "La tensyón eksésiba en los dedos pwede kawsar problemas maskuloeskeletikos.",
+                    "example_expression_translation": "sobresfuerzo",
+                    "example_expression_transliteration": "sobresfwérso",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "manifest",
+            "phonetic": "ˈmænɪfest",
+            "word_native_transliteration": {
+                "bn": "ম্যানিফেস্ট",
+                "hi": "मैनिफ़ेस्ट",
+                "es": "manifést"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔍",
+            "meaning": "To show or demonstrate clearly; to become apparent or visible.",
+            "example_sentence": "Symptoms of De Quervain's Syndrome may manifest after prolonged phone use.",
+            "example_sentence_native_transliteration": {
+                "bn": "সিম্পটমস অফ ডি কোয়ার্ভাইন'স সিনড্রম মে ম্যানিফেস্ট আফটার প্রোলংড ফোন ইউজ।",
+                "es": "síntomas of de kuerbáins síndrom mei manifést áfter prolongd fon ius.",
+                "hi": "सिम्पटम्स ऑफ़ डी क्वेरवेन्स सिंड्रोम मे मैनिफ़ेस्ट आफ्टर प्रोलॉन्ग्ड फ़ोन यूज़।"
+            },
+            "example_expression": "become apparent",
+            "example_expression_native_transliteration": {
+                "bn": "বিকাম অ্যাপ্যারেন্ট",
+                "es": "bikám aparént",
+                "hi": "बिकम अप्पैरेंट"
+            },
+            "example_expression_meaning": "To become clearly visible or understood; to emerge as obvious.",
+            "position": 4,
+            "synonyms": "exhibit, demonstrate, show, reveal, display",
+            "antonyms": "conceal, hide, suppress, mask",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রকাশ পাওয়া",
+                    "word_transliteration": "prokash paowa",
+                    "example_sentence_translation": "দীর্ঘ সময় ধরে ফোন ব্যবহারের পর ডি কোয়ার্ভাইন'স সিনড্রমের লক্ষণ প্রকাশ পেতে পারে।",
+                    "example_sentence_transliteration": "Dirgho shomoy dhore fon byaboharer por De Quervain's Syndrome er lokkhon prokash pete pare.",
+                    "example_expression_translation": "স্পষ্ট হওয়া",
+                    "example_expression_transliteration": "sposhto howa",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "प्रकट होना",
+                    "word_transliteration": "prakat hona",
+                    "example_sentence_translation": "लंबे समय तक फोन के उपयोग के बाद डी क्वेरवेन सिंड्रोम के लक्षण प्रकट हो सकते हैं।",
+                    "example_sentence_transliteration": "Lambe samay tak fon ke upyog ke baad De Quervain Syndrome ke lakshan prakat ho sakte hain.",
+                    "example_expression_translation": "स्पष्ट होना",
+                    "example_expression_transliteration": "spasht hona",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "manifestarse",
+                    "word_transliteration": "manifestárse",
+                    "example_sentence_translation": "Los síntomas del síndrome de De Quervain pueden manifestarse después del uso prolongado del teléfono.",
+                    "example_sentence_transliteration": "Los síntomas del síndrome de De Kuerbáin pweden manifestárse despwés del uso prolongado del teléfono.",
+                    "example_expression_translation": "hacerse evidente",
+                    "example_expression_transliteration": "asérse ebidénte",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "musculoskeletal condition",
+            "phonetic": "ˈmʌskjʊloʊˈskɛlɪtəl kənˈdɪʃən",
+            "word_native_transliteration": {
+                "bn": "মাসকুলোস্কেলেটাল কন্ডিশন",
+                "hi": "मस्क्यूलोस्केलेटल कंडीशन",
+                "es": "maskuloskeletál kondíshon"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🦴",
+            "meaning": "A disorder or disease affecting the muscles, bones, joints, tendons, ligaments, or other parts of the musculoskeletal system.",
+            "example_sentence": "De Quervain's Syndrome is a common musculoskeletal condition.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডি কোয়ার্ভাইন'স সিনড্রম ইজ অ্যা কমন মাসকুলোস্কেলেটাল কন্ডিশন।",
+                "es": "de kuerbáins síndrom es a komón maskuloskeletál kondíshon.",
+                "hi": "डी क्वेरवेन्स सिंड्रोम इज़ अ कॉमन मस्क्यूलोस्केलेटल कंडीशन।"
+            },
+            "example_expression": "physical disorder",
+            "example_expression_native_transliteration": {
+                "bn": "ফিজিক্যাল ডিসঅর্ডার",
+                "es": "fisikál disórder",
+                "hi": "फ़िज़िकल डिसऑर्डर"
+            },
+            "example_expression_meaning": "A condition that affects the normal functioning of the body's physical structure.",
+            "position": 5,
+            "synonyms": "physical disorder, bone-muscle ailment, orthopedic condition",
+            "antonyms": "healthy state, normal condition, optimal function",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পেশি ও হাড় সম্পর্কিত সমস্যা",
+                    "word_transliteration": "peshi o har shomporkhito shomoshya",
+                    "example_sentence_translation": "ডি কোয়ার্ভাইন'স সিনড্রম একটি সাধারণ পেশি ও হাড় সম্পর্কিত সমস্যা।",
+                    "example_sentence_transliteration": "De Quervain's Syndrome ekti shadharon peshi o har shomporkhito shomoshya.",
+                    "example_expression_translation": "শারীরিক বিকার",
+                    "example_expression_transliteration": "sharirik bikar",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "मांसपेशी और हड्डी संबंधी विकार",
+                    "word_transliteration": "manspeshi aur haddi sambandhি vikar",
+                    "example_sentence_translation": "डी क्वेरवेन सिंड्रोम एक आम मांसपेशी और हड्डी संबंधी विकार है।",
+                    "example_sentence_transliteration": "De Quervain Syndrome ek aam manspeshi aur haddi sambandhि vikar hai.",
+                    "example_expression_translation": "शारीरिक विकार",
+                    "example_expression_transliteration": "sharirik vikar",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "condición musculoesquelética",
+                    "word_transliteration": "kondisyón maskuloeskeletika",
+                    "example_sentence_translation": "El síndrome de De Quervain es una condición musculoesquelética común.",
+                    "example_sentence_transliteration": "El síndrome de De Kuerbáin es una kondisyón maskuloeskeletika komún.",
+                    "example_expression_translation": "trastorno físico",
+                    "example_expression_transliteration": "trastórno físiko",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "condition",
+            "phonetic": "kənˈdɪʃən",
+            "word_native_transliteration": {
+                "bn": "কন্ডিশন",
+                "hi": "कंडीशन",
+                "es": "kondíshon"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏥",
+            "meaning": "A particular state of health or physical fitness; a medical problem.",
+            "example_sentence": "The condition worsens without proper treatment.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কন্ডিশন ওয়ার্সেনস উইদাউট প্রপার ট্রিটমেন্ট।",
+                "es": "de kondíshon uórséns uidáwt próper trítment.",
+                "hi": "द कंडीशन वर्सेन्स विदाउट प्रॉपर ट्रीटमेंट।"
+            },
+            "example_expression": "medical state",
+            "example_expression_native_transliteration": {
+                "bn": "মেডিকেল স্টেট",
+                "es": "medikál esteit",
+                "hi": "मेडिकल स्टेट"
+            },
+            "example_expression_meaning": "The current health or medical status of a person.",
+            "position": 6,
+            "synonyms": "state, circumstance, situation, ailment",
+            "antonyms": "solution, cure, remedy, health",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অবস্থা",
+                    "word_transliteration": "obostha",
+                    "example_sentence_translation": "সঠিক চিকিৎসা ছাড়া অবস্থার অবনতি ঘটে।",
+                    "example_sentence_transliteration": "Shothik chikitsha chhara obosthar obonoti ghote.",
+                    "example_expression_translation": "চিকিৎসাগত অবস্থা",
+                    "example_expression_transliteration": "chikitshagoto obostha",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "स्थिति",
+                    "word_transliteration": "sthiti",
+                    "example_sentence_translation": "उचित इलाज के बिना स्थिति बिगड़ जाती है।",
+                    "example_sentence_transliteration": "Uchit ilaaj ke bina sthiti bigad jaati hai.",
+                    "example_expression_translation": "चिकित्सा स्थिति",
+                    "example_expression_transliteration": "chikitsa sthiti",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "condición",
+                    "word_transliteration": "kondisyón",
+                    "example_sentence_translation": "La condición empeora sin el tratamiento adecuado.",
+                    "example_sentence_transliteration": "La kondisyón empeóra sin el tratamyénto adekwádo.",
+                    "example_expression_translation": "estado médico",
+                    "example_expression_transliteration": "estádo médiko",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "digital detox",
+            "phonetic": "ˈdɪdʒɪtəl ˈdiˌtɑks",
+            "word_native_transliteration": {
+                "bn": "ডিজিটাল ডিটক্স",
+                "hi": "डिजिटल डिटॉक्स",
+                "es": "diyitál detóks"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔌",
+            "meaning": "A period of time during which a person refrains from using electronic devices such as smartphones or computers, regarded as an opportunity to reduce stress or focus on social interaction.",
+            "example_sentence": "A digital detox can help reduce hand fatigue.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ ডিজিটাল ডিটক্স ক্যান হেল্প রিডিউস হ্যান্ড ফাটিগ।",
+                "es": "a diyitál detóks kan jelp redius jand fatíg.",
+                "hi": "अ डिजिटल डिटॉक्स कैन हेल्प रिड्यूस हैंड फ़टीग।"
+            },
+            "example_expression": "tech-free time",
+            "example_expression_native_transliteration": {
+                "bn": "টেক-ফ্রি টাইম",
+                "es": "tek-frí taim",
+                "hi": "टेक-फ़्री टाइम"
+            },
+            "example_expression_meaning": "A designated period without the use of technology or digital devices.",
+            "position": 7,
+            "synonyms": "tech-free time, screen-free period, digital break",
+            "antonyms": "digital overload, screen addiction, tech dependency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ডিজিটাল বিরতি",
+                    "word_transliteration": "digital birti",
+                    "example_sentence_translation": "ডিজিটাল বিরতি হাতের ক্লান্তি কমাতে সাহায্য করতে পারে।",
+                    "example_sentence_transliteration": "Digital birti hater klanti komate shahajyo korte pare.",
+                    "example_expression_translation": "প্রযুক্তিমুক্ত সময়",
+                    "example_expression_transliteration": "projuktimukto shomoy",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "डिजिटल विराम",
+                    "word_transliteration": "digital viraम",
+                    "example_sentence_translation": "डिजिटल विराम हाथ की थकान कम करने में मदद कर सकता है।",
+                    "example_sentence_transliteration": "Digital viraम haath ki thakan kam karne mein madad kar sakta hai.",
+                    "example_expression_translation": "तकनीक-मुक्त समय",
+                    "example_expression_transliteration": "takneek-mukt samay",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "desintoxicación digital",
+                    "word_transliteration": "desintoksikasyon diyitál",
+                    "example_sentence_translation": "Una desintoxicación digital puede ayudar a reducir la fatiga de las manos.",
+                    "example_sentence_transliteration": "Una desintoksikasyon diyitál pwede ayudar a redusir la fatíga de las manos.",
+                    "example_expression_translation": "tiempo libre de tecnología",
+                    "example_expression_transliteration": "tyémpo líbre de teknoloyía",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "hand exercises",
+            "phonetic": "hænd ˈeksərˌsaɪzɪz",
+            "word_native_transliteration": {
+                "bn": "হ্যান্ড এক্সারসাইজেস",
+                "hi": "हैंड एक्सरसाइज़ेस",
+                "es": "jand eksersáises"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤲",
+            "meaning": "Physical activities designed to strengthen, stretch, and improve the flexibility and function of the hands and fingers.",
+            "example_sentence": "Regular hand exercises are essential for muscle recovery.",
+            "example_sentence_native_transliteration": {
+                "bn": "রেগুলার হ্যান্ড এক্সারসাইজেস আর এসেনশিয়াল ফর মাসল রিকভারি।",
+                "es": "regúlar jand eksersáises ar esénsyal for másl rikóberi.",
+                "hi": "रेगुलर हैंड एक्सरसाइज़ेस आर एसेंशियल फ़ॉर मसल रिकवरी।"
+            },
+            "example_expression": "finger stretches",
+            "example_expression_native_transliteration": {
+                "bn": "ফিঙ্গার স্ট্রেচেস",
+                "es": "fínger estréches",
+                "hi": "फ़िंगर स्ट्रेचेस"
+            },
+            "example_expression_meaning": "Movements designed to extend and flex the fingers to improve flexibility and reduce stiffness.",
+            "position": 8,
+            "synonyms": "finger stretches, hand therapy, wrist exercises",
+            "antonyms": "inactivity, rest, immobilization",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "হাতের ব্যায়াম",
+                    "word_transliteration": "hater byayam",
+                    "example_sentence_translation": "নিয়মিত হাতের ব্যায়াম পেশি পুনরুদ্ধারের জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Niyomito hater byayam peshi punoruddharer jonno oporhayjo.",
+                    "example_expression_translation": "আঙুলের স্ট্রেচিং",
+                    "example_expression_transliteration": "anguler stretching",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "हाथ का व्यायाम",
+                    "word_transliteration": "haath ka vyayam",
+                    "example_sentence_translation": "नियमित हाथ का व्यायाम मांसपेशी रिकवरी के लिए आवश्यक है।",
+                    "example_sentence_transliteration": "Niyamit haath ka vyayam manspeshi recovery ke liye aavashyak hai.",
+                    "example_expression_translation": "उंगली की स्ट्रेचिंग",
+                    "example_expression_transliteration": "ungli ki stretching",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "ejercicios para las manos",
+                    "word_transliteration": "ehersísyos pára las mános",
+                    "example_sentence_translation": "Los ejercicios regulares para las manos son esenciales para la recuperación muscular.",
+                    "example_sentence_transliteration": "Los ehersísyos reguláres pára las mános son esensyáles pára la rekuperasyon muskúlar.",
+                    "example_expression_translation": "estiramientos de dedos",
+                    "example_expression_transliteration": "estiramyéntos de dédos",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}
