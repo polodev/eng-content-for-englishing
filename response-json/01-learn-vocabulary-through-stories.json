@@ -1,0 +1,683 @@
+{
+    "title_translation": {
+        "en": "Volunteering: A Society and Human Life Transformation",
+        "hi": "**Volunteering**: एक समाज और मानव जीवन रूपांतरण",
+        "es": "**Volunteering**: Una transformación de la sociedad y la vida humana",
+        "bn": "স্বেচ্ছাসেবা: একটি সমাজ ও মানুষের জীবন পরিবর্তন করতে পারে"
+    },
+    "_comment_content_translation": "its a translatable json string. each locale content having both respective locale and english word. in case of english word please make it markdown bold. like **hello** বাংলা",
+    "content_translation": {
+        "en": "**Volunteering** is a **profound initiative** that can **transform** society and human life. It provides a **unique opportunity** to contribute to others' welfare and demonstrate social responsibility. Even a few hours of volunteering can create **substantial impact** for a community.\n\nVolunteers demonstrate social **commitment** through their **valuable services**. This is not just about showing **social responsibility**, but also allows volunteers to **acquire** new **skills** and **expansion of social networks**. It is extremely important to help solve the problems faced by **marginalized individuals** in our society. Volunteers play a significant role in providing **indispensable support** to these individuals and communities.\n\nThey are involved in various **initiatives** such as fundraising, **charitable activities**, and community development that ensure **beneficial outcomes** for the disadvantaged. For example, volunteers can **collaborate** with local businesses to support **underprivileged groups** financially and create **effective connections**.",
+        "hi": "**Volunteering** एक **profound initiative** है, जो समाज और मानव जीवन को **transform** कर सकता है। यह एक **unique opportunity** देता है दूसरों की भलाई में योगदान देने और समाज के प्रति दायित्व प्रदर्शित करने का। यहां तक कि कुछ घंटों की **volunteering** भी एक समुदाय के लिए **substantial impact** बना सकती है।\n\n**Volunteers** अपनी **valuable services** के माध्यम से सामाजिक **commitment** प्रदर्शित करते हैं। यह सिर्फ **social responsibility** दिखाना नहीं, बल्कि **volunteers** के माध्यम से नए **skills acquire** करना और **expansion of social networks** संभव है। हमारे समाज में **marginalized individuals** जिन समस्याओं का सामना करते हैं, उनके समाधान में सहायता करना अत्यंत महत्वपूर्ण है। **Volunteers** इन व्यक्तियों और समुदायों को **indispensable support** प्रदान करने में उल्लेखनीय भूमिका निभाते हैं।\n\nवे विभिन्न **initiatives** में जुड़े रहते हैं जैसे कि धन संग्रह, **charitable activities**, और समुदाय के विकास जो सुविधावंचितों के लिए **beneficial outcomes** सुनिश्चित करती है। उदाहरणस्वरूप, **volunteers** स्थानीय व्यापार के साथ **collaborate** करके आर्थिक रूप से **underprivileged groups** को समर्थन कर सकते हैं और **effective connections** बना सकते हैं।",
+        "es": "**Volunteering** es una **profound initiative** que puede **transform** la sociedad y la vida humana. Proporciona una **unique opportunity** para contribuir al bienestar de otros y demostrar responsabilidad social. Incluso unas pocas horas de **volunteering** pueden crear un **substantial impact** para una comunidad.\n\nLos **volunteers** demuestran **commitment** social a través de sus **valuable services**. Esto no es solo mostrar **social responsibility**, sino que también permite a los **volunteers** **acquire** nuevas **skills** y la **expansion of social networks**. Es extremadamente importante ayudar a resolver los problemas que enfrentan los **marginalized individuals** en nuestra sociedad. Los **volunteers** desempeñan un papel significativo al proporcionar **indispensable support** a estos individuos y comunidades.\n\nEstán involucrados en varias **initiatives** como recaudación de fondos, **charitable activities**, y desarrollo comunitario que aseguran **beneficial outcomes** para los desfavorecidos. Por ejemplo, los **volunteers** pueden **collaborate** con empresas locales para apoyar financieramente a **underprivileged groups** y crear **effective connections**.",
+        "bn": "**স্বেচ্ছাসেবা** একটি **profound initiative**, যা সমাজ ও মানুষের জীবন **transform** করতে পারে। এটি একটি **unique opportunity** দেয় অন্যদের মঙ্গলে অবদান রাখার এবং সমাজের প্রতি দায়বদ্ধতা প্রদর্শনের। এমনকি কয়েক ঘণ্টার স্বেচ্ছাসেবায় একটি সম্প্রদায়ের জন্য **substantial impact** তৈরি করা সম্ভব।\n\nস্বেচ্ছাসেবকরা তাদের **valuable services** এর মাধ্যমে সামাজিক **commitment** প্রদর্শন করে। এটি শুধু **social responsibility** প্রদর্শন নয়, বরং স্বেচ্ছাসেবীর মাধ্যমে নতুন **skills acquire** এবং **expansion of social networks** সম্ভব। আমাদের সমাজে **marginalized individuals** যেসব সমস্যার সম্মুখীন হয়, তা সমাধানে সহায়তা করা অত্যন্ত গুরুত্বপূর্ণ। স্বেচ্ছাসেবীরা এই ব্যক্তি ও সম্প্রদায়গুলোকে **indispensable support** প্রদানে উল্লেখযোগ্য ভূমিকা পালন করে।\n\nতারা বিভিন্ন **initiatives**-এ জড়িত থাকে যেমন তহবিল সংগ্রহ, **charitable activities**, এবং সম্প্রদায়ের উন্নয়ন যা সুবিধাবঞ্চিতদের জন্য **beneficial outcomes** নিশ্চিত করে। উদাহরণস্বরূপ, স্বেচ্ছাসেবীরা স্থানীয় ব্যবসার সাথে **collaborate** করে আর্থিকভাবে **underprivileged groups**-কে সমর্থন করতে পারে এবং **effective connections** তৈরি করতে পারে।"
+    },
+    "list": [
+        {
+            "_comment_word_native_transliteration": "Native transliteration field contains phonetic representations of the English word 'word' in multiple native language scripts. This is a JSON object with locale keys (bn=Bengali, hi=Hindi, es=Spanish) where each value shows how the English word sounds when written in that native script. Used for pronunciation guidance.",
+            "word": "transform",
+            "phonetic": "trænsˈfɔːm",
+            "word_native_transliteration": {
+                "bn": "ট্রান্সফর্ম",
+                "hi": "ट्रांसफॉर्म",
+                "es": "transformár"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔄",
+            "meaning": "To change completely the appearance or character of something or someone.",
+            "example_sentence": "Volunteering can transform lives and communities.",
+            "_comment_example_sentence_native_transliteration": "Native transliteration field contains phonetic representations of the English example sentence in multiple native language scripts. This is a JSON object with locale keys (bn=Bengali, hi=Hindi, es=Spanish) where each value shows how the English sentence sounds when written in that native script. Used for pronunciation guidance.",
+            "example_sentence_native_transliteration": {
+                "bn": "ভলান্টিয়ারিং কেন ট্রান্সফর্ম লাইভস অ্যান্ড কমিউনিটিস।",
+                "es": "volántiring kan transformár laivs and komjúnitis.",
+                "hi": "वॉलंटियरिंग कैन ट्रांसफॉर्म लाइव्स एंड कम्युनिटीज़।"
+            },
+            "example_expression": "transform society",
+            "_comment_example_expression_native_transliteration": "Native transliteration field contains phonetic representations of the English example expression in multiple native language scripts. This is a JSON object with locale keys (bn=Bengali, hi=Hindi, es=Spanish) where each value shows how the English expression sounds when written in that native script. Used for pronunciation guidance.",
+            "example_expression_native_transliteration": {
+                "bn": "ট্রান্সফর্ম সোসাইটি",
+                "es": "transformár sosáiti",
+                "hi": "ट्रांसफॉर्म सोसायटी"
+            },
+            "example_expression_meaning": "To bring about fundamental changes in the structure and organization of society.",
+            "position": 1,
+            "synonyms": "alter, revolutionize, change, modify, convert, metamorphose",
+            "antonyms": "preserve, maintain, keep, retain, conserve, stabilize",
+            "translations": [
+                {
+                    "_comment_word_transliteration": "Transliteration field contains the English phonetic representation of the native language translation. This is a STRING field showing how to pronounce the translated word (word_translation) in English letters. Used to help English speakers pronounce the foreign word correctly.",
+                    "locale": "bn",
+                    "word_translation": "রূপান্তর করা",
+                    "word_transliteration": "rupantor kora",
+                    "example_sentence_translation": "স্বেচ্ছাসেবী কাজ জীবন ও সম্প্রদায়কে রূপান্তর করতে পারে।",
+                    "_comment_example_sentence_transliteration": "Transliteration field contains the English phonetic representation of the native language sentence translation. This is a STRING field showing how to pronounce the translated sentence (example_sentence_translation) in English letters. Used to help English speakers pronounce the foreign sentence correctly.",
+                    "example_sentence_transliteration": "Shecchashebi kaj jibon o shomproday-ke rupantor korte pare.",
+                    "example_expression_translation": "সমাজ রূপান্তর",
+                    "_comment_example_expression_transliteration": "Transliteration field contains the English phonetic representation of the native language expression translation. This is a STRING field showing how to pronounce the translated expression (example_expression_translation) in English letters. Used to help English speakers pronounce the foreign expression correctly.",
+                    "example_expression_transliteration": "shomaj rupantor",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "रूपांतरित करना",
+                    "word_transliteration": "rupantarit karna",
+                    "example_sentence_translation": "स्वयंसेवा जीवन और समुदायों को रूपांतरित कर सकती है।",
+                    "example_sentence_transliteration": "Swayamseva jeevan aur samudayon ko rupantarit kar sakti hai.",
+                    "example_expression_translation": "समाज का रूपांतरण",
+                    "example_expression_transliteration": "samaj ka rupantaran",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "transformar",
+                    "word_transliteration": "transformár",
+                    "example_sentence_translation": "El voluntariado puede transformar vidas y comunidades.",
+                    "example_sentence_transliteration": "El voluntariádo púede transformár vídas i komunidádes.",
+                    "example_expression_translation": "transformar la sociedad",
+                    "example_expression_transliteration": "transformár la sosiedád",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "profound initiative",
+            "phonetic": "prəˈfaʊnd ɪˈnɪʃətɪv",
+            "word_native_transliteration": {
+                "bn": "প্রফাউন্ড ইনিশিয়েটিভ",
+                "hi": "प्रोफाउंड इनिशिएटिव",
+                "es": "profáund inisiátiv"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌟",
+            "meaning": "A deeply meaningful and significant action or program that creates lasting change.",
+            "example_sentence": "A profound initiative can create sustainable changes.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যা প্রফাউন্ড ইনিশিয়েটিভ কেন ক্রিয়েট সাসটেইনেবল চেঞ্জেস।",
+                "es": "a profáund inisiátiv kan kriét sosténabol chénches.",
+                "hi": "अ प्रोफाउंड इनिशिएटिव कैन क्रिएट सस्टेनेबल चेंजेज़।"
+            },
+            "example_expression": "launch a profound initiative",
+            "example_expression_native_transliteration": {
+                "bn": "লঞ্চ অ্যা প্রফাউন্ড ইনিশিয়েটিভ",
+                "es": "lanch a profáund inisiátiv",
+                "hi": "लॉन्च अ प्रोफाউंड इनिशिएटिव"
+            },
+            "example_expression_meaning": "To start a deeply meaningful and impactful program or action.",
+            "position": 2,
+            "synonyms": "significant action, deep movement, meaningful effort, impactful program",
+            "antonyms": "superficial effort, shallow attempt, trivial action, meaningless gesture",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গভীর উদ্যোগ",
+                    "word_transliteration": "gobhir uddyog",
+                    "example_sentence_translation": "গভীর উদ্যোগ টেকসই পরিবর্তন তৈরি করতে পারে।",
+                    "example_sentence_transliteration": "Gobhir uddyog tekshoi poriborton toiri korte pare.",
+                    "example_expression_translation": "গভীর উদ্যোগ চালু করা",
+                    "example_expression_transliteration": "gobhir uddyog chalu kora",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "गहरा उद्यम",
+                    "word_transliteration": "gahra udyam",
+                    "example_sentence_translation": "एक गहरा उद्यम टिकाऊ बदलाव ला सकता है।",
+                    "example_sentence_transliteration": "Ek gahra udyam tikau badlav la sakta hai.",
+                    "example_expression_translation": "गहरा उद्यम शुरू करना",
+                    "example_expression_transliteration": "gahra udyam shuru karna",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "iniciativa profunda",
+                    "word_transliteration": "inisiátiva profúnda",
+                    "example_sentence_translation": "Una iniciativa profunda puede crear cambios sostenibles.",
+                    "example_sentence_transliteration": "Úna inisiátiva profúnda púede kreár kámbios sostenábles.",
+                    "example_expression_translation": "lanzar una iniciativa profunda",
+                    "example_expression_transliteration": "lansár úna inisiátiva profúnda",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "substantial impact",
+            "phonetic": "səbˈstænʃəl ˈɪmpækt",
+            "word_native_transliteration": {
+                "bn": "সাবস্ট্যানশিয়াল ইমপ্যাক্ট",
+                "hi": "सबस्टेंशियल इंपैक्ट",
+                "es": "sostánsiál impákt"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💥",
+            "meaning": "A significant and noticeable effect or influence on something.",
+            "example_sentence": "Substantial impact is possible even with a few hours of volunteering.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাবস্ট্যানশিয়াল ইমপ্যাক্ট ইজ পসিবল ইভেন উইথ অ্যা ফিউ আওয়ার্স অফ ভলান্টিয়ারিং।",
+                "es": "sostánsiál impákt es pósibel íven uid a fiú áuars of volántiring.",
+                "hi": "सबस्टेंशियल इंपैक्ट इज़ पॉसिबल इवन विद अ फ्यू आवर्स ऑफ वॉलंटियरिंग।"
+            },
+            "example_expression": "create substantial impact",
+            "example_expression_native_transliteration": {
+                "bn": "ক্রিয়েট সাবস্ট্যানশিয়াল ইমপ্যাক্ট",
+                "es": "kriét sostánsiál impákt",
+                "hi": "क्रिएट सबस्टेंशियल इंपैक्ट"
+            },
+            "example_expression_meaning": "To produce a significant and meaningful effect or change.",
+            "position": 3,
+            "synonyms": "significant influence, major effect, notable outcome, meaningful change",
+            "antonyms": "negligible effect, minimal impact, insignificant influence, trivial change",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উল্লেখযোগ্য প্রভাব",
+                    "word_transliteration": "ullekhjoggo prabhab",
+                    "example_sentence_translation": "স্বল্প সময়ের স্বেচ্ছাসেবী কাজেও উল্লেখযোগ্য প্রভাব ফেলা সম্ভব।",
+                    "example_sentence_transliteration": "Sholpo shomeyer shecchashebi kajeo ullekhjoggo prabhab fela shombhob.",
+                    "example_expression_translation": "উল্লেখযোগ্য প্রভাব তৈরি",
+                    "example_expression_transliteration": "ullekhjoggo prabhab toiri",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "महत्वपूर्ण प्रभाव",
+                    "word_transliteration": "mahattvapurna prabhav",
+                    "example_sentence_translation": "कुछ घंटों की स्वयंसेवा से भी महत्वपूर्ण प्रभाव संभव है।",
+                    "example_sentence_transliteration": "Kuchh ghanton ki swayamseva se bhi mahattvapurna prabhav sambhav hai.",
+                    "example_expression_translation": "महत्वपूर्ण प्रभाव बनाना",
+                    "example_expression_transliteration": "mahattvapurna prabhav banana",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "impacto sustancial",
+                    "word_transliteration": "impákto sostansiál",
+                    "example_sentence_translation": "Es posible un impacto sustancial incluso con unas pocas horas de voluntariado.",
+                    "example_sentence_transliteration": "Es posíble un impákto sostansiál inklúso kon únas pókas óras de voluntariádo.",
+                    "example_expression_translation": "crear impacto sustancial",
+                    "example_expression_transliteration": "kreár impákto sostansiál",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "acquire",
+            "phonetic": "əˈkwaɪər",
+            "word_native_transliteration": {
+                "bn": "অ্যাকোয়ার",
+                "hi": "अक्वायर",
+                "es": "akuáir"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📚",
+            "meaning": "To gain possession of something, usually through effort or learning.",
+            "example_sentence": "Volunteers acquire new skills through their experiences.",
+            "example_sentence_native_transliteration": {
+                "bn": "ভলান্টিয়ারস অ্যাকোয়ার নিউ স্কিলস থ্রু দেয়ার এক্সপিরিয়েন্সেস।",
+                "es": "volántirs akuáir niú skils zru der ekspírienses.",
+                "hi": "वॉलंटियर्स अक्वायर न्यू स्किल्स थ्रू देयर एक्सपीरिएंसेज़।"
+            },
+            "example_expression": "acquire knowledge",
+            "example_expression_native_transliteration": {
+                "bn": "অ্যাকোয়ার নলেজ",
+                "es": "akuáir nólich",
+                "hi": "अक्वायर नॉलेज"
+            },
+            "example_expression_meaning": "To gain knowledge through learning or experience.",
+            "position": 4,
+            "synonyms": "attain, gain, obtain, secure, achieve, earn",
+            "antonyms": "lose, relinquish, surrender, abandon, forfeit, give up",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অর্জন করা",
+                    "word_transliteration": "orjon kora",
+                    "example_sentence_translation": "স্বেচ্ছাসেবীরা তাদের অভিজ্ঞতার মাধ্যমে নতুন দক্ষতা অর্জন করে।",
+                    "example_sentence_transliteration": "Shecchashebidera tader obhiggotar maddhome notun dokkhota orjon kore.",
+                    "example_expression_translation": "জ্ঞান অর্জন",
+                    "example_expression_transliteration": "gyan orjon",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "प्राप्त करना",
+                    "word_transliteration": "prapt karna",
+                    "example_sentence_translation": "स्वयंसेवक अपने अनुभवों के माध्यम से नई कुशलताएं प्राप्त करते हैं।",
+                    "example_sentence_transliteration": "Swayamsevak apne anubhavon ke madhyam se nayi kushaltaen prapt karte hain.",
+                    "example_expression_translation": "ज्ञान प्राप्त करना",
+                    "example_expression_transliteration": "gyan prapt karna",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "adquirir",
+                    "word_transliteration": "adkirír",
+                    "example_sentence_translation": "Los voluntarios adquieren nuevas habilidades a través de sus experiencias.",
+                    "example_sentence_transliteration": "Los voluntários adkiéren nuévas abilidádes a través de sus ekspériensias.",
+                    "example_expression_translation": "adquirir conocimiento",
+                    "example_expression_transliteration": "adkirír konosimjénto",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "expansion",
+            "phonetic": "ɪkˈspænʃən",
+            "word_native_transliteration": {
+                "bn": "এক্সপ্যানশন",
+                "hi": "एक्सपेंशन",
+                "es": "ekspánsiyon"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "The action of becoming larger or more extensive.",
+            "example_sentence": "Volunteering helps in the expansion of social networks.",
+            "example_sentence_native_transliteration": {
+                "bn": "ভলান্টিয়ারিং হেল্পস ইন দ্য এক্সপ্যানশন অফ সোশ্যাল নেটওয়ার্কস।",
+                "es": "volántiring jelps in de ekspánsiyon of sóshial nétuorks.",
+                "hi": "वॉलंटियरिंग हेल्प्स इन द एक्सपेंशन ऑफ सोशियल नेटवर्क्स।"
+            },
+            "example_expression": "network expansion",
+            "example_expression_native_transliteration": {
+                "bn": "নেটওয়ার্ক এক্সপ্যানশন",
+                "es": "nétuork ekspánsiyon",
+                "hi": "नेटवर्क एक्सपेंशन"
+            },
+            "example_expression_meaning": "The process of growing or extending a network of connections.",
+            "position": 5,
+            "synonyms": "growth, extension, broadening, enlargement, development, increase",
+            "antonyms": "reduction, contraction, shrinkage, decrease, compression, limitation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সম্প্রসারণ",
+                    "word_transliteration": "shomprosharon",
+                    "example_sentence_translation": "স্বেচ্ছাসেবী কাজ সামাজিক নেটওয়ার্কের সম্প্রসারণে সহায়তা করে।",
+                    "example_sentence_transliteration": "Shecchashebi kaj shamajik networkder shomprosharon-e shahayyota kore.",
+                    "example_expression_translation": "নেটওয়ার্ক সম্প্রসারণ",
+                    "example_expression_transliteration": "network shomprosharon",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "विस्तार",
+                    "word_transliteration": "vistaar",
+                    "example_sentence_translation": "स्वयंसेवा सामाजिक नेटवर्क के विस्तार में सहायता करती है।",
+                    "example_sentence_transliteration": "Swayamseva samajik network ke vistaar mein sahaayata karti hai.",
+                    "example_expression_translation": "नेटवर्क विस्तार",
+                    "example_expression_transliteration": "network vistaar",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "expansión",
+                    "word_transliteration": "ekspansión",
+                    "example_sentence_translation": "El voluntariado ayuda en la expansión de las redes sociales.",
+                    "example_sentence_transliteration": "El voluntariádo ayúda en la ekspansión de las rédes sósiáles.",
+                    "example_expression_translation": "expansión de red",
+                    "example_expression_transliteration": "ekspansión de réd",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "marginalized individuals",
+            "phonetic": "ˈmɑːrdʒənəlaɪzd ˌɪndɪˈvɪdʒuəlz",
+            "word_native_transliteration": {
+                "bn": "মার্জিনালাইজড ইনডিভিজুয়ালস",
+                "hi": "मार्जिनलाइज़्ड इंडिविजुअल्स",
+                "es": "marchinaláisd indivídiuals"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👥",
+            "meaning": "People who are excluded from mainstream social, economic, educational, and/or cultural life.",
+            "example_sentence": "Marginalized individuals often face severe challenges.",
+            "example_sentence_native_transliteration": {
+                "bn": "মার্জিনালাইজড ইনডিভিজুয়ালস অফেন ফেস সিভিয়ার চ্যালেঞ্জেস।",
+                "es": "marchinaláisd indivídiuals ófen fés sivíar chalénchs.",
+                "hi": "मार्जिनलाइज़्ड इंडिविजुअल्स ऑफन फेस सीवियर चैलेंजेज़।"
+            },
+            "example_expression": "support marginalized groups",
+            "example_expression_native_transliteration": {
+                "bn": "সাপোর্ট মার্জিনালাইজড গ্রুপস",
+                "es": "sopórt marchinaláisd grúps",
+                "hi": "सपोर्ट मार्जिनलाइज़्ड ग्रुप्स"
+            },
+            "example_expression_meaning": "To provide assistance and advocacy for excluded or disadvantaged groups.",
+            "position": 6,
+            "synonyms": "disadvantaged groups, oppressed people, underprivileged individuals, excluded communities",
+            "antonyms": "privileged groups, mainstream society, advantaged individuals, included communities",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রান্তিক ব্যক্তিরা",
+                    "word_transliteration": "prantik byokti-ra",
+                    "example_sentence_translation": "প্রান্তিক ব্যক্তিরা প্রায়ই কঠিন সমস্যার মুখোমুখি হয়।",
+                    "example_sentence_transliteration": "Prantik byokti-ra prayi kothin shomoshyar mukhomukhi hoy.",
+                    "example_expression_translation": "প্রান্তিক গোষ্ঠীদের সমর্থন",
+                    "example_expression_transliteration": "prantik goshthi-der shomorthon",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "हाशिए पर धकेले गए व्यक्ति",
+                    "word_transliteration": "haashiye par dhakele gaye vyakti",
+                    "example_sentence_translation": "हाशिए पर धकेले गए व्यक्ति अक्सर गंभीर चुनौतियों का सामना करते हैं।",
+                    "example_sentence_transliteration": "Haashiye par dhakele gaye vyakti aksar gambhir chunautiyon ka saamna karte hain.",
+                    "example_expression_translation": "हाशिए पर धकेले गए समूहों का समर्थन",
+                    "example_expression_transliteration": "haashiye par dhakele gaye samuho ka samarthan",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "individuos marginados",
+                    "word_transliteration": "indivíduos marchinádos",
+                    "example_sentence_translation": "Los individuos marginados a menudo enfrentan desafíos severos.",
+                    "example_sentence_transliteration": "Los indivíduos marchinádos a menúdo enfréntan desafíos sevéros.",
+                    "example_expression_translation": "apoyar grupos marginados",
+                    "example_expression_transliteration": "apoyár grúpos marchinádos",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "indispensable support",
+            "phonetic": "ˌɪndɪˈspensəbəl səˈpɔːrt",
+            "word_native_transliteration": {
+                "bn": "ইন্ডিসপেনসেবল সাপোর্ট",
+                "hi": "इंडिस्पेंसेबल सपोर्ट",
+                "es": "indispénsabol sopórt"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "Essential assistance that cannot be done without; absolutely necessary help.",
+            "example_sentence": "Volunteers provide indispensable support to communities.",
+            "example_sentence_native_transliteration": {
+                "bn": "ভলান্টিয়ারস প্রোভাইড ইন্ডিসপেনসেবল সাপোর্ট টু কমিউনিটিস।",
+                "es": "volántirs próvaid indispénsabol sopórt tu komjúnitis.",
+                "hi": "वॉलंटियर्स प्रोवाइड इंडिस्पेंसेबल सपोर्ट टू कम्युनिटीज़।"
+            },
+            "example_expression": "offer indispensable support",
+            "example_expression_native_transliteration": {
+                "bn": "অফার ইন্ডিসপেনসেবল সাপোর্ট",
+                "es": "ófer indispénsabol sopórt",
+                "hi": "ऑफर इंडिस्पेंसेबल सपोर्ट"
+            },
+            "example_expression_meaning": "To provide essential help that is absolutely necessary.",
+            "position": 7,
+            "synonyms": "essential assistance, crucial help, vital aid, necessary support",
+            "antonyms": "optional aid, dispensable help, unnecessary assistance, expendable support",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অপরিহার্য সহায়তা",
+                    "word_transliteration": "oporiharjo shahayyota",
+                    "example_sentence_translation": "স্বেচ্ছাসেবীরা সম্প্রদায়ের জন্য অপরিহার্য সহায়তা প্রদান করে।",
+                    "example_sentence_transliteration": "Shecchashebidera shomprodayer jonno oporiharjo shahayyota prodan kore.",
+                    "example_expression_translation": "অপরিহার্য সহায়তা প্রদান",
+                    "example_expression_transliteration": "oporiharjo shahayyota prodan",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "अनिवार्य सहायता",
+                    "word_transliteration": "anivarya sahaayata",
+                    "example_sentence_translation": "स्वयंसेवक समुदायों को अनिवार्य सहायता प्रदान करते हैं।",
+                    "example_sentence_transliteration": "Swayamsevak samudayon ko anivarya sahaayata pradaan karte hain.",
+                    "example_expression_translation": "अनिवार्य सहायता प्रदान करना",
+                    "example_expression_transliteration": "anivarya sahaayata pradaan karna",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "apoyo indispensable",
+                    "word_transliteration": "apóyo indispensáble",
+                    "example_sentence_translation": "Los voluntarios proporcionan apoyo indispensable a las comunidades.",
+                    "example_sentence_transliteration": "Los voluntários proporsiónán apóyo indispensáble a las komunidádes.",
+                    "example_expression_translation": "ofrecer apoyo indispensable",
+                    "example_expression_transliteration": "ofresér apóyo indispensáble",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "initiatives",
+            "phonetic": "ɪˈnɪʃətɪvz",
+            "word_native_transliteration": {
+                "bn": "ইনিশিয়েটিভস",
+                "hi": "इनिशिएटिव्स",
+                "es": "inisiátivs"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚀",
+            "meaning": "Actions or strategies intended to resolve a difficulty or improve a situation; programs or projects.",
+            "example_sentence": "Community initiatives benefit underprivileged groups.",
+            "example_sentence_native_transliteration": {
+                "bn": "কমিউনিটি ইনিশিয়েটিভস বেনিফিট আন্ডারপ্রিভিলেজড গ্রুপস।",
+                "es": "komjúniti inisiátivs bénefit ánderprivileched grúps.",
+                "hi": "कम्युनिटी इनिशिएटिव्स बेनिफिट अंडरप्रिविलेज्ड ग्रुप्स।"
+            },
+            "example_expression": "launch new initiatives",
+            "example_expression_native_transliteration": {
+                "bn": "লঞ্চ নিউ ইনিশিয়েটিভস",
+                "es": "lanch niú inisiátivs",
+                "hi": "लॉन्च न्यू इनिशिएटिव्स"
+            },
+            "example_expression_meaning": "To start new programs or projects aimed at solving problems or creating improvements.",
+            "position": 8,
+            "synonyms": "programs, projects, campaigns, efforts, endeavors, undertakings",
+            "antonyms": "disinterest, inactivity, passivity, neglect, abandonment, withdrawal",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্যোগসমূহ",
+                    "word_transliteration": "uddyog-shomuho",
+                    "example_sentence_translation": "সম্প্রদায়ের উদ্যোগ সুবিধাবঞ্চিত গোষ্ঠীগুলোর উপকার করে।",
+                    "example_sentence_transliteration": "Shomprodayer uddyog shubidhobonchito goshthi-gulo-r upkar kore.",
+                    "example_expression_translation": "নতুন উদ্যোগ চালু করা",
+                    "example_expression_transliteration": "notun uddyog chalu kora",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "पहल",
+                    "word_transliteration": "pahal",
+                    "example_sentence_translation": "समुदायिक पहल वंचित समूहों को लाभ पहुंचाती है।",
+                    "example_sentence_transliteration": "Samudayik pahal vanchit samuho ko labh pahunchati hai.",
+                    "example_expression_translation": "नई पहल शुरू करना",
+                    "example_expression_transliteration": "nayi pahal shuru karna",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "iniciativas",
+                    "word_transliteration": "inisiátivas",
+                    "example_sentence_translation": "Las iniciativas comunitarias benefician a grupos desfavorecidos.",
+                    "example_sentence_transliteration": "Las inisiátivas komunitárias benefísiän a grúpos desfavorésidos.",
+                    "example_expression_translation": "lanzar nuevas iniciativas",
+                    "example_expression_transliteration": "lansár nuévas inisiátivas",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "collaborate",
+            "phonetic": "kəˈlæbəreɪt",
+            "word_native_transliteration": {
+                "bn": "কলাবোরেট",
+                "hi": "कोलैबोरेट",
+                "es": "kolaborét"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🤝",
+            "meaning": "To work jointly on an activity or project; to cooperate with others.",
+            "example_sentence": "Volunteers often collaborate with local organizations.",
+            "example_sentence_native_transliteration": {
+                "bn": "ভলান্টিয়ারস অফেন কলাবোরেট উইথ লোকাল অর্গানাইজেশনস।",
+                "es": "volántirs ófen kolaborét uid lókal organaisáshions.",
+                "hi": "वॉलंटियर्स ऑफन कोलैबोरेट विद लोकल ऑर्गनाइज़ेशन्स।"
+            },
+            "example_expression": "collaborate effectively",
+            "example_expression_native_transliteration": {
+                "bn": "কলাবোরেট ইফেক্টিভলি",
+                "es": "kolaborét eféktivli",
+                "hi": "कोलैबोरेट इफेक्टिवली"
+            },
+            "example_expression_meaning": "To work together in a productive and successful manner.",
+            "position": 9,
+            "synonyms": "cooperate, partner, work together, team up, join forces, unite",
+            "antonyms": "compete, oppose, conflict, fight against, work alone, isolate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহযোগিতা করা",
+                    "word_transliteration": "shohayogita kora",
+                    "example_sentence_translation": "স্বেচ্ছাসেবীরা প্রায়ই স্থানীয় সংগঠনের সঙ্গে সহযোগিতা করে।",
+                    "example_sentence_transliteration": "Shecchashebidera prayi sthaniya shongothoner shonge shohayogita kore.",
+                    "example_expression_translation": "কার্যকরভাবে সহযোগিতা করা",
+                    "example_expression_transliteration": "karjokorbhabe shohayogita kora",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "सहयोग करना",
+                    "word_transliteration": "sahayog karna",
+                    "example_sentence_translation": "स्वयंसेवक अक्सर स्थानीय संगठनों के साथ सहयोग करते हैं।",
+                    "example_sentence_transliteration": "Swayamsevak aksar sthaniya sangathanon ke saath sahayog karte hain.",
+                    "example_expression_translation": "प्रभावी रूप से सहयोग करना",
+                    "example_expression_transliteration": "prabhavi roop se sahayog karna",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "colaborar",
+                    "word_transliteration": "kolaborár",
+                    "example_sentence_translation": "Los voluntarios a menudo colaboran con organizaciones locales.",
+                    "example_sentence_transliteration": "Los voluntários a menúdo kolaborán kon organisasiónes lokáles.",
+                    "example_expression_translation": "colaborar efectivamente",
+                    "example_expression_transliteration": "kolaborár eféktivamente",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "underprivileged groups",
+            "phonetic": "ˌʌndərˈprɪvəlɪdʒd ɡruːps",
+            "word_native_transliteration": {
+                "bn": "আন্ডারপ্রিভিলেজড গ্রুপস",
+                "hi": "अंडरप्रिविलेज्ड ग्रुप्स",
+                "es": "ánderpriviléchd grúps"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👨‍👩‍👧‍👦",
+            "meaning": "Groups of people who lack the same rights, opportunities, or advantages as other members of society.",
+            "example_sentence": "Underprivileged groups benefit from social initiatives.",
+            "example_sentence_native_transliteration": {
+                "bn": "আন্ডারপ্রিভিলেজড গ্রুপস বেনিফিট ফ্রম সোশ্যাল ইনিশিয়েটিভস।",
+                "es": "ánderpriviléchd grúps bénefit from sóshial inisiátivs.",
+                "hi": "अंडरप्रिविलेज्ड ग्रुप्स बेनिफिट फ्रॉम सोशियल इनिशिएटिव्स।"
+            },
+            "example_expression": "support underprivileged communities",
+            "example_expression_native_transliteration": {
+                "bn": "সাপোর্ট আন্ডারপ্রিভিলেজড কমিউনিটিজ",
+                "es": "sopórt ánderpriviléchd komjúnitis",
+                "hi": "सपोर्ट अंडरप्रिविलेज्ड कम्युनिटीज़"
+            },
+            "example_expression_meaning": "To provide assistance and resources to communities that lack advantages.",
+            "position": 10,
+            "synonyms": "impoverished communities, deprived groups, economically disadvantaged groups, disadvantaged populations",
+            "antonyms": "wealthy groups, privileged communities, advantaged classes, elite groups",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সুবিধাবঞ্চিত গোষ্ঠী",
+                    "word_transliteration": "shubidhobonchito goshthi",
+                    "example_sentence_translation": "সুবিধাবঞ্চিত গোষ্ঠী সামাজিক উদ্যোগ থেকে উপকৃত হয়।",
+                    "example_sentence_transliteration": "Shubidhobonchito goshthi shamajik uddyog theke upokrito hoy.",
+                    "example_expression_translation": "সুবিধাবঞ্চিত সম্প্রদায়ের সমর্থন",
+                    "example_expression_transliteration": "shubidhobonchito shomprodayer shomorthon",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "वंचित समूह",
+                    "word_transliteration": "vanchit samuh",
+                    "example_sentence_translation": "वंचित समूह सामाजिक पहलों से लाभान्वित होते हैं।",
+                    "example_sentence_transliteration": "Vanchit samuh samajik pahlon se labhanvit hote hain.",
+                    "example_expression_translation": "वंचित समुदायों का समर्थन",
+                    "example_expression_transliteration": "vanchit samudayon ka samarthan",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "grupos desfavorecidos",
+                    "word_transliteration": "grúpos desfavorésidos",
+                    "example_sentence_translation": "Los grupos desfavorecidos se benefician de las iniciativas sociales.",
+                    "example_sentence_transliteration": "Los grúpos desfavorésidos se benefísian de las inisiátivas sósiáles.",
+                    "example_expression_translation": "apoyar comunidades desfavorecidas",
+                    "example_expression_transliteration": "apoyár komunidádes desfavorésidas",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "effective connections",
+            "phonetic": "ɪˈfektɪv kəˈnekʃənz",
+            "word_native_transliteration": {
+                "bn": "ইফেক্টিভ কানেকশনস",
+                "hi": "इफेक्टिव कनेक्शन्स",
+                "es": "eféktiv konékshions"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌐",
+            "meaning": "Productive and meaningful relationships or links between people, organizations, or systems that achieve desired results.",
+            "example_sentence": "Volunteers can create effective connections with local businesses.",
+            "example_sentence_native_transliteration": {
+                "bn": "ভলান্টিয়ারস কেন ক্রিয়েট ইফেক্টিভ কানেকশনস উইথ লোকাল বিজনেসেস।",
+                "es": "volántirs kan kriét eféktiv konékshions uid lókal bísines.",
+                "hi": "वॉलंटियर्स कैन क्रिएट इफेक्टिव कनेक्शन्स विद लोकल बिज़नेसेज़।"
+            },
+            "example_expression": "build effective connections",
+            "example_expression_native_transliteration": {
+                "bn": "বিল্ড ইফেক্টিভ কানেকশনস",
+                "es": "bild eféktiv konékshions",
+                "hi": "बिल्ड इफेक्टिव कनेक्शन्स"
+            },
+            "example_expression_meaning": "To establish productive and meaningful relationships that lead to positive outcomes.",
+            "position": 11,
+            "synonyms": "productive relationships, meaningful links, successful partnerships, beneficial networks",
+            "antonyms": "ineffective connections, weak relationships, failed partnerships, broken links",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কার্যকর সংযোগ",
+                    "word_transliteration": "karjokor shongjog",
+                    "example_sentence_translation": "স্বেচ্ছাসেবীরা স্থানীয় ব্যবসার সাথে কার্যকর সংযোগ তৈরি করতে পারে।",
+                    "example_sentence_transliteration": "Shecchashebidera sthaniya byabshar shathe karjokor shongjog toiri korte pare.",
+                    "example_expression_translation": "কার্যকর সংযোগ গড়া",
+                    "example_expression_transliteration": "karjokor shongjog gora",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "प्रभावी संपर्क",
+                    "word_transliteration": "prabhavi sampark",
+                    "example_sentence_translation": "स्वयंसेवक स्थानीय व्यापारों के साथ प्रभावी संपर्क बना सकते हैं।",
+                    "example_sentence_transliteration": "Swayamsevak sthaniya vyaparon ke saath prabhavi sampark bana sakte hain.",
+                    "example_expression_translation": "प्रभावी संपर्क बनाना",
+                    "example_expression_transliteration": "prabhavi sampark banana",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "conexiones efectivas",
+                    "word_transliteration": "koneksiónes eféktivas",
+                    "example_sentence_translation": "Los voluntarios pueden crear conexiones efectivas con empresas locales.",
+                    "example_sentence_transliteration": "Los voluntários puéden kreár koneksiónes eféktivas kon emprétas lokáles.",
+                    "example_expression_translation": "construir conexiones efectivas",
+                    "example_expression_transliteration": "konstruír koneksiónes eféktivas",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

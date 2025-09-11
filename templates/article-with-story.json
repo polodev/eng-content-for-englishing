@@ -3,20 +3,16 @@
         "en": "My first Article",
         "hi": "",
         "es": "",
-        "fr": "",
         "bn": ""
     },
-    "_comment_content_translation": "its a translatable json string. each locale content having both respective locale and english word. in case of english word please make it markdown bold. like **hello** বাংলা",
     "content_translation": {
         "en": "my english content with markdown",
         "hi": "",
         "es": "",
-        "fr": "",
         "bn": ""
     },
     "list": [
         {
-            "_comment_word_native_transliteration": "Native transliteration field contains phonetic representations of the English word 'word' in multiple native language scripts. This is a JSON object with locale keys (bn=Bengali, hi=Hindi, es=Spanish) where each value shows how the English word sounds when written in that native script. Used for pronunciation guidance.",
             "word": "happiness",
             "phonetic": "ˈhæpinəs",
             "word_native_transliteration":
@@ -24,25 +20,20 @@
                 "bn": "হ্যাপিনেস",
                 "hi": "हैप्पीनेस",
                 "es": "jápines",
-                "fr": "apines"
             },
             "parts_of_speech": "noun",
             "emoji": "😊",
             "meaning": "The state of being happy, feeling or showing pleasure or contentment.",
             "example_sentence": "She couldn't hide her happiness when she received the award.",
-            "_comment_example_sentence_native_transliteration": "Native transliteration field contains phonetic representations of the English example sentence in multiple native language scripts. This is a JSON object with locale keys (bn=Bengali, hi=Hindi, es=Spanish) where each value shows how the English sentence sounds when written in that native script. Used for pronunciation guidance.",
             "example_sentence_native_transliteration": {
                 "bn": "শী কুডন্ট হাইড হার হ্যাপিনেস হোয়েন শী রিসিভড দ্য অ্যাওয়ার্ড।",
                 "es": "shí kúdnt jáid jer jápines uen shí risívd de auárd.",
-                "fr": "shí kúdnt jáid jer apines uen shí risívd de auárd.",
                 "hi": "शी कुडन्ट हाइड हर हैप्पीनेस वेन शी रिसीव्ड द अवार्ड।"
             },
             "example_expression": "pursuit of happiness",
-            "_comment_example_expression_native_transliteration": "Native transliteration field contains phonetic representations of the English example expression in multiple native language scripts. This is a JSON object with locale keys (bn=Bengali, hi=Hindi, es=Spanish) where each value shows how the English expression sounds when written in that native script. Used for pronunciation guidance.",
             "example_expression_native_transliteration": {
                 "bn": "পারসুইট অফ হ্যাপিনেস",
                 "es": "pérsúit of jápines",
-                "fr": "pérsúit of apines",
                 "hi": "पर्सूइट ऑफ हैप्पीनेस"
             },
             "example_expression_meaning": "The ongoing effort to find satisfaction, enjoyment, and meaning in life.",
@@ -52,15 +43,12 @@
             "translations":
             [
                 {
-                    "_comment_word_transliteration": "Transliteration field contains the English phonetic representation of the native language translation. This is a STRING field showing how to pronounce the translated word (word_translation) in English letters. Used to help English speakers pronounce the foreign word correctly.",
                     "locale": "bn",
                     "word_translation": "সুখ",
                     "word_transliteration": "shukh",
                     "example_sentence_translation": "তিনি পুরস্কার পাওয়ার সময় তার সুখ লুকাতে পারেননি।",
-                    "_comment_example_sentence_transliteration": "Transliteration field contains the English phonetic representation of the native language sentence translation. This is a STRING field showing how to pronounce the translated sentence (example_sentence_translation) in English letters. Used to help English speakers pronounce the foreign sentence correctly.",
                     "example_sentence_transliteration": "Tini puroshkar paowar somoy tar shukh lukate parenni.",
                     "example_expression_translation": "সুখের অনুসরণ",
-                    "_comment_example_expression_transliteration": "Transliteration field contains the English phonetic representation of the native language expression translation. This is a STRING field showing how to pronounce the translated expression (example_expression_translation) in English letters. Used to help English speakers pronounce the foreign expression correctly.",
                     "example_expression_transliteration": "shukher onushoron",
                     "source": "oxford"
                 },
@@ -83,16 +71,6 @@
                     "example_expression_translation": "búsqueda de la felicidad",
                     "example_expression_transliteration": "búskeda de la felisidád",
                     "source": "oxford"
-                },
-                {
-                    "locale": "fr",
-                    "word_translation": "bonheur",
-                    "word_transliteration": "bon-ur",
-                    "example_sentence_translation": "Elle n'a pas pu cacher son bonheur quand elle a reçu le prix.",
-                    "example_sentence_transliteration": "El na pa pu kash-ay son bon-ur kan el a re-su le pree.",
-                    "example_expression_translation": "poursuite du bonheur",
-                    "example_expression_transliteration": "poor-sweet du bon-ur",
-                    "source": "oxford"
                 }
             ]
         },
@@ -103,7 +81,6 @@
             {
                 "bn": "ফ্রিডম",
                 "es": "frídom",
-                "fr": "frídom",
                 "hi": "फ्रीडम"
             },
             "parts_of_speech": "noun",
@@ -113,14 +90,12 @@
             "example_sentence_native_transliteration": {
                 "bn": "দ্য প্রিজনারস ওয়্যার গ্রান্টেড দেয়ার ফ্রিডম আফটার সার্ভিং দেয়ার সেন্টেন্সেস।",
                 "es": "de prisonérs uér gránted der frídom áfter sérving der séntenses.",
-                "fr": "de prizonér uér gránted der frídom áfter sérving der séntenses.",
                 "hi": "द प्रिज़नर्स वेर ग्रान्टेड देयर फ्रीडम आफ्टर सर्विंग देयर सेंटेंसेस।"
             },
             "example_expression": "freedom of speech",
             "example_expression_native_transliteration": {
                 "bn": "ফ্রিডম অফ স্পিচ",
                 "es": "frídom of spích",
-                "fr": "frídom of spích",
                 "hi": "फ्रीडम ऑफ स्पीच"
             },
             "example_expression_meaning": "The right to express any opinions without censorship or restraint.",
@@ -155,16 +130,8 @@
                     "example_sentence_transliteration": "A los prisionéros se les konsedió la libertád despwés de kumplir sus kondénas.",
                     "example_expression_translation": "libertad de expresión",
                     "example_expression_transliteration": "libertád de ekspresión",
-                },
-                {
-                    "locale": "fr",
-                    "word_translation": "liberté",
-                    "word_transliteration": "lee-ber-tay",
-                    "example_sentence_translation": "Les prisonniers ont obtenu leur liberté après avoir purgé leurs peines.",
-                    "example_sentence_transliteration": "Lay pree-zon-yay on ob-te-nu lur lee-ber-tay ah-pray ah-vwar pur-zhay lur payn.",
-                    "example_expression_translation": "liberté d'expression",
-                    "example_expression_transliteration": "lee-ber-tay deks-pray-syon",
                 }
+                
             ]
         }
     ]
