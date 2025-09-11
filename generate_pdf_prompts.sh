@@ -9,6 +9,7 @@ PDF_FOLDER="/Users/polodev/sites/eng-content/learn_vocabulary_through_stories"
 PROMPT_FOLDER="/Users/polodev/sites/eng-content/prompts"
 RESPONSE_FOLDER="/Users/polodev/sites/eng-content/response-json"
 ALL_PROMPTS_FILE="$PROMPT_FOLDER/all-pdf-prompts.md"
+PROMPT_TEMPLATE_FILE="$PROMPT_FOLDER/article-vocabulary-prompt.md"
 
 # Create prompt and response folders if they don't exist
 mkdir -p "$PROMPT_FOLDER"
@@ -26,9 +27,16 @@ if [ ! -f "$TEMPLATE_FILE" ]; then
     exit 1
 fi
 
+# Check if prompt template file exists
+if [ ! -f "$PROMPT_TEMPLATE_FILE" ]; then
+    echo "Error: Prompt template file not found: $PROMPT_TEMPLATE_FILE"
+    exit 1
+fi
+
 echo "Starting PDF prompt generation..."
 echo "PDF Folder: $PDF_FOLDER"
 echo "Template File: $TEMPLATE_FILE"
+echo "Prompt Template File: $PROMPT_TEMPLATE_FILE"
 echo "Prompt Folder: $PROMPT_FOLDER"
 echo "Response Folder: $RESPONSE_FOLDER"
 echo "Output File: $ALL_PROMPTS_FILE"
@@ -45,23 +53,20 @@ for pdf_file in "$PDF_FOLDER"/*.pdf; do
     if [ -f "$pdf_file" ]; then
         pdf_basename=$(basename "$pdf_file" .pdf)
         
-        # Add heading and prompt for each PDF
+        # Add heading and status
         cat >> "$ALL_PROMPTS_FILE" << EOF
-# $pdf_basename
-## status: not done
-
-my template file is \`$TEMPLATE_FILE\`
-my pdf is in \`$pdf_file\`
-
-please convert pdf content to text content and make a json file inside \`response-json\` folder with name like pdf. Json file should follow template style. exact same as template. as it has only single language. so other locale need to be done: translation, transliteration and native_transliteration
-### basic about 2 terms: 
-- \`*_native_transliteration\`: datatype json with [bn, es, fr, hi] keys. written in respective language. Help non english speakers to know english pronunciation.
-- \`*_transliteration\`: datatype string. written in Pure English. Help english speakers know its pronunciation 
-### content_translation": "
-  its a translatable json string. each locale content having both respective locale and english word. in case of english word please make it markdown bold. like **hello** বাংলা", english word remain english in all locales
-
-
+# status: not done
 EOF
+        
+        # Read the prompt template and customize it for current PDF
+        sed -e "s|01-learn-vocabulary-through-stories|$pdf_basename|g" \
+            -e "s|/Users/polodev/sites/eng-content/learn_vocabulary_through_stories/01-learn-vocabulary-through-stories.pdf|$pdf_file|g" \
+            -e "s|response-json/01-learn-vocabulary-through-stories.json|response-json/$pdf_basename.json|g" \
+            "$PROMPT_TEMPLATE_FILE" >> "$ALL_PROMPTS_FILE"
+        
+        # Add separator between prompts
+        echo "" >> "$ALL_PROMPTS_FILE"
+        echo "" >> "$ALL_PROMPTS_FILE"
         
         echo "Added prompt for: $pdf_basename"
         ((count++))
