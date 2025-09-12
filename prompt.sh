@@ -1,9 +1,5 @@
 #!/bin/bash
 files=(
-  "prompts-single-file/41-learn-vocabulary-through-stories-prompt.md"
-  "prompts-single-file/42-learn-vocabulary-through-stories-prompt.md"
-  "prompts-single-file/43-learn-vocabulary-through-stories-prompt.md"
-  "prompts-single-file/44-learn-vocabulary-through-stories-prompt.md"
   "prompts-single-file/45-learn-vocabulary-through-stories-prompt.md"
   "prompts-single-file/46-learn-vocabulary-through-stories-prompt.md"
   "prompts-single-file/47-learn-vocabulary-through-stories-prompt.md"
@@ -13,7 +9,7 @@ files=(
 )
 
 for f in "${files[@]}"; do
-  echo "▶ Running $f..."
+  echo "▶ Running $f... ($(date '+%Y-%m-%d %H:%M:%S'))"
   claude --dangerously-skip-permissions -p < "$f"
   sleep 5
 done
