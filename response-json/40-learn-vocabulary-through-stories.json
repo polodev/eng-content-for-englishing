@@ -1,0 +1,1097 @@
+{
+    "position": 40,
+    "title_translation": {
+        "en": "Mirsarai: Asia's Largest Economic Zone",
+        "hi": "मिर्सराई: एशिया का सबसे बड़ा **economic zone**",
+        "es": "Mirsarai: La **economic zone** más grande de Asia",
+        "bn": "মীরসরাই: এশিয়ার সবচেয়ে বড় **economic zone**"
+    },
+    "content_translation": {
+        "en": "Bangladesh's largest **economic zone**, which is recognized as a **regional** **industrial** hub, is a vital part of the country's **sustainable** **development**. This is ideal for conducting **diverse** **industrial** activities through **sector-specific** zones.\n\nHere includes **integrated** **facilities**, such as **residential**, **administrative**, and **commercial** **centers**. It is providing **strategic** advantages to increase **domestic** and international investments.\n\nThis initiative has the potential to create employment opportunities and make a positive impact on **economic** indicators. It will play a significant role in GDP growth and is considered a **transformational** **milestone**.",
+        "hi": "बांग्लादेश का सबसे बड़ा **economic zone**, जो **regional** **industrial** hub के रूप में स्वीकृत है, देश के **sustainable** **development** का एक गुरुत्वपूर्ण अंश। यह **sector-specific** zones के माध्यम से **diverse** **industrial** activities संचालन के लिए आदर्श।\n\nयहाँ **integrated** **facilities**, जैसे **residential**, **administrative**, और **commercial** **centers**, शामिल हैं। यह **domestic** और international investments बढ़ाने के लिए **strategic** advantages प्रदान कर रहा है।\n\nइस उद्योग में employment opportunities बनाने और **economic** indicators पर सकारात्मक प्रभाव डालने की संभावना है। यह GDP growth में उल्लेखनीय भूमिका निभाएगा और एक **transformational** **milestone** के रूप में विचारित।",
+        "es": "La **economic zone** más grande de Bangladesh, que está reconocida como un **regional** **industrial** hub, es una parte vital del **sustainable** **development** del país. Esto es ideal para realizar **diverse** **industrial** activities a través de **sector-specific** zones.\n\nAquí incluye **integrated** **facilities**, como **residential**, **administrative**, y **commercial** **centers**. Está proporcionando **strategic** advantages para aumentar las **domestic** e international investments.\n\nEsta iniciativa tiene el potencial de crear employment opportunities y hacer un impacto positivo en los **economic** indicators. Jugará un papel significativo en el GDP growth y es considerado un **transformational** **milestone**.",
+        "bn": "বাংলাদেশের বৃহত্তম **economic zone**, যা **regional** **industrial** hub হিসেবে স্বীকৃত, দেশের **sustainable** **development**-এর একটি গুরুত্বপূর্ণ অংশ। এটি **sector-specific** zones-এর মাধ্যমে **diverse** **industrial** activities পরিচালনার জন্য আদর্শ।\n\nএখানে **integrated** **facilities**, যেমন **residential**, **administrative**, এবং **commercial** **centers**, অন্তর্ভুক্ত রয়েছে। এটি **domestic** এবং international investments বাড়াতে **strategic** advantages প্রদান করছে।\n\nএই উদ্যোগে employment opportunities তৈরি এবং **economic** indicators-এ ইতিবাচক প্রভাব ফেলার সম্ভাবনা রয়েছে। এটি GDP growth-এ উল্লেখযোগ্য ভূমিকা পালন করবে এবং একটি **transformational** **milestone** হিসেবে বিবেচিত।"
+    },
+    "list": [
+        {
+            "word": "economic",
+            "phonetic": "ˌiː.kəˈnɒm.ɪk",
+            "word_native_transliteration": {
+                "bn": "ইকোনমিক",
+                "hi": "इकोनॉमिक",
+                "es": "ekonómik"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💰",
+            "meaning": "Relating to economics or the economy; concerned with the organization of money, industry, and trade.",
+            "example_sentence": "Economic policies drive development.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইকোনমিক পলিসিজ ড্রাইভ ডেভেলপমেন্ট।",
+                "es": "ekonómik polisís dráiv devélopment.",
+                "hi": "इकोनॉमिक पॉलिसीज ड्राइव डेवेलपमेंट।"
+            },
+            "example_expression": "economic zone",
+            "example_expression_native_transliteration": {
+                "bn": "ইকোনমিক জোন",
+                "es": "ekonómik són",
+                "hi": "इकोनॉमिक ज़ोन"
+            },
+            "example_expression_meaning": "A designated area where economic activities are promoted with special policies and incentives.",
+            "position": 1,
+            "synonyms": "financial, monetary, commercial, fiscal",
+            "antonyms": "non-financial, unproductive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অর্থনৈতিক",
+                    "word_transliteration": "orthonaitik",
+                    "example_sentence_translation": "অর্থনৈতিক নীতি উন্নয়নে সহায়ক।",
+                    "example_sentence_transliteration": "Orthonaitik niti unnoyane sahayok.",
+                    "example_expression_translation": "অর্থনৈতিক অঞ্চল",
+                    "example_expression_transliteration": "orthonaitik onchol",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "आर्थिक",
+                    "word_transliteration": "aarthik",
+                    "example_sentence_translation": "आर्थिक नीतियां विकास को बढ़ावा देती हैं।",
+                    "example_sentence_transliteration": "Aarthik nitiyan vikas ko badhava deti hain.",
+                    "example_expression_translation": "आर्थिक क्षेत्र",
+                    "example_expression_transliteration": "aarthik kshetra",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "económico",
+                    "word_transliteration": "ekonómiko",
+                    "example_sentence_translation": "Las políticas económicas impulsan el desarrollo.",
+                    "example_sentence_transliteration": "Las polítikas ekonómikas impulsan el desarróllo.",
+                    "example_expression_translation": "zona económica",
+                    "example_expression_transliteration": "sóna ekonómika",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "zone",
+            "phonetic": "zəʊn",
+            "word_native_transliteration": {
+                "bn": "জোন",
+                "hi": "ज़ोन",
+                "es": "són"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🗺️",
+            "meaning": "An area or stretch of land having a particular characteristic, purpose, or use, or subject to particular restrictions.",
+            "example_sentence": "Industrial zones attract investments.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইন্ডাস্ট্রিয়াল জোনস অ্যাট্র্যাক্ট ইনভেস্টমেন্টস।",
+                "es": "indústriyal sónes atrák invéstments.",
+                "hi": "इंडस्ट्रियल ज़ोन्स अट्रैक्ट इन्वेस्टमेंट्स।"
+            },
+            "example_expression": "free trade zone",
+            "example_expression_native_transliteration": {
+                "bn": "ফ্রি ট্রেড জোন",
+                "es": "frí tréid són",
+                "hi": "फ्री ट्रेड ज़ोन"
+            },
+            "example_expression_meaning": "An area where goods may be landed, handled, manufactured or reconfigured, and re-exported without the intervention of the customs authorities.",
+            "position": 2,
+            "synonyms": "region, territory, area, district",
+            "antonyms": "chaos, unzoned area",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অঞ্চল",
+                    "word_transliteration": "onchol",
+                    "example_sentence_translation": "শিল্প অঞ্চল বিনিয়োগ আকর্ষণ করে।",
+                    "example_sentence_transliteration": "Shilpo onchol biniyog akorshon kore.",
+                    "example_expression_translation": "মুক্ত বাণিজ্য অঞ্চল",
+                    "example_expression_transliteration": "mukto banijjo onchol",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "क्षेत्र",
+                    "word_transliteration": "kshetra",
+                    "example_sentence_translation": "औद्योगिक क्षेत्र निवेश आकर्षित करते हैं।",
+                    "example_sentence_transliteration": "Audyogik kshetra nivesh aakarshit karte hain.",
+                    "example_expression_translation": "मुक्त व्यापार क्षेत्र",
+                    "example_expression_transliteration": "mukt vyaapar kshetra",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "zona",
+                    "word_transliteration": "sóna",
+                    "example_sentence_translation": "Las zonas industriales atraen inversiones.",
+                    "example_sentence_transliteration": "Las sónas industriyáles atráen inversiónes.",
+                    "example_expression_translation": "zona de libre comercio",
+                    "example_expression_transliteration": "sóna de líbre komértsio",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "regional",
+            "phonetic": "ˈriː.dʒən.əl",
+            "word_native_transliteration": {
+                "bn": "রিজিওনাল",
+                "hi": "रीजनल",
+                "es": "reyonál"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌍",
+            "meaning": "Relating to or characteristic of a region; existing in or characteristic of a particular area.",
+            "example_sentence": "Regional hubs support localized industries.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিজিওনাল হাবস সাপোর্ট লোকালাইজড ইন্ডাস্ট্রিজ।",
+                "es": "reyonál jábs supórt lokálaisd indústris.",
+                "hi": "रीजनल हब्स सपोर्ट लोकलाइज्ड इंडस्ट्रीज़।"
+            },
+            "example_expression": "regional development",
+            "example_expression_native_transliteration": {
+                "bn": "রিজিওনাল ডেভেলপমেন্ট",
+                "es": "reyonál devélopment",
+                "hi": "रीजनल डेवेलपमेंट"
+            },
+            "example_expression_meaning": "The provision of aid and other assistance to regions which are less economically developed.",
+            "position": 3,
+            "synonyms": "local, provincial, territorial",
+            "antonyms": "global, international, national",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আঞ্চলিক",
+                    "word_transliteration": "ancholik",
+                    "example_sentence_translation": "আঞ্চলিক কেন্দ্র স্থানীয় শিল্পকে সহায়তা করে।",
+                    "example_sentence_transliteration": "Ancholik kendro sthaniya shilpoke sahayota kore.",
+                    "example_expression_translation": "আঞ্চলিক উন্নয়ন",
+                    "example_expression_transliteration": "ancholik unnoyon",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "क्षेत्रीय",
+                    "word_transliteration": "kshetriya",
+                    "example_sentence_translation": "क्षेत्रीय केंद्र स्थानीय उद्योगों का समर्थन करते हैं।",
+                    "example_sentence_transliteration": "Kshetriya kendra sthaniya udyogon ka samarthan karte hain.",
+                    "example_expression_translation": "क्षेत्रीय विकास",
+                    "example_expression_transliteration": "kshetriya vikas",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "regional",
+                    "word_transliteration": "reyonál",
+                    "example_sentence_translation": "Los centros regionales apoyan las industrias localizadas.",
+                    "example_sentence_transliteration": "Los séntros reyonáles apóyan las indústrias lokalisádas.",
+                    "example_expression_translation": "desarrollo regional",
+                    "example_expression_transliteration": "desarróllo reyonál",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "industrial",
+            "phonetic": "ɪnˈdʌs.tri.əl",
+            "word_native_transliteration": {
+                "bn": "ইন্ডাস্ট্রিয়াল",
+                "hi": "इंडस्ट्रियल",
+                "es": "indústriyal"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🏭",
+            "meaning": "Relating to or characterized by industry; having highly developed industries.",
+            "example_sentence": "Industrial sectors boost exports.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইন্ডাস্ট্রিয়াল সেক্টরস বুস্ট এক্সপোর্টস।",
+                "es": "indústriyal séktors búst ekspórts.",
+                "hi": "इंडस्ट्रियल सेक्टर्स बूस्ट एक्सपोर्ट्स।"
+            },
+            "example_expression": "industrial revolution",
+            "example_expression_native_transliteration": {
+                "bn": "ইন্ডাস্ট্রিয়াল রেভোলিউশন",
+                "es": "indústriyal revolútsion",
+                "hi": "इंडस्ट्रियल रेवोल्यूशन"
+            },
+            "example_expression_meaning": "The rapid development of industry that occurred in Britain in the late 18th and 19th centuries.",
+            "position": 4,
+            "synonyms": "manufacturing, factory-based, mechanical",
+            "antonyms": "agricultural, artisanal, handmade",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শিল্প",
+                    "word_transliteration": "shilpo",
+                    "example_sentence_translation": "শিল্পখাত রপ্তানি বাড়ায়।",
+                    "example_sentence_transliteration": "Shilpokhato roptani baray.",
+                    "example_expression_translation": "শিল্প বিপ্লব",
+                    "example_expression_transliteration": "shilpo biplob",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "औद्योगिक",
+                    "word_transliteration": "audyogik",
+                    "example_sentence_translation": "औद्योगिक क्षेत्र निर्यात बढ़ाते हैं।",
+                    "example_sentence_transliteration": "Audyogik kshetra niraat badhate hain.",
+                    "example_expression_translation": "औद्योगिक क्रांति",
+                    "example_expression_transliteration": "audyogik kranti",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "industrial",
+                    "word_transliteration": "indústriyal",
+                    "example_sentence_translation": "Los sectores industriales impulsan las exportaciones.",
+                    "example_sentence_transliteration": "Los séktores indústriyáles impúlsan las eksportatsiónes.",
+                    "example_expression_translation": "revolución industrial",
+                    "example_expression_transliteration": "revolútsion indústriyal",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sustainable",
+            "phonetic": "səˈsteɪ.nə.bəl",
+            "word_native_transliteration": {
+                "bn": "সাসটেইনেবল",
+                "hi": "सस्टेनेबल",
+                "es": "sustéinábel"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "♻️",
+            "meaning": "Able to be maintained at a certain rate or level; conserving an ecological balance by avoiding depletion of natural resources.",
+            "example_sentence": "Sustainable practices reduce environmental harm.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাসটেইনেবল প্র্যাকটিসেস রিডিউস এনভায়রনমেন্টাল হার্ম।",
+                "es": "sustéinábel práktises ridús enváironmentál járm.",
+                "hi": "सस्टेनेबल प्रैक्टिसेज रिड्यूस एनवायरनमेंटल हार्म।"
+            },
+            "example_expression": "sustainable development",
+            "example_expression_native_transliteration": {
+                "bn": "সাসটেইনেবল ডেভেলপমেন্ট",
+                "es": "sustéinábel devélopment",
+                "hi": "सस्टेनेबल डेवेलपमेंट"
+            },
+            "example_expression_meaning": "Development that meets the needs of the present without compromising the ability of future generations to meet their own needs.",
+            "position": 5,
+            "synonyms": "durable, renewable, maintainable",
+            "antonyms": "unsustainable, short-lived, depleting",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "টেকসই",
+                    "word_transliteration": "teksoi",
+                    "example_sentence_translation": "টেকসই পদ্ধতি পরিবেশগত ক্ষতি কমায়।",
+                    "example_sentence_transliteration": "Teksoi poddhoti poribeshgoto khoti komay.",
+                    "example_expression_translation": "টেকসই উন্নয়ন",
+                    "example_expression_transliteration": "teksoi unnoyon",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "टिकाऊ",
+                    "word_transliteration": "tikaoo",
+                    "example_sentence_translation": "टिकाऊ प्रथाएं पर्यावरणीय नुकसान को कम करती हैं।",
+                    "example_sentence_transliteration": "Tikaoo prathayen paryavaraniya nuksan ko kam karti hain.",
+                    "example_expression_translation": "टिकाऊ विकास",
+                    "example_expression_transliteration": "tikaoo vikas",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "sostenible",
+                    "word_transliteration": "sostenible",
+                    "example_sentence_translation": "Las prácticas sostenibles reducen el daño ambiental.",
+                    "example_sentence_transliteration": "Las práktikas sostenibles redúsen el dáño ambiental.",
+                    "example_expression_translation": "desarrollo sostenible",
+                    "example_expression_transliteration": "desarróllo sostenible",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "development",
+            "phonetic": "dɪˈvel.əp.mənt",
+            "word_native_transliteration": {
+                "bn": "ডেভেলপমেন্ট",
+                "hi": "डेवेलपमेंट",
+                "es": "devélopment"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏗️",
+            "meaning": "The process of developing or being developed; a specified state of growth or advancement.",
+            "example_sentence": "Development initiatives foster innovation.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডেভেলপমেন্ট ইনিশিয়েটিভস ফস্টার ইনোভেশন।",
+                "es": "devélopment inishyátibs fóster inovéishon.",
+                "hi": "डेवेलपमेंट इनिशिएटिव्स फॉस्टर इनोवेशन।"
+            },
+            "example_expression": "urban development",
+            "example_expression_native_transliteration": {
+                "bn": "আর্বান ডেভেলপমেন্ট",
+                "es": "úrban devélopment",
+                "hi": "अर्बन डेवेलपमेंट"
+            },
+            "example_expression_meaning": "The social, economic, and environmental process of improving cities and towns.",
+            "position": 6,
+            "synonyms": "advancement, growth, progress, expansion",
+            "antonyms": "decline, regression, deterioration",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উন্নয়ন",
+                    "word_transliteration": "unnoyon",
+                    "example_sentence_translation": "উন্নয়ন উদ্যোগ উদ্ভাবন বাড়ায়।",
+                    "example_sentence_transliteration": "Unnoyon uddog udvhabon baray.",
+                    "example_expression_translation": "নগর উন্নয়ন",
+                    "example_expression_transliteration": "nogor unnoyon",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "विकास",
+                    "word_transliteration": "vikas",
+                    "example_sentence_translation": "विकास पहल नवाचार को बढ़ावा देती है।",
+                    "example_sentence_transliteration": "Vikas pahal navachar ko badhawa deti hai.",
+                    "example_expression_translation": "शहरी विकास",
+                    "example_expression_transliteration": "shahri vikas",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "desarrollo",
+                    "word_transliteration": "desarróllo",
+                    "example_sentence_translation": "Las iniciativas de desarrollo fomentan la innovación.",
+                    "example_sentence_transliteration": "Las initsiyátibs de desarróllo foméntan la inovatsión.",
+                    "example_expression_translation": "desarrollo urbano",
+                    "example_expression_transliteration": "desarróllo urbáno",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sector-specific",
+            "phonetic": "ˈsek.tər spəˈsɪf.ɪk",
+            "word_native_transliteration": {
+                "bn": "সেক্টর-স্পেসিফিক",
+                "hi": "सेक्टर-स्पेसिफिक",
+                "es": "séktor-espesífik"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎯",
+            "meaning": "Designed for or applying to a particular sector or industry rather than being general purpose.",
+            "example_sentence": "Sector-specific policies attract targeted investments.",
+            "example_sentence_native_transliteration": {
+                "bn": "সেক্টর-স্পেসিফিক পলিসিজ অ্যাট্র্যাক্ট টার্গেটেড ইনভেস্টমেন্টস।",
+                "es": "séktor-espesífik polísis atrák tárgeted invéstments.",
+                "hi": "सेक्टर-स्पेसिफिक पॉलिसीज अट्रैक्ट टार्गेटेड इन्वेस्टमेंट्स।"
+            },
+            "example_expression": "sector-specific regulations",
+            "example_expression_native_transliteration": {
+                "bn": "সেক্টর-স্পেসিফিক রেগুলেশনস",
+                "es": "séktor-espesífik reguléishons",
+                "hi": "सेक्टर-स्पेसिफिक रेगुलेशन्स"
+            },
+            "example_expression_meaning": "Rules and guidelines that apply to specific industries or economic sectors.",
+            "position": 7,
+            "synonyms": "industry-oriented, niche-based, targeted",
+            "antonyms": "generalized, broad-based, universal",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "খাতভিত্তিক",
+                    "word_transliteration": "khatovittik",
+                    "example_sentence_translation": "খাতভিত্তিক নীতিমালা নির্দিষ্ট বিনিয়োগ আকর্ষণ করে।",
+                    "example_sentence_transliteration": "Khatovittik nitimala nirdishto biniyog akorshon kore.",
+                    "example_expression_translation": "খাতভিত্তিক নিয়মকানুন",
+                    "example_expression_transliteration": "khatovittik niyomkanun",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "क्षेत्र-विशिष्ट",
+                    "word_transliteration": "kshetra-vishisht",
+                    "example_sentence_translation": "क्षेत्र-विशिष्ट नीतियां लक्षित निवेश आकर्षित करती हैं।",
+                    "example_sentence_transliteration": "Kshetra-vishisht nitiyan lakshit nivesh aakarshit karti hain.",
+                    "example_expression_translation": "क्षेत्र-विशिष्ट नियम",
+                    "example_expression_transliteration": "kshetra-vishisht niyam",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "específico del sector",
+                    "word_transliteration": "espesífiko del séktor",
+                    "example_sentence_translation": "Las políticas específicas del sector atraen inversiones dirigidas.",
+                    "example_sentence_transliteration": "Las polítikas espesífikas del séktor atráen inversiónes dirishídas.",
+                    "example_expression_translation": "regulaciones específicas del sector",
+                    "example_expression_transliteration": "regulatsiónes espesífikas del séktor",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "diverse",
+            "phonetic": "daɪˈvɜːs",
+            "word_native_transliteration": {
+                "bn": "ডাইভার্স",
+                "hi": "डाइवर्स",
+                "es": "daivers"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌈",
+            "meaning": "Showing a great deal of variety; very different.",
+            "example_sentence": "Diverse industries enhance economic resilience.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডাইভার্স ইন্ডাস্ট্রিজ এনহান্স ইকোনমিক রেসিলিয়েন্স।",
+                "es": "daivers indústris enjáns ekonómik resílyens.",
+                "hi": "डाइवर्स इंडस्ट्रीज़ एन्हांस इकोनॉमिक रेसिलिएंस।"
+            },
+            "example_expression": "diverse portfolio",
+            "example_expression_native_transliteration": {
+                "bn": "ডাইভার্স পোর্টফোলিও",
+                "es": "daivers portfólio",
+                "hi": "डाइवर्स पोर्टफोलियो"
+            },
+            "example_expression_meaning": "A collection of investments that includes a variety of assets to reduce risk.",
+            "position": 8,
+            "synonyms": "varied, multifaceted, assorted, mixed",
+            "antonyms": "uniform, similar, homogeneous",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৈচিত্র্যময়",
+                    "word_transliteration": "boichitrjomoy",
+                    "example_sentence_translation": "বৈচিত্র্যময় শিল্প অর্থনৈতিক স্থিতিশীলতা বাড়ায়।",
+                    "example_sentence_transliteration": "Boichitrjomoy shilpo orthonaitik sthitishilota baray.",
+                    "example_expression_translation": "বৈচিত্র্যময় পোর্টফোলিও",
+                    "example_expression_transliteration": "boichitrjomoy portfolio",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "विविध",
+                    "word_transliteration": "vividh",
+                    "example_sentence_translation": "विविध उद्योग आर्थिक लचीलेपन को बढ़ाते हैं।",
+                    "example_sentence_transliteration": "Vividh udyog aarthik lachileepan ko badhate hain.",
+                    "example_expression_translation": "विविध पोर्टफोलियो",
+                    "example_expression_transliteration": "vividh portfolio",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "diverso",
+                    "word_transliteration": "divérso",
+                    "example_sentence_translation": "Las industrias diversas mejoran la resistencia económica.",
+                    "example_sentence_transliteration": "Las indústrias divérsas mehóran la resisténsia ekonómika.",
+                    "example_expression_translation": "portafolio diverso",
+                    "example_expression_transliteration": "portafólio divérso",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "integrated",
+            "phonetic": "ˈɪn.tɪ.ɡreɪ.tɪd",
+            "word_native_transliteration": {
+                "bn": "ইন্টিগ্রেটেড",
+                "hi": "इंटीग्रेटेड",
+                "es": "integrédad"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔗",
+            "meaning": "Combining or coordinating separate elements so as to provide a harmonious, interrelated whole.",
+            "example_sentence": "Integrated systems optimize efficiency.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইন্টিগ্রেটেড সিস্টেমস অপটিমাইজ এফিশিয়েন্সি।",
+                "es": "integrédad sistéms óptimáis efishénsi.",
+                "hi": "इंटीग्रेटेड सिस्टम्स ऑप्टिमाइज़ एफिशिएंसी।"
+            },
+            "example_expression": "integrated approach",
+            "example_expression_native_transliteration": {
+                "bn": "ইন্টিগ্রেটেড অ্যাপ্রোচ",
+                "es": "integrédad apróch",
+                "hi": "इंटीग्रेटेड अप्रोच"
+            },
+            "example_expression_meaning": "A method that combines different elements or aspects into a unified strategy.",
+            "position": 9,
+            "synonyms": "unified, combined, coordinated, merged",
+            "antonyms": "separated, fragmented, isolated",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সমন্বিত",
+                    "word_transliteration": "somobhit",
+                    "example_sentence_translation": "সমন্বিত ব্যবস্থা দক্ষতা বাড়ায়।",
+                    "example_sentence_transliteration": "Somobhit bybostha dokkhota baray.",
+                    "example_expression_translation": "সমন্বিত পদ্ধতি",
+                    "example_expression_transliteration": "somobhit poddhoti",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "एकीकृत",
+                    "word_transliteration": "ekikrit",
+                    "example_sentence_translation": "एकीकृत प्रणालियां दक्षता को अनुकूलित करती हैं।",
+                    "example_sentence_transliteration": "Ekikrit pranaliyan dakshata ko anukulit karti hain.",
+                    "example_expression_translation": "एकीकृत दृष्टिकोण",
+                    "example_expression_transliteration": "ekikrit drishtikon",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "integrado",
+                    "word_transliteration": "integrádo",
+                    "example_sentence_translation": "Los sistemas integrados optimizan la eficiencia.",
+                    "example_sentence_transliteration": "Los sistémas integrados óptimisan la efitsiénsia.",
+                    "example_expression_translation": "enfoque integrado",
+                    "example_expression_transliteration": "enfóke integrádo",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "facilities",
+            "phonetic": "fəˈsɪl.ɪ.tiz",
+            "word_native_transliteration": {
+                "bn": "ফ্যাসিলিটিজ",
+                "hi": "फैसिलिटीज़",
+                "es": "fasilitís"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏢",
+            "meaning": "Space, equipment, or services that are provided for a particular purpose; buildings, services, equipment provided for a particular activity.",
+            "example_sentence": "Facilities improve industrial productivity.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফ্যাসিলিটিজ ইমপ্রুভ ইন্ডাস্ট্রিয়াল প্রোডাক্টিভিটি।",
+                "es": "fasilitís imprúv indústriyal produktivíti.",
+                "hi": "फैसिलिटीज़ इम्प्रूव इंडस्ट्रियल प्रोडक्टिविटी।"
+            },
+            "example_expression": "research facilities",
+            "example_expression_native_transliteration": {
+                "bn": "রিসার্চ ফ্যাসিলিটিজ",
+                "es": "risérch fasilitís",
+                "hi": "रिसर्च फैसिलिटीज़"
+            },
+            "example_expression_meaning": "Buildings and equipment provided for conducting scientific research and experiments.",
+            "position": 10,
+            "synonyms": "amenities, infrastructure, services, equipment",
+            "antonyms": "hindrances, barriers, obstacles",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সুবিধাসমূহ",
+                    "word_transliteration": "subidhasomuho",
+                    "example_sentence_translation": "সুবিধাগুলি শিল্প উৎপাদনশীলতা বাড়ায়।",
+                    "example_sentence_transliteration": "Subidhaguli shilpo utpadanshilota baray.",
+                    "example_expression_translation": "গবেষণা সুবিধাসমূহ",
+                    "example_expression_transliteration": "gobeshona subidhasomuho",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "सुविधाएं",
+                    "word_transliteration": "suvidhayen",
+                    "example_sentence_translation": "सुविधाएं औद्योगिक उत्पादकता में सुधार करती हैं।",
+                    "example_sentence_transliteration": "Suvidhayen audyogik utpadakta mein sudhar karti hain.",
+                    "example_expression_translation": "अनुसंधान सुविधाएं",
+                    "example_expression_transliteration": "anusandhan suvidhayen",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "instalaciones",
+                    "word_transliteration": "instalatsiónes",
+                    "example_sentence_translation": "Las instalaciones mejoran la productividad industrial.",
+                    "example_sentence_transliteration": "Las instalatsiónes mehóran la produktivíad indústriyal.",
+                    "example_expression_translation": "instalaciones de investigación",
+                    "example_expression_transliteration": "instalatsiónes de investigatsión",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "residential",
+            "phonetic": "ˌrez.ɪˈden.ʃəl",
+            "word_native_transliteration": {
+                "bn": "রেসিডেনশিয়াল",
+                "hi": "रेसिडेंशियल",
+                "es": "residénsiyal"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🏠",
+            "meaning": "Designed for people to live in; relating to housing.",
+            "example_sentence": "Residential areas complement industrial zones.",
+            "example_sentence_native_transliteration": {
+                "bn": "রেসিডেনশিয়াল এরিয়াস কমপ্লিমেন্ট ইন্ডাস্ট্রিয়াল জোনস।",
+                "es": "residénsiyal árias komplimént indústriyal sóns.",
+                "hi": "रेसिडेंशियल एरियाज़ कॉम्प्लिमेंट इंडस्ट्रियल ज़ोन्स।"
+            },
+            "example_expression": "residential development",
+            "example_expression_native_transliteration": {
+                "bn": "রেসিডেনশিয়াল ডেভেলপমেন্ট",
+                "es": "residénsiyal devélopment",
+                "hi": "रेसिडेंशियल डेवेलपमेंट"
+            },
+            "example_expression_meaning": "The construction of housing projects or neighborhoods for people to live in.",
+            "position": 11,
+            "synonyms": "domestic, dwelling-related, housing",
+            "antonyms": "commercial, industrial, public",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আবাসিক",
+                    "word_transliteration": "abashik",
+                    "example_sentence_translation": "আবাসিক এলাকা শিল্প অঞ্চলের পরিপূরক।",
+                    "example_sentence_transliteration": "Abashik elaka shilpo oncholder poripurok.",
+                    "example_expression_translation": "আবাসিক উন্নয়ন",
+                    "example_expression_transliteration": "abashik unnoyon",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "आवासीय",
+                    "word_transliteration": "avasiya",
+                    "example_sentence_translation": "आवासीय क्षेत्र औद्योगिक क्षेत्रों के पूरक हैं।",
+                    "example_sentence_transliteration": "Avasiya kshetra audyogik kshetron ke purak hain.",
+                    "example_expression_translation": "आवासीय विकास",
+                    "example_expression_transliteration": "avasiya vikas",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "residencial",
+                    "word_transliteration": "residénsiyal",
+                    "example_sentence_translation": "Las áreas residenciales complementan las zonas industriales.",
+                    "example_sentence_transliteration": "Las áreas residensiyáles kompleméntan las sónas indústriyáles.",
+                    "example_expression_translation": "desarrollo residencial",
+                    "example_expression_transliteration": "desarróllo residénsiyal",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "administrative",
+            "phonetic": "ədˈmɪn.ɪ.strə.tɪv",
+            "word_native_transliteration": {
+                "bn": "অ্যাডমিনিস্ট্রেটিভ",
+                "hi": "एडमिनिस्ट्रेटिव",
+                "es": "administratíf"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📋",
+            "meaning": "Relating to the running of a business, organization, or institution; concerned with or relating to management.",
+            "example_sentence": "Administrative reforms enhance governance.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাডমিনিস্ট্রেটিভ রিফর্মস এনহান্স গভার্নেন্স।",
+                "es": "administratíf rifórms enjáns góvernaens.",
+                "hi": "एडमिनिस्ट्रेटिव रिफॉर्म्स एन्हांस गवर्नेंस।"
+            },
+            "example_expression": "administrative efficiency",
+            "example_expression_native_transliteration": {
+                "bn": "অ্যাডমিনিস্ট্রেটিভ এফিশিয়েন্সি",
+                "es": "administratíf efishénsi",
+                "hi": "एडमिनिस्ट्रेटिव एफिशिएंसी"
+            },
+            "example_expression_meaning": "The effectiveness and competence of organizational management and operations.",
+            "position": 12,
+            "synonyms": "managerial, bureaucratic, organizational",
+            "antonyms": "non-managerial, unorganized, operational",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রশাসনিক",
+                    "word_transliteration": "proshasonik",
+                    "example_sentence_translation": "প্রশাসনিক সংস্কার শাসনকে উন্নত করে।",
+                    "example_sentence_transliteration": "Proshasonik songsklar shashonke unnoto kore.",
+                    "example_expression_translation": "প্রশাসনিক দক্ষতা",
+                    "example_expression_transliteration": "proshasonik dokkhota",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "प्रशासनिक",
+                    "word_transliteration": "prashasanik",
+                    "example_sentence_translation": "प्रशासनिक सुधार शासन को बेहतर बनाते हैं।",
+                    "example_sentence_transliteration": "Prashasanik sudhar shashan ko behatar banate hain.",
+                    "example_expression_translation": "प्रशासनिक दक्षता",
+                    "example_expression_transliteration": "prashasanik dakshata",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "administrativo",
+                    "word_transliteration": "administratívo",
+                    "example_sentence_translation": "Las reformas administrativas mejoran la gobernanza.",
+                    "example_sentence_transliteration": "Las refórmas administratívas mehóran la gobernánsa.",
+                    "example_expression_translation": "eficiencia administrativa",
+                    "example_expression_transliteration": "efitsiénsia administratíva",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "commercial",
+            "phonetic": "kəˈmɜː.ʃəl",
+            "word_native_transliteration": {
+                "bn": "কমার্শিয়াল",
+                "hi": "कमर्शियल",
+                "es": "komersiál"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🏪",
+            "meaning": "Concerned with or engaged in commerce; making or intended to make a profit.",
+            "example_sentence": "Commercial hubs attract investments.",
+            "example_sentence_native_transliteration": {
+                "bn": "কমার্শিয়াল হাবস অ্যাট্র্যাক্ট ইনভেস্টমেন্টস।",
+                "es": "komersiál jábs atrák invéstments.",
+                "hi": "कमर्शियल हब्स अट्रैक्ट इन्वेस्टमेंट्स।"
+            },
+            "example_expression": "commercial district",
+            "example_expression_native_transliteration": {
+                "bn": "কমার্শিয়াল ডিস্ট্রিক্ট",
+                "es": "komersiál distrík",
+                "hi": "कमर्शियल डिस्ट्रिक्ट"
+            },
+            "example_expression_meaning": "An area of a city where businesses, shops, and offices are concentrated.",
+            "position": 13,
+            "synonyms": "trade-related, mercantile, business",
+            "antonyms": "non-commercial, non-trade, residential",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাণিজ্যিক",
+                    "word_transliteration": "banijjik",
+                    "example_sentence_translation": "বাণিজ্যিক কেন্দ্র বিনিয়োগ আকর্ষণ করে।",
+                    "example_sentence_transliteration": "Banijjik kendro biniyog akorshon kore.",
+                    "example_expression_translation": "বাণিজ্যিক জেলা",
+                    "example_expression_transliteration": "banijjik jela",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "व्यावसायिक",
+                    "word_transliteration": "vyavasayik",
+                    "example_sentence_translation": "व्यावसायिक केंद्र निवेश आकर्षित करते हैं।",
+                    "example_sentence_transliteration": "Vyavasayik kendra nivesh aakarshit karte hain.",
+                    "example_expression_translation": "व्यावसायिक जिला",
+                    "example_expression_transliteration": "vyavasayik jila",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "comercial",
+                    "word_transliteration": "komersiál",
+                    "example_sentence_translation": "Los centros comerciales atraen inversiones.",
+                    "example_sentence_transliteration": "Los séntros komersiáles atráen inversiónes.",
+                    "example_expression_translation": "distrito comercial",
+                    "example_expression_transliteration": "distrík komersiál",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "centers",
+            "phonetic": "ˈsen.tərz",
+            "word_native_transliteration": {
+                "bn": "সেন্টারস",
+                "hi": "सेंटर्स",
+                "es": "séntors"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏛️",
+            "meaning": "Places where a particular activity is concentrated; the middle point of something.",
+            "example_sentence": "Centers drive regional development.",
+            "example_sentence_native_transliteration": {
+                "bn": "সেন্টারস ড্রাইভ রিজিওনাল ডেভেলপমেন্ট।",
+                "es": "séntors dráiv reyonál devélopment.",
+                "hi": "सेंटर्स ड्राइव रीजनल डेवेलपमेंट।"
+            },
+            "example_expression": "business centers",
+            "example_expression_native_transliteration": {
+                "bn": "বিজনেস সেন্টারস",
+                "es": "bisnes séntors",
+                "hi": "बिजनेस सेंटर्स"
+            },
+            "example_expression_meaning": "Areas or buildings specifically designed for conducting business activities and operations.",
+            "position": 14,
+            "synonyms": "hubs, focal points, headquarters",
+            "antonyms": "peripheries, outskirts, edges",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কেন্দ্র",
+                    "word_transliteration": "kendro",
+                    "example_sentence_translation": "কেন্দ্র আঞ্চলিক উন্নয়নকে পরিচালিত করে।",
+                    "example_sentence_transliteration": "Kendro ancholik unnoyonke porichalit kore.",
+                    "example_expression_translation": "ব্যবসায়িক কেন্দ্র",
+                    "example_expression_transliteration": "byabsayik kendro",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "केंद्र",
+                    "word_transliteration": "kendra",
+                    "example_sentence_translation": "केंद्र क्षेत्रीय विकास को संचालित करते हैं।",
+                    "example_sentence_transliteration": "Kendra kshetriya vikas ko sanchalit karte hain.",
+                    "example_expression_translation": "व्यावसायिक केंद्र",
+                    "example_expression_transliteration": "vyavasayik kendra",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "centros",
+                    "word_transliteration": "séntros",
+                    "example_sentence_translation": "Los centros impulsan el desarrollo regional.",
+                    "example_sentence_transliteration": "Los séntros impúlsan el desarróllo reyonál.",
+                    "example_expression_translation": "centros de negocios",
+                    "example_expression_transliteration": "séntros de negótsios",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "domestic",
+            "phonetic": "dəˈmes.tɪk",
+            "word_native_transliteration": {
+                "bn": "ডোমেস্টিক",
+                "hi": "डोमेस्टिक",
+                "es": "doméstik"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🏡",
+            "meaning": "Relating to the running of a home or family; existing or occurring inside a particular country; not foreign or international.",
+            "example_sentence": "Domestic investments stabilize the economy.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডোমেস্টিক ইনভেস্টমেন্টস স্ট্যাবিলাইজ দি ইকনমি।",
+                "es": "doméstik invéstments estabílis di ekonómi.",
+                "hi": "डोमेस्टिक इन्वेस्टमेंट्स स्टेबिलाइज़ द इकॉनमी।"
+            },
+            "example_expression": "domestic market",
+            "example_expression_native_transliteration": {
+                "bn": "ডোমেস্টিক মার্কেট",
+                "es": "doméstik márket",
+                "hi": "डोमेस्टिक मार्केट"
+            },
+            "example_expression_meaning": "The marketplace for goods and services within a country's own borders.",
+            "position": 15,
+            "synonyms": "internal, national, local, home-grown",
+            "antonyms": "international, foreign, external",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অভ্যন্তরীণ",
+                    "word_transliteration": "ovhontorin",
+                    "example_sentence_translation": "অভ্যন্তরীণ বিনিয়োগ অর্থনীতিকে স্থিতিশীল করে।",
+                    "example_sentence_transliteration": "Ovhontorin biniyog orthonitioke sthitishil kore.",
+                    "example_expression_translation": "অভ্যন্তরীণ বাজার",
+                    "example_expression_transliteration": "ovhontorin bajar",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "घरेलू",
+                    "word_transliteration": "gharelu",
+                    "example_sentence_translation": "घरेलू निवेश अर्थव्यवस्था को स्थिर करते हैं।",
+                    "example_sentence_transliteration": "Gharelu nivesh arthvyavastha ko sthir karte hain.",
+                    "example_expression_translation": "घरेलू बाज़ार",
+                    "example_expression_transliteration": "gharelu bazaar",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "doméstico",
+                    "word_transliteration": "doméstiko",
+                    "example_sentence_translation": "Las inversiones domésticas estabilizan la economía.",
+                    "example_sentence_transliteration": "Las inversiónes dométikas estabilisan la ekonomía.",
+                    "example_expression_translation": "mercado doméstico",
+                    "example_expression_transliteration": "merkádo doméstiko",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "strategic",
+            "phonetic": "strəˈtiː.dʒɪk",
+            "word_native_transliteration": {
+                "bn": "স্ট্র্যাটেজিক",
+                "hi": "स्ट्रैटेजिक",
+                "es": "estratéhik"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎯",
+            "meaning": "Relating to the identification of long-term or overall aims and interests and the means of achieving them.",
+            "example_sentence": "Strategic policies enhance competitiveness.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্ট্র্যাটেজিক পলিসিজ এনহান্স কমপেটিটিভনেস।",
+                "es": "estratéhik polísís enjáns kompetitívnes.",
+                "hi": "स्ट्रैटेजिक पॉलिसीज़ एन्हांस कम्पेटिटिवनेस।"
+            },
+            "example_expression": "strategic planning",
+            "example_expression_native_transliteration": {
+                "bn": "স্ট্র্যাটেজিক প্ল্যানিং",
+                "es": "estratéhik pláning",
+                "hi": "स्ट्रैटेजिक प्लैनिंग"
+            },
+            "example_expression_meaning": "The process of defining an organization's strategy and making decisions on allocating resources to pursue this strategy.",
+            "position": 16,
+            "synonyms": "tactical, planned, calculated, deliberate",
+            "antonyms": "unplanned, haphazard, random",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কৌশলগত",
+                    "word_transliteration": "koushlgoto",
+                    "example_sentence_translation": "কৌশলগত নীতিমালা প্রতিযোগিতা বাড়ায়।",
+                    "example_sentence_transliteration": "Koushlgoto nitimala protijogita baray.",
+                    "example_expression_translation": "কৌশলগত পরিকল্পনা",
+                    "example_expression_transliteration": "koushlgoto porikolpona",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "रणनीतिक",
+                    "word_transliteration": "rannitik",
+                    "example_sentence_translation": "रणनीतिक नीतियां प्रतिस्पर्धा बढ़ाती हैं।",
+                    "example_sentence_transliteration": "Rannitik nitiyan pratispardha badhati hain.",
+                    "example_expression_translation": "रणनीतिक योजना",
+                    "example_expression_transliteration": "rannitik yojana",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "estratégico",
+                    "word_transliteration": "estratéhiko",
+                    "example_sentence_translation": "Las políticas estratégicas mejoran la competitividad.",
+                    "example_sentence_transliteration": "Las polítikas estratéhikas mehóran la kompetitivídad.",
+                    "example_expression_translation": "planificación estratégica",
+                    "example_expression_transliteration": "planifikatsión estratéhika",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "transformational",
+            "phonetic": "ˌtræns.fəˈmeɪ.ʃən.əl",
+            "word_native_transliteration": {
+                "bn": "ট্রান্সফরমেশনাল",
+                "hi": "ट्रांसफॉर्मेशनल",
+                "es": "transformatsionál"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🦋",
+            "meaning": "Causing a marked change in someone or something; having the effect of changing a person or situation completely.",
+            "example_sentence": "Transformational projects redefine progress.",
+            "example_sentence_native_transliteration": {
+                "bn": "ট্রান্সফরমেশনাল প্রজেক্টস রিডিফাইন প্রগ্রেস।",
+                "es": "transformatsionál proyékts ridifáin progrés.",
+                "hi": "ट्रांसफॉर्मेशनल प्रोजेक्ट्स रिडिफाइन प्रोग्रेस।"
+            },
+            "example_expression": "transformational change",
+            "example_expression_native_transliteration": {
+                "bn": "ট্রান্সফরমেশনাল চেঞ্জ",
+                "es": "transformatsionál chéynch",
+                "hi": "ट्रांसफॉर्मेशनल चेंज"
+            },
+            "example_expression_meaning": "A fundamental alteration that creates a new state or condition, often irreversible and comprehensive.",
+            "position": 17,
+            "synonyms": "revolutionary, groundbreaking, radical, paradigm-shifting",
+            "antonyms": "traditional, stagnant, conservative",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রূপান্তরমূলক",
+                    "word_transliteration": "rupantormulok",
+                    "example_sentence_translation": "রূপান্তরমূলক প্রকল্প অগ্রগতিকে নতুন করে সংজ্ঞায়িত করে।",
+                    "example_sentence_transliteration": "Rupantormulok prokolpo ogrogotioke notun kore songjayito kore.",
+                    "example_expression_translation": "রূপান্তরমূলক পরিবর্তন",
+                    "example_expression_transliteration": "rupantormulok poriborton",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "परिवर्तनकारी",
+                    "word_transliteration": "parivartankari",
+                    "example_sentence_translation": "परिवर्तनकारी परियोजनाएं प्रगति को पुनर्परिभाषित करती हैं।",
+                    "example_sentence_transliteration": "Parivartankari pariyojanayen pragati ko punarparibhashit karti hain.",
+                    "example_expression_translation": "परिवर्तनकारी बदलाव",
+                    "example_expression_transliteration": "parivartankari badlav",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "transformacional",
+                    "word_transliteration": "transformatsionál",
+                    "example_sentence_translation": "Los proyectos transformacionales redefinen el progreso.",
+                    "example_sentence_transliteration": "Los proyéktos transformatsionáles redefínen el progrés.",
+                    "example_expression_translation": "cambio transformacional",
+                    "example_expression_transliteration": "kámbio transformatsionál",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "milestone",
+            "phonetic": "ˈmaɪl.stəʊn",
+            "word_native_transliteration": {
+                "bn": "মাইলস্টোন",
+                "hi": "माइलस्टोन",
+                "es": "máilston"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏁",
+            "meaning": "A significant stage or event in the development of something; an important point in progress or development.",
+            "example_sentence": "Milestones mark pivotal achievements.",
+            "example_sentence_native_transliteration": {
+                "bn": "মাইলস্টোনস মার্ক পিভোটাল অ্যাচিভমেন্টস।",
+                "es": "máilstons márk pivótál achívments.",
+                "hi": "माइलस्टोन्स मार्क पिवोटल अचीवमेंट्स।"
+            },
+            "example_expression": "historic milestone",
+            "example_expression_native_transliteration": {
+                "bn": "হিস্টরিক মাইলস্টোন",
+                "es": "jistórik máilston",
+                "hi": "हिस्टोरिक माइलस्टोन"
+            },
+            "example_expression_meaning": "A significant achievement or event that will be remembered as important in history.",
+            "position": 18,
+            "synonyms": "landmark, achievement, breakthrough, turning point",
+            "antonyms": "setback, obstacle, regression",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মাইলফলক",
+                    "word_transliteration": "mailfolok",
+                    "example_sentence_translation": "মাইলফলক গুরুত্বপূর্ণ সাফল্য নির্দেশ করে।",
+                    "example_sentence_transliteration": "Mailfolok gurutbopurno shafoljo nirdesh kore.",
+                    "example_expression_translation": "ঐতিহাসিক মাইলফলক",
+                    "example_expression_transliteration": "oitihasik mailfolok",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "मील का पत्थर",
+                    "word_transliteration": "meel ka patthar",
+                    "example_sentence_translation": "मील के पत्थर महत्वपूर्ण उपलब्धियों को दर्शाते हैं।",
+                    "example_sentence_transliteration": "Meel ke patthar mahattvapurna uplabdhiyon ko darshate hain.",
+                    "example_expression_translation": "ऐतिहासिक मील का पत्थर",
+                    "example_expression_transliteration": "aitihasik meel ka patthar",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "hito",
+                    "word_transliteration": "íto",
+                    "example_sentence_translation": "Los hitos marcan logros fundamentales.",
+                    "example_sentence_transliteration": "Los ítos márkan lógros fundamentáles.",
+                    "example_expression_translation": "hito histórico",
+                    "example_expression_transliteration": "íto istóriko",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}
