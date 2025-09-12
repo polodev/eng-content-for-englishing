@@ -1,0 +1,617 @@
+{
+    "position": 27,
+    "title_translation": {
+        "en": "Educators' Proposals for Education Crisis",
+        "hi": "शिक्षा संकट के लिए शिक्षाविदों के प्रस्ताव",
+        "es": "Propuestas de Educadores para la Crisis Educativa",
+        "bn": "শিক্ষার সংকটে শিক্ষাবিদের প্রস্তাব"
+    },
+    "content_translation": {
+        "en": "Students and young society need to be kept away from politics to **protect** them. **Maintaining** the educational environment in educational institutions is extremely important. **Direct** and **indirect** **communication** should be **disconnect**ed between student leagues and Awami League.\n\nAuthorities of all educational institutions and local administration must **strictly** **suppress** criminal activities. **Full** **cooperation** from all levels of government is needed. This step is extremely **necessary** to **restore** the glorious tradition of student politics.\n\nDespite having **agreement** on **critical objectives** for educational development, some **differences** may remain. **Important policies** should be **implement**ed subject to **discussion** and **approval** in the national parliament.\n\nExpecting **complete** **solution** to all problems from a single **national education policy** is not **practical**. Through **Experience-based progress** and gradually **addressing complex issues**, it is possible to find the path to solutions.",
+        "hi": "छात्रों और युवा समाज को राजनीति से दूर रखना आवश्यक है उन्हें **protect** करने के लिए। शैक्षणिक संस्थानों में **maintaining** शैक्षिक पर्यावरण अत्यंत महत्वपूर्ण है। छात्र लीग और आवामी लीग के बीच **direct** और **indirect** **communication** **disconnect** करना चाहिए।\n\nसभी शैक्षणिक संस्थानों के अधिकारियों और स्थानीय प्रशासन को **strictly** अपराधिक गतिविधियों को **suppress** करना होगा। सरकार के सभी स्तरों से **full** **cooperation** की आवश्यकता है। छात्र राजनीति की गौरवशाली परंपरा को **restore** करने के लिए यह कदम अत्यंत **necessary** है।\n\nशैक्षिक विकास के **critical objectives** पर **agreement** होने के बावजूद भी कुछ **differences** हो सकते हैं। राष्ट्रीय संसद में **discussion** और **approval** के अधीन **important policies** **implement** करना चाहिए।\n\nएक **national education policy** से सभी समस्याओं का **complete** **solution** अपेक्षा करना **practical** नहीं है। **Experience-based progress** और धीरे-धीरे **addressing complex issues** द्वारा समाधान का रास्ता खोजना संभव है।",
+        "es": "Los estudiantes y la sociedad joven necesitan mantenerse alejados de la política para **protect**erlos. **Maintaining** el ambiente educativo en las instituciones educativas es extremadamente importante. La **communication** **direct**a e **indirect**a debe ser **disconnect**ada entre las ligas estudiantiles y la Liga Awami.\n\nLas autoridades de todas las instituciones educativas y la administración local deben **strictly** **suppress** las actividades criminales. Se necesita **full** **cooperation** de todos los niveles del gobierno. Este paso es extremadamente **necessary** para **restore** la gloriosa tradición de la política estudiantil.\n\nA pesar de tener **agreement** en **critical objectives** para el desarrollo educativo, algunas **differences** pueden permanecer. Las **important policies** deben ser **implement**adas sujetas a **discussion** y **approval** en el parlamento nacional.\n\nEsperar una **complete** **solution** a todos los problemas de una sola **national education policy** no es **practical**. A través del **Experience-based progress** y gradualmente **addressing complex issues**, es posible encontrar el camino hacia las soluciones.",
+        "bn": "ছাত্র ও তরুণ সমাজকে **protect** করার জন্য অপরাজনীতি থেকে দূরে রাখা প্রয়োজন। শিক্ষাঙ্গনে **maintaining** শিক্ষার পরিবেশ অত্যন্ত গুরুত্বপূর্ণ। ছাত্রলীগ এবং আওয়ামী লীগের **direct** এবং **indirect** **communication** **disconnect** করা উচিত।\n\nসব শিক্ষাপ্রতিষ্ঠানের কর্তৃপক্ষ এবং স্থানীয় প্রশাসনকে **strictly** **suppress** করতে হবে অপরাধমূলক কার্যকলাপ। সরকারের সর্বস্তরের **full** **cooperation** প্রয়োজন। ছাত্রারাজনীতির গৌরবময় ঐতিহ্য **restore** করার জন্য এই পদক্ষেপ অত্যন্ত **necessary**।\n\nশিক্ষা উন্নয়নের **critical objectives** বাস্তবায়নে **agreement** থাকা সত্ত্বেও কিছু **differences** থাকতে পারে। জাতীয় সংসদে **discussion** এবং **approval** সাপেক্ষে **important policies** **implement** করা উচিত।\n\nএকটি **national education policy** থেকে সব সমস্যার **complete** **solution** আশা করা **practical** নয়। **Experience-based progress** এবং পর্যায়ক্রমে **addressing complex issues** দ্বারা সমাধানের পথ খুঁজে পাওয়া সম্ভব।"
+    },
+    "list": [
+        {
+            "word": "protect",
+            "phonetic": "prəˈtɛkt",
+            "word_native_transliteration": {
+                "bn": "প্রোটেক্ট",
+                "hi": "प्रोटेक्ट",
+                "es": "protékt"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🛡️",
+            "meaning": "To keep safe from harm, injury, damage, or loss; to defend or guard.",
+            "example_sentence": "Measures are necessary to protect students from political exploitation.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেজারস আর নেসেসারি টু প্রোটেক্ট স্টুডেন্টস ফ্রম পলিটিক্যাল এক্সপ্লয়টেশন।",
+                "es": "méshurs ar nesésari tú protékt studénts from politíkal eksploitéshon.",
+                "hi": "मेझर्स आर नेसेसरी टू प्रोटेक्ट स्टूडेंट्स फ्रॉम पॉलिटिकल एक्सप्लॉयटेशन।"
+            },
+            "example_expression": "protective measures",
+            "example_expression_native_transliteration": {
+                "bn": "প্রোটেকটিভ মেজারস",
+                "es": "protektív méshurs",
+                "hi": "प्रोटेकटिव मेझर्स"
+            },
+            "example_expression_meaning": "Actions taken to prevent harm or damage.",
+            "position": 1,
+            "synonyms": "defend, safeguard, shield, guard, secure, preserve",
+            "antonyms": "harm, endanger, expose, attack, threaten, damage",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রক্ষা করা",
+                    "word_transliteration": "roksha kora",
+                    "example_sentence_translation": "শিক্ষার্থীদের রাজনৈতিক শোষণ থেকে রক্ষা করার জন্য ব্যবস্থা প্রয়োজন।",
+                    "example_sentence_transliteration": "Shikkharthider rajnoitik shokhon theke roksha korar jonno bebostha proyojon.",
+                    "example_expression_translation": "সুরক্ষামূলক ব্যবস্থা",
+                    "example_expression_transliteration": "shurokkhya mulok bebostha",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "रक्षा करना",
+                    "word_transliteration": "raksha karna",
+                    "example_sentence_translation": "छात्रों को राजनीतिक शोषण से बचाने के लिए उपाय आवश्यक हैं।",
+                    "example_sentence_transliteration": "Chaatron ko rajnitik shoshan se bachane ke liye upaay aawashyak hain.",
+                    "example_expression_translation": "सुरक्षात्मक उपाय",
+                    "example_expression_transliteration": "suraksha aatmak upaay",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "proteger",
+                    "word_transliteration": "protehér",
+                    "example_sentence_translation": "Son necesarias medidas para proteger a los estudiantes de la explotación política.",
+                    "example_sentence_transliteration": "Son nesésarias médidas para protehér a los estudiántes de la eksplotasión polítika.",
+                    "example_expression_translation": "medidas protectoras",
+                    "example_expression_transliteration": "médidas protektóras",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "maintain",
+            "phonetic": "meɪnˈteɪn",
+            "word_native_transliteration": {
+                "bn": "মেইনটেইন",
+                "hi": "मेंटेन",
+                "es": "mentén"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⚖️",
+            "meaning": "To keep something in its existing state; to preserve or sustain.",
+            "example_sentence": "Maintaining discipline in educational institutions is crucial.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেইনটেইনিং ডিসিপ্লিন ইন এডুকেশনাল ইনস্টিটিউশনস ইজ ক্রুশিয়াল।",
+                "es": "menténing disíplin in edukéshonal institúshons is krúshal.",
+                "hi": "मेंटेनिंग डिसिप्लिन इन एजुकेशनल इंस्टिट्यूशन्स इज़ क्रूशल।"
+            },
+            "example_expression": "maintain order",
+            "example_expression_native_transliteration": {
+                "bn": "মেইনটেইন অর্ডার",
+                "es": "mentén órdər",
+                "hi": "मेंटेन ऑर्डर"
+            },
+            "example_expression_meaning": "To keep things organized and under control.",
+            "position": 2,
+            "synonyms": "sustain, preserve, uphold, keep, continue, retain",
+            "antonyms": "neglect, abandon, destroy, disrupt, discontinue, break",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বজায় রাখা",
+                    "word_transliteration": "bojay rakha",
+                    "example_sentence_translation": "শিক্ষাপ্রতিষ্ঠানে শৃঙ্খলা বজায় রাখা অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Shiksha protishthane shringkhola bojay rakha ottonto guruttopurno.",
+                    "example_expression_translation": "শৃঙ্খলা বজায় রাখা",
+                    "example_expression_transliteration": "shringkhola bojay rakha",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "बनाए रखना",
+                    "word_transliteration": "banaye rakhna",
+                    "example_sentence_translation": "शैक्षणिक संस्थानों में अनुशासन बनाए रखना महत्वपूर्ण है।",
+                    "example_sentence_transliteration": "Shaikshnik sansthaanon mein anushasan banaye rakhna mahattvpurn hai.",
+                    "example_expression_translation": "व्यवस्था बनाए रखना",
+                    "example_expression_transliteration": "vyavastha banaye rakhna",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "mantener",
+                    "word_transliteration": "mantenér",
+                    "example_sentence_translation": "Mantener la disciplina en las instituciones educativas es crucial.",
+                    "example_sentence_transliteration": "Mantenér la disiplína en las institusiónes edukativas es krusiál.",
+                    "example_expression_translation": "mantener el orden",
+                    "example_expression_transliteration": "mantenér el órden",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "suppress",
+            "phonetic": "səˈprɛs",
+            "word_native_transliteration": {
+                "bn": "সাপ্রেস",
+                "hi": "सप्रेस",
+                "es": "suprés"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🚫",
+            "meaning": "To forcibly put an end to something; to prevent from being revealed or expressed.",
+            "example_sentence": "Authorities must suppress criminal activities in campuses.",
+            "example_sentence_native_transliteration": {
+                "bn": "অথরিটিজ মাস্ট সাপ্রেস ক্রিমিনাল অ্যাকটিভিটিজ ইন ক্যাম্পাসেস।",
+                "es": "othóritis mast suprés kriminal aktívitis in kámpuses.",
+                "hi": "अथॉरिटीज़ मस्ट सप्रेस क्रिमिनल एक्टिविटीज़ इन कैम्पसेस।"
+            },
+            "example_expression": "suppress violence",
+            "example_expression_native_transliteration": {
+                "bn": "সাপ্রেস ভায়োলেন্স",
+                "es": "suprés vaiólens",
+                "hi": "सप्रेस वायलेन्स"
+            },
+            "example_expression_meaning": "To stop violent activities by force.",
+            "position": 3,
+            "synonyms": "restrain, subdue, quell, crush, control, stop",
+            "antonyms": "encourage, promote, support, incite, stimulate, foster",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দমন করা",
+                    "word_transliteration": "domon kora",
+                    "example_sentence_translation": "ক্যাম্পাসে অপরাধমূলক কার্যকলাপ দমন করা কর্তৃপক্ষের দায়িত্ব।",
+                    "example_sentence_transliteration": "Campus e oporadhomulok karjokkolap domon kora kortipokher dayitto.",
+                    "example_expression_translation": "সহিংসতা দমন",
+                    "example_expression_transliteration": "shohingshota domon",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "दबाना",
+                    "word_transliteration": "dabaana",
+                    "example_sentence_translation": "अधिकारियों को कैम्पस में आपराधिक गतिविधियों को दबाना चाहिए।",
+                    "example_sentence_transliteration": "Adhikaariyon ko campus mein aaparadhik gatividhiyon ko dabaana chaahiye.",
+                    "example_expression_translation": "हिंसा को दबाना",
+                    "example_expression_transliteration": "hinsa ko dabaana",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "suprimir",
+                    "word_transliteration": "suprimír",
+                    "example_sentence_translation": "Las autoridades deben suprimir las actividades criminales en los campus.",
+                    "example_sentence_transliteration": "Las autoridádes dében suprimír las aktividádes krimináles en los kámpus.",
+                    "example_expression_translation": "suprimir la violencia",
+                    "example_expression_transliteration": "suprimír la violénsia",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "restore",
+            "phonetic": "rɪˈstɔr",
+            "word_native_transliteration": {
+                "bn": "রিস্টোর",
+                "hi": "रिस्टोर",
+                "es": "restór"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔄",
+            "meaning": "To bring back to a former condition, place, or position; to return something to its original state.",
+            "example_sentence": "Restoring the tradition of student politics is necessary.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিস্টোরিং দ্য ট্র্যাডিশন অফ স্টুডেন্ট পলিটিক্স ইজ নেসেসারি।",
+                "es": "restóring de tradíshon of studént polítics is nesésari.",
+                "hi": "रिस्टोरिंग द ट्रेडिशन ऑफ स्टूडेंट पॉलिटिक्स इज़ नेसेसरी।"
+            },
+            "example_expression": "restore order",
+            "example_expression_native_transliteration": {
+                "bn": "রিস্টোর অর্ডার",
+                "es": "restór órdər",
+                "hi": "रिस्टोर ऑर्डर"
+            },
+            "example_expression_meaning": "To bring back proper organization and control.",
+            "position": 4,
+            "synonyms": "reinstate, recover, revive, rebuild, renew, rehabilitate",
+            "antonyms": "damage, destroy, ruin, demolish, break, deteriorate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুনরুদ্ধার করা",
+                    "word_transliteration": "punoruddhar kora",
+                    "example_sentence_translation": "ছাত্রাজনীতির ঐতিহ্য পুনরুদ্ধার অপরিহার্য।",
+                    "example_sentence_transliteration": "Chatrarajnitir oitihyo punoruddhar oporiharjo.",
+                    "example_expression_translation": "শৃঙ্খলা পুনরুদ্ধার",
+                    "example_expression_transliteration": "shringkhola punoruddhar",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "बहाली करना",
+                    "word_transliteration": "bahaali karna",
+                    "example_sentence_translation": "छात्र राजनीति की परंपरा की बहाली आवश्यक है।",
+                    "example_sentence_transliteration": "Chaatra raajneeti ki parampara ki bahaali aavashyak hai.",
+                    "example_expression_translation": "व्यवस्था की बहाली",
+                    "example_expression_transliteration": "vyavastha ki bahaali",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "restaurar",
+                    "word_transliteration": "restaurár",
+                    "example_sentence_translation": "Restaurar la tradición de la política estudiantil es necesario.",
+                    "example_sentence_transliteration": "Restaurár la tradisión de la polítika estudiantíl es nesésario.",
+                    "example_expression_translation": "restaurar el orden",
+                    "example_expression_transliteration": "restaurár el órden",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "necessary",
+            "phonetic": "ˈnɛsəˌsɛri",
+            "word_native_transliteration": {
+                "bn": "নেসেসারি",
+                "hi": "नेसेसरी",
+                "es": "nesésari"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "✅",
+            "meaning": "Required to be done, achieved, or present; essential.",
+            "example_sentence": "Strict regulations are necessary for maintaining order.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্ট্রিক্ট রেগুলেশনস আর নেসেসারি ফর মেইনটেইনিং অর্ডার।",
+                "es": "stríkt reguéshons ar nesésari for menténing órdər.",
+                "hi": "स्ट्रिक्ट रेगुलेशन्स आर नेसेसरी फॉर मेंटेनिंग ऑर्डर।"
+            },
+            "example_expression": "necessary measures",
+            "example_expression_native_transliteration": {
+                "bn": "নেসেসারি মেজারস",
+                "es": "nesésari méshurs",
+                "hi": "नेसेसरी मेझर्स"
+            },
+            "example_expression_meaning": "Required actions or steps that must be taken.",
+            "position": 5,
+            "synonyms": "essential, vital, required, crucial, important, indispensable",
+            "antonyms": "optional, unnecessary, dispensable, superfluous, needless, redundant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রয়োজনীয়",
+                    "word_transliteration": "proyojoneeyo",
+                    "example_sentence_translation": "শৃঙ্খলা বজায় রাখতে কঠোর নিয়মাবলী প্রয়োজন।",
+                    "example_sentence_transliteration": "Shringkhola bojay rakhte kothoro niyomaboli proyojon.",
+                    "example_expression_translation": "প্রয়োজনীয় ব্যবস্থা",
+                    "example_expression_transliteration": "proyojoneeyo bebostha",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "आवश्यक",
+                    "word_transliteration": "aavashyak",
+                    "example_sentence_translation": "व्यवस्था बनाए रखने के लिए सख्त नियम आवश्यक हैं।",
+                    "example_sentence_transliteration": "Vyavastha banaye rakhne ke liye sakht niyam aavashyak hain.",
+                    "example_expression_translation": "आवश्यक उपाय",
+                    "example_expression_transliteration": "aavashyak upaay",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "necesario",
+                    "word_transliteration": "nesésario",
+                    "example_sentence_translation": "Las regulaciones estrictas son necesarias para mantener el orden.",
+                    "example_sentence_transliteration": "Las regulasiónes estríktas son nesésarias para mantenér el órden.",
+                    "example_expression_translation": "medidas necesarias",
+                    "example_expression_transliteration": "médidas nesésarias",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "implement",
+            "phonetic": "ˈɪmpləmənt",
+            "word_native_transliteration": {
+                "bn": "ইমপ্লিমেন্ট",
+                "hi": "इम्प्लिमेंट",
+                "es": "impleméntə"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⚙️",
+            "meaning": "To put a decision or plan into effect; to execute or carry out.",
+            "example_sentence": "Implementing educational policies is essential for progress.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইমপ্লিমেন্টিং এডুকেশনাল পলিসিস ইজ এসেনশিয়াল ফর প্রগ্রেস।",
+                "es": "impleméntang edukéshonal polísiz is esénshal for prógrəs.",
+                "hi": "इम्प्लिमेंटिंग एजुकेशनल पॉलिसीज़ इज़ एसेन्शियल फॉर प्रोग्रेस।"
+            },
+            "example_expression": "implement a plan",
+            "example_expression_native_transliteration": {
+                "bn": "ইমপ্লিমেন্ট এ প্ল্যান",
+                "es": "impleméntə ə plæn",
+                "hi": "इम्प्लिमेंट अ प्लान"
+            },
+            "example_expression_meaning": "To put a planned strategy into action.",
+            "position": 6,
+            "synonyms": "apply, execute, carry out, put into practice, enact, realize",
+            "antonyms": "neglect, ignore, abandon, discontinue, cancel, postpone",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাস্তবায়ন করা",
+                    "word_transliteration": "bastobayan kora",
+                    "example_sentence_translation": "অগ্রগতির জন্য শিক্ষানীতি বাস্তবায়ন অত্যন্ত জরুরি।",
+                    "example_sentence_transliteration": "Ogrogotir jonno shikkhaneeti bastobayan ottonto joruri.",
+                    "example_expression_translation": "পরিকল্পনা বাস্তবায়ন",
+                    "example_expression_transliteration": "porikolpona bastobayan",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "लागू करना",
+                    "word_transliteration": "laagu karna",
+                    "example_sentence_translation": "प्रगति के लिए शैक्षणिक नीतियों को लागू करना आवश्यक है।",
+                    "example_sentence_transliteration": "Pragati ke liye shaikshnik neetiyon ko laagu karna aavashyak hai.",
+                    "example_expression_translation": "योजना लागू करना",
+                    "example_expression_transliteration": "yojana laagu karna",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "implementar",
+                    "word_transliteration": "implementár",
+                    "example_sentence_translation": "Implementar políticas educativas es esencial para el progreso.",
+                    "example_sentence_transliteration": "Implementár polítikas edukativas es esénsiál para el progréso.",
+                    "example_expression_translation": "implementar un plan",
+                    "example_expression_transliteration": "implementár un plán",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "critical",
+            "phonetic": "ˈkrɪtɪkəl",
+            "word_native_transliteration": {
+                "bn": "ক্রিটিকাল",
+                "hi": "क्रिटिकल",
+                "es": "krítikál"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚠️",
+            "meaning": "Of the greatest importance; crucial or essential.",
+            "example_sentence": "Addressing critical issues in education is imperative.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাড্রেসিং ক্রিটিকাল ইস্যুজ ইন এডুকেশন ইজ ইম্পেরেটিভ।",
+                "es": "adréssing krítikál íshús in edukéshon is imperatív.",
+                "hi": "एड्रेसिंग क्रिटिकल इश्यूज़ इन एजुकेशन इज़ इम्पेरेटिव।"
+            },
+            "example_expression": "critical thinking",
+            "example_expression_native_transliteration": {
+                "bn": "ক্রিটিকাল থিংকিং",
+                "es": "krítikál thínking",
+                "hi": "क्रिटिकल थिंकिंग"
+            },
+            "example_expression_meaning": "The objective analysis and evaluation of an issue.",
+            "position": 7,
+            "synonyms": "crucial, significant, vital, important, essential, urgent",
+            "antonyms": "trivial, unimportant, insignificant, minor, optional, secondary",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গুরুত্বপূর্ণ",
+                    "word_transliteration": "guruttopurno",
+                    "example_sentence_translation": "শিক্ষায় গুরুত্বপূর্ণ বিষয়গুলো সমাধান করা অত্যন্ত জরুরি।",
+                    "example_sentence_transliteration": "Shikkhay guruttopurno bishoygulo somadhan kora ottonto joruri.",
+                    "example_expression_translation": "সমালোচনামূলক চিন্তা",
+                    "example_expression_transliteration": "somalochona mulok chinta",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "महत्वपूर्ण",
+                    "word_transliteration": "mahattvapurn",
+                    "example_sentence_translation": "शिक्षा में महत्वपूर्ण मुद्दों को संबोधित करना अनिवार्य है।",
+                    "example_sentence_transliteration": "Shiksha mein mahattvapurn muddon ko sambodhit karna anivaary hai.",
+                    "example_expression_translation": "आलोचनात्मक सोच",
+                    "example_expression_transliteration": "aalochanaatmak soch",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "crítico",
+                    "word_transliteration": "krítiko",
+                    "example_sentence_translation": "Abordar cuestiones críticas en la educación es imperativo.",
+                    "example_sentence_transliteration": "Abordár kuestiónes krítikas en la edukasión es imperatívo.",
+                    "example_expression_translation": "pensamiento crítico",
+                    "example_expression_transliteration": "pensamiénto krítiko",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "practical",
+            "phonetic": "ˈpræktɪkəl",
+            "word_native_transliteration": {
+                "bn": "প্র্যাকটিকাল",
+                "hi": "प्रैक्टिकल",
+                "es": "práktikál"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🛠️",
+            "meaning": "Concerned with the actual doing or use of something rather than with theory; realistic and sensible.",
+            "example_sentence": "A practical approach is needed for solving complex problems.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ প্র্যাকটিকাল অ্যাপ্রোচ ইজ নিডেড ফর সলভিং কমপ্লেক্স প্রবলেমস।",
+                "es": "ə práktikál aprótch is nídəd for sólving kómpleks próbləms.",
+                "hi": "अ प्रैक्टिकल अप्रोच इज़ नीडेड फॉर सॉल्विंग कॉम्प्लेक्स प्रॉब्लम्स।"
+            },
+            "example_expression": "practical solution",
+            "example_expression_native_transliteration": {
+                "bn": "প্র্যাকটিকাল সলিউশন",
+                "es": "práktikál solúshən",
+                "hi": "प्रैक्टिकल सॉल्यूशन"
+            },
+            "example_expression_meaning": "A realistic and workable answer to a problem.",
+            "position": 8,
+            "synonyms": "realistic, feasible, workable, sensible, pragmatic, functional",
+            "antonyms": "impractical, unrealistic, theoretical, idealistic, unfeasible, impossible",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাস্তবসম্মত",
+                    "word_transliteration": "bastobshommot",
+                    "example_sentence_translation": "জটিল সমস্যার সমাধানে বাস্তবসম্মত পন্থা প্রয়োজন।",
+                    "example_sentence_transliteration": "Jotil shomoshyar somadhanē bastobshommot pontha proyojon.",
+                    "example_expression_translation": "বাস্তবসম্মত সমাধান",
+                    "example_expression_transliteration": "bastobshommot somadhan",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "व्यावहारिक",
+                    "word_transliteration": "vyaavahaarik",
+                    "example_sentence_translation": "जटिल समस्याओं को हल करने के लिए व्यावहारिक दृष्टिकोण की आवश्यकता है।",
+                    "example_sentence_transliteration": "Jatil samasyaaon ko hal karne ke liye vyaavahaarik drishtikonŋ ki aavashyakta hai.",
+                    "example_expression_translation": "व्यावहारिक समाधान",
+                    "example_expression_transliteration": "vyaavahaarik samaadhaan",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "práctico",
+                    "word_transliteration": "práktiko",
+                    "example_sentence_translation": "Se necesita un enfoque práctico para resolver problemas complejos.",
+                    "example_sentence_transliteration": "Se nesésita un enfóke práktiko para resolvér problémas kompléhos.",
+                    "example_expression_translation": "solución práctica",
+                    "example_expression_transliteration": "solusión práktika",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "address",
+            "phonetic": "əˈdrɛs",
+            "word_native_transliteration": {
+                "bn": "অ্যাড্রেস",
+                "hi": "एड्रेस",
+                "es": "adrés"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🎯",
+            "meaning": "To think about and begin to deal with an issue or problem.",
+            "example_sentence": "The government must address the issues of student politics.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গভর্নমেন্ট মাস্ট অ্যাড্রেস দ্য ইস্যুজ অফ স্টুডেন্ট পলিটিক্স।",
+                "es": "de góvərnmənt mast adrés de íshús of studént polítics.",
+                "hi": "द गवर्नमेंट मस्ट एड्रेस द इश्यूज़ ऑफ स्टूडेंट पॉलिटिक्स।"
+            },
+            "example_expression": "address concerns",
+            "example_expression_native_transliteration": {
+                "bn": "অ্যাড্রেস কনসার্নস",
+                "es": "adrés kənsə́rns",
+                "hi": "एड्रेस कन्सर्न्स"
+            },
+            "example_expression_meaning": "To deal with worries or problems that people have.",
+            "position": 9,
+            "synonyms": "tackle, resolve, handle, deal with, confront, attend to",
+            "antonyms": "ignore, overlook, avoid, neglect, dismiss, sidestep",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সমাধান করা",
+                    "word_transliteration": "somadhan kora",
+                    "example_sentence_translation": "ছাত্র রাজনীতির বিষয়গুলো সমাধানে সরকারকে এগিয়ে আসতে হবে।",
+                    "example_sentence_transliteration": "Chatro rajnitir bishoygulo somadhanē shorkarke egiye ashte hobe.",
+                    "example_expression_translation": "উদ্বেগ সমাধান",
+                    "example_expression_transliteration": "udbeg somadhan",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "संबोधित करना",
+                    "word_transliteration": "sambodhit karna",
+                    "example_sentence_translation": "सरकार को छात्र राजनीति के मुद्दों को संबोधित करना चाहिए।",
+                    "example_sentence_transliteration": "Sarkaar ko chaatra raajneeti ke muddon ko sambodhit karna chaahiye.",
+                    "example_expression_translation": "चिंताओं को संबोधित करना",
+                    "example_expression_transliteration": "chintaaon ko sambodhit karna",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "abordar",
+                    "word_transliteration": "abordár",
+                    "example_sentence_translation": "El gobierno debe abordar los problemas de la política estudiantil.",
+                    "example_sentence_transliteration": "El gobiérno débe abordár los problémas de la polítika estudiantíl.",
+                    "example_expression_translation": "abordar preocupaciones",
+                    "example_expression_transliteration": "abordár preokupasiónes",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "structured",
+            "phonetic": "ˈstrʌktʃərd",
+            "word_native_transliteration": {
+                "bn": "স্ট্রাকচারড",
+                "hi": "स्ट्रक्चर्ड",
+                "es": "struktúrd"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🏗️",
+            "meaning": "Having a clearly defined framework or organization; arranged in a definite pattern.",
+            "example_sentence": "A structured execution plan is crucial for success.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ স্ট্রাকচারড এক্সিকিউশন প্ল্যান ইজ ক্রুশিয়াল ফর সাকসেস।",
+                "es": "ə struktúrd eksikúshən plæn is krúshəl for səksés.",
+                "hi": "अ स्ट्रक्चर्ड एक्जीक्यूशन प्लान इज़ क्रूशल फॉर सक्सेस।"
+            },
+            "example_expression": "structured approach",
+            "example_expression_native_transliteration": {
+                "bn": "স্ট্রাকচারড অ্যাপ্রোচ",
+                "es": "struktúrd aprótch",
+                "hi": "स्ट्रक्चर्ड अप्रोच"
+            },
+            "example_expression_meaning": "An organized and systematic way of doing something.",
+            "position": 10,
+            "synonyms": "organized, systematic, planned, ordered, methodical, arranged",
+            "antonyms": "chaotic, unplanned, disorganized, random, haphazard, messy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কাঠামোবদ্ধ",
+                    "word_transliteration": "kathamobodhdho",
+                    "example_sentence_translation": "সাফল্যের জন্য কাঠামোবদ্ধ বাস্তবায়ন পরিকল্পনা অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Shafoller jonno kathamobodhdho bastobayan porikolpona ottonto guruttopurno.",
+                    "example_expression_translation": "কাঠামোবদ্ধ পদ্ধতি",
+                    "example_expression_transliteration": "kathamobodhdho poddhoti",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "संरचित",
+                    "word_transliteration": "sanrachit",
+                    "example_sentence_translation": "सफलता के लिए एक संरचित निष्पादन योजना महत्वपूर्ण है।",
+                    "example_sentence_transliteration": "Safalta ke liye ek sanrachit nishpaadan yojana mahattvapurn hai.",
+                    "example_expression_translation": "संरचित दृष्टिकोण",
+                    "example_expression_transliteration": "sanrachit drishtikonŋ",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "estructurado",
+                    "word_transliteration": "strukturádo",
+                    "example_sentence_translation": "Un plan de ejecución estructurado es crucial para el éxito.",
+                    "example_sentence_transliteration": "Un plán de ehekusión strukturádo es krusiál para el éksito.",
+                    "example_expression_translation": "enfoque estructurado",
+                    "example_expression_transliteration": "enfóke strukturádo",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

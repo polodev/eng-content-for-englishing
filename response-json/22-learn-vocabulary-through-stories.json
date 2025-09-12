@@ -1,0 +1,1097 @@
+{
+    "position": 22,
+    "title_translation": {
+        "en": "Genetic Engineering: The Revolutionary Aspect of Biotechnology",
+        "hi": "जेनेटिक इंजीनियरिंग: बायोटेक का युगांतकारी पहलू",
+        "es": "Ingeniería Genética: El Aspecto Revolucionario de la Biotecnología",
+        "bn": "জেনেটিক ইঞ্জিনিয়ারিং: বায়োটেকের যুগান্তকারী দিক"
+    },
+    "content_translation": {
+        "en": "One of the most important branches of biotechnology is **genetic engineering**, which adds new **attributes** by making specific changes to the **DNA** of organisms. This has brought **advancements** in various fields from food production to disease treatment.\n\nIn agriculture, **engineering** plays an **efficient** role in developing disease-resistant and pest-tolerant crops. Through this, **productivity** has increased and food security has been ensured.\n\nIn healthcare, **therapy** is providing **solutions** for treating rare diseases. For example, **modifications** are playing an effective role in treating **anemia** and **hemophilia**.\n\nIn the environment, special types of **bacteria** have been created that play an **impactful** role in pollution control and **biofuel** production.\n\n**Genetics** is now not just technological, but is a **milestone** in the field of **innovation** and **sustainability**.",
+        "hi": "बायोटेक्नोलॉजी की सबसे महत्वपूर्ण शाखाओं में से एक है **genetic engineering**, जो जीवों के **DNA** में विशिष्ट परिवर्तन लाकर नए **attributes** जोड़ती है। यह खाद्य उत्पादन से लेकर रोग निवारण तक विभिन्न क्षेत्रों में **advancements** लाई है।\n\nकृषि क्षेत्र में, **engineering** रोग प्रतिरोधी और कीटपतंग सहनशील फसलों के विकास में **efficient** भूमिका निभाती है। इसके माध्यम से **productivity** बढ़ी है और खाद्य सुरक्षा सुनिश्चित हुई है।\n\nस्वास्थ्य सेवा में, **therapy** दुर्लभ रोगों के निवारण में **solutions** प्रदान कर रही है। जैसे, **anemia** और **hemophilia** के निवारण में **modifications** प्रभावी भूमिका निभा रहे हैं।\n\nपर्यावरण में, विशेष प्रकार के **bacteria** तैयार किए गए हैं जो प्रदूषण नियंत्रण और **biofuel** उत्पादन में **impactful** भूमिका निभाते हैं।\n\n**Genetics** अब केवल तकनीकी नहीं है, बल्कि **innovation** और **sustainability** के क्षेत्र में एक **milestone** है।",
+        "es": "La biotecnología tiene una de sus ramas más importantes en la **genetic engineering**, que añade nuevos **attributes** mediante cambios específicos en el **DNA** de los organismos. Esto ha traído **advancements** en diversos campos, desde la producción de alimentos hasta la cura de enfermedades।\n\nEn el sector agrícola, la **engineering** desempeña un papel **efficient** en el desarrollo de cultivos resistentes a enfermedades y tolerantes a plagas। A través de esto, la **productivity** ha aumentado y se ha asegurado la seguridad alimentaria।\n\nEn el cuidado de la salud, la **therapy** está proporcionando **solutions** para el tratamiento de enfermedades raras। Por ejemplo, las **modifications** están desempeñando un papel efectivo en el tratamiento de la **anemia** y la **hemophilia**।\n\nEn el medio ambiente, se han creado tipos especiales de **bacteria** que desempeñan un papel **impactful** en el control de la contaminación y la producción de **biofuel**।\n\n**Genetics** ahora no es solo tecnológico, sino que es un **milestone** en el campo de la **innovation** y la **sustainability**।",
+        "bn": "বা য়ো টে কনো লজি র অন্য তম গুরু ত্বপূর্ণ শা খা হলো **genetic engineering**, যা জী বে র **DNA**-তে নি র্দি ষ্ট পরি বর্তন এনে নতুন **attributes** সং যো জন করে । এটি খা দ্য উৎপা দন থে কে শুরু করে রো গ নি রা ময় পর্যন্ত বি ভি ন্ন ক্ষে ত্রে **advancements** এনে ছে ।\n\nকৃষি ক্ষে ত্রে , **engineering** রো গ প্রতি রো ধী এবং কী টপতঙ্গ সহনশী ল ফসল উদ্ভা বনে **efficient** ভূমি কা রা খে । এর মা ধ্য মে **productivity** বে ড়ে ছে এবং খা দ্য নি রা পত্তা নি শ্চি ত হয়ে ছে ।\n\nস্বা স্থ্য সে বা য়, **therapy** বি রল রো গে র নি রা ময়ে **solutions** প্রদা ন করছে । যে মন, **anemia** এবং **hemophilia** নি রা ময়ে **modifications** কা র্যকর ভূমি কা রা খছে ।\n\nপরি বে শে , বি শে ষ ধরনে র **bacteria** তৈ রি হয়ে ছে যা দূষদূ ণ নি য়ন্ত্রণ এবং **biofuel** উৎপা দনে **impactful** ভূমি কা রা খে ।\n\n**Genetics** এখন শুধুমা ত্র প্রযুক্তি গত নয়, বরং **innovation** এবং **sustainability**-এর ক্ষে ত্রে একটি **milestone**।"
+    },
+    "list": [
+        {
+            "word": "genetic",
+            "phonetic": "dʒəˈnet.ɪk",
+            "word_native_transliteration": {
+                "bn": "জেনেটিক",
+                "hi": "जेनेटिक",
+                "es": "genétiko"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧬",
+            "meaning": "Relating to genes or heredity; involving or produced by genes.",
+            "example_sentence": "Genetic traits influence physical characteristics.",
+            "example_sentence_native_transliteration": {
+                "bn": "জেনেটিক ট্রেইটস ইনফ্লুয়েন্স ফিজিক্যাল ক্যারেক্টেরিস্টিক্স।",
+                "es": "genétik tréits influéns físikal karaktérístiks।",
+                "hi": "जेनेटिक ट्रेट्स इन्फ्लुएंस फिज़िकल कैरेक्टेरिस्टिक्स।"
+            },
+            "example_expression": "genetic modification",
+            "example_expression_native_transliteration": {
+                "bn": "জেনেটিক মডিফিকেশন",
+                "es": "genétik modifikésion",
+                "hi": "जेनेटिक मोडिफिकेशन"
+            },
+            "example_expression_meaning": "The process of altering the genetic structure of an organism.",
+            "position": 1,
+            "synonyms": "hereditary, genomic, inherited",
+            "antonyms": "acquired, environmental, non-genetic",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বংশগত",
+                    "word_transliteration": "bongshogoto",
+                    "example_sentence_translation": "জেনেটিক বৈশিষ্ট্য শারীরিক গঠনে প্রভাব ফেলে।",
+                    "example_sentence_transliteration": "Genetic boishishto sharirrik gothone probhab fele.",
+                    "example_expression_translation": "জেনেটিক পরিবর্তন",
+                    "example_expression_transliteration": "Genetic poriborton",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "आनुवंशिक",
+                    "word_transliteration": "aanuvanshik",
+                    "example_sentence_translation": "आनुवंशिक विशेषताएं शारीरिक लक्षणों को प्रभावित करती हैं।",
+                    "example_sentence_transliteration": "Aanuvanshik visheshatayen shaareerik lakshano ko prabhavit karti hain.",
+                    "example_expression_translation": "आनुवंशिक संशोधन",
+                    "example_expression_transliteration": "aanuvanshik sanshodhan",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "genético",
+                    "word_transliteration": "genétiko",
+                    "example_sentence_translation": "Los rasgos genéticos influyen en las características físicas.",
+                    "example_sentence_transliteration": "Los rásgos genétikos influyen en las karakterístikas físikas.",
+                    "example_expression_translation": "modificación genética",
+                    "example_expression_transliteration": "modifikasión genétika",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "engineering",
+            "phonetic": "ˌen.dʒɪˈnɪə.rɪŋ",
+            "word_native_transliteration": {
+                "bn": "ইঞ্জিনিয়ারিং",
+                "hi": "इंजीनियरिंग",
+                "es": "inxenieríng"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚙️",
+            "meaning": "The application of scientific and mathematical principles to practical ends such as the design, manufacture, and operation of efficient and economical structures, machines, processes, and systems.",
+            "example_sentence": "Genetic engineering transforms agricultural practices.",
+            "example_sentence_native_transliteration": {
+                "bn": "জেনেটিক ইঞ্জিনিয়ারিং ট্রান্সফর্মস এগ্রিকালচারাল প্র্যাকটিসেস।",
+                "es": "genétik inxenieríng tránsforms agrikaltúral práktisés।",
+                "hi": "जेनेटिक इंजीनियरिंग ट्रान्सफार्म्स एग्रिकल्चरल प्रैक्टिसेस।"
+            },
+            "example_expression": "biomedical engineering",
+            "example_expression_native_transliteration": {
+                "bn": "বায়োমেডিকাল ইঞ্জিনিয়ারিং",
+                "es": "biomedikal inxenieríng",
+                "hi": "बायोमेडिकल इंजीनियरिंग"
+            },
+            "example_expression_meaning": "The application of engineering principles and design concepts to medicine and biology.",
+            "position": 2,
+            "synonyms": "design, construction, development",
+            "antonyms": "destruction, disorganization, dismantling",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রকৌশল",
+                    "word_transliteration": "prokoushl",
+                    "example_sentence_translation": "জেনেটিক ইঞ্জিনিয়ারিং কৃষি পদ্ধতি রূপান্তর করে।",
+                    "example_sentence_transliteration": "Genetic engineering krishi poddhoti rupantor kore.",
+                    "example_expression_translation": "জৈব চিকিৎসা প্রকৌশল",
+                    "example_expression_transliteration": "joibo chikitsha prokoushl",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "इंजीनियरिंग",
+                    "word_transliteration": "engineering",
+                    "example_sentence_translation": "जेनेटिक इंजीनियरिंग कृषि प्रथाओं को बदल देती है।",
+                    "example_sentence_transliteration": "Genetic engineering krishi prathaon ko badal deti hai.",
+                    "example_expression_translation": "जैव चिकित्सा इंजीनियरिंग",
+                    "example_expression_transliteration": "jaiv chikitsa engineering",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "ingeniería",
+                    "word_transliteration": "inxenieríá",
+                    "example_sentence_translation": "La ingeniería genética transforma las prácticas agrícolas.",
+                    "example_sentence_transliteration": "La inxenieríá genétika tránsforma las práktikas agrícolas.",
+                    "example_expression_translation": "ingeniería biomédica",
+                    "example_expression_transliteration": "inxenieríá biomédiká",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "DNA",
+            "phonetic": "ˌdiː.enˈeɪ",
+            "word_native_transliteration": {
+                "bn": "ডিএনএ",
+                "hi": "डीएनए",
+                "es": "dé-ené-á"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧬",
+            "meaning": "Deoxyribonucleic acid, a self-replicating material which is present in nearly all living organisms as the main constituent of chromosomes. It is the carrier of genetic information.",
+            "example_sentence": "DNA contains the genetic instructions for the development of all living things.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিএনএ কনটেইনস দ্য জেনেটিক ইনস্ট্রাকশনস ফর দ্য ডেভেলপমেন্ট অব অল লিভিং থিংস।",
+                "es": "dé-ené-á kontéins de genétik instrákshons for de devélópment of ol líving zings।",
+                "hi": "डीएनए कंटेन्स द जेनेटिक इंस्ट्रक्शन्स फॉर द डेवेलपमेंट ऑफ ऑल लिविंग थिंग्स।"
+            },
+            "example_expression": "DNA sequencing",
+            "example_expression_native_transliteration": {
+                "bn": "ডিএনএ সিকুয়েন্সিং",
+                "es": "dé-ené-á síkuénsing",
+                "hi": "डीएनए सीक्वेंसिंग"
+            },
+            "example_expression_meaning": "The process of determining the precise order of nucleotides within a DNA molecule.",
+            "position": 3,
+            "synonyms": "genetic material, chromosome, genome",
+            "antonyms": "RNA, protein, enzyme",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ডিঅক্সিরাইবোনিউক্লিক অ্যাসিড",
+                    "word_transliteration": "dioksiraybonikleik asid",
+                    "example_sentence_translation": "ডিএনএ সকল জীবের জেনেটিক তথ্য বহন করে।",
+                    "example_sentence_transliteration": "DNA shokol jiber genetic tothho bohan kore.",
+                    "example_expression_translation": "ডিএনএ ক্রমবিন্যাস",
+                    "example_expression_transliteration": "DNA kromobinash",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "डीऑक्सीराइबोन्यूक्लिक अम्ल",
+                    "word_transliteration": "deeoxyribonyuklik aml",
+                    "example_sentence_translation": "डीएनए सभी जीवित चीजों की आनुवंशिक जानकारी रखता है।",
+                    "example_sentence_transliteration": "DNA sabhi jeevit cheezon ki aanuvanshik jaankari rakhta hai.",
+                    "example_expression_translation": "डीएनए अनुक्रमण",
+                    "example_expression_transliteration": "DNA anukraman",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "ácido desoxirribonucleico",
+                    "word_transliteration": "ásido desoksiribonukléiko",
+                    "example_sentence_translation": "El ADN contiene las instrucciones genéticas para el desarrollo de todos los seres vivos.",
+                    "example_sentence_transliteration": "El ADN kontiéne las instruksiónes genétikas para el desarróllo de tódos los séres vívos.",
+                    "example_expression_translation": "secuenciación de ADN",
+                    "example_expression_transliteration": "sekuensiasión de ADN",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "attributes",
+            "phonetic": "ˈæt.rɪ.bjuːts",
+            "word_native_transliteration": {
+                "bn": "অ্যাট্রিবিউটস",
+                "hi": "अट्रिब्यूट्स",
+                "es": "atríbyuts"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔧",
+            "meaning": "A quality or feature regarded as a characteristic or inherent part of someone or something.",
+            "example_sentence": "Advanced crops possess beneficial attributes.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাডভান্সড ক্রপস পজেস বেনিফিশিয়াল অ্যাট্রিবিউটস।",
+                "es": "advánsd krops posés benefíshial atríbyuts।",
+                "hi": "एडवान्स्ड क्रॉप्स पॉसेस बेनिफिशियल अट्रिब्यूट्स।"
+            },
+            "example_expression": "genetic attributes",
+            "example_expression_native_transliteration": {
+                "bn": "জেনেটিক অ্যাট্রিবিউটস",
+                "es": "genétik atríbyuts",
+                "hi": "जेनेटिक अट्रिब्यूट्स"
+            },
+            "example_expression_meaning": "The inheritable characteristics encoded in genes.",
+            "position": 4,
+            "synonyms": "characteristics, qualities, features",
+            "antonyms": "deficiencies, flaws, weaknesses",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গুণাবলি",
+                    "word_transliteration": "gunaboli",
+                    "example_sentence_translation": "উন্নত শস্যগুলোর উপকারী গুণাবলি রয়েছে।",
+                    "example_sentence_transliteration": "Unnoto shoshyogulor upokari gunaboli royeche.",
+                    "example_expression_translation": "জেনেটিক গুণাবলি",
+                    "example_expression_transliteration": "genetic gunaboli",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "गुणधर्म",
+                    "word_transliteration": "gundharma",
+                    "example_sentence_translation": "उन्नत फसलों में लाभकारी गुणधर्म होते हैं।",
+                    "example_sentence_transliteration": "Unnat fasalon mein labhkari gundharma hote hain.",
+                    "example_expression_translation": "आनुवंशिक गुणधर्म",
+                    "example_expression_transliteration": "aanuvanshik gundharma",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "atributos",
+                    "word_transliteration": "atribútos",
+                    "example_sentence_translation": "Los cultivos avanzados poseen atributos beneficiosos.",
+                    "example_sentence_transliteration": "Los kultívos avansádos poséen atribútos benefisiósos.",
+                    "example_expression_translation": "atributos genéticos",
+                    "example_expression_transliteration": "atribútos genétikos",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "advancements",
+            "phonetic": "ədˈvɑːns.mənts",
+            "word_native_transliteration": {
+                "bn": "অ্যাডভান্সমেন্টস",
+                "hi": "एडवान्समेंट्स",
+                "es": "advánsmènts"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "The process of promoting or moving forward; development or improvement.",
+            "example_sentence": "Scientific advancements enhance global innovation.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাইয়েন্টিফিক অ্যাডভান্সমেন্টস এনহান্স গ্লোবাল ইনোভেশন।",
+                "es": "saientífik advánsmènts enhàns glóbal inovéshon।",
+                "hi": "साइंटिफिक एडवान्समेंट्स एन्हान्स ग्लोबल इनोवेशन।"
+            },
+            "example_expression": "technological advancements",
+            "example_expression_native_transliteration": {
+                "bn": "টেকনোলজিক্যাল অ্যাডভান্সমেন্টস",
+                "es": "teknolóxikal advánsmènts",
+                "hi": "टेक्नोलॉजिकल एडवान्समेंट्स"
+            },
+            "example_expression_meaning": "Progress and improvements in technology.",
+            "position": 5,
+            "synonyms": "progress, developments, improvements",
+            "antonyms": "regression, stagnation, decline",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অগ্রগতি",
+                    "word_transliteration": "ogrogoti",
+                    "example_sentence_translation": "বৈজ্ঞানিক অগ্রগতি বিশ্বব্যাপী উদ্ভাবন বাড়ায়।",
+                    "example_sentence_transliteration": "Boiggyanik ogrogoti bishwobapi udbhabon baray.",
+                    "example_expression_translation": "প্রযুক্তিগত অগ্রগতি",
+                    "example_expression_transliteration": "proyuktigoto ogrogoti",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "प्रगति",
+                    "word_transliteration": "pragati",
+                    "example_sentence_translation": "वैज्ञानिक प्रगति वैश्विक नवाचार को बढ़ाती है।",
+                    "example_sentence_transliteration": "Vaigyanik pragati vaishvik navachaar ko badhati hai.",
+                    "example_expression_translation": "तकनीकी प्रगति",
+                    "example_expression_transliteration": "takneeki pragati",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "avances",
+                    "word_transliteration": "avánses",
+                    "example_sentence_translation": "Los avances científicos mejoran la innovación global.",
+                    "example_sentence_transliteration": "Los avánses sientífikos mexóran la inovasión glóbal.",
+                    "example_expression_translation": "avances tecnológicos",
+                    "example_expression_transliteration": "avánses teknolóxikos",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "efficient",
+            "phonetic": "ɪˈfɪʃ.ənt",
+            "word_native_transliteration": {
+                "bn": "এফিশিয়েন্ট",
+                "hi": "एफिशिएंट",
+                "es": "efíshènt"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚡",
+            "meaning": "Achieving maximum productivity with minimum wasted effort or expense.",
+            "example_sentence": "Efficient farming methods improve yields.",
+            "example_sentence_native_transliteration": {
+                "bn": "এফিশিয়েন্ট ফার্মিং মেথডস ইমপ্রুভ ইয়েল্ডস।",
+                "es": "efíshènt fárming mézods impróv yílds।",
+                "hi": "एफिशिएंट फार्मिंग मेथड्स इम्प्रूव यील्ड्स।"
+            },
+            "example_expression": "energy efficient",
+            "example_expression_native_transliteration": {
+                "bn": "এনার্জি এফিশিয়েন্ট",
+                "es": "enérxi efíshènt",
+                "hi": "एनर्जी एफिशिएंट"
+            },
+            "example_expression_meaning": "Using energy in an optimal way with minimal waste.",
+            "position": 6,
+            "synonyms": "effective, productive, capable",
+            "antonyms": "inefficient, wasteful, unproductive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষ",
+                    "word_transliteration": "dokho",
+                    "example_sentence_translation": "দক্ষ কৃষি পদ্ধতি ফলন বৃদ্ধি করে।",
+                    "example_sentence_transliteration": "Dokho krishi poddhoti folon briddhi kore.",
+                    "example_expression_translation": "শক্তি সাশ্রয়ী",
+                    "example_expression_transliteration": "shokti sashroyee",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "कुशल",
+                    "word_transliteration": "kushal",
+                    "example_sentence_translation": "कुशल कृषि विधियां उपज में सुधार लाती हैं।",
+                    "example_sentence_transliteration": "Kushal krishi vidhiyan upaj mein sudhar laati hain.",
+                    "example_expression_translation": "ऊर्जा दक्ष",
+                    "example_expression_transliteration": "urja daksh",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "eficiente",
+                    "word_transliteration": "efisiénte",
+                    "example_sentence_translation": "Los métodos de cultivo eficientes mejoran los rendimientos.",
+                    "example_sentence_transliteration": "Los métodos de kultívo efisiéntes mexóran los rendimyéntos.",
+                    "example_expression_translation": "energéticamente eficiente",
+                    "example_expression_transliteration": "enerxétikaménte efisiénte",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "productivity",
+            "phonetic": "ˌprɒd.ʌkˈtɪv.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "প্রোডাক্টিভিটি",
+                "hi": "प्रोडक्टिविटी",
+                "es": "produktíviti"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "The effectiveness of productive effort, especially in industry, as measured in terms of the rate of output per unit of input.",
+            "example_sentence": "Genetic techniques increase agricultural productivity.",
+            "example_sentence_native_transliteration": {
+                "bn": "জেনেটিক টেকনিকস ইনক্রিজ এগ্রিকালচারাল প্রোডাক্টিভিটি।",
+                "es": "genétik tékníks inkríz agrikaltúral produktíviti।",
+                "hi": "जेनेटिक टेक्निक्स इंक्रीज एग्रिकल्चरल प्रोडक्टिविटी।"
+            },
+            "example_expression": "labor productivity",
+            "example_expression_native_transliteration": {
+                "bn": "লেবর প্রোডাক্টিভিটি",
+                "es": "léybor produktíviti",
+                "hi": "लेबर प्रोडक्टिविटी"
+            },
+            "example_expression_meaning": "The amount of output produced per unit of labor input.",
+            "position": 7,
+            "synonyms": "output, yield, efficiency",
+            "antonyms": "idleness, inefficiency, unproductivity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উৎপাদনশীলতা",
+                    "word_transliteration": "utpadanshilota",
+                    "example_sentence_translation": "জেনেটিক প্রযুক্তি কৃষি উৎপাদনশীলতা বাড়ায়।",
+                    "example_sentence_transliteration": "Genetic proyukti krishi utpadanshilota baray.",
+                    "example_expression_translation": "শ্রমিক উৎপাদনশীলতা",
+                    "example_expression_transliteration": "shromik utpadanshilota",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "उत्पादकता",
+                    "word_transliteration": "utpadakta",
+                    "example_sentence_translation": "जेनेटिक तकनीकें कृषि उत्पादकता बढ़ाती हैं।",
+                    "example_sentence_transliteration": "Genetic takneeken krishi utpadakta badhati hain.",
+                    "example_expression_translation": "श्रम उत्पादकता",
+                    "example_expression_transliteration": "shram utpadakta",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "productividad",
+                    "word_transliteration": "produktivitád",
+                    "example_sentence_translation": "Las técnicas genéticas aumentan la productividad agrícola.",
+                    "example_sentence_transliteration": "Las téknikas genétikas auméntan la produktivitád agrícola.",
+                    "example_expression_translation": "productividad laboral",
+                    "example_expression_transliteration": "produktivitád laborál",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "therapy",
+            "phonetic": "ˈθer.ə.pi",
+            "word_native_transliteration": {
+                "bn": "থেরাপি",
+                "hi": "थेरेपी",
+                "es": "zerápí"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💊",
+            "meaning": "Treatment intended to relieve or heal a disorder.",
+            "example_sentence": "Gene therapy offers hope for genetic disorders.",
+            "example_sentence_native_transliteration": {
+                "bn": "জিন থেরাপি অফারস হোপ ফর জেনেটিক ডিসঅর্ডারস।",
+                "es": "xín zerápí ófars jóp for genétik disórdars।",
+                "hi": "जीन थेरेपी ऑफर्स होप फॉर जेनेटिक डिसऑर्डर्स।"
+            },
+            "example_expression": "gene therapy",
+            "example_expression_native_transliteration": {
+                "bn": "জিন থেরাপি",
+                "es": "xín zerápí",
+                "hi": "जीन थेरेपी"
+            },
+            "example_expression_meaning": "A technique that involves introducing genetic material into a patient's cells to treat disease.",
+            "position": 8,
+            "synonyms": "treatment, remedy, cure",
+            "antonyms": "neglect, harm, injury",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চিকিৎসা",
+                    "word_transliteration": "chikitsha",
+                    "example_sentence_translation": "জিন থেরাপি জেনেটিক সমস্যার জন্য আশা দেয়।",
+                    "example_sentence_transliteration": "Gene therapy genetic shomoshar jonno asha dey.",
+                    "example_expression_translation": "জিন চিকিৎসা",
+                    "example_expression_transliteration": "gene chikitsha",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "चिकित्सा",
+                    "word_transliteration": "chikitsa",
+                    "example_sentence_translation": "जीन चिकित्सा आनुवंशिक विकारों के लिए आशा प्रदान करती है।",
+                    "example_sentence_transliteration": "Gene chikitsa aanuvanshik vikaron ke liye asha pradan karti hai.",
+                    "example_expression_translation": "जीन चिकित्सा",
+                    "example_expression_transliteration": "gene chikitsa",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "terapia",
+                    "word_transliteration": "terápya",
+                    "example_sentence_translation": "La terapia génica ofrece esperanza para los trastornos genéticos.",
+                    "example_sentence_transliteration": "La terápya xénika ofrése esperánsa pára los trastórnos genétikos.",
+                    "example_expression_translation": "terapia génica",
+                    "example_expression_transliteration": "terápya xénika",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "solutions",
+            "phonetic": "səˈluː.ʃənz",
+            "word_native_transliteration": {
+                "bn": "সলিউশনস",
+                "hi": "सलूशन्स",
+                "es": "solúshons"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💡",
+            "meaning": "A means of solving a problem or dealing with a difficult situation.",
+            "example_sentence": "Biotechnology provides solutions to environmental challenges.",
+            "example_sentence_native_transliteration": {
+                "bn": "বায়োটেকনোলজি প্রোভাইডস সলিউশনস টু এনভায়রনমেন্টাল চ্যালেঞ্জেস।",
+                "es": "bayoteknoló-xí prováyds solúshons tú enváyronméntál chaléndxes।",
+                "hi": "बायोटेक्नोलॉजी प्रोवाइड्स सलूशन्स टू एनवायरनमेंटल चैलेंजेस।"
+            },
+            "example_expression": "innovative solutions",
+            "example_expression_native_transliteration": {
+                "bn": "ইনোভেটিভ সলিউশনস",
+                "es": "inovatív solúshons",
+                "hi": "इनोवेटिव सलूशन्स"
+            },
+            "example_expression_meaning": "Creative and original approaches to solving problems.",
+            "position": 9,
+            "synonyms": "answers, remedies, fixes",
+            "antonyms": "problems, complications, difficulties",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সমাধান",
+                    "word_transliteration": "shomadhan",
+                    "example_sentence_translation": "বায়োটেকনোলজি পরিবেশগত সমস্যার সমাধান দেয়।",
+                    "example_sentence_transliteration": "Biotechnology poribeshgoto shomoshar shomadhan dey.",
+                    "example_expression_translation": "উদ্ভাবনী সমাধান",
+                    "example_expression_transliteration": "udbhaboni shomadhan",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "समाधान",
+                    "word_transliteration": "samadhan",
+                    "example_sentence_translation": "बायोटेक्नोलॉजी पर्यावरणीय चुनौतियों का समाधान प्रदान करती है।",
+                    "example_sentence_transliteration": "Biotechnology paryavaraniya chunautiyon ka samadhan pradan karti hai.",
+                    "example_expression_translation": "नवाचार समाधान",
+                    "example_expression_transliteration": "navachaar samadhan",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "soluciones",
+                    "word_transliteration": "solusyónes",
+                    "example_sentence_translation": "La biotecnología proporciona soluciones a los desafíos ambientales.",
+                    "example_sentence_transliteration": "La byoteknoló-xía proporsiána solusyónes a los desafíos ambyentáles.",
+                    "example_expression_translation": "soluciones innovadoras",
+                    "example_expression_transliteration": "solusyónes inovadóras",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "anemia",
+            "phonetic": "əˈniː.mi.ə",
+            "word_native_transliteration": {
+                "bn": "অ্যানিমিয়া",
+                "hi": "एनीमिया",
+                "es": "anémya"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🩸",
+            "meaning": "A condition in which there is a deficiency of red cells or of haemoglobin in the blood, resulting in pallor and weariness.",
+            "example_sentence": "Genetic therapy addresses anemia effectively.",
+            "example_sentence_native_transliteration": {
+                "bn": "জেনেটিক থেরাপি অ্যাড্রেসেস অ্যানিমিয়া এফেক্টিভলি।",
+                "es": "genétik zerápí adrés-s anémya efektívlí।",
+                "hi": "जेनेटिक थेरेपी एड्रेसेस एनीमिया एफेक्टिवली।"
+            },
+            "example_expression": "iron deficiency anemia",
+            "example_expression_native_transliteration": {
+                "bn": "আয়রন ডেফিসিয়েন্সি অ্যানিমিয়া",
+                "es": "áyron defishyénsí anémya",
+                "hi": "आयरन डेफिसिएंसी एनीमिया"
+            },
+            "example_expression_meaning": "A type of anemia caused by insufficient iron in the body.",
+            "position": 10,
+            "synonyms": "blood deficiency, pallor, weakness",
+            "antonyms": "overabundance, hematological health, vitality",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রক্তস্বল্পতা",
+                    "word_transliteration": "roktoshwalpota",
+                    "example_sentence_translation": "জেনেটিক থেরাপি রক্তস্বল্পতার সমাধানে কার্যকর।",
+                    "example_sentence_transliteration": "Genetic therapy roktoshwalpotaar somaadhane karjokoro.",
+                    "example_expression_translation": "আয়রনের ঘাটতিজনিত রক্তস্বল্পতা",
+                    "example_expression_transliteration": "ayroner ghatotijonito roktoshwalpota",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "खून की कमी",
+                    "word_transliteration": "khoon ki kami",
+                    "example_sentence_translation": "आनुवंशिक चिकित्सा खून की कमी को प्रभावी रूप से संबोधित करती है।",
+                    "example_sentence_transliteration": "Aanuvanshik chikitsa khoon ki kami ko prabhavi roop se sambodhit karti hai.",
+                    "example_expression_translation": "आयरन की कमी से होने वाला रक्ताल्पता",
+                    "example_expression_transliteration": "ayarn ki kami se hone wala raktalpata",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "anemia",
+                    "word_transliteration": "anémya",
+                    "example_sentence_translation": "La terapia genética aborda la anemia de manera efectiva.",
+                    "example_sentence_transliteration": "La terápya genétyka abórda la anémya de manéra efektíva.",
+                    "example_expression_translation": "anemia por deficiencia de hierro",
+                    "example_expression_transliteration": "anémya por defishyénsya de yérro",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "hemophilia",
+            "phonetic": "ˌhiː.məˈfɪl.i.ə",
+            "word_native_transliteration": {
+                "bn": "হিমোফিলিয়া",
+                "hi": "हीमोफिलिया",
+                "es": "jemofílya"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🩸",
+            "meaning": "A medical condition in which the ability of the blood to clot is severely reduced, causing the sufferer to bleed severely from even a slight injury.",
+            "example_sentence": "Hemophilia treatment benefits from genetic editing.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিমোফিলিয়া ট্রিটমেন্ট বেনিফিটস ফ্রম জেনেটিক এডিটিং।",
+                "es": "jemofílya trítment benéfits from genétik éditing।",
+                "hi": "हीमोफिलिया ट्रीटमेंट बेनिफिट्स फ्रॉम जेनेटिक एडिटिंग।"
+            },
+            "example_expression": "hemophilia A",
+            "example_expression_native_transliteration": {
+                "bn": "হিমোফিলিয়া এ",
+                "es": "jemofílya é",
+                "hi": "हीमोफिलिया ए"
+            },
+            "example_expression_meaning": "The most common type of hemophilia, caused by a deficiency of clotting factor VIII.",
+            "position": 11,
+            "synonyms": "blood disorder, bleeding disorder, coagulopathy",
+            "antonyms": "hemostasis, clotting normalcy, coagulation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রক্তজমাট বাঁধার অক্ষমতা",
+                    "word_transliteration": "roktojomaat badhaar okkhomota",
+                    "example_sentence_translation": "হিমোফিলিয়ার চিকিৎসায় জেনেটিক সম্পাদনা সহায়ক।",
+                    "example_sentence_transliteration": "Hemophiliar chikitsay genetic shompadona shohayok.",
+                    "example_expression_translation": "হিমোফিলিয়া এ",
+                    "example_expression_transliteration": "hemophilia A",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "रक्तस्राव रोग",
+                    "word_transliteration": "raktasraav rog",
+                    "example_sentence_translation": "हीमोफिलिया का उपचार आनुवंशिक संपादन से लाभ उठाता है।",
+                    "example_sentence_transliteration": "Hemophilia ka upchaar aanuvanshik sampadan se labh uthata hai.",
+                    "example_expression_translation": "हीमोफिलिया ए",
+                    "example_expression_transliteration": "hemophilia A",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "hemofilia",
+                    "word_transliteration": "jemofílya",
+                    "example_sentence_translation": "El tratamiento de la hemofilia se beneficia de la edición genética.",
+                    "example_sentence_transliteration": "El tratamiénto de la jemofílya se benefísya de la edisión genétyka.",
+                    "example_expression_translation": "hemofilia A",
+                    "example_expression_transliteration": "jemofílya A",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "modifications",
+            "phonetic": "ˌmɒd.ɪ.fɪˈkeɪ.ʃənz",
+            "word_native_transliteration": {
+                "bn": "মডিফিকেশনস",
+                "hi": "मोडिफिकेशन्स",
+                "es": "modifikéshons"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔧",
+            "meaning": "The action of modifying something or the state of being modified; a change made.",
+            "example_sentence": "DNA modifications enable enhanced traits in crops.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিএনএ মডিফিকেশনস এনেবল এনহান্সড ট্রেইটস ইন ক্রপস।",
+                "es": "dé-ené-á modifikéshons enéybl enjánst tréyts in krops।",
+                "hi": "डीएनए मोडिफिकेशन्स एनेबल एन्हान्स्ड ट्रेट्स इन क्रॉप्स।"
+            },
+            "example_expression": "genetic modifications",
+            "example_expression_native_transliteration": {
+                "bn": "জেনেটিক মডিফিকেশনস",
+                "es": "genétik modifikéshons",
+                "hi": "जेनेटिक मोडिफिकेशन्स"
+            },
+            "example_expression_meaning": "Changes made to the genetic makeup of an organism.",
+            "position": 12,
+            "synonyms": "alterations, adjustments, changes",
+            "antonyms": "stagnation, originality, preservation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংশোধন",
+                    "word_transliteration": "shongshoodhon",
+                    "example_sentence_translation": "ডিএনএ সংশোধন শস্যের বৈশিষ্ট্য বাড়ায়।",
+                    "example_sentence_transliteration": "DNA shongshoodhon shosher boishishto baray.",
+                    "example_expression_translation": "জেনেটিক সংশোধন",
+                    "example_expression_transliteration": "genetic shongshoodhon",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "संशोधन",
+                    "word_transliteration": "sanshodhan",
+                    "example_sentence_translation": "डीएनए संशोधन फसलों में बेहतर विशेषताओं को सक्षम बनाते हैं।",
+                    "example_sentence_transliteration": "DNA sanshodhan fasalon mein behtar visheshtaon ko saksham banate hain.",
+                    "example_expression_translation": "आनुवंशिक संशोधन",
+                    "example_expression_transliteration": "aanuvanshik sanshodhan",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "modificaciones",
+                    "word_transliteration": "modifikasyónes",
+                    "example_sentence_translation": "Las modificaciones del ADN permiten características mejoradas en los cultivos.",
+                    "example_sentence_transliteration": "Las modifikasyónes del ADN permiíten karakterístikas mexoradas en los kultívos.",
+                    "example_expression_translation": "modificaciones genéticas",
+                    "example_expression_transliteration": "modifikasyónes genétykas",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "bacteria",
+            "phonetic": "bækˈtɪə.ri.ə",
+            "word_native_transliteration": {
+                "bn": "ব্যাকটেরিয়া",
+                "hi": "बैक्टीरिया",
+                "es": "baktérya"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🦠",
+            "meaning": "A member of a large group of unicellular microorganisms which have cell walls but lack organelles and an organized nucleus.",
+            "example_sentence": "Specialized bacteria aid in waste decomposition.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্পেশালাইজড ব্যাকটেরিয়া এইড ইন ওয়েস্ট ডিকম্পোজিশন।",
+                "es": "speshyaláyst baktérya éyd in uést dekompósishon।",
+                "hi": "स्पेशलाइज्ड बैक्टीरिया एड इन वेस्ट डेकम्पोजिशन।"
+            },
+            "example_expression": "beneficial bacteria",
+            "example_expression_native_transliteration": {
+                "bn": "বেনিফিশিয়াল ব্যাকটেরিয়া",
+                "es": "benefíshyal baktérya",
+                "hi": "बेनिफिशियल बैक्टीरिया"
+            },
+            "example_expression_meaning": "Microorganisms that provide positive effects to their environment or host.",
+            "position": 13,
+            "synonyms": "microbes, germs, microorganisms",
+            "antonyms": "pathogen-free, sterility, macroorganisms",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অণুজীব",
+                    "word_transliteration": "onujeeb",
+                    "example_sentence_translation": "বিশেষ ব্যাকটেরিয়া বর্জ্য অপচনে সহায়তা করে।",
+                    "example_sentence_transliteration": "Bishesh bacteria borjo opochone shohayota kore.",
+                    "example_expression_translation": "উপকারী ব্যাকটেরিয়া",
+                    "example_expression_transliteration": "upokari bacteria",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "जीवाणु",
+                    "word_transliteration": "jivanu",
+                    "example_sentence_translation": "विशेष जीवाणु अपशिष्ट अपघटन में सहायता करते हैं।",
+                    "example_sentence_transliteration": "Vishesh jivanu apshisht apghatan mein sahayata karte hain.",
+                    "example_expression_translation": "लाभकारी जीवाणु",
+                    "example_expression_transliteration": "labhkari jivanu",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "bacteria",
+                    "word_transliteration": "baktérya",
+                    "example_sentence_translation": "Las bacterias especializadas ayudan en la descomposición de residuos.",
+                    "example_sentence_transliteration": "Las baktéryas espesyalysádas ayúdan en la deskompósisión de resíduos.",
+                    "example_expression_translation": "bacteria beneficiosa",
+                    "example_expression_transliteration": "baktérya benefisyósa",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "biofuel",
+            "phonetic": "ˈbaɪ.əʊˌfjuː.əl",
+            "word_native_transliteration": {
+                "bn": "বায়োফুয়েল",
+                "hi": "बायोफ्यूल",
+                "es": "bayofúel"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌱",
+            "meaning": "A fuel derived immediately from living matter, as opposed to fossil fuels which are derived from long-dead biological matter.",
+            "example_sentence": "Biofuels reduce dependence on conventional energy sources.",
+            "example_sentence_native_transliteration": {
+                "bn": "বায়োফুয়েলস রিডিউস ডিপেন্ডেন্স অন কনভেনশনাল এনার্জি সোর্সেস।",
+                "es": "bayofúels ridyús dipéndèns on konvenshonál enérxy sórses।",
+                "hi": "बायोफ्यूल्स रिड्यूस डिपेंडेंस ऑन कन्वेंशनल एनर्जी सोर्सेस।"
+            },
+            "example_expression": "renewable biofuel",
+            "example_expression_native_transliteration": {
+                "bn": "রিনিউএবল বায়োফুয়েল",
+                "es": "rinyúéybl bayofúel",
+                "hi": "रिन्यूएबल बायोफ्यूल"
+            },
+            "example_expression_meaning": "A sustainable fuel source derived from biological materials.",
+            "position": 14,
+            "synonyms": "biomass fuel, renewable energy, green fuel",
+            "antonyms": "fossil fuel, non-renewable resources, petroleum",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জীবাশ্ম জ্বালানি",
+                    "word_transliteration": "jibashm jwalani",
+                    "example_sentence_translation": "বায়োফুয়েল প্রচলিত শক্তি উৎসের উপর নির্ভরতা হ্রাস করে।",
+                    "example_sentence_transliteration": "Biofuel procholit shokti utoser upor nirbhoorota hras kore.",
+                    "example_expression_translation": "নবায়নযোগ্য জীবজ্বালানি",
+                    "example_expression_transliteration": "nobayonyogyo jeebo jwalani",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "जैव ईंधन",
+                    "word_transliteration": "jaiv eendhan",
+                    "example_sentence_translation": "जैव ईंधन पारंपरिक ऊर्जा स्रोतों पर निर्भरता कम करते हैं।",
+                    "example_sentence_transliteration": "Jaiv eendhan paramparik urja sroton par nirbharata kam karte hain.",
+                    "example_expression_translation": "नवीकरणीय जैव ईंधन",
+                    "example_expression_transliteration": "naveekarniya jaiv eendhan",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "biocombustible",
+                    "word_transliteration": "byokombustíble",
+                    "example_sentence_translation": "Los biocombustibles reducen la dependencia de las fuentes de energía convencionales.",
+                    "example_sentence_transliteration": "Los byokombustíbles redúsen la dependénsya de las fuéntes de enerxía konvensyonáles.",
+                    "example_expression_translation": "biocombustible renovable",
+                    "example_expression_transliteration": "byokombustíble renováble",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "genetics",
+            "phonetic": "dʒəˈnet.ɪks",
+            "word_native_transliteration": {
+                "bn": "জেনেটিক্স",
+                "hi": "जेनेटिक्स",
+                "es": "genétiks"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧬",
+            "meaning": "The study of heredity and the variation of inherited characteristics.",
+            "example_sentence": "Genetics plays a pivotal role in healthcare advancements.",
+            "example_sentence_native_transliteration": {
+                "bn": "জেনেটিক্স প্লেজ এ পিভটাল রোল ইন হেলথকেয়ার অ্যাডভান্সমেন্টস।",
+                "es": "genétiks pléys é pivótal ról in jélzkéyar advánsmènts।",
+                "hi": "जेनेटिक्स प्लेज ए पिवोटल रोल इन हेल्थकेयर एडवान्समेंट्स।"
+            },
+            "example_expression": "molecular genetics",
+            "example_expression_native_transliteration": {
+                "bn": "মলিকিউলার জেনেটিক্স",
+                "es": "molekulár genétiks",
+                "hi": "मोलिक्यूलर जेनेटिक्स"
+            },
+            "example_expression_meaning": "The field of biology that studies the structure and function of genes at a molecular level.",
+            "position": 15,
+            "synonyms": "heredity, genomics, inheritance",
+            "antonyms": "environment-driven, non-genetic, acquired",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বংশগতিবিজ্ঞান",
+                    "word_transliteration": "bongshogooti biggyan",
+                    "example_sentence_translation": "জেনেটিক্স স্বাস্থ্যখাতে অগ্রগতিতে গুরুত্বপূর্ণ ভূমিকা পালন করে।",
+                    "example_sentence_transliteration": "Genetics shasthyo khate ogrogotite gurutopurno bhumika palon kore.",
+                    "example_expression_translation": "আণবিক জেনেটিক্স",
+                    "example_expression_transliteration": "aanbik genetics",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "आनुवंशिकता",
+                    "word_transliteration": "aanuvanshikta",
+                    "example_sentence_translation": "आनुवंशिकता स्वास्थ्य सेवा की प्रगति में महत्वपूर्ण भूमिका निभाती है।",
+                    "example_sentence_transliteration": "Aanuvanshikta swasthya seva ki pragati mein mahattvapurna bhumika nibhati hai.",
+                    "example_expression_translation": "आणविक आनुवंशिकता",
+                    "example_expression_transliteration": "aanvik aanuvanshikta",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "genética",
+                    "word_transliteration": "genétyka",
+                    "example_sentence_translation": "La genética desempeña un papel fundamental en los avances de la atención médica.",
+                    "example_sentence_transliteration": "La genétyka desempénya un papél fundamentál en los avánses de la atensión médyka.",
+                    "example_expression_translation": "genética molecular",
+                    "example_expression_transliteration": "genétyka molekulár",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "innovation",
+            "phonetic": "ˌɪn.əˈveɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ইনোভেশন",
+                "hi": "इनोवेशन",
+                "es": "inovéshon"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💡",
+            "meaning": "The action or process of innovating; a new method, idea, product, etc.",
+            "example_sentence": "Innovation drives solutions to global challenges.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনোভেশন ড্রাইভস সলিউশনস টু গ্লোবাল চ্যালেঞ্জেস।",
+                "es": "inovéshon dráyvs solúshons tú glóbal chaléndxes।",
+                "hi": "इनोवेशन ड्राइव्स सलूशन्स टू ग्लोबल चैलेंजेस।"
+            },
+            "example_expression": "technological innovation",
+            "example_expression_native_transliteration": {
+                "bn": "টেকনোলজিক্যাল ইনোভেশন",
+                "es": "teknolóxikal inovéshon",
+                "hi": "टेक्नोलॉजिकल इनोवेशन"
+            },
+            "example_expression_meaning": "The development and application of new technologies.",
+            "position": 16,
+            "synonyms": "invention, creativity, advancement",
+            "antonyms": "stagnation, conventionality, tradition",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্ভাবন",
+                    "word_transliteration": "udbhabon",
+                    "example_sentence_translation": "উদ্ভাবন বৈশ্বিক সমস্যার সমাধান দেয়।",
+                    "example_sentence_transliteration": "Udbhabon boishwik shomoshar shomadhan dey.",
+                    "example_expression_translation": "প্রযুক্তিগত উদ্ভাবন",
+                    "example_expression_transliteration": "proyuktigoto udbhabon",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "नवाचार",
+                    "word_transliteration": "navachaar",
+                    "example_sentence_translation": "नवाचार वैश्विक चुनौतियों का समाधान प्रेरित करता है।",
+                    "example_sentence_transliteration": "Navachaar vaishvik chunautiyon ka samadhan prerit karta hai.",
+                    "example_expression_translation": "तकनीकी नवाचार",
+                    "example_expression_transliteration": "takneeki navachaar",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "innovación",
+                    "word_transliteration": "inovasión",
+                    "example_sentence_translation": "La innovación impulsa soluciones a los desafíos globales.",
+                    "example_sentence_transliteration": "La inovasión impúlsa solusyónes a los desafíos glóbales.",
+                    "example_expression_translation": "innovación tecnológica",
+                    "example_expression_transliteration": "inovasión teknolóxyka",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sustainability",
+            "phonetic": "səˌsteɪ.nəˈbɪl.ə.ti",
+            "word_native_transliteration": {
+                "bn": "সাসটেইনেবিলিটি",
+                "hi": "सस्टेनेबिलिटी",
+                "es": "sustentabilidád"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌍",
+            "meaning": "The ability to be maintained at a certain rate or level; the avoidance of the depletion of natural resources in order to maintain an ecological balance.",
+            "example_sentence": "Sustainability is key in modern development practices.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাসটেইনেবিলিটি ইজ কি ইন মডার্ন ডেভেলপমেন্ট প্র্যাকটিসেস।",
+                "es": "sustentabilidád is kí in módèrn devélópment práktiséz।",
+                "hi": "सस्टेनेबिलिटी इज की इन मॉडर्न डेवेलपमेंट प्रैक्टिसेस।"
+            },
+            "example_expression": "environmental sustainability",
+            "example_expression_native_transliteration": {
+                "bn": "এনভায়রনমেন্টাল সাসটেইনেবিলিটি",
+                "es": "enváyronméntál sustentabilidád",
+                "hi": "एनवायरनमेंटल सस्टेनेबिलिटी"
+            },
+            "example_expression_meaning": "The practice of using resources in a way that preserves the environment for future generations.",
+            "position": 17,
+            "synonyms": "viability, continuity, durability",
+            "antonyms": "instability, unsustainability, depletion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্থায়িত্ব",
+                    "word_transliteration": "sthayitbo",
+                    "example_sentence_translation": "আধুনিক উন্নয়ন প্রক্রিয়ায় স্থায়িত্ব গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Adhunik unnooyan prokriyay sthayitbo gurutopurno.",
+                    "example_expression_translation": "পরিবেশগত স্থায়িত্ব",
+                    "example_expression_transliteration": "poribeshgoto sthayitbo",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "टिकाऊपन",
+                    "word_transliteration": "tikaaupan",
+                    "example_sentence_translation": "आधुनिक विकास प्रथाओं में स्थायित्व महत्वपूर्ण है।",
+                    "example_sentence_transliteration": "Adhunik vikas prathaon mein sthayitva mahattvapurna hai.",
+                    "example_expression_translation": "पर्यावरणीय स्थायित्व",
+                    "example_expression_transliteration": "paryavaraniya sthayitva",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "sostenibilidad",
+                    "word_transliteration": "sostenibilidád",
+                    "example_sentence_translation": "La sostenibilidad es clave en las prácticas de desarrollo moderno.",
+                    "example_sentence_transliteration": "La sostenibilidád es kláve en las práktikas de desarróllo móderno.",
+                    "example_expression_translation": "sostenibilidad ambiental",
+                    "example_expression_transliteration": "sostenibilidád ambyentál",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "milestone",
+            "phonetic": "ˈmaɪl.stəʊn",
+            "word_native_transliteration": {
+                "bn": "মাইলস্টোন",
+                "hi": "माइलस्टोन",
+                "es": "máylston"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏁",
+            "meaning": "An action or event marking a significant change or stage in development; a significant stage or event in the development of something.",
+            "example_sentence": "This discovery is a milestone in biotechnology.",
+            "example_sentence_native_transliteration": {
+                "bn": "দিস ডিসকভারি ইজ এ মাইলস্টোন ইন বায়োটেকনোলজি।",
+                "es": "dis diskóverí is é máylston in bayoteknoló-xí।",
+                "hi": "दिस डिस्कवरी इज ए माइलस्टोन इन बायोटेक्नोलॉजी।"
+            },
+            "example_expression": "historical milestone",
+            "example_expression_native_transliteration": {
+                "bn": "হিস্টোরিক্যাল মাইলস্টোন",
+                "es": "jistórikal máylston",
+                "hi": "हिस्टोरिकल माइलस्टोन"
+            },
+            "example_expression_meaning": "A significant event or achievement in history.",
+            "position": 18,
+            "synonyms": "landmark, achievement, breakthrough",
+            "antonyms": "insignificance, setback, regression",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মাইলফলক",
+                    "word_transliteration": "mailfollok",
+                    "example_sentence_translation": "এই আবিষ্কার বায়োটেকনোলজিতে একটি মাইলফলক।",
+                    "example_sentence_transliteration": "Ei abishkar biotechnology te ekti mailfollok.",
+                    "example_expression_translation": "ঐতিহাসিক মাইলফলক",
+                    "example_expression_transliteration": "oitijashik mailfollok",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "मील का पत्थर",
+                    "word_transliteration": "meel ka patthar",
+                    "example_sentence_translation": "यह खोज बायोटेक्नोलॉजी में एक मील का पत्थर है।",
+                    "example_sentence_transliteration": "Yah khoj biotechnology mein ek meel ka patthar hai.",
+                    "example_expression_translation": "ऐतिहासिक मील का पत्थर",
+                    "example_expression_transliteration": "aitihasik meel ka patthar",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "hito",
+                    "word_transliteration": "híto",
+                    "example_sentence_translation": "Este descubrimiento es un hito en la biotecnología.",
+                    "example_sentence_transliteration": "Este deskubrimiénto es un híto en la byoteknoló-xía.",
+                    "example_expression_translation": "hito histórico",
+                    "example_expression_transliteration": "híto istóriko",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1157 @@
+{
+    "position": 21,
+    "title_translation": {
+        "en": "Learn Vocabulary Through Stories - UN General Assembly Session",
+        "hi": "कहानियों के माध्यम से शब्दावली सीखें - संयुक्त राष्ट्र महासभा सत्र",
+        "es": "Aprende Vocabulario a Través de Historias - Sesión de la Asamblea General de la ONU",
+        "bn": "গল্পের মাধ্যমে শব্দভাণ্ডার শিখুন - জাতিসংঘ সাধারণ পরিষদের অধিবেশন"
+    },
+    "content_translation": {
+        "en": "On September 10, 2024, the 79th General Assembly session of the United Nations began in New York. The session featured deliberations on crucial topics including conflict resolution, sustainable development goals, and addressing challenges faced by developing countries.\n\nThe Chief Advisor of Bangladesh's interim government led a 7-member delegation. This first visit to the United Nations was considered a significant diplomatic milestone for Bangladesh.\n\nThe UN's resident coordinator welcomed Bangladesh's 50 years of membership and the advisor's participation. High-level general debates were held from September 24-30, where world leaders exchanged views on global peace, governance, and sustainable development.\n\nAdditionally, the 'Summit of the Future' was held on September 22-23, providing crucial strategic insights for addressing global challenges.",
+        "hi": "१० सितंबर २०२४ को न्यूयॉर्क में संयुक्त राष्ट्र के ७९वें सामान्य **assembly session** शुरू हुआ। **अधिवेशन** में **conflict resolution**, टिकाऊ विकास **goals**, और विकासशील देशों की चुनौतियों के मुकाबले जैसे महत्वपूर्ण विषयों पर **deliberations** हुए।\n\nबांग्लादेश की अंतरिम सरकार के मुख्य सलाहकार ने ७ सदस्यीय **delegation** का नेतृत्व किया। संयुक्त राष्ट्र की इस पहली यात्रा को बांग्लादेश के लिए एक महत्वपूर्ण **diplomatic milestone** माना गया।\n\nसंयुक्त राष्ट्र के **resident coordinator** ने बांग्लादेश की ५० वर्षीय **membership** और सलाहकार की भागीदारी का स्वागत किया। उच्च स्तरीय सामान्य **debates** २४-३० सितंबर को आयोजित हुए, जहाँ विश्व नेताओं ने **global peace**, **governance**, और टिकाऊ विकास पर विचार-विमर्श किया।\n\nइसके अतिरिक्त, २२-२३ सितंबर को '**Summit of the Future**' आयोजित हुआ, जो वैश्विक चुनौतियों के मुकाबले में महत्वपूर्ण **strategic insights** प्रदान करता है।",
+        "es": "El 10 de septiembre de 2024 comenzó en Nueva York la 79ª **assembly session** de las Naciones Unidas. En la **sesión** hubo **deliberations** sobre temas cruciales como **conflict resolution**, **goals** de desarrollo sostenible, y el enfrentamiento de desafíos de países en desarrollo.\n\nEl principal consejero del gobierno interino de Bangladesh dirigió una **delegation** de 7 miembros. Esta primera visita a las Naciones Unidas fue considerada un **diplomatic milestone** significativo para Bangladesh.\n\nEl **resident coordinator** de la ONU dio la bienvenida a los 50 años de **membership** de Bangladesh y la participación del consejero. Los **debates** generales de alto nivel se celebraron del 24 al 30 de septiembre, donde líderes mundiales intercambiaron puntos de vista sobre **global peace**, **governance**, y desarrollo sostenible.\n\nAdemás, la '**Summit of the Future**' se celebró los días 22-23 de septiembre, proporcionando **strategic insights** cruciales para abordar los desafíos globales.",
+        "bn": "২০২৪ সালের ১০ সেপ্টেম্বর নিউইয়র্কে জাতিসংঘের ৭৯তম সাধারণ **assembly session** শুরু হয়। অধিবেশনে **conflict resolution**, টেকসই উন্নয়ন **goals**, এবং উন্নয়নশীল দেশগুলোর চ্যালেঞ্জ মোকাবিলার মতো গুরুত্বপূর্ণ বিষয় নিয়ে **deliberations** হয়।\n\nবাংলাদেশের অন্তর্বর্তী সরকারের প্রধান উপদেষ্টা ৭ সদস্যের একটি **delegation**-এর নেতৃত্ব দেন। জাতিসংঘে তার প্রথম সফরকে বাংলাদেশের জন্য একটি গুরুত্বপূর্ণ **diplomatic milestone** হিসেবে গণ্য করা হয়।\n\nজাতিসংঘের **resident coordinator** বাংলাদেশের ৫০ বছরের **membership** উদযাপন এবং উপদেষ্টার অংশগ্রহণকে স্বাগত জানান। উচ্চ পর্যায়ের সাধারণ **debates** ২৪-৩০ সেপ্টেম্বর অনুষ্ঠিত হয়, যেখানে বিশ্ব নেতারা **global peace**, **governance**, এবং টেকসই উন্নয়নের বিষয়ে মতবিনিময় করেন।\n\nএছাড়া, ২২-২৩ সেপ্টেম্বর '**Summit of the Future**' অনুষ্ঠিত হয়, যা বৈশ্বিক চ্যালেঞ্জ মোকাবিলায় গুরুত্বপূর্ণ **strategic insights** প্রদান করে।"
+    },
+    "list": [
+        {
+            "word": "assembly",
+            "phonetic": "əˈsem.bli",
+            "word_native_transliteration": {
+                "bn": "অ্যাসেম্বলি",
+                "hi": "असेम्बली",
+                "es": "asémblí"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏛️",
+            "meaning": "A group of people elected to make laws or decisions for a particular country or region.",
+            "example_sentence": "The assembly session discussed global challenges.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যাসেম্বলি সেশন ডিসকাসড গ্লোবাল চ্যালেঞ্জেস।",
+                "es": "de asémblí séshon diskást glóbal chalényes.",
+                "hi": "द असेम्बली सेशन डिस्कस्ड ग्लोबल चैलेंजेस।"
+            },
+            "example_expression": "general assembly",
+            "example_expression_native_transliteration": {
+                "bn": "জেনারেল অ্যাসেম্বলি",
+                "es": "yenéral asémblí",
+                "hi": "जनरल असेम्बली"
+            },
+            "example_expression_meaning": "The main deliberative organ of an organization, especially the United Nations.",
+            "position": 1,
+            "synonyms": "meeting, gathering, conference, session",
+            "antonyms": "disbanding, separation, dissolution",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সভা",
+                    "word_transliteration": "shobha",
+                    "example_sentence_translation": "অধিবেশনের সভায় বৈশ্বিক চ্যালেঞ্জ নিয়ে আলোচনা হয়।",
+                    "example_sentence_transliteration": "Odhiveshoner shobhay boishvik challenge niye alochona hoy.",
+                    "example_expression_translation": "সাধারণ পরিষদ",
+                    "example_expression_transliteration": "shadharon porishod",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "सभा",
+                    "word_transliteration": "sabha",
+                    "example_sentence_translation": "सभा के सत्र में वैश्विक चुनौतियों पर चर्चा हुई।",
+                    "example_sentence_transliteration": "Sabha ke satra mein vaishvik chunautiyon par charcha hui.",
+                    "example_expression_translation": "महासभा",
+                    "example_expression_transliteration": "mahasabha",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "asamblea",
+                    "word_transliteration": "asambléa",
+                    "example_sentence_translation": "La sesión de la asamblea discutió desafíos globales.",
+                    "example_sentence_transliteration": "La sesión de la asambléa diskutió desafíos globáles.",
+                    "example_expression_translation": "asamblea general",
+                    "example_expression_transliteration": "asambléa yenerál",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "session",
+            "phonetic": "ˈseʃ.ən",
+            "word_native_transliteration": {
+                "bn": "সেশন",
+                "hi": "सेशन",
+                "es": "séshon"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⏰",
+            "meaning": "A period devoted to a particular activity, especially a formal meeting.",
+            "example_sentence": "The assembly session lasted for several hours.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যাসেম্বলি সেশন লাস্টেড ফর সেভারাল আওয়ার্স।",
+                "es": "de asémblí séshon lástd for sevéral áuars.",
+                "hi": "द असेम्बली सेशन लास्टेड फॉर सेवरल आवर्स।"
+            },
+            "example_expression": "plenary session",
+            "example_expression_native_transliteration": {
+                "bn": "প্লেনারি সেশন",
+                "es": "plénari séshon",
+                "hi": "प्लेनरी सेशन"
+            },
+            "example_expression_meaning": "A meeting attended by all members of an assembly or conference.",
+            "position": 2,
+            "synonyms": "meeting, sitting, conference, gathering",
+            "antonyms": "break, recess, adjournment",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অধিবেশন",
+                    "word_transliteration": "odhiveshon",
+                    "example_sentence_translation": "সভার অধিবেশন কয়েক ঘণ্টা চলেছিল।",
+                    "example_sentence_transliteration": "Shobhar odhiveshon koyekghonta cholechilo.",
+                    "example_expression_translation": "পূর্ণাঙ্গ অধিবেশন",
+                    "example_expression_transliteration": "purnango odhiveshon",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "सत्र",
+                    "word_transliteration": "satra",
+                    "example_sentence_translation": "सभा का सत्र कई घंटों तक चला।",
+                    "example_sentence_transliteration": "Sabha ka satra kai ghanton tak chala.",
+                    "example_expression_translation": "पूर्ण सत्र",
+                    "example_expression_transliteration": "poorn satra",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "sesión",
+                    "word_transliteration": "sesión",
+                    "example_sentence_translation": "La sesión de la asamblea duró varias horas.",
+                    "example_sentence_transliteration": "La sesión de la asambléa duró várias óras.",
+                    "example_expression_translation": "sesión plenaria",
+                    "example_expression_transliteration": "sesión plenária",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "conflict",
+            "phonetic": "ˈkɒn.flɪkt",
+            "word_native_transliteration": {
+                "bn": "কনফ্লিক্ট",
+                "hi": "कॉन्फ्लिक्ट",
+                "es": "kónflikt"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚔️",
+            "meaning": "A serious disagreement or argument, typically a protracted one.",
+            "example_sentence": "Conflict resolution is vital for global peace.",
+            "example_sentence_native_transliteration": {
+                "bn": "কনফ্লিক্ট রেজোলিউশন ইজ ভাইটাল ফর গ্লোবাল পিস।",
+                "es": "kónflikt resolúshon is váital for glóbal pís.",
+                "hi": "कॉन्फ्लिक्ट रेजोल्यूशन इज वाइटल फॉर ग्लोबल पीस।"
+            },
+            "example_expression": "armed conflict",
+            "example_expression_native_transliteration": {
+                "bn": "আর্মড কনফ্লিক্ট",
+                "es": "ármd kónflikt",
+                "hi": "आर्म्ड कॉन्फ्लिक्ट"
+            },
+            "example_expression_meaning": "A violent confrontation between organized groups, typically involving military forces.",
+            "position": 3,
+            "synonyms": "dispute, disagreement, clash, confrontation",
+            "antonyms": "agreement, harmony, peace, cooperation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংঘাত",
+                    "word_transliteration": "shonghat",
+                    "example_sentence_translation": "সংঘাত নিরসন বৈশ্বিক শান্তির জন্য অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Shonghat niroshon boishvik shantir jonno ottonto guruttopurno.",
+                    "example_expression_translation": "সশস্ত্র সংঘাত",
+                    "example_expression_transliteration": "soshashtro shonghat",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "संघर्ष",
+                    "word_transliteration": "sangharsh",
+                    "example_sentence_translation": "संघर्ष समाधान वैश्विक शांति के लिए महत्वपूर्ण है।",
+                    "example_sentence_transliteration": "Sangharsh samadhan vaishvik shanti ke liye mahattvapurn hai.",
+                    "example_expression_translation": "सशस्त्र संघर्ष",
+                    "example_expression_transliteration": "sashastra sangharsh",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "conflicto",
+                    "word_transliteration": "konflíkto",
+                    "example_sentence_translation": "La resolución de conflictos es vital para la paz mundial.",
+                    "example_sentence_transliteration": "La resolusión de konflíktos es vitál para la pas mundiál.",
+                    "example_expression_translation": "conflicto armado",
+                    "example_expression_transliteration": "konflíkto armádo",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "resolution",
+            "phonetic": "ˌrez.əˈluː.ʃən",
+            "word_native_transliteration": {
+                "bn": "রেজোলিউশন",
+                "hi": "रेजोल्यूशन",
+                "es": "resolúshon"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✅",
+            "meaning": "The action of solving a problem, dispute, or contentious matter.",
+            "example_sentence": "The resolution was passed unanimously.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রেজোলিউশন ওয়াজ পাসড ইউনানিমাসলি।",
+                "es": "de resolúshon uás pasd únanimasli.",
+                "hi": "द रेजोल्यूशन वाज पास्ड यूनानिमसली।"
+            },
+            "example_expression": "conflict resolution",
+            "example_expression_native_transliteration": {
+                "bn": "কনফ্লিক্ট রেজোলিউশন",
+                "es": "kónflikt resolúshon",
+                "hi": "कॉन्फ्लिक्ट रेजोल्यूशन"
+            },
+            "example_expression_meaning": "The process of ending a conflict through negotiation and compromise.",
+            "position": 4,
+            "synonyms": "solution, settlement, answer, decision",
+            "antonyms": "problem, complication, confusion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিরসন",
+                    "word_transliteration": "niroshon",
+                    "example_sentence_translation": "প্রস্তাবটি সর্বসম্মতিক্রমে গৃহীত হয়েছিল।",
+                    "example_sentence_transliteration": "Prostaboti shorboshommotikrome grihito hoyecchilo.",
+                    "example_expression_translation": "সংঘাত নিরসন",
+                    "example_expression_transliteration": "shonghat niroshon",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "समाधान",
+                    "word_transliteration": "samadhan",
+                    "example_sentence_translation": "प्रस्ताव सर्वसम्मति से पारित हुआ।",
+                    "example_sentence_transliteration": "Prastav sarvasammati se paarit hua.",
+                    "example_expression_translation": "संघर्ष समाधान",
+                    "example_expression_transliteration": "sangharsh samadhan",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "resolución",
+                    "word_transliteration": "resolusión",
+                    "example_sentence_translation": "La resolución fue aprobada por unanimidad.",
+                    "example_sentence_transliteration": "La resolusión fué aprobáda por unanimidád.",
+                    "example_expression_translation": "resolución de conflictos",
+                    "example_expression_transliteration": "resolusión de konflíktos",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "goals",
+            "phonetic": "ɡəʊlz",
+            "word_native_transliteration": {
+                "bn": "গোলস",
+                "hi": "गोल्स",
+                "es": "góls"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The object of a person's ambition or effort; an aim or desired result.",
+            "example_sentence": "Achieving development goals requires cooperation.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাচিভিং ডেভেলপমেন্ট গোলস রিকোয়ারস কোঅপারেশন।",
+                "es": "achívin devélpment góls rikuáirs kooperáshon.",
+                "hi": "अचीविंग डेवलपमेंट गोल्स रिक्वायर्स कोऑपरेशन।"
+            },
+            "example_expression": "sustainable development goals",
+            "example_expression_native_transliteration": {
+                "bn": "সাস্টেইনেবল ডেভেলপমেন্ট গোলস",
+                "es": "sastéinebl devélpment góls",
+                "hi": "सस्टेनेबल डेवलपमेंट गोल्स"
+            },
+            "example_expression_meaning": "A collection of 17 global goals designed to achieve a better and more sustainable future.",
+            "position": 5,
+            "synonyms": "objectives, targets, aims, purposes",
+            "antonyms": "aimlessness, confusion, purposelessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "লক্ষ্য",
+                    "word_transliteration": "lokkhyo",
+                    "example_sentence_translation": "উন্নয়ন লক্ষ্যমাত্রা অর্জনে সহযোগিতা প্রয়োজন।",
+                    "example_sentence_transliteration": "Unnyon lokkhyomatra orjone shohyogita proyojon.",
+                    "example_expression_translation": "টেকসই উন্নয়ন লক্ষ্য",
+                    "example_expression_transliteration": "teksoi unnyon lokkhyo",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "लक्ष्य",
+                    "word_transliteration": "lakshya",
+                    "example_sentence_translation": "विकास लक्ष्यों को प्राप्त करने के लिए सहयोग की आवश्यकता है।",
+                    "example_sentence_transliteration": "Vikas lakshyon ko praapt karne ke liye sahyog ki aavashyakta hai.",
+                    "example_expression_translation": "सतत विकास लक्ष्य",
+                    "example_expression_transliteration": "satat vikas lakshya",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "objetivos",
+                    "word_transliteration": "obyetívos",
+                    "example_sentence_translation": "Lograr objetivos de desarrollo requiere cooperación.",
+                    "example_sentence_transliteration": "Lográr obyetívos de desarróllo rekiére kooperasión.",
+                    "example_expression_translation": "objetivos de desarrollo sostenible",
+                    "example_expression_transliteration": "obyetívos de desarróllo sostenible",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "deliberations",
+            "phonetic": "dɪˌlɪb.əˈreɪ.ʃənz",
+            "word_native_transliteration": {
+                "bn": "ডেলিবারেশন্স",
+                "hi": "डेलिबरेशन्स",
+                "es": "deliberáshons"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💭",
+            "meaning": "Long and careful consideration or discussion of a particular subject.",
+            "example_sentence": "Deliberations on sustainability continued for hours.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডেলিবারেশন্স অন সাস্টেইনেবিলিটি কন্টিনিউড ফর আওয়ার্স।",
+                "es": "deliberáshons on sasteinebíliti kontínud for áuars.",
+                "hi": "डेलिबरेशन्स ऑन सस्टेनेबिलिटी कंटिन्यूड फॉर आवर्स।"
+            },
+            "example_expression": "public deliberations",
+            "example_expression_native_transliteration": {
+                "bn": "পাবলিক ডেলিবারেশন্স",
+                "es": "páblik deliberáshons",
+                "hi": "पब्लिक डेलिबरेशन्स"
+            },
+            "example_expression_meaning": "Open discussions involving the general public on important issues.",
+            "position": 6,
+            "synonyms": "discussions, debates, considerations, consultations",
+            "antonyms": "silence, neglect, oversight",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আলোচনা",
+                    "word_transliteration": "alochona",
+                    "example_sentence_translation": "টেকসইতা নিয়ে আলোচনা কয়েক ঘণ্টা চলেছিল।",
+                    "example_sentence_transliteration": "Teksoita niye alochona koyekghonta cholechilo.",
+                    "example_expression_translation": "জনসাধারণের আলোচনা",
+                    "example_expression_transliteration": "jonshokhadhaner alochona",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "विचार-विमर्श",
+                    "word_transliteration": "vichar-vimarsh",
+                    "example_sentence_translation": "स्थिरता पर विचार-विमर्श कई घंटों तक चला।",
+                    "example_sentence_transliteration": "Sthirata par vichar-vimarsh kai ghanton tak chala.",
+                    "example_expression_translation": "सार्वजनिक विचार-विमर्श",
+                    "example_expression_transliteration": "saarvajanik vichar-vimarsh",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "deliberaciones",
+                    "word_transliteration": "deliberasiónes",
+                    "example_sentence_translation": "Las deliberaciones sobre sostenibilidad continuaron por horas.",
+                    "example_sentence_transliteration": "Las deliberasiónes sóbre sostenibilidád kontinuáron por óras.",
+                    "example_expression_translation": "deliberaciones públicas",
+                    "example_expression_transliteration": "deliberasiónes públikas",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "delegation",
+            "phonetic": "ˌdel.ɪˈɡeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ডেলিগেশন",
+                "hi": "डेलिगेशन",
+                "es": "delegáshon"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👥",
+            "meaning": "A body of delegates or representatives; a deputation.",
+            "example_sentence": "The delegation presented their country's agenda.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডেলিগেশন প্রেজেন্টেড দেয়ার কান্ট্রিজ এজেন্ডা।",
+                "es": "de delegáshon presentéd der kántris ayénda.",
+                "hi": "द डेलिगेशन प्रेजेंटेड देयर कंट्रीज एजेंडा।"
+            },
+            "example_expression": "high-level delegation",
+            "example_expression_native_transliteration": {
+                "bn": "হাই-লেভেল ডেলিগেশন",
+                "es": "jái-lével delegáshon",
+                "hi": "हाई-लेवल डेलिगेशन"
+            },
+            "example_expression_meaning": "A group of senior officials or representatives sent on a diplomatic mission.",
+            "position": 7,
+            "synonyms": "deputation, representation, mission, embassy",
+            "antonyms": "individual, isolation, single person",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিনিধি দল",
+                    "word_transliteration": "protinidhi dol",
+                    "example_sentence_translation": "প্রতিনিধি দল তাদের দেশের এজেন্ডা উপস্থাপন করেন।",
+                    "example_sentence_transliteration": "Protinidhi dol tader desher agenda upasthaapon koren.",
+                    "example_expression_translation": "উচ্চ পর্যায়ের প্রতিনিধি দল",
+                    "example_expression_transliteration": "uchcho poryayer protinidhi dol",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "प्रतिनिधिमंडल",
+                    "word_transliteration": "pratinidhimandal",
+                    "example_sentence_translation": "प्रतिनिधिमंडल ने अपने देश का एजेंडा प्रस्तुत किया।",
+                    "example_sentence_transliteration": "Pratinidhimandal ne apne desh ka agenda prastut kiya.",
+                    "example_expression_translation": "उच्च स्तरीय प्रतिनिधिमंडल",
+                    "example_expression_transliteration": "uchch stariya pratinidhimandal",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "delegación",
+                    "word_transliteration": "delegasión",
+                    "example_sentence_translation": "La delegación presentó la agenda de su país.",
+                    "example_sentence_transliteration": "La delegasión presentó la ayénda de su país.",
+                    "example_expression_translation": "delegación de alto nivel",
+                    "example_expression_transliteration": "delegasión de álto nivél",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "diplomatic",
+            "phonetic": "ˌdɪp.ləˈmæt.ɪk",
+            "word_native_transliteration": {
+                "bn": "ডিপ্লোম্যাটিক",
+                "hi": "डिप्लोमैटिक",
+                "es": "diplomátik"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🤝",
+            "meaning": "Of or concerning the management of international relations.",
+            "example_sentence": "Hosting the summit was a diplomatic milestone.",
+            "example_sentence_native_transliteration": {
+                "bn": "হোস্টিং দ্য সামিট ওয়াজ এ ডিপ্লোম্যাটিক মাইলস্টোন।",
+                "es": "jósting de sámit uás a diplomátik máilston.",
+                "hi": "होस्टिंग द समिट वाज अ डिप्लोमैटिक माइलस्टोन।"
+            },
+            "example_expression": "diplomatic relations",
+            "example_expression_native_transliteration": {
+                "bn": "ডিপ্লোম্যাটিক রিলেশনস",
+                "es": "diplomátik reláshons",
+                "hi": "डिप्लोमैटिक रिलेशन्स"
+            },
+            "example_expression_meaning": "The formal relationships between countries and their governments.",
+            "position": 8,
+            "synonyms": "tactful, political, strategic, international",
+            "antonyms": "tactless, blunt, offensive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কূটনৈতিক",
+                    "word_transliteration": "kutnaitik",
+                    "example_sentence_translation": "শীর্ষ সম্মেলনের আয়োজন একটি কূটনৈতিক মাইলফলক ছিল।",
+                    "example_sentence_transliteration": "Shirshho shommeloner ayojon ekti kutnaitik mailfolok chhilo.",
+                    "example_expression_translation": "কূটনৈতিক সম্পর্ক",
+                    "example_expression_transliteration": "kutnaitik shomporko",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "राजनयिक",
+                    "word_transliteration": "rajnayik",
+                    "example_sentence_translation": "शिखर सम्मेलन की मेजबानी एक राजनयिक मील का पत्थर थी।",
+                    "example_sentence_transliteration": "Shikhar sammelan ki mezbani ek rajnayik meel ka patthar thi.",
+                    "example_expression_translation": "राजनयिक संबंध",
+                    "example_expression_transliteration": "rajnayik sambandh",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "diplomático",
+                    "word_transliteration": "diplomátiko",
+                    "example_sentence_translation": "Organizar la cumbre fue un hito diplomático.",
+                    "example_sentence_transliteration": "Organisár la kúmbre fué un íto diplomátiko.",
+                    "example_expression_translation": "relaciones diplomáticas",
+                    "example_expression_transliteration": "relasiónes diplomátikas",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "milestone",
+            "phonetic": "ˈmaɪl.stəʊn",
+            "word_native_transliteration": {
+                "bn": "মাইলস্টোন",
+                "hi": "माइलस्टोन",
+                "es": "máilston"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏁",
+            "meaning": "An action or event marking a significant change or stage in development.",
+            "example_sentence": "This achievement was a major milestone for the organization.",
+            "example_sentence_native_transliteration": {
+                "bn": "দিস অ্যাচিভমেন্ট ওয়াজ এ মেজর মাইলস্টোন ফর দ্য অর্গানাইজেশন।",
+                "es": "dis achívment uás a méyor máilston for de organiséshon.",
+                "hi": "दिस अचीवमेंट वाज अ मेजर माइलस्टोन फॉर द ऑर्गनाइजेशन।"
+            },
+            "example_expression": "historic milestone",
+            "example_expression_native_transliteration": {
+                "bn": "হিস্টরিক মাইলস্টোন",
+                "es": "jistórik máilston",
+                "hi": "हिस्टोरिक माइलस्टोन"
+            },
+            "example_expression_meaning": "A significant achievement or event of historical importance.",
+            "position": 9,
+            "synonyms": "landmark, achievement, breakthrough, turning point",
+            "antonyms": "setback, failure, regression",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মাইলফলক",
+                    "word_transliteration": "mailfolok",
+                    "example_sentence_translation": "এই অর্জন সংস্থার জন্য একটি বড় মাইলফলক ছিল।",
+                    "example_sentence_transliteration": "Ei orjon shongsthar jonno ekti boro mailfolok chhilo.",
+                    "example_expression_translation": "ঐতিহাসিক মাইলফলক",
+                    "example_expression_transliteration": "oitihasik mailfolok",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "मील का पत्थर",
+                    "word_transliteration": "meel ka patthar",
+                    "example_sentence_translation": "यह उपलब्धि संगठन के लिए एक बड़ा मील का पत्थर थी।",
+                    "example_sentence_transliteration": "Yah upalabdhi sangathan ke liye ek bada meel ka patthar thi.",
+                    "example_expression_translation": "ऐतिहासिक मील का पत्थर",
+                    "example_expression_transliteration": "aitihasik meel ka patthar",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "hito",
+                    "word_transliteration": "íto",
+                    "example_sentence_translation": "Este logro fue un hito importante para la organización.",
+                    "example_sentence_transliteration": "Éste lógro fué un íto importánte para la organisasión.",
+                    "example_expression_translation": "hito histórico",
+                    "example_expression_transliteration": "íto istóriko",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "resident",
+            "phonetic": "ˈrez.ɪ.dənt",
+            "word_native_transliteration": {
+                "bn": "রেসিডেন্ট",
+                "hi": "रेजिडेंट",
+                "es": "residént"
+            },
+            "parts_of_speech": "noun/adjective",
+            "emoji": "🏠",
+            "meaning": "A person who lives somewhere permanently or on a long-term basis.",
+            "example_sentence": "The resident coordinator welcomed all representatives.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রেসিডেন্ট কোঅর্ডিনেটর ওয়েলকামড অল রেপ্রেজেন্টেটিভস।",
+                "es": "de residént koordinétor uelkámd ól representétivs.",
+                "hi": "द रेजिडेंट कोऑर्डिनेटर वेलकम्ड ऑल रेप्रेजेंटेटिव्स।"
+            },
+            "example_expression": "permanent resident",
+            "example_expression_native_transliteration": {
+                "bn": "পার্মানেন্ট রেসিডেন্ট",
+                "es": "permanént residént",
+                "hi": "परमानेंट रेजिडेंट"
+            },
+            "example_expression_meaning": "A person who has been granted the right to live in a country permanently.",
+            "position": 10,
+            "synonyms": "inhabitant, dweller, occupant, local",
+            "antonyms": "visitor, tourist, outsider",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আবাসিক",
+                    "word_transliteration": "abasik",
+                    "example_sentence_translation": "আবাসিক সমন্বয়ক সমস্ত প্রতিনিধিদের স্বাগত জানিয়েছেন।",
+                    "example_sentence_transliteration": "Abasik shomonnoyk shomosto protinidhider shagoto janiyechen.",
+                    "example_expression_translation": "স্থায়ী বাসিন্দা",
+                    "example_expression_transliteration": "sthayi bashinda",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "निवासी",
+                    "word_transliteration": "nivasi",
+                    "example_sentence_translation": "निवासी समन्वयक ने सभी प्रतिनिधियों का स्वागत किया।",
+                    "example_sentence_transliteration": "Nivasi samanvayak ne sabhi pratinidhiyon ka svaagat kiya.",
+                    "example_expression_translation": "स्थायी निवासी",
+                    "example_expression_transliteration": "sthayi nivasi",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "residente",
+                    "word_transliteration": "residénte",
+                    "example_sentence_translation": "El coordinador residente dio la bienvenida a todos los representantes.",
+                    "example_sentence_transliteration": "El koordinadór residénte dió la bienvénida a tódos los representántes.",
+                    "example_expression_translation": "residente permanente",
+                    "example_expression_transliteration": "residénte permanénte",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "coordinator",
+            "phonetic": "ˈkəʊ.ɔː.dɪ.neɪ.tər",
+            "word_native_transliteration": {
+                "bn": "কোঅর্ডিনেটর",
+                "hi": "कोऑर्डिनेटर",
+                "es": "koordinétor"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "A person whose job it is to organize events or activities and to negotiate with others in order to ensure they work together effectively.",
+            "example_sentence": "The project coordinator managed all aspects of the initiative.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রজেক্ট কোঅর্ডিনেটর ম্যানেজড অল অ্যাসপেক্টস অফ দ্য ইনিশিয়েটিভ।",
+                "es": "de proyékt koordinétor manáyest ól aspékts of de inishiátiv.",
+                "hi": "द प्रोजेक्ट कोऑर्डिनेटर मैनेज्ड ऑल एस्पेक्ट्स ऑफ द इनिशिएटिव।"
+            },
+            "example_expression": "program coordinator",
+            "example_expression_native_transliteration": {
+                "bn": "প্রোগ্রাম কোঅর্ডিনেটর",
+                "es": "prográm koordinétor",
+                "hi": "प्रोग्राम कोऑर्डिनेटर"
+            },
+            "example_expression_meaning": "A person responsible for organizing and managing a specific program or set of activities.",
+            "position": 11,
+            "synonyms": "organizer, manager, administrator, facilitator",
+            "antonyms": "disorganizer, hindrance, obstacle",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সমন্বয়ক",
+                    "word_transliteration": "shomonnoyk",
+                    "example_sentence_translation": "প্রকল্প সমন্বয়ক উদ্যোগের সমস্ত দিক পরিচালনা করেছেন।",
+                    "example_sentence_transliteration": "Prokolpo shomonnoyk uddoger shomosto dik porichalna korechen.",
+                    "example_expression_translation": "কর্মসূচি সমন্বয়ক",
+                    "example_expression_transliteration": "kormsuchi shomonnoyk",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "समन्वयक",
+                    "word_transliteration": "samanvayak",
+                    "example_sentence_translation": "परियोजना समन्वयक ने पहल के सभी पहलुओं का प्रबंधन किया।",
+                    "example_sentence_transliteration": "Pariyojna samanvayak ne pahal ke sabhi pahluon ka prabandhan kiya.",
+                    "example_expression_translation": "कार्यक्रम समन्वयक",
+                    "example_expression_transliteration": "karyakram samanvayak",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "coordinador",
+                    "word_transliteration": "koordinadór",
+                    "example_sentence_translation": "El coordinador del proyecto gestionó todos los aspectos de la iniciativa.",
+                    "example_sentence_transliteration": "El koordinadór del proyékto yestionó tódos los aspéktos de la inisiátiva.",
+                    "example_expression_translation": "coordinador de programa",
+                    "example_expression_transliteration": "koordinadór de prográma",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "membership",
+            "phonetic": "ˈmem.bə.ʃɪp",
+            "word_native_transliteration": {
+                "bn": "মেম্বারশিপ",
+                "hi": "मेम्बरशिप",
+                "es": "mémbership"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎫",
+            "meaning": "The fact of being a member of a group or organization.",
+            "example_sentence": "The country's membership in the organization marked 50 years.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কান্ট্রিজ মেম্বারশিপ ইন দ্য অর্গানাইজেশন মার্কড ৫০ ইয়ার্স।",
+                "es": "de kántris mémbership in de organiséshon márkd ৫০ íars.",
+                "hi": "द कंट्रीज मेम्बरशिप इन द ऑर्गनाइजेशन मार्क्ड ৫০ इयर्स।"
+            },
+            "example_expression": "full membership",
+            "example_expression_native_transliteration": {
+                "bn": "ফুল মেম্বারশিপ",
+                "es": "fúl mémbership",
+                "hi": "फुल मेम्बरशिप"
+            },
+            "example_expression_meaning": "Complete membership with all rights and privileges of the organization.",
+            "position": 12,
+            "synonyms": "affiliation, association, enrollment, participation",
+            "antonyms": "exclusion, expulsion, rejection",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সদস্যপদ",
+                    "word_transliteration": "shodoshyopod",
+                    "example_sentence_translation": "সংগঠনে দেশের সদস্যপদ ৫০ বছর পূর্ণ করল।",
+                    "example_sentence_transliteration": "Shongoshtone desher shodoshyopod 50 bochor purno korlo.",
+                    "example_expression_translation": "পূর্ণ সদস্যপদ",
+                    "example_expression_transliteration": "purno shodoshyopod",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "सदस्यता",
+                    "word_transliteration": "sadasyata",
+                    "example_sentence_translation": "संगठन में देश की सदस्यता 50 वर्ष पूरे हुए।",
+                    "example_sentence_transliteration": "Sangathan mein desh ki sadasyata 50 varsh poore hue.",
+                    "example_expression_translation": "पूर्ण सदस्यता",
+                    "example_expression_transliteration": "poorn sadasyata",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "membresía",
+                    "word_transliteration": "membresía",
+                    "example_sentence_translation": "La membresía del país en la organización cumplió 50 años.",
+                    "example_sentence_transliteration": "La membresía del país en la organisasión kumplió 50 áños.",
+                    "example_expression_translation": "membresía completa",
+                    "example_expression_transliteration": "membresía kompléta",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "debates",
+            "phonetic": "dɪˈbeɪts",
+            "word_native_transliteration": {
+                "bn": "ডিবেটস",
+                "hi": "डिबेट्स",
+                "es": "debáts"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🗣️",
+            "meaning": "Formal discussions on a particular topic in a public meeting or legislative assembly.",
+            "example_sentence": "Debates on governance lasted throughout the session.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিবেটস অন গভার্নেন্স লাস্টেড থ্রুআউট দ্য সেশন।",
+                "es": "debáts on govérnans lástd zruáut de séshon.",
+                "hi": "डिबेट्स ऑन गवर्नेंस लास्टेड थ्रूआउट द सेशन।"
+            },
+            "example_expression": "heated debates",
+            "example_expression_native_transliteration": {
+                "bn": "হিটেড ডিবেটস",
+                "es": "jítd debáts",
+                "hi": "हीटेड डिबेट्स"
+            },
+            "example_expression_meaning": "Intense or passionate discussions characterized by strong disagreement.",
+            "position": 13,
+            "synonyms": "discussions, arguments, deliberations, disputes",
+            "antonyms": "agreement, silence, consensus",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিতর্ক",
+                    "word_transliteration": "bitorko",
+                    "example_sentence_translation": "শাসন নিয়ে বিতর্ক পুরো অধিবেশনে চলেছিল।",
+                    "example_sentence_transliteration": "Shashon niye bitorko puro odhiveshone cholechilo.",
+                    "example_expression_translation": "উত্তপ্ত বিতর্ক",
+                    "example_expression_transliteration": "uttoppto bitorko",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "बहस",
+                    "word_transliteration": "bahas",
+                    "example_sentence_translation": "शासन पर बहस पूरे सत्र में चली।",
+                    "example_sentence_transliteration": "Shaasan par bahas poore satra mein chali.",
+                    "example_expression_translation": "गर्म बहस",
+                    "example_expression_transliteration": "garm bahas",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "debates",
+                    "word_transliteration": "debátes",
+                    "example_sentence_translation": "Los debates sobre gobernanza duraron toda la sesión.",
+                    "example_sentence_transliteration": "Los debátes sóbre gobernánsa duráron tóda la sesión.",
+                    "example_expression_translation": "debates acalorados",
+                    "example_expression_transliteration": "debátes akalorados",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "global",
+            "phonetic": "ˈɡləʊ.bəl",
+            "word_native_transliteration": {
+                "bn": "গ্লোবাল",
+                "hi": "ग्लोबल",
+                "es": "globál"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌍",
+            "meaning": "Relating to the whole world; worldwide.",
+            "example_sentence": "Global peace requires collective efforts.",
+            "example_sentence_native_transliteration": {
+                "bn": "গ্লোবাল পিস রিকোয়ারস কালেক্টিভ এফর্টস।",
+                "es": "globál pís rikuáirs kolektív éforts.",
+                "hi": "ग्लोबल पीस रिक्वायर्स कलेक्टिव एफर्ट्स।"
+            },
+            "example_expression": "global economy",
+            "example_expression_native_transliteration": {
+                "bn": "গ্লোবাল ইকোনমি",
+                "es": "globál ekonómi",
+                "hi": "ग्लोबल इकोनॉमी"
+            },
+            "example_expression_meaning": "The interconnected worldwide economic activities of all countries.",
+            "position": 14,
+            "synonyms": "worldwide, international, universal, planetary",
+            "antonyms": "local, regional, national, limited",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৈশ্বিক",
+                    "word_transliteration": "boishvik",
+                    "example_sentence_translation": "বৈশ্বিক শান্তি যৌথ প্রচেষ্টা প্রয়োজন।",
+                    "example_sentence_transliteration": "Boishvik shanti joutho procheshta proyojon.",
+                    "example_expression_translation": "বৈশ্বিক অর্থনীতি",
+                    "example_expression_transliteration": "boishvik orthoniti",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "वैश्विक",
+                    "word_transliteration": "vaishvik",
+                    "example_sentence_translation": "वैश्विक शांति के लिए सामूहिक प्रयास आवश्यक हैं।",
+                    "example_sentence_transliteration": "Vaishvik shanti ke liye samuhik prayas aavashyak hain.",
+                    "example_expression_translation": "वैश्विक अर्थव्यवस्था",
+                    "example_expression_transliteration": "vaishvik arthvyavastha",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "global",
+                    "word_transliteration": "globál",
+                    "example_sentence_translation": "La paz global requiere esfuerzos colectivos.",
+                    "example_sentence_transliteration": "La pas globál rekiére esfuérsos kolektívos.",
+                    "example_expression_translation": "economía global",
+                    "example_expression_transliteration": "ekonomía globál",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "peace",
+            "phonetic": "piːs",
+            "word_native_transliteration": {
+                "bn": "পিস",
+                "hi": "पीस",
+                "es": "pís"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "☮️",
+            "meaning": "A state of harmony characterized by lack of violent conflict and freedom from fear of violence.",
+            "example_sentence": "World leaders work together to maintain peace.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওয়ার্ল্ড লিডার্স ওয়ার্ক টুগেদার টু মেইনটেইন পিস।",
+                "es": "uórld lídrs uórk tugéder tu méinteín pís.",
+                "hi": "वर्ल्ड लीडर्स वर्क टुगेदर टू मेंटेन पीस।"
+            },
+            "example_expression": "world peace",
+            "example_expression_native_transliteration": {
+                "bn": "ওয়ার্ল্ড পিস",
+                "es": "uórld pís",
+                "hi": "वर्ल्ड पीस"
+            },
+            "example_expression_meaning": "A state of global harmony where all nations coexist without conflict.",
+            "position": 15,
+            "synonyms": "harmony, tranquility, serenity, calm",
+            "antonyms": "war, conflict, violence, hostility",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শান্তি",
+                    "word_transliteration": "shanti",
+                    "example_sentence_translation": "বিশ্ব নেতারা শান্তি বজায় রাখতে একসাথে কাজ করেন।",
+                    "example_sentence_transliteration": "Bishvo netara shanti bojay rakhte ekshaathe kaj koren.",
+                    "example_expression_translation": "বিশ্ব শান্তি",
+                    "example_expression_transliteration": "bishvo shanti",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "शांति",
+                    "word_transliteration": "shanti",
+                    "example_sentence_translation": "विश्व नेता शांति बनाए रखने के लिए मिलकर काम करते हैं।",
+                    "example_sentence_transliteration": "Vishva neta shanti banaye rakhne ke liye milkar kaam karte hain.",
+                    "example_expression_translation": "विश्व शांति",
+                    "example_expression_transliteration": "vishva shanti",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "paz",
+                    "word_transliteration": "pas",
+                    "example_sentence_translation": "Los líderes mundiales trabajan juntos para mantener la paz.",
+                    "example_sentence_transliteration": "Los lídres mundiáles trabáyan yúntos para mantenér la pas.",
+                    "example_expression_translation": "paz mundial",
+                    "example_expression_transliteration": "pas mundiál",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "governance",
+            "phonetic": "ˈɡʌv.ən.əns",
+            "word_native_transliteration": {
+                "bn": "গভার্নেন্স",
+                "hi": "गवर्नेंस",
+                "es": "govérnans"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "The action or manner of governing a state, organization, etc.",
+            "example_sentence": "Effective governance ensures sustainable development.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইফেক্টিভ গভার্নেন্স এনশিওরস সাস্টেইনেবল ডেভেলপমেন্ট।",
+                "es": "efektív govérnans enshuórs sastéinebl devélpment.",
+                "hi": "इफेक्टिव गवर्नेंस एंश्योर्स सस्टेनेबल डेवलपमेंट।"
+            },
+            "example_expression": "good governance",
+            "example_expression_native_transliteration": {
+                "bn": "গুড গভার্নেন্স",
+                "es": "gúd govérnans",
+                "hi": "गुड गवर्नेंस"
+            },
+            "example_expression_meaning": "A system of government that is effective, accountable, and transparent.",
+            "position": 16,
+            "synonyms": "administration, management, leadership, rule",
+            "antonyms": "anarchy, disorder, mismanagement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শাসন",
+                    "word_transliteration": "shashon",
+                    "example_sentence_translation": "কার্যকর শাসন টেকসই উন্নয়ন নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Karjokr shashon teksoi unnyon nishchit kore.",
+                    "example_expression_translation": "সুশাসন",
+                    "example_expression_transliteration": "shushashon",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "शासन",
+                    "word_transliteration": "shaasan",
+                    "example_sentence_translation": "प्रभावी शासन सतत विकास सुनिश्चित करता है।",
+                    "example_sentence_transliteration": "Prabhaavi shaasan satat vikas sunishchit karta hai.",
+                    "example_expression_translation": "सुशासन",
+                    "example_expression_transliteration": "sushaasan",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "gobernanza",
+                    "word_transliteration": "gobernánsa",
+                    "example_sentence_translation": "La gobernanza efectiva asegura el desarrollo sostenible.",
+                    "example_sentence_transliteration": "La gobernánsa efektíva asegúra el desarróllo sostenible.",
+                    "example_expression_translation": "buena gobernanza",
+                    "example_expression_transliteration": "buéna gobernánsa",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "summit",
+            "phonetic": "ˈsʌm.ɪt",
+            "word_native_transliteration": {
+                "bn": "সামিট",
+                "hi": "समिट",
+                "es": "sámit"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⛰️",
+            "meaning": "A meeting between heads of government or other high officials.",
+            "example_sentence": "The Summit of the Future addressed global challenges.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সামিট অফ দ্য ফিউচার অ্যাড্রেসড গ্লোবাল চ্যালেঞ্জেস।",
+                "es": "de sámit of de fúchur adrést globál chalényes.",
+                "hi": "द समिट ऑफ द फ्यूचर एड्रेस्ड ग्लोबल चैलेंजेस।"
+            },
+            "example_expression": "climate summit",
+            "example_expression_native_transliteration": {
+                "bn": "ক্লাইমেট সামিট",
+                "es": "kláimet sámit",
+                "hi": "क्लाइमेट समिट"
+            },
+            "example_expression_meaning": "A high-level meeting focused on discussing climate change and environmental policies.",
+            "position": 17,
+            "synonyms": "conference, meeting, gathering, convention",
+            "antonyms": "separation, isolation, individual meeting",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শীর্ষ সম্মেলন",
+                    "word_transliteration": "shirshho shommelon",
+                    "example_sentence_translation": "ভবিষ্যতের শীর্ষ সম্মেলন বৈশ্বিক চ্যালেঞ্জ নিয়ে আলোচনা করে।",
+                    "example_sentence_transliteration": "Bhobishyoter shirshho shommelon boishvik challenge niye alochona kore.",
+                    "example_expression_translation": "জলবায়ু শীর্ষ সম্মেলন",
+                    "example_expression_transliteration": "jolbayu shirshho shommelon",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "शिखर सम्मेलन",
+                    "word_transliteration": "shikhar sammelan",
+                    "example_sentence_translation": "भविष्य के शिखर सम्मेलन ने वैश्विक चुनौतियों को संबोधित किया।",
+                    "example_sentence_transliteration": "Bhavishya ke shikhar sammelan ne vaishvik chunautiyon ko sambodhit kiya.",
+                    "example_expression_translation": "जलवायु शिखर सम्मेलन",
+                    "example_expression_transliteration": "jalvayu shikhar sammelan",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "cumbre",
+                    "word_transliteration": "kúmbre",
+                    "example_sentence_translation": "La Cumbre del Futuro abordó desafíos globales.",
+                    "example_sentence_transliteration": "La Kúmbre del Futúro abordó desafíos globáles.",
+                    "example_expression_translation": "cumbre climática",
+                    "example_expression_transliteration": "kúmbre klimátika",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "strategic",
+            "phonetic": "strəˈtiː.dʒɪk",
+            "word_native_transliteration": {
+                "bn": "স্ট্র্যাটেজিক",
+                "hi": "स्ट्रैटेजिक",
+                "es": "estratéyik"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎯",
+            "meaning": "Relating to the identification of long-term or overall aims and interests and the means of achieving them.",
+            "example_sentence": "Strategic insights guide policymaking.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্ট্র্যাটেজিক ইনসাইটস গাইড পলিসিমেকিং।",
+                "es": "estratéyik insáits gáid polisimékiṅ.",
+                "hi": "स्ट्रैटेजिक इनसाइट्स गाइड पॉलिसीमेकिंग।"
+            },
+            "example_expression": "strategic planning",
+            "example_expression_native_transliteration": {
+                "bn": "স্ট্র্যাটেজিক প্ল্যানিং",
+                "es": "estratéyik pláninḡ",
+                "hi": "स्ट्रैटेजिक प्लानिंग"
+            },
+            "example_expression_meaning": "The process of defining an organization's strategy and making decisions on allocating resources to pursue this strategy.",
+            "position": 18,
+            "synonyms": "tactical, calculated, planned, deliberate",
+            "antonyms": "random, unplanned, impulsive, haphazard",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কৌশলগত",
+                    "word_transliteration": "koushlgoto",
+                    "example_sentence_translation": "কৌশলগত অন্তর্দৃষ্টি নীতি নির্ধারণে সহায়ক।",
+                    "example_sentence_transliteration": "Koushlgoto ontordrishti niti nirdharone sohayok.",
+                    "example_expression_translation": "কৌশলগত পরিকল্পনা",
+                    "example_expression_transliteration": "koushlgoto porikolpona",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "रणनीतिक",
+                    "word_transliteration": "ranneetik",
+                    "example_sentence_translation": "रणनीतिक अंतर्दृष्टि नीति निर्माण का मार्गदर्शन करती है।",
+                    "example_sentence_transliteration": "Ranneetik antardrishti neeti nirmaan ka maargdarshan karti hai.",
+                    "example_expression_translation": "रणनीतिक योजना",
+                    "example_expression_transliteration": "ranneetik yojana",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "estratégico",
+                    "word_transliteration": "estratéyiko",
+                    "example_sentence_translation": "Los conocimientos estratégicos guían la formulación de políticas.",
+                    "example_sentence_transliteration": "Los konosimíentos estratéyikos gían la formulasión de polítikas.",
+                    "example_expression_translation": "planificación estratégica",
+                    "example_expression_transliteration": "planifikasión estratéyika",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "insights",
+            "phonetic": "ˈɪn.saɪts",
+            "word_native_transliteration": {
+                "bn": "ইনসাইটস",
+                "hi": "इनसाइट्स",
+                "es": "insáits"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💡",
+            "meaning": "An accurate and deep understanding; an illuminating or revealing comment or observation.",
+            "example_sentence": "The report provided valuable insights into market trends.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রিপোর্ট প্রোভাইডেড ভ্যালুএবল ইনসাইটস ইনটু মার্কেট ট্রেন্ডস।",
+                "es": "de ripórt provaídḍ váluabl insáits íntu márket tréṇḍs.",
+                "hi": "द रिपोर्ट प्रोवाइडेड वैल्यूएबल इनसाइट्स इंटू मार्केट ट्रेंड्स।"
+            },
+            "example_expression": "data-driven insights",
+            "example_expression_native_transliteration": {
+                "bn": "ডাটা-ড্রিভেন ইনসাইটস",
+                "es": "dáta-dríven insáits",
+                "hi": "डेटा-ड्रिवन इनसाइट्स"
+            },
+            "example_expression_meaning": "Understanding and conclusions derived from analyzing data and information.",
+            "position": 19,
+            "synonyms": "understanding, perception, awareness, revelation",
+            "antonyms": "ignorance, confusion, misunderstanding",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অন্তর্দৃষ্টি",
+                    "word_transliteration": "ontordrishti",
+                    "example_sentence_translation": "প্রতিবেদনটি বাজারের প্রবণতা সম্পর্কে মূল্যবান অন্তর্দৃষ্টি প্রদান করেছে।",
+                    "example_sentence_transliteration": "Protibednoti bajarer probonota shomporke mulyobaan ontordrishti prodaan koreche.",
+                    "example_expression_translation": "তথ্য-চালিত অন্তর্দৃষ্টি",
+                    "example_expression_transliteration": "tothyo-chalito ontordrishti",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "hi",
+                    "word_translation": "अंतर्दृष्टि",
+                    "word_transliteration": "antardrishti",
+                    "example_sentence_translation": "रिपोर्ट ने बाजार के रुझान में मूल्यवान अंतर्दृष्टि प्रदान की।",
+                    "example_sentence_transliteration": "Riport ne bazaar ke rujhaan mein mulyavaan antardrishti pradaan ki.",
+                    "example_expression_translation": "डेटा-संचालित अंतर्दृष्टि",
+                    "example_expression_transliteration": "data-sanchaalit antardrishti",
+                    "source": "oxford"
+                },
+                {
+                    "locale": "es",
+                    "word_translation": "conocimientos",
+                    "word_transliteration": "konosimíentos",
+                    "example_sentence_translation": "El informe proporcionó valiosos conocimientos sobre tendencias del mercado.",
+                    "example_sentence_transliteration": "El infórme proporsionó valiósos konosimíentos sóbre tendénsias del merkádo.",
+                    "example_expression_translation": "conocimientos basados en datos",
+                    "example_expression_transliteration": "konosimíentos basádos en dátos",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}
