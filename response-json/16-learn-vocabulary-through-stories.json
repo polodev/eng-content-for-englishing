@@ -2,553 +2,252 @@
     "position": 16,
     "title_translation": {
         "en": "Why doesn't it snow in Bangladesh during winter?",
-        "hi": "सर्दियों में बांग्लादेश में बर्फ क्यों नहीं पड़ती?",
-        "es": "¿Por qué no nieva en Bangladesh durante el invierno?",
-        "bn": "শীতকালে বাংলাদেশে বরফ পড়ে না কেন?"
+        "bn": "শীতকালে বাংলাদেশে বরফ পড়ে না কেন"
     },
     "content_translation": {
-        "en": "Although changes in nature are **perceivable** during winter, snowfall does not occur in Bangladesh. Snowfall requires specific **climatic conditions** that are not found in **tropical regions** like Bangladesh. Snowfall **occurs** when water vapor rises to high altitudes and **transforms** into snow at cold temperatures. In the atmosphere's **troposphere**, water vapor mixes with dust particles and becomes heavy, and after cooling, it **transforms** into snow. However, Bangladesh's plain areas and moderately warm climate **prevents** this process from causing snowfall.\n\nAdditionally, the temperature near Bangladesh's surface usually stays above freezing point. As a result, instead of evaporated water condensing into snow crystals and coming to the surface, it **precipitates** as rain.",
-        "hi": "यद्यपि शीत ऋतु में प्रकृति में परिवर्तन **perceivable** होते हैं, बांग्लादेश में हिमपात नहीं होता। हिमपात के लिए विशेष **climatic conditions** की आवश्यकता होती है जो बांग्लादेश जैसे **tropical regions** में नहीं मिलती। हिमपात **occurs** होता है जब जलवाष्प ऊंचाई पर उठकर ठंडे तापमान में बर्फ में **transform** हो जाता है। वायुमंडल के **troposphere** में जलवाष्प धूल कणों के साथ मिलकर भारी हो जाता है और ठंडा होने के बाद बर्फ में परिणत हो जाता है। परंतु बांग्लादेश के समतल क्षेत्र और मध्यम गर्म जलवायु इस प्रक्रिया से हिमपात होने को **prevents** करती है।\n\nइसके अलावा, बांग्लादेश की भूसतह के निकट का तापमान सामान्यतः हिमांक के ऊपर रहता है। फलस्वरूप वाष्पित पानी हिम कणों में **condense** होकर भूसतह पर आने के बजाय बारिश में **precipitate** होता है।",
-        "es": "Aunque los cambios en la naturaleza son **perceivable** durante el invierno, la nevada no ocurre en Bangladesh. La nevada requiere **climatic conditions** específicas que no se encuentran en **tropical regions** como Bangladesh. La nevada **occurs** cuando el vapor de agua se eleva a grandes altitudes y se **transforms** en nieve a temperaturas frías. En la **troposphere** de la atmósfera, el vapor de agua se mezcla con partículas de polvo y se vuelve pesado, y después de enfriarse, se **transforms** en nieve. Sin embargo, las áreas planas de Bangladesh y el clima moderadamente cálido **prevents** que este proceso cause nevadas.\n\nAdemás, la temperatura cerca de la superficie de Bangladesh generalmente permanece por encima del punto de congelación. Como resultado, en lugar de que el agua evaporada se condense en cristales de nieve y llegue a la superficie, **precipitates** como lluvia.",
-        "bn": "শীতের সময় প্রকৃতির পরিবর্তন **perceivable** হলেও বাংলাদেশে তুষারপাত হয় না। তুষারপাতের জন্য বিশেষ **climatic conditions** প্রয়োজন যা বাংলাদেশের মতো **tropical regions**-এ পাওয়া যায় না। তুষারপাত **occurs** যখন জলীয় বাষ্প উচ্চতায় উঠে ঠাণ্ডা তাপমাত্রায় তুষারে **transform** হয়। বায়ুমণ্ডলের **troposphere**-এ জলীয় বাষ্পের সঙ্গে ধূলিকণা মিশে ভারী হয় এবং ঠান্ডা হওয়ার পর তুষারে পরিণত হয়। তবে বাংলাদেশের সমভূমি এলাকা এবং নাতিশীতোষ্ণ জলবায়ু **prevents** এই প্রক্রিয়া থেকে তুষারপাত ঘটতে।\n\nএছাড়া, বাংলাদেশের ভূপৃষ্ঠের নিকটবর্তী তাপমাত্রা সাধারণত হিমাঙ্কের ওপরে থাকে। ফলে বাষ্পিত পানি তুষারকণায় **condense** হয়ে ভূপৃষ্ঠে আসার পরিবর্তে বৃষ্টিতে **precipitate** হয়।"
+        "en": "Although changes in nature are **perceivable** during winter, snowfall does not occur in Bangladesh. Specific **climatic conditions** are required for snowfall, which are not found in **tropical regions** like Bangladesh.\n\nSnowfall **occurs** when water vapor rises to high altitudes and **transforms** into snow at cold temperatures. In the atmosphere's **troposphere**, water vapor mixes with dust particles, becomes heavy, and turns into snow after cooling. However, Bangladesh's plain areas and moderately warm climate **prevents** this process from causing snowfall.\n\nAdditionally, the surface temperature near Bangladesh's ground is usually above freezing point. As a result, instead of evaporated water **condensing** into snow particles and reaching the surface, it **precipitates** as rain.",
+        "bn": "শীতের সময় প্রকৃতির পরিবর্তন **perceivable** হলেও বাংলাদেশে তুষারপাত হয় না। তুষারপাতের জন্য বিশেষ **climatic conditions** প্রয়োজন যা বাংলাদেশের মতো **tropical regions**-এ পাওয়া যায় না।\n\nতুষারপাত **occurs** যখন জলীয় বাষ্প উচ্চতায় উঠে ঠাণ্ডা তাপমাত্রায় তুষারে **transform** হয়। বায়ুমণ্ডলের **troposphere**-এ জলীয় বাষ্পের সঙ্গে ধূলিকণা মিশে ভারী হয় এবং ঠান্ডা হওয়ার পর তুষারে পরিণত হয়। তবে বাংলাদেশের সমভূমি এলাকা এবং নাতিশীতোষ্ণ জলবায়ু **prevents** এই প্রক্রিয়া থেকে তুষারপাত ঘটতে।\n\nএছাড়া, বাংলাদেশের ভূপৃষ্ঠের নিকটবর্তী তাপমাত্রা সাধারণত হিমাঙ্কের ওপরে থাকে। ফলে বাষ্পিত পানি তুষারকণায় **condense** হয়ে ভূপৃষ্ঠে আসার পরিবর্তে বৃষ্টিতে **precipitate** হয়।"
     },
     "list": [
         {
             "word": "perceivable",
-            "phonetic": "pərˈsiːvəbəl",
+            "phonetic": "পারসিভেবল",
             "word_native_transliteration": {
-                "bn": "পারসিভেবল",
-                "hi": "परसीवेबल",
-                "es": "persívebol"
+                "bn": "পারসিভেবল"
             },
             "parts_of_speech": "adjective",
             "emoji": "👁️",
-            "meaning": "Able to be seen or noticed; detectable by the senses.",
+            "meaning": "Able to be seen, noticed, or detected.",
             "example_sentence": "The changes in winter weather are perceivable in rural areas.",
             "example_sentence_native_transliteration": {
-                "bn": "দ্য চেঞ্জেস ইন উইন্টার ওয়েদার আর পারসিভেবল ইন রুরাল এরিয়াস।",
-                "hi": "द चेंजेस इन विंटर वेदर आर परसीवेबल इन रूरल एरियास।",
-                "es": "de chéinyes in uínter uéder ar persívebol in rúral érias."
+                "bn": "দ্য চেঞ্জেস ইন উইন্টার ওয়েদার আর পারসিভেবল ইন রুরাল এরিয়াস।"
             },
-            "example_expression": "barely perceivable",
-            "example_expression_native_transliteration": {
-                "bn": "বেয়ারলি পারসিভেবল",
-                "hi": "बेयरली परसीवेबल",
-                "es": "bérli persívebol"
-            },
-            "example_expression_meaning": "Very difficult to notice or detect.",
             "position": 1,
-            "synonyms": "noticeable, detectable, observable, visible, discernible, apparent",
-            "antonyms": "imperceptible, hidden, unnoticeable, invisible, undetectable, concealed",
+            "synonyms": "noticeable, detectable, observable, visible, apparent",
+            "antonyms": "imperceptible, hidden, unnoticeable, invisible, undetectable",
             "translations": [
                 {
                     "locale": "bn",
-                    "word_translation": "উপলব্ধ",
-                    "word_transliteration": "upolbodho",
-                    "example_sentence_translation": "শীতকালের পরিবর্তন গ্রামাঞ্চলে উপলব্ধ।",
-                    "example_sentence_transliteration": "Sheetokaler poribortone gramancchole upolbodho.",
-                    "example_expression_translation": "সবেমাত্র উপলব্ধ",
-                    "example_expression_transliteration": "shobematru upolbodho",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "बोधगम्य",
-                    "word_transliteration": "bodhgamya",
-                    "example_sentence_translation": "सर्दियों के मौसम में परिवर्तन ग्रामीण क्षेत्रों में बोधगम्य हैं।",
-                    "example_sentence_transliteration": "Sardiyon ke mausam mein parivartan grameen kshetron mein bodhgamya hain.",
-                    "example_expression_translation": "मुश्किल से बोधगम्य",
-                    "example_expression_transliteration": "mushkil se bodhgamya",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "perceptible",
-                    "word_transliteration": "perseptíble",
-                    "example_sentence_translation": "Los cambios en el clima invernal son perceptibles en las áreas rurales.",
-                    "example_sentence_transliteration": "Los kámbios en el klíma invernál son perseptíbles en las áreas rurales.",
-                    "example_expression_translation": "apenas perceptible",
-                    "example_expression_transliteration": "apénas perseptíble",
+                    "word_translation": "উপলব্ধযোগ্য",
+                    "word_transliteration": "upolobdhojoggo",
+                    "example_sentence_translation": "শীতকালের পরিবর্তন গ্রামাঞ্চলে পারসিভেবল।",
+                    "example_sentence_transliteration": "Sheetokaler poribortton gramanchole perceivable.",
                     "source": "oxford"
                 }
             ]
         },
         {
             "word": "climatic conditions",
-            "phonetic": "klaɪˈmætɪk kənˈdɪʃənz",
+            "phonetic": "ক্লাইম্যাটিক কন্ডিশন্স",
             "word_native_transliteration": {
-                "bn": "ক্লাইম্যাটিক কন্ডিশন্স",
-                "hi": "क्लाइमेटिक कंडीशन्स",
-                "es": "klaimátik kondíshons"
+                "bn": "ক্লাইম্যাটিক কন্ডিশন্স"
             },
             "parts_of_speech": "noun",
             "emoji": "🌤️",
-            "meaning": "The weather patterns and atmospheric conditions characteristic of a particular region over time.",
+            "meaning": "The atmospheric or weather patterns of a particular region.",
             "example_sentence": "Specific climatic conditions are required for snowfall.",
             "example_sentence_native_transliteration": {
-                "bn": "স্পেসিফিক ক্লাইম্যাটিক কন্ডিশন্স আর রিকোয়ার্ড ফর স্নোফল।",
-                "hi": "स्पेसिफिक क्लाइमेटिक कंडीशन्स आर रिक्वायर्ड फॉर स्नोफॉल।",
-                "es": "espesífik klaimátik kondíshons ar rikuáird for snófol."
+                "bn": "স্পেসিফিক ক্লাইম্যাটিক কন্ডিশন্স আর রিকুয়ায়ার্ড ফর স্নোফল।"
             },
-            "example_expression": "harsh climatic conditions",
-            "example_expression_native_transliteration": {
-                "bn": "হার্শ ক্লাইম্যাটিক কন্ডিশন্স",
-                "hi": "हार्श क्लाइमेटिक कंडीशन्स",
-                "es": "jarsh klaimátik kondíshons"
-            },
-            "example_expression_meaning": "Severe or extreme weather patterns that are difficult to endure.",
             "position": 2,
-            "synonyms": "weather patterns, atmospheric conditions, climate factors, meteorological conditions, environmental factors, weather systems",
-            "antonyms": "climatic imbalance, weather instability, atmospheric chaos, climate disruption, meteorological disorder, environmental imbalance",
+            "synonyms": "weather patterns, atmospheric conditions, climate factors, meteorological conditions",
+            "antonyms": "climatic imbalance, weather disruption",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "জলবায়ু পরিস্থিতি",
                     "word_transliteration": "jolbayu poristhiti",
-                    "example_sentence_translation": "তুষারপাতের জন্য নির্দিষ্ট জলবায়ু পরিস্থিতি প্রয়োজন।",
-                    "example_sentence_transliteration": "Tusharpoter jonno nirdishto jolbayu poristhiti proyojon.",
-                    "example_expression_translation": "কঠোর জলবায়ু পরিস্থিতি",
-                    "example_expression_transliteration": "kothor jolbayu poristhiti",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "जलवायु परिस्थितियां",
-                    "word_transliteration": "jalvayu paristhitiyan",
-                    "example_sentence_translation": "हिमपात के लिए विशिष्ट जलवायु परिस्थितियों की आवश्यकता होती है।",
-                    "example_sentence_transliteration": "Himpat ke liye vishisht jalvayu paristhitiyon ki avashyakta hoti hai.",
-                    "example_expression_translation": "कठोर जलवायु परिस्थितियां",
-                    "example_expression_transliteration": "kathor jalvayu paristhitiyan",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "condiciones climáticas",
-                    "word_transliteration": "kondisiónes klimátikas",
-                    "example_sentence_translation": "Se requieren condiciones climáticas específicas para la nevada.",
-                    "example_sentence_transliteration": "Se rekiéren kondisiónes klimátikas espesífikas pára la neváda.",
-                    "example_expression_translation": "condiciones climáticas severas",
-                    "example_expression_transliteration": "kondisiónes klimátikas sevéras",
+                    "example_sentence_translation": "তুষারপাতের জন্য নির্দিষ্ট ক্লাইম্যাটিক কন্ডিশন্স প্রয়োজন।",
+                    "example_sentence_transliteration": "Tusharpoater jonno nirdishto climatic conditions proyojon.",
                     "source": "oxford"
                 }
             ]
         },
         {
             "word": "tropical regions",
-            "phonetic": "ˈtrɒpɪkəl ˈriːdʒənz",
+            "phonetic": "ট্রপিক্যাল রিজিওনস",
             "word_native_transliteration": {
-                "bn": "ট্রপিক্যাল রিজিওনস",
-                "hi": "ट्रॉपिकल रीजन्स",
-                "es": "trópikal ríyons"
+                "bn": "ট্রপিক্যাল রিজিওনস"
             },
             "parts_of_speech": "noun",
             "emoji": "🌴",
-            "meaning": "Areas of the Earth near the equator characterized by warm temperatures and high humidity year-round.",
+            "meaning": "Areas of the Earth near the equator characterized by warm temperatures.",
             "example_sentence": "Bangladesh is located in tropical regions.",
             "example_sentence_native_transliteration": {
-                "bn": "বাংলাদেশ ইজ লোকেটেড ইন ট্রপিক্যাল রিজিওনস।",
-                "hi": "बांग्लादेश इज़ लोकेटेड इन ट्रॉपिकल रीजन्स।",
-                "es": "bangladésh is lokéited in trópikal ríyons."
+                "bn": "বাংলাদেশ ইজ লোকেটেড ইন ট্রপিক্যাল রিজিওনস।"
             },
-            "example_expression": "lush tropical regions",
-            "example_expression_native_transliteration": {
-                "bn": "লাশ ট্রপিক্যাল রিজিওনস",
-                "hi": "लश ट्रॉपिकल रीजन्स",
-                "es": "lash trópikal ríyons"
-            },
-            "example_expression_meaning": "Tropical areas with abundant, green vegetation.",
             "position": 3,
-            "synonyms": "equatorial areas, warm zones, tropical belt, hot regions, humid zones, torrid zones",
-            "antonyms": "polar regions, arctic zones, temperate regions, cold areas, frigid zones, subarctic regions",
+            "synonyms": "equatorial areas, warm zones, hot regions, torrid zones",
+            "antonyms": "polar regions, arctic zones, temperate regions",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "উষ্ণমণ্ডলীয় অঞ্চল",
-                    "word_transliteration": "ushnomondaliya onccol",
-                    "example_sentence_translation": "বাংলাদেশ উষ্ণমণ্ডলীয় অঞ্চলে অবস্থিত।",
-                    "example_sentence_transliteration": "Bangladesh ushnomondaliya onccole obosthito.",
-                    "example_expression_translation": "সবুজ উষ্ণমণ্ডলীয় অঞ্চল",
-                    "example_expression_transliteration": "shobuj ushnomondaliya onccol",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "उष्णकटिबंधीय क्षेत्र",
-                    "word_transliteration": "ushnakatibandheey kshetra",
-                    "example_sentence_translation": "बांग्लादेश उष्णकटिबंधीय क्षेत्रों में स्थित है।",
-                    "example_sentence_transliteration": "Bangladesh ushnakatibandheey kshetron mein sthit hai.",
-                    "example_expression_translation": "हरे-भरे उष्णकटिबंधीय क्षेत्र",
-                    "example_expression_transliteration": "hare-bhare ushnakatibandheey kshetra",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "regiones tropicales",
-                    "word_transliteration": "reyónes tropikáles",
-                    "example_sentence_translation": "Bangladesh está ubicado en regiones tropicales.",
-                    "example_sentence_transliteration": "Bangladésh está ubikádo en reyónes tropikáles.",
-                    "example_expression_translation": "exuberantes regiones tropicales",
-                    "example_expression_transliteration": "eksuberantes reyónes tropikáles",
+                    "word_transliteration": "ushnomondalio onchal",
+                    "example_sentence_translation": "বাংলাদেশ ট্রপিক্যাল রিজিওনসে অবস্থিত।",
+                    "example_sentence_transliteration": "Bangladesh tropical regions-e obosthito.",
                     "source": "oxford"
                 }
             ]
         },
         {
             "word": "occurs",
-            "phonetic": "əˈkɜːz",
+            "phonetic": "অকার্স",
             "word_native_transliteration": {
-                "bn": "অকার্স",
-                "hi": "अकर्स",
-                "es": "okérs"
+                "bn": "অকার্স"
             },
             "parts_of_speech": "verb",
-            "emoji": "✨",
-            "meaning": "Happens or takes place; comes to pass.",
+            "emoji": "⚡",
+            "meaning": "Happens or takes place, especially as a result of something.",
             "example_sentence": "Snowfall occurs in regions with freezing temperatures.",
             "example_sentence_native_transliteration": {
-                "bn": "স্নোফল অকার্স ইন রিজিওনস উইথ ফ্রিজিং টেম্পারেচার্স।",
-                "hi": "स्नोफॉल अकर्स इन रीजन्स विथ फ्रीजिंग टेम्परेचर्स।",
-                "es": "snófol okérs in ríyons uit frísing témperechers."
+                "bn": "স্নোফল অকার্স ইন রিজিওনস উইথ ফ্রিজিং টেম্পারেচারস।"
             },
-            "example_expression": "rarely occurs",
-            "example_expression_native_transliteration": {
-                "bn": "রেয়ারলি অকার্স",
-                "hi": "रेयरली अकर्स",
-                "es": "rérli okérs"
-            },
-            "example_expression_meaning": "Happens very infrequently or seldom.",
             "position": 4,
-            "synonyms": "happens, takes place, transpires, arises, develops, materializes",
-            "antonyms": "fails, stops, ceases, ends, terminates, discontinues",
+            "synonyms": "happens, takes place, arises, transpires, manifests",
+            "antonyms": "fails, stops, ceases, prevents, avoids",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "ঘটে",
                     "word_transliteration": "ghote",
                     "example_sentence_translation": "তুষারপাত ঘটে যেখানে তাপমাত্রা হিমাঙ্কের নিচে থাকে।",
-                    "example_sentence_transliteration": "Tusharapat ghote jekhane tapamatra himanker niche thake.",
-                    "example_expression_translation": "কদাচিৎ ঘটে",
-                    "example_expression_transliteration": "kodachit ghote",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "होता है",
-                    "word_transliteration": "hota hai",
-                    "example_sentence_translation": "हिमपात उन क्षेत्रों में होता है जहां तापमान हिमांक से नीचे रहता है।",
-                    "example_sentence_transliteration": "Himpat un kshetron mein hota hai jahan tapman himank se neeche rahta hai.",
-                    "example_expression_translation": "कभी-कभार होता है",
-                    "example_expression_transliteration": "kabhi-kabhar hota hai",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "ocurre",
-                    "word_transliteration": "okúrre",
-                    "example_sentence_translation": "La nevada ocurre en regiones con temperaturas bajo cero.",
-                    "example_sentence_transliteration": "La neváda okúrre en reyónes kon temperatúras bájo séro.",
-                    "example_expression_translation": "rara vez ocurre",
-                    "example_expression_transliteration": "rára ves okúrre",
+                    "example_sentence_transliteration": "Tusharapaat ghote jekhane tapomatra himanger niche thake.",
                     "source": "oxford"
                 }
             ]
         },
         {
             "word": "transform",
-            "phonetic": "trænsˈfɔːm",
+            "phonetic": "ট্রান্সফর্ম",
             "word_native_transliteration": {
-                "bn": "ট্রান্সফর্ম",
-                "hi": "ट्रांसफॉर्म",
-                "es": "tránsfóorm"
+                "bn": "ট্রান্সফর্ম"
             },
             "parts_of_speech": "verb",
             "emoji": "🔄",
-            "meaning": "To change completely in form, appearance, or character; to convert.",
+            "meaning": "To change in form, appearance, nature, or character.",
             "example_sentence": "Water vapor transforms into snow at high altitudes.",
             "example_sentence_native_transliteration": {
-                "bn": "ওয়াটার ভ্যাপার ট্রান্সফর্মস ইনটু স্নো অ্যাট হাই অল্টিটিউডস।",
-                "hi": "वाटर वेपर ट्रांसफॉर्म्स इंटू स्नो एट हाई एल्टीट्यूड्स।",
-                "es": "uáter véipor tránsfóorms íntu snóu at jái altitúds."
+                "bn": "ওয়াটার ভ্যাপার ট্রান্সফর্মস ইনটু স্নো অ্যাট হাই অল্টিটিউডস।"
             },
-            "example_expression": "completely transform",
-            "example_expression_native_transliteration": {
-                "bn": "কমপ্লিটলি ট্রান্সফর্ম",
-                "hi": "कम्प्लीटली ट्रांसफॉर्म",
-                "es": "komplítli tránsfóorm"
-            },
-            "example_expression_meaning": "To change entirely or thoroughly.",
             "position": 5,
-            "synonyms": "convert, change, alter, modify, metamorphose, transmute",
-            "antonyms": "remain, persist, maintain, preserve, keep, retain",
+            "synonyms": "convert, change, alter, modify, metamorphose",
+            "antonyms": "remain, persist, maintain, preserve, keep",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "রূপান্তরিত হওয়া",
-                    "word_transliteration": "rupantorto howa",
-                    "example_sentence_translation": "জলীয় বাষ্প উচ্চ উচ্চতায় বরফে রূপান্তরিত হয়।",
-                    "example_sentence_transliteration": "Joleeyo bashpo uchcho ucchotay borfe rupantorto hoy.",
-                    "example_expression_translation": "সম্পূর্ণ রূপান্তরিত হওয়া",
-                    "example_expression_transliteration": "shompurno rupantorto howa",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "रूपांतरित होना",
-                    "word_transliteration": "roopantarit hona",
-                    "example_sentence_translation": "जल वाष्प उच्च ऊंचाई पर बर्फ में रूपांतरित हो जाता है।",
-                    "example_sentence_transliteration": "Jal vashp uchch unchai par barf mein roopantarit ho jata hai.",
-                    "example_expression_translation": "पूरी तरह रूपांतरित होना",
-                    "example_expression_transliteration": "poori tarah roopantarit hona",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "transformar",
-                    "word_transliteration": "transformár",
-                    "example_sentence_translation": "El vapor de agua se transforma en nieve a gran altitud.",
-                    "example_sentence_transliteration": "El vapór de água se transfórma en niéve a gran altitúd.",
-                    "example_expression_translation": "transformar completamente",
-                    "example_expression_transliteration": "transformár kompletaménte",
+                    "word_transliteration": "rupantorito howa",
+                    "example_sentence_translation": "ওয়াটার ভ্যাপার ট্রান্সফর্মস ইনটু স্নো অ্যাট হাই অল্টিটিউডস।",
+                    "example_sentence_transliteration": "Water vapor transforms into snow at high altitudes.",
                     "source": "oxford"
                 }
             ]
         },
         {
             "word": "troposphere",
-            "phonetic": "ˈtrɒpəsˌfɪər",
+            "phonetic": "ট্রোপোস্ফিয়ার",
             "word_native_transliteration": {
-                "bn": "ট্রোপোস্ফিয়ার",
-                "hi": "ट्रोपोस्फियर",
-                "es": "tróposfiár"
+                "bn": "ট্রোপোস্ফিয়ার"
             },
             "parts_of_speech": "noun",
             "emoji": "🌍",
-            "meaning": "The lowest layer of Earth's atmosphere where weather occurs and temperature generally decreases with altitude.",
+            "meaning": "The lowest layer of Earth's atmosphere where weather phenomena occur.",
             "example_sentence": "The troposphere is where weather phenomena occur.",
             "example_sentence_native_transliteration": {
-                "bn": "দ্য ট্রোপোস্ফিয়ার ইজ হোয়ের ওয়েদার ফেনোমেনা অকার।",
-                "hi": "द ट्रोपोस्फियर इज़ व्हेयर वेदर फेनोमेना अकर।",
-                "es": "de tróposfiár is uér uéder fenómena okér."
+                "bn": "দ্য ট্রোপোস্ফিয়ার ইজ হোয়ার ওয়েদার ফেনোমেনা অকার।"
             },
-            "example_expression": "lower troposphere",
-            "example_expression_native_transliteration": {
-                "bn": "লোয়ার ট্রোপোস্ফিয়ার",
-                "hi": "लोअर ट्रोपोस्फियर",
-                "es": "lóuer tróposfiár"
-            },
-            "example_expression_meaning": "The bottom portion of the troposphere closest to Earth's surface.",
             "position": 6,
-            "synonyms": "lower atmosphere, weather layer, atmospheric layer, climate zone, weather sphere, atmospheric stratum",
-            "antonyms": "exosphere, stratosphere, mesosphere, thermosphere, ionosphere, upper atmosphere",
+            "synonyms": "lower atmosphere, weather layer, atmospheric layer",
+            "antonyms": "exosphere, stratosphere, upper atmosphere",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "ক্ষুব্ধমণ্ডল",
-                    "word_transliteration": "kshubdhomondol",
-                    "example_sentence_translation": "ক্ষুব্ধমণ্ডল হলো যেখানে আবহাওয়ার ঘটনা ঘটে।",
-                    "example_sentence_transliteration": "Kshubdhomondol hollo jekhane abohawar ghotona ghote.",
-                    "example_expression_translation": "নিম্ন ক্ষুব্ধমণ্ডল",
-                    "example_expression_transliteration": "nimno kshubdhomondol",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "क्षोभमंडल",
-                    "word_transliteration": "kshobhmandal",
-                    "example_sentence_translation": "क्षोभमंडल वह स्थान है जहां मौसमी घटनाएं होती हैं।",
-                    "example_sentence_transliteration": "Kshobhmandal wah sthan hai jahan mausmi ghatnayen hoti hain.",
-                    "example_expression_translation": "निचला क्षोभमंडल",
-                    "example_expression_transliteration": "nichla kshobhmandal",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "troposfera",
-                    "word_transliteration": "troposfréra",
-                    "example_sentence_translation": "La troposfera es donde ocurren los fenómenos meteorológicos.",
-                    "example_sentence_transliteration": "La troposfréra es dónde okúrren los fenómenos meteorolóyikos.",
-                    "example_expression_translation": "troposfera inferior",
-                    "example_expression_transliteration": "troposfréra inferiór",
+                    "word_transliteration": "kshubdho mondol",
+                    "example_sentence_translation": "ট্রোপোস্ফিয়ার হলো যেখানে আবহাওয়ার ঘটনা ঘটে।",
+                    "example_sentence_transliteration": "Troposphere hollo jekhane abohawar ghotona ghote.",
                     "source": "oxford"
                 }
             ]
         },
         {
             "word": "prevents",
-            "phonetic": "prɪˈvents",
+            "phonetic": "প্রিভেন্টস",
             "word_native_transliteration": {
-                "bn": "প্রিভেন্টস",
-                "hi": "प्रिवेंट्स",
-                "es": "privénts"
+                "bn": "প্রিভেন্টস"
             },
             "parts_of_speech": "verb",
             "emoji": "🚫",
-            "meaning": "Stops something from happening or someone from doing something; hinders or obstructs.",
+            "meaning": "To stop something from happening or arising.",
             "example_sentence": "Bangladesh's warm climate prevents snowfall.",
             "example_sentence_native_transliteration": {
-                "bn": "বাংলাদেশ'স ওয়ার্ম ক্লাইমেট প্রিভেন্টস স্নোফল।",
-                "hi": "बांग्लादेश'स वार्म क्लाइमेट प्रिवेंट्स स्नोफॉल।",
-                "es": "bangladésh's uárm kláimet privénts snófol."
+                "bn": "বাংলাদেশেস ওয়ার্ম ক্লাইমেট প্রিভেন্টস স্নোফল।"
             },
-            "example_expression": "effectively prevents",
-            "example_expression_native_transliteration": {
-                "bn": "ইফেক্টিভলি প্রিভেন্টস",
-                "hi": "इफेक्टिवली प्रिवेंट्स",
-                "es": "efektívli privénts"
-            },
-            "example_expression_meaning": "Successfully stops or blocks something from occurring.",
             "position": 7,
-            "synonyms": "inhibits, stops, blocks, hinders, obstructs, impedes",
-            "antonyms": "allows, permits, enables, facilitates, encourages, promotes",
+            "synonyms": "inhibits, stops, blocks, hinders, obstructs",
+            "antonyms": "allows, permits, enables, facilitates, encourages",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "বাধা দেয়",
                     "word_transliteration": "badha dey",
-                    "example_sentence_translation": "বাংলাদেশের উষ্ণ জলবায়ু তুষারপাত বাধা দেয়।",
-                    "example_sentence_transliteration": "Bangladesher ushno jolbayu tusharapat badha dey.",
-                    "example_expression_translation": "কার্যকরভাবে বাধা দেয়",
-                    "example_expression_transliteration": "karjokorbhabe badha dey",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "रोकता है",
-                    "word_transliteration": "rokta hai",
-                    "example_sentence_translation": "बांग्लादेश की गर्म जलवायु हिमपात को रोकती है।",
-                    "example_sentence_transliteration": "Bangladesh ki garm jalvayu himpat ko rokti hai.",
-                    "example_expression_translation": "प्रभावी रूप से रोकता है",
-                    "example_expression_transliteration": "prabhavi roop se rokta hai",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "impide",
-                    "word_transliteration": "impíde",
-                    "example_sentence_translation": "El clima cálido de Bangladesh impide la nevada.",
-                    "example_sentence_transliteration": "El klíma kálido de Bangladésh impíde la neváda.",
-                    "example_expression_translation": "impide efectivamente",
-                    "example_expression_transliteration": "impíde efektivaménte",
+                    "example_sentence_translation": "বাংলাদেশের উষ্ণ জলবায়ু তুষারপাত প্রিভেন্ট করে।",
+                    "example_sentence_transliteration": "Bangladesher ushno jolbayu tusharapaat prevent kore.",
                     "source": "oxford"
                 }
             ]
         },
         {
             "word": "condense",
-            "phonetic": "kənˈdens",
+            "phonetic": "কনডেন্স",
             "word_native_transliteration": {
-                "bn": "কনডেন্স",
-                "hi": "कंडेंस",
-                "es": "kondéns"
+                "bn": "কনডেন্স"
             },
             "parts_of_speech": "verb",
             "emoji": "💧",
-            "meaning": "To change from a gas to a liquid state; to make more dense or compact.",
+            "meaning": "To change from gas to liquid form; to become denser.",
             "example_sentence": "Water vapor condenses into raindrops.",
             "example_sentence_native_transliteration": {
-                "bn": "ওয়াটার ভ্যাপার কনডেন্সেস ইনটু রেইনড্রপস।",
-                "hi": "वाटर वेपर कंडेंसेस इंटू रेनड्रॉप्स।",
-                "es": "uáter véipor kondénses íntu réindrops."
+                "bn": "ওয়াটার ভ্যাপার কনডেন্সেস ইনটু রেইনড্রপস।"
             },
-            "example_expression": "slowly condense",
-            "example_expression_native_transliteration": {
-                "bn": "স্লোলি কনডেন্স",
-                "hi": "स्लोली कंडेंस",
-                "es": "slóuli kondéns"
-            },
-            "example_expression_meaning": "To gradually change from gas to liquid state.",
             "position": 8,
-            "synonyms": "compact, solidify, compress, concentrate, thicken, coagulate",
-            "antonyms": "evaporate, expand, vaporize, disperse, dilute, rarify",
+            "synonyms": "compact, solidify, concentrate, thicken, compress",
+            "antonyms": "evaporate, expand, disperse, dilute, vaporize",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "ঘনীভূত হওয়া",
                     "word_transliteration": "ghonibhuto howa",
-                    "example_sentence_translation": "জলীয় বাষ্প বৃষ্টির ফোঁটায় ঘনীভূত হয়।",
-                    "example_sentence_transliteration": "Joleeyo bashpo brishtir fotay ghonibhuto hoy.",
-                    "example_expression_translation": "ধীরে ধীরে ঘনীভূত হওয়া",
-                    "example_expression_transliteration": "dheere dheere ghonibhuto howa",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "संघनित होना",
-                    "word_transliteration": "sanghanit hona",
-                    "example_sentence_translation": "जल वाष्प बारिश की बूंदों में संघनित होता है।",
-                    "example_sentence_transliteration": "Jal vashp barish ki boondon mein sanghanit hota hai.",
-                    "example_expression_translation": "धीरे-धीरे संघनित होना",
-                    "example_expression_transliteration": "dheere-dheere sanghanit hona",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "condensar",
-                    "word_transliteration": "kondensár",
-                    "example_sentence_translation": "El vapor de agua se condensa en gotas de lluvia.",
-                    "example_sentence_transliteration": "El vapór de água se kondénsa en gótas de llúvia.",
-                    "example_expression_translation": "condensar lentamente",
-                    "example_expression_transliteration": "kondensár lentaménte",
+                    "example_sentence_translation": "ওয়াটার ভ্যাপার কনডেন্সেস ইনটু রেইনড্রপস।",
+                    "example_sentence_transliteration": "Water vapor condenses into raindrops.",
                     "source": "oxford"
                 }
             ]
         },
         {
             "word": "precipitate",
-            "phonetic": "prɪˈsɪpɪteɪt",
+            "phonetic": "প্রিসিপিটেট",
             "word_native_transliteration": {
-                "bn": "প্রিসিপিটেট",
-                "hi": "प्रिसिपिटेट",
-                "es": "presipitéit"
+                "bn": "প্রিসিপিটেট"
             },
             "parts_of_speech": "verb",
             "emoji": "🌧️",
-            "meaning": "To fall or drop down from the atmosphere as rain, snow, sleet, or hail; to cause to happen suddenly.",
+            "meaning": "To fall from the sky as rain, snow, or other forms of water.",
             "example_sentence": "Vapor precipitates as rain in warmer climates.",
             "example_sentence_native_transliteration": {
-                "bn": "ভ্যাপার প্রিসিপিটেটস অ্যাজ রেইন ইন ওয়ার্মার ক্লাইমেটস।",
-                "hi": "वेपर प्रिसिपिटेट्स एज़ रेन इन वार्मर क्लाइमेट्स।",
-                "es": "véipor presipitéits as réin in uármer kláimets."
+                "bn": "ভ্যাপার প্রিসিপিটেটস অ্যাজ রেইন ইন ওয়ার্মার ক্লাইমেটস।"
             },
-            "example_expression": "heavily precipitate",
-            "example_expression_native_transliteration": {
-                "bn": "হেভিলি প্রিসিপিটেট",
-                "hi": "हेविली प्रिसिपिटेट",
-                "es": "jévili presipitéit"
-            },
-            "example_expression_meaning": "To fall from the atmosphere in large amounts or intensity.",
             "position": 9,
-            "synonyms": "fall, descend, drop, shower, drizzle, pour",
-            "antonyms": "ascend, rise, evaporate, lift, float, soar",
+            "synonyms": "fall, descend, drop, shower, drizzle",
+            "antonyms": "ascend, rise, evaporate, lift, float",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "ঝরে পড়া",
                     "word_transliteration": "jhore pora",
-                    "example_sentence_translation": "বাষ্প উষ্ণ জলবায়ুতে বৃষ্টি হিসেবে ঝরে পড়ে।",
-                    "example_sentence_transliteration": "Bashpo ushno jolbayute brishti hishebe jhore pore.",
-                    "example_expression_translation": "প্রবলভাবে ঝরে পড়া",
-                    "example_expression_transliteration": "problobhabe jhore pora",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "वर्षा होना",
-                    "word_transliteration": "varsha hona",
-                    "example_sentence_translation": "गर्म जलवायु में वाष्प बारिश के रूप में वर्षा होती है।",
-                    "example_sentence_transliteration": "Garm jalvayu mein vashp barish ke roop mein varsha hoti hai.",
-                    "example_expression_translation": "भारी वर्षा होना",
-                    "example_expression_transliteration": "bhari varsha hona",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "precipitar",
-                    "word_transliteration": "presipitár",
-                    "example_sentence_translation": "El vapor se precipita como lluvia en climas más cálidos.",
-                    "example_sentence_transliteration": "El vapór se presipíta kómo llúvia en klímas más kálidos.",
-                    "example_expression_translation": "precipitar abundantemente",
-                    "example_expression_transliteration": "presipitár abundanteménte",
+                    "example_sentence_translation": "ভ্যাপার প্রিসিপিটেটস অ্যাজ রেইন ইন ওয়ার্মার ক্লাইমেটস।",
+                    "example_sentence_transliteration": "Vapor precipitates as rain in warmer climates.",
                     "source": "oxford"
                 }
             ]

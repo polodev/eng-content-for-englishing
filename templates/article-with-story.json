@@ -2,14 +2,10 @@
     "position": 1,
     "title_translation": {
         "en": "My first Article",
-        "hi": "",
-        "es": "",
         "bn": ""
     },
     "content_translation": {
         "en": "my english content with markdown",
-        "hi": "",
-        "es": "",
         "bn": ""
     },
     "list": [
@@ -18,26 +14,15 @@
             "phonetic": "ˈhæpinəs",
             "word_native_transliteration":
             {
-                "bn": "হ্যাপিনেস",
-                "hi": "हैप्पीनेस",
-                "es": "jápines",
+                "bn": "হ্যাপিনেস"
             },
             "parts_of_speech": "noun",
             "emoji": "😊",
             "meaning": "The state of being happy, feeling or showing pleasure or contentment.",
             "example_sentence": "She couldn't hide her happiness when she received the award.",
             "example_sentence_native_transliteration": {
-                "bn": "শী কুডন্ট হাইড হার হ্যাপিনেস হোয়েন শী রিসিভড দ্য অ্যাওয়ার্ড।",
-                "es": "shí kúdnt jáid jer jápines uen shí risívd de auárd.",
-                "hi": "शी कुडन्ट हाइड हर हैप्पीनेस वेन शी रिसीव्ड द अवार्ड।"
+                "bn": "শী কুডন্ট হাইড হার হ্যাপিনেস হোয়েন শী রিসিভড দ্য অ্যাওয়ার্ড।"
             },
-            "example_expression": "pursuit of happiness",
-            "example_expression_native_transliteration": {
-                "bn": "পারসুইট অফ হ্যাপিনেস",
-                "es": "pérsúit of jápines",
-                "hi": "पर्सूइट ऑफ हैप्पीनेस"
-            },
-            "example_expression_meaning": "The ongoing effort to find satisfaction, enjoyment, and meaning in life.",
             "position": 1,
             "synonyms": "joy, contentment, pleasure, cheerfulness, delight, euphoria",
             "antonyms": "sadness, sorrow, melancholy, melancholy, sorrow, sadness",
@@ -49,28 +34,6 @@
                     "word_transliteration": "shukh",
                     "example_sentence_translation": "তিনি পুরস্কার পাওয়ার সময় তার সুখ লুকাতে পারেননি।",
                     "example_sentence_transliteration": "Tini puroshkar paowar somoy tar shukh lukate parenni.",
-                    "example_expression_translation": "সুখের অনুসরণ",
-                    "example_expression_transliteration": "shukher onushoron",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "ख़ुशी",
-                    "word_transliteration": "khushi",
-                    "example_sentence_translation": "जब उन्हें पुरस्कार मिला तो वह अपनी ख़ुशी नहीं छिपा सकीं।",
-                    "example_sentence_transliteration": "Jab unhein puraskaar mila to wah apni khushi nahin chhipa sakeen.",
-                    "example_expression_translation": "ख़ुशी की खोज",
-                    "example_expression_transliteration": "khushi ki khoj",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "felicidad",
-                    "word_transliteration": "felisidád",
-                    "example_sentence_translation": "No pudo ocultar su felicidad cuando recibió el premio.",
-                    "example_sentence_transliteration": "No púdo okultar su felisidád kuando resibió el prémio.",
-                    "example_expression_translation": "búsqueda de la felicidad",
-                    "example_expression_transliteration": "búskeda de la felisidád",
                     "source": "oxford"
                 }
             ]
@@ -80,26 +43,15 @@
             "phonetic": "ˈfriːdəm",
             "word_native_transliteration":
             {
-                "bn": "ফ্রিডম",
-                "es": "frídom",
-                "hi": "फ्रीडम"
+                "bn": "ফ্রিডম"
             },
             "parts_of_speech": "noun",
             "emoji": "🗽",
             "meaning": "The state of being free or at liberty rather than in confinement or under physical restraint.",
             "example_sentence": "The prisoners were granted their freedom after serving their sentences.",
             "example_sentence_native_transliteration": {
-                "bn": "দ্য প্রিজনারস ওয়্যার গ্রান্টেড দেয়ার ফ্রিডম আফটার সার্ভিং দেয়ার সেন্টেন্সেস।",
-                "es": "de prisonérs uér gránted der frídom áfter sérving der séntenses.",
-                "hi": "द प्रिज़नर्स वेर ग्रान्टेड देयर फ्रीडम आफ्टर सर्विंग देयर सेंटेंसेस।"
+                "bn": "দ্য প্রিজনারস ওয়্যার গ্রান্টেড দেয়ার ফ্রিডম আফটার সার্ভিং দেয়ার সেন্টেন্সেস।"
             },
-            "example_expression": "freedom of speech",
-            "example_expression_native_transliteration": {
-                "bn": "ফ্রিডম অফ স্পিচ",
-                "es": "frídom of spích",
-                "hi": "फ्रीडम ऑफ स्पीच"
-            },
-            "example_expression_meaning": "The right to express any opinions without censorship or restraint.",
             "position": 2,
             "synonyms": "liberty, emancipation, liberation, emancipation, liberation, emancipation",
             "antonyms": "bondage, captivity, captivity, captivity, captivity, captivity",
@@ -110,28 +62,9 @@
                     "word_translation": "স্বাধীনতা",
                     "word_transliteration": "shadhinota",
                     "example_sentence_translation": "বন্দীরা তাদের বাক্য পরিবেশন করার পরে তাদের স্বাধীনতা পেয়েছিল।",
-                    "example_sentence_transliteration": "Bondira tader bakyo poribeshon korar pore tader shadhinota peyechhilo.",
-                    "example_expression_translation": "বাকস্বাধীনতা",
-                    "example_expression_transliteration": "bakshadhinota",
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "आज़ादी",
-                    "word_transliteration": "aazadi",
-                    "example_sentence_translation": "कैदियों को उनकी सजा पूरी करने के बाद आजादी दी गई थी।",
-                    "example_sentence_transliteration": "Kaidiyon ko unki saja poori karne ke baad aazadi di gayi thi.",
-                    "example_expression_translation": "बोलने की आजादी",
-                    "example_expression_transliteration": "bolne ki aazadi",
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "libertad",
-                    "word_transliteration": "libertád",
-                    "example_sentence_translation": "A los prisioneros se les concedió la libertad después de cumplir sus condenas.",
-                    "example_sentence_transliteration": "A los prisionéros se les konsedió la libertád despwés de kumplir sus kondénas.",
-                    "example_expression_translation": "libertad de expresión",
-                    "example_expression_transliteration": "libertád de ekspresión",
+                    "example_sentence_transliteration": "Bondira tader bakyo poribeshon korar pore tader shadhinota peyechhilo."
                 }
+                
                 
             ]
         }

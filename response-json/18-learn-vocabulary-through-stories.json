@@ -2,73 +2,36 @@
     "position": 18,
     "title_translation": {
         "en": "African Revolutions and Independence Movements",
-        "hi": "अफ्रीकी क्रांतियां और स्वतंत्रता आंदोलन",
-        "es": "Revoluciones Africanas y Movimientos de Independencia",
-        "bn": "আফ্রিকান **Revolutions** এবং স্বাধীনতা **Movements**"
+        "bn": "আফ্রিকার বিপ্লব ও স্বাধীনতা আন্দোলন"
     },
     "content_translation": {
-        "en": "At different times in Africa, **revolutions** and independence **movements** brought an end to **colonial** rule. For example, in Egypt in 1952, the 'Free Officers Movement' abolished the **monarchy** and established a **republic**.\n\nIn Algeria, in 1954, the independence **struggle** against France began, which ensured **liberation** in 1962.\n\nGuinea-Bissau started **resistance** against Portuguese rule in 1956 and achieved **sovereignty** in 1973. Mozambique began a similar **uprising** in 1964 and gained independence in 1975.\n\nZimbabwe achieved independence in 1980 after a long **armed conflict**.\n\nIn South Africa, the apartheid regime ended in the 1990s, with **democracy** **established** under Nelson Mandela's leadership.\n\nThese revolutions and struggles have played an important role in shaping Africa's political, social, and economic **framework**.",
-        "hi": "अफ्रीका में विभिन्न समयों पर **revolutions** और स्वतंत्रता **movements** ने औपनिवेशिक शासन का अंत किया। उदाहरण के लिए, मिस्र में 1952 में 'मुक्त अधिकारियों के आंदोलन' ने **monarchy** को समाप्त करके **republic** की स्थापना की।\n\nअल्जीरिया में, 1954 में फ्रांस के खिलाफ स्वतंत्रता **struggle** शुरू हुआ, जिसने 1962 में **liberation** सुनिश्चित किया।\n\nगिनी-बिसाऊ ने 1956 में पुर्तगाली शासन के खिलाफ **resistance** शुरू किया और 1973 में **sovereignty** प्राप्त किया। मोज़ाम्बिक ने 1964 में इसी तरह का **uprising** शुरू किया और 1975 में स्वतंत्रता प्राप्त की।\n\nजिम्बाब्वे ने लंबे **armed conflict** के बाद 1980 में स्वतंत्रता प्राप्त की।\n\nदक्षिण अफ्रीका में रंगभेदी शासन का अंत 1990 के दशक में हुआ, नेल्सन मंडेला के नेतृत्व में **democracy** **established** हुआ।\n\nये क्रांतियां और संघर्ष अफ्रीका के राजनीतिक, सामाजिक और आर्थिक **framework** के निर्माण में महत्वपूर्ण भूमिका निभाई हैं।",
-        "es": "En África, en diferentes momentos, las **revolutions** y los **movements** de independencia pusieron fin al dominio **colonial**. Por ejemplo, en Egipto en 1952, el 'Movimiento de Oficiales Libres' abolió la **monarchy** y estableció una **republic**.\n\nEn Argelia, en 1954 comenzó la **struggle** por la independencia contra Francia, que aseguró la **liberation** en 1962.\n\nGuinea-Bissau comenzó la **resistance** contra el dominio portugués en 1956 y logró la **sovereignty** en 1973. Mozambique comenzó una **uprising** similar en 1964 y obtuvo la independencia en 1975.\n\nZimbabwe logró la independencia en 1980 después de un largo **armed conflict**.\n\nEn Sudáfrica, el régimen del apartheid llegó a su fin en la década de 1990, estableciéndose la **democracy** bajo el liderazgo de Nelson Mandela.\n\nEstas revoluciones y luchas han desempeñado un papel importante en la formación del **framework** político, social y económico de África.",
-        "bn": "আফ্রিকায় বিভিন্ন সময়ে **revolutions** এবং স্বাধীনতা **movements** ঔপনিবেশিক শাসনের অবসান ঘটায়। উদাহরণস্বরূপ, মিশরে ১৯৫২ সালে 'মুক্ত অফিসারদের আন্দোলন' **monarchy** বিলুপ্ত করে **republic** প্রতিষ্ঠা করে।\n\nআলজেরিয়ায়, ১৯৫৪ সালে ফ্রান্সের বিরুদ্ধে স্বাধীনতা **struggle** শুরু হয়, যা ১৯৬২ সালে **liberation** নিশ্চিত করে।\n\nগিনি-বিসাউ ১৯৫৬ সালে পর্তুগিজ শাসনের বিরুদ্ধে **resistance** শুরু করে এবং ১৯৭৩ সালে **sovereignty** অর্জন করে। মোজাম্বিক ১৯৬৪ সালে একই ধরনের **uprising** শুরু করে এবং ১৯৭৫ সালে স্বাধীনতা লাভ করে।\n\nজিম্বাবুয়ে দীর্ঘ **armed conflict**-এর পর ১৯৮০ সালে স্বাধীনতা অর্জন করে।\n\nদক্ষিণ আফ্রিকায় বর্ণবাদী শাসনের অবসান ঘটে ১৯৯০-এর দশকে, নেলসন ম্যান্ডেলার নেতৃত্বে **democracy** **established** হয়।\n\nএই বিপ্লব ও সংগ্রাম আফ্রিকার রাজনৈতিক, সামাজিক এবং অর্থনৈতিক **framework** গঠনে গুরুত্বপূর্ণ ভূমিকা পালন করেছে।"
+        "en": "Africa has witnessed various **revolutions** and independence **movements** at different times, ending colonial rule. For example, in Egypt in 1952, the 'Free Officers Movement' abolished the **monarchy** and established a **republic**.\n\nIn Algeria, an independence **struggle** began against France in 1954, which ensured **liberation** in 1962.\n\nGuinea-Bissau began **resistance** against Portuguese rule in 1956 and achieved **sovereignty** in 1973. Mozambique started a similar **uprising** in 1964 and gained independence in 1975.\n\nZimbabwe achieved independence in 1980 after a long **armed conflict**.\n\nIn South Africa, apartheid rule ended in the 1990s, and **democracy** was **established** under Nelson Mandela's leadership.\n\nThese revolutions and struggles have played important roles in shaping Africa's political, social, and economic **framework**.",
+        "bn": "আফ্রিকায় বিভিন্ন সময়ে **revolutions** এবং স্বাধীনতা **movements** ঔপনিবেশিক শাসনের অবসান ঘটায়। উদাহরণস্বরূপ, মিশরে ১৯৫২ সালে 'মুক্ত অফিসারদের আন্দোলন' **monarchy** বিলুপ্ত করে **republic** প্রতিষ্ঠা করে।\n\nআলজেরিয়ায়, ১৯৫৪ সালে ফ্রান্সের বিরুদ্ধে স্বাধীনতা **struggle** শুরু হয়, যা ১৯৬২ সালে **liberation** নিশ্চিত করে।\n\nগিনি-বিসাউ ১৯৫৬ সালে পর্তুগিজ শাসনের বিরুদ্ধে **resistance** শুরু করে এবং ১৯৭৩ সালে **sovereignty** অর্জন করে। মোজাম্বিক ১৯৬৪ সালে একই ধরনের **uprising** শুরু করে এবং ১৯৭৫ সালে স্বাধীনতা লাভ করে।\n\nজিম্বাবুয়ে দীর্ঘ **armed conflict**-এর পর ১৯৮০ সালে স্বাধীনতা অর্জন করে।\n\nদক্ষিণ আফ্রিকায় বর্ণবাদী শাসনের অবসান ঘটে ১৯৯০-এর দশকে, নেলসন ম্যান্ডেলার নেতৃত্বে গণতন্ত্র **established** হয়।\n\nএই বিপ্লব ও সংগ্রাম আফ্রিকার রাজনৈতিক, সামাজিক এবং অর্থনৈতিক **framework** গঠনে গুরুত্বপূর্ণ ভূমিকা পালন করেছে।"
     },
     "list": [
         {
             "word": "revolutions",
             "phonetic": "ˌrev.əˈluː.ʃənz",
             "word_native_transliteration": {
-                "bn": "রেভলিউশনস",
-                "hi": "रेवोल्यूशंस",
-                "es": "revolúsions"
+                "bn": "রেভোলিউশনস"
             },
             "parts_of_speech": "noun",
-            "emoji": "🔄",
-            "meaning": "Forcible overthrow of a government or social order, in favor of a new system.",
-            "example_sentence": "The American and French revolutions changed the course of history.",
+            "emoji": "⚡",
+            "meaning": "Dramatic and wide-reaching changes in political, social, or economic systems, often involving the overthrow of a government or social order.",
+            "example_sentence": "Revolutions often lead to significant societal changes.",
             "example_sentence_native_transliteration": {
-                "bn": "দি আমেরিকান অ্যান্ড ফ্রেঞ্চ রেভলিউশনস চেঞ্জড দ্য কোর্স অফ হিস্টরি।",
-                "es": "de amerikán and frénch revolúsions chéinjd de kórs of jístori.",
-                "hi": "द अमेरिकन एंड फ्रेंच रेवोल्यूशंस चेंज्ड द कोर्स ऑफ हिस्ट्री।"
+                "bn": "রেভোলিউশনস অফেন লিড টু সিগনিফিক্যান্ট সোসাইটাল চেঞ্জেস।"
             },
-            "example_expression": "political revolution",
-            "example_expression_native_transliteration": {
-                "bn": "পলিটিক্যাল রেভলিউশন",
-                "es": "politíkal revolúsion",
-                "hi": "पोलिटिकल रेवोल्यूशन"
-            },
-            "example_expression_meaning": "A fundamental change in political power or organizational structures.",
             "position": 1,
-            "synonyms": "uprising, revolt, rebellion, overthrow, coup, insurrection",
-            "antonyms": "stability, stagnation, conservation, maintenance, preservation, continuity",
+            "synonyms": "uprisings, overthrows, rebellions, coups",
+            "antonyms": "stagnation, stability, conservation, order",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "বিপ্লব",
                     "word_transliteration": "biplob",
-                    "example_sentence_translation": "আমেরিকান ও ফরাসি বিপ্লব ইতিহাসের গতিপথ পরিবর্তন করেছে।",
-                    "example_sentence_transliteration": "Amerikan o Forashi biplob itihasher gotipath poriborton koreche.",
-                    "example_expression_translation": "রাজনৈতিক বিপ্লব",
-                    "example_expression_transliteration": "rajnoitik biplob",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "क्रांति",
-                    "word_transliteration": "kranti",
-                    "example_sentence_translation": "अमेरिकी और फ्रांसीसी क्रांतियों ने इतिहास की दिशा बदल दी।",
-                    "example_sentence_transliteration": "Ameriki aur Fransisi krantiyon ne itihas ki disha badal di.",
-                    "example_expression_translation": "राजनीतिक क्रांति",
-                    "example_expression_transliteration": "rajnitik kranti",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "revoluciones",
-                    "word_transliteration": "rebolusiónes",
-                    "example_sentence_translation": "Las revoluciones americana y francesa cambiaron el curso de la historia.",
-                    "example_sentence_transliteration": "Las rebolusiónes amerikána i fransesa kambiáron el kúrso de la istória.",
-                    "example_expression_translation": "revolución política",
-                    "example_expression_transliteration": "rebolución polítika",
+                    "example_sentence_translation": "বিপ্লব প্রায়ই গুরুত্বপূর্ণ সামাজিক পরিবর্তন আনে।",
+                    "example_sentence_transliteration": "Biplob prayoi guruttbopurno shamajik poriborton ane.",
                     "source": "oxford"
                 }
             ]
@@ -77,58 +40,25 @@
             "word": "movements",
             "phonetic": "ˈmuːv.mənts",
             "word_native_transliteration": {
-                "bn": "মুভমেন্টস",
-                "hi": "मूवमेंट्स",
-                "es": "múvments"
+                "bn": "মুভমেন্টস"
             },
             "parts_of_speech": "noun",
             "emoji": "✊",
-            "meaning": "A group of people working together to advance their shared political, social, or artistic ideas.",
-            "example_sentence": "The civil rights movement fought for equality and justice.",
+            "meaning": "Organized efforts by groups of people working together to advance their shared political, social, or artistic ideas.",
+            "example_sentence": "Freedom movements paved the way for independence.",
             "example_sentence_native_transliteration": {
-                "bn": "দি সিভিল রাইটস মুভমেন্ট ফট ফর ইকুয়ালিটি অ্যান্ড জাস্টিস।",
-                "es": "de sívil ráits múvment fót for ikuáliti and jástis.",
-                "hi": "द सिविल राइट्स मूवमेंट फॉट फॉर इक्वलिटी एंड जस्टिस।"
+                "bn": "ফ্রিডম মুভমেন্টস পেভড দ্য ওয়ে ফর ইন্ডিপেন্ডেন্স।"
             },
-            "example_expression": "independence movement",
-            "example_expression_native_transliteration": {
-                "bn": "ইন্ডিপেন্ডেন্স মুভমেন্ট",
-                "es": "indipéndéns múvment",
-                "hi": "इंडिपेंडेंस मूवमेंट"
-            },
-            "example_expression_meaning": "An organized effort by a group of people to achieve political independence.",
             "position": 2,
-            "synonyms": "campaign, crusade, drive, effort, initiative, cause",
-            "antonyms": "inactivity, stagnation, stillness, immobility, passivity, lethargy",
+            "synonyms": "campaigns, efforts, initiatives, crusades",
+            "antonyms": "inactivity, stasis, passivity, stillness",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "আন্দোলন",
                     "word_transliteration": "andolon",
-                    "example_sentence_translation": "নাগরিক অধিকার আন্দোলন সমতা ও ন্যায়বিচারের জন্য লড়াই করেছে।",
-                    "example_sentence_transliteration": "Nagorik odhikar andolon somota o nyaybichar-er jonno lorai koreche.",
-                    "example_expression_translation": "স্বাধীনতা আন্দোলন",
-                    "example_expression_transliteration": "shadhinota andolon",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "आंदोलन",
-                    "word_transliteration": "andolan",
-                    "example_sentence_translation": "नागरिक अधिकार आंदोलन ने समानता और न्याय के लिए लड़ाई लड़ी।",
-                    "example_sentence_transliteration": "Nagarik adhikar andolan ne samanta aur nyay ke liye ladai ladi.",
-                    "example_expression_translation": "स्वतंत्रता आंदोलन",
-                    "example_expression_transliteration": "swatantrata andolan",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "movimientos",
-                    "word_transliteration": "movimiéntos",
-                    "example_sentence_translation": "El movimiento de derechos civiles luchó por la igualdad y la justicia.",
-                    "example_sentence_transliteration": "El movimiénto de deréchos sivíles luchó por la igualdád i la justísia.",
-                    "example_expression_translation": "movimiento de independencia",
-                    "example_expression_transliteration": "movimiénto de independénsia",
+                    "example_sentence_translation": "স্বাধীনতা আন্দোলন স্বাধীনতার পথ প্রশস্ত করেছে।",
+                    "example_sentence_transliteration": "Shadhinota andolon shadhihotar poth proshosto koreche.",
                     "source": "oxford"
                 }
             ]
@@ -137,58 +67,25 @@
             "word": "colonial",
             "phonetic": "kəˈləʊ.ni.əl",
             "word_native_transliteration": {
-                "bn": "কলোনিয়াল",
-                "hi": "कॉलोनियल",
-                "es": "kolóniál"
+                "bn": "কলোনিয়াল"
             },
             "parts_of_speech": "adjective",
-            "emoji": "🏴",
-            "meaning": "Relating to or characteristic of a colony or colonies.",
-            "example_sentence": "Colonial rule suppressed the local culture and traditions.",
+            "emoji": "🏛️",
+            "meaning": "Relating to or characteristic of a colony or colonialism, especially involving the control of one country by another.",
+            "example_sentence": "Colonial rule suppressed local governance.",
             "example_sentence_native_transliteration": {
-                "bn": "কলোনিয়াল রুল সাপ্রেসড দ্য লোকাল কালচার অ্যান্ড ট্র্যাডিশনস।",
-                "es": "kolóniál rúl saprésd de lókal kálcher and tradísions.",
-                "hi": "कॉलोनियल रूल सप्रेस्ड द लोकल कल्चर एंड ट्रेडिशन्स।"
+                "bn": "কলোনিয়াল রুল সাপ্রেসড লোকাল গভার্নেন্স।"
             },
-            "example_expression": "colonial administration",
-            "example_expression_native_transliteration": {
-                "bn": "কলোনিয়াল অ্যাডমিনিস্ট্রেশন",
-                "es": "kolóniál administrásion",
-                "hi": "कॉलोनियल एडमिनिस्ट्रेशन"
-            },
-            "example_expression_meaning": "The system of government established by a colonial power in a territory.",
             "position": 3,
-            "synonyms": "imperial, occupying, dominion, territorial, overseas, dependent",
-            "antonyms": "independent, sovereign, autonomous, self-governing, native, indigenous",
+            "synonyms": "imperial, occupying, dominating, controlling",
+            "antonyms": "independent, sovereign, autonomous, free",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "ঔপনিবেশিক",
-                    "word_transliteration": "ouponibesik",
-                    "example_sentence_translation": "ঔপনিবেশিক শাসন স্থানীয় সংস্কৃতি ও ঐতিহ্যকে দমন করেছিল।",
-                    "example_sentence_transliteration": "Ouponibesik shashon sthaniya songskriti o oitihjoke domon korechilo.",
-                    "example_expression_translation": "ঔপনিবেশিক প্রশাসন",
-                    "example_expression_transliteration": "ouponibesik proshashon",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "औपनिवेशिक",
-                    "word_transliteration": "aupaniveshik",
-                    "example_sentence_translation": "औपनिवेशिक शासन ने स्थानीय संस्कृति और परंपराओं को दबाया।",
-                    "example_sentence_transliteration": "Aupaniveshik shashan ne sthaniya sanskriti aur paramparaon ko dabaya.",
-                    "example_expression_translation": "औपनिवेशिक प्रशासन",
-                    "example_expression_transliteration": "aupaniveshik prashasan",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "colonial",
-                    "word_transliteration": "koloniál",
-                    "example_sentence_translation": "El dominio colonial suprimió la cultura y tradiciones locales.",
-                    "example_sentence_transliteration": "El domínio koloniál suprimió la kultúra i tradisiónes lokáles.",
-                    "example_expression_translation": "administración colonial",
-                    "example_expression_transliteration": "administrasión koloniál",
+                    "word_transliteration": "ouponibeshik",
+                    "example_sentence_translation": "ঔপনিবেশিক শাসন স্থানীয় শাসনকে দমন করেছিল।",
+                    "example_sentence_transliteration": "Ouponibeshik shashon sthaneeyo shashonke domon korechiilo.",
                     "source": "oxford"
                 }
             ]
@@ -197,58 +94,25 @@
             "word": "monarchy",
             "phonetic": "ˈmɒn.ə.ki",
             "word_native_transliteration": {
-                "bn": "মনার্কি",
-                "hi": "मॉनार्की",
-                "es": "monárkí"
+                "bn": "মনার্কি"
             },
             "parts_of_speech": "noun",
             "emoji": "👑",
-            "meaning": "A form of government with a monarch at the head.",
-            "example_sentence": "The monarchy was overthrown during the revolution.",
+            "meaning": "A form of government with a monarch at the head, where supreme power is held by a single person such as a king or queen.",
+            "example_sentence": "The monarchy was abolished during the revolution.",
             "example_sentence_native_transliteration": {
-                "bn": "দ্য মনার্কি ওয়াজ ওভারথ্রোন ডিউরিং দ্য রেভলিউশন।",
-                "es": "de monárkí uás obérθron diúring de revolúsion.",
-                "hi": "द मॉनार्की वास ओवरथ्रोन ड्यूरिंग द रेवोल्यूशन।"
+                "bn": "দ্য মনার্কি ওয়াজ অ্যাবলিশড ডিউরিং দ্য রেভোলিউশন।"
             },
-            "example_expression": "constitutional monarchy",
-            "example_expression_native_transliteration": {
-                "bn": "কনস্টিটিউশনাল মনার্কি",
-                "es": "konstitúsionál monárkí",
-                "hi": "कॉन्स्टिट्यूशनल मॉनार्की"
-            },
-            "example_expression_meaning": "A system of government where a monarch acts as head of state within constitutional limits.",
             "position": 4,
-            "synonyms": "kingdom, crown, throne, royal rule, sovereignty, regal system",
-            "antonyms": "republic, democracy, anarchy, oligarchy, tyranny, dictatorship",
+            "synonyms": "kingship, sovereignty, royal rule, crown",
+            "antonyms": "republic, democracy, anarchism, communism",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "রাজতন্ত্র",
                     "word_transliteration": "rajotontro",
-                    "example_sentence_translation": "বিপ্লবের সময় রাজতন্ত্র উৎখাত হয়েছিল।",
-                    "example_sentence_transliteration": "Biplober somoy rajotontro utkhat hoyechilo.",
-                    "example_expression_translation": "সাংবিধানিক রাজতন্ত্র",
-                    "example_expression_transliteration": "sangbidhanik rajotontro",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "राजतंत्र",
-                    "word_transliteration": "rajtantra",
-                    "example_sentence_translation": "क्रांति के दौरान राजतंत्र को उखाड़ फेंका गया।",
-                    "example_sentence_transliteration": "Kranti ke dauran rajtantra ko ukhad fenka gaya.",
-                    "example_expression_translation": "संवैधानिक राजतंत्र",
-                    "example_expression_transliteration": "sanvaidhanik rajtantra",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "monarquía",
-                    "word_transliteration": "monarkía",
-                    "example_sentence_translation": "La monarquía fue derrocada durante la revolución.",
-                    "example_sentence_transliteration": "La monarkía fue derrokáda duránte la revolúsion.",
-                    "example_expression_translation": "monarquía constitucional",
-                    "example_expression_transliteration": "monarkía konstitusionál",
+                    "example_sentence_translation": "বিপ্লবের সময় রাজতন্ত্র বিলুপ্ত হয়েছিল।",
+                    "example_sentence_transliteration": "Biplober shomoy rajotontro bilupto hoyechiilo.",
                     "source": "oxford"
                 }
             ]
@@ -257,58 +121,25 @@
             "word": "republic",
             "phonetic": "rɪˈpʌb.lɪk",
             "word_native_transliteration": {
-                "bn": "রিপাবলিক",
-                "hi": "रिपब्लिक",
-                "es": "repúblik"
+                "bn": "রিপাবলিক"
             },
             "parts_of_speech": "noun",
             "emoji": "🏛️",
-            "meaning": "A state in which supreme power is held by the people and their elected representatives.",
-            "example_sentence": "The republic was established after the fall of the monarchy.",
+            "meaning": "A state in which supreme power is held by the people and their elected representatives, with an elected or nominated president rather than a monarch.",
+            "example_sentence": "A republic is governed by representatives of the people.",
             "example_sentence_native_transliteration": {
-                "bn": "দ্য রিপাবলিক ওয়াজ এস্ট্যাবলিশড আফটার দ্য ফল অফ দ্য মনার্কি।",
-                "es": "de repúblik uás estáblishd áfter de fól of de monárkí.",
-                "hi": "द रिपब्लिक वास एस्टेब्लिश्ड आफ्टर द फॉल ऑफ द मॉनार्की।"
+                "bn": "এ রিপাবলিক ইজ গভার্নড বাই রেপ্রেজেন্টেটিভস অফ দ্য পিপল।"
             },
-            "example_expression": "federal republic",
-            "example_expression_native_transliteration": {
-                "bn": "ফেডারেল রিপাবলিক",
-                "es": "federál repúblik",
-                "hi": "फेडरल रिपब्लिक"
-            },
-            "example_expression_meaning": "A form of government where power is divided between a central authority and constituent regions.",
             "position": 5,
-            "synonyms": "democracy, commonwealth, state, nation, federation, union",
-            "antonyms": "monarchy, autocracy, dictatorship, tyranny, empire, kingdom",
+            "synonyms": "democracy, state, commonwealth, federation",
+            "antonyms": "monarchy, autocracy, dictatorship, tyranny",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "প্রজাতন্ত্র",
                     "word_transliteration": "projatontro",
-                    "example_sentence_translation": "রাজতন্ত্রের পতনের পর প্রজাতন্ত্র প্রতিষ্ঠিত হয়েছিল।",
-                    "example_sentence_transliteration": "Rajotontrer potoner por projatontro protishthito hoyechilo.",
-                    "example_expression_translation": "ফেডারেল প্রজাতন্ত্র",
-                    "example_expression_transliteration": "federal projatontro",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "गणराज्य",
-                    "word_transliteration": "ganrajya",
-                    "example_sentence_translation": "राजतंत्र के पतन के बाद गणराज्य की स्थापना हुई।",
-                    "example_sentence_transliteration": "Rajtantra ke patan ke baad ganrajya ki sthapna hui.",
-                    "example_expression_translation": "संघीय गणराज्य",
-                    "example_expression_transliteration": "sanghiya ganrajya",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "república",
-                    "word_transliteration": "repúblika",
-                    "example_sentence_translation": "La república se estableció después de la caída de la monarquía.",
-                    "example_sentence_transliteration": "La repúblika se establesió despwés de la kaída de la monarkía.",
-                    "example_expression_translation": "república federal",
-                    "example_expression_transliteration": "repúblika federál",
+                    "example_sentence_translation": "একটি প্রজাতন্ত্র জনগণের প্রতিনিধিদের দ্বারা পরিচালিত হয়।",
+                    "example_sentence_transliteration": "Ekti projatontro jonogoner protinnidhider dwara porichalito hoy.",
                     "source": "oxford"
                 }
             ]
@@ -317,58 +148,25 @@
             "word": "struggle",
             "phonetic": "ˈstrʌɡ.əl",
             "word_native_transliteration": {
-                "bn": "স্ট্রাগল",
-                "hi": "स्ट्रगल",
-                "es": "strágol"
+                "bn": "স্ট্রাগল"
             },
             "parts_of_speech": "noun",
-            "emoji": "⚔️",
-            "meaning": "A forceful or violent effort to get free of restraint or resist attack.",
-            "example_sentence": "The struggle for independence lasted many years.",
+            "emoji": "💪",
+            "meaning": "A forceful or violent effort to get free of restraint or resist attack; a determined effort under difficult circumstances.",
+            "example_sentence": "The struggle for independence united the nation.",
             "example_sentence_native_transliteration": {
-                "bn": "দ্য স্ট্রাগল ফর ইন্ডিপেন্ডেন্স লাস্টেড মেনি ইয়ার্স।",
-                "es": "de strágol for indipéndéns ĺástéd méni íars.",
-                "hi": "द स्ट्रगल फॉर इंडिपेंडेंस लास्टेड मेनी ईयर्स।"
+                "bn": "দ্য স্ট্রাগল ফর ইন্ডিপেন্ডেন্স ইউনাইটেড দ্য নেশন।"
             },
-            "example_expression": "armed struggle",
-            "example_expression_native_transliteration": {
-                "bn": "আর্মড স্ট্রাগল",
-                "es": "ármd strágol",
-                "hi": "आर्म्ड स्ट्रगल"
-            },
-            "example_expression_meaning": "A violent conflict or fight using weapons to achieve political goals.",
             "position": 6,
-            "synonyms": "fight, battle, conflict, combat, contest, effort",
-            "antonyms": "peace, harmony, cooperation, agreement, surrender, compliance",
+            "synonyms": "battle, conflict, fight, effort",
+            "antonyms": "peace, harmony, ease, surrender",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "সংগ্রাম",
-                    "word_transliteration": "songram",
-                    "example_sentence_translation": "স্বাধীনতার সংগ্রাম বহু বছর স্থায়ী হয়েছিল।",
-                    "example_sentence_transliteration": "Shadhinotar songram bohu bochor sthayi hoyechilo.",
-                    "example_expression_translation": "সশস্ত্র সংগ্রাম",
-                    "example_expression_transliteration": "shashotro songram",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "संघर्ष",
-                    "word_transliteration": "sangharsh",
-                    "example_sentence_translation": "स्वतंत्रता का संघर्ष कई वर्षों तक चला।",
-                    "example_sentence_transliteration": "Swatantrata ka sangharsh kai varshon tak chala.",
-                    "example_expression_translation": "सशस्त्र संघर्ष",
-                    "example_expression_transliteration": "sashastra sangharsh",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "lucha",
-                    "word_transliteration": "lúcha",
-                    "example_sentence_translation": "La lucha por la independencia duró muchos años.",
-                    "example_sentence_transliteration": "La lúcha por la independénsia duró múchos áños.",
-                    "example_expression_translation": "lucha armada",
-                    "example_expression_transliteration": "lúcha armáda",
+                    "word_transliteration": "songgram",
+                    "example_sentence_translation": "স্বাধীনতার সংগ্রাম জাতিকে ঐক্যবদ্ধ করেছে।",
+                    "example_sentence_transliteration": "Shadheenotar songgram jatike oikkobddho koreche.",
                     "source": "oxford"
                 }
             ]
@@ -377,58 +175,25 @@
             "word": "liberation",
             "phonetic": "ˌlɪb.ərˈeɪ.ʃən",
             "word_native_transliteration": {
-                "bn": "লিবারেশন",
-                "hi": "लिबरेशन",
-                "es": "liberásion"
+                "bn": "লিবারেশন"
             },
             "parts_of_speech": "noun",
             "emoji": "🕊️",
-            "meaning": "The action of setting someone or something free from imprisonment, slavery, or oppression.",
-            "example_sentence": "The liberation of the country brought hope to its people.",
+            "meaning": "The action of setting someone free from imprisonment, slavery, or oppression; release.",
+            "example_sentence": "Liberation movements inspired many countries.",
             "example_sentence_native_transliteration": {
-                "bn": "দ্য লিবারেশন অফ দ্য কান্ট্রি ব্রট হোপ টু ইটস পিপল।",
-                "es": "de liberásion of de kántri brót jóp tu íts pípol.",
-                "hi": "द लिबरेशन ऑफ द कंट्री ब्रॉट होप टू इट्स पीपल।"
+                "bn": "লিবারেশন মুভমেন্টস ইনস্পায়ার্ড মেনি কান্ট্রিজ।"
             },
-            "example_expression": "national liberation",
-            "example_expression_native_transliteration": {
-                "bn": "ন্যাশনাল লিবারেশন",
-                "es": "náshonál liberásion",
-                "hi": "नेशनल लिबरेशन"
-            },
-            "example_expression_meaning": "The process of a nation gaining freedom from foreign control or domination.",
             "position": 7,
-            "synonyms": "freedom, emancipation, release, deliverance, independence, salvation",
-            "antonyms": "captivity, imprisonment, oppression, subjugation, bondage, enslavement",
+            "synonyms": "emancipation, freedom, release, deliverance",
+            "antonyms": "captivity, subjugation, imprisonment, bondage",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "মুক্তি",
                     "word_transliteration": "mukti",
-                    "example_sentence_translation": "দেশের মুক্তি এর জনগণের মধ্যে আশা নিয়ে এসেছিল।",
-                    "example_sentence_transliteration": "Desher mukti er jonogoner moddhe asha niye esechilo.",
-                    "example_expression_translation": "জাতীয় মুক্তি",
-                    "example_expression_transliteration": "jatiya mukti",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "मुक्ति",
-                    "word_transliteration": "mukti",
-                    "example_sentence_translation": "देश की मुक्ति ने इसके लोगों में आशा लाई।",
-                    "example_sentence_transliteration": "Desh ki mukti ne iske logon mein asha layi.",
-                    "example_expression_translation": "राष्ट्रीय मुक्ति",
-                    "example_expression_transliteration": "rashtriya mukti",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "liberación",
-                    "word_transliteration": "liberasión",
-                    "example_sentence_translation": "La liberación del país trajo esperanza a su pueblo.",
-                    "example_sentence_transliteration": "La liberasión del país trájo esperánsa a su puéblo.",
-                    "example_expression_translation": "liberación nacional",
-                    "example_expression_transliteration": "liberasión nasionál",
+                    "example_sentence_translation": "মুক্তি আন্দোলন অনেক দেশকে অনুপ্রাণিত করেছে।",
+                    "example_sentence_transliteration": "Mukti andolon onek deshke onupranito koreche.",
                     "source": "oxford"
                 }
             ]
@@ -437,58 +202,25 @@
             "word": "resistance",
             "phonetic": "rɪˈzɪs.təns",
             "word_native_transliteration": {
-                "bn": "রেসিস্ট্যান্স",
-                "hi": "रेसिस्टेंस",
-                "es": "resisténs"
+                "bn": "রেসিস্ট্যান্স"
             },
             "parts_of_speech": "noun",
-            "emoji": "✊",
+            "emoji": "🛡️",
             "meaning": "The refusal to accept or comply with something; the attempt to prevent something by action or argument.",
-            "example_sentence": "The resistance movement fought against the occupation forces.",
+            "example_sentence": "The resistance fought bravely against colonial forces.",
             "example_sentence_native_transliteration": {
-                "bn": "দ্য রেসিস্ট্যান্স মুভমেন্ট ফট এগেইনস্ট দ্য অকুপেশন ফোর্সেস।",
-                "es": "de resisténs múvment fót agéinst de okupésion fórses.",
-                "hi": "द रेसिस्टेंस मूवमेंट फॉट अगेंस्ट द ऑक्यूपेशन फोर्सेस।"
+                "bn": "দ্য রেসিস্ট্যান্স ফট ব্রেভলি অ্যাগেইনস্ট কলোনিয়াল ফোর্সেস।"
             },
-            "example_expression": "passive resistance",
-            "example_expression_native_transliteration": {
-                "bn": "প্যাসিভ রেসিস্ট্যান্স",
-                "es": "pasív resisténs",
-                "hi": "पैसिव रेसिस्टेंस"
-            },
-            "example_expression_meaning": "Non-violent opposition to authority, especially through non-cooperation.",
             "position": 8,
-            "synonyms": "opposition, defiance, rebellion, protest, revolt, dissent",
-            "antonyms": "compliance, submission, cooperation, acceptance, surrender, obedience",
+            "synonyms": "opposition, defiance, revolt, rebellion",
+            "antonyms": "submission, compliance, surrender, acceptance",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "প্রতিরোধ",
                     "word_transliteration": "protirodh",
-                    "example_sentence_translation": "প্রতিরোধ আন্দোলন দখলদার বাহিনীর বিরুদ্ধে লড়াই করেছিল।",
-                    "example_sentence_transliteration": "Protirodh andolon dokholdar bahinir biruddhe lorai korechilo.",
-                    "example_expression_translation": "নিষ্ক্রিয় প্রতিরোধ",
-                    "example_expression_transliteration": "nishkriyo protirodh",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "प्रतिरोध",
-                    "word_transliteration": "pratirodh",
-                    "example_sentence_translation": "प्रतिरोध आंदोलन ने कब्जे करने वाली सेनाओं के खिलाफ लड़ाई लड़ी।",
-                    "example_sentence_transliteration": "Pratirodh andolan ne kabze karne wali senaon ke khilaf ladai ladi.",
-                    "example_expression_translation": "निष्क्रिय प्रतिरोध",
-                    "example_expression_transliteration": "nishkriya pratirodh",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "resistencia",
-                    "word_transliteration": "resisténsia",
-                    "example_sentence_translation": "El movimiento de resistencia luchó contra las fuerzas de ocupación.",
-                    "example_sentence_transliteration": "El movimiénto de resisténsia luchó kontra las fuérsas de okupasión.",
-                    "example_expression_translation": "resistencia pasiva",
-                    "example_expression_transliteration": "resisténsia pasíba",
+                    "example_sentence_translation": "প্রতিরোধ বাহিনী ঔপনিবেশিক শক্তির বিরুদ্ধে সাহসিকতার সঙ্গে লড়েছিল।",
+                    "example_sentence_transliteration": "Protirodh bahini ouponibeshik shoktir biruddhe sahosikatar shonge lorechiilo.",
                     "source": "oxford"
                 }
             ]
@@ -497,58 +229,25 @@
             "word": "sovereignty",
             "phonetic": "ˈsɒv.rɪn.ti",
             "word_native_transliteration": {
-                "bn": "সোভারেনটি",
-                "hi": "सॉव्रेंटी",
-                "es": "soberénti"
+                "bn": "সোভারেনটি"
             },
             "parts_of_speech": "noun",
-            "emoji": "🏴",
-            "meaning": "Supreme power or authority; the authority of a state to govern itself.",
-            "example_sentence": "The nation fought hard to maintain its sovereignty.",
+            "emoji": "🏆",
+            "meaning": "The authority of a state to govern itself or another state; supreme power or authority.",
+            "example_sentence": "Sovereignty is essential for a nation's identity.",
             "example_sentence_native_transliteration": {
-                "bn": "দ্য নেশন ফট হার্ড টু মেইনটেইন ইটস সোভারেনটি।",
-                "es": "de néshon fót járd tu méintéin íts soberénti.",
-                "hi": "द नेशन फॉट हार्ड टू मेंटेन इट्स सॉव्रेंटी।"
+                "bn": "সোভারেনটি ইজ এসেনশিয়াল ফর এ নেশনস আইডেন্টিটি।"
             },
-            "example_expression": "national sovereignty",
-            "example_expression_native_transliteration": {
-                "bn": "ন্যাশনাল সোভারেনটি",
-                "es": "náshonál soberénti",
-                "hi": "नेशनल सॉव्रेंटी"
-            },
-            "example_expression_meaning": "A nation's right to govern itself without outside interference.",
             "position": 9,
-            "synonyms": "autonomy, independence, self-rule, authority, supremacy, dominion",
-            "antonyms": "dependence, subjugation, subordination, colonialism, vassalage, servitude",
+            "synonyms": "autonomy, independence, self-rule, supremacy",
+            "antonyms": "dependence, subjugation, subordination, vassalage",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "সার্বভৌমত্ব",
-                    "word_transliteration": "sharbhoumottwo",
-                    "example_sentence_translation": "জাতি তার সার্বভৌমত্ব বজায় রাখার জন্য কঠিন লড়াই করেছিল।",
-                    "example_sentence_transliteration": "Jati tar sharbhoumottwo bojay rakhar jonno kothin lorai korechilo.",
-                    "example_expression_translation": "জাতীয় সার্বভৌমত্ব",
-                    "example_expression_transliteration": "jatiya sharbhoumottwo",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "संप्रभुता",
-                    "word_transliteration": "sanprabhuta",
-                    "example_sentence_translation": "राष्ट्र ने अपनी संप्रभुता बनाए रखने के लिए कड़ी लड़ाई लड़ी।",
-                    "example_sentence_transliteration": "Rashtra ne apni sanprabhuta banae rakhne ke liye kadi ladai ladi.",
-                    "example_expression_translation": "राष्ट्रीय संप्रभुता",
-                    "example_expression_transliteration": "rashtriya sanprabhuta",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "soberanía",
-                    "word_transliteration": "soberanía",
-                    "example_sentence_translation": "La nación luchó duramente para mantener su soberanía.",
-                    "example_sentence_transliteration": "La nasión luchó duraménte pára mantenér su soberanía.",
-                    "example_expression_translation": "soberanía nacional",
-                    "example_expression_transliteration": "soberanía nasionál",
+                    "word_transliteration": "sharbobhoumotto",
+                    "example_sentence_translation": "সার্বভৌমত্ব একটি জাতির পরিচয়ের জন্য অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Sharbobhoumotto ekti jatir poricoyer jonno ottento guruttopurno.",
                     "source": "oxford"
                 }
             ]
@@ -557,58 +256,25 @@
             "word": "uprising",
             "phonetic": "ˈʌp.raɪ.zɪŋ",
             "word_native_transliteration": {
-                "bn": "আপরাইজিং",
-                "hi": "अप्राइजिंग",
-                "es": "apráising"
+                "bn": "আপরাইজিং"
             },
             "parts_of_speech": "noun",
-            "emoji": "⚡",
-            "meaning": "An act of resistance or rebellion; a revolt.",
-            "example_sentence": "The uprising began in the early hours of the morning.",
+            "emoji": "🔥",
+            "meaning": "An act of resistance or rebellion; a revolt against an authority or government.",
+            "example_sentence": "The uprising marked the beginning of the revolution.",
             "example_sentence_native_transliteration": {
-                "bn": "দ্য আপরাইজিং বিগ্যান ইন দ্য আর্লি আওয়ার্স অফ দ্য মর্নিং।",
-                "es": "de apráising bigán in de érli áuars of de mórning.",
-                "hi": "द अप्राइजिंग बिगान इन द अर्ली आवर्स ऑफ द मॉर्निंग।"
+                "bn": "দ্য আপরাইজিং মার্কড দ্য বিগিনিং অফ দ্য রেভোলিউশন।"
             },
-            "example_expression": "popular uprising",
-            "example_expression_native_transliteration": {
-                "bn": "পপুলার আপরাইজিং",
-                "es": "populár apráising",
-                "hi": "पॉप्यूलर अप्राइजिंग"
-            },
-            "example_expression_meaning": "A rebellion or revolt by the general population against authority.",
             "position": 10,
-            "synonyms": "rebellion, revolt, insurrection, mutiny, coup, revolution",
-            "antonyms": "submission, compliance, obedience, peace, order, stability",
+            "synonyms": "revolt, rebellion, insurrection, mutiny",
+            "antonyms": "obedience, peace, submission, compliance",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "বিদ্রোহ",
-                    "word_transliteration": "bidroh",
-                    "example_sentence_translation": "বিদ্রোহ ভোরের প্রথম প্রহরে শুরু হয়েছিল।",
-                    "example_sentence_transliteration": "Bidroh bhorer prothom prohore shuru hoyechilo.",
-                    "example_expression_translation": "জনবিদ্রোহ",
-                    "example_expression_transliteration": "jonbidroh",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "विद्रोह",
-                    "word_transliteration": "vidroh",
-                    "example_sentence_translation": "विद्रोह सुबह के शुरुआती घंटों में शुरू हुआ।",
-                    "example_sentence_transliteration": "Vidroh subah ke shuruaati ghanton mein shuru hua.",
-                    "example_expression_translation": "लोकप्रिय विद्रोह",
-                    "example_expression_transliteration": "lokpriya vidroh",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "levantamiento",
-                    "word_transliteration": "lebantamiénto",
-                    "example_sentence_translation": "El levantamiento comenzó en las primeras horas de la mañana.",
-                    "example_sentence_transliteration": "El lebantamiénto komensó en las priméras óras de la mañána.",
-                    "example_expression_translation": "levantamiento popular",
-                    "example_expression_transliteration": "lebantamiénto populár",
+                    "word_transliteration": "bidroho",
+                    "example_sentence_translation": "বিদ্রোহ বিপ্লবের সূচনা চিহ্নিত করে।",
+                    "example_sentence_transliteration": "Bidroho biplober shuchona chihnito kore.",
                     "source": "oxford"
                 }
             ]
@@ -617,58 +283,25 @@
             "word": "armed conflict",
             "phonetic": "ɑːmd ˈkɒn.flɪkt",
             "word_native_transliteration": {
-                "bn": "আর্মড কনফ্লিক্ট",
-                "hi": "आर्म्ड कॉन्फ्लिक्ट",
-                "es": "ármd kónflikt"
+                "bn": "আর্মড কনফ্লিক্ট"
             },
             "parts_of_speech": "noun",
             "emoji": "⚔️",
-            "meaning": "A situation of fighting between countries or groups within a country using weapons.",
-            "example_sentence": "The armed conflict lasted for several decades.",
+            "meaning": "A contest of armed forces; warfare between opposing military forces.",
+            "example_sentence": "Armed conflict resulted in widespread devastation.",
             "example_sentence_native_transliteration": {
-                "bn": "দ্য আর্মড কনফ্লিক্ট লাস্টেড ফর সেভারেল ডেকেডস।",
-                "es": "de ármd kónflikt lástéd for séberal dékéds.",
-                "hi": "द आर्म्ड कॉन्फ्लिक्ट लास्टेड फॉर सेवरल डेकेड्स।"
+                "bn": "আর্মড কনফ্লিক্ট রিজাল্টেড ইন ওয়াইডস্প্রেড ডেভাস্টেশন।"
             },
-            "example_expression": "international armed conflict",
-            "example_expression_native_transliteration": {
-                "bn": "ইন্টারন্যাশনাল আর্মড কনফ্লিক্ট",
-                "es": "internáshonál ármd kónflikt",
-                "hi": "इंटरनेशनल आर्म्ड कॉन्फ्लिक्ट"
-            },
-            "example_expression_meaning": "A war or violent struggle between two or more countries.",
             "position": 11,
-            "synonyms": "war, warfare, battle, combat, fighting, hostilities",
-            "antonyms": "peace, ceasefire, truce, harmony, diplomacy, negotiation",
+            "synonyms": "warfare, battle, combat, hostilities",
+            "antonyms": "peace, negotiation, diplomacy, ceasefire",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "সশস্ত্র সংঘাত",
-                    "word_transliteration": "shashotro songhat",
-                    "example_sentence_translation": "সশস্ত্র সংঘাত কয়েক দশক ধরে চলেছিল।",
-                    "example_sentence_transliteration": "Shashotro songhat koyeek doshok dhore cholechilo.",
-                    "example_expression_translation": "আন্তর্জাতিক সশস্ত্র সংঘাত",
-                    "example_expression_transliteration": "antorjatik shashotro songhat",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "सशस्त्र संघर्ष",
-                    "word_transliteration": "sashastra sangharsh",
-                    "example_sentence_translation": "सशस्त्र संघर्ष कई दशकों तक चला।",
-                    "example_sentence_transliteration": "Sashastra sangharsh kai dashkon tak chala.",
-                    "example_expression_translation": "अंतर्राष्ट्रीय सशस्त्र संघर्ष",
-                    "example_expression_transliteration": "antarrashtriya sashastra sangharsh",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "conflicto armado",
-                    "word_transliteration": "konflíkto armádo",
-                    "example_sentence_translation": "El conflicto armado duró varias décadas.",
-                    "example_sentence_transliteration": "El konflíkto armádo duró bárias dékádas.",
-                    "example_expression_translation": "conflicto armado internacional",
-                    "example_expression_transliteration": "konflíkto armádo internasionál",
+                    "word_transliteration": "shoshostro shonghat",
+                    "example_sentence_translation": "সশস্ত্র সংঘাতে ব্যাপক ধ্বংসযজ্ঞ ঘটে।",
+                    "example_sentence_transliteration": "Shoshostro shonghate byapok dhongshojoggyo ghote.",
                     "source": "oxford"
                 }
             ]
@@ -677,58 +310,52 @@
             "word": "democracy",
             "phonetic": "dɪˈmɒk.rə.si",
             "word_native_transliteration": {
-                "bn": "ডেমোক্রেসি",
-                "hi": "डेमोक्रेसी",
-                "es": "demokrási"
+                "bn": "ডেমোক্রেসি"
             },
             "parts_of_speech": "noun",
             "emoji": "🗳️",
-            "meaning": "A system of government by the whole population or all the eligible members of a state.",
-            "example_sentence": "Democracy ensures that every citizen has a voice in government.",
+            "meaning": "A system of government by the whole population or all the eligible members of a state, typically through elected representatives.",
+            "example_sentence": "Democracy ensures equal rights for all citizens.",
             "example_sentence_native_transliteration": {
-                "bn": "ডেমোক্রেসি এনসিউরস দ্যাট এভরি সিটিজেন হ্যাজ এ ভয়েস ইন গভর্নমেন্ট।",
-                "es": "demokrási ensíurs dát ébri sítiśen jás e bóis in góbernment.",
-                "hi": "डेमोक्रेसी एन्शूर्स दैट एवरी सिटिज़न हैज़ ए वॉइस इन गवर्नमेंट।"
+                "bn": "ডেমোক্রেসি এনশিউরস ইকুয়াল রাইটস ফর অল সিটিজেনস।"
             },
-            "example_expression": "parliamentary democracy",
-            "example_expression_native_transliteration": {
-                "bn": "পার্লামেন্টারি ডেমোক্রেসি",
-                "es": "parlamentári demokrási",
-                "hi": "पार्लियामेंटरी डेमोक्रेसी"
-            },
-            "example_expression_meaning": "A democratic system where the executive branch derives its legitimacy from the legislature.",
             "position": 12,
-            "synonyms": "self-government, republic, freedom, liberty, popular rule, majoritarianism",
-            "antonyms": "dictatorship, autocracy, tyranny, totalitarianism, authoritarianism, despotism",
+            "synonyms": "republic, self-government, representative government, popular rule",
+            "antonyms": "autocracy, dictatorship, tyranny, authoritarianism",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "গণতন্ত্র",
                     "word_transliteration": "gonotontro",
-                    "example_sentence_translation": "গণতন্ত্র নিশ্চিত করে যে প্রতিটি নাগরিকের সরকারে কণ্ঠস্বর রয়েছে।",
-                    "example_sentence_transliteration": "Gonotontro nishchito kore je protiţi nagoriker shorokare konthoshoor royeche.",
-                    "example_expression_translation": "সংসদীয় গণতন্ত্র",
-                    "example_expression_transliteration": "songshudiya gonotontro",
+                    "example_sentence_translation": "গণতন্ত্র সকল নাগরিকের সমান অধিকার নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Gonotontro shokol nagorikder shoman odhikar nishcito kore.",
                     "source": "oxford"
-                },
+                }
+            ]
+        },
+        {
+            "word": "established",
+            "phonetic": "ɪˈstæb.lɪʃt",
+            "word_native_transliteration": {
+                "bn": "এস্ট্যাবলিশড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🏗️",
+            "meaning": "Having been in existence for a long time and therefore recognized and generally accepted; set up on a firm or permanent basis.",
+            "example_sentence": "Democracy was established under strong leadership.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডেমোক্রেসি ওয়াজ এস্ট্যাবলিশড আন্ডার স্ট্রং লিডারশিপ।"
+            },
+            "position": 13,
+            "synonyms": "founded, set up, instituted, created",
+            "antonyms": "abolished, destroyed, dismantled, eliminated",
+            "translations": [
                 {
-                    "locale": "hi",
-                    "word_translation": "लोकतंत्र",
-                    "word_transliteration": "loktantra",
-                    "example_sentence_translation": "लोकतंत्र सुनिश्चित करता है कि हर नागरिक की सरकार में आवाज़ है।",
-                    "example_sentence_transliteration": "Loktantra sunishchit karta hai ki har nagarik ki sarkar mein awaz hai.",
-                    "example_expression_translation": "संसदीय लोकतंत्र",
-                    "example_expression_transliteration": "sansadiya loktantra",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "democracia",
-                    "word_transliteration": "demokrásia",
-                    "example_sentence_translation": "La democracia asegura que cada ciudadano tenga voz en el gobierno.",
-                    "example_sentence_transliteration": "La demokrásia asegúra ke káda siudadáno ténga bós en el gobiérno.",
-                    "example_expression_translation": "democracia parlamentaria",
-                    "example_expression_transliteration": "demokrásia parlamentária",
+                    "locale": "bn",
+                    "word_translation": "প্রতিষ্ঠিত",
+                    "word_transliteration": "protishthito",
+                    "example_sentence_translation": "শক্তিশালী নেতৃত্বের অধীনে গণতন্ত্র প্রতিষ্ঠিত হয়েছিল।",
+                    "example_sentence_transliteration": "Shoktishshali netrittoer odheen gonotontro protishthito hoyechiilo.",
                     "source": "oxford"
                 }
             ]
@@ -737,58 +364,25 @@
             "word": "framework",
             "phonetic": "ˈfreɪm.wɜːk",
             "word_native_transliteration": {
-                "bn": "ফ্রেমওয়ার্ক",
-                "hi": "फ्रेमवर्क",
-                "es": "fréimwórk"
+                "bn": "ফ্রেমওয়ার্ক"
             },
             "parts_of_speech": "noun",
             "emoji": "🏗️",
-            "meaning": "A basic structure underlying a system, concept, or text; an essential supporting structure.",
-            "example_sentence": "The legal framework provides the foundation for justice.",
+            "meaning": "An essential supporting structure of a building, vehicle, or object; a basic structure underlying a system, concept, or text.",
+            "example_sentence": "A strong framework is vital for governance.",
             "example_sentence_native_transliteration": {
-                "bn": "দ্য লিগ্যাল ফ্রেমওয়ার্ক প্রোভাইডস দ্য ফাউন্ডেশন ফর জাস্টিস।",
-                "es": "de légál fréimwórk probáids de faundéshon for jástis.",
-                "hi": "द लीगल फ्रेमवर्क प्रोवाइड्स द फाउंडेशन फॉर जस्टिस।"
+                "bn": "এ স্ট্রং ফ্রেমওয়ার্ক ইজ ভাইটাল ফর গভার্নেন্স।"
             },
-            "example_expression": "regulatory framework",
-            "example_expression_native_transliteration": {
-                "bn": "রেগুলেটরি ফ্রেমওয়ার্ক",
-                "es": "regulátori fréimwórk",
-                "hi": "रेग्यूलेटरी फ्रेमवर्क"
-            },
-            "example_expression_meaning": "A system of regulations and rules that govern a particular activity or industry.",
-            "position": 13,
-            "synonyms": "structure, system, foundation, skeleton, architecture, blueprint",
-            "antonyms": "chaos, disorder, confusion, disorganization, anarchy, randomness",
+            "position": 14,
+            "synonyms": "structure, system, organization, foundation",
+            "antonyms": "chaos, disorganization, disorder, anarchy",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "কাঠামো",
                     "word_transliteration": "kathamo",
-                    "example_sentence_translation": "আইনি কাঠামো ন্যায়বিচারের ভিত্তি প্রদান করে।",
-                    "example_sentence_transliteration": "Ayini kathamo nyaybichar-er bhitti prodan kore.",
-                    "example_expression_translation": "নিয়ন্ত্রক কাঠামো",
-                    "example_expression_transliteration": "niyontrok kathamo",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "ढांचा",
-                    "word_transliteration": "dhancha",
-                    "example_sentence_translation": "कानूनी ढांचा न्याय की नींव प्रदान करता है।",
-                    "example_sentence_transliteration": "Kanooni dhancha nyay ki neenv pradan karta hai.",
-                    "example_expression_translation": "नियामक ढांचा",
-                    "example_expression_transliteration": "niyamak dhancha",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "marco",
-                    "word_transliteration": "márko",
-                    "example_sentence_translation": "El marco legal proporciona la base para la justicia.",
-                    "example_sentence_transliteration": "El márko legál proporsiána la báse pára la justísia.",
-                    "example_expression_translation": "marco regulatorio",
-                    "example_expression_transliteration": "márko regulatório",
+                    "example_sentence_translation": "শাসনের জন্য একটি শক্ত কাঠামো অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Shashoner jonno ekti shokto kathamo ottento guruttopurno.",
                     "source": "oxford"
                 }
             ]

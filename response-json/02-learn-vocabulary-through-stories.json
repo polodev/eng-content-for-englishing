@@ -1,14 +1,11 @@
 {
+    "position": 2,
     "title_translation": {
-        "en": "Plastic Waste Management Requires Investment and Infrastructure Development",
-        "hi": "प्लास्टिक अपशिष्ट प्रबंधन के लिए **investment** और **infrastructural development** की आवश्यकता",
-        "es": "La gestión de residuos plásticos requiere **investment** y **infrastructural development**",
+        "en": "Investment and Infrastructure Development Required for Plastic Waste Management",
         "bn": "প্লাস্টিক বর্জ্য ব্যবস্থাপনায় দরকার বিনিয়োগ ও অবকাঠামো উন্নয়ন"
     },
     "content_translation": {
-        "en": "Plastic pollution is now a global **challenge**, rooted in the **mismanagement** of plastic waste. Currently, an individual **consumes** 15 to 20 kg of plastic per year, which will reach 30 kg by 2030. This trend **indicates** the urgent **necessity** of plastic waste management. Experts believe that with the country's development, plastic **utilization** will increase. Therefore, developing **alternatives** to plastic is now essential. Alongside this, steps must be taken to **minimize** plastic use and create a **circular economy**. **Investment** and **infrastructural development** are essential for waste management. Lessons can be learned from **global initiatives**. For example, Singapore has already **reduced** 30% of plastic use in their country. We must **progress** on the same path. For this, **planning** and **implementation** must start from now.",
-        "hi": "प्लास्टिक प्रदूषण अब एक वैश्विक **challenge** है, जिसकी जड़ में प्लास्टिक कचरे का **mismanagement** है। वर्तमान में एक व्यक्ति वर्ष में 15 से 20 किलो प्लास्टिक **consumes** करता है, जो 2030 तक 30 किलो तक पहुंचेगा। यह प्रवृत्ति प्लास्टिक कचरा प्रबंधन की तत्काल **necessity** को **indicates** करती है। विशेषज्ञों का मानना है कि देश के विकास के साथ-साथ प्लास्टिक का **utilization** बढ़ेगा। इसलिए प्लास्टिक के **alternatives** का विकास अब अपरिहार्य है। इसके साथ ही, प्लास्टिक के उपयोग को **minimize** करने और एक **circular economy** बनाने के लिए कदम उठाने होंगे। कचरा प्रबंधन में **investment** और **infrastructural development** अपरिहार्य है। **Global initiatives** से सिखा जा सकता है। उदाहरण के लिए, सिंगापुर ने पहले से ही अपने देश में 30% प्लास्टिक का उपयोग **reduced** कर दिया है। हमें भी उसी पथ पर **progress** करना होगा। इसके लिए अब से ही **planning** और **implementation** शुरू करनी होगी।",
-        "es": "La contaminación plástica es ahora un **challenge** global, que tiene sus raíces en la **mismanagement** de los residuos plásticos. Actualmente, una persona **consumes** de 15 a 20 kg de plástico por año, lo cual llegará a 30 kg para 2030. Esta tendencia **indicates** la **necessity** urgente del manejo de residuos plásticos. Los expertos creen que con el desarrollo del país, la **utilization** del plástico aumentará. Por lo tanto, desarrollar **alternatives** al plástico es ahora esencial. Junto a esto, se deben tomar medidas para **minimize** el uso del plástico y crear una **circular economy**. El **investment** y **infrastructural development** son esenciales para el manejo de residuos. Se pueden aprender lecciones de **global initiatives**. Por ejemplo, Singapur ya ha **reduced** el 30% del uso de plástico en su país. También debemos **progress** en el mismo camino. Para esto, la **planning** e **implementation** deben comenzar desde ahora.",
+        "en": "Plastic pollution is now a global **challenge**, which is rooted in the **mismanagement** of plastic waste. Currently, an individual **consumes** 15 to 20 kg of plastic per year, which will reach 30 kg by 2030. This trend **indicates** the urgent **necessity** of plastic waste management. Experts believe that with the country's development, plastic **utilization** will increase. Therefore, developing some **alternatives** to plastic is now essential. Along with this, steps must be taken to **minimize** plastic use and create a **circular economy**. **Investment** and **infrastructural development** are essential for waste management. Learning can be taken from **global initiatives**. For example, Singapore has already **reduced** 30 percent of plastic use in their country. We also need to **progress** on the same path. For this, **planning** and **implementation** must start from now.",
         "bn": "প্লাস্টিক দূষণ এখন বৈশ্বিক **challenge**, যার মূলে রয়েছে প্লাস্টিক বর্জ্যের **mismanagement**। বর্তমানে একজন ব্যক্তি বছরে ১৫ থেকে ২০ কেজি প্লাস্টিক **consumes**, যা ২০৩০ সালের মধ্যে ৩০ কেজিতে পৌঁছাবে। এই প্রবণতা **indicates** প্লাস্টিক বর্জ্য ব্যবস্থাপনার জরুরি **necessity**। বিশেষজ্ঞরা মনে করেন, দেশের উন্নতির সঙ্গে সঙ্গে প্লাস্টিকের **utilization** বাড়বে। সুতরাং প্লাস্টিকের **alternative** কিছু উদ্ভাবন করা এখন অপরিহার্য। এর পাশাপাশি, প্লাস্টিকের ব্যবহার **minimize** করতে এবং একটি **circular economy** তৈরি করতে পদক্ষেপ নিতে হবে। বর্জ্য ব্যবস্থাপনায় **investment** ও **infrastructural development** অপরিহার্য। **Global initiatives** থেকে শিক্ষা নেওয়া যেতে পারে। উদাহরণস্বরূপ, সিঙ্গাপুর ইতিমধ্যেই তাদের দেশে ৩০ শতাংশ প্লাস্টিক ব্যবহার **reduced** করেছে। আমাদেরও একই পথে **progress** করতে হবে। এজন্য এখন থেকেই **planning** ও **implementation** শুরু করতে হবে।"
     },
     "list": [
@@ -16,58 +13,25 @@
             "word": "challenge",
             "phonetic": "ˈtʃælɪndʒ",
             "word_native_transliteration": {
-                "bn": "চ্যালেঞ্জ",
-                "hi": "चैलेंज",
-                "es": "chaléndsh"
+                "bn": "চ্যালেঞ্জ"
             },
             "parts_of_speech": "noun",
-            "emoji": "⚡",
-            "meaning": "A task or situation that tests someone's abilities; a difficult problem requiring effort to solve.",
+            "emoji": "💪",
+            "meaning": "A call to take part in a contest or competition, especially a demanding or stimulating one; a task or situation that tests someone's abilities.",
             "example_sentence": "Plastic pollution poses a significant challenge to global health.",
             "example_sentence_native_transliteration": {
-                "bn": "প্লাস্টিক পলিউশন পোজেস অ্যা সিগনিফিক্যান্ট চ্যালেঞ্জ টু গ্লোবাল হেলথ।",
-                "es": "plástic polúshion póses a signíficant chaléndsh tu glóbal jélth.",
-                "hi": "प्लास्टिक पॉल्यूशन पोज़ेस अ सिग्निफिकेंट चैलेंज टू ग्लोबल हेल्थ।"
+                "bn": "প্লাস্টিক পলিউশন পোজেস অ্যা সিগনিফিক্যান্ট চ্যালেঞ্জ টু গ্লোবাল হেলথ।"
             },
-            "example_expression": "global challenge",
-            "example_expression_native_transliteration": {
-                "bn": "গ্লোবাল চ্যালেঞ্জ",
-                "es": "glóbal chaléndsh",
-                "hi": "ग्लोबल चैलेंज"
-            },
-            "example_expression_meaning": "A worldwide problem that affects multiple countries and requires international cooperation to solve.",
             "position": 1,
-            "synonyms": "obstacle, difficulty, problem, hurdle, trial, test",
-            "antonyms": "solution, ease, simplicity, advantage, help, support",
+            "synonyms": "obstacle, difficulty",
+            "antonyms": "solution, ease",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "চ্যালেঞ্জ",
                     "word_transliteration": "challenge",
                     "example_sentence_translation": "প্লাস্টিক দূষণ বৈশ্বিক স্বাস্থ্যের জন্য একটি বড় চ্যালেঞ্জ।",
-                    "example_sentence_transliteration": "Plastic dushon boishvik shasthyer jonno ekti boro challenge.",
-                    "example_expression_translation": "বৈশ্বিক চ্যালেঞ্জ",
-                    "example_expression_transliteration": "boishvik challenge",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "चुनौती",
-                    "word_transliteration": "chunauti",
-                    "example_sentence_translation": "प्लास्टिक प्रदूषण वैश्विक स्वास्थ्य के लिए एक महत्वपूर्ण चुनौती है।",
-                    "example_sentence_transliteration": "Plastic pradushan vaishvik swasthya ke liye ek mahattvapurna chunauti hai.",
-                    "example_expression_translation": "वैश्विक चुनौती",
-                    "example_expression_transliteration": "vaishvik chunauti",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "desafío",
-                    "word_transliteration": "desafío",
-                    "example_sentence_translation": "La contaminación plástica representa un desafío significativo para la salud global.",
-                    "example_sentence_transliteration": "La kontaminasión plástika representa un desafío signifikatívo para la salúd globál.",
-                    "example_expression_translation": "desafío global",
-                    "example_expression_transliteration": "desafío globál",
+                    "example_sentence_transliteration": "Plastic dushon boishwik swasther jonno ekti bor challenge.",
                     "source": "oxford"
                 }
             ]
@@ -76,118 +40,52 @@
             "word": "mismanagement",
             "phonetic": "ˌmɪsˈmænɪdʒmənt",
             "word_native_transliteration": {
-                "bn": "মিসম্যানেজমেন্ট",
-                "hi": "मिसमैनेजमेंट",
-                "es": "mismanáchemént"
+                "bn": "মিসম্যানেজমেন্ট"
             },
             "parts_of_speech": "noun",
-            "emoji": "🔄",
-            "meaning": "The process of managing something badly or wrongly; poor administration or handling of affairs.",
+            "emoji": "❌",
+            "meaning": "Bad or careless management of something.",
             "example_sentence": "Mismanagement of plastic waste worsens pollution.",
             "example_sentence_native_transliteration": {
-                "bn": "মিসম্যানেজমেন্ট অফ প্লাস্টিক ওয়েস্ট ওয়ার্সেনস পলিউশন।",
-                "es": "mismanáchemént of plástic uést uórsens polúshion.",
-                "hi": "मिसमैनेजमेंट ऑफ प्लास्टिक वेस्ट वर्सेन्स पॉल्यूशन।"
+                "bn": "মিসম্যানেজমেন্ট অফ প্লাস্টিক ওয়েস্ট ওয়ার্সেনস পলিউশন।"
             },
-            "example_expression": "waste mismanagement",
-            "example_expression_native_transliteration": {
-                "bn": "ওয়েস্ট মিসম্যানেজমেন্ট",
-                "es": "uést mismanáchemént",
-                "hi": "वेस्ट मिसमैनेजमेंट"
-            },
-            "example_expression_meaning": "Poor handling and improper disposal of waste materials.",
             "position": 2,
-            "synonyms": "mishandling, inefficiency, poor administration, bad management, negligence",
-            "antonyms": "management, organization, efficiency, proper handling, good administration",
+            "synonyms": "mishandling, inefficiency",
+            "antonyms": "management, organization",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "অব্যবস্থাপনা",
-                    "word_transliteration": "obbybosthapana",
+                    "word_transliteration": "obybosthapona",
                     "example_sentence_translation": "প্লাস্টিক বর্জ্যের অব্যবস্থাপনা দূষণকে বাড়িয়ে তোলে।",
-                    "example_sentence_transliteration": "Plastic borjyer obbybosthapana dushonke bariye tole.",
-                    "example_expression_translation": "বর্জ্য অব্যবস্থাপনা",
-                    "example_expression_transliteration": "borjyo obbybosthapana",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "कुप्रबंधन",
-                    "word_transliteration": "kupranbandhan",
-                    "example_sentence_translation": "प्लास्टिक कचरे का कुप्रबंधन प्रदूषण को बढ़ाता है।",
-                    "example_sentence_transliteration": "Plastic kachre ka kupranbandhan pradushan ko badhata hai.",
-                    "example_expression_translation": "अपशिष्ट कुप्रबंधन",
-                    "example_expression_transliteration": "apshisht kupranbandhan",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "mala gestión",
-                    "word_transliteration": "mála chestión",
-                    "example_sentence_translation": "La mala gestión de los residuos plásticos empeora la contaminación.",
-                    "example_sentence_transliteration": "La mála chestión de los resíduos plástikos empeóra la kontaminasión.",
-                    "example_expression_translation": "mala gestión de residuos",
-                    "example_expression_transliteration": "mála chestión de resíduos",
+                    "example_sentence_transliteration": "Plastic borjyer obybosthapona dushonke bariye tole.",
                     "source": "oxford"
                 }
             ]
         },
         {
             "word": "consumes",
-            "phonetic": "kənˈsuːmz",
+            "phonetic": "kənˈsjuːmz",
             "word_native_transliteration": {
-                "bn": "কনসিউমস",
-                "hi": "कंज्यूम्स",
-                "es": "konsúms"
+                "bn": "কনসিউমস"
             },
             "parts_of_speech": "verb",
-            "emoji": "🍽️",
-            "meaning": "To use up a resource; to buy and use goods or services; to eat, drink, or ingest something.",
+            "emoji": "🔄",
+            "meaning": "Use up (a resource); eat, drink, or ingest (food or drink).",
             "example_sentence": "An individual consumes around 20 kg of plastic annually.",
             "example_sentence_native_transliteration": {
-                "bn": "অ্যান ইনডিভিজুয়াল কনসিউমস অ্যারাউন্ড ২০ কেজি অফ প্লাস্টিক অ্যানুয়ালি।",
-                "es": "an indivídiual konsúms aráund 20 kg of plástic anyuáli.",
-                "hi": "एन इंडिविज्युअल कंज्यूम्स अराउंड 20 केजी ऑफ प्लास्टिक एन्युअली।"
+                "bn": "অ্যান ইনডিভিজুয়াল কনসিউমস অ্যারাউন্ড ২০ কেজি অফ প্লাস্টিক অ্যানুয়ালি।"
             },
-            "example_expression": "consume resources",
-            "example_expression_native_transliteration": {
-                "bn": "কনসিউম রিসোর্সেস",
-                "es": "konsúm risórses",
-                "hi": "कंज्यूम रिसोर्सेज"
-            },
-            "example_expression_meaning": "To use up natural materials or supplies available for use.",
             "position": 3,
-            "synonyms": "uses, utilizes, deploys, employs, spends, exhausts",
-            "antonyms": "conserves, saves, preserves, stores, accumulates, retains",
+            "synonyms": "uses, utilizes",
+            "antonyms": "conserves, saves",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "ব্যবহার করা",
-                    "word_transliteration": "byabohar kora",
+                    "word_transliteration": "bybohar kora",
                     "example_sentence_translation": "একজন ব্যক্তি বছরে গড়ে ২০ কেজি প্লাস্টিক ব্যবহার করে।",
-                    "example_sentence_transliteration": "Ekjon byokti bochore gore 20 keji plastic byabohar kore.",
-                    "example_expression_translation": "সম্পদ ব্যবহার",
-                    "example_expression_transliteration": "shompod byabohar",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "उपभोग करना",
-                    "word_transliteration": "upbhog karna",
-                    "example_sentence_translation": "एक व्यक्ति सालाना लगभग 20 किलो प्लास्टिक का उपभोग करता है।",
-                    "example_sentence_transliteration": "Ek vyakti saalana lagbhag 20 kilo plastic ka upbhog karta hai.",
-                    "example_expression_translation": "संसाधन उपभोग",
-                    "example_expression_transliteration": "sansadhan upbhog",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "consume",
-                    "word_transliteration": "konsúme",
-                    "example_sentence_translation": "Un individuo consume alrededor de 20 kg de plástico anualmente.",
-                    "example_sentence_transliteration": "Un indivíduo konsúme alrededor de 20 kg de plástiko anyuálmente.",
-                    "example_expression_translation": "consumir recursos",
-                    "example_expression_transliteration": "konsumír rekúrsos",
+                    "example_sentence_transliteration": "Ekjon byokti bochhore gore 20 keji plastic bybohar kore.",
                     "source": "oxford"
                 }
             ]
@@ -196,118 +94,52 @@
             "word": "indicates",
             "phonetic": "ˈɪndɪkeɪts",
             "word_native_transliteration": {
-                "bn": "ইন্ডিকেটস",
-                "hi": "इंडिकेट्स",
-                "es": "índikéts"
+                "bn": "ইন্ডিকেটস"
             },
             "parts_of_speech": "verb",
             "emoji": "👉",
-            "meaning": "To point out or show; to be a sign or symptom of something; to suggest or demonstrate.",
+            "meaning": "Point out; show; be a sign or symptom of; suggest as a desirable or necessary course of action.",
             "example_sentence": "The rising trend indicates an urgent need for action.",
             "example_sentence_native_transliteration": {
-                "bn": "দ্য রাইজিং ট্রেন্ড ইন্ডিকেটস অ্যান আর্জেন্ট নিড ফর অ্যাকশন।",
-                "es": "de ráisin trend índikéts an úrchent níd for ákshion.",
-                "hi": "द राइज़िंग ट्रेंड इंडिकेट्स एन अर्जेंट नीड फॉर एक्शन।"
+                "bn": "দ্য রাইজিং ট্রেন্ড ইন্ডিকেটস অ্যান আর্জেন্ট নিড ফর অ্যাকশন।"
             },
-            "example_expression": "data indicates",
-            "example_expression_native_transliteration": {
-                "bn": "ডেটা ইন্ডিকেটস",
-                "es": "déta índikéts",
-                "hi": "डेटा इंडिकेट्स"
-            },
-            "example_expression_meaning": "Information or statistics show or suggest a particular conclusion.",
             "position": 4,
-            "synonyms": "shows, signifies, demonstrates, points to, suggests, reveals",
-            "antonyms": "conceals, hides, obscures, covers, masks, disguises",
+            "synonyms": "shows, signifies",
+            "antonyms": "conceals, hides",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "নির্দেশ করে",
                     "word_transliteration": "nirdesh kore",
                     "example_sentence_translation": "এই প্রবণতা জরুরি পদক্ষেপের প্রয়োজনীয়তা নির্দেশ করে।",
-                    "example_sentence_transliteration": "Ei probonota joruri podokkheper proyojoniyota nirdesh kore.",
-                    "example_expression_translation": "তথ্য নির্দেশ করে",
-                    "example_expression_transliteration": "tothyo nirdesh kore",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "संकेत देता है",
-                    "word_transliteration": "sanket deta hai",
-                    "example_sentence_translation": "बढ़ती प्रवृत्ति कार्रवाई की तत्काल आवश्यकता का संकेत देती है।",
-                    "example_sentence_transliteration": "Badhti pravritti kaarravai ki tatkaal aavashyakta ka sanket deti hai.",
-                    "example_expression_translation": "डेटा संकेत देता है",
-                    "example_expression_transliteration": "data sanket deta hai",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "indica",
-                    "word_transliteration": "índika",
-                    "example_sentence_translation": "La tendencia creciente indica una necesidad urgente de acción.",
-                    "example_sentence_transliteration": "La tendénsia kresiénte índika úna nesésidád urchénte de aksión.",
-                    "example_expression_translation": "los datos indican",
-                    "example_expression_transliteration": "los dátos índikan",
+                    "example_sentence_transliteration": "Ei probonota joruri podokkheper proyojoniyta nirdesh kore.",
                     "source": "oxford"
                 }
             ]
         },
         {
             "word": "necessity",
-            "phonetic": "nəˈsesəti",
+            "phonetic": "nɪˈsesɪti",
             "word_native_transliteration": {
-                "bn": "নেসেসিটি",
-                "hi": "नेसेसिटी",
-                "es": "nesésiti"
+                "bn": "নেসেসিটি"
             },
             "parts_of_speech": "noun",
-            "emoji": "⚠️",
-            "meaning": "The state or fact of being required; something that is needed or essential; an urgent requirement.",
+            "emoji": "⚡",
+            "meaning": "The fact of being required or indispensable; an indispensable thing.",
             "example_sentence": "Waste management is a necessity for environmental sustainability.",
             "example_sentence_native_transliteration": {
-                "bn": "ওয়েস্ট ম্যানেজমেন্ট ইজ অ্যা নেসেসিটি ফর এনভায়রনমেন্টাল সাসটেইনেবিলিটি।",
-                "es": "uést manáchemént is a nesésiti for enváirnmentál sosteinabíliti.",
-                "hi": "वेस्ट मैनेजमेंट इज़ अ नेसेसिटी फॉर एन्वायरनमेंटल सस्टेनेबिलिटी।"
+                "bn": "ওয়েস্ট ম্যানেজমেন্ট ইজ অ্যা নেসেসিটি ফর এনভায়রনমেন্টাল সাসটেইনেবিলিটি।"
             },
-            "example_expression": "urgent necessity",
-            "example_expression_native_transliteration": {
-                "bn": "আর্জেন্ট নেসেসিটি",
-                "es": "úrchent nesésiti",
-                "hi": "अर्जेंट नेसेसिटी"
-            },
-            "example_expression_meaning": "Something that is immediately required or essential; a critical need.",
             "position": 5,
-            "synonyms": "need, requirement, essential, imperative, must, obligation",
-            "antonyms": "luxury, option, choice, want, preference, dispensable",
+            "synonyms": "need, requirement",
+            "antonyms": "luxury, option",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "প্রয়োজনীয়তা",
-                    "word_transliteration": "proyojoniyota",
+                    "word_transliteration": "proyojoniyta",
                     "example_sentence_translation": "পরিবেশের স্থায়িত্বের জন্য বর্জ্য ব্যবস্থাপনা একটি প্রয়োজনীয়তা।",
-                    "example_sentence_transliteration": "Poribesh-er sthayittyer jonno borjyo byabosthapana ekti proyojoniyota.",
-                    "example_expression_translation": "জরুরি প্রয়োজনীয়তা",
-                    "example_expression_transliteration": "joruri proyojoniyota",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "आवश्यकता",
-                    "word_transliteration": "aavashyakta",
-                    "example_sentence_translation": "पर्यावरणीय स्थिरता के लिए अपशिष्ट प्रबंधन एक आवश्यकता है।",
-                    "example_sentence_transliteration": "Paryaavaraniya sthirata ke liye apshisht prabandhan ek aavashyakta hai.",
-                    "example_expression_translation": "तत्काल आवश्यकता",
-                    "example_expression_transliteration": "tatkaal aavashyakta",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "necesidad",
-                    "word_transliteration": "nesésidád",
-                    "example_sentence_translation": "La gestión de residuos es una necesidad para la sostenibilidad ambiental.",
-                    "example_sentence_transliteration": "La chestión de resíduos es úna nesésidád para la sostenibilidád ambiéntál.",
-                    "example_expression_translation": "necesidad urgente",
-                    "example_expression_transliteration": "nesésidád urchénte",
+                    "example_sentence_transliteration": "Poribosher sthaittyer jonno borjyo byobosthapona ekti proyojoniyta.",
                     "source": "oxford"
                 }
             ]
@@ -316,58 +148,25 @@
             "word": "utilization",
             "phonetic": "ˌjuːtɪlaɪˈzeɪʃən",
             "word_native_transliteration": {
-                "bn": "ইউটিলাইজেশন",
-                "hi": "यूटिलाइजेशन",
-                "es": "yutilaisáshion"
+                "bn": "ইউটিলাইজেশন"
             },
             "parts_of_speech": "noun",
             "emoji": "🔧",
-            "meaning": "The action of making practical and effective use of something; the process of using something efficiently.",
+            "meaning": "The action of making practical and effective use of something.",
             "example_sentence": "Increased plastic utilization calls for better waste management.",
             "example_sentence_native_transliteration": {
-                "bn": "ইনক্রিসড প্লাস্টিক ইউটিলাইজেশন কলস ফর বেটার ওয়েস্ট ম্যানেজমেন্ট।",
-                "es": "inkrísd plástic yutilaisáshion kols for béter uést manáchemént.",
-                "hi": "इन्क्रीस्ड प्लास्टिक यूटिलाइजेशन कॉल्स फॉर बेटर वेस्ट मैनेजमेंट।"
+                "bn": "ইনক্রিসড প্লাস্টিক ইউটিলাইজেশন কলস ফর বেটার ওয়েস্ট ম্যানেজমেন্ট।"
             },
-            "example_expression": "resource utilization",
-            "example_expression_native_transliteration": {
-                "bn": "রিসোর্স ইউটিলাইজেশন",
-                "es": "risórs yutilaisáshion",
-                "hi": "रिसोर्स यूटिलाइजेशन"
-            },
-            "example_expression_meaning": "The efficient and effective use of available resources or materials.",
             "position": 6,
-            "synonyms": "application, employment, usage, deployment, exploitation, use",
-            "antonyms": "neglect, waste, disuse, abandonment, misuse, squandering",
+            "synonyms": "application, employment",
+            "antonyms": "neglect, waste",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "ব্যবহার",
-                    "word_transliteration": "byabohar",
+                    "word_transliteration": "bybohar",
                     "example_sentence_translation": "প্লাস্টিক ব্যবহারের বৃদ্ধি উন্নত বর্জ্য ব্যবস্থাপনার প্রয়োজনীয়তা বাড়ায়।",
-                    "example_sentence_transliteration": "Plastic byaboharer briddhi unnoto borjyo byabosthapana-r proyojoniyota baray.",
-                    "example_expression_translation": "সম্পদ ব্যবহার",
-                    "example_expression_transliteration": "shompod byabohar",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "उपयोग",
-                    "word_transliteration": "upyog",
-                    "example_sentence_translation": "बढ़ते प्लास्टिक उपयोग से बेहतर अपशिष्ट प्रबंधन की आवश्यकता होती है।",
-                    "example_sentence_transliteration": "Badhte plastic upyog se behtar apshisht prabandhan ki aavashyakta hoti hai.",
-                    "example_expression_translation": "संसाधन उपयोग",
-                    "example_expression_transliteration": "sansadhan upyog",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "utilización",
-                    "word_transliteration": "utilisasión",
-                    "example_sentence_translation": "El aumento de la utilización del plástico requiere una mejor gestión de residuos.",
-                    "example_sentence_transliteration": "El auménto de la utilisasión del plástiko rekiére úna mechór chestión de resíduos.",
-                    "example_expression_translation": "utilización de recursos",
-                    "example_expression_transliteration": "utilisasión de rekúrsos",
+                    "example_sentence_transliteration": "Plastic byboharer briddhi unnoto borjyo byobosthapunar proyojoniyta baray.",
                     "source": "oxford"
                 }
             ]
@@ -376,58 +175,25 @@
             "word": "alternative",
             "phonetic": "ɔːlˈtɜːrnətɪv",
             "word_native_transliteration": {
-                "bn": "অল্টারনেটিভ",
-                "hi": "अल्टरनेटिव",
-                "es": "alternátiv"
+                "bn": "অল্টারনেটিভ"
             },
             "parts_of_speech": "noun",
             "emoji": "🔄",
-            "meaning": "One or more things available as another possibility; a choice or option that can be selected instead of something else.",
+            "meaning": "(Of one or more things) available as another possibility or choice.",
             "example_sentence": "Finding an alternative to plastic is essential.",
             "example_sentence_native_transliteration": {
-                "bn": "ফাইন্ডিং অ্যান অল্টারনেটিভ টু প্লাস্টিক ইজ এসেনশিয়াল।",
-                "es": "fáindin an alternátiv tu plástic is esénshial.",
-                "hi": "फाइंडिंग एन अल्टरनेटिव टू प्लास्टिक इज़ एसेंशियल।"
+                "bn": "ফাইন্ডিং অ্যান অল্টারনেটিভ টু প্লাস্টিক ইজ এসেনশিয়াল।"
             },
-            "example_expression": "eco-friendly alternative",
-            "example_expression_native_transliteration": {
-                "bn": "ইকো-ফ্রেন্ডলি অল্টারনেটিভ",
-                "es": "éko-fréndli alternátiv",
-                "hi": "इको-फ्रेंडली अल्टरनेटिव"
-            },
-            "example_expression_meaning": "An environmentally friendly option or substitute that causes less harm to nature.",
             "position": 7,
-            "synonyms": "substitute, replacement, option, choice, backup, equivalent",
-            "antonyms": "standard, primary, main, original, first choice, default",
+            "synonyms": "substitute, replacement",
+            "antonyms": "standard, primary",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "বিকল্প",
                     "word_transliteration": "bikalpo",
                     "example_sentence_translation": "প্লাস্টিকের বিকল্প খুঁজে বের করা অপরিহার্য।",
-                    "example_sentence_transliteration": "Plastic-er bikalpo khuje ber kora oporiharjo.",
-                    "example_expression_translation": "পরিবেশবান্ধব বিকল্প",
-                    "example_expression_transliteration": "poribesh-bandhob bikalpo",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "विकल्प",
-                    "word_transliteration": "vikalp",
-                    "example_sentence_translation": "प्लास्टिक का विकल्प खोजना आवश्यक है।",
-                    "example_sentence_transliteration": "Plastic ka vikalp khojna aavashyak hai.",
-                    "example_expression_translation": "पर्यावरण-अनुकूल विकल्प",
-                    "example_expression_transliteration": "paryaavaran-anukool vikalp",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "alternativa",
-                    "word_transliteration": "alternatíva",
-                    "example_sentence_translation": "Encontrar una alternativa al plástico es esencial.",
-                    "example_sentence_transliteration": "Enkontrár úna alternatíva al plástiko es esénsiál.",
-                    "example_expression_translation": "alternativa ecológica",
-                    "example_expression_transliteration": "alternatíva ekolóchika",
+                    "example_sentence_transliteration": "Plastiker bikalpo khuje ber kora oporiharjo.",
                     "source": "oxford"
                 }
             ]
@@ -436,118 +202,52 @@
             "word": "minimize",
             "phonetic": "ˈmɪnɪmaɪz",
             "word_native_transliteration": {
-                "bn": "মিনিমাইজ",
-                "hi": "मिनिमाइज़",
-                "es": "minimáis"
+                "bn": "মিনিমাইজ"
             },
             "parts_of_speech": "verb",
-            "emoji": "📉",
-            "meaning": "To reduce something to the smallest possible amount or degree; to make something as small as possible.",
+            "emoji": "⬇️",
+            "meaning": "Reduce (something, especially something unwanted or unpleasant) to the smallest possible amount or degree.",
             "example_sentence": "Efforts should be made to minimize plastic usage.",
             "example_sentence_native_transliteration": {
-                "bn": "এফোর্টস শুড বি মেড টু মিনিমাইজ প্লাস্টিক ইউসেজ।",
-                "es": "éforts shud bí méd tu minimáis plástic yúsech.",
-                "hi": "एफर्ट्स शुड बी मेड टू मिनिमाइज़ प्लास्टिक यूसेज।"
+                "bn": "এফোর্টস শুড বি মেড টু মিনিমাইজ প্লাস্টিক ইউসেজ।"
             },
-            "example_expression": "minimize waste",
-            "example_expression_native_transliteration": {
-                "bn": "মিনিমাইজ ওয়েস্ট",
-                "es": "minimáis uést",
-                "hi": "मिनिमाइज़ वेस्ट"
-            },
-            "example_expression_meaning": "To reduce the amount of unwanted or discarded materials to the lowest possible level.",
             "position": 8,
-            "synonyms": "reduce, lessen, decrease, diminish, cut down, lower",
-            "antonyms": "maximize, increase, amplify, expand, enlarge, boost",
+            "synonyms": "reduce, lessen",
+            "antonyms": "maximize, increase",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "কমানো",
                     "word_transliteration": "komano",
                     "example_sentence_translation": "প্লাস্টিক ব্যবহারের পরিমাণ কমানোর জন্য উদ্যোগ নেওয়া উচিত।",
-                    "example_sentence_transliteration": "Plastic byaboharer poriman komano-r jonno uddyog neowa uchit.",
-                    "example_expression_translation": "বর্জ্য কমানো",
-                    "example_expression_transliteration": "borjyo komano",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "न्यूनतम करना",
-                    "word_transliteration": "nyuntam karna",
-                    "example_sentence_translation": "प्लास्टिक के उपयोग को न्यूनतम करने के लिए प्रयास किए जाने चाहिए।",
-                    "example_sentence_transliteration": "Plastic ke upyog ko nyuntam karne ke liye prayas kiye jaane chahiye.",
-                    "example_expression_translation": "अपशिष्ट न्यूनतम करना",
-                    "example_expression_transliteration": "apshisht nyuntam karna",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "minimizar",
-                    "word_transliteration": "minimisár",
-                    "example_sentence_translation": "Se deben hacer esfuerzos para minimizar el uso del plástico.",
-                    "example_sentence_transliteration": "Se dében asér esfuérsos para minimisár el úso del plástiko.",
-                    "example_expression_translation": "minimizar residuos",
-                    "example_expression_transliteration": "minimisár resíduos",
+                    "example_sentence_transliteration": "Plastic byboharor poriman komano jonno uddyog neowa uchit.",
                     "source": "oxford"
                 }
             ]
         },
         {
             "word": "circular economy",
-            "phonetic": "ˈsɜːrkjʊlər ɪˈkɒnəmi",
+            "phonetic": "ˈsɜːrkjələr ɪˈkɒnəmi",
             "word_native_transliteration": {
-                "bn": "সারকুলার ইকোনমি",
-                "hi": "सर्कुलर इकॉनमी",
-                "es": "sírkulár ekonómi"
+                "bn": "সারকুলার ইকোনমি"
             },
             "parts_of_speech": "noun",
             "emoji": "♻️",
-            "meaning": "An economic system that eliminates waste through the continual use of resources in a closed loop, emphasizing reuse, recycling, and regeneration.",
+            "meaning": "An economic system aimed at eliminating waste and the continual use of resources through reuse, sharing, repair, refurbishment, remanufacturing and recycling.",
             "example_sentence": "Adopting a circular economy can reduce waste.",
             "example_sentence_native_transliteration": {
-                "bn": "অ্যাডপ্টিং অ্যা সারকুলার ইকোনমি কেন রিডিউস ওয়েস্ট।",
-                "es": "adóptin a sírkulár ekonómi kan ridyús uést.",
-                "hi": "एडाप्टिंग अ सर्कुलर इकॉनमी कैन रिड्यूस वेस्ट।"
+                "bn": "অ্যাডপ্টিং অ্যা সারকুলার ইকোনমি ক্যান রিডিউস ওয়েস্ট।"
             },
-            "example_expression": "transition to circular economy",
-            "example_expression_native_transliteration": {
-                "bn": "ট্রানজিশন টু সারকুলার ইকোনমি",
-                "es": "transíshion tu sírkulár ekonómi",
-                "hi": "ट्रांजिशन टू सर्कुलर इकॉनमी"
-            },
-            "example_expression_meaning": "The process of moving from a linear 'take-make-dispose' economy to a regenerative system.",
             "position": 9,
-            "synonyms": "sustainable economy, recycling-based economy, regenerative economy, closed-loop system",
-            "antonyms": "linear economy, throw-away economy, waste-based economy, single-use system",
+            "synonyms": "sustainable economy, recycling-based economy",
+            "antonyms": "linear economy",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "বৃত্তাকার অর্থনীতি",
                     "word_transliteration": "brittakar orthoniti",
                     "example_sentence_translation": "বৃত্তাকার অর্থনীতি গ্রহণ বর্জ্য কমাতে পারে।",
-                    "example_sentence_transliteration": "Brittakar orthoniti groho borjyo komate pare.",
-                    "example_expression_translation": "বৃত্তাকার অর্থনীতিতে রূপান্তর",
-                    "example_expression_transliteration": "brittakar orthoniti-te rupantor",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "चक्रीय अर्थव्यवस्था",
-                    "word_transliteration": "chakriya arthvyavastha",
-                    "example_sentence_translation": "चक्रीय अर्थव्यवस्था को अपनाने से कचरा कम हो सकता है।",
-                    "example_sentence_transliteration": "Chakriya arthvyavastha ko apnaane se kachra kam ho sakta hai.",
-                    "example_expression_translation": "चक्रीय अर्थव्यवस्था में संक्रमण",
-                    "example_expression_transliteration": "chakriya arthvyavastha mein sankraman",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "economía circular",
-                    "word_transliteration": "ekonomía sirkulár",
-                    "example_sentence_translation": "Adoptar una economía circular puede reducir los residuos.",
-                    "example_sentence_transliteration": "Adoptár úna ekonomía sirkulár púede redusír los resíduos.",
-                    "example_expression_translation": "transición a economía circular",
-                    "example_expression_transliteration": "transisión a ekonomía sirkulár",
+                    "example_sentence_transliteration": "Brittakar orthoniti grohon borjyo komate pare.",
                     "source": "oxford"
                 }
             ]
@@ -556,58 +256,25 @@
             "word": "investment",
             "phonetic": "ɪnˈvestmənt",
             "word_native_transliteration": {
-                "bn": "ইনভেস্টমেন্ট",
-                "hi": "इन्वेस्टमेंट",
-                "es": "inbestmént"
+                "bn": "ইনভেস্টমেন্ট"
             },
             "parts_of_speech": "noun",
             "emoji": "💰",
-            "meaning": "The action of investing money for profit or material result; a thing that is worth buying because it may be profitable or useful in the future.",
-            "example_sentence": "Investment in waste management infrastructure is crucial.",
+            "meaning": "The action or process of investing money for profit or material result.",
+            "example_sentence": "Investment in waste management infrastructure is essential.",
             "example_sentence_native_transliteration": {
-                "bn": "ইনভেস্টমেন্ট ইন ওয়েস্ট ম্যানেজমেন্ট ইনফ্রাস্ট্রাকচার ইজ ক্রুশিয়াল।",
-                "es": "inbestmént in uést manáchemént infrstrákchur is krúshial.",
-                "hi": "इन्वेस्टमेंट इन वेस्ट मैनेजमेंट इन्फ्रास्ट्रक्चर इज़ क्रूशियल।"
+                "bn": "ইনভেস্টমেন্ট ইন ওয়েস্ট ম্যানেজমেন্ট ইনফ্রাস্ট্রাকচার ইজ এসেনশিয়াল।"
             },
-            "example_expression": "public investment",
-            "example_expression_native_transliteration": {
-                "bn": "পাবলিক ইনভেস্টমেন্ট",
-                "es": "páblik inbestmént",
-                "hi": "पब्लिक इन्वेस्टमेंट"
-            },
-            "example_expression_meaning": "Government spending on infrastructure, services, or projects for public benefit.",
             "position": 10,
-            "synonyms": "funding, capital, financing, expenditure, outlay, allocation",
-            "antonyms": "withdrawal, divestment, expenditure, cost, expense, loss",
+            "synonyms": "funding, capital, financing",
+            "antonyms": "withdrawal, divestment",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "বিনিয়োগ",
                     "word_transliteration": "biniyog",
-                    "example_sentence_translation": "বর্জ্য ব্যবস্থাপনা অবকাঠামোতে বিনিয়োগ অত্যন্ত গুরুত্বপূর্ণ।",
-                    "example_sentence_transliteration": "Borjyo byabosthapana obokathamo-te biniyog ottyonto guruttopurno.",
-                    "example_expression_translation": "সরকারি বিনিয়োগ",
-                    "example_expression_transliteration": "shorkari biniyog",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "निवेश",
-                    "word_transliteration": "nivesh",
-                    "example_sentence_translation": "अपशिष्ट प्रबंधन बुनियादी ढांचे में निवेश महत्वपूर्ण है।",
-                    "example_sentence_transliteration": "Apshisht prabandhan buniyadi dhanche mein nivesh mahattvapurna hai.",
-                    "example_expression_translation": "सार्वजनिक निवेश",
-                    "example_expression_transliteration": "sarvajanik nivesh",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "inversión",
-                    "word_transliteration": "inbersión",
-                    "example_sentence_translation": "La inversión en infraestructura de gestión de residuos es crucial.",
-                    "example_sentence_transliteration": "La inbersión en infraestruktura de chestión de resíduos es krusiál.",
-                    "example_expression_translation": "inversión pública",
-                    "example_expression_transliteration": "inbersión públika",
+                    "example_sentence_translation": "বর্জ্য ব্যবস্থাপনার অবকাঠামোতে বিনিয়োগ অত্যাবশ্যক।",
+                    "example_sentence_transliteration": "Borjyo byobosthapanar obokathamoto biniyog ottyaboshyok.",
                     "source": "oxford"
                 }
             ]
@@ -616,58 +283,25 @@
             "word": "infrastructural development",
             "phonetic": "ˌɪnfrəˈstrʌktʃərəl dɪˈveləpmənt",
             "word_native_transliteration": {
-                "bn": "ইনফ্রাস্ট্রাকচারাল ডেভেলপমেন্ট",
-                "hi": "इन्फ्रास्ट्रक्चरल डेवलपमेंट",
-                "es": "infrastrukturál debelopmént"
+                "bn": "ইনফ্রাস্ট্রাকচারাল ডেভেলপমেন্ট"
             },
             "parts_of_speech": "noun",
             "emoji": "🏗️",
-            "meaning": "The process of building and improving basic facilities and systems needed for society to function properly, such as transportation, utilities, and public services.",
+            "meaning": "The process of building and improving the basic physical and organizational structures and facilities needed for the operation of a society or enterprise.",
             "example_sentence": "Infrastructural development is necessary for efficient recycling.",
             "example_sentence_native_transliteration": {
-                "bn": "ইনফ্রাস্ট্রাকচারাল ডেভেলপমেন্ট ইজ নেসেসারি ফর এফিশিয়েন্ট রিসাইক্লিং।",
-                "es": "infrastrukturál debelopmént is nesésari for efíshient risáiklaing.",
-                "hi": "इन्फ्रास्ट्रक्चरल डेवलपमेंट इज़ नेसेसरी फॉर एफिशिएंट रिसाइक्लिंग।"
+                "bn": "ইনফ্রাস্ট্রাকচারাল ডেভেলপমেন্ট ইজ নেসেসারি ফর এফিশিয়েন্ট রিসাইক্লিং।"
             },
-            "example_expression": "sustainable infrastructural development",
-            "example_expression_native_transliteration": {
-                "bn": "সাসটেইনেবল ইনফ্রাস্ট্রাকচারাল ডেভেলপমেন্ট",
-                "es": "sosteinábel infrastrukturál debelopmént",
-                "hi": "सस्टेनेबल इन्फ्रास्ट्रक्चरल डेवलपमेंट"
-            },
-            "example_expression_meaning": "Building basic facilities in a way that meets current needs without harming future generations.",
             "position": 11,
-            "synonyms": "structural growth, facility expansion, infrastructure building, system development",
-            "antonyms": "stagnation, deterioration, infrastructure decay, system breakdown",
+            "synonyms": "structural growth, facility expansion",
+            "antonyms": "stagnation, deterioration",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "অবকাঠামোগত উন্নয়ন",
                     "word_transliteration": "obokathamoto unnyon",
                     "example_sentence_translation": "দক্ষ পুনর্ব্যবহারের জন্য অবকাঠামোগত উন্নয়ন প্রয়োজন।",
-                    "example_sentence_transliteration": "Dokkhho punorbyaboharer jonno obokathamoto unnyon proyojon.",
-                    "example_expression_translation": "টেকসই অবকাঠামোগত উন্নয়ন",
-                    "example_expression_transliteration": "tekshoi obokathamoto unnyon",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "अवसंरचनात्मक विकास",
-                    "word_transliteration": "avasanrachnatmak vikas",
-                    "example_sentence_translation": "कुशल पुनर्चक्रण के लिए अवसंरचनात्मक विकास आवश्यक है।",
-                    "example_sentence_transliteration": "Kushal punarchakran ke liye avasanrachnatmak vikas aavashyak hai.",
-                    "example_expression_translation": "टिकाऊ अवसंरचनात्मक विकास",
-                    "example_expression_transliteration": "tikau avasanrachnatmak vikas",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "desarrollo de infraestructura",
-                    "word_transliteration": "desarróllo de infraestruktura",
-                    "example_sentence_translation": "El desarrollo de infraestructura es necesario para un reciclaje eficiente.",
-                    "example_sentence_transliteration": "El desarróllo de infraestruktura es nesésario para un resikcláche efisiénte.",
-                    "example_expression_translation": "desarrollo sostenible de infraestructura",
-                    "example_expression_transliteration": "desarróllo sostenible de infraestruktura",
+                    "example_sentence_transliteration": "Dokkho punorbyboharor jonno obokathamoto unnyon proyojon.",
                     "source": "oxford"
                 }
             ]
@@ -676,178 +310,79 @@
             "word": "global initiatives",
             "phonetic": "ˈɡloʊbəl ɪˈnɪʃətɪvz",
             "word_native_transliteration": {
-                "bn": "গ্লোবাল ইনিশিয়েটিভস",
-                "hi": "ग्लोबल इनिशिएटिव्स",
-                "es": "glóbal inisiátifs"
+                "bn": "গ্লোবাল ইনিশিয়েটিভস"
             },
             "parts_of_speech": "noun",
             "emoji": "🌍",
-            "meaning": "Worldwide efforts or programs designed to address international issues, involving multiple countries working together toward common goals.",
+            "meaning": "Worldwide efforts or programs aimed at addressing global challenges or achieving common goals.",
             "example_sentence": "Global initiatives inspire better waste management practices.",
             "example_sentence_native_transliteration": {
-                "bn": "গ্লোবাল ইনিশিয়েটিভস ইন্সপায়ার বেটার ওয়েস্ট ম্যানেজমেন্ট প্র্যাকটিসেস।",
-                "es": "glóbal inisiátifs inspáir béter uést manáchemént práktises.",
-                "hi": "ग्लोबल इनिशिएटिव्स इंस्पायर बेटर वेस्ट मैनेजमेंट प्रैक्टिसेज।"
+                "bn": "গ্লোবাল ইনিশিয়েটিভস ইন্সপায়ার বেটার ওয়েস্ট ম্যানেজমেন্ট প্র্যাকটিসেস।"
             },
-            "example_expression": "international global initiatives",
-            "example_expression_native_transliteration": {
-                "bn": "ইন্টারন্যাশনাল গ্লোবাল ইনিশিয়েটিভস",
-                "es": "internashonál glóbal inisiátifs",
-                "hi": "इंटरनेशनल ग्लोबल इनिशिएटिव्स"
-            },
-            "example_expression_meaning": "Worldwide programs involving cooperation between multiple nations on important issues.",
             "position": 12,
-            "synonyms": "international efforts, worldwide plans, global programs, multinational projects",
-            "antonyms": "local efforts, regional programs, national initiatives, isolated projects",
+            "synonyms": "international efforts, worldwide plans",
+            "antonyms": "local efforts",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "বৈশ্বিক উদ্যোগ",
-                    "word_transliteration": "boishvik uddyog",
+                    "word_transliteration": "boishwik uddyog",
                     "example_sentence_translation": "বৈশ্বিক উদ্যোগ বর্জ্য ব্যবস্থাপনার উন্নত পদ্ধতি উৎসাহিত করে।",
-                    "example_sentence_transliteration": "Boishvik uddyog borjyo byabosthapana-r unnoto poddhoti utsahito kore.",
-                    "example_expression_translation": "আন্তর্জাতিক বৈশ্বিক উদ্যোগ",
-                    "example_expression_transliteration": "antorjatik boishvik uddyog",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "वैश्विक पहल",
-                    "word_transliteration": "vaishvik pahal",
-                    "example_sentence_translation": "वैश्विक पहल बेहतर अपशिष्ट प्रबंधन प्रथाओं को प्रेरित करती है।",
-                    "example_sentence_transliteration": "Vaishvik pahal behtar apshisht prabandhan prathaon ko prerit karti hai.",
-                    "example_expression_translation": "अंतर्राष्ट्रीय वैश्विक पहल",
-                    "example_expression_transliteration": "antarrashtriya vaishvik pahal",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "iniciativas globales",
-                    "word_transliteration": "inisiátivas globáles",
-                    "example_sentence_translation": "Las iniciativas globales inspiran mejores prácticas de gestión de residuos.",
-                    "example_sentence_transliteration": "Las inisiátivas globáles inspíran mechóres práktkas de chestión de resíduos.",
-                    "example_expression_translation": "iniciativas globales internacionales",
-                    "example_expression_transliteration": "inisiátivas globáles internasionáles",
+                    "example_sentence_transliteration": "Boishwik uddyog borjyo byobosthapanar unnoto poddhoti utshahito kore.",
                     "source": "oxford"
                 }
             ]
         },
         {
             "word": "reduced",
-            "phonetic": "rɪˈduːst",
+            "phonetic": "rɪˈdjuːst",
             "word_native_transliteration": {
-                "bn": "রিডিউসড",
-                "hi": "रिड्यूस्ड",
-                "es": "redyúst"
+                "bn": "রিডিউসড"
             },
             "parts_of_speech": "verb",
             "emoji": "📉",
-            "meaning": "Made smaller or less in amount, degree, or size; decreased or diminished something.",
+            "meaning": "Make smaller or less in amount, degree, or size.",
             "example_sentence": "Singapore has reduced plastic usage significantly.",
             "example_sentence_native_transliteration": {
-                "bn": "সিঙ্গাপুর হ্যাজ রিডিউসড প্লাস্টিক ইউসেজ সিগনিফিক্যান্টলি।",
-                "es": "singápúr jás redyúst plástic yúsech signifiántli.",
-                "hi": "सिंगापुर हैज़ रिड्यूस्ड प्लास्टिक यूसेज सिग्निफिकेंटली।"
+                "bn": "সিঙ্গাপুর হ্যাজ রিডিউসড প্লাস্টিক ইউসেজ সিগনিফিক্যান্টলি।"
             },
-            "example_expression": "significantly reduced",
-            "example_expression_native_transliteration": {
-                "bn": "সিগনিফিক্যান্টলি রিডিউসড",
-                "es": "signifiántli redyúst",
-                "hi": "सिग्निफिकेंटली रिड्यूस्ड"
-            },
-            "example_expression_meaning": "Decreased by a large or important amount; substantially lowered.",
             "position": 13,
-            "synonyms": "diminished, decreased, lowered, cut, lessened, minimized",
-            "antonyms": "increased, escalated, raised, expanded, amplified, boosted",
+            "synonyms": "diminished, decreased",
+            "antonyms": "increased, escalated",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "হ্রাস করা",
-                    "word_transliteration": "hrash kora",
-                    "example_sentence_translation": "সিঙ্গাপুর প্লাস্টিকের ব্যবহার উল্লেখযোগ্যভাবে কমিয়েছে।",
-                    "example_sentence_transliteration": "Singapore plastic-er byabohar ullekhjoggyobhabe komiyeche.",
-                    "example_expression_translation": "উল্লেখযোগ্যভাবে হ্রাস",
-                    "example_expression_transliteration": "ullekhjoggyobhabe hrash",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "कम किया",
-                    "word_transliteration": "kam kiya",
-                    "example_sentence_translation": "सिंगापुर ने प्लास्टिक के उपयोग को महत्वपूर्ण रूप से कम किया है।",
-                    "example_sentence_transliteration": "Singapore ne plastic ke upyog ko mahattvapurna roop se kam kiya hai.",
-                    "example_expression_translation": "महत्वपूर्ण रूप से कम",
-                    "example_expression_transliteration": "mahattvapurna roop se kam",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "reducido",
-                    "word_transliteration": "redusído",
-                    "example_sentence_translation": "Singapur ha reducido significativamente el uso del plástico.",
-                    "example_sentence_transliteration": "Singapúr a redusído signifikatíbamente el úso del plástiko.",
-                    "example_expression_translation": "significativamente reducido",
-                    "example_expression_transliteration": "signifikatíbamente redusído",
+                    "word_transliteration": "hras kora",
+                    "example_sentence_translation": "সিঙ্গাপুর প্লাস্টিকের ব্যবহার উল্লেখযোগ্য ভাবে কমিয়েছে।",
+                    "example_sentence_transliteration": "Singapore plastiker bybohar ullekhjogjo bhabe komiyeche.",
                     "source": "oxford"
                 }
             ]
         },
         {
             "word": "progress",
-            "phonetic": "ˈprɒɡres",
+            "phonetic": "ˈprəʊɡres",
             "word_native_transliteration": {
-                "bn": "প্রোগ্রেস",
-                "hi": "प्रोग्रेस",
-                "es": "prógrés"
+                "bn": "প্রোগ্রেস"
             },
             "parts_of_speech": "noun",
             "emoji": "📈",
-            "meaning": "Forward movement toward a goal; development or improvement over time; advancement in a particular direction.",
+            "meaning": "Forward or onward movement towards a destination or a more advanced state.",
             "example_sentence": "Progress in recycling technologies can tackle pollution.",
             "example_sentence_native_transliteration": {
-                "bn": "প্রোগ্রেস ইন রিসাইক্লিং টেকনোলজিস কেন ট্যাকল পলিউশন।",
-                "es": "prógrés in risáiklaing teknólochis kan tákl polúshion.",
-                "hi": "प्रोग्रेस इन रिसाइक्लिंग टेक्नोलॉजीज़ कैन टैकल पॉल्यूशन।"
+                "bn": "প্রোগ্রেস ইন রিসাইক্লিং টেকনোলজিস ক্যান ট্যাকল পলিউশন।"
             },
-            "example_expression": "steady progress",
-            "example_expression_native_transliteration": {
-                "bn": "স্টেডি প্রোগ্রেস",
-                "es": "stédi prógrés",
-                "hi": "स्टेडी प्रोग्रेस"
-            },
-            "example_expression_meaning": "Consistent and reliable advancement or improvement over time.",
             "position": 14,
-            "synonyms": "advancement, improvement, development, growth, enhancement, evolution",
-            "antonyms": "regression, decline, deterioration, setback, stagnation, retreat",
+            "synonyms": "advancement, improvement",
+            "antonyms": "regression, decline",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "অগ্রগতি",
-                    "word_transliteration": "ogroggoti",
+                    "word_transliteration": "ogrogoti",
                     "example_sentence_translation": "পুনর্ব্যবহারের প্রযুক্তিতে অগ্রগতি দূষণ মোকাবিলা করতে পারে।",
-                    "example_sentence_transliteration": "Punorbyaboharer projuktite ogroggoti dushon mokabila korte pare.",
-                    "example_expression_translation": "স্থির অগ্রগতি",
-                    "example_expression_transliteration": "sthir ogroggoti",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "प्रगति",
-                    "word_transliteration": "pragati",
-                    "example_sentence_translation": "पुनर्चक्रण प्रौद्योगिकियों में प्रगति प्रदूषण से निपट सकती है।",
-                    "example_sentence_transliteration": "Punarchakran praudyogikiyaan mein pragati pradushan se nipat sakti hai.",
-                    "example_expression_translation": "स्थिर प्रगति",
-                    "example_expression_transliteration": "sthir pragati",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "progreso",
-                    "word_transliteration": "progréso",
-                    "example_sentence_translation": "El progreso en tecnologías de reciclaje puede abordar la contaminación.",
-                    "example_sentence_transliteration": "El progréso en teknolochías de resikláche púede abordár la kontaminasión.",
-                    "example_expression_translation": "progreso constante",
-                    "example_expression_transliteration": "progréso konstánte",
+                    "example_sentence_transliteration": "Punorbyboharor projuktite ogrogoti dushon mokabila korte pare.",
                     "source": "oxford"
                 }
             ]
@@ -856,58 +391,25 @@
             "word": "planning",
             "phonetic": "ˈplænɪŋ",
             "word_native_transliteration": {
-                "bn": "প্ল্যানিং",
-                "hi": "प्लानिंग",
-                "es": "pláning"
+                "bn": "প্ল্যানিং"
             },
             "parts_of_speech": "noun",
             "emoji": "📋",
-            "meaning": "The process of making plans for something; the act of deciding in detail how to do, arrange, or achieve something.",
+            "meaning": "The process of making plans for something; the control of urban development by a local government authority.",
             "example_sentence": "Effective planning ensures better waste management.",
             "example_sentence_native_transliteration": {
-                "bn": "ইফেকটিভ প্ল্যানিং এনশিউরস বেটার ওয়েস্ট ম্যানেজমেন্ট।",
-                "es": "eféktib pláning enshúrs béter uést manáchemént.",
-                "hi": "इफेक्टिव प्लानिंग एन्शूर्स बेटर वेस्ट मैनेजमेंट।"
+                "bn": "ইফেকটিভ প্ল্যানিং এনশিউরস বেটার ওয়েস্ট ম্যানেজমেন্ট।"
             },
-            "example_expression": "strategic planning",
-            "example_expression_native_transliteration": {
-                "bn": "স্ট্রেটেজিক প্ল্যানিং",
-                "es": "stratéchik pláning",
-                "hi": "स्ट्रैटेजिक प्लानिंग"
-            },
-            "example_expression_meaning": "Long-term planning that involves setting goals and determining actions to achieve them.",
             "position": 15,
-            "synonyms": "strategizing, organizing, preparation, arrangement, design, scheming",
-            "antonyms": "improvisation, spontaneity, randomness, chaos, disorder, haphazardness",
+            "synonyms": "strategizing, organizing",
+            "antonyms": "improvisation, spontaneity",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "পরিকল্পনা",
                     "word_transliteration": "porikolpona",
                     "example_sentence_translation": "কার্যকর পরিকল্পনা উন্নত বর্জ্য ব্যবস্থাপনা নিশ্চিত করে।",
-                    "example_sentence_transliteration": "Karjokor porikolpona unnoto borjyo byabosthapana nishchit kore.",
-                    "example_expression_translation": "কৌশলগত পরিকল্পনা",
-                    "example_expression_transliteration": "kousholgo porikolpona",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "योजना",
-                    "word_transliteration": "yojana",
-                    "example_sentence_translation": "प्रभावी योजना बेहतर अपशिष्ट प्रबंधन सुनिश्चित करती है।",
-                    "example_sentence_transliteration": "Prabhavi yojana behtar apshisht prabandhan sunishchit karti hai.",
-                    "example_expression_translation": "रणनीतिक योजना",
-                    "example_expression_transliteration": "rannitik yojana",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "planificación",
-                    "word_transliteration": "planifikasión",
-                    "example_sentence_translation": "La planificación efectiva asegura una mejor gestión de residuos.",
-                    "example_sentence_transliteration": "La planifikasión eféktiva asegúra úna mechór chestión de resíduos.",
-                    "example_expression_translation": "planificación estratégica",
-                    "example_expression_transliteration": "planifikasión estratéchika",
+                    "example_sentence_transliteration": "Karjyokor porikolpona unnoto borjyo byobosthapona nishchit kore.",
                     "source": "oxford"
                 }
             ]
@@ -916,58 +418,25 @@
             "word": "implementation",
             "phonetic": "ˌɪmplɪmenˈteɪʃən",
             "word_native_transliteration": {
-                "bn": "ইমপ্লিমেন্টেশন",
-                "hi": "इम्प्लीमेंटेशन",
-                "es": "implementáshion"
+                "bn": "ইমপ্লিমেন্টেশন"
             },
             "parts_of_speech": "noun",
             "emoji": "⚙️",
-            "meaning": "The process of putting a decision or plan into effect; the action of executing or carrying out a plan, policy, or strategy.",
+            "meaning": "The process of putting a decision or plan into effect; execution.",
             "example_sentence": "Proper implementation of policies is crucial.",
             "example_sentence_native_transliteration": {
-                "bn": "প্রপার ইমপ্লিমেন্টেশন অফ পলিসিস ইজ ক্রুশিয়াল।",
-                "es": "própor implementáshion of pólisis is krúshial.",
-                "hi": "प्रॉपर इम्प्लीमेंटेशन ऑफ पॉलिसीज़ इज़ क्रूशियल।"
+                "bn": "প্রপার ইমপ্লিমেন্টেশন অফ পলিসিস ইজ ক্রুশিয়াল।"
             },
-            "example_expression": "successful implementation",
-            "example_expression_native_transliteration": {
-                "bn": "সাকসেসফুল ইমপ্লিমেন্টেশন",
-                "es": "sáksesfúl implementáshion",
-                "hi": "सक्सेसफुल इम्प्लीमेंटेशन"
-            },
-            "example_expression_meaning": "The effective and complete execution of a plan or policy that achieves its intended results.",
             "position": 16,
-            "synonyms": "execution, application, enforcement, realization, enactment, fulfillment",
-            "antonyms": "neglect, ignorance, abandonment, suspension, discontinuation, failure",
+            "synonyms": "execution, application",
+            "antonyms": "neglect, ignorance",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "বাস্তবায়ন",
                     "word_transliteration": "bastobayan",
                     "example_sentence_translation": "নীতিমালার সঠিক বাস্তবায়ন অত্যন্ত গুরুত্বপূর্ণ।",
-                    "example_sentence_transliteration": "Nitimala-r shothik bastobayan ottyonto guruttopurno.",
-                    "example_expression_translation": "সফল বাস্তবায়ন",
-                    "example_expression_transliteration": "shofol bastobayan",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "कार्यान्वयन",
-                    "word_transliteration": "kaaryanvayan",
-                    "example_sentence_translation": "नीतियों का उचित कार्यान्वयन महत्वपूर्ण है।",
-                    "example_sentence_transliteration": "Nitiyon ka uchit kaaryanvayan mahattvapurna hai.",
-                    "example_expression_translation": "सफल कार्यान्वयन",
-                    "example_expression_transliteration": "safal kaaryanvayan",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "implementación",
-                    "word_transliteration": "implementasión",
-                    "example_sentence_translation": "La implementación adecuada de las políticas es crucial.",
-                    "example_sentence_transliteration": "La implementasión adekuáda de las polítkas es krusiál.",
-                    "example_expression_translation": "implementación exitosa",
-                    "example_expression_transliteration": "implementasión eksitósa",
+                    "example_sentence_transliteration": "Nitimalar sothik bastobayan ottonto guruttopurno.",
                     "source": "oxford"
                 }
             ]

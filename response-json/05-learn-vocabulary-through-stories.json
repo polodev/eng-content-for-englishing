@@ -1,433 +1,226 @@
 {
+    "position": 5,
     "title_translation": {
-        "en": "Are you rubbing your eyes? Hope no damage is occurring!",
-        "hi": "क्या आप अपनी आंखें रगड़ रहे हैं? उम्मीद है कोई नुकसान नहीं हो रहा!",
-        "es": "¿Te estás frotando los ojos? ¡Espero que no esté ocurriendo ningún daño!",
+        "en": "Are You Rubbing Your Eyes? Damage Is Happening!",
         "bn": "চোখ ঘষছেন? ক্ষতি হয়ে যাচ্ছে না তো!"
     },
     "content_translation": {
-        "en": "After waking up from sleep, we often **irritate** our eyes for no reason other than feeling a bit **exhausted**. We can't help but rub our itchy eyes. Doctors say that rubbing the eyes produces **lubrication**, which is **beneficial** for the eyes' **well-being**. Similarly, this simple action reduces mental stress by providing **stimulation** and helps keep the heartbeat normal. However, nothing in excess is good. The same **applies** to eye rubbing. Excessive **scrubbing** of the eyes can cause various serious damages. What are they? Let's find out! Dark circles around the eyes: Frequent eye rubbing causes blood to clot around the eyes. The **pigmentation** around the eyes that bothers us the most, those **dark circles**, are not just due to lack of sleep but also due to the **habit** of rubbing the eyes. Frequent eye rubbing breaks the **capillaries** around the eyes. This happens when the thin blood vessels under the eyes are damaged. Not only that, the **sudden** red blood vessels that appear in the white part of the eyes are also due to the same reason. Corneal damage: Rubbing the eyes with hands does cause some external damage. But the biggest damage is to the eye's **vision**. Excessive eye rubbing changes the shape of the cornea, giving birth to an **ocular** problem called **keratoconus**. This usually happens more when **debris** or dust enters the eyes. The **itchiness** or burning sensation that develops from this leads to habitual eye rubbing for quick relief. This increases the cornea's **fragility** and pushes toward **photosensitivity**.",
-        "hi": "नींद से उठकर, हम अक्सर बिना किसी कारण के अपनी आंखों को **irritate** करते हैं, बस थोड़ा **exhausted** महसूस करने के अलावा। हम अपनी खुजली वाली आंखों को रगड़ने से खुद को नहीं रोक सकते। डॉक्टर कहते हैं कि आंखों को रगड़ने से **lubrication** पैदा होती है, जो आंखों के **well-being** के लिए **beneficial** है। इसी तरह, यह सरल क्रिया **stimulation** प्रदान करके मानसिक तनाव को कम करती है और दिल की धड़कन को सामान्य रखने में मदद करती है। हालांकि, अत्यधिक कुछ भी अच्छा नहीं है। यही बात आंखों को रगड़ने के मामले में भी **applicable** है। आंखों की अत्यधिक **scrubbing** से विभिन्न गंभीर नुकसान हो सकते हैं। वे क्या हैं? आइए जानते हैं! आंखों के चारों ओर काले घेरे: बार-बार आंखों को रगड़ने से आंखों के चारों ओर खून जमना शुरू हो जाता है। आंखों के चारों ओर वह **pigmentation** जिससे हम सबसे ज्यादा परेशान होते हैं, वे **dark circles**, सिर्फ कम नींद के कारण नहीं बल्कि आंखों को रगड़ने की **habit** के कारण भी होते हैं। बार-बार आंखों को रगड़ने से आंखों के चारों ओर **capillaries** टूट जाती हैं। यह तब होता है जब आंखों के नीचे पतली रक्त नलिकाएं क्षतिग्रस्त हो जाती हैं। न केवल यह, आंखों के सफेद हिस्से में **sudden** लाल रक्त नलिकाएं जो दिखाई देती हैं, वे भी इसी कारण से होती हैं। कॉर्निया की क्षति: हाथों से आंखों को रगड़ना बाहरी कुछ नुकसान तो करता है। लेकिन सबसे बड़ा नुकसान आंख की **vision** को होता है। अत्यधिक आंख रगड़ना कॉर्निया का आकार बदल देता है, **keratoconus** नामक एक **ocular** समस्या को जन्म देता है। यह आमतौर पर तब अधिक होता है जब आंखों में **debris** या धूल मिट्टी घुस जाती है। इससे पैदा होने वाली **itchiness** या जलन से त्वरित राहत पाने के लिए आदतन आंख रगड़ी जाती है। यह कॉर्निया की **fragility** बढ़ाता है और **photosensitivity** की दिशा में धकेलता है।",
-        "es": "Después de despertarnos del sueño, a menudo **irritamos** nuestros ojos sin ninguna razón más que sentirnos un poco **exhausted**. No podemos evitar frotar nuestros ojos que pican. Los médicos dicen que frotar los ojos produce **lubrication**, que es **beneficial** para el **well-being** de los ojos. De manera similar, esta acción simple reduce el estrés mental proporcionando **stimulation** y ayuda a mantener normal el latido del corazón. Sin embargo, nada en exceso es bueno. Lo mismo es **applicable** para frotar los ojos. El **scrubbing** excesivo de los ojos puede causar varios daños graves. ¿Cuáles son? ¡Vamos a averiguarlo! Ojeras alrededor de los ojos: Frotar frecuentemente los ojos causa que la sangre se coagule alrededor de los ojos. La **pigmentation** alrededor de los ojos que más nos molesta, esos **dark circles**, no son solo debido a la falta de sueño sino también debido al **habit** de frotar los ojos. Frotar frecuentemente los ojos rompe los **capillaries** alrededor de los ojos. Esto sucede cuando los vasos sanguíneos delgados bajo los ojos se dañan. No solo eso, los vasos sanguíneos rojos **sudden** que aparecen en la parte blanca de los ojos también se deben a la misma razón. Daño corneal: Frotar los ojos con las manos sí causa algún daño externo. Pero el daño más grande es a la **vision** del ojo. Frotar excesivamente los ojos cambia la forma de la córnea, dando origen a un problema **ocular** llamado **keratoconus**. Esto generalmente sucede más cuando **debris** o polvo entra en los ojos. La **itchiness** o sensación de ardor que se desarrolla por esto lleva al frotado habitual de los ojos para alivio rápido. Esto aumenta la **fragility** de la córnea y empuja hacia **photosensitivity**.",
-        "bn": "ঘুম থেকে উঠে, একটু **exhausted** লাগলে বা কোনো কারণ ছাড়াই চোখ **irritate** করি আমরা। চোখ চুলকালে তো চুলকাবেই। চিকিৎসকেরা বলেন, চোখ ঘষলে চোখে **lubrication** উৎপন্ন হয়, যেটা কিনা চোখের **well-being** এর জন্য **beneficial**। একইসাথে এই একটি কাজ মানসিক চাপ কমিয়ে **stimulation** যোগায় এবং হৃদস্পন্দন স্বাভাবিক রাখতে সাহায্য করে। তবে অতিরিক্ত কিছুই ভালো না। চোখ ঘষার ক্ষেত্রেও সেটা **applicable**। চোখ অতিরিক্ত **scrub** করার ফলে হতে পারে নানা রকম বড় ধরনের ক্ষতি। কী সেগুলো? চলুন, জেনে নেওয়া যাক! চোখের ডার্ক সার্কেল বারবার চোখ ঘষলে চোখের চারপাশে রক্ত জমাট বাঁধতে শুরু করে। চোখ জুড়ে যে **pigmentation** নিয়ে আমরা বেশি সমস্যায় ভুগি, সেই **dark circles** এর পেছনে শুধু কম ঘুম নয়, আছে চোখ ঘষার **habit**। বারবার চোখ ঘষলে চোখের চারপাশে **capillaries** ভেঙে যায়। চোখের নিচে সরু রক্তনালী গুলো ক্ষতিগ্রস্ত হলে এমনটা হয়। শুধু তা-ই না, চোখের সাদা অংশে **sudden** যে লাল রক্তনালী গুলো ভেসে ওঠে, সেটার পেছনেও রয়েছে একই কারণ। কর্নিয়ার ক্ষতি চোখে হাত দিয়ে বেশি ডললে সেটা বাইরের সাধারণ কিছু ক্ষতি করে বটে। তবে সবচেয়ে বড় ক্ষতি করে চোখের **vision**। অতিরিক্ত চোখ ঘষা কর্নিয়ার আকার বদলে দিয়ে **keratoconus** নামক **ocular** সমস্যার জন্ম দেয়। সাধারণত এমনটা বেশি হয় যখন চোখে **debris** বা ধুলো বালি ঢোকে। সেটা থেকে তৈরি হওয়া **itchiness** বা জ্বালাপোড়া থেকে দ্রুত মুক্তি পেতে অভ্যাসবশত চোখ ঘষা হয়। এটি কর্নিয়ার **fragility** বাড়ায় এবং **photosensitivity** এর দিকে ঠেলে দেয়।"
+        "en": "After waking up from sleep, feeling a little **exhausted**, for some reason or without any reason, we **irritate** our eyes. When the eyes itch, they will inevitably be rubbed. Doctors say that rubbing the eyes produces **lubrication** in the eyes, which is **beneficial** for the **well-being** of the eyes. At the same time, this action reduces mental stress by providing **stimulation** and helps maintain normal **heartbeat**. But too much of anything is not good. This is also **applicable** in the case of eye rubbing. Excessive **scrubbing** of the eyes can cause various major damages. What are they? Come on, let's find out!\n\nDark circles in the eyes: When you rub your eyes repeatedly, blood starts to clot around the eyes. The **pigmentation** around the eyes that causes us the most problems, those **dark circles** are not just due to lack of sleep, but also due to the **habit** of rubbing the eyes. Repeated eye rubbing breaks the **capillaries** around the eyes. This happens when the thin blood vessels under the eyes are damaged. Not only that, the **sudden** red blood vessels that burst in the white part of the eye are also due to the same reason.\n\nCorneal damage: Rubbing the eyes too much with hands does cause some external damage. But the biggest damage is to the eye's **vision**. Excessive eye rubbing changes the shape of the cornea and gives birth to an ocular problem called **keratoconus**. This usually happens more when **debris** or dust enters the eyes. The **itchiness** or burning sensation created from it leads to habitual eye rubbing to get quick relief. This increases the **fragility** of the cornea and pushes towards **photosensitivity**.",
+        "bn": "ঘুম থেকে উঠে, একটু **exhausted** লাগলে বা কোনো কারণ ছাড়াই চোখ **irritate** করি আমরা। চোখ চুলকালে তো চুলকাবেই। চিকিৎসকেরা বলেন, চোখ ঘষলে চোখে **lubrication** উৎপন্ন হয়, যেটা কিনা চোখের **well-being** এর জন্য **beneficial**। একইসাথে এই একটি কাজ মানসিক চাপ কমিয়ে **stimulation** যোগায় এবং হৃদস্পন্দন স্বাভাবিক রাখতে সাহায্য করে। তবে অতিরিক্ত কিছুই ভালো না। চোখ ঘষার ক্ষেত্রেও সেটা **applicable**। চোখ অতিরিক্ত **scrub** করার ফলে হতে পারে নানা রকম বড় ধরনের ক্ষতি। কী সেগুলো? চলুন, জেনে নেওয়া যাক! চোখের ডার্ক সার্কেল বারবার চোখ ঘষলে চোখের চারপাশে রক্ত জমাট বাঁধতে শুরু করে। চোখ জুড়ে যে **pigmentation** নিয়ে আমরা বেশি সমস্যায় ভুগি, সেই **dark circles** এর পেছনে শুধু কম ঘুম নয়, আছে চোখ ঘষার **habit**। বারবার চোখ ঘষলে চোখের চারপাশে **capillaries** ভেঙে যায়। চোখের নিচে সরু রক্তনালী গুলো ক্ষতিগ্রস্ত হলে এমনটা হয়। শুধু তা-ই না, চোখের সাদা অংশে **sudden** যে লাল রক্তনালী গুলো ভেসে ওঠে, সেটার পেছনেও রয়েছে একই কারণ। কর্নিয়ার ক্ষতি চোখে হাত দিয়ে বেশি ডললে সেটা বাইরের সাধারণ কিছু ক্ষতি করে বটে। তবে সবচেয়ে বড় ক্ষতি করে চোখের **vision**। অতিরিক্ত চোখ ঘষা কর্নিয়ার আকার বদলে দিয়ে **keratoconus** নামক ocular সমস্যার জন্ম দেয়। সাধারণত এমনটা বেশি হয় যখন চোখে **debris** বা ধুলো বালি ঢোকে। সেটা থেকে তৈরি হওয়া **itchiness** বা জ্বালাপোড়া থেকে দ্রুত মুক্তি পেতে অভ্যাসবশত চোখ ঘষা হয়। এটি কর্নিয়ার **fragility** বাড়ায় এবং **photosensitivity** এর দিকে ঠেলে দেয়।"
     },
     "list": [
         {
             "word": "exhausted",
-            "phonetic": "/ɪɡˈzɔːstɪd/",
+            "phonetic": "/ɪɡˈzɔː.stɪd/",
             "word_native_transliteration": {
-                "bn": "ইগজস্টেড",
-                "hi": "इग्ज़ॉस्टेड",
-                "es": "igzósted"
+                "bn": "এগজস্টেড"
             },
             "parts_of_speech": "adjective",
             "emoji": "😴",
             "meaning": "Extremely tired; having no energy left.",
-            "example_sentence": "After working all night, she felt completely exhausted.",
+            "example_sentence": "Feeling exhausted after waking up is common.",
             "example_sentence_native_transliteration": {
-                "bn": "আফটার ওয়ার্কিং অল নাইট, শি ফেল্ট কমপ্লিটলি ইগজস্টেড।",
-                "hi": "आफ्टर वर्किंग ऑल नाइट, शी फेल्ट कमप्लीटली इग्ज़ॉस्टेड।",
-                "es": "áfter uórking ol náit, shí felt kompletli igzósted."
+                "bn": "ফিলিং এগজস্টেড আফটার ওয়েকিং আপ ইজ কমন।"
             },
-            "example_expression": "exhausted from work",
-            "example_expression_native_transliteration": {
-                "bn": "ইগজস্টেড ফ্রম ওয়ার্ক",
-                "hi": "इग्ज़ॉस्टेड फ्रम वर्क",
-                "es": "igzósted from uórk"
-            },
-            "example_expression_meaning": "Being extremely tired due to work-related activities.",
             "position": 1,
-            "synonyms": "tired, drained, weary, fatigued, worn out, depleted",
-            "antonyms": "energetic, refreshed, revitalized, invigorated, rested",
+            "synonyms": "tired, fatigued, drained, weary, worn out, depleted",
+            "antonyms": "energetic, refreshed, invigorated, revitalized, rejuvenated, vigorous",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "ক্লান্ত",
                     "word_transliteration": "klanto",
-                    "example_sentence_translation": "সারারাত কাজ করার পর তিনি সম্পূর্ণভাবে ক্লান্ত বোধ করেছিলেন।",
-                    "example_sentence_transliteration": "Sharaarat kaj korar por tini shompurnobhabe klanto bodh korechilen.",
-                    "example_expression_translation": "কাজে ক্লান্ত",
-                    "example_expression_transliteration": "kaje klanto",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "थकावट",
-                    "word_transliteration": "thakawat",
-                    "example_sentence_translation": "रात भर काम करने के बाद वह पूरी तरह थक गई थी।",
-                    "example_sentence_transliteration": "Raat bhar kaam karne ke baad wah poori tarah thak gayi thi.",
-                    "example_expression_translation": "काम से थकी हुई",
-                    "example_expression_transliteration": "kaam se thaki hui",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "agotado",
-                    "word_transliteration": "agotádo",
-                    "example_sentence_translation": "Después de trabajar toda la noche, se sentía completamente agotada.",
-                    "example_sentence_transliteration": "Despwés de trabahar tóda la nóche, se sentía kompletaménte agotáda.",
-                    "example_expression_translation": "agotado del trabajo",
-                    "example_expression_transliteration": "agotádo del trabáho",
+                    "example_sentence_translation": "ঘুম থেকে উঠে ক্লান্তি অনুভব করা স্বাভাবিক।",
+                    "example_sentence_transliteration": "Ghum theke uthe klanti onubhob kora svabhabik.",
                     "source": "oxford"
                 }
             ]
         },
         {
             "word": "irritate",
-            "phonetic": "/ˈɪrɪteɪt/",
+            "phonetic": "/ˈɪr.ɪ.teɪt/",
             "word_native_transliteration": {
-                "bn": "ইরিটেট",
-                "hi": "इरिटेट",
-                "es": "irítet"
+                "bn": "ইরিটেট"
             },
             "parts_of_speech": "verb",
             "emoji": "😤",
-            "meaning": "To make someone annoyed or slightly angry; to cause discomfort to a part of the body.",
-            "example_sentence": "The dust in the air began to irritate her eyes.",
+            "meaning": "To make someone annoyed or angry; to cause discomfort or inflammation.",
+            "example_sentence": "Rubbing your eyes can irritate them.",
             "example_sentence_native_transliteration": {
-                "bn": "দ্য ডাস্ট ইন দ্য এয়ার বিগ্যান টু ইরিটেট হার আইজ।",
-                "hi": "द डस्ट इन द एयर बिगैन टु इरिटेट हर आइज़।",
-                "es": "de dast in de éar bigán tu irítet jer áis."
+                "bn": "রাবিং ইয়োর আইজ ক্যান ইরিটেট দেম।"
             },
-            "example_expression": "irritate the skin",
-            "example_expression_native_transliteration": {
-                "bn": "ইরিটেট দ্য স্কিন",
-                "hi": "इरिटेट द स्किन",
-                "es": "irítet de skin"
-            },
-            "example_expression_meaning": "To cause inflammation or discomfort to the skin.",
             "position": 2,
-            "synonyms": "annoy, vex, bother, inflame, aggravate, provoke",
-            "antonyms": "soothe, calm, pacify, comfort, please",
+            "synonyms": "annoy, vex, aggravate, inflame, provoke, bother",
+            "antonyms": "soothe, calm, pacify, comfort, relieve, mollify",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "জ্বালাতন করা",
-                    "word_transliteration": "jwalaton kora",
-                    "example_sentence_translation": "বাতাসে ধুলো তার চোখে জ্বালাতন করতে শুরু করল।",
-                    "example_sentence_transliteration": "Batashe dhulo tar chokhe jwalaton korte shuru korol.",
-                    "example_expression_translation": "ত্বকে জ্বালাতন করা",
-                    "example_expression_transliteration": "twoke jwalaton kora",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "परेशान करना",
-                    "word_transliteration": "pareshan karna",
-                    "example_sentence_translation": "हवा में धूल उसकी आंखों को परेशान करने लगी।",
-                    "example_sentence_transliteration": "Hawa mein dhool uski aankhon ko pareshan karne lagi.",
-                    "example_expression_translation": "त्वचा को परेशान करना",
-                    "example_expression_transliteration": "twacha ko pareshan karna",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "irritar",
-                    "word_transliteration": "irritár",
-                    "example_sentence_translation": "El polvo en el aire comenzó a irritar sus ojos.",
-                    "example_sentence_transliteration": "El pólvo en el áire komensó a irritár sus óhos.",
-                    "example_expression_translation": "irritar la piel",
-                    "example_expression_transliteration": "irritár la piél",
+                    "word_transliteration": "jjalaton kora",
+                    "example_sentence_translation": "চোখ ঘষলে তা জ্বালাতন করতে পারে।",
+                    "example_sentence_transliteration": "Chokh ghoshle ta jjalaton korte pare.",
                     "source": "oxford"
                 }
             ]
         },
         {
             "word": "lubrication",
-            "phonetic": "/ˌluːbrɪˈkeɪʃən/",
+            "phonetic": "/ˌluː.brɪˈkeɪ.ʃən/",
             "word_native_transliteration": {
-                "bn": "লুব্রিকেশন",
-                "hi": "लुब्रिकेशन",
-                "es": "lubrikéshon"
+                "bn": "লুব্রিকেশন"
             },
             "parts_of_speech": "noun",
             "emoji": "💧",
-            "meaning": "The application of a substance such as oil or grease to diminish friction between two surfaces.",
-            "example_sentence": "Proper lubrication is essential for machine maintenance.",
+            "meaning": "The action of applying a substance to reduce friction between surfaces in mutual contact.",
+            "example_sentence": "Lubrication of the eyes is essential for well-being.",
             "example_sentence_native_transliteration": {
-                "bn": "প্রপার লুব্রিকেশন ইজ এসেনশিয়াল ফর মেশিন মেইনটেনেন্স।",
-                "hi": "प्रॉपर लुब्रिकेशन इज़ एसेंशियल फॉर मशीन मेंटेनेंस।",
-                "es": "próper lubrikéshon is esénshial for mashín méintenans."
+                "bn": "লুব্রিকেশন অফ দা আইজ ইজ এসেনশিয়াল ফর ওয়েল-বিইং।"
             },
-            "example_expression": "natural lubrication",
-            "example_expression_native_transliteration": {
-                "bn": "ন্যাচারাল লুব্রিকেশন",
-                "hi": "नैचुरल लुब्रिकेशन",
-                "es": "náchural lubrikéshon"
-            },
-            "example_expression_meaning": "The body's own natural moisture and oils that reduce friction.",
             "position": 3,
-            "synonyms": "lubricity, oiling, greasing, moistening",
-            "antonyms": "dryness, friction, abrasion",
+            "synonyms": "moistening, oiling, greasing, wetting, smoothening, slicking",
+            "antonyms": "dryness, friction, roughness, abrasion, grinding, chafing",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "তৈলাক্তকরণ",
                     "word_transliteration": "toilaktokoron",
-                    "example_sentence_translation": "যন্ত্রের রক্ষণাবেক্ষণের জন্য যথাযথ তৈলাক্তকরণ অপরিহার্য।",
-                    "example_sentence_transliteration": "Jontrer rokkhonabeksshoner jonno jothajotho toilaktokoron oporhinarjo.",
-                    "example_expression_translation": "প্রাকৃতিক তৈলাক্তকরণ",
-                    "example_expression_transliteration": "prakritik toilaktokoron",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "स्नेहन",
-                    "word_transliteration": "snehan",
-                    "example_sentence_translation": "मशीन के रखरखाव के लिए उचित स्नेहन आवश्यक है।",
-                    "example_sentence_transliteration": "Machine ke rakhrakhaav ke liye uchit snehan aavashyak hai.",
-                    "example_expression_translation": "प्राकृतिक स्नेहन",
-                    "example_expression_transliteration": "praakritik snehan",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "lubricación",
-                    "word_transliteration": "lubrikasión",
-                    "example_sentence_translation": "La lubricación adecuada es esencial para el mantenimiento de máquinas.",
-                    "example_sentence_transliteration": "La lubrikasión adekwáda es esensial pára el mantenimiénto de mákinas.",
-                    "example_expression_translation": "lubricación natural",
-                    "example_expression_transliteration": "lubrikasión natúral",
+                    "example_sentence_translation": "চোখের তৈলাক্তকরণ স্বাস্থ্যের জন্য গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Chokher toilaktokoron svasther jonno gurutbopurno.",
                     "source": "oxford"
                 }
             ]
         },
         {
             "word": "well-being",
-            "phonetic": "/ˈwelˌbiːɪŋ/",
+            "phonetic": "/ˈwelˌbiː.ɪŋ/",
             "word_native_transliteration": {
-                "bn": "ওয়েল-বিইং",
-                "hi": "वेल-बींग",
-                "es": "uel-bíing"
+                "bn": "ওয়েল-বিইং"
             },
             "parts_of_speech": "noun",
             "emoji": "🌟",
             "meaning": "The state of being comfortable, healthy, or happy.",
-            "example_sentence": "Regular exercise contributes to overall well-being.",
+            "example_sentence": "Eye lubrication is crucial for overall well-being.",
             "example_sentence_native_transliteration": {
-                "bn": "রেগুলার এক্সারসাইজ কনট্রিবিউটস টু ওভারঅল ওয়েল-বিইং।",
-                "hi": "रेगुलर एक्सरसाइज़ कंट्रिब्यूट्स टू ओवरऑल वेल-बींग।",
-                "es": "régular eksersáis kontribúts tu óverọl uel-bíing."
+                "bn": "আই লুব্রিকেশন ইজ ক্রুশিয়াল ফর ওভারঅল ওয়েল-বিইং।"
             },
-            "example_expression": "mental well-being",
-            "example_expression_native_transliteration": {
-                "bn": "মেন্টাল ওয়েল-বিইং",
-                "hi": "मेंटल वेल-बींग",
-                "es": "méntal uel-bíing"
-            },
-            "example_expression_meaning": "The state of psychological health and happiness.",
             "position": 4,
-            "synonyms": "welfare, health, happiness, prosperity, comfort",
-            "antonyms": "illness, misery, distress, suffering",
+            "synonyms": "welfare, health, happiness, comfort, prosperity, flourishing",
+            "antonyms": "illness, misery, suffering, distress, hardship, affliction",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "মঙ্গল",
                     "word_transliteration": "mongol",
-                    "example_sentence_translation": "নিয়মিত ব্যায়াম সামগ্রিক মঙ্গলে অবদান রাখে।",
-                    "example_sentence_transliteration": "Niyomit byayam shamorik mongole obodan rakhe.",
-                    "example_expression_translation": "মানসিক মঙ্গল",
-                    "example_expression_transliteration": "manoshik mongol",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "कल्याण",
-                    "word_transliteration": "kalyaan",
-                    "example_sentence_translation": "नियमित व्यायाम समग्र कल्याण में योगदान देता है।",
-                    "example_sentence_transliteration": "Niyamit vyayam samagra kalyaan mein yogdaan deta hai.",
-                    "example_expression_translation": "मानसिक कल्याण",
-                    "example_expression_transliteration": "maansik kalyaan",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "bienestar",
-                    "word_transliteration": "bienestár",
-                    "example_sentence_translation": "El ejercicio regular contribuye al bienestar general.",
-                    "example_sentence_transliteration": "El hersísio regulár kontribúye al bienestár henerál.",
-                    "example_expression_translation": "bienestar mental",
-                    "example_expression_transliteration": "bienestár mentál",
+                    "example_sentence_translation": "চোখের তৈলাক্তকরণ সামগ্রিক মঙ্গলের জন্য গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Chokher toilaktokoron samogorik mongoler jonno gurutbopurno.",
                     "source": "oxford"
                 }
             ]
         },
         {
             "word": "beneficial",
-            "phonetic": "/ˌbenɪˈfɪʃəl/",
+            "phonetic": "/ˌben.ɪˈfɪʃ.əl/",
             "word_native_transliteration": {
-                "bn": "বেনিফিশিয়াল",
-                "hi": "बेनिफिशियल",
-                "es": "benefishial"
+                "bn": "বেনিফিশিয়াল"
             },
             "parts_of_speech": "adjective",
             "emoji": "✅",
             "meaning": "Resulting in good; favorable or advantageous.",
-            "example_sentence": "A balanced diet is beneficial for your health.",
+            "example_sentence": "Eye rubbing can be beneficial in moderation.",
             "example_sentence_native_transliteration": {
-                "bn": "এ ব্যালানসড ডায়েট ইজ বেনিফিশিয়াল ফর ইয়োর হেলথ।",
-                "hi": "अ बैलेंसड डाइट इज़ बेनिफिशियल फॉर योर हेल्थ।",
-                "es": "a balánsd dáiet is benefishial for ior jélth."
+                "bn": "আই রাবিং ক্যান বি বেনিফিশিয়াল ইন মডারেশন।"
             },
-            "example_expression": "beneficial effects",
-            "example_expression_native_transliteration": {
-                "bn": "বেনিফিশিয়াল ইফেক্টস",
-                "hi": "बेनिफिशियल इफेक्ट्स",
-                "es": "benefishial eféts"
-            },
-            "example_expression_meaning": "Positive or helpful outcomes or results.",
             "position": 5,
-            "synonyms": "helpful, advantageous, favorable, useful, profitable",
-            "antonyms": "harmful, detrimental, disadvantageous, damaging",
+            "synonyms": "helpful, advantageous, useful, favorable, good, positive",
+            "antonyms": "harmful, detrimental, damaging, adverse, negative, disadvantageous",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "উপকারী",
                     "word_transliteration": "upokari",
-                    "example_sentence_translation": "একটি সুষম খাদ্য আপনার স্বাস্থ্যের জন্য উপকারী।",
-                    "example_sentence_transliteration": "Ekti shushom khadyo apnar shwasthoer jonno upokari.",
-                    "example_expression_translation": "উপকারী প্রভাব",
-                    "example_expression_transliteration": "upokari probhab",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "लाभकारी",
-                    "word_transliteration": "laabhkaari",
-                    "example_sentence_translation": "संतुलित आहार आपके स्वास्थ्य के लिए लाभकारी है।",
-                    "example_sentence_transliteration": "Santulit aahaar aapke swasthya ke liye laabhkaari hai.",
-                    "example_expression_translation": "लाभकारी प्रभाव",
-                    "example_expression_transliteration": "laabhkaari prabhaav",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "beneficioso",
-                    "word_transliteration": "benefisióso",
-                    "example_sentence_translation": "Una dieta equilibrada es beneficiosa para tu salud.",
-                    "example_sentence_transliteration": "Úna diéta ekilbrāda es benefisiósa pára tu salúd.",
-                    "example_expression_translation": "efectos beneficiosos",
-                    "example_expression_transliteration": "efétos benefisiósos",
+                    "example_sentence_translation": "পরিমিত চোখ ঘষা উপকারী হতে পারে।",
+                    "example_sentence_transliteration": "Porimito chokh ghosha upokari hote pare.",
                     "source": "oxford"
                 }
             ]
         },
         {
             "word": "stimulation",
-            "phonetic": "/ˌstɪmjəˈleɪʃən/",
+            "phonetic": "/ˌstɪm.jəˈleɪ.ʃən/",
             "word_native_transliteration": {
-                "bn": "স্টিমুলেশন",
-                "hi": "स्टिम्युलेशन",
-                "es": "stimuléshon"
+                "bn": "স্টিমুলেশন"
             },
             "parts_of_speech": "noun",
             "emoji": "⚡",
-            "meaning": "The action of arousing interest, enthusiasm, or excitement in someone or something.",
-            "example_sentence": "The stimulation from caffeine kept her awake.",
+            "meaning": "The action of arousing interest, enthusiasm, or excitement.",
+            "example_sentence": "Stimulation reduces stress and aids relaxation.",
             "example_sentence_native_transliteration": {
-                "bn": "দ্য স্টিমুলেশন ফ্রম ক্যাফেইন কেপ্ট হার অ্যাওয়েক।",
-                "hi": "द स्टिम्युलेशन फ्रम कैफीन केप्ट हर अवेक।",
-                "es": "de stimuléshon from kaféin kept jer auék."
+                "bn": "স্টিমুলেশন রিডিউসেস স্ট্রেস অ্যান্ড এইডস রিল্যাক্সেশন।"
             },
-            "example_expression": "mental stimulation",
-            "example_expression_native_transliteration": {
-                "bn": "মেন্টাল স্টিমুলেশন",
-                "hi": "मेंटल स्टिम्युलेशन",
-                "es": "méntal stimuléshon"
-            },
-            "example_expression_meaning": "Activities that challenge and engage the mind.",
             "position": 6,
-            "synonyms": "encouragement, motivation, arousal, excitement, inspiration",
-            "antonyms": "inhibition, suppression, discouragement, sedation",
+            "synonyms": "arousal, excitation, activation, encouragement, motivation, provocation",
+            "antonyms": "inactivity, suppression, inhibition, sedation, calming, quieting",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "উদ্দীপনা",
                     "word_transliteration": "uddipona",
-                    "example_sentence_translation": "ক্যাফেইনের উদ্দীপনা তাকে জাগিয়ে রাখল।",
-                    "example_sentence_transliteration": "Caffeiner uddipona take jagiye rakhlo.",
-                    "example_expression_translation": "মানসিক উদ্দীপনা",
-                    "example_expression_transliteration": "manoshik uddipona",
+                    "example_sentence_translation": "উদ্দীপনা মানসিক চাপ কমায় এবং শিথিল করতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Uddipona manoshik chap komay ebong shithil korte sahajjo kore.",
                     "source": "oxford"
-                },
+                }
+            ]
+        },
+        {
+            "word": "heartbeat",
+            "phonetic": "/ˈhɑːt.biːt/",
+            "word_native_transliteration": {
+                "bn": "হার্টবিট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💓",
+            "meaning": "A pulsation of the heart, especially as perceptible to the touch or audible with a stethoscope.",
+            "example_sentence": "Rubbing the eyes helps normalize the heartbeat.",
+            "example_sentence_native_transliteration": {
+                "bn": "রাবিং দা আইজ হেল্পস নর্মালাইজ দা হার্টবিট।"
+            },
+            "position": 7,
+            "synonyms": "pulse, rhythm, palpitation, beat, throbbing, pulsation",
+            "antonyms": "stillness, stoppage, arrest, cessation, halt, pause",
+            "translations": [
                 {
-                    "locale": "hi",
-                    "word_translation": "उत्तेजना",
-                    "word_transliteration": "uttejana",
-                    "example_sentence_translation": "कैफीन की उत्तेजना ने उसे जगाए रखा।",
-                    "example_sentence_transliteration": "Caffeine ki uttejana ne use jagaae rakha.",
-                    "example_expression_translation": "मानसिक उत्तेजना",
-                    "example_expression_transliteration": "maansik uttejana",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "estimulación",
-                    "word_transliteration": "estimulasión",
-                    "example_sentence_translation": "La estimulación de la cafeína la mantuvo despierta.",
-                    "example_sentence_transliteration": "La estimulasión de la kafeína la mantúvo despiérta.",
-                    "example_expression_translation": "estimulación mental",
-                    "example_expression_transliteration": "estimulasión mentál",
+                    "locale": "bn",
+                    "word_translation": "হৃদস্পন্দন",
+                    "word_transliteration": "hridospondon",
+                    "example_sentence_translation": "চোখ ঘষা হৃদস্পন্দন স্বাভাবিক রাখতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Chokh ghosha hridospondon svabhabik rakhte sahajjo kore.",
                     "source": "oxford"
                 }
             ]
         },
         {
             "word": "applicable",
-            "phonetic": "/əˈplɪkəbəl/",
+            "phonetic": "/ˈæp.lɪ.kə.bəl/",
             "word_native_transliteration": {
-                "bn": "অ্যাপ্লিকেবল",
-                "hi": "एप्लिकेबल",
-                "es": "aplikábol"
+                "bn": "অ্যাপ্লিকেবল"
             },
             "parts_of_speech": "adjective",
             "emoji": "📋",
-            "meaning": "Relevant or appropriate; able to be applied.",
-            "example_sentence": "This rule is applicable to all employees.",
+            "meaning": "Relevant or appropriate in a particular situation.",
+            "example_sentence": "This rule is applicable to eye care too.",
             "example_sentence_native_transliteration": {
-                "bn": "দিস রুল ইজ অ্যাপ্লিকেবল টু অল এমপ্লয়িজ।",
-                "hi": "दिस रूल इज़ एप्लिकेबल टू ऑल एम्प्लॉइज़।",
-                "es": "dis rúl is aplikábol tu ọl emplóis."
+                "bn": "দিস রুল ইজ অ্যাপ্লিকেবল টু আই কেয়ার টু।"
             },
-            "example_expression": "applicable law",
-            "example_expression_native_transliteration": {
-                "bn": "অ্যাপ্লিকেবল ল",
-                "hi": "एप्लिकेबल लॉ",
-                "es": "aplikábol lọ"
-            },
-            "example_expression_meaning": "Laws that are relevant to a particular situation or case.",
-            "position": 7,
-            "synonyms": "relevant, appropriate, suitable, pertinent, fitting",
-            "antonyms": "irrelevant, inappropriate, unsuitable, inapplicable",
+            "position": 8,
+            "synonyms": "relevant, appropriate, suitable, fitting, pertinent, related",
+            "antonyms": "irrelevant, unrelated, inappropriate, unsuitable, inapplicable, immaterial",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "প্রযোজ্য",
                     "word_transliteration": "proyojjo",
-                    "example_sentence_translation": "এই নিয়ম সকল কর্মচারীর ক্ষেত্রে প্রযোজ্য।",
-                    "example_sentence_transliteration": "Ei niyom shokol kormocharir khetre proyojjo.",
-                    "example_expression_translation": "প্রযোজ্য আইন",
-                    "example_expression_transliteration": "proyojjo ain",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "लागू",
-                    "word_transliteration": "laagu",
-                    "example_sentence_translation": "यह नियम सभी कर्मचारियों पर लागू है।",
-                    "example_sentence_transliteration": "Yah niyam sabhi karmachariyon par laagu hai.",
-                    "example_expression_translation": "लागू कानून",
-                    "example_expression_transliteration": "laagu kanoon",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "aplicable",
-                    "word_transliteration": "aplikáble",
-                    "example_sentence_translation": "Esta regla es aplicable a todos los empleados.",
-                    "example_sentence_transliteration": "Ésta régla es aplikáble a tódos los empleádos.",
-                    "example_expression_translation": "ley aplicable",
-                    "example_expression_transliteration": "léi aplikáble",
+                    "example_sentence_translation": "এই নিয়ম চোখের যত্নের ক্ষেত্রেও প্রযোজ্য।",
+                    "example_sentence_transliteration": "Ei niyom chokher jottner kkhetre o proyojjo.",
                     "source": "oxford"
                 }
             ]
@@ -436,178 +229,241 @@
             "word": "scrub",
             "phonetic": "/skrʌb/",
             "word_native_transliteration": {
-                "bn": "স্ক্রাব",
-                "hi": "स्क्रब",
-                "es": "skrab"
+                "bn": "স্ক্রাব"
             },
             "parts_of_speech": "verb",
             "emoji": "🧽",
-            "meaning": "To clean something by rubbing it hard with a brush, cloth, or your hands.",
-            "example_sentence": "She had to scrub the stains from her shirt.",
+            "meaning": "To rub hard so as to clean, typically with a brush and water.",
+            "example_sentence": "Excessive scrubbing of the eyes is harmful.",
             "example_sentence_native_transliteration": {
-                "bn": "শি হ্যাড টু স্ক্রাব দ্য স্টেইনস ফ্রম হার শার্ট।",
-                "hi": "शी हैड टू स्क्रब द स्टेंस फ्रम हर शर्ट।",
-                "es": "shí jad tu skrab de stéins from jer shért."
+                "bn": "এক্সেসিভ স্ক্রাবিং অফ দা আইজ ইজ হার্মফুল।"
             },
-            "example_expression": "scrub away dirt",
-            "example_expression_native_transliteration": {
-                "bn": "স্ক্রাব অ্যাওয়ে ডার্ট",
-                "hi": "स्क्रब अवे डर्ट",
-                "es": "skrab auéi dért"
-            },
-            "example_expression_meaning": "To remove dirt by vigorous cleaning or rubbing.",
-            "position": 8,
-            "synonyms": "clean, wash, rub, scour, cleanse",
-            "antonyms": "dirty, soil, stain, contaminate",
+            "position": 9,
+            "synonyms": "rub, clean, wash, brush, abrade, scour",
+            "antonyms": "cleanse, polish, gentle wash, soft clean, light touch, caress",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "ঘষা",
-                    "word_transliteration": "ghosa",
-                    "example_sentence_translation": "তার শার্ট থেকে দাগ তুলতে তাকে ঘষতে হয়েছিল।",
-                    "example_sentence_transliteration": "Tar shirt theke dag tulte take ghoshte hoyechilo.",
-                    "example_expression_translation": "ময়লা ঘষে তোলা",
-                    "example_expression_transliteration": "moylla ghoshe tola",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "रगड़ना",
-                    "word_transliteration": "ragadna",
-                    "example_sentence_translation": "उसे अपनी शर्ट के दाग रगड़कर साफ करने पड़े।",
-                    "example_sentence_transliteration": "Use apni shirt ke daag ragadkar saaf karne pade.",
-                    "example_expression_translation": "गंदगी रगड़कर साफ करना",
-                    "example_expression_transliteration": "gandagi ragadkar saaf karna",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "frotar",
-                    "word_transliteration": "frotár",
-                    "example_sentence_translation": "Tuvo que frotar las manchas de su camisa.",
-                    "example_sentence_transliteration": "Túvo ke frotár las mánchās de su kamísa.",
-                    "example_expression_translation": "frotar la suciedad",
-                    "example_expression_transliteration": "frotár la susiedád",
+                    "word_transliteration": "ghosha",
+                    "example_sentence_translation": "অতিরিক্ত চোখ ঘষা ক্ষতিকর।",
+                    "example_sentence_transliteration": "Otirikto chokh ghosha kkhotikor.",
                     "source": "oxford"
                 }
             ]
         },
         {
             "word": "pigmentation",
-            "phonetic": "/ˌpɪɡmənˈteɪʃən/",
+            "phonetic": "/ˌpɪɡ.menˈteɪ.ʃən/",
             "word_native_transliteration": {
-                "bn": "পিগমেন্টেশন",
-                "hi": "पिग्मेंटेशन",
-                "es": "pigmentéshon"
+                "bn": "পিগমেন্টেশন"
             },
             "parts_of_speech": "noun",
             "emoji": "🎨",
-            "meaning": "The natural coloring of plant or animal tissue; deposits of pigment in skin or other tissues.",
-            "example_sentence": "Sun exposure can cause uneven pigmentation on the skin.",
+            "meaning": "The natural coloring of animal or plant tissue.",
+            "example_sentence": "Excessive rubbing can cause pigmentation issues.",
             "example_sentence_native_transliteration": {
-                "bn": "সান এক্সপোজার ক্যান কজ আনইভেন পিগমেন্টেশন অন দ্য স্কিন।",
-                "hi": "सन एक्सपोज़र कैन कॉज़ अनीवन पिग्मेंटेशन ऑन द स्किन।",
-                "es": "san ekspóser kan kọs aníven pigmentéshon on de skin."
+                "bn": "এক্সেসিভ রাবিং ক্যান কজ পিগমেন্টেশন ইস্যুজ।"
             },
-            "example_expression": "skin pigmentation",
-            "example_expression_native_transliteration": {
-                "bn": "স্কিন পিগমেন্টেশন",
-                "hi": "स्किन पिग्मेंटेशन",
-                "es": "skin pigmentéshon"
-            },
-            "example_expression_meaning": "The coloring or discoloration that occurs in the skin tissue.",
-            "position": 9,
-            "synonyms": "coloration, discoloration, coloring, tinting",
-            "antonyms": "paleness, bleaching, fading",
+            "position": 10,
+            "synonyms": "coloring, discoloration, staining, darkening, marking, tinting",
+            "antonyms": "paleness, bleaching, whitening, fading, lightening, decoloring",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "রঞ্জকতা",
                     "word_transliteration": "ronjokota",
-                    "example_sentence_translation": "সূর্যের এক্সপোজার ত্বকে অসম রঞ্জকতা সৃষ্টি করতে পারে।",
-                    "example_sentence_transliteration": "Shurjoer exposure twoke oshom ronjokota srishti korte pare.",
-                    "example_expression_translation": "ত্বকের রঞ্জকতা",
-                    "example_expression_transliteration": "twoker ronjokota",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "वर्णकता",
-                    "word_transliteration": "varnakta",
-                    "example_sentence_translation": "धूप के संपर्क से त्वचा पर असमान वर्णकता हो सकती है।",
-                    "example_sentence_transliteration": "Dhoop ke sampark se twacha par asamaan varnakta ho sakti hai.",
-                    "example_expression_translation": "त्वचा की वर्णकता",
-                    "example_expression_transliteration": "twacha ki varnakta",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "pigmentación",
-                    "word_transliteration": "pigmentasión",
-                    "example_sentence_translation": "La exposición al sol puede causar pigmentación desigual en la piel.",
-                    "example_sentence_transliteration": "La eksposisión al sol pwéde kawsár pigmentasión desigwál en la piél.",
-                    "example_expression_translation": "pigmentación de la piel",
-                    "example_expression_transliteration": "pigmentasión de la piél",
+                    "example_sentence_translation": "অতিরিক্ত চোখ ঘষা রঞ্জকতার সমস্যা সৃষ্টি করতে পারে।",
+                    "example_sentence_transliteration": "Otirikto chokh ghosha ronjokotar shomoshsha srishti korte pare.",
                     "source": "oxford"
                 }
             ]
         },
         {
             "word": "habit",
-            "phonetic": "/ˈhæbɪt/",
+            "phonetic": "/ˈhæb.ɪt/",
             "word_native_transliteration": {
-                "bn": "হ্যাবিট",
-                "hi": "हैबिट",
-                "es": "jábit"
+                "bn": "হ্যাবিট"
             },
             "parts_of_speech": "noun",
             "emoji": "🔄",
             "meaning": "A settled or regular tendency or practice, especially one that is hard to give up.",
-            "example_sentence": "Reading before bed became her nightly habit.",
+            "example_sentence": "Eye rubbing is a harmful habit.",
             "example_sentence_native_transliteration": {
-                "bn": "রিডিং বিফোর বেড বিকেইম হার নাইটলি হ্যাবিট।",
-                "hi": "रीडिंग बिफोर बेड बिकेम हर नाइटली हैबिट।",
-                "es": "ríding bifór bed bikéim jer náitli jábit."
+                "bn": "আই রাবিং ইজ এ হার্মফুল হ্যাবিট।"
             },
-            "example_expression": "bad habit",
-            "example_expression_native_transliteration": {
-                "bn": "ব্যাড হ্যাবিট",
-                "hi": "बैड हैबिट",
-                "es": "bad jábit"
-            },
-            "example_expression_meaning": "A behavior pattern that is considered harmful or undesirable.",
-            "position": 10,
-            "synonyms": "custom, practice, routine, tendency, pattern",
-            "antonyms": "irregularity, inconsistency, randomness",
+            "position": 11,
+            "synonyms": "custom, practice, routine, tendency, pattern, behavior",
+            "antonyms": "disinclination, aversion, irregularity, novelty, exception, rarity",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "অভ্যাস",
-                    "word_transliteration": "obbyash",
-                    "example_sentence_translation": "ঘুমানোর আগে পড়া তার রাতের অভ্যাস হয়ে গেল।",
-                    "example_sentence_transliteration": "Ghumanor age pora tar rater obbyash hoye gelo.",
-                    "example_expression_translation": "খারাপ অভ্যাস",
-                    "example_expression_transliteration": "kharap obbyash",
+                    "word_transliteration": "obhyas",
+                    "example_sentence_translation": "চোখ ঘষা একটি ক্ষতিকর অভ্যাস।",
+                    "example_sentence_transliteration": "Chokh ghosha ekti kkhotikor obhyas.",
                     "source": "oxford"
-                },
+                }
+            ]
+        },
+        {
+            "word": "capillaries",
+            "phonetic": "/kəˈpɪl.ər.iz/",
+            "word_native_transliteration": {
+                "bn": "ক্যাপিলারিজ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🩸",
+            "meaning": "Any of the fine branching blood vessels that form a network between the arterioles and venules.",
+            "example_sentence": "Broken capillaries cause dark circles.",
+            "example_sentence_native_transliteration": {
+                "bn": "ব্রোকেন ক্যাপিলারিস কজ ডার্ক সার্কলস।"
+            },
+            "position": 12,
+            "synonyms": "blood vessels, microvessels, small vessels, fine vessels, tiny tubes, vascular network",
+            "antonyms": "arteries, veins, major vessels, large vessels, main channels, trunk vessels",
+            "translations": [
                 {
-                    "locale": "hi",
-                    "word_translation": "आदত",
-                    "word_transliteration": "aadat",
-                    "example_sentence_translation": "सोने से पहले पढ़ना उसकी रात की आदत बन गई।",
-                    "example_sentence_transliteration": "Sone se pehle padhna uski raat ki aadat ban gayi.",
-                    "example_expression_translation": "बुरी आदत",
-                    "example_expression_transliteration": "buri aadat",
+                    "locale": "bn",
+                    "word_translation": "সরু রক্তনালী",
+                    "word_transliteration": "shoru roktonali",
+                    "example_sentence_translation": "ভাঙা রক্তনালী ডার্ক সার্কেল সৃষ্টি করে।",
+                    "example_sentence_transliteration": "Bhanga roktonali dark circle srishti kore.",
                     "source": "oxford"
-                },
+                }
+            ]
+        },
+        {
+            "word": "vision",
+            "phonetic": "/ˈvɪʒ.ən/",
+            "word_native_transliteration": {
+                "bn": "ভিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👁️",
+            "meaning": "The faculty or state of being able to see.",
+            "example_sentence": "Excessive rubbing can damage vision.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সেসিভ রাবিং ক্যান ড্যামেজ ভিশন।"
+            },
+            "position": 13,
+            "synonyms": "sight, eyesight, visual perception, seeing, observation, view",
+            "antonyms": "blindness, obscurity, darkness, sightlessness, visual impairment, unseeing",
+            "translations": [
                 {
-                    "locale": "es",
-                    "word_translation": "hábito",
-                    "word_transliteration": "ábito",
-                    "example_sentence_translation": "Leer antes de acostarse se convirtió en su hábito nocturno.",
-                    "example_sentence_transliteration": "Leér ántes de akostárse se konvirtió en su ábito noktúrno.",
-                    "example_expression_translation": "mal hábito",
-                    "example_expression_transliteration": "mal ábito",
+                    "locale": "bn",
+                    "word_translation": "দৃষ্টিশক্তি",
+                    "word_transliteration": "drishtishokti",
+                    "example_sentence_translation": "অতিরিক্ত চোখ ঘষা দৃষ্টিশক্তি ক্ষতিগ্রস্ত করতে পারে।",
+                    "example_sentence_transliteration": "Otirikto chokh ghosha drishtishokti kkhotigrosto korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fragility",
+            "phonetic": "/frəˈdʒɪl.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "ফ্র্যাজিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔍",
+            "meaning": "The quality of being fragile; delicateness.",
+            "example_sentence": "The cornea's fragility increases with rubbing.",
+            "example_sentence_native_transliteration": {
+                "bn": "দা কর্নিয়াস ফ্র্যাজিলিটি ইনক্রিজেস উইথ রাবিং।"
+            },
+            "position": 14,
+            "synonyms": "delicacy, brittleness, weakness, frailty, vulnerability, breakability",
+            "antonyms": "strength, durability, robustness, toughness, resilience, sturdiness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভঙ্গুরতা",
+                    "word_transliteration": "bhongurota",
+                    "example_sentence_translation": "চোখের কর্নিয়ার ভঙ্গুরতা ঘষার ফলে বৃদ্ধি পায়।",
+                    "example_sentence_transliteration": "Chokher korniyar bhongurota ghoshar fole briddhi pay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "photosensitivity",
+            "phonetic": "/ˌfəʊ.təʊ.sen.sɪˈtɪv.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "ফটোসেনসিটিভিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "☀️",
+            "meaning": "Sensitivity to light, especially abnormal sensitivity that may cause discomfort or damage.",
+            "example_sentence": "Overrubbing can increase photosensitivity.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওভাররাবিং ক্যান ইনক্রিজ ফটোসেনসিটিভিটি।"
+            },
+            "position": 15,
+            "synonyms": "light sensitivity, photo-allergy, solar sensitivity, bright light intolerance, luminous sensitivity, optical hypersensitivity",
+            "antonyms": "resistance to light, light tolerance, photo-resistance, luminous immunity, brightness tolerance, optical insensitivity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আলোক-সংবেদনশীলতা",
+                    "word_transliteration": "alok-shongbedonshilota",
+                    "example_sentence_translation": "অতিরিক্ত ঘষা আলোক-সংবেদনশীলতা বাড়াতে পারে।",
+                    "example_sentence_transliteration": "Otirikto ghosha alok-shongbedonshilota barate pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "debris",
+            "phonetic": "/ˈdeb.riː/",
+            "word_native_transliteration": {
+                "bn": "ডেব্রি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🗑️",
+            "meaning": "Scattered pieces of waste or remains.",
+            "example_sentence": "Debris in the eyes causes irritation.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডেব্রি ইন দা আইজ কজেস ইরিটেশন।"
+            },
+            "position": 16,
+            "synonyms": "waste, rubbish, fragments, remains, scraps, particles",
+            "antonyms": "cleanliness, purity, wholeness, intactness, completeness, orderliness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ধ্বংসাবশেষ",
+                    "word_transliteration": "dhongshaboshsho",
+                    "example_sentence_translation": "চোখে ধ্বংসাবশেষ জ্বালাপোড়া সৃষ্টি করে।",
+                    "example_sentence_transliteration": "Chokhe dhongshaboshsho jjalapoda srishti kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "itchiness",
+            "phonetic": "/ˈɪtʃ.i.nəs/",
+            "word_native_transliteration": {
+                "bn": "ইটচিনেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "😣",
+            "meaning": "The quality or condition of feeling an irritating sensation on the skin that causes a desire to scratch.",
+            "example_sentence": "Eye itchiness often leads to rubbing.",
+            "example_sentence_native_transliteration": {
+                "bn": "আই ইটচিনেস অফেন লিডস টু রাবিং।"
+            },
+            "position": 17,
+            "synonyms": "irritation, scratching sensation, prickly feeling, tickling, tingling, discomfort",
+            "antonyms": "comfort, relief, soothing, smoothness, calmness, ease",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চুলকানি",
+                    "word_transliteration": "chulkani",
+                    "example_sentence_translation": "চোখের চুলকানি প্রায়শই ঘষার কারণ হয়।",
+                    "example_sentence_transliteration": "Chokher chulkani prayshoi ghoshar karon hoy.",
                     "source": "oxford"
                 }
             ]

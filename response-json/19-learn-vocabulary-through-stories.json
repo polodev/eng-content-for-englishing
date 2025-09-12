@@ -1,75 +1,38 @@
 {
     "position": 19,
     "title_translation": {
-        "en": "Food Security Challenges Due to Global Warming",
-        "hi": "तापमान वृद्धि के कारण खाद्य सुरक्षा की चुनौती",
-        "es": "El Desafío de la Seguridad Alimentaria Debido al Calentamiento Global",
+        "en": "The Challenge of Food Security Due to Global Warming",
         "bn": "উষ্ণায়নের ফলে খাদ্য নিরাপত্তার চ্যালেঞ্জ"
     },
     "content_translation": {
-        "en": "Climate change and **global warming** have created **significant threats** to **food systems** worldwide. Increasing **temperature**, **drought**, excessive rainfall, and floods as **extreme phenomena** are having **detrimental** effects on crop production. High **temperature** is reducing crop **productivity** in many regions. **Water scarcity** is reducing land **fertility** and hindering **agricultural output**. Due to climate change, incidents of **simultaneous crop failures** are increasing.\n\nAs a result of this change, **food security** is under threat. To combat global warming, adopting **sustainable practices**, improved **irrigation**, and **proactive strategies** is extremely urgent. **Global collaboration** and **integrated initiatives** can play important roles in resolving food supply crises.",
-        "hi": "जलवायु परिवर्तन और **global warming** का प्रभाव विश्वव्यापी **food systems** पर **significant threats** उत्पन्न कर रहा है। बढ़ते **temperature**, **drought**, अत्यधिक वर्षा और बाढ़ जैसी **extreme phenomena** फसल उत्पादन पर **detrimental** प्रभाव डाल रहे हैं। उच्च **temperature** कई क्षेत्रों की फसलों की **productivity** को कम कर रहा है। **Water scarcity** भूमि की **fertility** को घटाकर **agricultural output** को बाधित कर रही है। जलवायु परिवर्तन के कारण **simultaneous crop failures** की घटनाएं बढ़ रही हैं।\n\nइस परिवर्तन के परिणामस्वरूप **food security** खतरे में पड़ रही है। वैश्विक तापमान वृद्धि से निपटने के लिए **sustainable practices**, उन्नत **irrigation**, और **proactive strategies** अपनाना अत्यंत आवश्यक है। **Global collaboration** और **integrated initiatives** खाद्य आपूर्ति संकट के समाधान में महत्वपूर्ण भूमिका निभा सकते हैं।",
-        "es": "El cambio climático y el **global warming** han creado **significant threats** para los **food systems** a nivel mundial. El aumento de **temperature**, **drought**, lluvias excesivas e inundaciones como **extreme phenomena** están teniendo efectos **detrimental** en la producción de cultivos. Las altas **temperature** están reduciendo la **productivity** de los cultivos en muchas regiones. La **water scarcity** está reduciendo la **fertility** de la tierra y obstaculizando el **agricultural output**. Debido al cambio climático, los incidentes de **simultaneous crop failures** están aumentando.\n\nComo resultado de este cambio, la **food security** está en peligro. Para combatir el calentamiento global, es extremadamente urgente adoptar **sustainable practices**, **irrigation** mejorada y **proactive strategies**. La **global collaboration** y las **integrated initiatives** pueden desempeñar un papel importante en la resolución de la crisis de suministro de alimentos.",
-        "bn": "জলবায়ু পরিবর্তন এবং **global warming** এর প্রভাব বিশ্বব্যাপী **food systems** এর উপর **significant threats** সৃষ্টি করেছে। ক্রমবর্ধমান **temperature**, **drought**, অতিবৃষ্টি এবং বন্যার মতো **extreme phenomena** ফসল উৎপাদনে **detrimental** প্রভাব ফেলছে। উচ্চ **temperature** অনেক অঞ্চলের ফসলের **productivity** হ্রাস করছে। **Water scarcity** জমির **fertility** কমিয়ে **agricultural output** ব্যাহত করছে। জলবায়ু পরিবর্তনের কারণে **simultaneous crop failures** এর ঘটনা বৃদ্ধি পাচ্ছে।\n\nএই পরিবর্তনের ফলে **food security** হুমকির মুখে পড়ছে। বৈশ্বিক উষ্ণতা মোকাবিলায় **sustainable practices**, উন্নত **irrigation**, এবং **proactive strategies** গ্রহণ অত্যন্ত জরুরি। **Global collaboration** এবং **integrated initiatives** খাদ্য সরবরাহ সংকট নিরসনে গুরুত্বপূর্ণ ভূমিকা পালন করতে পারে।"
+        "en": "Climate change and **global warming** are creating **significant threats** to worldwide **food systems**. Increasing **temperature**, **drought**, excessive rainfall, and floods are creating **extreme phenomena** that have **detrimental** effects on crop production.\n\nHigh **temperatures** are reducing crop **productivity** in many regions. Water **scarcity** is reducing land **fertility** and hampering **agricultural output**. Due to climate change, incidents of **simultaneous** crop failures are increasing.\n\nAs a result of these changes, food **security** is being threatened. To address global **warming**, adopting **sustainable practices**, improved irrigation, and **proactive strategies** is extremely urgent. **Global** collaboration and integrated initiatives can play a crucial role in resolving food supply crises.",
+        "bn": "জলবায়ু পরিবর্তন এবং **global warming** এর প্রভাব বিশ্বব্যাপী **food systems** এর উপর **significant threats** সৃষ্টি করেছে। ক্রমবর্ধমান **temperature**, **drought**, অতিবৃষ্টি এবং বন্যার মতো **extreme phenomena** ফসল উৎপাদনে **detrimental** প্রভাব ফেলছে।\n\nউচ্চ **temperature** অনেক অঞ্চলের ফসলের **productivity** হ্রাস করছে। Water **scarcity** জমির **fertility** কমিয়ে **agricultural output** ব্যাহত করছে। জলবায়ু পরিবর্তনের কারণে **simultaneous** crop failures এর ঘটনা বৃদ্ধি পাচ্ছে।\n\nএই পরিবর্তনের ফলে food **security** হুমকির মুখে পড়ছে। বৈশ্বিক উষ্ণতা মোকাবিলায় **sustainable practices**, উন্নত irrigation, এবং **proactive strategies** গ্রহণ অত্যন্ত জরুরি। **Global** collaboration এবং integrated initiatives খাদ্য সরবরাহ সংকট নিরসনে গুরুত্বপূর্ণ ভূমিকা পালন করতে পারে।"
     },
     "list": [
         {
             "word": "global",
             "phonetic": "ˈɡləʊ.bəl",
             "word_native_transliteration": {
-                "bn": "গ্লোবাল",
-                "hi": "ग्लोबल",
-                "es": "glóbal"
+                "bn": "গ্লোবাল"
             },
             "parts_of_speech": "adjective",
             "emoji": "🌍",
             "meaning": "Relating to the whole world; worldwide.",
             "example_sentence": "Global challenges require collective efforts.",
             "example_sentence_native_transliteration": {
-                "bn": "গ্লোবাল চ্যালেঞ্জেস রিকোয়ার কলেক্টিভ এফর্টস।",
-                "es": "glóbal chalénches rikuáir kolektív éforts.",
-                "hi": "ग्लोबल चैलेंजेस रिक्वायर कलेक्टिव एफर्ट्स।"
+                "bn": "গ্লোবাল চ্যালেঞ্জেস রিকোয়ার কালেকটিভ এফোর্টস।"
             },
-            "example_expression": "global warming",
-            "example_expression_native_transliteration": {
-                "bn": "গ্লোবাল ওয়ার্মিং",
-                "es": "glóbal uárming",
-                "hi": "ग्लोबल वार्मिंग"
-            },
-            "example_expression_meaning": "The long-term heating of Earth's climate system due to human activities.",
             "position": 1,
-            "synonyms": "worldwide, universal, international, planetary, comprehensive",
-            "antonyms": "local, regional, national, limited, restricted",
+            "synonyms": "worldwide, universal",
+            "antonyms": "local, regional",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "বৈশ্বিক",
-                    "word_transliteration": "boishbik",
+                    "word_transliteration": "baishbik",
                     "example_sentence_translation": "বৈশ্বিক চ্যালেঞ্জ সমাধানে সম্মিলিত প্রচেষ্টা প্রয়োজন।",
-                    "example_sentence_transliteration": "Boishbik challenge somadhane shommilito procheshta proyojon.",
-                    "example_expression_translation": "বৈশ্বিক উষ্ণায়ন",
-                    "example_expression_transliteration": "boishbik ushnayon",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "वैश्विक",
-                    "word_transliteration": "vaishvik",
-                    "example_sentence_translation": "वैश्विक चुनौतियों के लिए सामूहिक प्रयास की आवश्यकता है।",
-                    "example_sentence_transliteration": "Vaishvik chunautiyon ke liye samuhik prayas ki avashyakta hai.",
-                    "example_expression_translation": "वैश्विक तापमान वृद्धि",
-                    "example_expression_transliteration": "vaishvik tapman vridhi",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "global",
-                    "word_transliteration": "globál",
-                    "example_sentence_translation": "Los desafíos globales requieren esfuerzos colectivos.",
-                    "example_sentence_transliteration": "Los desafíos globáles rekiéren esfuérzos kolektívos.",
-                    "example_expression_translation": "calentamiento global",
-                    "example_expression_transliteration": "kalentamiénto globál",
-                    "source": "oxford"
+                    "example_sentence_transliteration": "Baishbik challenge somaddhane sommilito prochesta proyojon.",
+                    "source": "vocadrill.com"
                 }
             ]
         },
@@ -77,59 +40,26 @@
             "word": "warming",
             "phonetic": "ˈwɔː.mɪŋ",
             "word_native_transliteration": {
-                "bn": "ওয়ার্মিং",
-                "hi": "वार्मिंग",
-                "es": "uárming"
+                "bn": "ওয়ার্মিং"
             },
             "parts_of_speech": "noun",
             "emoji": "🌡️",
-            "meaning": "An increase in temperature; the process of becoming warmer.",
+            "meaning": "The process of becoming warmer; an increase in temperature.",
             "example_sentence": "Warming is accelerating due to greenhouse gases.",
             "example_sentence_native_transliteration": {
-                "bn": "ওয়ার্মিং ইজ অ্যাক্সেলেরেটিং ডিউ টু গ্রিনহাউস গ্যাসেস।",
-                "es": "uárming is akseléreiting dú tu grínhaus gáses.",
-                "hi": "वार्मिंग इज़ एक्सेलेरेटिंग ड्यू टू ग्रीनहाउस गैसेस।"
+                "bn": "ওয়ার্মিং ইজ অ্যাক্সেলারেটিং ডিউ টু গ্রিনহাউস গ্যাসেস।"
             },
-            "example_expression": "global warming",
-            "example_expression_native_transliteration": {
-                "bn": "গ্লোবাল ওয়ার্মিং",
-                "es": "glóbal uárming",
-                "hi": "ग्लोबल वार्मिंग"
-            },
-            "example_expression_meaning": "The long-term heating of Earth's climate system.",
             "position": 2,
-            "synonyms": "heating, temperature rise, climate change, thermal increase",
-            "antonyms": "cooling, freezing, temperature drop, refrigeration",
+            "synonyms": "heating, rising temperature",
+            "antonyms": "cooling, freezing",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "উষ্ণায়ন",
                     "word_transliteration": "ushnayon",
                     "example_sentence_translation": "গ্রিনহাউস গ্যাসের কারণে উষ্ণায়ন দ্রুততর হচ্ছে।",
-                    "example_sentence_transliteration": "Greenhouse gaser karone ushnayon drututor hochhe.",
-                    "example_expression_translation": "বৈশ্বিক উষ্ণায়ন",
-                    "example_expression_transliteration": "boishbik ushnayon",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "तापमान वृद्धि",
-                    "word_transliteration": "tapman vridhi",
-                    "example_sentence_translation": "ग्रीनहाउस गैसों के कारण तापमान वृद्धि तेज हो रही है।",
-                    "example_sentence_transliteration": "Greenhouse gasyon ke kaaran tapman vridhi tez ho rahi hai.",
-                    "example_expression_translation": "वैश्विक तापमान वृद्धि",
-                    "example_expression_transliteration": "vaishvik tapman vridhi",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "calentamiento",
-                    "word_transliteration": "kalentamiénto",
-                    "example_sentence_translation": "El calentamiento se acelera debido a los gases de efecto invernadero.",
-                    "example_sentence_transliteration": "El kalentamiénto se asélera débido a los gáses de eféto inbernadéro.",
-                    "example_expression_translation": "calentamiento global",
-                    "example_expression_transliteration": "kalentamiénto globál",
-                    "source": "oxford"
+                    "example_sentence_transliteration": "Greenhouse gaser karone ushnayon druttotoro hochche.",
+                    "source": "vocadrill.com"
                 }
             ]
         },
@@ -137,59 +67,26 @@
             "word": "systems",
             "phonetic": "ˈsɪs.təmz",
             "word_native_transliteration": {
-                "bn": "সিস্টেমস",
-                "hi": "सिस्टम्स",
-                "es": "sistéms"
+                "bn": "সিস্টেমস"
             },
             "parts_of_speech": "noun",
             "emoji": "⚙️",
-            "meaning": "Organized structures or methods; frameworks with interconnected parts.",
+            "meaning": "A set of connected things or parts forming a complex whole.",
             "example_sentence": "Effective systems improve productivity.",
             "example_sentence_native_transliteration": {
-                "bn": "এফেক্টিভ সিস্টেমস ইমপ্রুভ প্রোডাক্টিভিটি।",
-                "es": "efektív sistéms improf produktíviti.",
-                "hi": "एफेक्टिव सिस्टम्स इम्प्रूव प्रोडक्टिविटी।"
+                "bn": "এফেকটিভ সিস্টেমস ইমপ্রুভ প্রোডাকটিভিটি।"
             },
-            "example_expression": "food systems",
-            "example_expression_native_transliteration": {
-                "bn": "ফুড সিস্টেমস",
-                "es": "fúd sistéms",
-                "hi": "फूड सिस्टम्स"
-            },
-            "example_expression_meaning": "Networks of food production, processing, and distribution.",
             "position": 3,
-            "synonyms": "frameworks, mechanisms, structures, networks, organizations",
-            "antonyms": "chaos, disorder, disarray, confusion, randomness",
+            "synonyms": "frameworks, mechanisms",
+            "antonyms": "disarray, chaos",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "ব্যবস্থাপনা",
                     "word_transliteration": "byabosthapona",
                     "example_sentence_translation": "দক্ষ ব্যবস্থাপনা উৎপাদনশীলতা বৃদ্ধি করে।",
-                    "example_sentence_transliteration": "Dokkhho byabosthapona utpadonsheelta briddhi kore.",
-                    "example_expression_translation": "খাদ্য ব্যবস্থাপনা",
-                    "example_expression_transliteration": "khadyo byabosthapona",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "प्रणालियां",
-                    "word_transliteration": "pranaliyan",
-                    "example_sentence_translation": "प्रभावी प्रणालियां उत्पादकता में सुधार करती हैं।",
-                    "example_sentence_transliteration": "Prabhavi pranaliyan utpadakta mein sudhar karti hain.",
-                    "example_expression_translation": "खाद्य प्रणालियां",
-                    "example_expression_transliteration": "khadya pranaliyan",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "sistemas",
-                    "word_transliteration": "sistémas",
-                    "example_sentence_translation": "Los sistemas efectivos mejoran la productividad.",
-                    "example_sentence_transliteration": "Los sistémas efektívos mejóran la produktibidád.",
-                    "example_expression_translation": "sistemas alimentarios",
-                    "example_expression_transliteration": "sistémas alimentários",
-                    "source": "oxford"
+                    "example_sentence_transliteration": "Dokkho byabosthapona utpadonshilota briddhi kore.",
+                    "source": "vocadrill.com"
                 }
             ]
         },
@@ -197,59 +94,26 @@
             "word": "significant",
             "phonetic": "sɪɡˈnɪf.ɪ.kənt",
             "word_native_transliteration": {
-                "bn": "সিগনিফিক্যান্ট",
-                "hi": "सिग्निफिकेंट",
-                "es": "signifikánt"
+                "bn": "সিগনিফিক্যান্ট"
             },
             "parts_of_speech": "adjective",
             "emoji": "📈",
-            "meaning": "Important; notable; having a meaning that is worth attention.",
+            "meaning": "Sufficiently great or important to be worthy of attention; noteworthy.",
             "example_sentence": "Significant changes in temperature impact ecosystems.",
             "example_sentence_native_transliteration": {
-                "bn": "সিগনিফিক্যান্ট চেঞ্জেস ইন টেম্পারেচার ইমপ্যাক্ট ইকোসিস্টেমস।",
-                "es": "signifikánt chénches in tempérachar impákt ekosistéms.",
-                "hi": "सिग्निफिकेंट चेंजेस इन टेम्परेचर इम्पैक्ट इकोसिस्टम्स।"
+                "bn": "সিগনিফিক্যান্ট চেইঞ্জেস ইন টেম্পারেচার ইমপ্যাক্ট ইকোসিস্টেমস।"
             },
-            "example_expression": "significant threats",
-            "example_expression_native_transliteration": {
-                "bn": "সিগনিফিক্যান্ট থ্রেটস",
-                "es": "signifikánt thréts",
-                "hi": "सिग्निफिकेंट थ्रेट्स"
-            },
-            "example_expression_meaning": "Important dangers or risks that pose serious concerns.",
             "position": 4,
-            "synonyms": "important, notable, substantial, considerable, meaningful",
-            "antonyms": "insignificant, minor, trivial, negligible, unimportant",
+            "synonyms": "notable, substantial",
+            "antonyms": "insignificant, minor",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "গুরুত্বপূর্ণ",
-                    "word_transliteration": "gurutwopurno",
+                    "word_transliteration": "guruttopurno",
                     "example_sentence_translation": "তাপমাত্রার উল্লেখযোগ্য পরিবর্তন পরিবেশে প্রভাব ফেলে।",
-                    "example_sentence_transliteration": "Tapmatrar ullekhjogyo poriborton poribeshhe prabhab fele.",
-                    "example_expression_translation": "গুরুত্বপূর্ণ হুমকি",
-                    "example_expression_transliteration": "gurutwopurno humki",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "महत्वपूर्ण",
-                    "word_transliteration": "mahattvapurn",
-                    "example_sentence_translation": "तापमान में महत्वपूर्ण परिवर्तन पारिस्थितिकी तंत्र को प्रभावित करते हैं।",
-                    "example_sentence_transliteration": "Tapman mein mahattvapurn parivartan paristhitiki tantra ko prabhavit karte hain.",
-                    "example_expression_translation": "महत्वपूर्ण खतरे",
-                    "example_expression_transliteration": "mahattvapurn khatre",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "significativo",
-                    "word_transliteration": "signifikatívo",
-                    "example_sentence_translation": "Los cambios significativos en la temperatura impactan los ecosistemas.",
-                    "example_sentence_transliteration": "Los kámbios signifikatívos en la temperatúra impáktan los ekosistémas.",
-                    "example_expression_translation": "amenazas significativas",
-                    "example_expression_transliteration": "amenázas signifikatívas",
-                    "source": "oxford"
+                    "example_sentence_transliteration": "Tapmatraar ullekhjogyo poribortton poribeshay prabhab phele.",
+                    "source": "vocadrill.com"
                 }
             ]
         },
@@ -257,59 +121,26 @@
             "word": "threats",
             "phonetic": "θrets",
             "word_native_transliteration": {
-                "bn": "থ্রেটস",
-                "hi": "थ्रेट्स",
-                "es": "thréts"
+                "bn": "থ্রেটস"
             },
             "parts_of_speech": "noun",
             "emoji": "⚠️",
-            "meaning": "Dangers or risks that could cause harm or damage.",
+            "meaning": "A statement of an intention to inflict pain, injury, damage, or other hostile action.",
             "example_sentence": "Threats to food security are rising globally.",
             "example_sentence_native_transliteration": {
-                "bn": "থ্রেটস টু ফুড সিকিউরিটি আর রাইজিং গ্লোবালি।",
-                "es": "thréts tu fúd sikúriti ar ráising glóbali.",
-                "hi": "थ्रेट्स टू फूड सिक्यूरिटी आर राइज़िंग ग्लोबली।"
+                "bn": "থ্রেটস টু ফুড সিকিউরিটি আর রাইজিং গ্লোবালি।"
             },
-            "example_expression": "security threats",
-            "example_expression_native_transliteration": {
-                "bn": "সিকিউরিটি থ্রেটস",
-                "es": "sikúriti thréts",
-                "hi": "सिक्यूरिटी थ्रेट्स"
-            },
-            "example_expression_meaning": "Dangers that pose risks to safety or stability.",
             "position": 5,
-            "synonyms": "dangers, risks, hazards, perils, menaces",
-            "antonyms": "safety, security, protection, benefits, advantages",
+            "synonyms": "dangers, risks",
+            "antonyms": "safety, protection",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "হুমকি",
                     "word_transliteration": "humki",
                     "example_sentence_translation": "বিশ্বব্যাপী খাদ্য নিরাপত্তার হুমকি বাড়ছে।",
-                    "example_sentence_transliteration": "Bishbobhyapi khadyo nirapottar humki barche.",
-                    "example_expression_translation": "নিরাপত্তার হুমকি",
-                    "example_expression_transliteration": "nirapottar humki",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "खतरे",
-                    "word_transliteration": "khatre",
-                    "example_sentence_translation": "खाद्य सुरक्षा के लिए खतरे विश्व स्तर पर बढ़ रहे हैं।",
-                    "example_sentence_transliteration": "Khadya suraksha ke liye khatre vishva star par badh rahe hain.",
-                    "example_expression_translation": "सुरक्षा खतरे",
-                    "example_expression_transliteration": "suraksha khatre",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "amenazas",
-                    "word_transliteration": "amenázas",
-                    "example_sentence_translation": "Las amenazas a la seguridad alimentaria están aumentando globalmente.",
-                    "example_sentence_transliteration": "Las amenázas a la seguridád alimentária están aumentándo globálmente.",
-                    "example_expression_translation": "amenazas de seguridad",
-                    "example_expression_transliteration": "amenázas de seguridád",
-                    "source": "oxford"
+                    "example_sentence_transliteration": "Bishbobyapi khadyo nirapottar humki barche.",
+                    "source": "vocadrill.com"
                 }
             ]
         },
@@ -317,59 +148,26 @@
             "word": "temperature",
             "phonetic": "ˈtem.pər.ə.tʃər",
             "word_native_transliteration": {
-                "bn": "টেম্পারেচার",
-                "hi": "टेम्परेचर",
-                "es": "temperatúra"
+                "bn": "টেম্পারেচার"
             },
             "parts_of_speech": "noun",
             "emoji": "🌡️",
-            "meaning": "The degree of heat present in a substance or object.",
+            "meaning": "The degree or intensity of heat present in a substance or object.",
             "example_sentence": "Rising temperatures affect agricultural output.",
             "example_sentence_native_transliteration": {
-                "bn": "রাইজিং টেম্পারেচারস অ্যাফেক্ট অ্যাগ্রিকালচারাল আউটপুট।",
-                "es": "ráising temperatúras afékt agrikálchural áutput.",
-                "hi": "राइज़िंग टेम्परेचर्स अफेक्ट एग्रिकल्चरल आउटपुट।"
+                "bn": "রাইজিং টেম্পারেচারস অ্যাফেক্ট অ্যাগ্রিকালচারাল আউটপুট।"
             },
-            "example_expression": "high temperature",
-            "example_expression_native_transliteration": {
-                "bn": "হাই টেম্পারেচার",
-                "es": "jái temperatúra",
-                "hi": "हाई टेम्परेचर"
-            },
-            "example_expression_meaning": "A level of heat that is above normal or average.",
             "position": 6,
-            "synonyms": "heat, warmth, thermal level, degree, hotness",
-            "antonyms": "coldness, coolness, chill, freeze, frost",
+            "synonyms": "heat, warmth",
+            "antonyms": "coldness, coolness",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "তাপমাত্রা",
-                    "word_transliteration": "tapomatra",
+                    "word_transliteration": "tapmatra",
                     "example_sentence_translation": "তাপমাত্রা বৃদ্ধির ফলে কৃষি উৎপাদন ক্ষতিগ্রস্ত হচ্ছে।",
-                    "example_sentence_transliteration": "Tapomatra briddhir fole krishi utpadon khotigrosto hochhe.",
-                    "example_expression_translation": "উচ্চ তাপমাত্রা",
-                    "example_expression_transliteration": "uchho tapomatra",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "तापमान",
-                    "word_transliteration": "tapman",
-                    "example_sentence_translation": "बढ़ते तापमान कृषि उत्पादन को प्रभावित करते हैं।",
-                    "example_sentence_transliteration": "Badhte tapman krishi utpadan ko prabhavit karte hain.",
-                    "example_expression_translation": "उच्च तापमान",
-                    "example_expression_transliteration": "uchch tapman",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "temperatura",
-                    "word_transliteration": "temperatúra",
-                    "example_sentence_translation": "El aumento de las temperaturas afecta la producción agrícola.",
-                    "example_sentence_transliteration": "El auménto de las temperatúras aféta la produksión agrícola.",
-                    "example_expression_translation": "alta temperatura",
-                    "example_expression_transliteration": "álta temperatúra",
-                    "source": "oxford"
+                    "example_sentence_transliteration": "Tapmatra bridddhir phale krishi utpadon khotigrostho hochche.",
+                    "source": "vocadrill.com"
                 }
             ]
         },
@@ -377,59 +175,26 @@
             "word": "drought",
             "phonetic": "draʊt",
             "word_native_transliteration": {
-                "bn": "ড্রাউট",
-                "hi": "ड्राउट",
-                "es": "dráut"
+                "bn": "ড্রাউট"
             },
             "parts_of_speech": "noun",
             "emoji": "🏜️",
-            "meaning": "A prolonged period of abnormally low rainfall; dryness.",
+            "meaning": "A prolonged period of abnormally low rainfall; a shortage of water.",
             "example_sentence": "Drought impacts crop growth significantly.",
             "example_sentence_native_transliteration": {
-                "bn": "ড্রাউট ইমপ্যাক্টস ক্রপ গ্রোথ সিগনিফিক্যান্টলি।",
-                "es": "dráut impákts krop gróth signifikántli.",
-                "hi": "ड्राउट इम्पैक्ट्स क्रॉप ग्रोथ सिग्निफिकेंटली।"
+                "bn": "ড্রাউট ইমপ্যাক্টস ক্রপ গ্রোথ সিগনিফিক্যান্টলি।"
             },
-            "example_expression": "severe drought",
-            "example_expression_native_transliteration": {
-                "bn": "সিভিয়ার ড্রাউট",
-                "es": "sibér dráut",
-                "hi": "सिवियर ड्राउट"
-            },
-            "example_expression_meaning": "An extremely dry period with very little or no rainfall.",
             "position": 7,
-            "synonyms": "dryness, aridity, water shortage, dry spell, rainlessness",
-            "antonyms": "flood, wetness, rainfall, moisture, precipitation",
+            "synonyms": "dryness, aridity",
+            "antonyms": "flood, wetness",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "খরা",
                     "word_transliteration": "khora",
                     "example_sentence_translation": "খরা ফসলের বৃদ্ধি উল্লেখযোগ্যভাবে প্রভাবিত করে।",
-                    "example_sentence_transliteration": "Khora phosoler briddhi ullekhjogyo bhabe prabhavit kore.",
-                    "example_expression_translation": "তীব্র খরা",
-                    "example_expression_transliteration": "tibro khora",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "सूखा",
-                    "word_transliteration": "sukha",
-                    "example_sentence_translation": "सूखा फसल की वृद्धि को महत्वपूर्ण रूप से प्रभावित करता है।",
-                    "example_sentence_transliteration": "Sukha fasal ki vriddhi ko mahattvapurn roop se prabhavit karta hai.",
-                    "example_expression_translation": "गंभीर सूखा",
-                    "example_expression_transliteration": "gambhir sukha",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "sequía",
-                    "word_transliteration": "sekía",
-                    "example_sentence_translation": "La sequía impacta significativamente el crecimiento de los cultivos.",
-                    "example_sentence_transliteration": "La sekía impákta signifikatibámente el kresémiénto de los kultívos.",
-                    "example_expression_translation": "sequía severa",
-                    "example_expression_transliteration": "sekía sebéra",
-                    "source": "oxford"
+                    "example_sentence_transliteration": "Khora phosoler briddhi ullekhjoggyobhabay probhabhito kore.",
+                    "source": "vocadrill.com"
                 }
             ]
         },
@@ -437,59 +202,26 @@
             "word": "extreme",
             "phonetic": "ɪkˈstriːm",
             "word_native_transliteration": {
-                "bn": "এক্সট্রিম",
-                "hi": "एक्सट्रीम",
-                "es": "ekstrím"
+                "bn": "এক্সট্রিম"
             },
             "parts_of_speech": "adjective",
-            "emoji": "⚡",
-            "meaning": "Reaching a high degree; very great; intense or severe.",
+            "emoji": "🌪️",
+            "meaning": "Reaching a high or the highest degree; very great.",
             "example_sentence": "Extreme weather patterns disrupt ecosystems.",
             "example_sentence_native_transliteration": {
-                "bn": "এক্সট্রিম ওয়েদার প্যাটার্নস ডিসরাপ্ট ইকোসিস্টেমস।",
-                "es": "ekstrím uédher páterns disrápt ekosistéms.",
-                "hi": "एक्सट्रीम वेदर पैटर्न्स डिसरप्ट इकोसिस्टम्स।"
+                "bn": "এক্সট্রিম ওয়েদার প্যাটার্নস ডিসরাপ্ট ইকোসিস্টেমস।"
             },
-            "example_expression": "extreme weather",
-            "example_expression_native_transliteration": {
-                "bn": "এক্সট্রিম ওয়েদার",
-                "es": "ekstrím uédher",
-                "hi": "एक्सट्रीम वेदर"
-            },
-            "example_expression_meaning": "Weather conditions that are unusually severe or intense.",
             "position": 8,
-            "synonyms": "severe, intense, drastic, radical, excessive",
-            "antonyms": "moderate, mild, gentle, normal, average",
+            "synonyms": "severe, intense",
+            "antonyms": "moderate, mild",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "চরম",
                     "word_transliteration": "chorom",
                     "example_sentence_translation": "চরম আবহাওয়া পরিবেশের ব্যাঘাত ঘটায়।",
-                    "example_sentence_transliteration": "Chorom abohaowa poribeshher byaghat ghotay.",
-                    "example_expression_translation": "চরম আবহাওয়া",
-                    "example_expression_transliteration": "chorom abohaowa",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "चरम",
-                    "word_transliteration": "charam",
-                    "example_sentence_translation": "चरम मौसम पैटर्न पारिस्थितिकी तंत्र को बाधित करते हैं।",
-                    "example_sentence_transliteration": "Charam mausam patterns paristhitiki tantra ko badhit karte hain.",
-                    "example_expression_translation": "चरम मौसम",
-                    "example_expression_transliteration": "charam mausam",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "extremo",
-                    "word_transliteration": "ekstrémo",
-                    "example_sentence_translation": "Los patrones climáticos extremos interrumpen los ecosistemas.",
-                    "example_sentence_transliteration": "Los patrónes klimátikos ekstrémxos interrumpen los ekosistémas.",
-                    "example_expression_translation": "clima extremo",
-                    "example_expression_transliteration": "klíma ekstrémo",
-                    "source": "oxford"
+                    "example_sentence_transliteration": "Chorom abohawa poribeshey byaghat ghotay.",
+                    "source": "vocadrill.com"
                 }
             ]
         },
@@ -497,59 +229,26 @@
             "word": "phenomena",
             "phonetic": "fəˈnɒm.ɪ.nə",
             "word_native_transliteration": {
-                "bn": "ফেনোমেনা",
-                "hi": "फेनोमेना",
-                "es": "fenómena"
+                "bn": "ফেনোমেনা"
             },
             "parts_of_speech": "noun",
-            "emoji": "🌪️",
-            "meaning": "Observable events or occurrences; things that happen or exist.",
+            "emoji": "🔬",
+            "meaning": "Facts or situations that are observed to exist or happen, especially ones whose cause or explanation is in question.",
             "example_sentence": "Phenomena like floods disrupt agricultural systems.",
             "example_sentence_native_transliteration": {
-                "bn": "ফেনোমেনা লাইক ফ্লাডস ডিসরাপ্ট অ্যাগ্রিকালচারাল সিস্টেমস।",
-                "es": "fenómena láik fláds disrápt agrikálchural sistéms.",
-                "hi": "फेनोमेना लाइक फ्लड्स डिसरप्ट एग्रिकल्चरल सिस्टम्स।"
+                "bn": "ফেনোমেনা লাইক ফ্লাডস ডিসরাপ্ট অ্যাগ্রিকালচারাল সিস্টেমস।"
             },
-            "example_expression": "natural phenomena",
-            "example_expression_native_transliteration": {
-                "bn": "ন্যাচারাল ফেনোমেনা",
-                "es": "nachurál fenómena",
-                "hi": "नैचुरल फेनोमेना"
-            },
-            "example_expression_meaning": "Events that occur in nature without human intervention.",
             "position": 9,
-            "synonyms": "events, occurrences, happenings, incidents, manifestations",
-            "antonyms": "normalities, regularities, constants, stabilities",
+            "synonyms": "events, occurrences",
+            "antonyms": "anomalies, absences",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "ঘটনাবলি",
                     "word_transliteration": "ghotonaboli",
                     "example_sentence_translation": "বন্যার মতো ঘটনাবলি কৃষি ব্যবস্থায় ব্যাঘাত ঘটায়।",
-                    "example_sentence_transliteration": "Bonnar moto ghotonaboli krishi byabosthay byaghat ghotay.",
-                    "example_expression_translation": "প্রাকৃতিক ঘটনাবলি",
-                    "example_expression_transliteration": "prakritik ghotonaboli",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "घटनाएं",
-                    "word_transliteration": "ghatnayen",
-                    "example_sentence_translation": "बाढ़ जैसी घटनाएं कृषि प्रणालियों को बाधित करती हैं।",
-                    "example_sentence_transliteration": "Baadh jaisi ghatnayen krishi pranaliyon ko badhit karti hain.",
-                    "example_expression_translation": "प्राकृतिक घटनाएं",
-                    "example_expression_transliteration": "prakritik ghatnayen",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "fenómenos",
-                    "word_transliteration": "fenómenos",
-                    "example_sentence_translation": "Fenómenos como las inundaciones alteran los sistemas agrícolas.",
-                    "example_sentence_transliteration": "Fenómenos kómo las inundásiones altéran los sistémas agrícolas.",
-                    "example_expression_translation": "fenómenos naturales",
-                    "example_expression_transliteration": "fenómenos naturáles",
-                    "source": "oxford"
+                    "example_sentence_transliteration": "Bonnyar moto ghotonaboli krishi byabosthay byaghat ghotay.",
+                    "source": "vocadrill.com"
                 }
             ]
         },
@@ -557,59 +256,26 @@
             "word": "detrimental",
             "phonetic": "ˌdet.rɪˈmen.təl",
             "word_native_transliteration": {
-                "bn": "ডেট্রিমেন্টাল",
-                "hi": "डेट्रिमेंटल",
-                "es": "detriméntал"
+                "bn": "ডেট্রিমেন্টাল"
             },
             "parts_of_speech": "adjective",
-            "emoji": "💥",
-            "meaning": "Causing harm or damage; having a negative effect.",
+            "emoji": "⚠️",
+            "meaning": "Tending to cause harm; damaging or harmful.",
             "example_sentence": "Pollution has detrimental effects on fertility.",
             "example_sentence_native_transliteration": {
-                "bn": "পলিউশন হ্যাজ ডেট্রিমেন্টাল এফেক্টস অন ফার্টিলিটি।",
-                "es": "polúshon jas detriméntал efékts on fértiliti.",
-                "hi": "पॉल्यूशन हैज़ डेट्रिमेंटल इफेक्ट्स ऑन फर्टिलिटी।"
+                "bn": "পলিউশন হ্যাজ ডেট্রিমেন্টাল এফেক্টস অন ফার্টিলিটি।"
             },
-            "example_expression": "detrimental impact",
-            "example_expression_native_transliteration": {
-                "bn": "ডেট্রিমেন্টাল ইমপ্যাক্ট",
-                "es": "detriméntал impákt",
-                "hi": "डेट्रिमेंटल इम्पैक्ट"
-            },
-            "example_expression_meaning": "A harmful or damaging influence or effect.",
             "position": 10,
-            "synonyms": "harmful, damaging, adverse, negative, destructive",
-            "antonyms": "beneficial, helpful, positive, advantageous, favorable",
+            "synonyms": "harmful, adverse",
+            "antonyms": "beneficial, favorable",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "ক্ষতিকর",
                     "word_transliteration": "khotikor",
                     "example_sentence_translation": "দূষণ উর্বরতার উপর ক্ষতিকর প্রভাব ফেলে।",
-                    "example_sentence_transliteration": "Dushon urborotar upor khotikor prabhab fele.",
-                    "example_expression_translation": "ক্ষতিকর প্রভাব",
-                    "example_expression_transliteration": "khotikor prabhab",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "हानिकारक",
-                    "word_transliteration": "hanikarak",
-                    "example_sentence_translation": "प्रदूषण का उर्वरता पर हानिकारक प्रभाव होता है।",
-                    "example_sentence_transliteration": "Pradushan ka urvarta par hanikarak prabhav hota hai.",
-                    "example_expression_translation": "हानिकारक प्रभाव",
-                    "example_expression_transliteration": "hanikarak prabhav",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "perjudicial",
-                    "word_transliteration": "perjudisiál",
-                    "example_sentence_translation": "La contaminación tiene efectos perjudiciales en la fertilidad.",
-                    "example_sentence_transliteration": "La kontaminasión tiéne efétos perjudisiáles en la fertilidád.",
-                    "example_expression_translation": "impacto perjudicial",
-                    "example_expression_transliteration": "impákto perjudisiál",
-                    "source": "oxford"
+                    "example_sentence_transliteration": "Dushon urborotar upor khotikor prabhab phele.",
+                    "source": "vocadrill.com"
                 }
             ]
         },
@@ -617,59 +283,26 @@
             "word": "productivity",
             "phonetic": "ˌprɒd.ʌkˈtɪv.ɪ.ti",
             "word_native_transliteration": {
-                "bn": "প্রোডাক্টিভিটি",
-                "hi": "प्रोडक्टिविटी",
-                "es": "produktíbiti"
+                "bn": "প্রোডাক্টিভিটি"
             },
             "parts_of_speech": "noun",
             "emoji": "📊",
-            "meaning": "The effectiveness of productive effort; rate of output per unit of input.",
+            "meaning": "The effectiveness of productive effort, especially in industry, as measured in terms of the rate of output per unit of input.",
             "example_sentence": "Improved irrigation boosts productivity.",
             "example_sentence_native_transliteration": {
-                "bn": "ইমপ্রুভড ইরিগেশন বুস্টস প্রোডাক্টিভিটি।",
-                "es": "improfd irigéshon bústs produktíbiti.",
-                "hi": "इम्प्रूव्ड इरिगेशन बूस्ट्स प्रोडक्टिविटी।"
+                "bn": "ইমপ্রুভড ইরিগেশন বুস্টস প্রোডাক্টিভিটি।"
             },
-            "example_expression": "agricultural productivity",
-            "example_expression_native_transliteration": {
-                "bn": "অ্যাগ্রিকালচারাল প্রোডাক্টিভিটি",
-                "es": "agrikálchural produktíbiti",
-                "hi": "एग्रिकल्चरल प्रोडक्टिविटी"
-            },
-            "example_expression_meaning": "The efficiency and output of farming and crop production.",
             "position": 11,
-            "synonyms": "efficiency, output, performance, yield, effectiveness",
-            "antonyms": "inefficiency, unproductiveness, idleness, inactivity",
+            "synonyms": "efficiency, output",
+            "antonyms": "idleness, inefficiency",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "উৎপাদনশীলতা",
-                    "word_transliteration": "utpadonsheelta",
+                    "word_transliteration": "utpadonshilota",
                     "example_sentence_translation": "উন্নত সেচ উৎপাদনশীলতা বাড়ায়।",
-                    "example_sentence_transliteration": "Unnoto shech utpadonsheelta baray.",
-                    "example_expression_translation": "কৃষি উৎপাদনশীলতা",
-                    "example_expression_transliteration": "krishi utpadonsheelta",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "उत्पादकता",
-                    "word_transliteration": "utpadakta",
-                    "example_sentence_translation": "बेहतर सिंचाई उत्पादकता बढ़ाती है।",
-                    "example_sentence_transliteration": "Behtar sinchai utpadakta badhati hai.",
-                    "example_expression_translation": "कृषि उत्पादकता",
-                    "example_expression_transliteration": "krishi utpadakta",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "productividad",
-                    "word_transliteration": "produktibidád",
-                    "example_sentence_translation": "El riego mejorado aumenta la productividad.",
-                    "example_sentence_transliteration": "El riégo mejorádo auménta la produktibidád.",
-                    "example_expression_translation": "productividad agrícola",
-                    "example_expression_transliteration": "produktibidád agrícola",
-                    "source": "oxford"
+                    "example_sentence_transliteration": "Unnoto shecho utpadonshilota baray.",
+                    "source": "vocadrill.com"
                 }
             ]
         },
@@ -677,59 +310,26 @@
             "word": "scarcity",
             "phonetic": "ˈskeə.sɪ.ti",
             "word_native_transliteration": {
-                "bn": "স্কেয়ারসিটি",
-                "hi": "स्केयरसिटी",
-                "es": "eskérsiti"
+                "bn": "স্কেয়ারসিটি"
             },
             "parts_of_speech": "noun",
             "emoji": "💧",
             "meaning": "The state of being scarce or in short supply; shortage.",
             "example_sentence": "Water scarcity threatens agriculture.",
             "example_sentence_native_transliteration": {
-                "bn": "ওয়াটার স্কেয়ারসিটি থ্রেটেনস অ্যাগ্রিকালচার।",
-                "es": "uáter eskérsiti thréténs agrikálchar.",
-                "hi": "वाटर स्केयरसिटी थ्रेटेन्स एग्रिकल्चर।"
+                "bn": "ওয়াটার স্কেয়ারসিটি থ্রেটেনস অ্যাগ্রিকালচার।"
             },
-            "example_expression": "water scarcity",
-            "example_expression_native_transliteration": {
-                "bn": "ওয়াটার স্কেয়ারসিটি",
-                "es": "uáter eskérsiti",
-                "hi": "वाटर स्केयरसिटी"
-            },
-            "example_expression_meaning": "A shortage of available water resources to meet demands.",
             "position": 12,
-            "synonyms": "shortage, deficiency, lack, dearth, insufficiency",
-            "antonyms": "abundance, plenty, surplus, excess, sufficiency",
+            "synonyms": "shortage, deficiency",
+            "antonyms": "abundance, plenty",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "অভাব",
-                    "word_transliteration": "obhab",
+                    "word_transliteration": "abhab",
                     "example_sentence_translation": "পানির অভাব কৃষিকে হুমকির মুখে ফেলেছে।",
-                    "example_sentence_transliteration": "Panir obhab krishike humkir mukhe feleche.",
-                    "example_expression_translation": "পানির অভাব",
-                    "example_expression_transliteration": "panir obhab",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "कमी",
-                    "word_transliteration": "kami",
-                    "example_sentence_translation": "पानी की कमी कृषि के लिए खतरा है।",
-                    "example_sentence_transliteration": "Pani ki kami krishi ke liye khatra hai.",
-                    "example_expression_translation": "पानी की कमी",
-                    "example_expression_transliteration": "pani ki kami",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "escasez",
-                    "word_transliteration": "eskasés",
-                    "example_sentence_translation": "La escasez de agua amenaza la agricultura.",
-                    "example_sentence_transliteration": "La eskasés de água amenása la agrikultúra.",
-                    "example_expression_translation": "escasez de agua",
-                    "example_expression_transliteration": "eskasés de água",
-                    "source": "oxford"
+                    "example_sentence_transliteration": "Panir abhab krishike humkir mukhe phelche.",
+                    "source": "vocadrill.com"
                 }
             ]
         },
@@ -737,59 +337,26 @@
             "word": "fertility",
             "phonetic": "fəˈtɪl.ɪ.ti",
             "word_native_transliteration": {
-                "bn": "ফার্টিলিটি",
-                "hi": "फर्टिलिटी",
-                "es": "fertíлiti"
+                "bn": "ফার্টিলিটি"
             },
             "parts_of_speech": "noun",
             "emoji": "🌱",
-            "meaning": "The ability to produce offspring; the quality of being fertile.",
+            "meaning": "The quality of being fertile; fruitfulness.",
             "example_sentence": "Fertility of the soil is crucial for farming.",
             "example_sentence_native_transliteration": {
-                "bn": "ফার্টিলিটি অফ দ্য সয়েল ইজ ক্রুশিয়াল ফর ফার্মিং।",
-                "es": "fertíлiti of de sóil is krúshial for fárming.",
-                "hi": "फर्टिलिटी ऑफ द सॉइल इज़ क्रूशियल फॉर फार्मिंग।"
+                "bn": "ফার্টিলিটি অব দ্য সয়েল ইজ ক্রুসিয়াল ফর ফার্মিং।"
             },
-            "example_expression": "soil fertility",
-            "example_expression_native_transliteration": {
-                "bn": "সয়েল ফার্টিলিটি",
-                "es": "sóil fertíлiti",
-                "hi": "सॉइल फर्टिलिटी"
-            },
-            "example_expression_meaning": "The ability of soil to sustain plant growth by providing nutrients.",
             "position": 13,
-            "synonyms": "productiveness, fecundity, richness, fruitfulness",
-            "antonyms": "infertility, barrenness, sterility, unproductiveness",
+            "synonyms": "productivity, fecundity",
+            "antonyms": "infertility, barren",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "উর্বরতা",
-                    "word_transliteration": "urboroта",
+                    "word_transliteration": "urborota",
                     "example_sentence_translation": "মাটির উর্বরতা কৃষির জন্য অত্যন্ত গুরুত্বপূর্ণ।",
-                    "example_sentence_transliteration": "Matir urboroтa krishir jonno ottyonto gurutwopurno.",
-                    "example_expression_translation": "মাটির উর্বরতা",
-                    "example_expression_transliteration": "matir urboroтa",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "उर्वरता",
-                    "word_transliteration": "urvarta",
-                    "example_sentence_translation": "मिट्टी की उर्वरता खेती के लिए महत्वपूर्ण है।",
-                    "example_sentence_transliteration": "Mitti ki urvarta kheti ke liye mahattvapurn hai.",
-                    "example_expression_translation": "मिट्टी की उर्वरता",
-                    "example_expression_transliteration": "mitti ki urvarta",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "fertilidad",
-                    "word_transliteration": "fertilidád",
-                    "example_sentence_translation": "La fertilidad del suelo es crucial para la agricultura.",
-                    "example_sentence_transliteration": "La fertilidád del suélo es krusiál pára la agrikultúra.",
-                    "example_expression_translation": "fertilidad del suelo",
-                    "example_expression_transliteration": "fertilidád del suélo",
-                    "source": "oxford"
+                    "example_sentence_transliteration": "Matir urborota krishir jonyo ottonto guruttopurno.",
+                    "source": "vocadrill.com"
                 }
             ]
         },
@@ -797,59 +364,26 @@
             "word": "agricultural",
             "phonetic": "ˌæɡ.rɪˈkʌl.tʃər.əl",
             "word_native_transliteration": {
-                "bn": "অ্যাগ্রিকালচারাল",
-                "hi": "एग्रिकल्चरल",
-                "es": "agrikálchural"
+                "bn": "অ্যাগ্রিকালচারাল"
             },
             "parts_of_speech": "adjective",
             "emoji": "🚜",
-            "meaning": "Relating to the practice of farming and cultivation of crops.",
+            "meaning": "Connected with farming.",
             "example_sentence": "Agricultural advancements enhance food security.",
             "example_sentence_native_transliteration": {
-                "bn": "অ্যাগ্রিকালচারাল অ্যাডভান্সমেন্টস এনহান্স ফুড সিকিউরিটি।",
-                "es": "agrikálchural adbánsmёnts enjáns fúd sikúriti.",
-                "hi": "एग्रिकल्चरल एडवान्समेंट्स एन्हांस फूड सिक्यूरिटी।"
+                "bn": "অ্যাগ্রিকালচারাল অ্যাডভান্সমেন্টস এনহান্স ফুড সিকিউরিটি।"
             },
-            "example_expression": "agricultural output",
-            "example_expression_native_transliteration": {
-                "bn": "অ্যাগ্রিকালচারাল আউটপুট",
-                "es": "agrikálchural áutput",
-                "hi": "एग्रिकल्चरल आउटपुट"
-            },
-            "example_expression_meaning": "The total production from farming and crop cultivation.",
             "position": 14,
-            "synonyms": "farming, agrarian, rural, cultivation-related",
-            "antonyms": "industrial, urban, non-agricultural, commercial",
+            "synonyms": "farming, agronomic",
+            "antonyms": "industrial, non-agrarian",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "কৃষি",
                     "word_transliteration": "krishi",
                     "example_sentence_translation": "কৃষি অগ্রগতি খাদ্য নিরাপত্তা বাড়ায়।",
-                    "example_sentence_transliteration": "Krishi ogrogatі khadyo nirapotta baray.",
-                    "example_expression_translation": "কৃষি উৎপাদন",
-                    "example_expression_transliteration": "krishi utpadon",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "कृषि",
-                    "word_transliteration": "krishi",
-                    "example_sentence_translation": "कृषि की प्रगति खाद्य सुरक्षा को बढ़ाती है।",
-                    "example_sentence_transliteration": "Krishi ki pragati khadya suraksha ko badhati hai.",
-                    "example_expression_translation": "कृषि उत्पादन",
-                    "example_expression_transliteration": "krishi utpadan",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "agrícola",
-                    "word_transliteration": "agrícola",
-                    "example_sentence_translation": "Los avances agrícolas mejoran la seguridad alimentaria.",
-                    "example_sentence_transliteration": "Los abánses agrícolas mejóran la seguridád alimentária.",
-                    "example_expression_translation": "producción agrícola",
-                    "example_expression_transliteration": "produksión agrícola",
-                    "source": "oxford"
+                    "example_sentence_transliteration": "Krishi oggrogoti khadyo nirapotta baray.",
+                    "source": "vocadrill.com"
                 }
             ]
         },
@@ -857,59 +391,26 @@
             "word": "output",
             "phonetic": "ˈaʊt.pʊt",
             "word_native_transliteration": {
-                "bn": "আউটপুট",
-                "hi": "आउटपुट",
-                "es": "áutput"
+                "bn": "আউটপুট"
             },
             "parts_of_speech": "noun",
             "emoji": "📦",
-            "meaning": "The amount of something produced; yield or production.",
+            "meaning": "The amount of something produced by a person, machine, or industry.",
             "example_sentence": "Climate change reduces agricultural output.",
             "example_sentence_native_transliteration": {
-                "bn": "ক্লাইমেট চেঞ্জ রিডিউসেস অ্যাগ্রিকালচারাল আউটপুট।",
-                "es": "kláimet chénch ridúses agrikálchural áutput.",
-                "hi": "क्लाइमेट चेंज रिड्यूसेस एग्रिकल्चरल आउटपुट।"
+                "bn": "ক্লাইমেট চেইঞ্জ রিডিউসেস অ্যাগ্রিকালচারাল আউটপুট।"
             },
-            "example_expression": "production output",
-            "example_expression_native_transliteration": {
-                "bn": "প্রোডাকশন আউটপুট",
-                "es": "prodákshon áutput",
-                "hi": "प्रोडक्शन आउटपुट"
-            },
-            "example_expression_meaning": "The total amount of goods or products manufactured.",
             "position": 15,
-            "synonyms": "production, yield, result, product, harvest",
-            "antonyms": "input, consumption, intake, shortage, deficit",
+            "synonyms": "yield, production",
+            "antonyms": "input, shortfall",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "উৎপাদন",
                     "word_transliteration": "utpadon",
                     "example_sentence_translation": "জলবায়ু পরিবর্তন কৃষি উৎপাদন কমিয়ে দেয়।",
-                    "example_sentence_transliteration": "Jolobayи poriborton krishi utpadon komiye dey.",
-                    "example_expression_translation": "উৎপাদন ফলাফল",
-                    "example_expression_transliteration": "utpadon pholaphol",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "उत्पादन",
-                    "word_transliteration": "utpadan",
-                    "example_sentence_translation": "जलवायु परिवर्तन कृषि उत्पादन को कम करता है।",
-                    "example_sentence_transliteration": "Jalvayu parivartan krishi utpadan ko kam karta hai.",
-                    "example_expression_translation": "उत्पादन आउटपुट",
-                    "example_expression_transliteration": "utpadan output",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "producción",
-                    "word_transliteration": "produksión",
-                    "example_sentence_translation": "El cambio climático reduce la producción agrícola.",
-                    "example_sentence_transliteration": "El kámbio klimátiko redúse la produksión agrícola.",
-                    "example_expression_translation": "producción total",
-                    "example_expression_transliteration": "produksión totál",
-                    "source": "oxford"
+                    "example_sentence_transliteration": "Jolobayu poribortton krishi utpadon komiye dey.",
+                    "source": "vocadrill.com"
                 }
             ]
         },
@@ -917,59 +418,26 @@
             "word": "simultaneous",
             "phonetic": "ˌsɪm.əlˈteɪ.ni.əs",
             "word_native_transliteration": {
-                "bn": "সিমালটেনিয়াস",
-                "hi": "सिमल्टेनियस",
-                "es": "simultáneous"
+                "bn": "সিমালটেনিয়াস"
             },
             "parts_of_speech": "adjective",
-            "emoji": "⏱️",
-            "meaning": "Existing, occurring, or operating at the same time.",
+            "emoji": "⚡",
+            "meaning": "Occurring, operating, or done at the same time.",
             "example_sentence": "Simultaneous crop failures affect global food supply.",
             "example_sentence_native_transliteration": {
-                "bn": "সিমালটেনিয়াস ক্রপ ফেইলিউরস অ্যাফেক্ট গ্লোবাল ফুড সাপ্লাই।",
-                "es": "simultáneous krop féiliurs afékt glóbal fúd saplái.",
-                "hi": "सिमल्टेनियस क्रॉप फेलियर्स अफेक्ट ग्लोबल फूड सप्लाई।"
+                "bn": "সিমালটেনিয়াস ক্রপ ফেইলিউরস অ্যাফেক্ট গ্লোবাল ফুড সাপ্লাই।"
             },
-            "example_expression": "simultaneous events",
-            "example_expression_native_transliteration": {
-                "bn": "সিমালটেনিয়াস ইভেন্টস",
-                "es": "simultáneous ibénts",
-                "hi": "सिमल्टेनियस इवेंट्स"
-            },
-            "example_expression_meaning": "Events that happen at exactly the same time.",
             "position": 16,
-            "synonyms": "concurrent, synchronous, coincident, parallel, contemporaneous",
-            "antonyms": "sequential, consecutive, separate, individual, isolated",
+            "synonyms": "concurrent, synchronous",
+            "antonyms": "sequential, disjointed",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "একযোগে",
-                    "word_transliteration": "ekyoge",
+                    "word_transliteration": "ekjoge",
                     "example_sentence_translation": "একযোগে ফসলের ক্ষতি বৈশ্বিক খাদ্য সরবরাহকে প্রভাবিত করে।",
-                    "example_sentence_transliteration": "Ekyoge phosoler khoti boishbik khadyo shorborahoke prabhavit kore.",
-                    "example_expression_translation": "একযোগে ঘটনা",
-                    "example_expression_transliteration": "ekyoge ghotona",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "एकसाथ",
-                    "word_transliteration": "eksath",
-                    "example_sentence_translation": "एकसाथ फसल की विफलता वैश्विक खाद्य आपूर्ति को प्रभावित करती है।",
-                    "example_sentence_transliteration": "Eksath fasal ki viphalata vaishvik khadya apurti ko prabhavit karti hai.",
-                    "example_expression_translation": "एकसाथ होने वाली घटनाएं",
-                    "example_expression_transliteration": "eksath hone vali ghatnayen",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "simultáneo",
-                    "word_transliteration": "simultáneo",
-                    "example_sentence_translation": "Las fallas simultáneas de cultivos afectan el suministro global de alimentos.",
-                    "example_sentence_transliteration": "Las fállas simultáneas de kultívos aféktan el sumínistro globál de aliméntos.",
-                    "example_expression_translation": "eventos simultáneos",
-                    "example_expression_transliteration": "ebéntos simultáneos",
-                    "source": "oxford"
+                    "example_sentence_transliteration": "Ekjoge phosoler khoti baishbik khadyo sorobohkay probhabhito kore.",
+                    "source": "vocadrill.com"
                 }
             ]
         },
@@ -977,59 +445,26 @@
             "word": "security",
             "phonetic": "sɪˈkjʊə.rɪ.ti",
             "word_native_transliteration": {
-                "bn": "সিকিউরিটি",
-                "hi": "सिक्यूरिटी",
-                "es": "sikúriti"
+                "bn": "সিকিউরিটি"
             },
             "parts_of_speech": "noun",
             "emoji": "🛡️",
-            "meaning": "The state of being free from danger, threat, or loss; protection.",
+            "meaning": "The state of being free from danger, threat, or loss.",
             "example_sentence": "Food security is essential for human survival.",
             "example_sentence_native_transliteration": {
-                "bn": "ফুড সিকিউরিটি ইজ এসেনশিয়াল ফর হিউম্যান সারভাইভাল।",
-                "es": "fúd sikúriti is esénshial for jiúman sarbáibal.",
-                "hi": "फूड सिक्यूरिटी इज़ एसेंशियल फॉर ह्यूमन सर्वाइवल।"
+                "bn": "ফুড সিকিউরিটি ইজ এসেনশিয়াল ফর হিউম্যান সারভাইভাল।"
             },
-            "example_expression": "food security",
-            "example_expression_native_transliteration": {
-                "bn": "ফুড সিকিউরিটি",
-                "es": "fúd sikúriti",
-                "hi": "फूड सिक्यूरिटी"
-            },
-            "example_expression_meaning": "Access to sufficient, safe, and nutritious food for all people.",
             "position": 17,
-            "synonyms": "safety, protection, defense, assurance, stability",
-            "antonyms": "insecurity, danger, risk, vulnerability, threat",
+            "synonyms": "safety, protection",
+            "antonyms": "insecurity, vulnerability",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "নিরাপত্তা",
                     "word_transliteration": "nirapotta",
                     "example_sentence_translation": "খাদ্য নিরাপত্তা মানুষের বেঁচে থাকার জন্য অত্যাবশ্যক।",
-                    "example_sentence_transliteration": "Khadyo nirapotta manusher benche thakar jonno ottyaboshshok.",
-                    "example_expression_translation": "খাদ্য নিরাপত্তা",
-                    "example_expression_transliteration": "khadyo nirapotta",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "सुरक्षा",
-                    "word_transliteration": "suraksha",
-                    "example_sentence_translation": "खाद्य सुरक्षा मानव अस्तित्व के लिए आवश्यक है।",
-                    "example_sentence_transliteration": "Khadya suraksha manav astitva ke liye avashyak hai.",
-                    "example_expression_translation": "खाद्य सुरक्षा",
-                    "example_expression_transliteration": "khadya suraksha",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "seguridad",
-                    "word_transliteration": "seguridád",
-                    "example_sentence_translation": "La seguridad alimentaria es esencial para la supervivencia humana.",
-                    "example_sentence_transliteration": "La seguridád alimentária es esénsiál pára la superbibensiá jumána.",
-                    "example_expression_translation": "seguridad alimentaria",
-                    "example_expression_transliteration": "seguridád alimentária",
-                    "source": "oxford"
+                    "example_sentence_transliteration": "Khadyo nirapotta manusher beche thakar jonyo ottyaboshyok.",
+                    "source": "vocadrill.com"
                 }
             ]
         },
@@ -1037,119 +472,26 @@
             "word": "sustainable",
             "phonetic": "səˈsteɪ.nə.bəl",
             "word_native_transliteration": {
-                "bn": "সাসটেইনেবল",
-                "hi": "सस्टेनेबल",
-                "es": "sustéineibəl"
+                "bn": "সাসটেইনেবল"
             },
             "parts_of_speech": "adjective",
             "emoji": "♻️",
-            "meaning": "Able to be maintained at a certain rate or level; environmentally responsible.",
+            "meaning": "Able to be maintained at a certain rate or level; conserving an ecological balance.",
             "example_sentence": "Sustainable practices mitigate environmental impact.",
             "example_sentence_native_transliteration": {
-                "bn": "সাসটেইনেবল প্র্যাকটিসেস মিটিগেট এনভায়রনমেন্টাল ইমপ্যাক্ট।",
-                "es": "sustéineibəl práktises mitigéit enváironmentál impákt.",
-                "hi": "सस्टेनेबल प्रैक्टिसेस मिटिगेट एनवायरनमेंटल इम्पैक्ट।"
+                "bn": "সাসটেইনেবল প্র্যাকটিসেস মিটিগেট এনভায়রনমেন্টাল ইমপ্যাক্ট।"
             },
-            "example_expression": "sustainable development",
-            "example_expression_native_transliteration": {
-                "bn": "সাসটেইনেবল ডেভেলপমেন্ট",
-                "es": "sustéineibəl debelópment",
-                "hi": "सस्टेनेबल डेवेलपमेंट"
-            },
-            "example_expression_meaning": "Development that meets present needs without compromising future generations.",
             "position": 18,
-            "synonyms": "renewable, viable, maintainable, eco-friendly, lasting",
-            "antonyms": "unsustainable, temporary, depleting, wasteful, short-term",
+            "synonyms": "renewable, viable",
+            "antonyms": "unsustainable, temporary",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "টেকসই",
                     "word_transliteration": "teksoi",
                     "example_sentence_translation": "টেকসই পদ্ধতি পরিবেশগত প্রভাব হ্রাস করে।",
-                    "example_sentence_transliteration": "Teksoi poddhoti poribeshgoto prabhab hras kore.",
-                    "example_expression_translation": "টেকসই উন্নয়ন",
-                    "example_expression_transliteration": "teksoi unnoyon",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "टिकाऊ",
-                    "word_transliteration": "tikau",
-                    "example_sentence_translation": "टिकाऊ प्रथाएं पर्यावरणीय प्रभाव को कम करती हैं।",
-                    "example_sentence_transliteration": "Tikau prathayen paryavarniya prabhav ko kam karti hain.",
-                    "example_expression_translation": "टिकाऊ विकास",
-                    "example_expression_transliteration": "tikau vikas",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "sostenible",
-                    "word_transliteration": "sostenible",
-                    "example_sentence_translation": "Las prácticas sostenibles mitigan el impacto ambiental.",
-                    "example_sentence_transliteration": "Las prátikas sostenibles míitigan el impákto ambiéntál.",
-                    "example_expression_translation": "desarrollo sostenible",
-                    "example_expression_transliteration": "desarróllo sostenible",
-                    "source": "oxford"
-                }
-            ]
-        },
-        {
-            "word": "irrigation",
-            "phonetic": "ˌɪr.ɪˈɡeɪ.ʃən",
-            "word_native_transliteration": {
-                "bn": "ইরিগেশন",
-                "hi": "इरिगेशन",
-                "es": "irigéishon"
-            },
-            "parts_of_speech": "noun",
-            "emoji": "💧",
-            "meaning": "The artificial application of water to land for growing crops.",
-            "example_sentence": "Efficient irrigation systems conserve water.",
-            "example_sentence_native_transliteration": {
-                "bn": "এফিশিয়েন্ট ইরিগেশন সিস্টেমস কনজার্ভ ওয়াটার।",
-                "es": "eféishent irigéishon sistéms konsérb uáter.",
-                "hi": "एफिशिएंट इरिगेशन सिस्टम्स कन्जर्व वाटर।"
-            },
-            "example_expression": "drip irrigation",
-            "example_expression_native_transliteration": {
-                "bn": "ড্রিপ ইরিগেশন",
-                "es": "drip irigéishon",
-                "hi": "ड्रिप इरिगेशन"
-            },
-            "example_expression_meaning": "A water-efficient irrigation method that delivers water slowly to plant roots.",
-            "position": 19,
-            "synonyms": "watering, sprinkling, flooding, cultivation watering",
-            "antonyms": "drought, dehydration, water shortage, drying",
-            "translations": [
-                {
-                    "locale": "bn",
-                    "word_translation": "সেচ",
-                    "word_transliteration": "shech",
-                    "example_sentence_translation": "দক্ষ সেচ ব্যবস্থা পানি সংরক্ষণ করে।",
-                    "example_sentence_transliteration": "Dokkhho shech byabostha pani shongrokkhon kore.",
-                    "example_expression_translation": "ফোঁটা ফোঁটা সেচ",
-                    "example_expression_transliteration": "phonta phonta shech",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "सिंचाई",
-                    "word_transliteration": "sinchai",
-                    "example_sentence_translation": "कुशल सिंचाई प्रणालियां पानी का संरक्षण करती हैं।",
-                    "example_sentence_transliteration": "Kushal sinchai pranaliyan pani ka sanrakshan karti hain.",
-                    "example_expression_translation": "बूंद-बूंद सिंचाई",
-                    "example_expression_transliteration": "bund-bund sinchai",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "riego",
-                    "word_transliteration": "riégo",
-                    "example_sentence_translation": "Los sistemas de riego eficientes conservan el agua.",
-                    "example_sentence_transliteration": "Los sistémas de riégo efisiéntes konsérban el água.",
-                    "example_expression_translation": "riego por goteo",
-                    "example_expression_transliteration": "riégo por gotéo",
-                    "source": "oxford"
+                    "example_sentence_transliteration": "Teksoi poddhoti poribeshgoto prabhab hrash kore.",
+                    "source": "vocadrill.com"
                 }
             ]
         },
@@ -1157,299 +499,26 @@
             "word": "proactive",
             "phonetic": "ˌprəʊˈæk.tɪv",
             "word_native_transliteration": {
-                "bn": "প্রোঅ্যাকটিভ",
-                "hi": "प्रोएक्टिव",
-                "es": "proáktib"
+                "bn": "প্রোঅ্যাকটিভ"
             },
             "parts_of_speech": "adjective",
             "emoji": "🎯",
-            "meaning": "Taking action to control a situation rather than just responding to it after it happens.",
+            "meaning": "Taking action by causing change and not only reacting to change when it happens.",
             "example_sentence": "Proactive strategies are needed to combat scarcity.",
             "example_sentence_native_transliteration": {
-                "bn": "প্রোঅ্যাকটিভ স্ট্র্যাটেজিস আর নিডেড টু কমব্যাট স্কেয়ারসিটি।",
-                "es": "proáktib strátechis ar nídéd tu kombát eskérsiti.",
-                "hi": "प्रोएक्टिव स्ट्रैटेजीज़ आर नीडेड टू कॉम्बैट स्केयरसिटी।"
+                "bn": "প্রোঅ্যাকটিভ স্ট্র্যাটেজিস আর নিডেড টু কমব্যাট স্কেয়ারসিটি।"
             },
-            "example_expression": "proactive approach",
-            "example_expression_native_transliteration": {
-                "bn": "প্রোঅ্যাকটিভ অ্যাপ্রোচ",
-                "es": "proáktib apróch",
-                "hi": "प्रोएक्टिव अप्रोच"
-            },
-            "example_expression_meaning": "A way of dealing with problems by acting in advance to prevent them.",
-            "position": 20,
-            "synonyms": "preventive, preemptive, forward-thinking, anticipatory",
-            "antonyms": "reactive, passive, responsive, defensive",
+            "position": 19,
+            "synonyms": "preventive, preemptive",
+            "antonyms": "reactive, passive",
             "translations": [
                 {
                     "locale": "bn",
                     "word_translation": "সক্রিয়",
-                    "word_transliteration": "shokriyo",
+                    "word_transliteration": "shokrio",
                     "example_sentence_translation": "অভাব মোকাবিলায় সক্রিয় কৌশল প্রয়োজন।",
-                    "example_sentence_transliteration": "Obhab mokabilay shokriyo koushal proyojon.",
-                    "example_expression_translation": "সক্রিয় পদ্ধতি",
-                    "example_expression_transliteration": "shokriyo poddhoti",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "सक्रिय",
-                    "word_transliteration": "sakriya",
-                    "example_sentence_translation": "कमी से निपटने के लिए सक्रिय रणनीतियों की आवश्यकता है।",
-                    "example_sentence_transliteration": "Kami se nipatne ke liye sakriya rannitionyon ki avashyakta hai.",
-                    "example_expression_translation": "सक्रिय दृष्टिकोण",
-                    "example_expression_transliteration": "sakriya drishtikon",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "proactivo",
-                    "word_transliteration": "proaktíbo",
-                    "example_sentence_translation": "Se necesitan estrategias proactivas para combatir la escasez.",
-                    "example_sentence_transliteration": "Se nesesítan estratéjas proaktíbas pára kombatir la eskasés.",
-                    "example_expression_translation": "enfoque proactivo",
-                    "example_expression_transliteration": "enfóke proaktíbo",
-                    "source": "oxford"
-                }
-            ]
-        },
-        {
-            "word": "strategies",
-            "phonetic": "ˈstræt.ə.dʒiz",
-            "word_native_transliteration": {
-                "bn": "স্ট্র্যাটেজিস",
-                "hi": "स्ट्रैटेजीज़",
-                "es": "stratéchis"
-            },
-            "parts_of_speech": "noun",
-            "emoji": "📋",
-            "meaning": "Plans of action designed to achieve long-term or overall aims.",
-            "example_sentence": "Effective strategies require careful planning.",
-            "example_sentence_native_transliteration": {
-                "bn": "এফেক্টিভ স্ট্র্যাটেজিস রিকোয়ার কেয়ারফুল প্ল্যানিং।",
-                "es": "eféktib stratéchis rikuáir kérful pláning.",
-                "hi": "एफेक्टिव स्ट्रैटेजीज़ रिक्वायर केयरफुल प्लानिंग।"
-            },
-            "example_expression": "business strategies",
-            "example_expression_native_transliteration": {
-                "bn": "বিজনেস স্ট্র্যাটেজিস",
-                "es": "bísnes stratéchis",
-                "hi": "बिज़नेस स्ट्रैटेजीज़"
-            },
-            "example_expression_meaning": "Plans and methods used to achieve business goals and objectives.",
-            "position": 21,
-            "synonyms": "plans, tactics, approaches, methods, schemes",
-            "antonyms": "improvisation, randomness, chaos, disorganization",
-            "translations": [
-                {
-                    "locale": "bn",
-                    "word_translation": "কৌশল",
-                    "word_transliteration": "koushal",
-                    "example_sentence_translation": "কার্যকর কৌশলের জন্য সতর্ক পরিকল্পনা প্রয়োজন।",
-                    "example_sentence_transliteration": "Karjokor koushaler jonno shotorko porikolpona proyojon.",
-                    "example_expression_translation": "ব্যবসায়িক কৌশল",
-                    "example_expression_transliteration": "byabsayik koushal",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "रणनीतियां",
-                    "word_transliteration": "rannition",
-                    "example_sentence_translation": "प्रभावी रणनीतियों के लिए सावधानीपूर्वक योजना की आवश्यकता होती है।",
-                    "example_sentence_transliteration": "Prabhavi rannitionyon ke liye savdhanipurvak yojana ki avashyakta hoti hai.",
-                    "example_expression_translation": "व्यावसायिक रणनीतियां",
-                    "example_expression_transliteration": "vyavasayik rannition",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "estrategias",
-                    "word_transliteration": "estratéjas",
-                    "example_sentence_translation": "Las estrategias efectivas requieren una planificación cuidadosa.",
-                    "example_sentence_transliteration": "Las estratéjas efektíbas rekiéren úna planifikasión kuidadósa.",
-                    "example_expression_translation": "estrategias comerciales",
-                    "example_expression_transliteration": "estratéjas komersiáles",
-                    "source": "oxford"
-                }
-            ]
-        },
-        {
-            "word": "collaboration",
-            "phonetic": "kəˌlæb.əˈreɪ.ʃən",
-            "word_native_transliteration": {
-                "bn": "কোলাবোরেশন",
-                "hi": "कोलाबोरेशन",
-                "es": "kolaboréishon"
-            },
-            "parts_of_speech": "noun",
-            "emoji": "🤝",
-            "meaning": "The action of working with someone to produce or create something.",
-            "example_sentence": "Global collaboration addresses climate challenges.",
-            "example_sentence_native_transliteration": {
-                "bn": "গ্লোবাল কোলাবোরেশন অ্যাড্রেসেস ক্লাইমেট চ্যালেঞ্জেস।",
-                "es": "glóbal kolaboréishon adréses kláimet chalénches.",
-                "hi": "ग्लोबल कोलाबोरेशन एड्रेसेस क्लाइमेट चैलेंजेस।"
-            },
-            "example_expression": "international collaboration",
-            "example_expression_native_transliteration": {
-                "bn": "ইন্টারন্যাশনাল কোলাবোরেশন",
-                "es": "internashonál kolaboréishon",
-                "hi": "इंटरनेशनल कोलाबोरेशन"
-            },
-            "example_expression_meaning": "Cooperation between different countries to achieve common goals.",
-            "position": 22,
-            "synonyms": "cooperation, partnership, teamwork, alliance, joint effort",
-            "antonyms": "competition, rivalry, isolation, independence, separation",
-            "translations": [
-                {
-                    "locale": "bn",
-                    "word_translation": "সহযোগিতা",
-                    "word_transliteration": "shohojogita",
-                    "example_sentence_translation": "বৈশ্বিক সহযোগিতা জলবায়ু চ্যালেঞ্জ মোকাবেলা করে।",
-                    "example_sentence_transliteration": "Boishbik shohojogita jolobayu challenge mokabela kore.",
-                    "example_expression_translation": "আন্তর্জাতিক সহযোগিতা",
-                    "example_expression_transliteration": "antorjatik shohojogita",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "सहयोग",
-                    "word_transliteration": "sahyog",
-                    "example_sentence_translation": "वैश्विक सहयोग जलवायु चुनौतियों का समाधान करता है।",
-                    "example_sentence_transliteration": "Vaishvik sahyog jalvayu chunautiyon ka samadhan karta hai.",
-                    "example_expression_translation": "अंतर्राष्ट्रीय सहयोग",
-                    "example_expression_transliteration": "antarrashtriya sahyog",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "colaboración",
-                    "word_transliteration": "kolaborasión",
-                    "example_sentence_translation": "La colaboración global aborda los desafíos climáticos.",
-                    "example_sentence_transliteration": "La kolaborasión globál abórda los desafíos klimátikos.",
-                    "example_expression_translation": "colaboración internacional",
-                    "example_expression_transliteration": "kolaborasión internasiónál",
-                    "source": "oxford"
-                }
-            ]
-        },
-        {
-            "word": "integrated",
-            "phonetic": "ˈɪn.tɪ.ɡreɪ.tɪd",
-            "word_native_transliteration": {
-                "bn": "ইন্টিগ্রেটেড",
-                "hi": "इंटिग्रेटेड",
-                "es": "integrétid"
-            },
-            "parts_of_speech": "adjective",
-            "emoji": "🔗",
-            "meaning": "Combined into a whole; unified and coordinated.",
-            "example_sentence": "Integrated initiatives improve system efficiency.",
-            "example_sentence_native_transliteration": {
-                "bn": "ইন্টিগ্রেটেড ইনিশিয়েটিভস ইমপ্রুভ সিস্টেম এফিশিয়েন্সি।",
-                "es": "integrétid inishiátifs improf sistém eféishensi.",
-                "hi": "इंटिग्रेटेड इनिशिएटिव्स इम्प्रूव सिस्टम एफिशिएंसी।"
-            },
-            "example_expression": "integrated approach",
-            "example_expression_native_transliteration": {
-                "bn": "ইন্টিগ্রেটেড অ্যাপ্রোচ",
-                "es": "integrétid apróch",
-                "hi": "इंटिग्रेटेड अप्रोच"
-            },
-            "example_expression_meaning": "A comprehensive method that combines multiple elements or strategies.",
-            "position": 23,
-            "synonyms": "unified, combined, coordinated, comprehensive, holistic",
-            "antonyms": "separated, fragmented, isolated, disconnected, divided",
-            "translations": [
-                {
-                    "locale": "bn",
-                    "word_translation": "সমন্বিত",
-                    "word_transliteration": "shomonvito",
-                    "example_sentence_translation": "সমন্বিত উদ্যোগ ব্যবস্থার দক্ষতা বৃদ্ধি করে।",
-                    "example_sentence_transliteration": "Shomonvito uddyog byabosthar dokkhota briddhi kore.",
-                    "example_expression_translation": "সমন্বিত পদ্ধতি",
-                    "example_expression_transliteration": "shomonvito poddhoti",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "एकीकृत",
-                    "word_transliteration": "ekikrit",
-                    "example_sentence_translation": "एकीकृत पहल प्रणाली की दक्षता में सुधार करती है।",
-                    "example_sentence_transliteration": "Ekikrit pahal pranali ki dakshata mein sudhar karti hai.",
-                    "example_expression_translation": "एकीकृत दृष्टिकोण",
-                    "example_expression_transliteration": "ekikrit drishtikon",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "integrado",
-                    "word_transliteration": "integrádo",
-                    "example_sentence_translation": "Las iniciativas integradas mejoran la eficiencia del sistema.",
-                    "example_sentence_transliteration": "Las inisiátibas integradas mejóran la efiséensia del sistéma.",
-                    "example_expression_translation": "enfoque integrado",
-                    "example_expression_transliteration": "enfóke integrádo",
-                    "source": "oxford"
-                }
-            ]
-        },
-        {
-            "word": "initiatives",
-            "phonetic": "ɪˈnɪʃ.ə.tɪvz",
-            "word_native_transliteration": {
-                "bn": "ইনিশিয়েটিভস",
-                "hi": "इनिशिएटिव्स",
-                "es": "inishiátifs"
-            },
-            "parts_of_speech": "noun",
-            "emoji": "🚀",
-            "meaning": "Actions or strategies intended to resolve a difficulty or improve a situation.",
-            "example_sentence": "New initiatives focus on renewable energy.",
-            "example_sentence_native_transliteration": {
-                "bn": "নিউ ইনিশিয়েটিভস ফোকাস অন রিনিউএবল এনার্জি।",
-                "es": "níu inishiátifs fókas on riniúabl enérchi.",
-                "hi": "न्यू इनिशिएटिव्स फोकस ऑन रिन्यूएबल एनर्जी।"
-            },
-            "example_expression": "government initiatives",
-            "example_expression_native_transliteration": {
-                "bn": "গভর্নমেন্ট ইনিশিয়েটিভস",
-                "es": "góbernment inishiátifs",
-                "hi": "गवर्नमेंट इनिशिएटिव्स"
-            },
-            "example_expression_meaning": "Programs or policies implemented by the government to address specific issues.",
-            "position": 24,
-            "synonyms": "programs, projects, efforts, campaigns, measures",
-            "antonyms": "inaction, neglect, passivity, abandonment",
-            "translations": [
-                {
-                    "locale": "bn",
-                    "word_translation": "উদ্যোগ",
-                    "word_transliteration": "uddyog",
-                    "example_sentence_translation": "নতুন উদ্যোগ নবায়নযোগ্য শক্তির উপর মনোনিবেশ করে।",
-                    "example_sentence_transliteration": "Notun uddyog nobayonjogyo shoktir upor mononibesh kore.",
-                    "example_expression_translation": "সরকারি উদ্যোগ",
-                    "example_expression_transliteration": "shorkari uddyog",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "hi",
-                    "word_translation": "पहल",
-                    "word_transliteration": "pahal",
-                    "example_sentence_translation": "नई पहल नवीकरणीय ऊर्जा पर केंद्रित है।",
-                    "example_sentence_transliteration": "Nayi pahal navikarniya urja par kendrit hai.",
-                    "example_expression_translation": "सरकारी पहल",
-                    "example_expression_transliteration": "sarkari pahal",
-                    "source": "oxford"
-                },
-                {
-                    "locale": "es",
-                    "word_translation": "iniciativas",
-                    "word_transliteration": "inisiátibas",
-                    "example_sentence_translation": "Las nuevas iniciativas se centran en la energía renovable.",
-                    "example_sentence_transliteration": "Las nuébas inisiátibas se séntran en la enerjía renobáble.",
-                    "example_expression_translation": "iniciativas gubernamentales",
-                    "example_expression_transliteration": "inisiátibas gubernaméntales",
-                    "source": "oxford"
+                    "example_sentence_transliteration": "Abhab mokabilay shokrio koushal proyojon.",
+                    "source": "vocadrill.com"
                 }
             ]
         }
