@@ -1,0 +1,526 @@
+{
+    "position": 92,
+    "title_translation": {
+        "en": "Digital vs. Paper Time-Blocking Methods",
+        "bn": "Digital vs. Paper Time-Blocking Methods"
+    },
+    "content_translation": {
+        "en": "There is a **dichotomy** in time management—**digital** and **paper** time-blocking. Which of these two methods is more effective becomes a **conundrum** for many.\n\n**Digital** methods **facilitate** quick planning and **optimal** storage. They help maintain **overarching** task lists. However, many find them **ephemeral** and may **hinder** long-term memory.\n\nOn the other hand, **paper-based** methods are much more **pragmatic** and strategic. They provide opportunities to understand the **nuance** of time and are effective for **meticulous** planning. However, paper **viability** and organizational issues create some **discrepancy**.\n\nThe right solution is to create **synergy** between these two methods and **reconcile** them based on individual needs. By **juxtaposition** and **scrutinizing** which is more effective, it's possible to bring effective changes in time management.",
+        "bn": "সময় ব্যবস্থাপনার ক্ষেত্রে **dichotomy** দেখা যায়—**digital** এবং **paper** timeblocking। এই দুটি পদ্ধতির মধ্যে কোনটি বেশি কার্যকর, তা অনেকের জন্য একটি **conundrum** হয়ে দাঁড়ায়।\n\n**Digital** পদ্ধতি **facilitate** করে দ্রুত পরিকল্পনা এবং **optimal** সংরক্ষণ। এটি **overarching** কাজগুলোর তালিকা সংরক্ষণে সহায়ক। তবে, অনেকের কাছে এটি **ephemeral** মনে হয় এবং দীর্ঘমেয়াদে **hinder** করতে পারে।\n\nঅন্যদিকে, **paper-based** পদ্ধতি অনেক বেশি **pragmatic** এবং কৌশলগত। এটি সময়ের **nuance** বোঝার সুযোগ দেয় এবং **meticulous** পরিকল্পনার জন্য কার্যকর। তবে, কাগজের **viability** ও সংগঠনের সমস্যা কিছুটা **discrepancy** সৃষ্টি করে।\n\nসঠিক সমাধান হলো, এই দুটি পদ্ধতির মধ্যে **synergy** তৈরি করা এবং ব্যক্তিগত চাহিদার ভিত্তিতে **reconcile** করা। **Juxtaposition** করে কোনটি বেশি কার্যকর তা **scrutinize** করলে সময় ব্যবস্থাপনায় কার্যকর পরিবর্তন আনা সম্ভব।"
+    },
+    "list": [
+        {
+            "word": "dichotomy",
+            "phonetic": "/daɪˈkɒt.ə.mi/",
+            "word_native_transliteration": {
+                "bn": "ডাইকটমি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "A division or contrast between two things that are or are represented as being opposed or entirely different.",
+            "example_sentence": "The dichotomy between science and religion has been debated for centuries.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডাইকটমি বিটুইন সাইন্স অ্যান্ড রিলিজিয়ন হ্যাজ বিন ডিবেটেড ফর সেঞ্চুরিজ।"
+            },
+            "position": 1,
+            "synonyms": "division, contrast, polarity",
+            "antonyms": "unity, similarity, harmony",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্বৈততা, বৈপরীত্য, বিভাজন",
+                    "word_transliteration": "dwoittota, boiporito, bibhajon",
+                    "example_sentence_translation": "বিজ্ঞান ও ধর্মের ডাইকটমি শতাব্দী ধরে বিতর্কের বিষয়।",
+                    "example_sentence_transliteration": "Biggan o dhormer dichotomy shotabdi dhore bitorker bishoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "digital",
+            "phonetic": "/ˈdɪdʒ.ɪ.təl/",
+            "word_native_transliteration": {
+                "bn": "ডিজিটাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💻",
+            "meaning": "Relating to, using, or storing data or information in the form of digital signals; involving or relating to the use of computer technology.",
+            "example_sentence": "The world is shifting towards a digital economy.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ওয়ার্ল্ড ইজ শিফটিং টুওয়ার্ডস অ্যা ডিজিটাল ইকনমি।"
+            },
+            "position": 2,
+            "synonyms": "electronic, technological, computerized",
+            "antonyms": "analog, manual, physical",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রযুক্তি নির্ভর, সংখ্যাগত, ডিজিটালাইজড",
+                    "word_transliteration": "projukti nirbhor, sonkhyagoto, digitalized",
+                    "example_sentence_translation": "বিশ্ব ডিজিটাল অর্থনীতির দিকে এগিয়ে যাচ্ছে।",
+                    "example_sentence_transliteration": "Bishwo digital orthoneetir dike egiye jachche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "paper",
+            "phonetic": "/ˈpeɪ.pər/",
+            "word_native_transliteration": {
+                "bn": "পেপার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📄",
+            "meaning": "A material manufactured in thin sheets from the pulp of wood or other fibrous substances, used for writing or printing on.",
+            "example_sentence": "The student submitted his research paper on artificial intelligence.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্টুডেন্ট সাবমিটেড হিজ রিসার্চ পেপার অন আর্টিফিশিয়াল ইন্টেলিজেন্স।"
+            },
+            "position": 3,
+            "synonyms": "document, report, manuscript",
+            "antonyms": "digital file, virtual, online",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কাগজ, নথিপত্র, গবেষণাপত্র",
+                    "word_transliteration": "kagoj, nothipotro, gobeshonopotro",
+                    "example_sentence_translation": "শিক্ষার্থী কৃত্রিম বুদ্ধিমত্তার ওপর একটি গবেষণা পেপার জমা দিয়েছিল।",
+                    "example_sentence_transliteration": "Shikkharthi kritrimo buddhimottar opor ekti gobeshona paper joma diyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "time-blocking",
+            "phonetic": "/taɪm ˈblɒk.ɪŋ/",
+            "word_native_transliteration": {
+                "bn": "টাইম-ব্লকিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⏰",
+            "meaning": "A time management method where you divide your day into blocks of time and assign specific activities to each block.",
+            "example_sentence": "Time-blocking helps in better productivity and efficiency.",
+            "example_sentence_native_transliteration": {
+                "bn": "টাইম-ব্লকিং হেল্পস ইন বেটার প্রোডাকটিভিটি অ্যান্ড এফিশিয়েন্সি।"
+            },
+            "position": 4,
+            "synonyms": "scheduling, planning, organizing",
+            "antonyms": "spontaneity, procrastination, disorganization",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নির্দিষ্ট সময়ে কাজ ভাগ করা, সময় ব্যবস্থাপনার কৌশল",
+                    "word_transliteration": "nirdishto somoy-e kaj bhag kora, somoy byobosthapnar koushal",
+                    "example_sentence_translation": "টাইম-ব্লকিং উৎপাদনশীলতা এবং দক্ষতা উন্নত করতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Time-blocking utpadonsheelota ebong dokkhota unnoto korte sahajyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "conundrum",
+            "phonetic": "/kəˈnʌn.drəm/",
+            "word_native_transliteration": {
+                "bn": "কোনান্ড্রাম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤔",
+            "meaning": "A confusing and difficult problem or question; a puzzle or riddle.",
+            "example_sentence": "The budget crisis is a major conundrum for the government.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য বাজেট ক্রাইসিস ইজ অ্যা মেজর কোনান্ড্রাম ফর দ্য গভর্নমেন্ট।"
+            },
+            "position": 5,
+            "synonyms": "puzzle, dilemma, mystery",
+            "antonyms": "clarity, solution, simplicity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ধাঁধা, জটিল সমস্যা, বিভ্রান্তিকর পরিস্থিতি",
+                    "word_transliteration": "dhadha, jotil shomoshya, bhibrantikor poristhiti",
+                    "example_sentence_translation": "বাজেট সংকট সরকারের জন্য একটি বড় কোনান্ড্রাম।",
+                    "example_sentence_transliteration": "Budget songkot sorkarer jonyo ekti boro conundrum.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "facilitate",
+            "phonetic": "/fəˈsɪl.ɪ.teɪt/",
+            "word_native_transliteration": {
+                "bn": "ফ্যাসিলিটেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔧",
+            "meaning": "Make an action or process easier or help bring about.",
+            "example_sentence": "The new software will facilitate project management.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিউ সফটওয়্যার উইল ফ্যাসিলিটেট প্রজেক্ট ম্যানেজমেন্ট।"
+            },
+            "position": 6,
+            "synonyms": "assist, expedite, enable",
+            "antonyms": "hinder, obstruct, delay",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহজ করা, সাহায্যতা করা, উন্নত করা",
+                    "word_transliteration": "sohoj kora, sahajyota kora, unnoto kora",
+                    "example_sentence_translation": "নতুন সফটওয়্যার প্রকল্প ব্যবস্থাপনাকে ফ্যাসিলিটেট করবে।",
+                    "example_sentence_transliteration": "Notun software prokollpo byobosthapnake facilitate korbe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "optimal",
+            "phonetic": "/ˈɒp.tɪ.məl/",
+            "word_native_transliteration": {
+                "bn": "অপ্টিমাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⭐",
+            "meaning": "Best or most favorable; the most effective under particular conditions.",
+            "example_sentence": "The optimal temperature for plant growth is around 25°C.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অপ্টিমাল টেম্পারেচার ফর প্ল্যান্ট গ্রোথ ইজ অ্যারাউন্ড ২৫°সি।"
+            },
+            "position": 7,
+            "synonyms": "best, ideal, perfect",
+            "antonyms": "suboptimal, inefficient, inferior",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সর্বোত্তম, উন্নততর, কার্যকর",
+                    "word_transliteration": "sorbottom, unnottor, karjokor",
+                    "example_sentence_translation": "গাছের বৃদ্ধির জন্য অপ্টিমাল তাপমাত্রা প্রায় ২৫°সি।",
+                    "example_sentence_transliteration": "Gachher briddhir jonyo optimal tapamatra pray 25°C.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "overarching",
+            "phonetic": "/ˌəʊ.vərˈɑː.tʃɪŋ/",
+            "word_native_transliteration": {
+                "bn": "ওভারআর্চিং"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌐",
+            "meaning": "Comprehensive or all-embracing; forming an arch over something.",
+            "example_sentence": "The overarching theme of the book is human resilience.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ওভারআর্চিং থিম অব দ্য বুক ইজ হিউম্যান রেজিলিয়েন্স।"
+            },
+            "position": 8,
+            "synonyms": "comprehensive, encompassing, dominant",
+            "antonyms": "insignificant, limited, minor",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সর্বব্যাপী, বিস্তৃত, সর্বগ্রাসী",
+                    "word_transliteration": "sorbbyapi, bistrito, sorbgrashi",
+                    "example_sentence_translation": "বইটির ওভারআর্চিং বিষয়বস্তু হলো মানবিক দৃঢ়তা।",
+                    "example_sentence_transliteration": "Boitir overarching bishoybostu hollo manobik dridhota.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ephemeral",
+            "phonetic": "/ɪˈfem.ər.əl/",
+            "word_native_transliteration": {
+                "bn": "এফেমেরাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💨",
+            "meaning": "Lasting for a very short time; transitory.",
+            "example_sentence": "The beauty of a sunset is ephemeral but breathtaking.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য বিউটি অব অ্যা সানসেট ইজ এফেমেরাল বাট ব্রেথটেকিং।"
+            },
+            "position": 9,
+            "synonyms": "transient, fleeting, momentary",
+            "antonyms": "permanent, long-lasting, enduring",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বল্পস্থায়ী, ক্ষণস্থায়ী, অস্থায়ী",
+                    "word_transliteration": "sholposthayee, khonnosthayee, osthayee",
+                    "example_sentence_translation": "সূর্যাস্তের সৌন্দর্য এফেমেরাল হলেও মনোমুগ্ধকর।",
+                    "example_sentence_transliteration": "Suryaster sondorjo ephemeral holeo monomugdhkor.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "hinder",
+            "phonetic": "/ˈhɪn.dər/",
+            "word_native_transliteration": {
+                "bn": "হিন্ডার"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🚧",
+            "meaning": "Obstruct or delay the progress of something.",
+            "example_sentence": "Poor infrastructure can hinder economic growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "পুওর ইনফ্রাস্ট্রাকচার ক্যান হিন্ডার ইকনমিক গ্রোথ।"
+            },
+            "position": 10,
+            "synonyms": "obstruct, impede, delay",
+            "antonyms": "facilitate, assist, promote",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাধা দেওয়া, ব্যাহত করা, ধীর করা",
+                    "word_transliteration": "badha deowa, byahoto kora, dheer kora",
+                    "example_sentence_translation": "দুর্বল অবকাঠামো অর্থনৈতিক প্রবৃদ্ধিকে হিন্ডার করতে পারে।",
+                    "example_sentence_transliteration": "Durbol obokathamo orthonoitik probriddikhe hinder korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pragmatic",
+            "phonetic": "/præɡˈmæt.ɪk/",
+            "word_native_transliteration": {
+                "bn": "প্র্যাগম্যাটিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚙️",
+            "meaning": "Dealing with things sensibly and realistically in a way that is based on practical rather than idealistic considerations.",
+            "example_sentence": "He took a pragmatic approach to solving the financial crisis.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি টুক অ্যা প্র্যাগম্যাটিক অ্যাপ্রোচ টু সল্ভিং দ্য ফাইন্যান্সিয়াল ক্রাইসিস।"
+            },
+            "position": 11,
+            "synonyms": "practical, realistic, logical",
+            "antonyms": "theoretical, idealistic, impractical",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাস্তববাদী, কার্যকর, যুক্তিনিষ্ঠ",
+                    "word_transliteration": "bastobobadi, karjokor, juktinishtha",
+                    "example_sentence_translation": "তিনি আর্থিক সংকট সমাধানে একটি প্র্যাগম্যাটিক পদ্ধতি গ্রহণ করেছিলেন।",
+                    "example_sentence_transliteration": "Tini arthik songkot somadhane ekti pragmatic poddhoti grohon korechhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "nuance",
+            "phonetic": "/ˈnjuː.ɑːns/",
+            "word_native_transliteration": {
+                "bn": "নুয়ান্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎨",
+            "meaning": "A subtle difference in or shade of meaning, expression, or sound.",
+            "example_sentence": "The artist captured every nuance of human emotion in his painting.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য আর্টিস্ট ক্যাপচার্ড এভরি নুয়ান্স অব হিউম্যান ইমোশন ইন হিজ পেইন্টিং।"
+            },
+            "position": 12,
+            "synonyms": "subtlety, distinction, variation",
+            "antonyms": "obviousness, simplicity, uniformity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সূক্ষ্ম পার্থক্য, ক্ষুদ্র পরিবর্তন, ভিন্নতা",
+                    "word_transliteration": "shukkho parthokko, khuddro poriborton, bhinnota",
+                    "example_sentence_translation": "শিল্পী তার চিত্রকর্মে মানুষের অনুভূতির প্রতিটি নুয়ান্স ফুটিয়ে তুলেছেন।",
+                    "example_sentence_transliteration": "Shilpi tar chitrokormo manusher onubhutir protiti nuance futiye tulecchen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "meticulous",
+            "phonetic": "/məˈtɪk.jə.ləs/",
+            "word_native_transliteration": {
+                "bn": "মেটিকুলাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔍",
+            "meaning": "Showing great attention to detail; very careful and precise.",
+            "example_sentence": "She is meticulous about organizing her files.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি ইজ মেটিকুলাস অ্যাবাউট অর্গানাইজিং হার ফাইলস।"
+            },
+            "position": 13,
+            "synonyms": "precise, thorough, detailed",
+            "antonyms": "careless, negligent, inaccurate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতি সতর্ক, নিখুঁত, সুনির্দিষ্ট",
+                    "word_transliteration": "oti shotorko, nikhunto, sunirdishto",
+                    "example_sentence_translation": "তিনি তার ফাইলগুলি গোছানোর ব্যাপারে মেটিকুলাস।",
+                    "example_sentence_transliteration": "Tini tar fileguli gochanor byapare meticulous.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "viability",
+            "phonetic": "/ˌvaɪ.əˈbɪl.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "ভায়াবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✅",
+            "meaning": "Ability to work successfully; feasibility.",
+            "example_sentence": "The viability of the project depends on funding.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ভায়াবিলিটি অব দ্য প্রজেক্ট ডিপেন্ডস অন ফান্ডিং।"
+            },
+            "position": 14,
+            "synonyms": "feasibility, sustainability, workability",
+            "antonyms": "impracticality, fragility, infeasibility",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "টিকে থাকার ক্ষমতা, কার্যকারিতা, সম্ভাব্যতা",
+                    "word_transliteration": "tike thakar khomota, karjokarota, shombhabota",
+                    "example_sentence_translation": "প্রকল্পটির ভায়াবিলিটি সম্পূর্ণরূপে তহবিলের ওপর নির্ভর করছে।",
+                    "example_sentence_transliteration": "Prokollpotir viability sompurnorupe tohbiler opor nirbhor korchhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "discrepancy",
+            "phonetic": "/dɪˈskrep.ən.si/",
+            "word_native_transliteration": {
+                "bn": "ডিসক্রেপেন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚠️",
+            "meaning": "A lack of compatibility or similarity between two or more facts.",
+            "example_sentence": "The audit revealed a discrepancy between the reported earnings and actual income.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অডিট রিভিল্ড অ্যা ডিসক্রেপেন্সি বিটুইন দ্য রিপোর্টেড আর্নিংস অ্যান্ড অ্যাকচুয়াল ইনকাম।"
+            },
+            "position": 15,
+            "synonyms": "inconsistency, mismatch, variation",
+            "antonyms": "agreement, consistency, similarity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অসঙ্গতি, পার্থক্য, বিভেদ",
+                    "word_transliteration": "oshongoti, parthokko, bibhed",
+                    "example_sentence_translation": "অডিটে দেখা গেছে ঘোষিত আয় এবং প্রকৃত আয়ের মধ্যে একটি ডিসক্রেপেন্সি রয়েছে।",
+                    "example_sentence_transliteration": "Audite dekha geche ghoshito ay ebong prokrito ayer moddhe ekti discrepancy royeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "synergy",
+            "phonetic": "/ˈsɪn.ə.dʒi/",
+            "word_native_transliteration": {
+                "bn": "সিনার্জি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "The interaction or cooperation of two or more organizations, substances, or other agents to produce a combined effect greater than the sum of their separate effects.",
+            "example_sentence": "The synergy between the two companies led to increased profits.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সিনার্জি বিটুইন দ্য টু কোম্পানিজ লেড টু ইনক্রিসড প্রফিটস।"
+            },
+            "position": 16,
+            "synonyms": "collaboration, integration, unification",
+            "antonyms": "isolation, division, weakness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সম্মিলিত শক্তি, সহযোগিতা, সমন্বিত প্রভাব",
+                    "word_transliteration": "shommilito shokti, shohojogita, shommonbito probhab",
+                    "example_sentence_translation": "দুই কোম্পানির মধ্যে সিনার্জি লাভ বৃদ্ধির কারণ হয়ে দাঁড়িয়েছে।",
+                    "example_sentence_transliteration": "Dui companir moddhe synergy labh briddhir karon hoye dandiyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "reconcile",
+            "phonetic": "/ˈrek.ən.saɪl/",
+            "word_native_transliteration": {
+                "bn": "রেকনসাইল"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🤲",
+            "meaning": "Restore friendly relations between; cause to coexist in harmony.",
+            "example_sentence": "They tried to reconcile their differences through open communication.",
+            "example_sentence_native_transliteration": {
+                "bn": "দে ট্রাইড টু রেকনসাইল দেয়ার ডিফারেন্সেস থ্রু ওপেন কমিউনিকেশন।"
+            },
+            "position": 17,
+            "synonyms": "settle, harmonize, resolve",
+            "antonyms": "dispute, separate, estrange",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মিল করানো, পুনর্মিলন ঘটানো, বিরোধ মেটানো",
+                    "word_transliteration": "mil korano, punormillon ghotano, birodh metano",
+                    "example_sentence_translation": "তারা খোলামেলা আলোচনার মাধ্যমে তাদের মতপার্থক্য রেকনসাইল করার চেষ্টা করেছিল।",
+                    "example_sentence_transliteration": "Tara kholamela alochnar madhome tader motoparthokko reconcile korar cheshta korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "juxtaposition",
+            "phonetic": "/ˌdʒʌk.stə.pəˈzɪʃ.ən/",
+            "word_native_transliteration": {
+                "bn": "জাক্সটাপজিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "The fact of two things being seen or placed close together with contrasting effect.",
+            "example_sentence": "The juxtaposition of modern and traditional architecture in the city is fascinating.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য জাক্সটাপজিশন অব মডার্ন অ্যান্ড ট্র্যাডিশনাল আর্কিটেকচার ইন দ্য সিটি ইজ ফ্যাসিনেটিং।"
+            },
+            "position": 18,
+            "synonyms": "contrast, alignment, comparison",
+            "antonyms": "separation, isolation, division",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পাশাপাশি স্থাপন, তুলনা, বৈপরীত্য",
+                    "word_transliteration": "pashapashi sthapan, tulona, boiporito",
+                    "example_sentence_translation": "শহরের আধুনিক ও ঐতিহ্যবাহী স্থাপত্যের জাক্সটাপজিশন মনোমুগ্ধকর।",
+                    "example_sentence_transliteration": "Shohorer adhunik o oitihyobahi sthapotyoer juxtaposition monomugdhkor.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "scrutinize",
+            "phonetic": "/ˈskruː.tɪ.naɪz/",
+            "word_native_transliteration": {
+                "bn": "স্ক্রুটিনাইজ"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔍",
+            "meaning": "Examine or inspect closely and thoroughly.",
+            "example_sentence": "The scientist scrutinized the data before publishing his findings.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সাইন্টিস্ট স্ক্রুটিনাইজড দ্য ডেটা বিফোর পাবলিশিং হিজ ফাইন্ডিংস।"
+            },
+            "position": 19,
+            "synonyms": "examine, inspect, analyze",
+            "antonyms": "overlook, ignore, neglect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গভীরভাবে পরীক্ষা করা, বিশ্লেষণ করা, খুঁটিয়ে দেখা",
+                    "word_transliteration": "gobhirbhabe poriksha kora, bishleshon kora, khutiye dekha",
+                    "example_sentence_translation": "বিজ্ঞানী তার গবেষণার ফলাফল প্রকাশের আগে তথ্যগুলো স্ক্রুটিনাইজ করেছেন।",
+                    "example_sentence_transliteration": "Bigani tar gobeshnar pholaphol prokasher age tothyogulo scrutinize korechhen.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

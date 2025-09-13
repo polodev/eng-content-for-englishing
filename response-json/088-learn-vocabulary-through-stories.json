@@ -1,0 +1,337 @@
+{
+    "position": 88,
+    "title_translation": {
+        "en": "Common Mistakes in Dopamine Detoxing",
+        "bn": "Dopamine detoxing নিয়ে সাধারণ ভুলত্রুটি"
+    },
+    "content_translation": {
+        "en": "**Dopamine detoxing** has many **misconceptions** around it, which confuse people. Many people think it means completely staying away from all sources of joy, which is a completely **fallacious** idea.\n\nFirstly, some people **coerce** themselves into strict rules, which can be **detrimental** to mental health. Changes should be made gradually, not suddenly.\n\nSecondly, some people follow excessively strict policies, which become **exorbitant** and make it difficult to adapt to normal life. This can create a **hindrance** and can have long-term **repercussions**.\n\nAdditionally, many people make **ambiguous** decisions without understanding their true **predisposition**. As a result, they become **desensitized** and fail to bring about real change. For a successful dopamine detox, we need to **ascertain** which habits are truly harmful and which ones are simply considered **unwarranted** socially.",
+        "bn": "**Dopamine detoxing** নিয়ে অনেক **misconception** রয়েছে, যা মানুষকে বিভ্রান্ত করে। অনেকেই ভাবে, এটি মানে সম্পূর্ণ আনন্দের উৎস থেকে নিজেকে দূরে রাখা, যা একদম **fallacious** ধারণা।\n\nপ্রথমত, কেউ কেউ **coerce** করে নিজেদের কঠোর নিয়মের মধ্যে নিয়ে যায়, যা মানসিক স্বাস্থ্যের জন্য **detrimental** হতে পারে। পরিবর্তন আনতে হলে এটি ধীরে ধীরে করা উচিত, হঠাৎ করে নয়।\n\nদ্বিতীয়ত, কিছু মানুষ অতিরিক্ত কড়াকড়ি নীতি অনুসরণ করে, যা **exorbitant** হয়ে যায় এবং এটি স্বাভাবিক জীবনের সঙ্গে খাপ খাওয়ানো কঠিন করে তোলে। এটি **hindrance** সৃষ্টি করতে পারে এবং দীর্ঘমেয়াদে **repercussions** ফেলতে পারে।\n\nএছাড়া, অনেকেই তাদের প্রকৃত **predisposition** না বুঝে **ambiguous** সিদ্ধান্ত নেয়। ফলাফল হিসেবে, তারা **desensitize** হয়ে পড়ে এবং আসল পরিবর্তন আনতে ব্যর্থ হয়। একটি সফল dopamine detox করার জন্য, আমাদের **ascertain** করতে হবে কোন অভ্যাসগুলো সত্যিকারের ক্ষতিকর এবং কোনগুলো শুধু সামাজিকভাবে **unwarranted** বলে মনে হয়।"
+    },
+    "list": [
+        {
+            "word": "misconception",
+            "phonetic": "ˌmɪs.kənˈsɛp.ʃən",
+            "word_native_transliteration": {
+                "bn": "মিসকনসেপশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤔",
+            "meaning": "A wrong idea or false understanding about something.",
+            "example_sentence": "There is a common misconception that success happens overnight.",
+            "example_sentence_native_transliteration": {
+                "bn": "দেয়ার ইজ এ কমন মিসকনসেপশন দ্যাট সাকসেস হ্যাপেনস ওভারনাইট।"
+            },
+            "position": 1,
+            "synonyms": "misinformation, fallacy, delusion",
+            "antonyms": "truth, understanding, accuracy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভুল ধারণা",
+                    "word_transliteration": "bhul dharona",
+                    "example_sentence_translation": "সাধারণ একটি ভুল ধারণা হলো সাফল্য রাতারাতি আসে।",
+                    "example_sentence_transliteration": "Sadharon ekti bhul dharona holo shafolyo ratarati ashe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fallacious",
+            "phonetic": "fəˈleɪ.ʃəs",
+            "word_native_transliteration": {
+                "bn": "ফ্যালেশাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "❌",
+            "meaning": "Based on false reasoning or misleading arguments.",
+            "example_sentence": "His argument was based on fallacious reasoning.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ আর্গুমেন্ট ওয়াজ বেইসড অন ফ্যালেশাস রিজনিং।"
+            },
+            "position": 2,
+            "synonyms": "false, misleading, deceptive",
+            "antonyms": "logical, truthful, valid",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভ্রান্ত",
+                    "word_transliteration": "bhranto",
+                    "example_sentence_translation": "তার যুক্তিটি ভুল ভিত্তির উপর গঠিত ছিল।",
+                    "example_sentence_transliteration": "Tar juktiti bhul bhittir upor gothito chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "coerce",
+            "phonetic": "koʊˈɜrs",
+            "word_native_transliteration": {
+                "bn": "কোয়ার্স"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⚡",
+            "meaning": "To force someone to do something against their will using threats or intimidation.",
+            "example_sentence": "The manager tried to coerce the employees into working overtime.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ম্যানেজার ট্রাইড টু কোয়ার্স দ্য এমপ্লয়িজ ইনটু ওয়ার্কিং ওভারটাইম।"
+            },
+            "position": 3,
+            "synonyms": "force, compel, intimidate",
+            "antonyms": "persuade, encourage, allow",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাধ্য করা",
+                    "word_transliteration": "badhyo kora",
+                    "example_sentence_translation": "ম্যানেজার কর্মীদের অতিরিক্ত সময় কাজ করতে বাধ্য করার চেষ্টা করেছিলেন।",
+                    "example_sentence_transliteration": "Manager kormider otirikto somoy kaj korte badhyo korar chesta korechilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "detrimental",
+            "phonetic": "ˌdɛ.trɪˈmɛn.təl",
+            "word_native_transliteration": {
+                "bn": "ডেট্রিমেন্টাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚠️",
+            "meaning": "Causing harm or damage to something or someone.",
+            "example_sentence": "Lack of sleep is detrimental to mental health.",
+            "example_sentence_native_transliteration": {
+                "bn": "ল্যাক অফ স্লিপ ইজ ডেট্রিমেন্টাল টু মেন্টাল হেলথ।"
+            },
+            "position": 4,
+            "synonyms": "harmful, damaging, adverse",
+            "antonyms": "beneficial, helpful, advantageous",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্ষতিকর",
+                    "word_transliteration": "khotikar",
+                    "example_sentence_translation": "ঘুমের অভাব মানসিক স্বাস্থ্যের জন্য ক্ষতিকর।",
+                    "example_sentence_transliteration": "Ghumer abhab manoshik shasther jonno khotikar.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "exorbitant",
+            "phonetic": "ɪɡˈzɔr.bɪ.tənt",
+            "word_native_transliteration": {
+                "bn": "এক্সোরবিট্যান্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💸",
+            "meaning": "Unreasonably high in price or amount; excessive.",
+            "example_sentence": "The hotel charged an exorbitant price for a basic room.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য হোটেল চার্জড অ্যান এক্সোরবিট্যান্ট প্রাইস ফর এ বেসিক রুম।"
+            },
+            "position": 5,
+            "synonyms": "excessive, overpriced, outrageous",
+            "antonyms": "reasonable, affordable, moderate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতিরিক্ত ব্যয়বহুল",
+                    "word_transliteration": "otirikto byoyobohul",
+                    "example_sentence_translation": "হোটেলটি একটি সাধারণ কক্ষের জন্য অত্যধিক মূল্য নির্ধারণ করেছিল।",
+                    "example_sentence_transliteration": "Hotelti ekti sadharon kokher jonno otottodhik mulyo nirdharonn korechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "hindrance",
+            "phonetic": "ˈhɪn.drəns",
+            "word_native_transliteration": {
+                "bn": "হিনড্রেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚧",
+            "meaning": "Something that creates difficulties or delays in progress.",
+            "example_sentence": "Lack of funds was a major hindrance to the project.",
+            "example_sentence_native_transliteration": {
+                "bn": "ল্যাক অফ ফান্ডস ওয়াজ এ মেজর হিনড্রেন্স টু দ্য প্রজেক্ট।"
+            },
+            "position": 6,
+            "synonyms": "obstacle, impediment, barrier",
+            "antonyms": "aid, assistance, facilitation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাধা",
+                    "word_transliteration": "badha",
+                    "example_sentence_translation": "তহবিলের অভাব প্রকল্পের জন্য একটি প্রধান বাধা ছিল।",
+                    "example_sentence_transliteration": "Tohobiler abhab prokolper jonno ekti prodhan badha chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "repercussions",
+            "phonetic": "ˌriː.pɚˈkʌʃ.ənz",
+            "word_native_transliteration": {
+                "bn": "রিপারকাশনস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The unintended consequences or effects of an action or event.",
+            "example_sentence": "The new policy had unintended repercussions on the economy.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিউ পলিসি হ্যাড আনইনটেন্ডেড রিপারকাশনস অন দ্য ইকোনমি।"
+            },
+            "position": 7,
+            "synonyms": "consequences, aftermath, ramifications",
+            "antonyms": "cause, beginning, origin",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিণতি",
+                    "word_transliteration": "porinoti",
+                    "example_sentence_translation": "নতুন নীতির অর্থনীতির ওপর অপ্রত্যাশিত প্রতিক্রিয়া দেখা গেছে।",
+                    "example_sentence_transliteration": "Notun nitir orthoneetir opor oprottyashito protikriya dekha geche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "predisposition",
+            "phonetic": "ˌpriː.dɪs.pəˈzɪʃ.ən",
+            "word_native_transliteration": {
+                "bn": "প্রিডিসপোজিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧬",
+            "meaning": "A natural tendency or inclination toward a particular behavior or condition.",
+            "example_sentence": "Genetic factors can influence a person's predisposition to diseases.",
+            "example_sentence_native_transliteration": {
+                "bn": "জেনেটিক ফ্যাক্টরস ক্যান ইনফ্লুয়েন্স এ পার্সনস প্রিডিসপোজিশন টু ডিজিজেস।"
+            },
+            "position": 8,
+            "synonyms": "inclination, tendency, susceptibility",
+            "antonyms": "immunity, resistance, avoidance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রবণতা",
+                    "word_transliteration": "probonota",
+                    "example_sentence_translation": "জেনেটিক কারণ একজন ব্যক্তির রোগের প্রবণতাকে প্রভাবিত করতে পারে।",
+                    "example_sentence_transliteration": "Genetic karon ekjon byektir roger probontoake probhabito korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ambiguous",
+            "phonetic": "æmˈbɪɡ.ju.əs",
+            "word_native_transliteration": {
+                "bn": "অ্যাম্বিগিউয়াস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "❓",
+            "meaning": "Having more than one possible meaning; unclear or vague.",
+            "example_sentence": "His statement was too ambiguous to understand.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ স্টেটমেন্ট ওয়াজ টু অ্যাম্বিগিউয়াস টু আন্ডারস্ট্যান্ড।"
+            },
+            "position": 9,
+            "synonyms": "vague, unclear, uncertain",
+            "antonyms": "clear, explicit, definite",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অস্পষ্ট",
+                    "word_transliteration": "oshposhto",
+                    "example_sentence_translation": "তার বক্তব্যটি বোঝার জন্য অত্যন্ত অস্পষ্ট ছিল।",
+                    "example_sentence_transliteration": "Tar boktobbyoti bojhar jonno ottyonto oshposhto chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "desensitize",
+            "phonetic": "diːˈsɛn.sɪ.taɪz",
+            "word_native_transliteration": {
+                "bn": "ডিসেনসিটাইজ"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "😐",
+            "meaning": "To make someone less sensitive or reactive to something through repeated exposure.",
+            "example_sentence": "Constant exposure to violence can desensitize people.",
+            "example_sentence_native_transliteration": {
+                "bn": "কনস্ট্যান্ট এক্সপোজার টু ভায়োলেন্স ক্যান ডিসেনসিটাইজ পিপল।"
+            },
+            "position": 10,
+            "synonyms": "numb, deactivate, harden",
+            "antonyms": "sensitize, heighten, strengthen",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংবেদনশীলতা কমানো",
+                    "word_transliteration": "shongbedonsheelota komano",
+                    "example_sentence_translation": "নিয়মিত সহিংসতা দেখা মানুষকে অনুভূতিহীন করতে পারে।",
+                    "example_sentence_transliteration": "Niyomito sohingshota dekha manushke onubhutiheen korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ascertain",
+            "phonetic": "ˌæs.ɚˈteɪn",
+            "word_native_transliteration": {
+                "bn": "অ্যাসারটেইন"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔍",
+            "meaning": "To find out or discover something with certainty; to verify.",
+            "example_sentence": "The police tried to ascertain the cause of the accident.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য পুলিশ ট্রাইড টু অ্যাসারটেইন দ্য কজ অফ দ্য অ্যাক্সিডেন্ট।"
+            },
+            "position": 11,
+            "synonyms": "determine, verify, confirm",
+            "antonyms": "assume, ignore, overlook",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিশ্চিত হওয়া",
+                    "word_transliteration": "nishchito howa",
+                    "example_sentence_translation": "পুলিশ দুর্ঘটনার কারণ নিশ্চিত করার চেষ্টা করেছিল।",
+                    "example_sentence_transliteration": "Pulish durghotonir karon nishchito korar chesta korechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "unwarranted",
+            "phonetic": "ʌnˈwɔːr.rən.tɪd",
+            "word_native_transliteration": {
+                "bn": "আনওয়ারেন্টেড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🚫",
+            "meaning": "Not justified or necessary; without good reason.",
+            "example_sentence": "His anger toward the staff was completely unwarranted.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ অ্যাঙ্গার টুওয়ার্ড দ্য স্টাফ ওয়াজ কমপ্লিটলি আনওয়ারেন্টেড।"
+            },
+            "position": 12,
+            "synonyms": "unjustified, baseless, unreasonable",
+            "antonyms": "justified, reasonable, valid",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অযৌক্তিক",
+                    "word_transliteration": "oyouktik",
+                    "example_sentence_translation": "কর্মীদের প্রতি তার রাগ সম্পূর্ণ অযৌক্তিক ছিল।",
+                    "example_sentence_transliteration": "Kormider proti tar rag shompurno oyouktik chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

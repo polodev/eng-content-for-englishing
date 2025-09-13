@@ -1,0 +1,553 @@
+{
+    "position": 91,
+    "title_translation": {
+        "en": "Developing Confidence in Everyday Conversations",
+        "bn": "দৈনন্দিন কথোপকথনে আত্মবিশ্বাস গঠন"
+    },
+    "content_translation": {
+        "en": "**Articulation** and **fluency** are among the key tools for building confidence in our daily lives. Often, people feel afraid because they lack **eloquence** or **coherence**, resulting in unclear speech. If anyone maintains **authenticity** while speaking and shows natural **spontaneity**, their **charisma** automatically increases. Many think that only **proficiency** is needed for conversation, but understanding **nuance** and creating proper **resonance** are also important. In any **impromptu** situation, it's necessary to have **audacity** and **gravitas**. By maintaining **persuasiveness** and **veracity** in speech, one can easily build **rapport** with others. To build confidence, we should regularly practice **dexterity** and **reinforce** our thoughts. At the end of the day, **lucidity** and being **emboldened** are the real keys to increasing confidence.",
+        "bn": "**Articulation** এবং **fluency** বা ড়া নো আমা দে র দৈ নন্দি ন জী বনে আত্মবি শ্বা স গঠনে র অন্য তম চা বি কা ঠি। অনে ক সময়, মা নুষ ভয় পা য় কা রণ তা দে র **eloquence** বা **coherence** কম থা কে , ফলে কথা র মধ্যে স্বচ্ছতা থা কে না । যে কে উ যদি **authenticity** বজা য় রে খে কথা বলে এবং স্বা ভা বি ক **spontaneity** দে খা য়, তবে তা র **charisma** স্বয়ং ক্রি য়ভা বে বৃদ্ধি পা য়। অনে কে মনে করে ন যে কথো পকথনে র জন্য কে বলমা ত্র **proficiency** প্রয়ো জন, কি ন্তু আসলে **nuance** বো ঝা এবং সঠিক **resonance** তৈ র করা ও গুরু ত্বপূর্ণ। কো নো **impromptu** পরি স্থি তি তে কথা বলা র সময় **audacity** এবং **gravitas** থা কা প্রয়ো জন। **Persuasiveness** এবং **veracity** বজা য় রে খে কথা বললে , অন্য দে র সা থে সহজে ই **rapport** গড়ে তো লা যা য়। আত্মবি শ্বা স তৈ রি করতে , আমা দে র উচি ত নি য়মি ত **dexterity** অনুশী লন করা এবং নি জে দে র চি ন্তা ভা বনা কে **reinforce** করা । দি নে র শে ষে , **lucidity** এবং **embolden** হওয়া আত্মবি শ্বা স বা ড়া নো র আসল চা বি কা ঠি।"
+    },
+    "list": [
+        {
+            "word": "articulation",
+            "phonetic": "/ˌɑːr.tɪ.kjʊˈleɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "আর্টিকুলেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🗣️",
+            "meaning": "The action of speaking words clearly or expressing thoughts in a clear and effective way.",
+            "example_sentence": "His articulation made the speech easy to understand.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ আর্টিকুলেশন মেইড দ্য স্পিচ ইজি টু আন্ডারস্ট্যান্ড।"
+            },
+            "position": 1,
+            "synonyms": "expression, enunciation, clarity",
+            "antonyms": "mumbling, incoherence, unintelligibility",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্পষ্ট উচ্চারণ",
+                    "word_transliteration": "sposhto uchcharon",
+                    "example_sentence_translation": "তার স্পষ্ট উচ্চারণ বক্তৃতাটিকে সহজবোধ্য করে তুলেছে।",
+                    "example_sentence_transliteration": "Tar sposhto uchcharon boktritotike shojobodho kore tuleshhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fluency",
+            "phonetic": "/ˈfluː.ən.si/",
+            "word_native_transliteration": {
+                "bn": "ফ্লুয়েন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💬",
+            "meaning": "The ability to speak or write a language smoothly and effortlessly.",
+            "example_sentence": "She speaks English with remarkable fluency.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি স্পিকস ইংলিশ উইথ রিমার্কএবল ফ্লুয়েন্সি।"
+            },
+            "position": 2,
+            "synonyms": "flow, smoothness, eloquence",
+            "antonyms": "hesitation, stuttering, incoherence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনর্গলতা",
+                    "word_transliteration": "onorgolta",
+                    "example_sentence_translation": "তিনি ইংরেজি অত্যন্ত অনর্গলভাবে বলতে পারেন।",
+                    "example_sentence_transliteration": "Tini ingreji ottyonto onorgolbhabe bolte paren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "eloquence",
+            "phonetic": "/ˈɛl.ə.kwəns/",
+            "word_native_transliteration": {
+                "bn": "এলোকুয়েন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎭",
+            "meaning": "Fluent or persuasive speaking or writing; the quality of being eloquent.",
+            "example_sentence": "His eloquence captivated the audience.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ এলোকুয়েন্স ক্যাপটিভেইটেড দ্য অডিয়েন্স।"
+            },
+            "position": 3,
+            "synonyms": "persuasiveness, expressiveness, oratory",
+            "antonyms": "inarticulateness, dullness, ineffectiveness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাকপটুতা",
+                    "word_transliteration": "bakpotuta",
+                    "example_sentence_translation": "তার বাকপটুতা দর্শকদের মুগ্ধ করেছে।",
+                    "example_sentence_transliteration": "Tar bakpotuta dorshokder mugdho koreshshe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "coherence",
+            "phonetic": "/koʊˈhɪr.əns/",
+            "word_native_transliteration": {
+                "bn": "কোহিরেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧩",
+            "meaning": "The quality of being logical and consistent; forming a unified whole.",
+            "example_sentence": "The essay lacked coherence, making it hard to follow.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এসে ল্যাকড কোহিরেন্স, মেকিং ইট হার্ড টু ফলো।"
+            },
+            "position": 4,
+            "synonyms": "logical consistency, unity, clarity",
+            "antonyms": "incoherence, confusion, disorganization",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সুসংগতি",
+                    "word_transliteration": "shushongoti",
+                    "example_sentence_translation": "নিবন্ধটিতে সুসংগতি ছিল না, ফলে এটি বোঝা কঠিন হয়ে পড়েছিল।",
+                    "example_sentence_transliteration": "Nibandhhotite shushongoti chhilo na, fole eti bojha kothin hoye poreshshilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "authenticity",
+            "phonetic": "/ˌɔː.θɛnˈtɪs.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "অথেন্টিসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✨",
+            "meaning": "The quality of being authentic; genuineness or truthfulness.",
+            "example_sentence": "The authenticity of the document was verified.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অথেন্টিসিটি অব দ্য ডকুমেন্ট ওয়াজ ভেরিফাইড।"
+            },
+            "position": 5,
+            "synonyms": "genuineness, credibility, reliability",
+            "antonyms": "falseness, imitation, deception",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সত্যতা",
+                    "word_transliteration": "shottyota",
+                    "example_sentence_translation": "নথিটির সত্যতা যাচাই করা হয়েছে।",
+                    "example_sentence_transliteration": "Nothitir shottyota jachhai kora hoyeshshe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "spontaneity",
+            "phonetic": "/ˌspɒn.təˈneɪ.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "স্পন্টানিইটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "The quality of being spontaneous; natural and unplanned behavior.",
+            "example_sentence": "His spontaneity makes him a great conversationalist.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ স্পন্টানিইটি মেকস হিম এ গ্রেট কনভারসেশনালিস্ট।"
+            },
+            "position": 6,
+            "synonyms": "naturalness, impulsiveness, instinctiveness",
+            "antonyms": "rigidity, pre-planning, hesitation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বতঃস্ফূর্ততা",
+                    "word_transliteration": "shotohsfurtota",
+                    "example_sentence_translation": "তার স্বতঃস্ফূর্ততা তাকে দুর্দান্ত কথোপকথনকারী করে তোলে।",
+                    "example_sentence_transliteration": "Tar shotohsfurtota take durdanto kothopokothonkari kore tole.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "charisma",
+            "phonetic": "/kəˈrɪz.mə/",
+            "word_native_transliteration": {
+                "bn": "ক্যারিজমা"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌟",
+            "meaning": "Compelling attractiveness or charm that can inspire devotion in others.",
+            "example_sentence": "His charisma helped him become a great leader.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ক্যারিজমা হেল্পড হিম বিকাম এ গ্রেট লিডার।"
+            },
+            "position": 7,
+            "synonyms": "charm, magnetism, allure",
+            "antonyms": "unattractiveness, dullness, repulsiveness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আকর্ষণীয় ব্যক্তিত্ব",
+                    "word_transliteration": "akorshoniu bekktitto",
+                    "example_sentence_translation": "তার আকর্ষণীয় ব্যক্তিত্ব তাকে একজন মহান নেতা হতে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Tar akorshoniu bekktitto take ekjon mohan neta hote shahajyo koreshshe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "proficiency",
+            "phonetic": "/prəˈfɪʃ.ən.si/",
+            "word_native_transliteration": {
+                "bn": "প্রফিশিয়েন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "Competence or skill in doing or using something.",
+            "example_sentence": "His proficiency in programming helped him secure a good job.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ প্রফিশিয়েন্সি ইন প্রোগ্রামিং হেল্পড হিম সিকিউর এ গুড জব।"
+            },
+            "position": 8,
+            "synonyms": "expertise, mastery, competence",
+            "antonyms": "incompetence, ineptitude, weakness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষতা",
+                    "word_transliteration": "dokkhota",
+                    "example_sentence_translation": "প্রোগ্রামিংয়ে তার দক্ষতা তাকে একটি ভালো চাকরি পেতে সহায়তা করেছে।",
+                    "example_sentence_transliteration": "Programmingye tar dokkhota take ekti bhalo chakri pete shahayota koreshshe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "nuance",
+            "phonetic": "/ˈnuː.ɑːns/",
+            "word_native_transliteration": {
+                "bn": "নিউয়ান্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔍",
+            "meaning": "A subtle difference in or shade of meaning, expression, or response.",
+            "example_sentence": "Understanding the nuance of a foreign language takes time.",
+            "example_sentence_native_transliteration": {
+                "bn": "আন্ডারস্ট্যান্ডিং দ্য নিউয়ান্স অব এ ফরেন ল্যাঙ্গুয়েজ টেকস টাইম।"
+            },
+            "position": 9,
+            "synonyms": "subtlety, distinction, refinement",
+            "antonyms": "oversimplification, obviousness, crudeness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সূক্ষ্ম পার্থক্য",
+                    "word_transliteration": "shukhkho parthokko",
+                    "example_sentence_translation": "একটি বিদেশি ভাষার সূক্ষ্ম পার্থক্য বোঝার জন্য সময় লাগে।",
+                    "example_sentence_transliteration": "Ekti bideshi bhashar shukhkho parthokko bojhar jonno shumoy lage.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "resonance",
+            "phonetic": "/ˈrɛz.ə.nəns/",
+            "word_native_transliteration": {
+                "bn": "রেজোন্যান্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📢",
+            "meaning": "The quality in a sound of being deep, full, and reverberating; a lasting impact or influence.",
+            "example_sentence": "His speech had a deep resonance with the audience.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ স্পিচ হ্যাড এ ডিপ রেজোন্যান্স উইথ দ্য অডিয়েন্স।"
+            },
+            "position": 10,
+            "synonyms": "echo, impact, vibration",
+            "antonyms": "dissonance, weakness, insignificance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রভাব",
+                    "word_transliteration": "probhab",
+                    "example_sentence_translation": "তার বক্তৃতা শ্রোতাদের মনে গভীর প্রভাব ফেলেছিল।",
+                    "example_sentence_transliteration": "Tar boktrita shrotader mone gobhir probhab feleshilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "impromptu",
+            "phonetic": "/ɪmˈprɒmp.tjuː/",
+            "word_native_transliteration": {
+                "bn": "ইমপ্রম্পটু"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎪",
+            "meaning": "Done without being planned, organized, or rehearsed; spontaneous.",
+            "example_sentence": "He gave an impromptu speech at the event.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি গেভ অ্যান ইমপ্রম্পটু স্পিচ অ্যাট দ্য ইভেন্ট।"
+            },
+            "position": 11,
+            "synonyms": "spontaneous, unrehearsed, improvised",
+            "antonyms": "planned, prearranged, rehearsed",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "তাৎক্ষণিক",
+                    "word_transliteration": "tatkhonik",
+                    "example_sentence_translation": "তিনি অনুষ্ঠানে তাৎক্ষণিক একটি বক্তৃতা দিলেন।",
+                    "example_sentence_transliteration": "Tini onusthane tatkhonik ekti boktrita dilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "audacity",
+            "phonetic": "/ɔːˈdæs.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "অডাসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚔️",
+            "meaning": "The willingness to take bold risks; boldness or fearlessness.",
+            "example_sentence": "His audacity to question authority was admirable.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ অডাসিটি টু কোয়েশ্চন অথরিটি ওয়াজ অ্যাডমায়রেবল।"
+            },
+            "position": 12,
+            "synonyms": "boldness, fearlessness, bravery",
+            "antonyms": "timidity, cowardice, hesitation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দুঃসাহস",
+                    "word_transliteration": "duhsahas",
+                    "example_sentence_translation": "কর্তৃত্বকে প্রশ্ন করার তার দুঃসাহস প্রশংসনীয় ছিল।",
+                    "example_sentence_transliteration": "Kortrittoke proshno korar tar duhsahas proshongsoniyo chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "gravitas",
+            "phonetic": "/ˈɡræv.ɪ.tæs/",
+            "word_native_transliteration": {
+                "bn": "গ্রাভিটাস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏛️",
+            "meaning": "Dignity, seriousness, or solemnity of manner or speech.",
+            "example_sentence": "The judge spoke with great gravitas.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য জাজ স্পোক উইথ গ্রেট গ্রাভিটাস।"
+            },
+            "position": 13,
+            "synonyms": "dignity, seriousness, authority",
+            "antonyms": "lightheartedness, frivolity, shallowness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গম্ভীরতা",
+                    "word_transliteration": "gombirata",
+                    "example_sentence_translation": "বিচারক অত্যন্ত গম্ভীরতার সঙ্গে কথা বললেন।",
+                    "example_sentence_transliteration": "Bicharok ottyonto gombirarar shhonge kotha bollen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "persuasiveness",
+            "phonetic": "/pərˈsweɪ.sɪv.nəs/",
+            "word_native_transliteration": {
+                "bn": "পারসুয়েসিভনেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The quality of being able to persuade someone to do or believe something.",
+            "example_sentence": "His persuasiveness helped secure the deal.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ পারসুয়েসিভনেস হেল্পড সিকিউর দ্য ডিল।"
+            },
+            "position": 14,
+            "synonyms": "convincing power, influence, rhetoric",
+            "antonyms": "ineffectiveness, weakness, unconvincingness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "যুক্তিবাদী ক্ষমতা",
+                    "word_transliteration": "juktibadi khomota",
+                    "example_sentence_translation": "তার যুক্তিবাদী ক্ষমতা চুক্তি নিশ্চিত করতে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Tar juktibadi khomota chukti nishchit korte shahajyo koreshshe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "veracity",
+            "phonetic": "/vəˈræs.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "ভেরাসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✅",
+            "meaning": "Conformity to facts; accuracy and truthfulness.",
+            "example_sentence": "The journalist checked the veracity of the report.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য জার্নালিস্ট চেকড দ্য ভেরাসিটি অব দ্য রিপোর্ট।"
+            },
+            "position": 15,
+            "synonyms": "truthfulness, accuracy, reliability",
+            "antonyms": "falsehood, deception, inaccuracy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সত্যবাদিতা",
+                    "word_transliteration": "shottyobadita",
+                    "example_sentence_translation": "সাংবাদিক প্রতিবেদনটির সত্যতা যাচাই করেছেন।",
+                    "example_sentence_transliteration": "Shangbadik protibedontir shottyota jachhai koreshshen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "rapport",
+            "phonetic": "/ræpˈɔːr/",
+            "word_native_transliteration": {
+                "bn": "র্যাপোর্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "A close and harmonious relationship in which people understand each other's feelings or ideas.",
+            "example_sentence": "He has a good rapport with his colleagues.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি হ্যাজ এ গুড র্যাপোর্ট উইথ হিজ কলিগস।"
+            },
+            "position": 16,
+            "synonyms": "connection, relationship, harmony",
+            "antonyms": "disconnection, alienation, discord",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সৌহার্দ্যপূর্ণ সম্পর্ক",
+                    "word_transliteration": "shouharddopurno shomporko",
+                    "example_sentence_translation": "তার সহকর্মীদের সঙ্গে ভালো বোঝাপড়া রয়েছে।",
+                    "example_sentence_transliteration": "Tar shohokormider shhonge bhalo bojhapora royeshhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dexterity",
+            "phonetic": "/dɛkˈstɛr.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "ডেক্সটেরিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎭",
+            "meaning": "Skill in performing tasks, especially with the hands; mental skill or adroitness.",
+            "example_sentence": "A surgeon needs high dexterity for precision work.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ সার্জন নিডস হাই ডেক্সটেরিটি ফর প্রিসিশন ওয়ার্ক।"
+            },
+            "position": 17,
+            "synonyms": "agility, skillfulness, nimbleness",
+            "antonyms": "clumsiness, incompetence, ineptitude",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষতা",
+                    "word_transliteration": "dokkhota",
+                    "example_sentence_translation": "একজন সার্জনের জন্য নির্ভুল কাজের দক্ষতা অপরিহার্য।",
+                    "example_sentence_transliteration": "Ekjon sarjoner jonno nirbhul kajer dokkhota oporihashyo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "reinforce",
+            "phonetic": "/ˌriː.ɪnˈfɔːrs/",
+            "word_native_transliteration": {
+                "bn": "রিইনফোর্স"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "💪",
+            "meaning": "To strengthen or support something with additional material, people, or effort.",
+            "example_sentence": "The teacher used examples to reinforce the lesson.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য টিচার ইউজড এক্সাম্পলস টু রিইনফোর্স দ্য লেসন।"
+            },
+            "position": 18,
+            "synonyms": "strengthen, fortify, support",
+            "antonyms": "weaken, undermine, diminish",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শক্তিশালী করা",
+                    "word_transliteration": "shoktishali kora",
+                    "example_sentence_translation": "শিক্ষক পাঠকে আরও দৃঢ় করতে উদাহরণ ব্যবহার করেছেন।",
+                    "example_sentence_transliteration": "Shikhok pathke aro drirhho korte udaharon bebahar koreshshen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "lucidity",
+            "phonetic": "/luːˈsɪd.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "লুসিডিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💡",
+            "meaning": "Clarity of thought or style; the quality of being easily understood.",
+            "example_sentence": "His explanation had great lucidity, making it easy to understand.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ এক্সপ্ল্যানেশন হ্যাড গ্রেট লুসিডিটি, মেকিং ইট ইজি টু আন্ডারস্ট্যান্ড।"
+            },
+            "position": 19,
+            "synonyms": "clarity, transparency, coherence",
+            "antonyms": "confusion, ambiguity, obscurity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্পষ্টতা",
+                    "word_transliteration": "sposhttota",
+                    "example_sentence_translation": "তার ব্যাখ্যায় দুর্দান্ত স্পষ্টতা ছিল, যা বুঝতে সহজ করে তুলেছে।",
+                    "example_sentence_transliteration": "Tar bekkhaye durdanto sposhttota chhilo, ja bujhte shohoj kore tuleshhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "embolden",
+            "phonetic": "/ɪmˈboʊl.dən/",
+            "word_native_transliteration": {
+                "bn": "এমবোল্ডেন"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🦁",
+            "meaning": "To give someone the courage or confidence to do something.",
+            "example_sentence": "The coach's words emboldened the team to play aggressively.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোচেস ওয়ার্ডস এমবোল্ডেনড দ্য টিম টু প্লে অ্যাগ্রেসিভলি।"
+            },
+            "position": 20,
+            "synonyms": "encourage, inspire, strengthen",
+            "antonyms": "discourage, deter, weaken",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উৎসাহিত করা",
+                    "word_transliteration": "utshaahit kora",
+                    "example_sentence_translation": "কোচের কথা দলকে আক্রমণাত্মকভাবে খেলতে উৎসাহিত করল।",
+                    "example_sentence_transliteration": "Kocher kotha dolke akromonattokbhabe khelate utshahit korlo.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

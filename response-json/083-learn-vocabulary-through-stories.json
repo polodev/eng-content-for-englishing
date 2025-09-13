@@ -1,0 +1,499 @@
+{
+    "position": 83,
+    "title_translation": {
+        "en": "Challenges Faced by Small Businesses",
+        "bn": "ক্ষুদ্র ব্যবসার চ্যালেঞ্জসমূহ"
+    },
+    "content_translation": {
+        "en": "Starting an **entrepreneurial** venture is difficult, but sustaining it is even more challenging. The biggest challenge for small businesses is maintaining **capitalization** and financial **liquidity**.\n\nMarket **volatility** and economic **recession** put many businesses in difficult situations to survive. When large **conglomerates** create **monopolization**, small business owners fall behind in competition.\n\nGovernment **bureaucracy**, excessive **overhead** costs, and inadequate **infrastructure** threaten the **feasibility** of many small businesses. Moreover, rapid technological changes lead to **obsolescence**, which hampers business **scalability**.\n\nOn the other hand, if **credibility** is not established, obtaining investment becomes difficult. Inadequate **procurement** and market **fluctuation** create new **divergence** for business owners.\n\nHowever, with skillful planning and reducing **attrition**, and managing the economic system efficiently, it is possible to sustain the business.",
+        "bn": "একটি **entrepreneurial** উদ্যোগ শুরু করা কঠিন, তবে সেটিকে টিকিয়ে রাখা আরও কঠিন। ক্ষুদ্র ব্যবসায়ীদের জন্য সবচেয়ে বড় চ্যালেঞ্জ হলো **capitalization** এবং অর্থনৈতিক **liquidity** বজায় রাখা।\n\nবাজারের **volatility** এবং অর্থনৈতিক **recession** অনেক ব্যবসাকে টিকে থাকার জন্য কঠিন পরিস্থিতিতে ফেলে দেয়। বড় **conglomerate** গুলো যখন **monopolization** তৈরি করে, তখন ক্ষুদ্র ব্যবসায়ীরা প্রতিযোগিতায় পিছিয়ে পড়ে।\n\nসরকারি **bureaucracy**, অতিরিক্ত **overhead** খরচ এবং অপর্যাপ্ত **infrastructure** অনেক ক্ষুদ্র ব্যবসার **feasibility** হুমকির মুখে ফেলে দেয়। এছাড়া, প্রযুক্তির দ্রুত পরিবর্তনের ফলে **obsolescence** হয়ে ব্যবসার **scalability** বাধাগ্রস্ত হয়।\n\nঅপরদিকে, **credibility** গড়ে না উঠলে বিনিয়োগ পাওয়া কঠিন হয়। অপর্যাপ্ত **procurement** এবং বাজারের **fluctuation** ব্যবসায়ীদের জন্য নতুন **divergence** তৈরি করে।\n\nতবে, কৌশলী পরিকল্পনা ও **attrition** কমিয়ে আনলে এবং অর্থনৈতিক ব্যবস্থাপনা দক্ষতার সাথে করলে ব্যবসাকে টিকিয়ে রাখা সম্ভব।"
+    },
+    "list": [
+        {
+            "word": "entrepreneurial",
+            "phonetic": "ˌɒn.trə.prəˈnɜː.ri.əl",
+            "word_native_transliteration": {
+                "bn": "এন্ট্রিপ্রিনিউরিয়াল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🚀",
+            "meaning": "Relating to or characterized by the activity of setting up a business or businesses, taking on financial risks in the hope of profit.",
+            "example_sentence": "His entrepreneurial spirit led him to establish a successful startup.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ এন্ট্রিপ্রিনিউরিয়াল স্পিরিট লেড হিম টু এস্ট্যাবলিশ এ সাকসেসফুল স্টার্টআপ।"
+            },
+            "position": 1,
+            "synonyms": "business-minded, innovative, risk-taking",
+            "antonyms": "unambitious, unenterprising, risk-averse",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্যোক্তাসুলভ",
+                    "word_transliteration": "uddyoktashulob",
+                    "example_sentence_translation": "তার উদ্যোক্তাসুলভ মানসিকতা তাকে একটি সফল স্টার্টআপ প্রতিষ্ঠা করতে সহায়তা করেছে।",
+                    "example_sentence_transliteration": "Tar uddyoktashulob manoshikota take ekti shofol startup protishtha korte shohayota koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "capitalization",
+            "phonetic": "ˌkæp.ɪ.təl.aɪˈzeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ক্যাপিটালাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💰",
+            "meaning": "The total market value of a company's shares or the provision of capital for a company or activity.",
+            "example_sentence": "The company's capitalization reached $1 billion in market value.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানিজ ক্যাপিটালাইজেশন রিচড ওয়ান বিলিয়ন ডলারস ইন মার্কেট ভ্যালিউ।"
+            },
+            "position": 2,
+            "synonyms": "investment, financing, asset allocation",
+            "antonyms": "underfunding, bankruptcy, insolvency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মূলধনায়ন",
+                    "word_transliteration": "mulodhanayon",
+                    "example_sentence_translation": "কোম্পানির মূলধনায়ন বাজারে ১ বিলিয়ন ডলারে পৌঁছেছে।",
+                    "example_sentence_transliteration": "Companir mulodhanayon bajare 1 billion dollare poucheche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "liquidity",
+            "phonetic": "lɪˈkwɪd.ə.ti",
+            "word_native_transliteration": {
+                "bn": "লিকুইডিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💧",
+            "meaning": "The availability of liquid assets to a market or company; the ability to convert assets into cash quickly.",
+            "example_sentence": "Maintaining liquidity is crucial for financial stability.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেইনটেইনিং লিকুইডিটি ইজ ক্রুশিয়াল ফর ফাইনান্সিয়াল স্ট্যাবিলিটি।"
+            },
+            "position": 3,
+            "synonyms": "cash flow, solvency, availability",
+            "antonyms": "illiquidity, insolvency, fixed assets",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "তারল্য",
+                    "word_transliteration": "tarollyo",
+                    "example_sentence_translation": "আর্থিক স্থিতিশীলতার জন্য তারল্য বজায় রাখা অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Arthik sthitishilotar jonno tarollyo bojay rakha ottyonto guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "volatility",
+            "phonetic": "ˌvɒl.əˈtɪl.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "ভোলাটিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "Liability to change rapidly and unpredictably, especially for the worse; instability.",
+            "example_sentence": "The stock market's volatility makes investment risky.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্টক মার্কেটস ভোলাটিলিটি মেকস ইনভেস্টমেন্ট রিস্কি।"
+            },
+            "position": 4,
+            "synonyms": "instability, fluctuation, unpredictability",
+            "antonyms": "stability, predictability, consistency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অস্থিরতা",
+                    "word_transliteration": "osthirata",
+                    "example_sentence_translation": "শেয়ারবাজারের অস্থিরতা বিনিয়োগকে ঝুঁকিপূর্ণ করে তোলে।",
+                    "example_sentence_transliteration": "Sheyarbajareer osthirata biniyogke jhukipurno kore tole.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "recession",
+            "phonetic": "rɪˈsɛʃ.ən",
+            "word_native_transliteration": {
+                "bn": "রিসেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📉",
+            "meaning": "A period of temporary economic decline during which trade and industrial activity are reduced.",
+            "example_sentence": "The country faced a severe recession due to the financial crisis.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কান্ট্রি ফেসড এ সিভিয়ার রিসেশন ডিউ টু দ্য ফাইনান্সিয়াল ক্রাইসিস।"
+            },
+            "position": 5,
+            "synonyms": "downturn, economic decline, slump",
+            "antonyms": "boom, growth, expansion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মন্দা",
+                    "word_transliteration": "monda",
+                    "example_sentence_translation": "আর্থিক সংকটের কারণে দেশটি গুরুতর মন্দার সম্মুখীন হয়েছিল।",
+                    "example_sentence_transliteration": "Arthik shongkoter karone deshti gurutor mondar shommukheen hoyechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "conglomerate",
+            "phonetic": "kənˈɡlɒm.ər.ət",
+            "word_native_transliteration": {
+                "bn": "কনগ্লোমারেট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏢",
+            "meaning": "A large corporation formed by the merging of separate and diverse firms.",
+            "example_sentence": "The company grew into a multinational conglomerate.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি গ্রু ইনটু এ মাল্টিন্যাশনাল কনগ্লোমারেট।"
+            },
+            "position": 6,
+            "synonyms": "corporation, multinational, enterprise",
+            "antonyms": "small business, startup, sole proprietorship",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বহুজাতিক সংস্থা",
+                    "word_transliteration": "bohujatik shongshtha",
+                    "example_sentence_translation": "কোম্পানিটি একটি বহুজাতিক সংস্থায় পরিণত হয়েছে।",
+                    "example_sentence_transliteration": "Companiti ekti bohujatik shongsthay porinoto hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "monopolization",
+            "phonetic": "məˌnɒp.ə.laɪˈzeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "মনোপলাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The process by which a company gains exclusive control over a commercial activity.",
+            "example_sentence": "The monopolization of industries can limit consumer choices.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য মনোপলাইজেশন অব ইন্ডাস্ট্রিজ ক্যান লিমিট কনজিউমার চয়েসেস।"
+            },
+            "position": 7,
+            "synonyms": "domination, exclusivity, control",
+            "antonyms": "competition, free market, decentralization",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একচেটিয়া নিয়ন্ত্রণ",
+                    "word_transliteration": "ekchetiya niyontron",
+                    "example_sentence_translation": "শিল্পের একচেটিয়া নিয়ন্ত্রণ ভোক্তাদের বিকল্প কমিয়ে দিতে পারে।",
+                    "example_sentence_transliteration": "Shilper ekchetiya niyontron bhoktader bikolpo komiye dite pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "bureaucracy",
+            "phonetic": "bjʊəˈrɒk.rə.si",
+            "word_native_transliteration": {
+                "bn": "বিউরোক্রেসি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📋",
+            "meaning": "A system of government in which most of the important decisions are made by state officials rather than by elected representatives.",
+            "example_sentence": "Excessive bureaucracy can slow down decision-making.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সেসিভ বিউরোক্রেসি ক্যান স্লো ডাউন ডিসিশন-মেকিং।"
+            },
+            "position": 8,
+            "synonyms": "administration, red tape, officialdom",
+            "antonyms": "flexibility, efficiency, simplicity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আমলাতন্ত্র",
+                    "word_transliteration": "amlatontro",
+                    "example_sentence_translation": "অতিরিক্ত আমলাতন্ত্র সিদ্ধান্ত গ্রহণে বিলম্ব ঘটাতে পারে।",
+                    "example_sentence_transliteration": "Otirikt amlatontro shiddhanto grohone bilambo ghatate pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "overhead",
+            "phonetic": "ˈəʊ.və.hed",
+            "word_native_transliteration": {
+                "bn": "ওভারহেড"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💸",
+            "meaning": "Ongoing business expenses not directly attributable to creating a product or service.",
+            "example_sentence": "The company reduced its overhead to increase profits.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি রিডিউসড ইটস ওভারহেড টু ইনক্রিজ প্রফিটস।"
+            },
+            "position": 9,
+            "synonyms": "operating costs, fixed expenses, administrative costs",
+            "antonyms": "direct costs, variable costs, revenue",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্থায়ী খরচ",
+                    "word_transliteration": "sthayi khoroch",
+                    "example_sentence_translation": "কোম্পানিটি লাভ বাড়ানোর জন্য তার স্থায়ী খরচ কমিয়েছে।",
+                    "example_sentence_transliteration": "Companiti lab baranor jonno tar sthayi khoroch komiyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "infrastructure",
+            "phonetic": "ˈɪn.frəˌstrʌk.tʃər",
+            "word_native_transliteration": {
+                "bn": "ইনফ্রাস্ট্রাকচার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏗️",
+            "meaning": "The basic physical and organizational structures and facilities needed for the operation of a society or enterprise.",
+            "example_sentence": "A strong infrastructure is essential for economic growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ স্ট্রং ইনফ্রাস্ট্রাকচার ইজ এসেনশিয়াল ফর ইকোনমিক গ্রোথ।"
+            },
+            "position": 10,
+            "synonyms": "framework, foundation, facilities",
+            "antonyms": "disorganization, instability, neglect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অবকাঠামো",
+                    "word_transliteration": "obokathamoo",
+                    "example_sentence_translation": "শক্তিশালী অবকাঠামো অর্থনৈতিক প্রবৃদ্ধির জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Shoktishali obokathamoo orthonoitik probriddhir jonno oporhojjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "feasibility",
+            "phonetic": "ˌfiː.zəˈbɪl.ə.ti",
+            "word_native_transliteration": {
+                "bn": "ফিজিবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✅",
+            "meaning": "The state or degree of being easily or conveniently done; possibility.",
+            "example_sentence": "The company conducted a feasibility study before launching the project.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি কন্ডাক্টেড এ ফিজিবিলিটি স্টাডি বিফোর লঞ্চিং দ্য প্রজেক্ট।"
+            },
+            "position": 11,
+            "synonyms": "viability, practicality, suitability",
+            "antonyms": "impracticality, unworkability, impossibility",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সম্ভাব্যতা",
+                    "word_transliteration": "shombhabyota",
+                    "example_sentence_translation": "প্রকল্প চালুর আগে কোম্পানিটি সম্ভাব্যতা সমীক্ষা পরিচালনা করেছে।",
+                    "example_sentence_transliteration": "Prokolpo chalur age companiti shombhabyota shomikha porichalona koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "obsolescence",
+            "phonetic": "ˌɒb.səˈlɛs.əns",
+            "word_native_transliteration": {
+                "bn": "অবসোলেসেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📱",
+            "meaning": "The process of becoming obsolete or outdated and no longer used.",
+            "example_sentence": "The rapid advancement of technology leads to the obsolescence of old devices.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য র্যাপিড অ্যাডভান্সমেন্ট অব টেকনোলজি লিডস টু দ্য অবসোলেসেন্স অব ওল্ড ডিভাইসেস।"
+            },
+            "position": 12,
+            "synonyms": "outdatedness, disuse, extinction",
+            "antonyms": "modernization, relevance, renewal",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অপ্রচলিত হওয়া",
+                    "word_transliteration": "oprocholit howa",
+                    "example_sentence_translation": "প্রযুক্তির দ্রুত উন্নতি পুরানো ডিভাইসগুলোর অপ্রচলিত হওয়ার কারণ হয়।",
+                    "example_sentence_transliteration": "Proyuktir druto unnoti purano devicegulor oprocholit howar karon hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "scalability",
+            "phonetic": "ˌskeɪ.ləˈbɪl.ə.ti",
+            "word_native_transliteration": {
+                "bn": "স্কেলাবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "The capacity to be changed in size or scale; the ability of a system to handle a growing amount of work.",
+            "example_sentence": "The new software offers high scalability for large enterprises.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিউ সফটওয়্যার অফার্স হাই স্কেলাবিলিটি ফর লার্জ এন্টারপ্রাইজেস।"
+            },
+            "position": 13,
+            "synonyms": "expandability, growth potential, adaptability",
+            "antonyms": "limitation, rigidity, fixed capacity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সম্প্রসারণযোগ্যতা",
+                    "word_transliteration": "shomprosharonyogyota",
+                    "example_sentence_translation": "নতুন সফটওয়্যার বড় প্রতিষ্ঠানগুলোর জন্য উচ্চ সম্প্রসারণযোগ্যতা প্রদান করে।",
+                    "example_sentence_transliteration": "Notun software boro protishthangulor jonno uccho shomprosharonyogyota prodan kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "credibility",
+            "phonetic": "ˌkrɛ.dəˈbɪl.ə.ti",
+            "word_native_transliteration": {
+                "bn": "ক্রেডিবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "The quality of being trusted and believed in; the quality of being convincing or believable.",
+            "example_sentence": "The journalist's credibility was questioned due to false reports.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য জার্নালিস্টস ক্রেডিবিলিটি ওয়াজ কোয়েশ্চনড ডিউ টু ফলস রিপোর্টস।"
+            },
+            "position": 14,
+            "synonyms": "reliability, trustworthiness, integrity",
+            "antonyms": "dishonesty, unreliability, doubtfulness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিশ্বাসযোগ্যতা",
+                    "word_transliteration": "bishashyogyota",
+                    "example_sentence_translation": "ভুল প্রতিবেদনের কারণে সাংবাদিকের বিশ্বাসযোগ্যতা প্রশ্নবিদ্ধ হয়েছিল।",
+                    "example_sentence_transliteration": "Bhul protibedoner karone shangbadiker bishashyogyota proshnoboddho hoyechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "procurement",
+            "phonetic": "prəˈkjʊə.mənt",
+            "word_native_transliteration": {
+                "bn": "প্রোকিউরমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛒",
+            "meaning": "The action of obtaining or procuring something, especially for business or organizational use.",
+            "example_sentence": "The government ensured the procurement of medical supplies during the crisis.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গভর্নমেন্ট এনসিউরড দ্য প্রোকিউরমেন্ট অব মেডিক্যাল সাপ্লাইজ ডিউরিং দ্য ক্রাইসিস।"
+            },
+            "position": 15,
+            "synonyms": "acquisition, sourcing, purchasing",
+            "antonyms": "selling, disposal, forfeiture",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংগ্রহ",
+                    "word_transliteration": "shongroho",
+                    "example_sentence_translation": "সরকার সংকটের সময় চিকিৎসা সরঞ্জামের সংগ্রহ নিশ্চিত করেছে।",
+                    "example_sentence_transliteration": "Shorkar shongkoter shomoy chikitsha shornjamer shongroho nishchit koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fluctuation",
+            "phonetic": "ˌflʌk.tʃuˈeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ফ্লাকচুয়েশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈📉",
+            "meaning": "An irregular rising and falling in number or amount; a variation.",
+            "example_sentence": "The stock market experiences frequent fluctuation.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্টক মার্কেট এক্সপেরিয়েন্সেস ফ্রিকুয়েন্ট ফ্লাকচুয়েশন।"
+            },
+            "position": 16,
+            "synonyms": "variability, instability, volatility",
+            "antonyms": "stability, consistency, predictability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উত্থান-পতন",
+                    "word_transliteration": "utthan-poton",
+                    "example_sentence_translation": "শেয়ার বাজারে প্রায়ই উত্থান-পতন ঘটে।",
+                    "example_sentence_transliteration": "Sheyar bajare prayi utthan-poton ghote.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "divergence",
+            "phonetic": "daɪˈvɜː.dʒəns",
+            "word_native_transliteration": {
+                "bn": "ডাইভার্জেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔀",
+            "meaning": "The process or state of diverging; a difference in opinion, policy, etc.",
+            "example_sentence": "The divergence in their opinions led to a heated debate.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডাইভার্জেন্স ইন দেয়ার ওপিনিয়নস লেড টু এ হিটেড ডিবেট।"
+            },
+            "position": 17,
+            "synonyms": "deviation, separation, disparity",
+            "antonyms": "convergence, agreement, similarity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিচ্ছিন্নতা",
+                    "word_transliteration": "bicchinnota",
+                    "example_sentence_translation": "তাদের মতপার্থক্যের কারণে উত্তপ্ত বিতর্ক সৃষ্টি হয়।",
+                    "example_sentence_transliteration": "Tader motoparthokker karone uttapto bitorko srishti hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "attrition",
+            "phonetic": "əˈtrɪʃ.ən",
+            "word_native_transliteration": {
+                "bn": "অ্যাট্রিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📉",
+            "meaning": "The process of reducing something's strength or effectiveness through sustained attack or pressure.",
+            "example_sentence": "The company faced high employee attrition due to job dissatisfaction.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি ফেসড হাই এমপ্লয়ী অ্যাট্রিশন ডিউ টু জব ডিসস্যাটিসফ্যাকশন।"
+            },
+            "position": 18,
+            "synonyms": "reduction, erosion, diminution",
+            "antonyms": "growth, expansion, increase",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ধীরে ধীরে হ্রাস",
+                    "word_transliteration": "dhire dhire hrash",
+                    "example_sentence_translation": "চাকরি সম্পর্কে অসন্তোষের কারণে কোম্পানিটি উচ্চ কর্মী হ্রাসের সম্মুখীন হয়েছিল।",
+                    "example_sentence_transliteration": "Chakri shomporke oshontosher karone companiti uccho kormi hraser shommukheen hoyechilo.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

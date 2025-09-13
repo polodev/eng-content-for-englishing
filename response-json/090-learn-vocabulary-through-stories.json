@@ -1,0 +1,688 @@
+{
+    "position": 90,
+    "title_translation": {
+        "en": "Deforestation and Its Environmental Impact",
+        "bn": "Deforestation এবং এর পরিবেশগত প্রভাব"
+    },
+    "content_translation": {
+        "en": "**Deforestation** has a massive impact on our environment. Forest destruction leads to **biodiversity** loss, causing various animal species to face **fragmentation** problems. This not only affects animals but can also make human life **disruptive**. When forests are cut down, the **photosynthesis** process is hindered, which increases the **greenhouse effect**. As a result, temperatures rise and **climate change** becomes more **exacerbated**. Furthermore, soil **erosion** increases, which is harmful to **agriculture**. **Deforestation** causes increased **desertification** and shows **catastrophic** climate changes. We should adopt **mitigation** methods, such as **afforestation** and **agroforestry**, which help maintain environmental **sustainability**. Additionally, through **carbon sequestration**, trees can absorb carbon, which reduces harmful **pollutants** in the atmosphere. If we do not take proper steps, its **long-term** **repercussions** can be dangerous for our **future generations**.",
+        "bn": "**Deforestation** আমাদের পরিবেশের উপর এক বিশাল প্রভাব ফেলে। বন ধ্বংসের ফলে **biodiversity** হ্রাস পায়, যার ফলে বিভিন্ন প্রজাতির প্রাণী **fragmentation** সমস্যার সম্মুখীন হয়। এটি শুধু প্রাণীকেই নয়, মানুষের জীবনকেও **disruptive** করে তুলতে পারে। যখন বন কেটে ফেলা হয়, তখন **photosynthesis** প্রক্রিয়া বাধাগ্রস্ত হয়, যা **greenhouse effect** বাড়িয়ে দেয়। এর ফলে তাপমাত্রা বৃদ্ধি পায় এবং **climate change** আরও **exacerbate** হয়। উপরন্তু, মাটির **erosion** বেড়ে যায়, যা কৃষির জন্য ক্ষতিকর। **Deforestation** এর কারণে **desertification** বৃদ্ধি পায় এবং জলবায়ুর **catastrophic** পরিবর্তন দেখা দেয়। আমাদের উচিত **mitigation** পদ্ধতি গ্রহণ করা, যেমন **afforestation** ও **agroforestry**, যা পরিবেশের **sustainability** বজায় রাখতে সাহায্য করে। এছাড়া, **carbon sequestration** মাধ্যমে গাছপালা কার্বন শোষণ করতে পারে, যা বাতাসে থাকা ক্ষতিকর **pollutants** কমিয়ে আনে। যদি আমরা যথাযথ পদক্ষেপ না নেই, তাহলে এর দীর্ঘমেয়াদী **repercussions** আমাদের ভবিষ্যৎ প্রজন্মের জন্য বিপজ্জনক হতে পারে।"
+    },
+    "list": [
+        {
+            "word": "deforestation",
+            "phonetic": "ˌdiː.fɒr.ɪˈsteɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ডিফরেস্টেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌲",
+            "meaning": "The action of clearing a wide area of trees.",
+            "example_sentence": "Excessive deforestation leads to habitat loss.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সেসিভ ডিফরেস্টেশন লিডস টু হ্যাবিট্যাট লস।"
+            },
+            "position": 1,
+            "synonyms": "tree cutting, deforesting, land clearing",
+            "antonyms": "reforestation, afforestation, plantation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বন উজাড়, বৃক্ষনিধন, অরণ্য ধ্বংস",
+                    "word_transliteration": "bon ujar, brikhsho nidhon, oronno dhongsho",
+                    "example_sentence_translation": "অতিরিক্ত বন উজাড় প্রাণীদের আবাসস্থল ধ্বংস করে।",
+                    "example_sentence_transliteration": "Otirikto bon ujar pranider abashosthal dhongsho kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "environment",
+            "phonetic": "ɪnˈvaɪ.rən.mənt",
+            "word_native_transliteration": {
+                "bn": "এনভায়রনমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌍",
+            "meaning": "The surroundings or conditions in which a person, animal, or plant lives or operates.",
+            "example_sentence": "Protecting the environment is crucial for future generations.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোটেকটিং দ্য এনভায়রনমেন্ট ইজ ক্রুশিয়াল ফর ফিউচার জেনারেশনস।"
+            },
+            "position": 2,
+            "synonyms": "surroundings, ecosystem, nature",
+            "antonyms": "pollution, degradation, contamination",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিবেশ, প্রকৃতি, আবহাওয়া",
+                    "word_transliteration": "poribesh, prokriti, abhaowa",
+                    "example_sentence_translation": "ভবিষ্যৎ প্রজন্মের জন্য পরিবেশ রক্ষা অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Bhobishyot projnmer jonno poribesh roksha otyonto guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "impact",
+            "phonetic": "ˈɪm.pækt",
+            "word_native_transliteration": {
+                "bn": "ইমপ্যাক্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💥",
+            "meaning": "A marked effect or influence.",
+            "example_sentence": "Climate change has a severe impact on agriculture.",
+            "example_sentence_native_transliteration": {
+                "bn": "ক্লাইমেট চেঞ্জ হ্যাজ আ সেভিয়ার ইমপ্যাক্ট অন এগ্রিকালচার।"
+            },
+            "position": 3,
+            "synonyms": "effect, influence, consequence",
+            "antonyms": "insignificance, irrelevance, weakness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রভাব, আঘাত, ফলাফল",
+                    "word_transliteration": "prabhab, aghat, pholaphol",
+                    "example_sentence_translation": "জলবায়ু পরিবর্তন কৃষির ওপর মারাত্মক প্রভাব ফেলে।",
+                    "example_sentence_transliteration": "Jolbayu poriborton krishir opor maratmok prabhab phele.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "biodiversity",
+            "phonetic": "ˌbaɪ.oʊ.dɪˈvɝː.sə.t̬i",
+            "word_native_transliteration": {
+                "bn": "বায়োডাইভারসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🦋",
+            "meaning": "The variety of life in the world or in a particular habitat or ecosystem.",
+            "example_sentence": "Rainforests are home to immense biodiversity.",
+            "example_sentence_native_transliteration": {
+                "bn": "রেইনফরেস্টস আর হোম টু ইমেনস বায়োডাইভারসিটি।"
+            },
+            "position": 4,
+            "synonyms": "ecosystem variety, genetic diversity, species richness",
+            "antonyms": "extinction, uniformity, homogeneity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জীববৈচিত্র্য, প্রাণ-পরিবেশের বৈচিত্র্য",
+                    "word_transliteration": "jibbochoitryo, pran-poribesh-er boichitro",
+                    "example_sentence_translation": "বৃষ্টিবনে বিশাল জীববৈচিত্র্য বিদ্যমান।",
+                    "example_sentence_transliteration": "Brishtibne bishal jibbochoitryo bidyoman.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fragmentation",
+            "phonetic": "ˌfræɡ.mənˈteɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ফ্র্যাগমেন্টেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧩",
+            "meaning": "The process or state of breaking or being broken into fragments.",
+            "example_sentence": "Habitat fragmentation threatens many species.",
+            "example_sentence_native_transliteration": {
+                "bn": "হ্যাবিট্যাট ফ্র্যাগমেন্টেশন থ্রেটেনস মেনি স্পিসিজ।"
+            },
+            "position": 5,
+            "synonyms": "division, splitting, disintegration",
+            "antonyms": "unification, connection, wholeness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিভাজন, খণ্ডীকরণ, বিচ্ছিন্নতা",
+                    "word_transliteration": "bibhajon, khondikrn, bicchhinota",
+                    "example_sentence_translation": "আবাসস্থল বিভাজন অনেক প্রজাতির জন্য হুমকি।",
+                    "example_sentence_transliteration": "Abashosthal bibhajon onek projatir jonno humki.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "disruptive",
+            "phonetic": "dɪsˈrʌp.tɪv",
+            "word_native_transliteration": {
+                "bn": "ডিসরাপটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚡",
+            "meaning": "Causing or tending to cause disruption.",
+            "example_sentence": "Deforestation has a disruptive effect on wildlife.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিফরেস্টেশন হ্যাজ আ ডিসরাপটিভ ইফেক্ট অন ওয়াইল্ডলাইফ।"
+            },
+            "position": 6,
+            "synonyms": "disturbing, interfering, chaotic",
+            "antonyms": "constructive, stable, harmonious",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিঘ্ন ঘটানো, ব্যাঘাতসৃষ্টিকারী",
+                    "word_transliteration": "bighno ghatano, byaghat srishtikari",
+                    "example_sentence_translation": "বন উজাড় বন্য প্রাণীদের জন্য বিঘ্ন ঘটায়।",
+                    "example_sentence_transliteration": "Bon ujar bonno pranider jonno bighno ghatay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "photosynthesis",
+            "phonetic": "ˌfoʊ.t̬oʊˈsɪn.θə.sɪs",
+            "word_native_transliteration": {
+                "bn": "ফটোসিন্থেসিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌱",
+            "meaning": "The process by which green plants use sunlight to synthesize foods from carbon dioxide and water.",
+            "example_sentence": "Plants depend on photosynthesis for survival.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্ল্যান্টস ডিপেন্ড অন ফটোসিন্থেসিস ফর সারভাইভাল।"
+            },
+            "position": 7,
+            "synonyms": "light reaction, energy conversion, plant synthesis",
+            "antonyms": "decomposition, respiration, consumption",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সালোকসংশ্লেষণ, গাছের খাদ্য উৎপাদন প্রক্রিয়া",
+                    "word_transliteration": "saloksongshlleshon, gacher khadyo utpadon prokria",
+                    "example_sentence_translation": "গাছ বেঁচে থাকার জন্য সালোকসংশ্লেষণের ওপর নির্ভর করে।",
+                    "example_sentence_transliteration": "Gach beche thakar jonno saloksongshlleshoner opor nirbhor kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "greenhouse effect",
+            "phonetic": "ˈɡriːn.haʊs ɪˌfɛkt",
+            "word_native_transliteration": {
+                "bn": "গ্রিনহাউস ইফেক্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔥",
+            "meaning": "The trapping of the sun's warmth in a planet's lower atmosphere due to the greater transparency of the atmosphere to visible radiation from the sun than to infrared radiation emitted from the planet's surface.",
+            "example_sentence": "The greenhouse effect is increasing global temperatures.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গ্রিনহাউস ইফেক্ট ইজ ইনক্রিসিং গ্লোবাল টেম্পারেচারস।"
+            },
+            "position": 8,
+            "synonyms": "global warming, heat trapping, climate forcing",
+            "antonyms": "cooling, heat loss, natural balance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গ্রীনহাউস প্রভাব, গরম আবহাওয়া সৃষ্টি প্রক্রিয়া",
+                    "word_transliteration": "greenhouse prabhab, gorom abhaowa srishti prokria",
+                    "example_sentence_translation": "গ্রিনহাউস প্রভাব বিশ্ব উষ্ণতা বৃদ্ধি করছে।",
+                    "example_sentence_transliteration": "Greenhouse prabhab bishwo ushnota briddhi korche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "temperature",
+            "phonetic": "ˈtɛmp.rə.tʃɚ",
+            "word_native_transliteration": {
+                "bn": "টেম্পারেচার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌡️",
+            "meaning": "The degree or intensity of heat present in a substance or object.",
+            "example_sentence": "Rising temperature is a sign of global warming.",
+            "example_sentence_native_transliteration": {
+                "bn": "রাইজিং টেম্পারেচার ইজ আ সাইন অব গ্লোবাল ওয়ার্মিং।"
+            },
+            "position": 9,
+            "synonyms": "heat level, warmth, climate measure",
+            "antonyms": "cold, chill, freezing point",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "তাপমাত্রা, উষ্ণতা",
+                    "word_transliteration": "tapomatra, ushnota",
+                    "example_sentence_translation": "উচ্চ তাপমাত্রা বৈশ্বিক উষ্ণায়নের লক্ষণ।",
+                    "example_sentence_transliteration": "Uccho tapomatra boishwik ushnaynoner lokhon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "climate change",
+            "phonetic": "ˈklaɪ.mət tʃeɪndʒ",
+            "word_native_transliteration": {
+                "bn": "ক্লাইমেট চেঞ্জ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌪️",
+            "meaning": "A change in global or regional climate patterns, attributed largely to the increased levels of atmospheric carbon dioxide produced by the use of fossil fuels.",
+            "example_sentence": "Climate change is causing more natural disasters.",
+            "example_sentence_native_transliteration": {
+                "bn": "ক্লাইমেট চেঞ্জ ইজ কজিং মোর ন্যাচারাল ডিজাস্টারস।"
+            },
+            "position": 10,
+            "synonyms": "global warming, environmental shift, ecological crisis",
+            "antonyms": "climate stability, seasonal balance, steady weather",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জলবায়ু পরিবর্তন, আবহাওয়া পরিবর্তন",
+                    "word_transliteration": "jolbayu poriborton, abhaowa poriborton",
+                    "example_sentence_translation": "জলবায়ু পরিবর্তন আরও প্রাকৃতিক দুর্যোগ সৃষ্টি করছে।",
+                    "example_sentence_transliteration": "Jolbayu poriborton aro prakritik durjog srishti korche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "exacerbate",
+            "phonetic": "ɪɡˈzæs.ɚ.beɪt",
+            "word_native_transliteration": {
+                "bn": "এক্সাসারবেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📈",
+            "meaning": "Make (a problem, bad situation, or negative feeling) worse.",
+            "example_sentence": "Deforestation exacerbates the effects of climate change.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিফরেস্টেশন এক্সাসারবেটস দ্য ইফেক্টস অব ক্লাইমেট চেঞ্জ।"
+            },
+            "position": 11,
+            "synonyms": "worsen, aggravate, intensify",
+            "antonyms": "improve, alleviate, ease",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আরও খারাপ করা, তীব্রতর করা",
+                    "word_transliteration": "aro kharap kora, tibrotoro kora",
+                    "example_sentence_translation": "বন উজাড় জলবায়ু পরিবর্তনের প্রভাব আরও তীব্র করে তোলে।",
+                    "example_sentence_transliteration": "Bon ujar jolbayu poribortoner prabhab aro tibro kore tole.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "erosion",
+            "phonetic": "ɪˈroʊ.ʒən",
+            "word_native_transliteration": {
+                "bn": "ইরোশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏔️",
+            "meaning": "The process of eroding or being eroded by wind, water, or other natural agents.",
+            "example_sentence": "Soil erosion reduces agricultural productivity.",
+            "example_sentence_native_transliteration": {
+                "bn": "সয়েল ইরোশন রিডিউসেস এগ্রিকালচারাল প্রোডাকটিভিটি।"
+            },
+            "position": 12,
+            "synonyms": "wearing away, land loss, soil degradation",
+            "antonyms": "formation, stability, preservation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্ষয়, মাটির ভাঙ্গন, ভূমি ক্ষয়",
+                    "word_transliteration": "kshoy, matir bhangon, bhumi kshoy",
+                    "example_sentence_translation": "মাটির ক্ষয় কৃষি উৎপাদনশীলতা কমিয়ে দেয়।",
+                    "example_sentence_transliteration": "Matir kshoy krishi utpadonsila komiye dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "agriculture",
+            "phonetic": "ˈæɡ.rɪ.kʌl.tʃɚ",
+            "word_native_transliteration": {
+                "bn": "অ্যাগ্রিকালচার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚜",
+            "meaning": "The science or practice of farming, including cultivation of the soil for the growing of crops and the rearing of animals to provide food, wool, and other products.",
+            "example_sentence": "Sustainable agriculture can help protect the environment.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাস্টেইনেবল অ্যাগ্রিকালচার ক্যান হেল্প প্রোটেক্ট দ্য এনভায়রনমেন্ট।"
+            },
+            "position": 13,
+            "synonyms": "farming, cultivation, agronomy",
+            "antonyms": "industrialization, urbanization, deforestation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কৃষি, চাষাবাদ",
+                    "word_transliteration": "krishi, chashabdad",
+                    "example_sentence_translation": "টেকসই কৃষি পরিবেশ রক্ষায় সহায়ক হতে পারে।",
+                    "example_sentence_transliteration": "Teksoi krishi poribesh rokkhay sahayok hote pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "desertification",
+            "phonetic": "dɪˌzɝː.t̬ə.fɪˈkeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ডেজার্টিফিকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏜️",
+            "meaning": "The process by which fertile land becomes desert, typically as a result of drought, deforestation, or inappropriate agriculture.",
+            "example_sentence": "Deforestation accelerates desertification.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিফরেস্টেশন এক্সেলেরেটস ডেজার্টিফিকেশন।"
+            },
+            "position": 14,
+            "synonyms": "land degradation, aridification, drying up",
+            "antonyms": "reforestation, land restoration, soil regeneration",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মরুভূমিতে পরিণত হওয়া, শুকিয়ে যাওয়া",
+                    "word_transliteration": "morubhumite porinoto howa, shukiye yaowa",
+                    "example_sentence_translation": "বন উজাড় মরুকরণ প্রক্রিয়াকে ত্বরান্বিত করে।",
+                    "example_sentence_transliteration": "Bon ujar morukoron prokriyake tworanwito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "catastrophic",
+            "phonetic": "ˌkæt.əˈstrɑː.fɪk",
+            "word_native_transliteration": {
+                "bn": "ক্যাটাস্ট্রফিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💥",
+            "meaning": "Involving or causing sudden great damage or suffering.",
+            "example_sentence": "Climate change has catastrophic consequences.",
+            "example_sentence_native_transliteration": {
+                "bn": "ক্লাইমেট চেঞ্জ হ্যাজ ক্যাটাস্ট্রফিক কনসিকোয়েন্সেস।"
+            },
+            "position": 15,
+            "synonyms": "disastrous, devastating, tragic",
+            "antonyms": "beneficial, favorable, positive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিধ্বংসী, বিপর্যয়কর",
+                    "word_transliteration": "bidhwongshi, biporjoyokor",
+                    "example_sentence_translation": "জলবায়ু পরিবর্তনের বিধ্বংসী পরিণতি রয়েছে।",
+                    "example_sentence_transliteration": "Jolbayu poribortoner bidhwongshi porinoti royeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "mitigation",
+            "phonetic": "ˌmɪt̬.ɪˈɡeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "মিটিগেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛡️",
+            "meaning": "The action of reducing the severity, seriousness, or painfulness of something.",
+            "example_sentence": "Climate change mitigation is necessary to reduce global warming.",
+            "example_sentence_native_transliteration": {
+                "bn": "ক্লাইমেট চেঞ্জ মিটিগেশন ইজ নেসেসারি টু রিডিউস গ্লোবাল ওয়ার্মিং।"
+            },
+            "position": 16,
+            "synonyms": "reduction, alleviation, moderation",
+            "antonyms": "exacerbation, intensification, aggravation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রশমন, হ্রাসকরণ, কমিয়ে আনা",
+                    "word_transliteration": "proshomon, hrashkoron, komiye ana",
+                    "example_sentence_translation": "জলবায়ু পরিবর্তন প্রশমনের মাধ্যমে বৈশ্বিক উষ্ণতা হ্রাস করা প্রয়োজন।",
+                    "example_sentence_transliteration": "Jolbayu poriborton proshomoner madhome boishwik ushnota hrash kora proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "afforestation",
+            "phonetic": "ˌæf.ɔːr.ɪˈsteɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "অ্যাফরেস্টেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌳",
+            "meaning": "The action of planting trees on an area of land in order to form a forest.",
+            "example_sentence": "Afforestation helps restore biodiversity.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাফরেস্টেশন হেল্পস রিস্টোর বায়োডাইভারসিটি।"
+            },
+            "position": 17,
+            "synonyms": "tree planting, forest development, reforestation",
+            "antonyms": "deforestation, land clearing, desertification",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বনায়ন, বৃক্ষরোপণ",
+                    "word_transliteration": "bonayon, brikhshoropon",
+                    "example_sentence_translation": "বনায়ন জীববৈচিত্র্য পুনরুদ্ধারে সহায়তা করে।",
+                    "example_sentence_transliteration": "Bonayon jibbochoitryo punoruddhare sahayota kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "agroforestry",
+            "phonetic": "ˌæɡ.roʊˈfɔːr.ɪ.stri",
+            "word_native_transliteration": {
+                "bn": "অ্যাগ্রোফরেস্ট্রি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌾",
+            "meaning": "A land use management system in which trees or shrubs are grown around or among crops or pastureland.",
+            "example_sentence": "Agroforestry improves soil quality and crop yield.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাগ্রোফরেস্ট্রি ইমপ্রুভস সয়েল কোয়ালিটি অ্যান্ড ক্রপ ইয়েল্ড।"
+            },
+            "position": 18,
+            "synonyms": "farm forestry, sustainable agriculture, mixed cropping",
+            "antonyms": "monoculture, traditional farming, land degradation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কৃষি বনায়ন, গাছ ও ফসল একসঙ্গে চাষ করা",
+                    "word_transliteration": "krishi bonayon, gach o phosol ekshonge chash kora",
+                    "example_sentence_translation": "কৃষি বনায়ন মাটির গুণগত মান ও ফসল উৎপাদন বৃদ্ধি করে।",
+                    "example_sentence_transliteration": "Krishi bonayon matir gunogoto man o phosol utpadon briddhi kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sustainability",
+            "phonetic": "səˌsteɪ.nəˈbɪl.ə.t̬i",
+            "word_native_transliteration": {
+                "bn": "সাসটেইনেবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "♻️",
+            "meaning": "The ability to be maintained at a certain rate or level.",
+            "example_sentence": "Renewable energy ensures environmental sustainability.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিনিউএবল এনার্জি এনশিউরস এনভায়রনমেন্টাল সাসটেইনেবিলিটি।"
+            },
+            "position": 19,
+            "synonyms": "eco-friendliness, viability, renewable practice",
+            "antonyms": "unsustainability, depletion, overconsumption",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্থায়িত্ব, টেকসই উন্নয়ন",
+                    "word_transliteration": "sthayitto, teksoi unnnoyon",
+                    "example_sentence_translation": "নবায়নযোগ্য জ্বালানি পরিবেশগত স্থায়িত্ব নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Nobayonzoggo jwalani poribeshgoto sthayitto nishchito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "carbon sequestration",
+            "phonetic": "ˈkɑːr.bən ˌsiː.kwəˈstreɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "কার্বন সিকোয়েস্ট্রেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌱",
+            "meaning": "The process of capture and long-term storage of atmospheric carbon dioxide to mitigate or defer global warming.",
+            "example_sentence": "Forests play a key role in carbon sequestration.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফরেস্টস প্লে আ কি রোল ইন কার্বন সিকোয়েস্ট্রেশন।"
+            },
+            "position": 20,
+            "synonyms": "carbon storage, emission reduction, greenhouse gas absorption",
+            "antonyms": "carbon emission, pollution, fossil fuel burning",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কার্বন শোষণ, কার্বন সংরক্ষণ",
+                    "word_transliteration": "carbon shoshon, carbon shngorokhon",
+                    "example_sentence_translation": "বনভূমি কার্বন শোষণে গুরুত্বপূর্ণ ভূমিকা রাখে।",
+                    "example_sentence_transliteration": "Bonbhumi carbon shoshone guruttopurno bhumika rakhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "absorption",
+            "phonetic": "əbˈzɔːrp.ʃən",
+            "word_native_transliteration": {
+                "bn": "অ্যাবজর্পশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💨",
+            "meaning": "The process or action by which one thing absorbs or is absorbed by another.",
+            "example_sentence": "Plants help in the absorption of carbon dioxide.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্ল্যান্টস হেল্প ইন দ্য অ্যাবজর্পশন অব কার্বন ডাইঅক্সাইড।"
+            },
+            "position": 21,
+            "synonyms": "uptake, assimilation, soaking",
+            "antonyms": "emission, release, dispersion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শোষণ, আত্মীকরণ, গ্রহণ",
+                    "word_transliteration": "shoshon, atmikoron, grohon",
+                    "example_sentence_translation": "গাছ কার্বন ডাই অক্সাইড শোষণে সহায়তা করে।",
+                    "example_sentence_transliteration": "Gach carbon dioxide shoshone sahayota kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pollutants",
+            "phonetic": "pəˈluː.tənts",
+            "word_native_transliteration": {
+                "bn": "পলিউট্যান্টস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "☠️",
+            "meaning": "A substance that pollutes or contaminates.",
+            "example_sentence": "Industrial pollutants harm aquatic life.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইন্ডাস্ট্রিয়াল পলিউট্যান্টস হার্ম অ্যাকুয়াটিক লাইফ।"
+            },
+            "position": 22,
+            "synonyms": "contaminants, toxins, impurities",
+            "antonyms": "purifiers, clean substances, eco-friendly materials",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দূষক পদার্থ, ক্ষতিকর উপাদান",
+                    "word_transliteration": "dushok podartho, khotikar upodan",
+                    "example_sentence_translation": "শিল্প দূষক জলজ প্রাণীর জন্য ক্ষতিকর।",
+                    "example_sentence_transliteration": "Shilpo dushok joloj pranir jonno khotikar.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "long-term",
+            "phonetic": "ˈlɔːŋ.tɜːrm",
+            "word_native_transliteration": {
+                "bn": "লং-টার্ম"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📅",
+            "meaning": "Occurring over or involving a relatively long period of time.",
+            "example_sentence": "Long-term planning is necessary for environmental conservation.",
+            "example_sentence_native_transliteration": {
+                "bn": "লং-টার্ম প্ল্যানিং ইজ নেসেসারি ফর এনভায়রনমেন্টাল কনজারভেশন।"
+            },
+            "position": 23,
+            "synonyms": "lasting, enduring, permanent",
+            "antonyms": "short-term, temporary, immediate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দীর্ঘমেয়াদী, টেকসই, স্থায়ী",
+                    "word_transliteration": "dirghomeyadi, teksoi, sthayi",
+                    "example_sentence_translation": "পরিবেশ সংরক্ষণের জন্য দীর্ঘমেয়াদী পরিকল্পনা অপরিহার্য।",
+                    "example_sentence_transliteration": "Poribesh songrokkhoner jonno dirghomeyadi porikolpona oprohharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "repercussions",
+            "phonetic": "ˌriː.pɚˈkʌʃ.ənz",
+            "word_native_transliteration": {
+                "bn": "রিপারকাশনস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "An unintended consequence occurring some time after an event or action, especially an unwelcome one.",
+            "example_sentence": "The repercussions of pollution affect future generations.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রিপারকাশনস অব পলিউশন অ্যাফেক্ট ফিউচার জেনারেশনস।"
+            },
+            "position": 24,
+            "synonyms": "consequences, ramifications, aftermath",
+            "antonyms": "rewards, benefits, advantages",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিণতি, প্রতিক্রিয়া, প্রতিফলন",
+                    "word_transliteration": "porinoti, protikriya, protipholon",
+                    "example_sentence_translation": "দূষণের পরিণতি ভবিষ্যৎ প্রজন্মকে প্রভাবিত করে।",
+                    "example_sentence_transliteration": "Dushoner porinoti bhobishyot projnomke prabhabhito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "future generations",
+            "phonetic": "ˈfjuː.tʃɚ ˌdʒen.əˈreɪ.ʃənz",
+            "word_native_transliteration": {
+                "bn": "ফিউচার জেনারেশনস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👶",
+            "meaning": "People who have not yet been born, considered in terms of the environment or society they will inherit.",
+            "example_sentence": "Sustainable development ensures a better life for future generations.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাস্টেইনেবল ডেভেলপমেন্ট এনশিউরস আ বেটার লাইফ ফর ফিউচার জেনারেশনস।"
+            },
+            "position": 25,
+            "synonyms": "posterity, descendants, coming generations",
+            "antonyms": "past generations, ancestors, predecessors",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভবিষ্যৎ প্রজন্ম, উত্তরাধিকারী সমাজ",
+                    "word_transliteration": "bhobishyot projnm, uttaradhikari shomaj",
+                    "example_sentence_translation": "টেকসই উন্নয়ন ভবিষ্যৎ প্রজন্মের জন্য একটি উন্নত জীবন নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Teksoi unnnoyon bhobishyot projnmer jonno ekti unnoto jibon nishchito kore.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

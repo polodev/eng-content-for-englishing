@@ -1,0 +1,472 @@
+{
+    "position": 84,
+    "title_translation": {
+        "en": "Challenges Faced by Small-Scale Farmers",
+        "bn": "ছোট কৃষকদের জন্য চ্যালেঞ্জসমূহ"
+    },
+    "content_translation": {
+        "en": "For small-scale farmers, **cultivation** is an **arduous** task where various **predicaments** are constantly created. Natural **fluctuations**, especially climate change, have a major impact on crop production. Due to the lack of **climate-resilient** technology, it becomes difficult for them to survive in **subsistence** farming. Often, **bureaucratic** complexities make it difficult for farmers to receive government assistance. Additionally, due to the **monopoly** of big businesses in the market, small farmers are deprived of fair prices, which has a negative impact on their **livelihood**.\n\n**Agrochemical** prices are **exorbitant**, and many farmers cannot afford them. **Infrastructure** and storage system **inefficiency** increases crop wastage.\n\nTo solve these problems, government and non-government **intervention** is needed so that farmers can ensure **sustainability**. Working with **foresight** can eliminate agricultural **disparity** in the future.",
+        "bn": "ছোট কৃষকদের জন্য **cultivation** একটি **arduous** কাজ, যেখানে প্রতিনিয়ত নানা **predicament** তৈরি হয়। প্রাকৃতিক **fluctuation**, বিশেষ করে জলবায়ুর পরিবর্তন, ফসলের উৎপাদনে বড় প্রভাব ফেলে। **Climate-resilient** প্রযুক্তির অভাবের কারণে তাদের **subsistence** চাষে টিকে থাকাই কঠিন হয়ে যায়। অনেক সময় **bureaucratic** জটিলতায় কৃষকদের সরকারি সহায়তা পেতে সমস্যা হয়। এছাড়া, বাজারে বড় ব্যবসায়ীদের **monopoly** থাকায় ছোট কৃষকেরা ন্যায্য মূল্য থেকে বঞ্চিত হয়, যা তাদের **livelihood**-এ নেতিবাচক প্রভাব ফেলে।\n\n**Agrochemical**-এর দাম **exorbitant**, এবং অনেক কৃষকের পক্ষে এটি বহন করা সম্ভব হয় না। **Infrastructure** ও সংরক্ষণ পদ্ধতির **inefficiency** ফসলের অপচয় বাড়িয়ে দেয়।\n\nএই সমস্যাগুলোর সমাধান করার জন্য সরকারি ও বেসরকারি **intervention** প্রয়োজন, যাতে কৃষকেরা **sustainability** নিশ্চিত করতে পারে। **Foresight** নিয়ে কাজ করলে ভবিষ্যতে কৃষির **disparity** দূর করা সম্ভব হবে।"
+    },
+    "list": [
+        {
+            "word": "cultivation",
+            "phonetic": "ˌkʌl.tɪˈveɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "কাল্টিভেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌾",
+            "meaning": "The practice of preparing and using land for crops or gardening; the action of improving or developing something.",
+            "example_sentence": "The cultivation of organic crops has increased worldwide.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কাল্টিভেশন অব অর্গানিক ক্রপস হ্যাস ইনক্রিসড ওয়ার্ল্ডওয়াইড।"
+            },
+            "position": 1,
+            "synonyms": "farming, agriculture, tilling",
+            "antonyms": "neglect, abandonment, destruction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চাষাবাদ",
+                    "word_transliteration": "chashabād",
+                    "example_sentence_translation": "সারাবিশ্বে জৈব ফসলের চাষাবাদ বৃদ্ধি পেয়েছে।",
+                    "example_sentence_transliteration": "Sarabishe joibo foshler chashabād briddhi peyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "arduous",
+            "phonetic": "ˈɑː.dʒu.əs",
+            "word_native_transliteration": {
+                "bn": "আর্জুয়াস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "😰",
+            "meaning": "Involving or requiring strenuous effort; difficult and tiring.",
+            "example_sentence": "The trek through the mountains was an arduous journey.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ট্রেক থ্রু দ্য মাউন্টেইনস ওয়াজ অ্যান আর্জুয়াস জার্নি।"
+            },
+            "position": 2,
+            "synonyms": "strenuous, challenging, exhausting",
+            "antonyms": "easy, effortless, simple",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শ্রমসাধ্য",
+                    "word_transliteration": "shrômshādhô",
+                    "example_sentence_translation": "পর্বত অতিক্রম করা ছিল একটি কষ্টকর ভ্রমণ।",
+                    "example_sentence_transliteration": "Porbôt otikrôm kora chilo ekti kôshtokôr bhromôn.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "predicament",
+            "phonetic": "prɪˈdɪk.ə.mənt",
+            "word_native_transliteration": {
+                "bn": "প্রিডিকামেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "😟",
+            "meaning": "A difficult, unpleasant, or embarrassing situation.",
+            "example_sentence": "Losing both jobs put him in a financial predicament.",
+            "example_sentence_native_transliteration": {
+                "bn": "লুজিং বোথ জবস পুট হিম ইন এ ফিন্যান্সিয়াল প্রিডিকামেন্ট।"
+            },
+            "position": 3,
+            "synonyms": "dilemma, plight, quandary",
+            "antonyms": "solution, advantage, relief",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দুর্দশা",
+                    "word_transliteration": "durdôsha",
+                    "example_sentence_translation": "উভয় চাকরি হারানো তাকে আর্থিক সংকটে ফেলে দিয়েছে।",
+                    "example_sentence_transliteration": "Ubhoy chakri harano take arthik songkôte fele diyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fluctuation",
+            "phonetic": "ˌflʌk.tʃuˈeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ফ্লাকচুয়েশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "An irregular rising and falling in number or amount; a variation.",
+            "example_sentence": "The stock market experiences daily fluctuations.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্টক মার্কেট এক্সপেরিয়েন্সেস ডেইলি ফ্লাকচুয়েশনস।"
+            },
+            "position": 4,
+            "synonyms": "variation, instability, oscillation",
+            "antonyms": "stability, consistency, uniformity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ওঠানামা",
+                    "word_transliteration": "othanama",
+                    "example_sentence_translation": "শেয়ার বাজার প্রতিদিন ওঠানামার সম্মুখীন হয়।",
+                    "example_sentence_transliteration": "Sheyar bajar protidin othanama-r shommukhīn hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "climate-resilient",
+            "phonetic": "ˈklaɪ.mət rɪˈzɪl.i.ənt",
+            "word_native_transliteration": {
+                "bn": "ক্লাইমেট-রেজিলিয়েন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌍",
+            "meaning": "Able to cope with the adverse effects of climate change; sustainable and adaptable.",
+            "example_sentence": "Climate-resilient crops can survive extreme weather conditions.",
+            "example_sentence_native_transliteration": {
+                "bn": "ক্লাইমেট-রেজিলিয়েন্ট ক্রপস ক্যান সারভাইভ এক্সট্রিম ওয়েদার কন্ডিশনস।"
+            },
+            "position": 5,
+            "synonyms": "adaptive, sustainable, robust",
+            "antonyms": "vulnerable, fragile, weak",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জলবায়ু সহনশীল",
+                    "word_transliteration": "jolbayu shôhônshīl",
+                    "example_sentence_translation": "জলবায়ু সহনশীল ফসল চরম আবহাওয়াতেও টিকে থাকতে পারে।",
+                    "example_sentence_transliteration": "Jolbayu shôhônshīl foshol chôrom abahawateo tike thakte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "subsistence",
+            "phonetic": "səbˈsɪs.təns",
+            "word_native_transliteration": {
+                "bn": "সাবসিস্টেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏠",
+            "meaning": "The action or fact of maintaining or supporting oneself at a minimum level.",
+            "example_sentence": "Many farmers depend on subsistence agriculture.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেনি ফার্মারস ডিপেন্ড অন সাবসিস্টেন্স এগ্রিকালচার।"
+            },
+            "position": 6,
+            "synonyms": "survival, livelihood, self-sufficiency",
+            "antonyms": "luxury, surplus, wealth",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জীবিকা",
+                    "word_transliteration": "jībika",
+                    "example_sentence_translation": "অনেক কৃষক জীবিকা নির্বাহের জন্য কৃষিকাজের উপর নির্ভর করেন।",
+                    "example_sentence_transliteration": "Onek krishok jībika nirbāher jonnô krishikājer upor nirbhor koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "bureaucratic",
+            "phonetic": "ˌbjʊə.rəˈkræt.ɪk",
+            "word_native_transliteration": {
+                "bn": "বিউরোক্র্যাটিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📋",
+            "meaning": "Involving or characterized by complex rules and procedures that can delay the achievement of goals.",
+            "example_sentence": "Bureaucratic red tape often delays project approvals.",
+            "example_sentence_native_transliteration": {
+                "bn": "বিউরোক্র্যাটিক রেড টেপ অফেন ডিলেস প্রজেক্ট অ্যাপ্রুভালস।"
+            },
+            "position": 7,
+            "synonyms": "administrative, procedural, official",
+            "antonyms": "flexible, efficient, unrestricted",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আমলাতান্ত্রিক",
+                    "word_transliteration": "ômlatāntrik",
+                    "example_sentence_translation": "আমলাতান্ত্রিক জটিলতা প্রায়ই প্রকল্প অনুমোদনে বিলম্ব ঘটায়।",
+                    "example_sentence_transliteration": "Ômlatāntrik jôtilota prayoi prokolpo onumodone bilômbo ghotay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "monopoly",
+            "phonetic": "məˈnɒp.əl.i",
+            "word_native_transliteration": {
+                "bn": "মনোপলি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏢",
+            "meaning": "The exclusive possession or control of the supply of or trade in a commodity or service.",
+            "example_sentence": "The company has a monopoly on electric car production.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি হ্যাস এ মনোপলি অন ইলেকট্রিক কার প্রোডাকশন।"
+            },
+            "position": 8,
+            "synonyms": "domination, control, exclusivity",
+            "antonyms": "competition, free market, plurality",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একাধিকার",
+                    "word_transliteration": "ekādhikār",
+                    "example_sentence_translation": "এই কোম্পানির বৈদ্যুতিক গাড়ি উৎপাদনে একচেটিয়া নিয়ন্ত্রণ রয়েছে।",
+                    "example_sentence_transliteration": "Ei company-r boidyutik gari utpadone ekachetiya niyontron royeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "livelihood",
+            "phonetic": "ˈlaɪv.li.hʊd",
+            "word_native_transliteration": {
+                "bn": "লাইভলিহুড"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💼",
+            "meaning": "A means of securing the necessities of life; a way of making a living.",
+            "example_sentence": "Fishing is the primary livelihood of coastal communities.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফিশিং ইজ দ্য প্রাইমারি লাইভলিহুড অব কোস্টাল কমিউনিটিস।"
+            },
+            "position": 9,
+            "synonyms": "income, occupation, employment",
+            "antonyms": "unemployment, poverty, idleness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জীবিকা",
+                    "word_transliteration": "jībika",
+                    "example_sentence_translation": "মাছ ধরা উপকূলীয় জনগোষ্ঠীর প্রধান জীবিকা।",
+                    "example_sentence_transliteration": "Mach dhora upokūlīy jônogoshthīr pradhān jībika.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "agrochemical",
+            "phonetic": "ˌæɡ.rəʊˈkem.ɪ.kəl",
+            "word_native_transliteration": {
+                "bn": "অ্যাগ্রোকেমিক্যাল"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧪",
+            "meaning": "A chemical product used in agriculture, especially a pesticide or fertilizer.",
+            "example_sentence": "Excessive use of agrochemicals can degrade soil quality.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সেসিভ ইউজ অব অ্যাগ্রোকেমিক্যালস ক্যান ডিগ্রেড সয়েল কোয়ালিটি।"
+            },
+            "position": 10,
+            "synonyms": "pesticide, fertilizer, herbicide",
+            "antonyms": "organic, natural, chemical-free",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কৃষি রাসায়নিক",
+                    "word_transliteration": "krishi rasāyonik",
+                    "example_sentence_translation": "অতিরিক্ত কৃষি রাসায়নিক ব্যবহারে মাটির গুণমান নষ্ট হতে পারে।",
+                    "example_sentence_transliteration": "Otirikto krishi rasāyonik byobahāre mātir gunmān noshto hote pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "exorbitant",
+            "phonetic": "ɪɡˈzɔː.bɪ.tənt",
+            "word_native_transliteration": {
+                "bn": "ইগজরবিট্যান্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💸",
+            "meaning": "Unreasonably high in price; excessive.",
+            "example_sentence": "The hotel charged an exorbitant price for a single night.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য হোটেল চার্জড অ্যান ইগজরবিট্যান্ট প্রাইস ফর এ সিঙ্গেল নাইট।"
+            },
+            "position": 11,
+            "synonyms": "overpriced, excessive, outrageous",
+            "antonyms": "affordable, reasonable, moderate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অত্যধিক",
+                    "word_transliteration": "otyadhik",
+                    "example_sentence_translation": "হোটেলটি এক রাতের জন্য অত্যধিক মূল্য নির্ধারণ করেছিল।",
+                    "example_sentence_transliteration": "Hotel-ti ek rāter jonnô otyadhik mulyo nirdhāron korechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "infrastructure",
+            "phonetic": "ˈɪn.frəˌstrʌk.tʃər",
+            "word_native_transliteration": {
+                "bn": "ইনফ্রাস্ট্রাকচার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏗️",
+            "meaning": "The basic physical and organizational structures and facilities needed for the operation of a society or enterprise.",
+            "example_sentence": "A strong infrastructure is essential for economic growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ স্ট্রং ইনফ্রাস্ট্রাকচার ইজ এসেনশিয়াল ফর ইকোনমিক গ্রোথ।"
+            },
+            "position": 12,
+            "synonyms": "framework, foundation, system",
+            "antonyms": "fragility, instability, deficiency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অবকাঠামো",
+                    "word_transliteration": "obokāthāmo",
+                    "example_sentence_translation": "একটি শক্তিশালী অবকাঠামো অর্থনৈতিক উন্নতির জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Ekti shôktishālī obokāthāmo orthonōitik unnōtir jonnô oporiharyo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "inefficiency",
+            "phonetic": "ˌɪn.ɪˈfɪʃ.ən.si",
+            "word_native_transliteration": {
+                "bn": "ইনএফিশিয়েন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚠️",
+            "meaning": "The state or quality of not achieving maximum productivity; failure to make the best use of time or resources.",
+            "example_sentence": "Government inefficiency leads to slow project completion.",
+            "example_sentence_native_transliteration": {
+                "bn": "গভর্নমেন্ট ইনএফিশিয়েন্সি লিডস টু স্লো প্রজেক্ট কমপ্লিশন।"
+            },
+            "position": 13,
+            "synonyms": "incompetence, wastefulness, sluggishness",
+            "antonyms": "efficiency, productivity, competence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অদক্ষতা",
+                    "word_transliteration": "odôkkhota",
+                    "example_sentence_translation": "সরকারি অদক্ষতার কারণে প্রকল্প সম্পন্ন হতে দীর্ঘ সময় লাগে।",
+                    "example_sentence_transliteration": "Shôrkari odôkkhota-r kārone prokolpo shômponno hote dīrgho shômoy lāge.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "intervention",
+            "phonetic": "ˌɪn.təˈven.ʃən",
+            "word_native_transliteration": {
+                "bn": "ইন্টারভেনশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "The action or process of intervening; involvement in a situation to improve or help it.",
+            "example_sentence": "The intervention of the UN was crucial in resolving the conflict.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইন্টারভেনশন অব দ্য ইউএন ওয়াজ ক্রুশিয়াল ইন রেজলভিং দ্য কনফ্লিক্ট।"
+            },
+            "position": 14,
+            "synonyms": "mediation, interference, regulation",
+            "antonyms": "withdrawal, avoidance, passivity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "হস্তক্ষেপ",
+                    "word_transliteration": "hôstokkhep",
+                    "example_sentence_translation": "জাতিসংঘের হস্তক্ষেপ ছিল সংঘাত নিরসনে অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Jātishôngher hôstokkhep chilo shônghāt niroshone ottyonto gurutbopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sustainability",
+            "phonetic": "səˌsteɪ.nəˈbɪl.ə.ti",
+            "word_native_transliteration": {
+                "bn": "সাসটেইনাবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "♻️",
+            "meaning": "The ability to be maintained at a certain rate or level; the quality of not being harmful to the environment.",
+            "example_sentence": "Sustainability in agriculture ensures food security for future generations.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাসটেইনাবিলিটি ইন এগ্রিকালচার এনশিওরস ফুড সিকিউরিটি ফর ফিউচার জেনারেশনস।"
+            },
+            "position": 15,
+            "synonyms": "viability, durability, endurance",
+            "antonyms": "unsustainability, depletion, instability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "টেকসইতা",
+                    "word_transliteration": "teksôita",
+                    "example_sentence_translation": "কৃষিক্ষেত্রে টেকসইতা ভবিষ্যৎ প্রজন্মের খাদ্য নিরাপত্তা নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Krishikkhetre teksôita bhobisyt projônmer khadyo nirapotta nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "foresight",
+            "phonetic": "ˈfɔː.saɪt",
+            "word_native_transliteration": {
+                "bn": "ফোরসাইট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔮",
+            "meaning": "The ability to predict or the action of predicting what will happen or be needed in the future.",
+            "example_sentence": "His foresight helped the company avoid financial losses.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ফোরসাইট হেল্পড দ্য কোম্পানি অ্যাভয়েড ফিন্যান্সিয়াল লসেস।"
+            },
+            "position": 16,
+            "synonyms": "vision, anticipation, prudence",
+            "antonyms": "shortsightedness, impulsiveness, negligence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দূরদর্শিতা",
+                    "word_transliteration": "dūrodorshita",
+                    "example_sentence_translation": "তার দূরদর্শিতা কোম্পানিকে আর্থিক ক্ষতির হাত থেকে বাঁচিয়েছে।",
+                    "example_sentence_transliteration": "Tār dūrodorshita company-ke arthik kkhōtir hāt theke bāchiyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "disparity",
+            "phonetic": "dɪˈspær.ə.ti",
+            "word_native_transliteration": {
+                "bn": "ডিসপ্যারিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "A great difference; a lack of equality or similarity.",
+            "example_sentence": "There is a huge disparity in wealth distribution across the country.",
+            "example_sentence_native_transliteration": {
+                "bn": "দেয়ার ইজ এ হিউজ ডিসপ্যারিটি ইন ওয়েলথ ডিস্ট্রিবিউশন অ্যাক্রস দ্য কান্ট্রি।"
+            },
+            "position": 17,
+            "synonyms": "inequality, gap, discrepancy",
+            "antonyms": "equality, balance, parity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৈষম্য",
+                    "word_transliteration": "boishômyo",
+                    "example_sentence_translation": "দেশজুড়ে সম্পদের বণ্টনে ব্যাপক বৈষম্য রয়েছে।",
+                    "example_sentence_transliteration": "Deshjure shômpoder bontone byāpok boishômyo royeche.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

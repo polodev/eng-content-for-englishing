@@ -1,0 +1,472 @@
+{
+    "position": 94,
+    "title_translation": {
+        "en": "Don't chase 2 rabbits at once",
+        "bn": "Don't chase 2 rabbits at once"
+    },
+    "content_translation": {
+        "en": "Pursuing **two goals** at the same time means failing at both. The ancient **proverb** \"Don't chase 2 rabbits at once\" teaches us a valuable lesson about **focus** and **productivity**.\n\nWhen we try to do multiple **tasks** at the same time, **multitasking** reduces our **efficiency**. **Psychologists** have said that our **brain** can only **focus** on one task at a time. If we focus on multiple **goals**, we become victims of **distraction** and **progress** becomes slow.\n\nThis **concept** is also important in **time management**. Taking on two big **projects** at the same time means it's difficult to achieve **success** in both. Therefore, we should **prioritize** - giving **efforts** to the most important **goal** first.\n\n**Discipline** and **patience** are important for achieving **success**. After achieving one **goal**, we can take on the next **challenge**. **Successful people** always maintain **laser focus** on one **goal** and gradually achieve big **milestones**.\n\nSo remember, \"Don't chase 2 rabbits at once\" - catch one **rabbit**, **catch** it, then move toward achieving the next target.",
+        "bn": "একই সঙ্গে **two goals** তাড়া করা মানে দুটোতেই ব্যর্থ হওয়া। প্রাচীন **proverb** \"Don't chase 2 rabbits at once\" আমাদের **focus** এবং **productivity** সম্পর্কে একটি মূল্যবান শিক্ষা দেয়।\n\nযখন আমরা একসঙ্গে একাধিক **tasks** করার চেষ্টা করি, তখন **multitasking** এর কারণে **efficiency** হ্রাস পায়। **Psychologists** বলেছেন, আমাদের **brain** একই সময়ে শুধুমাত্র একটি task-এর উপর **focus** করতে পারে। একাধিক **goals**-এ মনোযোগ দিলে আমরা **distraction**-এর শিকার হই এবং **progress** ধীর হয়ে যায়।\n\nএই **concept** **time management** এর ক্ষেত্রেও গুরুত্বপূর্ণ। একই সময়ে দুটি বড় **projects** নেওয়া মানে দুটিতেই **success** পাওয়া কঠিন। এজন্য, আমাদের উচিত **prioritize** করা—প্রথমে সবচেয়ে গুরুত্বপূর্ণ **goal**-টিতে **efforts** দেওয়া।\n\n**Achieving success**-এর জন্য **discipline** এবং **patience** গুরুত্বপূর্ণ। একটি **goal** অর্জনের পরে, আমরা পরবর্তী **challenge** নিতে পারি। **Successful people** সর্বদা একটি **goal**-এর উপর laser **focus** রাখেন এবং ধীরে ধীরে বড় **milestones** অর্জন করেন।\n\nতাই মনে রাখুন, \"Don't chase 2 rabbits at once\"—একটি rabbit ধরুন, তাকে **catch** করুন, তারপর পরবর্তী লক্ষ্য অর্জনের দিকে যান।"
+    },
+    "list": [
+        {
+            "word": "chase",
+            "phonetic": "tʃeɪs",
+            "word_native_transliteration": {
+                "bn": "চেস"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🏃",
+            "meaning": "To pursue in order to catch or overtake; to follow rapidly or eagerly",
+            "example_sentence": "Don't chase two rabbits at once.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডোন্ট চেস টু র্যাবিটস অ্যাট ওয়ানস।"
+            },
+            "position": 1,
+            "synonyms": "pursue, follow, hunt, track, run after",
+            "antonyms": "avoid, ignore, flee, escape",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "তাড়া করা",
+                    "word_transliteration": "tara kora",
+                    "example_sentence_translation": "একসঙ্গে দুটি খরগোশকে তাড়া করবেন না।",
+                    "example_sentence_transliteration": "Ekshonge duti khorgoshke tara korben na.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "rabbit",
+            "phonetic": "ˈræbɪt",
+            "word_native_transliteration": {
+                "bn": "র্যাবিট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🐰",
+            "meaning": "A small mammal with long ears, long hind legs, and a short tail",
+            "example_sentence": "The rabbit ran quickly into the forest.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য র্যাবিট র্যান কুইকলি ইনটু দ্য ফরেস্ট।"
+            },
+            "position": 2,
+            "synonyms": "bunny, hare, cottontail",
+            "antonyms": "predator, hunter",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "খরগোশ",
+                    "word_transliteration": "khorgosh",
+                    "example_sentence_translation": "খরগোশটি দ্রুত বনে দৌড়ে গেল।",
+                    "example_sentence_transliteration": "Khorgoshti druto bone dourre gelo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "focus",
+            "phonetic": "ˈfoʊkəs",
+            "word_native_transliteration": {
+                "bn": "ফোকাস"
+            },
+            "parts_of_speech": "noun/verb",
+            "emoji": "🎯",
+            "meaning": "The center of interest or activity; to concentrate attention or effort",
+            "example_sentence": "Focus on one goal at a time.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফোকাস অন ওয়ান গোল অ্যাট অ্যা টাইম।"
+            },
+            "position": 3,
+            "synonyms": "concentration, attention, emphasis, center",
+            "antonyms": "distraction, neglect, ignore",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মনোযোগ",
+                    "word_transliteration": "monojog",
+                    "example_sentence_translation": "একবারে একটি লক্ষ্য নিয়ে মনোযোগ দিন।",
+                    "example_sentence_transliteration": "Ekbare ekti lokhkho niye monojog din.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "productivity",
+            "phonetic": "ˌprɒdʌkˈtɪvɪti",
+            "word_native_transliteration": {
+                "bn": "প্রোডাক্টিভিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "The effectiveness of productive effort, especially in industry, as measured in terms of the rate of output per unit of input",
+            "example_sentence": "Productivity increases with focus.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোডাক্টিভিটি ইনক্রিজেস উইথ ফোকাস।"
+            },
+            "position": 4,
+            "synonyms": "efficiency, effectiveness, output, performance",
+            "antonyms": "inefficiency, idleness, unproductiveness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উৎপাদনশীলতা",
+                    "word_transliteration": "utpadonsheelota",
+                    "example_sentence_translation": "মনোযোগ বাড়ালে উৎপাদনশীলতা বৃদ্ধি পায়।",
+                    "example_sentence_transliteration": "Monojog barrale utpadonsheelota briddhi pay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "multitasking",
+            "phonetic": "ˈmʌltiˌtɑːskɪŋ",
+            "word_native_transliteration": {
+                "bn": "মাল্টিটাস্কিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤹",
+            "meaning": "The performance of more than one task at the same time",
+            "example_sentence": "Multitasking reduces efficiency.",
+            "example_sentence_native_transliteration": {
+                "bn": "মাল্টিটাস্কিং রিডিউসেস এফিশিয়েন্সি।"
+            },
+            "position": 5,
+            "synonyms": "parallel processing, concurrent tasks",
+            "antonyms": "singletasking, focused work, single-minded",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বহুকাজ",
+                    "word_transliteration": "bohukaj",
+                    "example_sentence_translation": "একসঙ্গে একাধিক কাজ করা দক্ষতা কমিয়ে দেয়।",
+                    "example_sentence_transliteration": "Ekshonge ekaadhik kaj kora dokkhota komiye dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "brain",
+            "phonetic": "breɪn",
+            "word_native_transliteration": {
+                "bn": "ব্রেইন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧠",
+            "meaning": "The organ inside the head that controls thought, memory, feelings, and activity",
+            "example_sentence": "The brain can only focus on one thing at a time.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ব্রেইন ক্যান ওনলি ফোকাস অন ওয়ান থিং অ্যাট অ্যা টাইম।"
+            },
+            "position": 6,
+            "synonyms": "mind, intellect, intelligence, cerebrum",
+            "antonyms": "body, limb, muscle",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মস্তিষ্ক",
+                    "word_transliteration": "mostishko",
+                    "example_sentence_translation": "মস্তিষ্ক এক সময়ে কেবল একটি বিষয়ে মনোযোগ দিতে পারে।",
+                    "example_sentence_transliteration": "Mostishko ek shomoye kebol ekti bishaye monojog dite pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "distraction",
+            "phonetic": "dɪsˈtrækʃən",
+            "word_native_transliteration": {
+                "bn": "ডিস্ট্র্যাকশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "😵‍💫",
+            "meaning": "A thing that prevents someone from giving full attention to something else",
+            "example_sentence": "Avoid distractions to stay productive.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাভয়েড ডিস্ট্র্যাকশনস টু স্টে প্রোডাক্টিভ।"
+            },
+            "position": 7,
+            "synonyms": "interruption, disruption, deviation, diversion",
+            "antonyms": "focus, concentration, attention",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিভ্রান্তি",
+                    "word_transliteration": "bibhranti",
+                    "example_sentence_translation": "উৎপাদনশীল থাকতে বিভ্রান্তি এড়িয়ে চলুন।",
+                    "example_sentence_transliteration": "Utpadonsheelo thakte bibhranti eriye cholun.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "concept",
+            "phonetic": "ˈkɒnsept",
+            "word_native_transliteration": {
+                "bn": "কনসেপ্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💡",
+            "meaning": "An abstract idea or general notion",
+            "example_sentence": "The concept of chasing two rabbits teaches focus.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কনসেপ্ট অফ চেসিং টু র্যাবিটস টিচেস ফোকাস।"
+            },
+            "position": 8,
+            "synonyms": "idea, notion, theory, principle",
+            "antonyms": "reality, concrete idea, fact",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ধারণা",
+                    "word_transliteration": "dharona",
+                    "example_sentence_translation": "দুটি খরগোশ তাড়া করার ধারণা আমাদের মনোযোগ শেখায়।",
+                    "example_sentence_transliteration": "Duti khorgosh tara korar dharona amader monojog shekhay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "time management",
+            "phonetic": "taɪm ˈmænɪdʒmənt",
+            "word_native_transliteration": {
+                "bn": "টাইম ম্যানেজমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⏰",
+            "meaning": "The process of planning and exercising conscious control over the amount of time spent on specific activities",
+            "example_sentence": "Time management is crucial for success.",
+            "example_sentence_native_transliteration": {
+                "bn": "টাইম ম্যানেজমেন্ট ইজ ক্রুশিয়াল ফর সাকসেস।"
+            },
+            "position": 9,
+            "synonyms": "time planning, scheduling, organization",
+            "antonyms": "time wasting, procrastination, disorganization",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সময় ব্যবস্থাপনা",
+                    "word_transliteration": "shomoy byaboshthapona",
+                    "example_sentence_translation": "সফলতার জন্য সময় ব্যবস্থাপনা অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Shofolotaar jonyo shomoy byaboshthapona ottyonto guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "project",
+            "phonetic": "ˈprɒdʒekt",
+            "word_native_transliteration": {
+                "bn": "প্রজেক্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📋",
+            "meaning": "An individual or collaborative enterprise that is carefully planned to achieve a particular aim",
+            "example_sentence": "Working on two projects simultaneously is difficult.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওয়ার্কিং অন টু প্রজেক্টস সিমালটেনিয়াসলি ইজ ডিফিকাল্ট।"
+            },
+            "position": 10,
+            "synonyms": "venture, undertaking, scheme, plan",
+            "antonyms": "task, assignment, routine work",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রকল্প",
+                    "word_transliteration": "prokolpo",
+                    "example_sentence_translation": "একসাথে দুটি প্রকল্পে কাজ করা কঠিন।",
+                    "example_sentence_transliteration": "Eksaathe duti prokolpe kaj kora kothin.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "success",
+            "phonetic": "səkˈsɛs",
+            "word_native_transliteration": {
+                "bn": "সাকসেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏆",
+            "meaning": "The accomplishment of an aim or purpose; the attainment of popularity or profit",
+            "example_sentence": "Success requires focus and determination.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাকসেস রিকোয়ারস ফোকাস অ্যান্ড ডিটারমিনেশন।"
+            },
+            "position": 11,
+            "synonyms": "achievement, accomplishment, triumph, victory",
+            "antonyms": "failure, defeat, setback",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সফলতা",
+                    "word_transliteration": "shofolota",
+                    "example_sentence_translation": "সফলতার জন্য মনোযোগ ও দৃঢ় সংকল্প প্রয়োজন।",
+                    "example_sentence_transliteration": "Shofolotaar jonyo monojog o drirho shonkolpo proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "prioritize",
+            "phonetic": "praɪˈɒraɪtaɪz",
+            "word_native_transliteration": {
+                "bn": "প্রায়োরিটাইজ"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📝",
+            "meaning": "To designate or treat something as more important than other things",
+            "example_sentence": "Prioritize your tasks to stay efficient.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রায়োরিটাইজ ইয়োর টাস্কস টু স্টে এফিশিয়েন্ট।"
+            },
+            "position": 12,
+            "synonyms": "rank, order, organize, arrange",
+            "antonyms": "ignore, neglect, disregard",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অগ্রাধিকার দেওয়া",
+                    "word_transliteration": "ogradhikar dewa",
+                    "example_sentence_translation": "দক্ষ থাকতে আপনার কাজগুলোকে অগ্রাধিকার দিন।",
+                    "example_sentence_transliteration": "Dokkho thakte apnar kajguloke ogradhikar din.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "efforts",
+            "phonetic": "ˈefərts",
+            "word_native_transliteration": {
+                "bn": "এফোর্টস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "A vigorous or determined attempt; physical or mental energy",
+            "example_sentence": "Your efforts determine your success.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইউর এফোর্টস ডিটারমাইন ইয়োর সাকসেস।"
+            },
+            "position": 13,
+            "synonyms": "attempt, endeavor, work, struggle",
+            "antonyms": "laziness, idleness, neglect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রচেষ্টা",
+                    "word_transliteration": "procheshta",
+                    "example_sentence_translation": "আপনার প্রচেষ্টা আপনার সফলতা নির্ধারণ করে।",
+                    "example_sentence_transliteration": "Apnar procheshta apnar shofolota nirdharon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "discipline",
+            "phonetic": "ˈdɪsɪplɪn",
+            "word_native_transliteration": {
+                "bn": "ডিসিপ্লিন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "The practice of training people to obey rules or a code of behavior, using punishment to correct disobedience",
+            "example_sentence": "Discipline helps maintain focus and productivity.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিসিপ্লিন হেল্পস মেইনটেইন ফোকাস অ্যান্ড প্রোডাক্টিভিটি।"
+            },
+            "position": 14,
+            "synonyms": "self-control, restraint, regulation, order",
+            "antonyms": "disorder, chaos, indiscipline",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শৃঙ্খলা",
+                    "word_transliteration": "shrinkhola",
+                    "example_sentence_translation": "শৃঙ্খলা মনোযোগ ও উৎপাদনশীলতা বজায় রাখতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Shrinkhola monojog o utpadonsheelota bojay rakhte shahajyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "patience",
+            "phonetic": "ˈpeɪʃəns",
+            "word_native_transliteration": {
+                "bn": "পেশেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧘",
+            "meaning": "The capacity to accept or tolerate delay, problems, or suffering without becoming annoyed or anxious",
+            "example_sentence": "Patience is essential when chasing big goals.",
+            "example_sentence_native_transliteration": {
+                "bn": "পেশেন্স ইজ এসেনশিয়াল হোয়েন চেসিং বিগ গোলস।"
+            },
+            "position": 15,
+            "synonyms": "tolerance, endurance, perseverance, forbearance",
+            "antonyms": "impatience, agitation, restlessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ধৈর্য",
+                    "word_transliteration": "dhoirjo",
+                    "example_sentence_translation": "বড় লক্ষ্য তাড়া করার সময় ধৈর্য অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Boro lokkho tara korar shomoy dhoirjo ottyonto guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "challenge",
+            "phonetic": "ˈtʃælɪndʒ",
+            "word_native_transliteration": {
+                "bn": "চ্যালেঞ্জ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "A call to take part in a contest or competition, especially a duel; a task or situation that tests someone's abilities",
+            "example_sentence": "Overcoming challenges requires focus and effort.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওভারকামিং চ্যালেঞ্জেস রিকোয়ারস ফোকাস অ্যান্ড এফোর্ট।"
+            },
+            "position": 16,
+            "synonyms": "obstacle, difficulty, test, trial",
+            "antonyms": "agreement, acceptance, ease",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চ্যালেঞ্জ",
+                    "word_transliteration": "challenge",
+                    "example_sentence_translation": "চ্যালেঞ্জ মোকাবেলা করতে মনোযোগ ও প্রচেষ্টা প্রয়োজন।",
+                    "example_sentence_transliteration": "Challenge mokabela korte monojog o procheshta proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "milestone",
+            "phonetic": "ˈmaɪlstoʊn",
+            "word_native_transliteration": {
+                "bn": "মাইলস্টোন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "An action or event marking a significant change or stage in development",
+            "example_sentence": "Reaching key milestones requires patience and persistence.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিচিং কী মাইলস্টোনস রিকোয়ারস পেশেন্স অ্যান্ড পার্সিস্টেন্স।"
+            },
+            "position": 17,
+            "synonyms": "landmark, achievement, turning point, benchmark",
+            "antonyms": "insignificant event, setback, regression",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মাইলফলক",
+                    "word_transliteration": "mailpholok",
+                    "example_sentence_translation": "গুরুত্বপূর্ণ মাইলফলক অর্জনে ধৈর্য এবং অধ্যবসায় প্রয়োজন।",
+                    "example_sentence_transliteration": "Guruttopurno mailpholok orjone dhoirjo ebong oddhyobasay proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,391 @@
+{
+    "position": 87,
+    "title_translation": {
+        "en": "Common Habits That Weaken Memory",
+        "bn": "স্মৃতিশক্তি দুর্বল করে এমন সাধারণ অভ্যাস"
+    },
+    "content_translation": {
+        "en": "Today, many people neglect their brain's **cognitive** abilities, leading to memory **degeneration**. On one hand, a **sedentary** lifestyle and **excessive** television watching weaken the brain's **neuroplasticity**.\n\nAnother common habit is **preoccupation** or excessive worry, which hampers the brain's **retention** ability. Due to prolonged **distraction**, our concentration breaks and the ability to remember information decreases.\n\nFurthermore, **indulgence** and **sleep deprivation** are also harmful to memory. Without adequate sleep, the brain's **ephemeral** memory preservation process is disrupted. **Somnolence** or insufficient sleep causes memory **impairment**.\n\nFor brain health, **sufficiency** of sleep and exercise is essential, so that **obfuscation** does not occur and memory strength is maintained.",
+        "bn": "আজকাল, অনেক মানুষ তাদের মস্তিষ্কের **cognitive** ক্ষমতাকে অবহেলা করে, যা তাদের স্মৃতিশক্তি **degeneration** ঘটায়। একদিকে, **sedentary** জীবনযাত্রা এবং **excessive** টেলিভিশন দেখা মস্তিষ্কের **neuroplasticity** দুর্বল করে দেয়।\n\nআরেকটি সাধারণ অভ্যেস হলো **preoccupation** বা অতিরিক্ত চিন্তা, যা মস্তিষ্কের **retention** ক্ষমতাকে বাধাগ্রস্ত করে। দীর্ঘ সময় **distraction**-এর কারণে, আমাদের মনোযোগ ভেঙে যায় এবং **information** মনে রাখার ক্ষমতা কমে যায়।\n\nএছাড়া, **indulgence** এবং ঘুমের অভাবও স্মৃতির জন্য ক্ষতিকর। পর্যাপ্ত ঘুম না হলে, মস্তিষ্কের মধ্যে **ephemeral** স্মৃতি সংরক্ষণ প্রক্রিয়া ব্যাহত হয়। **Somnolence** বা অল্প ঘুমের ফলে, স্মৃতির **impairment** ঘটে।\n\nমস্তিষ্কের সুস্থতার জন্য, **sufficiency** ঘুম এবং ব্যায়াম জরুরি, যাতে **obfuscation** না ঘটে এবং স্মৃতির শক্তি বজায় থাকে।"
+    },
+    "list": [
+        {
+            "word": "cognitive",
+            "phonetic": "ˈkɒɡnɪtɪv",
+            "word_native_transliteration": {
+                "bn": "কগনিটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧠",
+            "meaning": "Related to mental processes of perception, memory, judgment, and reasoning.",
+            "example_sentence": "Cognitive functions improve with practice and learning.",
+            "example_sentence_native_transliteration": {
+                "bn": "কগনিটিভ ফাংশনগুলি অনুশীলন এবং শিখনের মাধ্যমে উন্নত হয়।"
+            },
+            "position": 1,
+            "synonyms": "Mental, Intellectual",
+            "antonyms": "Unaware, Ignorant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জ্ঞানগত",
+                    "word_transliteration": "gyangoto",
+                    "example_sentence_translation": "কগনিটিভ ফাংশনগুলি অনুশীলন এবং শিখনের মাধ্যমে উন্নত হয়।",
+                    "example_sentence_transliteration": "Kognitive fangshonguli onushilon ebong shikhoner madhyome unnoto hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "degeneration",
+            "phonetic": "ˌdɪdʒɪˈnɛəreɪʃən",
+            "word_native_transliteration": {
+                "bn": "ডিজেনারেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📉",
+            "meaning": "The process of decline or deterioration in structure or function.",
+            "example_sentence": "The degeneration of brain cells leads to cognitive decline.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডিজেনারেশন অফ ব্রেইন সেলস লিডস টু কগনিটিভ ডিক্লাইন।"
+            },
+            "position": 2,
+            "synonyms": "Deterioration, Decline",
+            "antonyms": "Improvement, Advancement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অবক্ষয়",
+                    "word_transliteration": "obokkhoy",
+                    "example_sentence_translation": "মস্তিষ্কের কোষের অবক্ষয় কগনিটিভ অবনতি ঘটায়।",
+                    "example_sentence_transliteration": "Mostishker kosher obokkhoy kognitive obonoti ghotay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sedentary",
+            "phonetic": "ˈsɛd(ə)ntəri",
+            "word_native_transliteration": {
+                "bn": "সেডেন্টারি"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🪑",
+            "meaning": "Characterized by much sitting and little physical activity.",
+            "example_sentence": "A sedentary lifestyle can lead to numerous health problems.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ সেডেন্টারি লাইফস্টাইল ক্যান লিড টু নিউমেরাস হেলথ প্রবলেমস।"
+            },
+            "position": 3,
+            "synonyms": "Inactive, Stationary",
+            "antonyms": "Active, Dynamic",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অবসিত, স্থির",
+                    "word_transliteration": "oboshito, sthir",
+                    "example_sentence_translation": "একটি স্থির জীবনযাপন অনেক ধরনের স্বাস্থ্য সমস্যা তৈরি করতে পারে।",
+                    "example_sentence_transliteration": "Ekti sthir jibonyapon onek dhoroner shasthyo shomoshya toiri korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "neuroplasticity",
+            "phonetic": "ˌnjʊərəʊˌplæstɪˈsɪti",
+            "word_native_transliteration": {
+                "bn": "নিউরোপ্লাস্টিসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The ability of the brain to reorganize itself by forming new neural connections.",
+            "example_sentence": "Neuroplasticity allows the brain to adapt and reorganize itself.",
+            "example_sentence_native_transliteration": {
+                "bn": "নিউরোপ্লাস্টিসিটি অ্যালাউস দ্য ব্রেইন টু অ্যাডাপ্ট অ্যান্ড রিঅর্গানাইজ ইটসেলফ।"
+            },
+            "position": 4,
+            "synonyms": "Brain adaptability, Neural change",
+            "antonyms": "Rigidity, Inflexibility",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্নায়ুতন্ত্রের পরিবর্তনযোগ্যতা",
+                    "word_transliteration": "snayutontrer poribortonjoggota",
+                    "example_sentence_translation": "নিউরোপ্লাস্টিসিটি মস্তিষ্ককে অভিযোজিত হতে এবং নিজেকে পুনর্গঠিত করতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Neuroplasticity mostishkoke obhijojito hote ebong nijeke punorgothito korte shahajyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "preoccupation",
+            "phonetic": "ˌpriːˌɒkjʊˈpeɪʃən",
+            "word_native_transliteration": {
+                "bn": "প্রিঅকিউপেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💭",
+            "meaning": "The state of being absorbed in thought; mental distraction.",
+            "example_sentence": "His preoccupation with work led to neglecting his personal life.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ প্রিঅকিউপেশন উইথ ওয়ার্ক লেড টু নিগ্লেক্টিং হিজ পার্সোনাল লাইফ।"
+            },
+            "position": 5,
+            "synonyms": "Absorption, Focus",
+            "antonyms": "Indifference, Disinterest",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মনোযোগের অভাব, একাগ্রতা",
+                    "word_transliteration": "monojogher obhab, ekagrota",
+                    "example_sentence_translation": "তার কাজের প্রতি একাগ্রতা তার ব্যক্তিগত জীবনকে অবহেলা করতে সহায়ক ছিল।",
+                    "example_sentence_transliteration": "Tar kajer proti ekagrota tar bektigoto jibonoke obohela korte shahayok chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "retention",
+            "phonetic": "rɪˈtɛnʃən",
+            "word_native_transliteration": {
+                "bn": "রিটেনশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧩",
+            "meaning": "The ability to keep or continue having something; memory.",
+            "example_sentence": "The retention of information is critical in academic success.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রিটেনশন অফ ইনফরমেশন ইজ ক্রিটিক্যাল ইন একাডেমিক সাকসেস।"
+            },
+            "position": 6,
+            "synonyms": "Memory, Preservation",
+            "antonyms": "Forgetfulness, Loss",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ধারণ, স্মৃতিতে রাখা",
+                    "word_transliteration": "dharon, smritite rakha",
+                    "example_sentence_translation": "তথ্যের ধারণ একাডেমিক সাফল্যের জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Tothyer dharon ekademik shafolyer jonno oporihharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "distraction",
+            "phonetic": "dɪˈstrækʃən",
+            "word_native_transliteration": {
+                "bn": "ডিস্ট্রাকশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📱",
+            "meaning": "Something that prevents concentration or takes attention away from something else.",
+            "example_sentence": "Distraction during study time can hinder learning.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিস্ট্রাকশন ডিউরিং স্টাডি টাইম ক্যান হিন্ডার লার্নিং।"
+            },
+            "position": 7,
+            "synonyms": "Diversion, Disruption",
+            "antonyms": "Focus, Attention",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিভ্রান্তি",
+                    "word_transliteration": "bibhranti",
+                    "example_sentence_translation": "অধ্যয়নের সময় বিভ্রান্তি শেখার পথকে বাধাগ্রস্ত করতে পারে।",
+                    "example_sentence_transliteration": "Odhyoyoner shomoy bibhranti shekhar pothke badhagrostho korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "indulgence",
+            "phonetic": "ɪnˈdʌldʒəns",
+            "word_native_transliteration": {
+                "bn": "ইনডালজেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🍰",
+            "meaning": "The practice of allowing oneself to enjoy the pleasure of something.",
+            "example_sentence": "His indulgence in junk food affected his health.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ইনডালজেন্স ইন জাঙ্ক ফুড অ্যাফেক্টেড হিজ হেলথ।"
+            },
+            "position": 8,
+            "synonyms": "Gratification, Pleasure",
+            "antonyms": "Restraint, Abstinence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দয়া, অতিরিক্ত আনন্দ",
+                    "word_transliteration": "doya, otirikto anondo",
+                    "example_sentence_translation": "জাঙ্ক ফুডে অতিরিক্ত আনন্দ তার স্বাস্থ্যে প্রভাব ফেলেছে।",
+                    "example_sentence_transliteration": "Jangk fude otirikto anondo tar shasthye probhab feleche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sleep deprivation",
+            "phonetic": "sliːp ˌdɛprɪˈveɪʃən",
+            "word_native_transliteration": {
+                "bn": "স্লিপ ডিপ্রিভেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "😴",
+            "meaning": "The condition of not having enough sleep; lack of adequate sleep.",
+            "example_sentence": "Sleep deprivation can severely impact mental health.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্লিপ ডিপ্রিভেশন ক্যান সিভিয়ারলি ইমপ্যাক্ট মেন্টাল হেলথ।"
+            },
+            "position": 9,
+            "synonyms": "Sleeplessness, Insomnia",
+            "antonyms": "Rest, Repose",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ঘুমের অভাব",
+                    "word_transliteration": "ghumer obhab",
+                    "example_sentence_translation": "ঘুমের অভাব মানসিক স্বাস্থ্যে গুরুতর প্রভাব ফেলতে পারে।",
+                    "example_sentence_transliteration": "Ghumer obhab manoshik shasthye gurutor probhab felte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ephemeral",
+            "phonetic": "ɪˈfɛmərəl",
+            "word_native_transliteration": {
+                "bn": "এফেমেরাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⏳",
+            "meaning": "Lasting for a very short time; transient.",
+            "example_sentence": "The beauty of the sunset is ephemeral, lasting only a few minutes.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য বিউটি অফ দ্য সানসেট ইজ এফেমেরাল, লাস্টিং অনলি এ ফিউ মিনিটস।"
+            },
+            "position": 10,
+            "synonyms": "Short-lived, Fleeting",
+            "antonyms": "Permanent, Eternal",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্ষণস্থায়ী",
+                    "word_transliteration": "khonoshthayee",
+                    "example_sentence_translation": "সূর্যাস্তের সৌন্দর্য ক্ষণস্থায়ী, কেবল কয়েক মিনিট স্থায়ী।",
+                    "example_sentence_transliteration": "Shurjashter shoundryo khonoshthayee, kebol koyek minit sthayee.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "somnolence",
+            "phonetic": "ˈsɒmnələns",
+            "word_native_transliteration": {
+                "bn": "সোমনোলেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "😪",
+            "meaning": "A state of drowsiness or sleepiness; inclination to sleep.",
+            "example_sentence": "The somnolence after a heavy meal made it hard to concentrate.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সোমনোলেন্স আফটার এ হেভি মিল মেড ইট হার্ড টু কনসেনট্রেট।"
+            },
+            "position": 11,
+            "synonyms": "Drowsiness, Sleepiness",
+            "antonyms": "Wakefulness, Alertness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিদ্রামগ্নতা",
+                    "word_transliteration": "nidramoggota",
+                    "example_sentence_translation": "একটি ভারী খাবারের পর নিদ্রামগ্নতা মনোযোগ রাখতে কঠিন করে তুলেছিল।",
+                    "example_sentence_transliteration": "Ekti bhari khabarer por nidramoggota monojog rakhte kothin kore tulechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "impairment",
+            "phonetic": "ɪmˈpɛə(r)mənt",
+            "word_native_transliteration": {
+                "bn": "ইম্পেয়ারমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚠️",
+            "meaning": "The state of being damaged or weakened; a disability or handicap.",
+            "example_sentence": "Hearing impairment can be caused by long-term exposure to loud noise.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিয়ারিং ইম্পেয়ারমেন্ট ক্যান বি কজড বাই লং-টার্ম এক্সপোজার টু লাউড নয়েজ।"
+            },
+            "position": 12,
+            "synonyms": "Dysfunction, Disability",
+            "antonyms": "Improvement, Enhancement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্ষতি, অক্ষমতা",
+                    "word_transliteration": "khoti, okkhomota",
+                    "example_sentence_translation": "দীর্ঘকাল উচ্চ শব্দের সংস্পর্শে থাকার কারণে শ্রবণ অক্ষমতা হতে পারে।",
+                    "example_sentence_transliteration": "Dirghokkal uchcho shobder songshporshe thakar karone shrobon okkhomota hote pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sufficiency",
+            "phonetic": "səˈfɪʃənsi",
+            "word_native_transliteration": {
+                "bn": "সাফিসিয়েন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✅",
+            "meaning": "The condition of being adequate or enough; adequacy.",
+            "example_sentence": "The sufficiency of food supply is critical for survival.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সাফিসিয়েন্সি অফ ফুড সাপ্লাই ইজ ক্রিটিক্যাল ফর সারভাইভাল।"
+            },
+            "position": 13,
+            "synonyms": "Adequacy, Enoughness",
+            "antonyms": "Insufficiency, Shortage",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পর্যাপ্ততা",
+                    "word_transliteration": "porjaptota",
+                    "example_sentence_translation": "খাদ্য সরবরাহের পর্যাপ্ততা বেঁচে থাকার জন্য অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Khadyo shorobraher porjaptota benche thakar jonno ottyonto guruttwopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "obfuscation",
+            "phonetic": "ˌɒbfəsˈkeɪʃən",
+            "word_native_transliteration": {
+                "bn": "অবফাসকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌫️",
+            "meaning": "The action of making something obscure, unclear, or unintelligible.",
+            "example_sentence": "The obfuscation of the data made it difficult to interpret.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অবফাসকেশন অফ দ্য ডেটা মেড ইট ডিফিকাল্ট টু ইন্টারপ্রেট।"
+            },
+            "position": 14,
+            "synonyms": "Confusion, Ambiguity",
+            "antonyms": "Clarity, Transparency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অস্পষ্টতা, বিভ্রান্তি",
+                    "word_transliteration": "oshposhtota, bibhranti",
+                    "example_sentence_translation": "তথ্যের অস্পষ্টতা বিশ্লেষণ করা কঠিন করে তুলেছিল।",
+                    "example_sentence_transliteration": "Tothyer oshposhtota bishleshon kora kothin kore tulechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

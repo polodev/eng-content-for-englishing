@@ -1,0 +1,526 @@
+{
+    "position": 82,
+    "title_translation": {
+        "en": "Building Trust Within Family Members",
+        "bn": "পারিবারিক সদস্যদের মধ্যে বিশ্বাস গড়ে তোলা"
+    },
+    "content_translation": {
+        "en": "**Harmony** within a family is very important, but sometimes **discord** arises, which weakens relationships. Having **integrity** and **candor** strengthens family bonds.\n\nShowing **empathy** is necessary to build **trust**. One should **commiserate** with family members' suffering to increase **affinity**. However, when there are disagreements, one must learn to **compromise**.\n\nSome people think that having **concord** means agreeing on everything, but real relationships are built through **reciprocity**. Showing **benevolence** and **altruistic** behavior toward each other increases family **cohesion**.\n\nWhen there are misunderstandings, instead of trying to **vindicate** oneself, one should seek **amicable** solutions. Maintaining **fidelity** and **rapport** makes family relationships deeper and **equitable**.",
+        "bn": "একটি পরিবারের মধ্যে **harmony** থাকা খুব গুরুত্বপূর্ণ, কিন্তু অনেক সময় **discord** সৃষ্টি হয়, যা সম্পর্ক দুর্বল করে দেয়। সত্যিকারের **integrity** এবং **candor** থাকলে পারিবারিক বন্ধন আরও দৃঢ় হয়।\n\n**Trust** তৈরির জন্য **empathy** দেখানো জরুরি। পরিবারের সদস্যদের কষ্ট বোঝার জন্য **commiserate** করা উচিত, যাতে **affinity** বাড়ে। তবে, যখন মতের অমিল হয়, তখন **compromise** করতে শিখতে হবে।\n\nকিছু মানুষ মনে করে যে **concord** থাকা মানেই সবকিছুতে একমত হওয়া, কিন্তু আসল সম্পর্ক **reciprocity**-এর মাধ্যমে গড়ে ওঠে। একে অপরের প্রতি **benevolence** এবং **altruistic** আচরণ করলে পারিবারিক **cohesion** বাড়ে।\n\nকোনো ভুল বোঝাবুঝি হলে, সেটাকে **vindicate** করার পরিবর্তে **amicable** সমাধান খুঁজতে হবে। **Fidelity** এবং **rapport** রক্ষা করা গেলে পারিবারিক সম্পর্ক গভীর এবং **equitable** হয়।"
+    },
+    "list": [
+        {
+            "word": "harmony",
+            "phonetic": "/ˈhɑːr.mə.ni/",
+            "word_native_transliteration": {
+                "bn": "হার্মনি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎵",
+            "meaning": "A pleasing combination of different elements or a state of peaceful coexistence.",
+            "example_sentence": "A society thrives when there is harmony among its people.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ সোসাইটি থ্রাইভস হোয়েন দেয়ার ইজ হার্মনি অ্যামং ইটস পিপল।"
+            },
+            "position": 1,
+            "synonyms": "unity, balance, accord",
+            "antonyms": "conflict, chaos, discord",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সামঞ্জস্য বা সম্প্রীতি",
+                    "word_transliteration": "shamanjoshyo ba shompriti",
+                    "example_sentence_translation": "একটি সমাজ তখনই সমৃদ্ধ হয় যখন মানুষের মধ্যে সম্প্রীতি থাকে।",
+                    "example_sentence_transliteration": "Ekti shomaj tokhoni shomridho hoy jokhon manusher moddhe shompriti thake.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "discord",
+            "phonetic": "/ˈdɪs.kɔːrd/",
+            "word_native_transliteration": {
+                "bn": "ডিসকর্ড"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "Disagreement or conflict between two parties.",
+            "example_sentence": "Political discord often leads to social instability.",
+            "example_sentence_native_transliteration": {
+                "bn": "পলিটিক্যাল ডিসকর্ড অফেন লিডস টু সোশ্যাল ইনস্ট্যাবিলিটি।"
+            },
+            "position": 2,
+            "synonyms": "disagreement, conflict, disharmony",
+            "antonyms": "agreement, harmony, accord",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিরোধ বা মতবিরোধ",
+                    "word_transliteration": "birodh ba motbirodh",
+                    "example_sentence_translation": "রাজনৈতিক বিরোধ প্রায়ই সামাজিক অস্থিতিশীলতা সৃষ্টি করে।",
+                    "example_sentence_transliteration": "Rajnoitik birodh prayoi shamajik osthitishilota srishti kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "integrity",
+            "phonetic": "/ɪnˈtɛɡ.rə.ti/",
+            "word_native_transliteration": {
+                "bn": "ইনটেগ্রিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛡️",
+            "meaning": "The quality of being honest and having strong moral principles.",
+            "example_sentence": "A leader should have integrity to earn people's trust.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ লিডার শুড হ্যাভ ইনটেগ্রিটি টু আর্ন পিপলস ট্রাস্ট।"
+            },
+            "position": 3,
+            "synonyms": "honesty, morality, uprightness",
+            "antonyms": "dishonesty, corruption, deceit",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সততা বা নৈতিকতা",
+                    "word_transliteration": "shotota ba noitikota",
+                    "example_sentence_translation": "একজন নেতার মানুষের বিশ্বাস অর্জনের জন্য সততা থাকা উচিত।",
+                    "example_sentence_transliteration": "Ekjon netar manusher bishwash orjoner jonno shotota thaka uchit.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "candor",
+            "phonetic": "/ˈkæn.dɚ/",
+            "word_native_transliteration": {
+                "bn": "ক্যানডর"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💬",
+            "meaning": "The quality of being open, honest, and straightforward in speech or expression.",
+            "example_sentence": "She spoke with candor about the challenges she faced.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি স্পোক উইথ ক্যানডর অ্যাবাউট দ্য চ্যালেঞ্জেস শি ফেইসড।"
+            },
+            "position": 4,
+            "synonyms": "frankness, openness, honesty",
+            "antonyms": "deception, dishonesty, insincerity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "খোলামেলা সত্যবাদিতা",
+                    "word_transliteration": "kholamela shottyobadita",
+                    "example_sentence_translation": "তিনি তার সম্মুখীন চ্যালেঞ্জগুলি নিয়ে খোলামেলা সত্যবাদিতার সাথে কথা বলেছেন।",
+                    "example_sentence_transliteration": "Tini tar shommukhin challengeguli niye kholamela shottyobaditar shathe kotha bolechhen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "trust",
+            "phonetic": "/trʌst/",
+            "word_native_transliteration": {
+                "bn": "ট্রাস্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "Firm belief in the reliability, truth, or strength of someone or something.",
+            "example_sentence": "Mutual trust strengthens relationships.",
+            "example_sentence_native_transliteration": {
+                "bn": "মিউচুয়াল ট্রাস্ট স্ট্রেংথেনস রিলেশনশিপস।"
+            },
+            "position": 5,
+            "synonyms": "confidence, faith, reliance",
+            "antonyms": "mistrust, doubt, suspicion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিশ্বাস বা আস্থা",
+                    "word_transliteration": "bishwash ba astha",
+                    "example_sentence_translation": "পারস্পরিক বিশ্বাস সম্পর্ককে শক্তিশালী করে।",
+                    "example_sentence_transliteration": "Parasporik bishwash shomporkoke shoktishali kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "empathy",
+            "phonetic": "/ˈɛm.pə.θi/",
+            "word_native_transliteration": {
+                "bn": "এমপ্যাথি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "❤️",
+            "meaning": "The ability to understand and share the feelings of another person.",
+            "example_sentence": "A good leader must have empathy for their team members.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ গুড লিডার মাস্ট হ্যাভ এমপ্যাথি ফর দেয়ার টিম মেম্বারস।"
+            },
+            "position": 6,
+            "synonyms": "compassion, understanding, sensitivity",
+            "antonyms": "indifference, apathy, coldness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহানুভূতি বা অপরের অনুভূতি বোঝার ক্ষমতা",
+                    "word_transliteration": "shohanubhuti ba oporer onubhuti bojhar khomota",
+                    "example_sentence_translation": "একজন ভালো নেতার তার দলের প্রতি সহানুভূতি থাকা জরুরি।",
+                    "example_sentence_transliteration": "Ekjon bhalo netar tar doler proti shohanubhuti thaka joruri.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "commiserate",
+            "phonetic": "/kəˈmɪz.ə.reɪt/",
+            "word_native_transliteration": {
+                "bn": "কমিজারেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🤗",
+            "meaning": "To express sympathy or compassion for someone's misfortune.",
+            "example_sentence": "She called her friend to commiserate after his loss.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি কলড হার ফ্রেন্ড টু কমিজারেট আফটার হিজ লস।"
+            },
+            "position": 7,
+            "synonyms": "sympathize, console, condole",
+            "antonyms": "ignore, neglect, disregard",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহানুভূতি প্রকাশ করা বা সমবেদনা জানানো",
+                    "word_transliteration": "shohanubhuti prokash kora ba shombedona janano",
+                    "example_sentence_translation": "তিনি তার বন্ধুর ক্ষতির জন্য সহানুভূতি প্রকাশ করতে ফোন করেছিলেন।",
+                    "example_sentence_transliteration": "Tini tar bondhur khotir jonno shohanubhuti prokash korte phone korechhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "affinity",
+            "phonetic": "/əˈfɪn.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "অ্যাফিনিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔗",
+            "meaning": "A natural liking for or attraction to a person, thing, idea, etc.",
+            "example_sentence": "She has an affinity for classical music.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি হ্যাজ অ্যান অ্যাফিনিটি ফর ক্লাসিক্যাল মিউজিক।"
+            },
+            "position": 8,
+            "synonyms": "connection, kinship, rapport",
+            "antonyms": "aversion, dislike, alienation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ঘনিষ্ঠ সম্পর্ক বা স্বাভাবিক আকর্ষণ",
+                    "word_transliteration": "ghonishto shomporko ba swabhabhik akorshon",
+                    "example_sentence_translation": "তার ক্লাসিকাল সংগীতের প্রতি বিশেষ আকর্ষণ রয়েছে।",
+                    "example_sentence_transliteration": "Tar classical songiter proti bishesh akorshon royechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "compromise",
+            "phonetic": "/ˈkɒm.prə.maɪz/",
+            "word_native_transliteration": {
+                "bn": "কমপ্রোমাইজ"
+            },
+            "parts_of_speech": "noun/verb",
+            "emoji": "🤝",
+            "meaning": "A settlement of differences by mutual concessions; an agreement reached by adjustment of conflicting or opposing claims.",
+            "example_sentence": "A successful marriage requires mutual compromise.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ সাকসেসফুল ম্যারিজ রিকোয়ারস মিউচুয়াল কমপ্রোমাইজ।"
+            },
+            "position": 9,
+            "synonyms": "settlement, agreement, middle ground",
+            "antonyms": "stubbornness, disagreement, rigidity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সমঝোতা বা আপোস",
+                    "word_transliteration": "shomjhota ba apoosh",
+                    "example_sentence_translation": "একটি সফল বিবাহের জন্য পারস্পরিক সমঝোতা প্রয়োজন।",
+                    "example_sentence_transliteration": "Ekti shofol bibaher jonno parasporik shomjhota proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "concord",
+            "phonetic": "/ˈkɒn.kɔːd/",
+            "word_native_transliteration": {
+                "bn": "কনকর্ড"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "☮️",
+            "meaning": "Agreement or harmony between people or groups.",
+            "example_sentence": "The leaders worked towards international concord.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য লিডারস ওয়ার্কড টুওয়ার্ডস ইন্টারন্যাশনাল কনকর্ড।"
+            },
+            "position": 10,
+            "synonyms": "agreement, harmony, accord",
+            "antonyms": "discord, disagreement, conflict",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ঐক্য বা সম্প্রীতি",
+                    "word_transliteration": "oikko ba shompriti",
+                    "example_sentence_translation": "নেতারা আন্তর্জাতিক ঐক্যের জন্য কাজ করেছেন।",
+                    "example_sentence_transliteration": "Netara antarjatik oikkoer jonno kaj korechhen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "reciprocity",
+            "phonetic": "/ˌrɛs.ɪˈprɒs.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "রেসিপ্রসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "↔️",
+            "meaning": "The practice of exchanging things with others for mutual benefit.",
+            "example_sentence": "Business relationships thrive on reciprocity.",
+            "example_sentence_native_transliteration": {
+                "bn": "বিজনেস রিলেশনশিপস থ্রাইভ অন রেসিপ্রসিটি।"
+            },
+            "position": 11,
+            "synonyms": "mutual exchange, cooperation, give-and-take",
+            "antonyms": "selfishness, one-sidedness, exploitation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পারস্পরিক বিনিময় বা সহযোগিতা",
+                    "word_transliteration": "parasporik binimoy ba shohojogita",
+                    "example_sentence_translation": "ব্যবসায়িক সম্পর্ক পারস্পরিক সহযোগিতার উপর ভিত্তি করে গড়ে ওঠে।",
+                    "example_sentence_transliteration": "Byabshayik shomporko parasporik shohojogitar upor bhitti kore gorde othe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "benevolence",
+            "phonetic": "/bəˈnɛv.ə.ləns/",
+            "word_native_transliteration": {
+                "bn": "বেনেভোলেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤲",
+            "meaning": "The quality of being well meaning and kindly; the disposition to do good.",
+            "example_sentence": "His benevolence towards the poor earned him respect.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ বেনেভোলেন্স টুওয়ার্ডস দ্য পুয়ার আর্নড হিম রেসপেক্ট।"
+            },
+            "position": 12,
+            "synonyms": "kindness, generosity, compassion",
+            "antonyms": "malevolence, cruelty, selfishness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরোপকার বা দয়া",
+                    "word_transliteration": "poropkar ba doya",
+                    "example_sentence_translation": "দরিদ্রদের প্রতি তার পরোপকার তাকে শ্রদ্ধার পাত্র করেছে।",
+                    "example_sentence_transliteration": "Doridrodern proti tar poropkar take shraddhar patro korechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "altruistic",
+            "phonetic": "/ˌæl.truˈɪs.tɪk/",
+            "word_native_transliteration": {
+                "bn": "অল্ট্রুইস্টিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🕊️",
+            "meaning": "Showing a disinterested and selfless concern for the well-being of others.",
+            "example_sentence": "Her altruistic nature led her to volunteer for charities.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার অল্ট্রুইস্টিক নেচার লেড হার টু ভলান্টিয়ার ফর চ্যারিটিজ।"
+            },
+            "position": 13,
+            "synonyms": "selfless, charitable, philanthropic",
+            "antonyms": "selfish, greedy, egoistic",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিঃস্বার্থ বা পরোপকারী",
+                    "word_transliteration": "nihswartho ba poropkari",
+                    "example_sentence_translation": "তার নিঃস্বার্থ প্রকৃতি তাকে দাতব্য প্রতিষ্ঠানে স্বেচ্ছাসেবী হিসেবে কাজ করতে অনুপ্রাণিত করেছে।",
+                    "example_sentence_transliteration": "Tar nihswartho prokriti take datobbo protishthane shwechchashebhi hishebe kaj korte onupranito korechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cohesion",
+            "phonetic": "/kəʊˈhiː.ʒən/",
+            "word_native_transliteration": {
+                "bn": "কোহিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧲",
+            "meaning": "The action or fact of forming a united whole.",
+            "example_sentence": "Team cohesion is essential for successful collaboration.",
+            "example_sentence_native_transliteration": {
+                "bn": "টিম কোহিশন ইজ এসেন্শিয়াল ফর সাকসেসফুল কোলাবোরেশন।"
+            },
+            "position": 14,
+            "synonyms": "unity, bonding, integration",
+            "antonyms": "division, separation, disunity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংহতি বা একত্রিত হওয়া",
+                    "word_transliteration": "shonghoti ba ekotrito howa",
+                    "example_sentence_translation": "সফল সহযোগিতার জন্য দলীয় সংহতি অপরিহার্য।",
+                    "example_sentence_transliteration": "Shofol shohojogitar jonno doliyosinhoti oporihharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "vindicate",
+            "phonetic": "/ˈvɪn.dɪ.keɪt/",
+            "word_native_transliteration": {
+                "bn": "ভিনডিকেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⚖️",
+            "meaning": "To clear someone of blame or suspicion; to show or prove to be right, reasonable, or justified.",
+            "example_sentence": "The new evidence helped vindicate the wrongly accused man.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিউ এভিডেন্স হেল্পড ভিনডিকেট দ্য রংলি অ্যাকিউজড ম্যান।"
+            },
+            "position": 15,
+            "synonyms": "justify, exonerate, defend",
+            "antonyms": "accuse, blame, condemn",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রমাণ করা বা নির্দোষ প্রমাণ করা",
+                    "word_transliteration": "proman kora ba nirdosh proman kora",
+                    "example_sentence_translation": "নতুন প্রমাণ ভুলভাবে অভিযুক্ত ব্যক্তিকে নির্দোষ প্রমাণ করতে সহায়তা করেছে।",
+                    "example_sentence_transliteration": "Notun proman bhulbhabe obhijukto byokti ke nirdosh proman korte sahajta korechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "amicable",
+            "phonetic": "/ˈæm.ɪ.kə.bəl/",
+            "word_native_transliteration": {
+                "bn": "অ্যামিকেবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "😊",
+            "meaning": "Characterized by friendliness and absence of discord.",
+            "example_sentence": "They reached an amicable settlement after negotiations.",
+            "example_sentence_native_transliteration": {
+                "bn": "দেই রিচড অ্যান অ্যামিকেবল সেটলমেন্ট আফটার নেগোসিয়েশনস।"
+            },
+            "position": 16,
+            "synonyms": "friendly, cordial, peaceful",
+            "antonyms": "hostile, unfriendly, aggressive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বন্ধুত্বপূর্ণ বা শান্তিপূর্ণ",
+                    "word_transliteration": "bondhuttopurno ba shantipurno",
+                    "example_sentence_translation": "আলোচনার পর তারা বন্ধুত্বপূর্ণভাবে সমঝোতায় পৌঁছাল।",
+                    "example_sentence_transliteration": "Alochnar por tara bondhuttopurnobhabe shomjhotay pouchalo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fidelity",
+            "phonetic": "/fɪˈdɛl.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "ফিডেলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💎",
+            "meaning": "Faithfulness to a person, cause, or belief, demonstrated by continuing loyalty and support.",
+            "example_sentence": "His fidelity to his country was unquestionable.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ফিডেলিটি টু হিজ কান্ট্রি ওয়াজ আনকোয়েশ্চেনেবল।"
+            },
+            "position": 17,
+            "synonyms": "loyalty, devotion, faithfulness",
+            "antonyms": "betrayal, dishonesty, infidelity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিশ্বস্ততা বা আনুগত্য",
+                    "word_transliteration": "bishwostota ba anugotto",
+                    "example_sentence_translation": "তার দেশের প্রতি আনুগত্য প্রশ্নাতীত ছিল।",
+                    "example_sentence_transliteration": "Tar desher proti anugotto proshnatit chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "rapport",
+            "phonetic": "/ræˈpɔːr/",
+            "word_native_transliteration": {
+                "bn": "র্যাপর্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "A close and harmonious relationship in which the people or groups concerned understand each other's feelings or ideas.",
+            "example_sentence": "The teacher built a strong rapport with her students.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য টিচার বিল্ট এ স্ট্রং র্যাপর্ট উইথ হার স্টুডেন্টস।"
+            },
+            "position": 18,
+            "synonyms": "connection, understanding, affinity",
+            "antonyms": "disconnection, misunderstanding, disharmony",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভালো সম্পর্ক বা বোঝাপড়া",
+                    "word_transliteration": "bhalo shomporko ba bojhapoda",
+                    "example_sentence_translation": "শিক্ষক তার শিক্ষার্থীদের সঙ্গে দৃঢ় সম্পর্ক গড়ে তুলেছিলেন।",
+                    "example_sentence_transliteration": "Shikhok tar shikkharthider shonge dridho shomporko gorde tulechhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "equitable",
+            "phonetic": "/ˈɛk.wɪ.tə.bəl/",
+            "word_native_transliteration": {
+                "bn": "একুইটেবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚖️",
+            "meaning": "Fair and impartial; dealing fairly and equally with all concerned.",
+            "example_sentence": "The company ensures equitable pay for all employees.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি এনশিউরস একুইটেবল পে ফর অল এমপ্লয়িজ।"
+            },
+            "position": 19,
+            "synonyms": "fair, just, impartial",
+            "antonyms": "unfair, biased, unequal",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ন্যায়সঙ্গত বা ন্যায়সঙ্গতভাবে বণ্টিত",
+                    "word_transliteration": "nyayshongoto ba nyayshongotobhabe bontito",
+                    "example_sentence_translation": "কোম্পানিটি সকল কর্মচারীর জন্য ন্যায়সংগত বেতন নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Companiti shokol kormocharir jonno nyayshongoto beton nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

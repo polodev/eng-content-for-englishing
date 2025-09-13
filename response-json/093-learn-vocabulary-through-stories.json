@@ -1,0 +1,526 @@
+{
+    "position": 93,
+    "title_translation": {
+        "en": "Diversification: Key to Wealth Growth",
+        "bn": "Diversification: Key to Wealth Growth"
+    },
+    "content_translation": {
+        "en": "**Diversification** is a powerful strategy that is extremely important for **wealth** growth. Through this, you divide your **assets** into different sectors, which ensures **risk-adjusted** returns. If you invest in only one sector, then **volatility** or instability can cause you losses.\n\nMaintaining the right **balance** between **equity** and **fixed income** and using different **opportunities** strengthens your **portfolio**.\n\nBy using **leverage**, you can increase your **capitalization**, but it needs to be properly **hedged**.\n\n**Diversification** is also an important approach to protect against **inflation**, as it keeps your investment **yield** more secure and stable. Through **sustainability** and **synergy**, you can enjoy more **compounding** benefits on your investments.\n\nTherefore, **diversification** is a powerful strategy for your financial success and **accumulation**.",
+        "bn": "**Diversification** একটি শক্তিশালী কৌশল যা **wealth** বৃদ্ধিতে অত্যন্ত গুরুত্বপূর্ণ। এর মাধ্যমে, আপনি আপনার **asset** গুলিকে বিভিন্ন সেক্টরে ভাগ করেন, যা **risk-adjusted** লভ্যাংশ নিশ্চিত করে। আপনি যদি শুধুমাত্র একটি সেক্টরে বিনিয়োগ করেন, তবে **volatility** বা অস্থিরতা আপনাকে ক্ষতির সম্মুখীন করতে পারে।\n\n**Equity** এবং **fixed income** এর মধ্যে সঠিক **balance** রাখা এবং বিভিন্ন **opportunities** ব্যবহার করা আপনার **portfolio** কে শক্তিশালী করে তোলে।\n\n**Leverage** ব্যবহার করে আপনি আপনার **capitalization** বাড়াতে পারেন, তবে এটি সঠিকভাবে **hedge** করার প্রয়োজন।\n\n**Inflation** থেকে রক্ষা পাওয়ার জন্যও **diversification** একটি গুরুত্বপূর্ণ পন্থা, কারণ এটি আপনার বিনিয়োগের **yield** কে আরো নিরাপদ ও স্থিতিশীল রাখে। **Sustainability** এবং **synergy** এর মাধ্যমে, আপনি আপনার বিনিয়োগের উপরে আরও **compounding** লাভ উপভোগ করতে পারবেন।\n\nঅতএব, **diversification** আপনার আর্থিক সাফল্য এবং **accumulation** এর জন্য একটি শক্তিশালী কৌশল।"
+    },
+    "list": [
+        {
+            "word": "diversification",
+            "phonetic": "ˌdaɪvɜːsɪfɪˈkeɪʃən",
+            "word_native_transliteration": {
+                "bn": "ডাইভার্সিফিকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌐",
+            "meaning": "The practice of spreading investments across various assets or sectors to reduce risk.",
+            "example_sentence": "Diversification helps to reduce investment risk.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডাইভার্সিফিকেশন হেল্পস টু রিডুস ইনভেস্টমেন্ট রিস্ক।"
+            },
+            "position": 1,
+            "synonyms": "variety, range",
+            "antonyms": "concentration, specialization",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৈচিত্র্যকরণ",
+                    "word_transliteration": "boichitro koron",
+                    "example_sentence_translation": "বৈচিত্র্যকরণ বিনিয়োগের ঝুঁকি কমাতে সহায়ক।",
+                    "example_sentence_transliteration": "Boichitro koron biniyoger jhunki kamate sahayok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "wealth",
+            "phonetic": "wɛlθ",
+            "word_native_transliteration": {
+                "bn": "ওয়েলথ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💰",
+            "meaning": "An abundance of valuable possessions or money.",
+            "example_sentence": "Accumulating wealth takes time and smart investing.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাকুমুলেটিং ওয়েলথ টেকস টাইম অ্যান্ড স্মার্ট ইনভেস্টিং।"
+            },
+            "position": 2,
+            "synonyms": "riches, fortune",
+            "antonyms": "poverty, deprivation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সম্পদ, ধন",
+                    "word_transliteration": "shompod, dhon",
+                    "example_sentence_translation": "সম্পদ সংগ্রহ করতে সময় এবং স্মার্ট বিনিয়োগের প্রয়োজন।",
+                    "example_sentence_transliteration": "Shompod shonggroho korte shomoy ebong smart biniyoger proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "asset",
+            "phonetic": "ˈæsɛt",
+            "word_native_transliteration": {
+                "bn": "অ্যাসেট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏠",
+            "meaning": "A useful or valuable thing, person, or quality.",
+            "example_sentence": "Real estate is one of the most valuable assets.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিয়েল এস্টেট ইজ ওয়ান অফ দ্য মোস্ট ভ্যালুয়েবল অ্যাসেটস।"
+            },
+            "position": 3,
+            "synonyms": "resource, property",
+            "antonyms": "liability, debt",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সম্পদ",
+                    "word_transliteration": "shompod",
+                    "example_sentence_translation": "রিয়েল এস্টেট হল অন্যতম মূল্যবান সম্পদ।",
+                    "example_sentence_transliteration": "Real estate holo onnotomo mulyoban shompod.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "risk-adjusted",
+            "phonetic": "rɪsk-ədˈʤɛstɪd",
+            "word_native_transliteration": {
+                "bn": "রিস্ক-অ্যাডজাস্টেড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚖️",
+            "meaning": "Modified or calibrated to account for risk factors in investment returns.",
+            "example_sentence": "Risk-adjusted returns consider both potential profit and loss.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিস্ক-অ্যাডজাস্টেড রিটার্নস কনসিডার বোথ পোটেনশিয়াল প্রফিট অ্যান্ড লস।"
+            },
+            "position": 4,
+            "synonyms": "optimized, balanced",
+            "antonyms": "uncalibrated, unchecked",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ঝুঁকি সামঞ্জস্যপূর্ণ",
+                    "word_transliteration": "jhunki shamanjoshopurno",
+                    "example_sentence_translation": "ঝুঁকি সামঞ্জস্যপূর্ণ লাভ ক্ষতি উভয়কেই বিবেচনায় নেয়।",
+                    "example_sentence_transliteration": "Jhunki shamanjoshopurno labh khoti ubhoyokei bibeconay ney.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "volatility",
+            "phonetic": "ˌvɒləˈtɪləti",
+            "word_native_transliteration": {
+                "bn": "ভোলাটিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "Liability to change rapidly and unpredictably, especially for the worse.",
+            "example_sentence": "The volatility of the stock market makes it challenging for investors.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ভোলাটিলিটি অফ দ্য স্টক মার্কেট মেকস ইট চ্যালেঞ্জিং ফর ইনভেস্টরস।"
+            },
+            "position": 5,
+            "synonyms": "instability, fluctuation",
+            "antonyms": "stability, consistency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অস্থিরতা, পরিবর্তনশীলতা",
+                    "word_transliteration": "osthirata, poribortonsheelota",
+                    "example_sentence_translation": "স্টক মার্কেটের অস্থিরতা বিনিয়োগকারীদের জন্য চ্যালেঞ্জিং করে তোলে।",
+                    "example_sentence_transliteration": "Stock marketer osthirata biniyogkarider jonno challenging kore tole.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "equity",
+            "phonetic": "ˈekwɪti",
+            "word_native_transliteration": {
+                "bn": "ইক্যুইটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "The value of the shares issued by a company.",
+            "example_sentence": "Owning equity in a company can yield significant returns.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওনিং ইক্যুইটি ইন এ কোম্পানি ক্যান ইয়েল্ড সিগনিফিক্যান্ট রিটার্নস।"
+            },
+            "position": 6,
+            "synonyms": "ownership, stake",
+            "antonyms": "debt, liabilities",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ইকুইটি, শেয়ারধারিতা",
+                    "word_transliteration": "equity, sheyardharita",
+                    "example_sentence_translation": "একটি কোম্পানিতে শেয়ারধারিতা থাকা গুরুত্বপূর্ণ লাভ প্রদান করতে পারে।",
+                    "example_sentence_transliteration": "Ekti companyte sheyardharita thaka guruttopurno labh prodan korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fixed income",
+            "phonetic": "fɪkst ˈɪnkʌm",
+            "word_native_transliteration": {
+                "bn": "ফিক্সড ইনকাম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💳",
+            "meaning": "Investment that provides a return in the form of fixed periodic payments.",
+            "example_sentence": "Fixed income investments provide reliable returns.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফিক্সড ইনকাম ইনভেস্টমেন্টস প্রোভাইড রিলায়েবল রিটার্নস।"
+            },
+            "position": 7,
+            "synonyms": "stable earnings, regular income",
+            "antonyms": "variable income, fluctuating earnings",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্থির আয়",
+                    "word_transliteration": "sthir aye",
+                    "example_sentence_translation": "স্থির আয় বিনিয়োগ নির্ভরযোগ্য লাভ প্রদান করে।",
+                    "example_sentence_transliteration": "Sthir aye biniyog nirbhorjoggo labh prodan kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "balance",
+            "phonetic": "ˈbæləns",
+            "word_native_transliteration": {
+                "bn": "ব্যালান্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "A condition in which different elements are equal or in the correct proportions.",
+            "example_sentence": "Maintaining a balance between risk and return is essential.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেইনটেইনিং এ ব্যালান্স বিটুইন রিস্ক অ্যান্ড রিটার্ন ইজ এসেনশিয়াল।"
+            },
+            "position": 8,
+            "synonyms": "stability, equilibrium",
+            "antonyms": "imbalance, disproportion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভারসাম্য, সঠিক মাপ",
+                    "word_transliteration": "bharsammo, sothik map",
+                    "example_sentence_translation": "ঝুঁকি এবং লাভের মধ্যে ভারসাম্য বজায় রাখা অপরিহার্য।",
+                    "example_sentence_transliteration": "Jhunki ebong labher moddhe bharsammo bojay rakha oporoharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "opportunities",
+            "phonetic": "ˌɒpəˈtjuːnɪtiz",
+            "word_native_transliteration": {
+                "bn": "অপচুনিটিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚪",
+            "meaning": "A set of circumstances that makes it possible to do something.",
+            "example_sentence": "Investing in emerging markets provides new opportunities.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনভেস্টিং ইন ইমার্জিং মার্কেটস প্রোভাইডস নিউ অপচুনিটিস।"
+            },
+            "position": 9,
+            "synonyms": "chances, possibilities",
+            "antonyms": "obstacles, barriers",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সুযোগ, সম্ভাবনা",
+                    "word_transliteration": "sujog, shombhabona",
+                    "example_sentence_translation": "উদীয়মান বাজারে বিনিয়োগ নতুন সুযোগ তৈরি করে।",
+                    "example_sentence_transliteration": "Udiyoman bajare biniyog notun sujog toiri kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "portfolio",
+            "phonetic": "ˈpɔːtfəʊləʊ",
+            "word_native_transliteration": {
+                "bn": "পোর্টফোলিও"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📁",
+            "meaning": "A range of investments held by a person or organization.",
+            "example_sentence": "A diversified portfolio reduces overall investment risk.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ ডাইভার্সিফাইড পোর্টফোলিও রিডুসেস ওভারঅল ইনভেস্টমেন্ট রিস্ক।"
+            },
+            "position": 10,
+            "synonyms": "collection, investment",
+            "antonyms": "single asset, concentrated holdings",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিনিয়োগ পোর্টফোলিও",
+                    "word_transliteration": "biniyog portfolio",
+                    "example_sentence_translation": "বৈচিত্র্যপূর্ণ পোর্টফোলিও মোট বিনিয়োগ ঝুঁকি কমায়।",
+                    "example_sentence_transliteration": "Boichittopurno portfolio mot biniyog jhunki komay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "leverage",
+            "phonetic": "ˈliːvərɪdʒ",
+            "word_native_transliteration": {
+                "bn": "লিভারেজ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔧",
+            "meaning": "Use borrowed capital for an investment, expecting profits to be greater than the interest payable.",
+            "example_sentence": "Using leverage in investments can amplify returns, but also increases risk.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইউজিং লিভারেজ ইন ইনভেস্টমেন্টস ক্যান অ্যামপ্লিফাই রিটার্নস, বাট অলসো ইনক্রিসেস রিস্ক।"
+            },
+            "position": 11,
+            "synonyms": "influence, power",
+            "antonyms": "weakness, vulnerability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুঁজি ব্যবহার করে লাভবান হওয়া",
+                    "word_transliteration": "punji bebhar kore labhban howa",
+                    "example_sentence_translation": "বিনিয়োগে লিভারেজ ব্যবহার লাভ বাড়াতে পারে, তবে ঝুঁকি বাড়ায়।",
+                    "example_sentence_transliteration": "Biniyoge leverage bebhar labh barate pare, tobe jhunki baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "capitalization",
+            "phonetic": "ˌkæpɪtəlaɪˈzeɪʃən",
+            "word_native_transliteration": {
+                "bn": "ক্যাপিটালাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💹",
+            "meaning": "The market value of a company's shares or the provision of capital for a company.",
+            "example_sentence": "The company's market capitalization rose significantly last year.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানিস মার্কেট ক্যাপিটালাইজেশন রোজ সিগনিফিক্যান্টলি লাস্ট ইয়ার।"
+            },
+            "position": 12,
+            "synonyms": "funding, investment",
+            "antonyms": "devaluation, depreciation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মূলধন বিনিয়োগ, বাজারমূল্য",
+                    "word_transliteration": "muldhan biniyog, bajarmullo",
+                    "example_sentence_translation": "কোম্পানির বাজারমূল্য গত বছরে উল্লেখযোগ্যভাবে বৃদ্ধি পেয়েছে।",
+                    "example_sentence_transliteration": "Companir bajarmullo got bochhore ullekhjoggjobhabe briddhi peyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "hedge",
+            "phonetic": "hɛdʒ",
+            "word_native_transliteration": {
+                "bn": "হেজ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛡️",
+            "meaning": "A way of protecting oneself against financial loss or other adverse circumstances.",
+            "example_sentence": "Investors use hedging strategies to protect against market volatility.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনভেস্টরস ইউজ হেজিং স্ট্র্যাটেজিস টু প্রোটেক্ট এগেইনস্ট মার্কেট ভোলাটিলিটি।"
+            },
+            "position": 13,
+            "synonyms": "safeguard, protection",
+            "antonyms": "exposure, risk",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ঝুঁকি কমানোর কৌশল",
+                    "word_transliteration": "jhunki komanor koushal",
+                    "example_sentence_translation": "বিনিয়োগকারীরা বাজারের অস্থিরতা থেকে সুরক্ষা পেতে হেজিং কৌশল ব্যবহার করেন।",
+                    "example_sentence_transliteration": "Biniyogkarira bajarer osthirata theke shuroksha pete hedging koushal bebhar koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "inflation",
+            "phonetic": "ɪnˈfleɪʃən",
+            "word_native_transliteration": {
+                "bn": "ইনফ্লেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "A general increase in prices and fall in the purchasing value of money.",
+            "example_sentence": "Inflation erodes the purchasing power of consumers.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনফ্লেশন ইরোডস দ্য পারচেসিং পাওয়ার অফ কনজুমারস।"
+            },
+            "position": 14,
+            "synonyms": "price rise, cost increase",
+            "antonyms": "deflation, decrease",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মূল্যস্ফীতি",
+                    "word_transliteration": "mullosphiti",
+                    "example_sentence_translation": "মূল্যস্ফীতি ভোক্তাদের ক্রয়ক্ষমতা কমিয়ে দেয়।",
+                    "example_sentence_transliteration": "Mullosphiti bhoktader kroyokkhomota komiye dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "yield",
+            "phonetic": "jiːld",
+            "word_native_transliteration": {
+                "bn": "ইল্ড"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌾",
+            "meaning": "A financial return or reward (especially a dividend or interest) from an investment.",
+            "example_sentence": "The investment yielded high returns last year.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইনভেস্টমেন্ট ইয়েল্ডেড হাই রিটার্নস লাস্ট ইয়ার।"
+            },
+            "position": 15,
+            "synonyms": "return, profit",
+            "antonyms": "loss, deficit",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উৎপাদন, আয়",
+                    "word_transliteration": "utpadon, aye",
+                    "example_sentence_translation": "গত বছরে বিনিয়োগটি উচ্চ লাভ দিয়েছিল।",
+                    "example_sentence_transliteration": "Got bochhore biniyogti uccho labh diyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sustainability",
+            "phonetic": "səsˌteɪnəˈbɪləti",
+            "word_native_transliteration": {
+                "bn": "সাস্টেইনেবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌱",
+            "meaning": "The ability to be maintained at a certain rate or level.",
+            "example_sentence": "The company focuses on sustainability in all its projects.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি ফোকাসেস অন সাস্টেইনেবিলিটি ইন অল ইটস প্রজেক্টস।"
+            },
+            "position": 16,
+            "synonyms": "durability, continuity",
+            "antonyms": "unsustainability, depletion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "টেকসইতা",
+                    "word_transliteration": "teksoita",
+                    "example_sentence_translation": "কোম্পানিটি তার সমস্ত প্রকল্পে টেকসইতার উপর মনোযোগ দেয়।",
+                    "example_sentence_transliteration": "Companiti tar shomosto prokrolpe teksoitar upor monojog dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "synergy",
+            "phonetic": "ˈsɪnədʒi",
+            "word_native_transliteration": {
+                "bn": "সিনার্জি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "The interaction or cooperation of two or more organizations to produce a combined effect greater than the sum of their separate effects.",
+            "example_sentence": "The synergy between the teams led to a successful product launch.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সিনার্জি বিটুইন দ্য টিমস লেড টু এ সাকসেসফুল প্রোডাক্ট লঞ্চ।"
+            },
+            "position": 17,
+            "synonyms": "cooperation, alliance",
+            "antonyms": "conflict, disagreement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সম্মিলিত শক্তি, সহযোগিতা",
+                    "word_transliteration": "shommilito shokti, shohojogita",
+                    "example_sentence_translation": "দলগুলির মধ্যে সহযোগিতার কারণে সফল পণ্য উন্মোচন হয়েছে।",
+                    "example_sentence_transliteration": "Dolguler moddhe shohojogitar karone shofol ponno unmochon hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "compounding",
+            "phonetic": "ˈkəmˌpaʊndɪŋ",
+            "word_native_transliteration": {
+                "bn": "কম্পাউন্ডিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "The process whereby interest is added to an amount of money and future interest is calculated on the total.",
+            "example_sentence": "Compounding interest increases the value of investments over time.",
+            "example_sentence_native_transliteration": {
+                "bn": "কম্পাউন্ডিং ইন্টারেস্ট ইনক্রিসেস দ্য ভ্যালু অফ ইনভেস্টমেন্টস ওভার টাইম।"
+            },
+            "position": 18,
+            "synonyms": "amplifying, escalating",
+            "antonyms": "diminishing, reducing",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সুদের উপর সুদ, যোগফল বৃদ্ধি",
+                    "word_transliteration": "shuder upor shud, jogfol briddhi",
+                    "example_sentence_translation": "কম্পাউন্ডিং সুদ সময়ের সাথে সাথে বিনিয়োগের মূল্য বাড়ায়।",
+                    "example_sentence_transliteration": "Compounding shud shomeyr shathe shathe biniyoger mullo baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "accumulation",
+            "phonetic": "əˌkjuːmjʊˈleɪʃən",
+            "word_native_transliteration": {
+                "bn": "অ্যাকুমুলেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📚",
+            "meaning": "The acquisition or gradual gathering of something.",
+            "example_sentence": "The accumulation of wealth requires consistent investments.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যাকুমুলেশন অফ ওয়েলথ রিকোয়ারস কনসিস্টেন্ট ইনভেস্টমেন্টস।"
+            },
+            "position": 19,
+            "synonyms": "collection, amassment",
+            "antonyms": "depletion, loss",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সঞ্চয়, সংগ্রহ",
+                    "word_transliteration": "shonchoy, shonggroho",
+                    "example_sentence_translation": "ধন সঞ্চয় করার জন্য ধারাবাহিক বিনিয়োগ প্রয়োজন।",
+                    "example_sentence_transliteration": "Dhon shonchoy korar jonno dharabahik biniyog proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

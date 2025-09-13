@@ -1,0 +1,526 @@
+{
+    "position": 85,
+    "title_translation": {
+        "en": "ChatGPT in Education and Learning",
+        "bn": "ChatGPT in Education and Learning"
+    },
+    "content_translation": {
+        "en": "**ChatGPT** has established itself as a **formidable** tool in modern education systems. It plays a crucial role in improving students' **comprehension** and **proficiency**.\n\nAs the use of **heuristic** methods in education increases, this technology brings **ingenuity** and **dexterity**. It has added new dimensions to **pedagogy**, where students can develop their **metacognition** skills.\n\nThis AI enhances **cognizance** and helps strengthen students' **discernment** abilities. It **facilitates** understanding difficult subjects and **expedites** the learning process. By creating **synergy** between teachers and students, it increases **scholarly** thinking and **acumen**. Students can use this AI to increase their **intuition** and **erudition**, which will help improve their long-term memory. However, it is a complement to education, not an alternative. There needs to be **adroitness** to ensure proper use of technology, so that **inculcated** knowledge can be applied in real life.",
+        "bn": "আধুনিক শিক্ষা ব্যবস্থায় **ChatGPT** এক **formidable** টুল হিসেবে জায়গা করে নিয়েছে। শিক্ষার্থীদের **comprehension** এবং **proficiency** উন্নত করতে এটি গুরুত্বপূর্ণ ভূমিকা পালন করছে।\n\nশিক্ষায় **heuristic** পদ্ধতির ব্যবহার বাড়াতে, এই প্রযুক্তি **ingenuity** এবং **dexterity** নিয়ে আসে। এটি **pedagogy**-তে নতুন মাত্রা যোগ করেছে, যেখানে শিক্ষার্থীরা নিজেদের **metacognition** দক্ষতা বিকাশ করতে পারে।\n\nএই এআই **cognizance** বৃদ্ধি করে এবং শিক্ষার্থীদের **discernment** শক্তিশালী করতে সাহায্য করে। কঠিন বিষয় বোঝানোর জন্য এটি **facilitate** করে এবং শেখার গতি **expedite** করে। শিক্ষক এবং শিক্ষার্থীদের মধ্যে **synergy** তৈরি করে এটি **scholarly** চিন্তা ও **acumen** বাড়ায়। শিক্ষার্থীরা **intuition** এবং **erudition** বাড়াতে এই এআই ব্যবহার করতে পারে, যা তাদের দীর্ঘমেয়াদে উন্নত করতে সাহায্য করবে। তবে, এটি শিক্ষার পরিপূরক, বিকল্প নয়। প্রযুক্তির যথাযথ ব্যবহার নিশ্চিত করতে **adroitness** থাকা প্রয়োজন, যাতে **inculcate** করা জ্ঞান বাস্তবজীবনে প্রয়োগ করা যায়।"
+    },
+    "list": [
+        {
+            "word": "formidable",
+            "phonetic": "ˈfɔːr.mɪ.də.bəl",
+            "word_native_transliteration": {
+                "bn": "ফর্মিডেবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💪",
+            "meaning": "Inspiring fear or respect through being impressively large, powerful, intense, or capable.",
+            "example_sentence": "The boxer was a formidable opponent in the ring.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য বক্সার ওয়াজ এ ফর্মিডেবল অপনেন্ট ইন দ্য রিং।"
+            },
+            "position": 1,
+            "synonyms": "Intimidating, Powerful, Daunting",
+            "antonyms": "Weak, Insignificant, Feeble",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভয়ংকর বা দুর্দান্ত শক্তিশালী",
+                    "word_transliteration": "bhoyongkor ba durdanto shakti shali",
+                    "example_sentence_translation": "বক্সারটি রিংয়ে দুর্দান্ত প্রতিপক্ষ ছিলেন।",
+                    "example_sentence_transliteration": "Boksarti ringoye durdanto protipokkhyo chhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "comprehension",
+            "phonetic": "ˌkɒm.prɪˈhɛn.ʃən",
+            "word_native_transliteration": {
+                "bn": "কমপ্রিহেনশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧠",
+            "meaning": "The ability to understand something; understanding or grasp of knowledge.",
+            "example_sentence": "Reading improves vocabulary and comprehension skills.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিডিং ইমপ্রুভস ভোকাবুলারি এন্ড কমপ্রিহেনশন স্কিলস।"
+            },
+            "position": 2,
+            "synonyms": "Understanding, Grasp, Interpretation",
+            "antonyms": "Misunderstanding, Confusion, Ignorance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বোঝার ক্ষমতা বা উপলব্ধি",
+                    "word_transliteration": "bojhar khomota ba upolobdhi",
+                    "example_sentence_translation": "পড়াশোনা শব্দভান্ডার ও বোঝার দক্ষতা বৃদ্ধি করে।",
+                    "example_sentence_transliteration": "Porashona shabdabhandar o bojhar dokkhota briddhi kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "proficiency",
+            "phonetic": "prəˈfɪʃ.ən.si",
+            "word_native_transliteration": {
+                "bn": "প্রফিশিয়েন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "A high degree of competence or skill; expertise in a particular area.",
+            "example_sentence": "His proficiency in coding helped him land a great job.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ প্রফিশিয়েন্সি ইন কোডিং হেল্পড হিম ল্যান্ড এ গ্রেট জব।"
+            },
+            "position": 3,
+            "synonyms": "Expertise, Competence, Mastery",
+            "antonyms": "Incompetence, Inefficiency, Ineptitude",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষতা বা পারদর্শিতা",
+                    "word_transliteration": "dokkhota ba parodorshita",
+                    "example_sentence_translation": "কোডিংয়ে তার দক্ষতা তাকে একটি ভালো চাকরি পেতে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Kodingoye tar dokkhota take ekti bhalo chakri pete sahayyo koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "heuristic",
+            "phonetic": "hjʊˈrɪs.tɪk",
+            "word_native_transliteration": {
+                "bn": "হিউরিস্টিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔍",
+            "meaning": "Enabling a person to discover or learn something for themselves; experimental learning approach.",
+            "example_sentence": "Teachers use heuristic techniques to encourage self-learning.",
+            "example_sentence_native_transliteration": {
+                "bn": "টিচারস ইউজ হিউরিস্টিক টেকনিকস টু এনকারেজ সেলফ-লার্নিং।"
+            },
+            "position": 4,
+            "synonyms": "Exploratory, Problem-solving, Investigative",
+            "antonyms": "Uninquisitive, Non-experimental, Prescriptive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আবিষ্কারমূলক বা অভিজ্ঞতা-নির্ভর",
+                    "word_transliteration": "abishkarmulok ba obhiggata-nirbhor",
+                    "example_sentence_translation": "শিক্ষকেরা শিক্ষার্থীদের আত্ম-শিক্ষা উৎসাহিত করতে আবিষ্কারমূলক কৌশল ব্যবহার করেন।",
+                    "example_sentence_transliteration": "Shikkhokera shikkharthider attyo-shikkha utsahito korote abishkarmulok koushal byabohar koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ingenuity",
+            "phonetic": "ˌɪn.dʒəˈnjuː.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "ইনজেনিউটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💡",
+            "meaning": "The quality of being clever, original, and inventive; creative problem-solving ability.",
+            "example_sentence": "His ingenuity led to the development of a new technology.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ইনজেনিউটি লেড টু দ্য ডেভেলপমেন্ট অফ এ নিউ টেকনোলজি।"
+            },
+            "position": 5,
+            "synonyms": "Creativity, Innovation, Resourcefulness",
+            "antonyms": "Incompetence, Ineptitude, Unimaginativeness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সৃজনশীল বুদ্ধিমত্তা",
+                    "word_transliteration": "srijonshil buddhimotta",
+                    "example_sentence_translation": "তার সৃজনশীল বুদ্ধিমত্তা একটি নতুন প্রযুক্তি উদ্ভাবনের পথ তৈরি করেছে।",
+                    "example_sentence_transliteration": "Tar srijonshil buddhimotta ekti notun projukti udbhaboner poth toiri koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dexterity",
+            "phonetic": "dɛkˈstɛr.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "ডেক্সটেরিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤹",
+            "meaning": "Skill in performing tasks, especially with the hands; mental skill or adroitness.",
+            "example_sentence": "His dexterity in playing the piano amazed the audience.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ডেক্সটেরিটি ইন প্লেয়িং দ্য পিয়ানো এমেজড দ্য অডিয়েন্স।"
+            },
+            "position": 6,
+            "synonyms": "Skill, Agility, Precision",
+            "antonyms": "Clumsiness, Inability, Ineptness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নৈপুণ্য বা চাতুর্য",
+                    "word_transliteration": "noipunno ba chaturyo",
+                    "example_sentence_translation": "পিয়ানো বাজানোর তার নৈপুণ্য দর্শকদের মুগ্ধ করেছে।",
+                    "example_sentence_transliteration": "Piano bajanor tar noipunno dorshokder mugdho koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pedagogy",
+            "phonetic": "ˈpɛd.ə.ɡɒ.dʒi",
+            "word_native_transliteration": {
+                "bn": "পেডাগজি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📚",
+            "meaning": "The method and practice of teaching, especially as an academic subject or theoretical concept.",
+            "example_sentence": "Modern pedagogy focuses on student-centered learning.",
+            "example_sentence_native_transliteration": {
+                "bn": "মডার্ন পেডাগজি ফোকাসেস অন স্টুডেন্ট-সেন্টার্ড লার্নিং।"
+            },
+            "position": 7,
+            "synonyms": "Teaching Method, Instruction, Education",
+            "antonyms": "Misguidance, Misinstruction, Inefficiency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শিক্ষাদান পদ্ধতি বা শিক্ষাবিজ্ঞান",
+                    "word_transliteration": "shikkhadan poddhoti ba shikkhabigyan",
+                    "example_sentence_translation": "আধুনিক শিক্ষাদান পদ্ধতি শিক্ষার্থীকেন্দ্রিক শিক্ষায় গুরুত্ব দেয়।",
+                    "example_sentence_transliteration": "Adhunik shikkhadan poddhoti shikkharthikendrik shikkhay gurutwa deya.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "metacognition",
+            "phonetic": "ˌmɛt.ə.kɒɡˈnɪʃ.ən",
+            "word_native_transliteration": {
+                "bn": "মেটাকগনিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤔",
+            "meaning": "Awareness and understanding of one's own thought processes; thinking about thinking.",
+            "example_sentence": "Metacognition helps students improve their learning strategies.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেটাকগনিশন হেল্পস স্টুডেন্টস ইমপ্রুভ দেয়ার লার্নিং স্ট্র্যাটেজিস।"
+            },
+            "position": 8,
+            "synonyms": "Self-awareness, Reflection, Critical Thinking",
+            "antonyms": "Unawareness, Ignorance, Thoughtlessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মনের প্রক্রিয়া বোঝার ক্ষমতা",
+                    "word_transliteration": "moner prokriya bojhar khomota",
+                    "example_sentence_translation": "নিজের শেখার কৌশল উন্নত করতে মনের প্রক্রিয়া বোঝা সহায়ক।",
+                    "example_sentence_transliteration": "Nijer shekhar koushal unnoto korote moner prokriya boja sahayok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cognizance",
+            "phonetic": "ˈkɒɡ.nɪ.zəns",
+            "word_native_transliteration": {
+                "bn": "কগনিজেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👁️",
+            "meaning": "Knowledge or awareness; the action of perceiving or becoming aware of something.",
+            "example_sentence": "The court took cognizance of the complaint.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোর্ট টুক কগনিজেন্স অফ দ্য কমপ্লেইন্ট।"
+            },
+            "position": 9,
+            "synonyms": "Awareness, Recognition, Perception",
+            "antonyms": "Oblivion, Ignorance, Unawareness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সচেতনতা বা উপলব্ধি",
+                    "word_transliteration": "sochetonota ba upolobdhi",
+                    "example_sentence_translation": "আদালত অভিযোগটি সম্পর্কে সচেতনতা নিল।",
+                    "example_sentence_transliteration": "Adalot obhijogti somporke sochetonota nilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "discernment",
+            "phonetic": "dɪˈsɜːrn.mənt",
+            "word_native_transliteration": {
+                "bn": "ডিসার্নমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The ability to judge well; keen insight and good judgment in making decisions.",
+            "example_sentence": "His discernment helped him make wise decisions.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ডিসার্নমেন্ট হেল্পড হিম মেক ওয়াইজ ডিসিশনস।"
+            },
+            "position": 10,
+            "synonyms": "Insight, Perception, Judgement",
+            "antonyms": "Ignorance, Misjudgment, Indiscretion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "তীক্ষ্ণ বিচারশক্তি বা অনুধাবন ক্ষমতা",
+                    "word_transliteration": "tikkhno bicharshokti ba onudhaban khomota",
+                    "example_sentence_translation": "তার অনুধাবন ক্ষমতা তাকে সুবিবেচিত সিদ্ধান্ত নিতে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Tar onudhaban khomota take subibechito siddhanto nite sahayyo koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "facilitate",
+            "phonetic": "fəˈsɪl.ɪ.teɪt",
+            "word_native_transliteration": {
+                "bn": "ফ্যাসিলিটেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🛤️",
+            "meaning": "Make an action or process easier or more achievable; to help bring about.",
+            "example_sentence": "Good infrastructure facilitates economic growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "গুড ইনফ্রাস্ট্রাকচার ফ্যাসিলিটেটস ইকোনমিক গ্রোথ।"
+            },
+            "position": 11,
+            "synonyms": "Assist, Enable, Simplify",
+            "antonyms": "Hinder, Obstruct, Complicate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহজতর করা বা সাহায্যতা করা",
+                    "word_transliteration": "sohojtor kora ba sahajata kora",
+                    "example_sentence_translation": "ভালো অবকাঠামো অর্থনৈতিক প্রবৃদ্ধিকে সাহায়তা করে।",
+                    "example_sentence_transliteration": "Bhalo obokatthamo orthonaitik probriddhike sahajata kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "expedite",
+            "phonetic": "ˈɛk.spɪ.daɪt",
+            "word_native_transliteration": {
+                "bn": "এক্সপিডাইট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⚡",
+            "meaning": "Make an action or process happen sooner or be accomplished more quickly.",
+            "example_sentence": "The government took steps to expedite the approval process.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গভর্নমেন্ট টুক স্টেপস টু এক্সপিডাইট দ্য অ্যাপ্রুভাল প্রসেস।"
+            },
+            "position": 12,
+            "synonyms": "Accelerate, Hasten, Speed Up",
+            "antonyms": "Delay, Hinder, Slow Down",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ত্বরান্বিত করা বা দ্রুততর করা",
+                    "word_transliteration": "twaranwito kora ba druttor kora",
+                    "example_sentence_translation": "সরকার অনুমোদন প্রক্রিয়া দ্রুত করার ব্যবস্থা নিয়েছে।",
+                    "example_sentence_transliteration": "Sorkar onumodon prokriya druto korar byabostha niyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "synergy",
+            "phonetic": "ˈsɪn.ɚ.dʒi",
+            "word_native_transliteration": {
+                "bn": "সিনার্জি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "The interaction or cooperation of two or more organizations to produce a combined effect greater than the sum of their separate effects.",
+            "example_sentence": "The synergy between different departments improved productivity.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সিনার্জি বিটুইন ডিফারেন্ট ডিপার্টমেন্টস ইমপ্রুভড প্রোডাক্টিভিটি।"
+            },
+            "position": 13,
+            "synonyms": "Collaboration, Cooperation, Unison",
+            "antonyms": "Conflict, Disunity, Disorganization",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সমন্বয় বা যৌথ শক্তি",
+                    "word_transliteration": "somonnoy ba joutho shokti",
+                    "example_sentence_translation": "বিভিন্ন বিভাগের মধ্যে সমন্বয় উৎপাদনশীলতা বৃদ্ধি করেছে।",
+                    "example_sentence_transliteration": "Bibhinno bibhager moddhe somonnoy utpadonshhilota briddhi koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "scholarly",
+            "phonetic": "ˈskɒl.ə.li",
+            "word_native_transliteration": {
+                "bn": "স্কলারলি"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎓",
+            "meaning": "Having or showing great knowledge or learning; academic in approach or method.",
+            "example_sentence": "He wrote a scholarly article on ancient philosophy.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি রোট এ স্কলারলি আর্টিকেল অন এনশিয়েন্ট ফিলোসফি।"
+            },
+            "position": 14,
+            "synonyms": "Intellectual, Academic, Learned",
+            "antonyms": "Uneducated, Ignorant, Uninformed",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গভীর জ্ঞানসম্পন্ন বা একাডেমিক",
+                    "word_transliteration": "gobhir gyansomponno ba akademik",
+                    "example_sentence_translation": "তিনি প্রাচীন দর্শন নিয়ে একটি গবেষণামূলক প্রবন্ধ লিখেছেন।",
+                    "example_sentence_transliteration": "Tini prachin darshhon niye ekti gobeshonamulok probondho likhechen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "acumen",
+            "phonetic": "ˈæk.jə.mən",
+            "word_native_transliteration": {
+                "bn": "অ্যাকুমেন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧭",
+            "meaning": "The ability to make good judgments and quick decisions; keenness and depth of perception or discernment.",
+            "example_sentence": "Her business acumen led to massive success.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার বিজনেস অ্যাকুমেন লেড টু ম্যাসিভ সাকসেস।"
+            },
+            "position": 15,
+            "synonyms": "Sharpness, Insight, Shrewdness",
+            "antonyms": "Stupidity, Incompetence, Foolishness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "তীক্ষ্ণ বুদ্ধিমত্তা বা দূরদর্শিতা",
+                    "word_transliteration": "tikkhno buddhimotta ba durdorshita",
+                    "example_sentence_translation": "তার ব্যবসায়িক দূরদর্শিতা বিশাল সাফল্য এনেছে।",
+                    "example_sentence_transliteration": "Tar byabsayik durdorshita bishal shafolyo eneche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "intuition",
+            "phonetic": "ˌɪn.tuˈɪʃ.ən",
+            "word_native_transliteration": {
+                "bn": "ইনটিউশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💭",
+            "meaning": "The ability to understand something immediately, without the need for conscious reasoning.",
+            "example_sentence": "Her intuition told her something was wrong.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার ইনটিউশন টোল্ড হার সামথিং ওয়াজ রং।"
+            },
+            "position": 16,
+            "synonyms": "Instinct, Gut Feeling, Perception",
+            "antonyms": "Logic, Reasoning, Analysis",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বাভাবিক উপলব্ধি বা অন্তর্দৃষ্টি",
+                    "word_transliteration": "shabhabik upolobdhi ba antordrishti",
+                    "example_sentence_translation": "তার অন্তর্দৃষ্টি তাকে জানিয়েছিল যে কিছু একটা ভুল হচ্ছে।",
+                    "example_sentence_transliteration": "Tar antordrishti take janiyechilo je kichu ekta bhul hochhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "erudition",
+            "phonetic": "ˌɛr.jʊˈdɪʃ.ən",
+            "word_native_transliteration": {
+                "bn": "এরুডিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📖",
+            "meaning": "The quality of having or showing great knowledge or learning; scholarship.",
+            "example_sentence": "His erudition in history impressed the entire audience.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ এরুডিশন ইন হিস্টরি ইমপ্রেসড দ্য এনটায়ার অডিয়েন্স।"
+            },
+            "position": 17,
+            "synonyms": "Scholarship, Knowledge, Learning",
+            "antonyms": "Ignorance, Illiteracy, Inexperience",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গভীর জ্ঞান বা বিদ্যাশক্তি",
+                    "word_transliteration": "gobhir gyan ba bidyashokti",
+                    "example_sentence_translation": "ইতিহাসে তার গভীর জ্ঞান পুরো শ্রোতাদের মুগ্ধ করেছিল।",
+                    "example_sentence_transliteration": "Itihase tar gobhir gyan puro shrotader mugdho korechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "adroitness",
+            "phonetic": "əˈdrɔɪt.nəs",
+            "word_native_transliteration": {
+                "bn": "অ্যাড্রয়টনেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎪",
+            "meaning": "Cleverness or skill, especially in using the hands or mind; skillful dexterity.",
+            "example_sentence": "His adroitness in negotiations secured the deal.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ অ্যাড্রয়টনেস ইন নেগোসিয়েশনস সিকিউর্ড দ্য ডিল।"
+            },
+            "position": 18,
+            "synonyms": "Skillfulness, Dexterity, Expertise",
+            "antonyms": "Clumsiness, Ineptitude, Awkwardness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষতা বা চতুরতা",
+                    "word_transliteration": "dokkhota ba choturota",
+                    "example_sentence_translation": "তার চতুরতা আলোচনায় চুক্তি নিশ্চিত করেছে।",
+                    "example_sentence_transliteration": "Tar choturota alochonay chukti nishchito koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "inculcate",
+            "phonetic": "ˈɪn.kʌl.keɪt",
+            "word_native_transliteration": {
+                "bn": "ইনকালকেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🌱",
+            "meaning": "Instill an attitude, idea, or habit by persistent instruction; to teach and impress by frequent repetitions.",
+            "example_sentence": "Parents should inculcate good values in their children.",
+            "example_sentence_native_transliteration": {
+                "bn": "পেরেন্টস শুড ইনকালকেট গুড ভ্যালুজ ইন দেয়ার চিলড্রেন।"
+            },
+            "position": 19,
+            "synonyms": "Instill, Teach, Impart",
+            "antonyms": "Neglect, Ignore, Disregard",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মনের মধ্যে গেঁথে দেওয়া বা শেখানো",
+                    "word_transliteration": "moner moddhe gethe deoya ba shekhano",
+                    "example_sentence_translation": "অভিভাবকদের উচিত তাদের সন্তানদের মধ্যে ভালো মূল্যবোধ গেঁথে দেওয়া।",
+                    "example_sentence_transliteration": "Obhibhabokder uchit tader sontander moddhe bhalo mulyobodh gethe deoya.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

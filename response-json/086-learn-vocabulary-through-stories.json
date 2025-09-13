@@ -1,0 +1,580 @@
+{
+    "position": 86,
+    "title_translation": {
+        "en": "Cleaning and Maintaining Home Appliances",
+        "bn": "বাসার home appliances পরিষ্কার ও রক্ষণাবেক্ষণ"
+    },
+    "content_translation": {
+        "en": "Our **home appliances** after long periods of use, due to **accumulation**, dirt begins to gather, which can gradually destroy **functionality**. Regular **sanitization** and **disinfection** makes them long-lasting and increases **durability**. Many times **residue** accumulates and causes **malfunction** of appliances. Especially in kitchen appliances, **oxidation** and **corrosion** are seen, which can cause **deterioration**. Therefore proper **preservation** and **lubrication** are essential. Whether a machine will work properly depends on regular **calibration** and maintenance. To reduce **susceptibility**, regular cleaning should be done and to prevent **vulnerability**, measures should be taken to **mitigate**. Not only a **hygienic** environment, but proper care can maintain the **aesthetics** of appliances and make it possible to **prolong** them for a long time. With proper care, any machine can be saved from being **eradicated** and its effectiveness will remain intact.",
+        "bn": "বাসার **home appliances** গুলো দীর্ঘদিন ব্যবহারের পর **accumulation** এর ফলে ময়লা জমতে শুরু করে, যা ধীরে ধীরে **functionality** নষ্ট করতে পারে। নিয়মিত **sanitization** এবং **disinfection** করলে এগুলো দীর্ঘস্থায়ী হয় এবং **durability** বৃদ্ধি পায়। অনেক সময় **residue** জমে গিয়ে যন্ত্রপাতির **malfunction** সৃষ্টি করে। বিশেষ করে, রান্নাঘরের যন্ত্রপাতিতে **oxidation** এবং **corrosion** দেখা যায়, যা **deterioration** এর কারণ হতে পারে। তাই সঠিক **preservation** এবং **lubrication** অপরিহার্য। একটি যন্ত্র ঠিকঠাকভাবে চলবে কিনা, তা নির্ভর করে নিয়মিত **calibration** এবং রক্ষণাবেক্ষণের ওপর। **susceptibility** কমাতে হলে নিয়মিত পরিষ্কার করা উচিত এবং **vulnerability** রোধ করতে হলে **mitigate** করার ব্যবস্থা নিতে হবে। শুধু **hygienic** পরিবেশ নয়, বরং সঠিকভাবে যত্ন নিলে যন্ত্রপাতির **aesthetics** বজায় থাকে এবং তা দীর্ঘদিন ধরে **prolong** করা সম্ভব হয়। সঠিকভাবে পরিচর্যা করলে যেকোনো যন্ত্র **eradicate** হওয়া থেকে রক্ষা পাবে এবং এর কার্যকারিতা অক্ষুণ্ণ থাকবে।"
+    },
+    "list": [
+        {
+            "word": "home appliances",
+            "phonetic": "hoʊm əˈplaɪ.ənsɪz",
+            "word_native_transliteration": {
+                "bn": "হোম অ্যাপ্লায়েন্সেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏠🔌",
+            "meaning": "Electrical devices and machines used in households for daily tasks and convenience.",
+            "example_sentence": "Modern home appliances enhance convenience.",
+            "example_sentence_native_transliteration": {
+                "bn": "মডার্ন হোম অ্যাপ্লায়েন্সেস এনহান্স কনভিনিয়েন্স।"
+            },
+            "position": 1,
+            "synonyms": "household devices, domestic equipment, electrical gadgets",
+            "antonyms": "industrial machinery, manual tools, unmechanized tools",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গৃহস্থালী যন্ত্রপাতি",
+                    "word_transliteration": "grihosthhali jontropati",
+                    "example_sentence_translation": "আধুনিক গৃহস্থালী যন্ত্রপাতি সুবিধা বৃদ্ধি করে।",
+                    "example_sentence_transliteration": "Adhunik grihosthhali jontropati suvidha briddhi kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "accumulation",
+            "phonetic": "əˌkjuː.mjəˈleɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "অ্যাকিউমুলেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📚",
+            "meaning": "The gradual gathering or collecting of something over time.",
+            "example_sentence": "The accumulation of dust affects appliance efficiency.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যাকিউমুলেশন অব ডাস্ট অ্যাফেক্টস অ্যাপ্লায়েন্স এফিশিয়েন্সি।"
+            },
+            "position": 2,
+            "synonyms": "collection, stockpiling, amassing",
+            "antonyms": "reduction, depletion, dispersion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জমা",
+                    "word_transliteration": "joma",
+                    "example_sentence_translation": "ধুলোর জমা গৃহস্থালী যন্ত্রপাতির কার্যকারিতা কমায়।",
+                    "example_sentence_transliteration": "Dhulor joma grihosthhali jontropatir karjokarita komay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "functionality",
+            "phonetic": "ˌfʌŋk.ʃəˈnæl.ə.ti",
+            "word_native_transliteration": {
+                "bn": "ফাংশনালিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚙️",
+            "meaning": "The quality of being functional; the ability to work or operate as intended.",
+            "example_sentence": "The new refrigerator has improved functionality.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিউ রেফ্রিজারেটর হ্যাজ ইমপ্রুভড ফাংশনালিটি।"
+            },
+            "position": 3,
+            "synonyms": "performance, utility, efficiency",
+            "antonyms": "dysfunction, uselessness, inefficiency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কার্যক্ষমতা",
+                    "word_transliteration": "karjokhomota",
+                    "example_sentence_translation": "নতুন ফ্রিজের কার্যক্ষমতা উন্নত হয়েছে।",
+                    "example_sentence_transliteration": "Notun frijyer karjokhomota unnoto hoyechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sanitization",
+            "phonetic": "ˌsæn.ɪ.taɪˈzeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "স্যানিটাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧽",
+            "meaning": "The process of cleaning and disinfecting to eliminate germs and bacteria.",
+            "example_sentence": "Regular sanitization keeps appliances germ-free.",
+            "example_sentence_native_transliteration": {
+                "bn": "রেগুলার স্যানিটাইজেশন কিপস অ্যাপ্লায়েন্সেস জার্ম-ফ্রি।"
+            },
+            "position": 4,
+            "synonyms": "cleaning, sterilization, decontamination",
+            "antonyms": "contamination, pollution, infection",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিচ্ছন্নতা",
+                    "word_transliteration": "porichchhonnota",
+                    "example_sentence_translation": "নিয়মিত স্যানিটাইজেশন যন্ত্রপাতিকে জীবাণুমুক্ত রাখে।",
+                    "example_sentence_transliteration": "Niyomit sanitization jontropatike jibanumukto rakhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "disinfection",
+            "phonetic": "ˌdɪs.ɪnˈfek.ʃən",
+            "word_native_transliteration": {
+                "bn": "ডিসইনফেকশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧪",
+            "meaning": "The process of destroying harmful microorganisms to prevent infection.",
+            "example_sentence": "Kitchen appliances require frequent disinfection.",
+            "example_sentence_native_transliteration": {
+                "bn": "কিচেন অ্যাপ্লায়েন্সেস রিকোয়ার ফ্রিকোয়েন্ট ডিসইনফেকশন।"
+            },
+            "position": 5,
+            "synonyms": "decontamination, purification, antisepsis",
+            "antonyms": "contamination, infection, polluting",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রোগজীবাণু দূরীকরণ",
+                    "word_transliteration": "rogjibanu durikaron",
+                    "example_sentence_translation": "রান্নাঘরের যন্ত্রপাতিতে নিয়মিত জীবাণুনাশ প্রয়োজন।",
+                    "example_sentence_transliteration": "Rannaghorer jontropatite niyomit jibanunas proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "durability",
+            "phonetic": "ˌdʊr.əˈbɪl.ə.ti",
+            "word_native_transliteration": {
+                "bn": "ডিউরেবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛡️",
+            "meaning": "The ability to withstand wear, pressure, or damage; lasting quality.",
+            "example_sentence": "The durability of appliances depends on maintenance.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডিউরেবিলিটি অব অ্যাপ্লায়েন্সেস ডিপেন্ডস অন মেইনটেনেন্স।"
+            },
+            "position": 6,
+            "synonyms": "longevity, robustness, resilience",
+            "antonyms": "fragility, weakness, brittleness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্থায়িত্ব",
+                    "word_transliteration": "sthayitto",
+                    "example_sentence_translation": "যন্ত্রপাতির স্থায়িত্ব রক্ষণাবেক্ষণের উপর নির্ভর করে।",
+                    "example_sentence_transliteration": "Jontropatir sthayitto rokkhonabeksshoner upor nirbhor kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "residue",
+            "phonetic": "ˈrez.ɪ.djuː",
+            "word_native_transliteration": {
+                "bn": "রেজিডিউ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🗂️",
+            "meaning": "A small amount of something that remains after the main part has gone or been removed.",
+            "example_sentence": "Soap residue affects appliance efficiency.",
+            "example_sentence_native_transliteration": {
+                "bn": "সোপ রেজিডিউ অ্যাফেক্টস অ্যাপ্লায়েন্স এফিশিয়েন্সি।"
+            },
+            "position": 7,
+            "synonyms": "remnant, deposit, leftover",
+            "antonyms": "cleanness, purity, absence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অবশিষ্টাংশ",
+                    "word_transliteration": "oboshishtangsho",
+                    "example_sentence_translation": "সাবানের অবশিষ্টাংশ যন্ত্রপাতির কার্যকারিতা কমায়।",
+                    "example_sentence_transliteration": "Sabaner oboshishtangsho jontropatir karjokarita komay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "malfunction",
+            "phonetic": "mælˈfʌŋk.ʃən",
+            "word_native_transliteration": {
+                "bn": "ম্যালফাংশন"
+            },
+            "parts_of_speech": "noun/verb",
+            "emoji": "❌",
+            "meaning": "A failure to function normally or satisfactorily; a defect or breakdown.",
+            "example_sentence": "The engine malfunctioned due to overheating.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইঞ্জিন ম্যালফাংশনড ডিউ টু ওভারহিটিং।"
+            },
+            "position": 8,
+            "synonyms": "breakdown, defect, failure",
+            "antonyms": "functionality, efficiency, performance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ত্রুটি",
+                    "word_transliteration": "truti",
+                    "example_sentence_translation": "অতিরিক্ত গরমের কারণে ইঞ্জিন ত্রুটিপূর্ণ হয়ে গেছে।",
+                    "example_sentence_transliteration": "Otirikto gormer karone injin trutipurno hoye gechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "oxidation",
+            "phonetic": "ˌɒk.sɪˈdeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "অক্সিডেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🦠",
+            "meaning": "A chemical reaction that involves the combination of a substance with oxygen, often causing deterioration.",
+            "example_sentence": "Oxidation causes metal surfaces to weaken.",
+            "example_sentence_native_transliteration": {
+                "bn": "অক্সিডেশন কজেস মেটাল সারফেসেস টু উইকেন।"
+            },
+            "position": 9,
+            "synonyms": "rusting, corrosion, decomposition",
+            "antonyms": "reduction, preservation, anti-rust",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অক্সিজেনের সাথে বিক্রিয়া",
+                    "word_transliteration": "oxijener sathe bikriya",
+                    "example_sentence_translation": "অক্সিডেশন ধাতুর উপরিভাগ দুর্বল করে ফেলে।",
+                    "example_sentence_transliteration": "Oxidation dhatur uporibhag durbol kore phele.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "corrosion",
+            "phonetic": "kəˈrəʊ.ʒən",
+            "word_native_transliteration": {
+                "bn": "কোরোশান"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔧",
+            "meaning": "The gradual destruction of materials by chemical or electrochemical reaction, especially of metals by oxidation.",
+            "example_sentence": "Corrosion in pipes leads to leakage.",
+            "example_sentence_native_transliteration": {
+                "bn": "কোরোশান ইন পাইপস লিডস টু লিকেজ।"
+            },
+            "position": 10,
+            "synonyms": "rust, erosion, deterioration",
+            "antonyms": "protection, strengthening, coating",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্ষয়",
+                    "word_transliteration": "kkhoy",
+                    "example_sentence_translation": "পাইপে ক্ষয় হলে লিকেজ সৃষ্টি হয়।",
+                    "example_sentence_transliteration": "Paipe kkhoy hole likej srishti hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "deterioration",
+            "phonetic": "dɪˌtɪə.ri.əˈreɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ডেটেরিয়োরেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📉",
+            "meaning": "The process of becoming progressively worse; decline in quality, condition, or strength.",
+            "example_sentence": "Poor maintenance leads to material deterioration.",
+            "example_sentence_native_transliteration": {
+                "bn": "পুর মেইনটেনেন্স লিডস টু ম্যাটেরিয়াল ডেটেরিয়োরেশন।"
+            },
+            "position": 11,
+            "synonyms": "decline, degradation, breakdown",
+            "antonyms": "improvement, enhancement, preservation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অবনতি",
+                    "word_transliteration": "obonoti",
+                    "example_sentence_translation": "অপর্যাপ্ত রক্ষণাবেক্ষণ বস্তুগত অবনতি ঘটায়।",
+                    "example_sentence_transliteration": "Orporjapto rokkhonabeksshon bostugoto obonoti ghotay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "preservation",
+            "phonetic": "ˌprez.əˈveɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "প্রিজারভেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛡️",
+            "meaning": "The action of maintaining something in its original or existing state; protection from harm or damage.",
+            "example_sentence": "Proper preservation extends the lifespan of machinery.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রপার প্রিজারভেশন এক্সটেন্ডস দ্য লাইফস্প্যান অব ম্যাশিনারি।"
+            },
+            "position": 12,
+            "synonyms": "conservation, maintenance, protection",
+            "antonyms": "neglect, deterioration, damage",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংরক্ষণ",
+                    "word_transliteration": "songrokkhon",
+                    "example_sentence_translation": "সঠিক সংরক্ষণ যন্ত্রপাতির স্থায়িত্ব বাড়ায়।",
+                    "example_sentence_transliteration": "Sothik songrokkhon jontropatir sthayitto baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "lubrication",
+            "phonetic": "ˌluː.brɪˈkeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "লুব্রিকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛢️",
+            "meaning": "The application of a substance such as oil or grease to reduce friction between moving parts.",
+            "example_sentence": "Lubrication reduces wear and tear in machines.",
+            "example_sentence_native_transliteration": {
+                "bn": "লুব্রিকেশন রিডিউসেস ওয়্যার অ্যান্ড টিয়ার ইন ম্যাশিনস।"
+            },
+            "position": 13,
+            "synonyms": "oiling, greasing, coating",
+            "antonyms": "friction, dryness, resistance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মসৃণতা",
+                    "word_transliteration": "mosrinota",
+                    "example_sentence_translation": "লুব্রিকেশন যন্ত্রের ঘর্ষণ কমায় এবং ক্ষয় প্রতিরোধ করে।",
+                    "example_sentence_transliteration": "Lubrication jontrer ghorsshon komay ebong kkhoy protirodh kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "calibration",
+            "phonetic": "ˌkæl.ɪˈbreɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ক্যালিব্রেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📏",
+            "meaning": "The action or process of adjusting or determining the accuracy of measuring instruments.",
+            "example_sentence": "The accuracy of a scale depends on regular calibration.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যাকুরেসি অব এ স্কেল ডিপেন্ডস অন রেগুলার ক্যালিব্রেশন।"
+            },
+            "position": 14,
+            "synonyms": "adjustment, standardization, alignment",
+            "antonyms": "misalignment, inaccuracy, maladjustment",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "যথাযথ পরিমাপ নিশ্চিত করা",
+                    "word_transliteration": "jothajotho porimap nishchit kora",
+                    "example_sentence_translation": "একটি স্কেলের নির্ভুলতা নিয়মিত ক্যালিব্রেশনের উপর নির্ভর করে।",
+                    "example_sentence_transliteration": "Ekti scaler nirbhulota niyomit calibrationer upor nirbhor kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "susceptibility",
+            "phonetic": "səˌsɛp.təˈbɪl.ə.ti",
+            "word_native_transliteration": {
+                "bn": "সাসেপটিবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚠️",
+            "meaning": "The quality of being likely to be influenced or harmed by a particular thing; vulnerability.",
+            "example_sentence": "High susceptibility to infections requires extra care.",
+            "example_sentence_native_transliteration": {
+                "bn": "হাই সাসেপটিবিলিটি টু ইনফেকশনস রিকোয়ারস এক্সট্রা কেয়ার।"
+            },
+            "position": 15,
+            "synonyms": "sensitivity, exposure, inclination",
+            "antonyms": "immunity, resistance, strength",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংবেদনশীলতা",
+                    "word_transliteration": "shongbedonshilota",
+                    "example_sentence_translation": "সংক্রমণের প্রতি উচ্চ সংবেদনশীলতা অতিরিক্ত যত্নের প্রয়োজন করে।",
+                    "example_sentence_transliteration": "Shongkromoner proti uchcho shongbedonshilota otirikto jotner proyojon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "vulnerability",
+            "phonetic": "ˌvʌl.nɚ.əˈbɪl.ə.ti",
+            "word_native_transliteration": {
+                "bn": "ভালনারেবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛡️💔",
+            "meaning": "The quality or state of being exposed to the possibility of being attacked or harmed, either physically or emotionally.",
+            "example_sentence": "Financial vulnerability can cause long-term instability.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফিনান্সিয়াল ভালনারেবিলিটি ক্যান কজ লং-টার্ম ইনস্টেবিলিটি।"
+            },
+            "position": 16,
+            "synonyms": "weakness, defenselessness, fragility",
+            "antonyms": "security, protection, strength",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দুর্বলতা",
+                    "word_transliteration": "durbolota",
+                    "example_sentence_translation": "আর্থিক দুর্বলতা দীর্ঘমেয়াদী অস্থিরতার কারণ হতে পারে।",
+                    "example_sentence_transliteration": "Arthik durbolota dirghomeyadi osthirotar karon hote pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "mitigate",
+            "phonetic": "ˈmɪt.ɪ.ɡeɪt",
+            "word_native_transliteration": {
+                "bn": "মিটিগেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔧",
+            "meaning": "To make something less severe, serious, or painful; to reduce or alleviate.",
+            "example_sentence": "The new policy aims to mitigate climate change effects.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিউ পলিসি এইমস টু মিটিগেট ক্লাইমেট চেঞ্জ এফেক্টস।"
+            },
+            "position": 17,
+            "synonyms": "alleviate, reduce, diminish",
+            "antonyms": "exacerbate, aggravate, intensify",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রশমিত করা",
+                    "word_transliteration": "proshomit kora",
+                    "example_sentence_translation": "নতুন নীতি জলবায়ু পরিবর্তনের প্রভাব কমানোর লক্ষ্যে কাজ করে।",
+                    "example_sentence_transliteration": "Notun niti jolbayu poribortonер probhab komanor lokkhye kaj kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "hygienic",
+            "phonetic": "haɪˈdʒiː.nɪk",
+            "word_native_transliteration": {
+                "bn": "হাইজিনিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧼",
+            "meaning": "Conducive to maintaining health and preventing disease, especially by being clean.",
+            "example_sentence": "Maintaining hygienic conditions in hospitals is crucial.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেইনটেইনিং হাইজিনিক কন্ডিশনস ইন হসপিটালস ইজ ক্রুসিয়াল।"
+            },
+            "position": 18,
+            "synonyms": "sanitary, clean, sterile",
+            "antonyms": "unhygienic, contaminated, polluted",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বাস্থ্যকর",
+                    "word_transliteration": "swasthyokor",
+                    "example_sentence_translation": "হাসপাতালে স্বাস্থ্যকর পরিবেশ বজায় রাখা অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Hashpatale swasthyokor poribesh bojay rakha ottyonto gurutbopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "aesthetics",
+            "phonetic": "esˈθet.ɪks",
+            "word_native_transliteration": {
+                "bn": "এস্থেটিক্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎨",
+            "meaning": "A set of principles concerned with the nature and appreciation of beauty, especially in art and design.",
+            "example_sentence": "Interior design focuses on aesthetics and functionality.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইন্টেরিয়র ডিজাইন ফোকাসেস অন এস্থেটিক্স অ্যান্ড ফাংশনালিটি।"
+            },
+            "position": 19,
+            "synonyms": "beauty, elegance, visual appeal",
+            "antonyms": "ugliness, displeasing, distortion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সৌন্দর্যবোধ",
+                    "word_transliteration": "shoundorjobodh",
+                    "example_sentence_translation": "ইন্টেরিয়র ডিজাইন নান্দনিকতা এবং কার্যকারিতার উপর গুরুত্ব দেয়।",
+                    "example_sentence_transliteration": "Interior design nandonikota ebong karjokariter upor gurutbo dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "prolong",
+            "phonetic": "prəˈlɒŋ",
+            "word_native_transliteration": {
+                "bn": "প্রোলং"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⏳",
+            "meaning": "To extend the duration of something; to make something last longer.",
+            "example_sentence": "A healthy diet helps prolong life expectancy.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ হেলদি ডায়েট হেল্পস প্রোলং লাইফ এক্সপেক্টেন্সি।"
+            },
+            "position": 20,
+            "synonyms": "extend, lengthen, sustain",
+            "antonyms": "shorten, reduce, curtail",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দীর্ঘায়িত করা",
+                    "word_transliteration": "dirghayit kora",
+                    "example_sentence_translation": "স্বাস্থ্যকর খাদ্যাভ্যাস জীবন প্রত্যাশা দীর্ঘায়িত করতে সহায়ক।",
+                    "example_sentence_transliteration": "Swasthyokor khadyabhyash jibon protyasha dirghayit korte sahayok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "eradicate",
+            "phonetic": "ɪˈræd.ɪ.keɪt",
+            "word_native_transliteration": {
+                "bn": "এরাডিকেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🗑️",
+            "meaning": "To destroy completely; to put an end to something undesirable.",
+            "example_sentence": "Vaccination programs help eradicate infectious diseases.",
+            "example_sentence_native_transliteration": {
+                "bn": "ভ্যাকসিনেশন প্রোগ্রামস হেল্প এরাডিকেট ইনফেকশাস ডিজিজেস।"
+            },
+            "position": 21,
+            "synonyms": "eliminate, exterminate, abolish",
+            "antonyms": "preserve, retain, maintain",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নির্মূল করা",
+                    "word_transliteration": "nirmul kora",
+                    "example_sentence_translation": "টিকাদান কর্মসূচি সংক্রামক রোগ নির্মূলে সহায়ক।",
+                    "example_sentence_transliteration": "Tikadan kormosoochi shongkramok rog nirmule sahayok.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

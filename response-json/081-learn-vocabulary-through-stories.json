@@ -1,0 +1,499 @@
+{
+    "position": 81,
+    "title_translation": {
+        "en": "Building Trust Between Parents and Children",
+        "bn": "বাবা-মা এবং সন্তানের মধ্যে বিশ্বাস গড়ে তোলা"
+    },
+    "content_translation": {
+        "en": "The foundation of any family relationship is **credibility** and mutual **fidelity**. However, many times, strict rules from parents create **apprehension** in children's minds, which gradually brings **discord** and **disillusionment**.\n\nTo build trust, **forthrightness** is necessary. Parents should maintain **transparency** when talking to their children, so that **allegiance** is created between them. In many cases, excessive **scrutiny** can create **impediment** to a child's freedom. For a healthy relationship, it is necessary to maintain an **amicable** environment where there is room for the child's **ingenuity** and thinking. If there is any misunderstanding, then **reconciliation** is necessary, because mutual understanding is needed to maintain the **efficacy** of the relationship.\n\nWhen a parent gives **affirmation** to their child and **endorsement** to their achievements, the child becomes confident. **Introspection** is important in the case of family bonds, because it creates true **affiliation** between parent and child.",
+        "bn": "একটি পরিবারের ভিত্তি হলো **credibility** এবং পারস্পরিক **fidelity**। কিন্তু অনেক সময়, বাবা-মায়ের কড়া নিয়ম-কানুন সন্তানের মনে **apprehension** তৈরি করে, যা ধীরে ধীরে **discord** এবং **disillusionment** নিয়ে আসে।\n\nবিশ্বাস গড়ে তোলার জন্য **forthrightness** থাকা জরুরি। বাবা-মায়ের উচিত **transparency** বজায় রেখে সন্তানের সঙ্গে কথা বলা, যাতে তাদের মধ্যে **allegiance** তৈরি হয়। অনেক ক্ষেত্রে, অতিরিক্ত **scrutiny** সন্তানের স্বাধীনতায় **impediment** সৃষ্টি করতে পারে। সুস্থ সম্পর্কের জন্য **amicable** পরিবেশ বজায় রাখা প্রয়োজন, যেখানে সন্তানের **ingenuity** এবং চিন্তাভাবনার জায়গা থাকে। যদি কোনো ভুল বোঝাবুঝি হয়, তাহলে **reconciliation** প্রয়োজন, কারণ সম্পর্কের **efficacy** বজায় রাখতে পারস্পরিক বোঝাপড়া দরকার।\n\nএকজন বাবা-মা যখন সন্তানের **affirmation** দেন এবং তাদের অর্জনকে **endorsement** করেন, তখন সন্তান আত্মবিশ্বাসী হয়ে ওঠে। পারিবারিক বন্ধনের ক্ষেত্রে **introspection** গুরুত্বপূর্ণ, কারণ এটি অভিভাবক এবং সন্তানের মধ্যে প্রকৃত **affiliation** তৈরি করে।"
+    },
+    "list": [
+        {
+            "word": "credibility",
+            "phonetic": "/ˌkrɛd.ɪˈbɪl.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "ক্রেডিবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔒",
+            "meaning": "The quality of being trusted and believed in; trustworthiness.",
+            "example_sentence": "His credibility as a leader remains unquestioned.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ক্রেডিবিলিটি অ্যাজ এ লিডার রিমেইনস আনকোশ্চন্ড।"
+            },
+            "position": 1,
+            "synonyms": "trustworthiness, reliability",
+            "antonyms": "doubt, untrustworthiness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিশ্বাসযোগ্যতা",
+                    "word_transliteration": "bishwashyogyota",
+                    "example_sentence_translation": "একজন নেতা হিসেবে তার ক্রেডিবিলিটি প্রশ্নাতীত রয়ে গেছে।",
+                    "example_sentence_transliteration": "Ekjon neta hishebe tar credibility proshnatit roye geche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fidelity",
+            "phonetic": "/fɪˈdɛl.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "ফিডেলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💙",
+            "meaning": "Faithfulness to a person, cause, or belief, demonstrated by continuing loyalty and support.",
+            "example_sentence": "A dog's fidelity to its owner is unmatched.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ ডগস ফিডেলিটি টু ইটস ওনার ইজ আনম্যাচড।"
+            },
+            "position": 2,
+            "synonyms": "loyalty, devotion",
+            "antonyms": "betrayal, treachery",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিশ্বস্ততা",
+                    "word_transliteration": "bishwoshotta",
+                    "example_sentence_translation": "মালিকের প্রতি একটি কুকুরের ফিডেলিটি অতুলনীয়।",
+                    "example_sentence_transliteration": "Maliker prati ekti kukurer fidelity otuloniyo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "apprehension",
+            "phonetic": "/ˌæp.rɪˈhɛn.ʃən/",
+            "word_native_transliteration": {
+                "bn": "অ্যাপরিহেনশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "😰",
+            "meaning": "Anxiety or fear that something bad or unpleasant will happen.",
+            "example_sentence": "He felt a deep apprehension before the exam.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি ফেল্ট এ ডিপ অ্যাপরিহেনশন বিফোর দ্য একজাম।"
+            },
+            "position": 3,
+            "synonyms": "anxiety, foreboding",
+            "antonyms": "confidence, assurance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আশঙ্কা",
+                    "word_transliteration": "ashonka",
+                    "example_sentence_translation": "পরীক্ষার আগে সে গভীর অ্যাপরিহেনশন অনুভব করেছিল।",
+                    "example_sentence_transliteration": "Porikshkhar agey she gobhir apprehension onuvob korechilov.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "discord",
+            "phonetic": "/ˈdɪs.kɔːd/",
+            "word_native_transliteration": {
+                "bn": "ডিসকর্ড"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "Disagreement between people; lack of harmony.",
+            "example_sentence": "Political discord often hinders progress.",
+            "example_sentence_native_transliteration": {
+                "bn": "পলিটিক্যাল ডিসকর্ড অফটেন হিনডারস প্রগ্রেস।"
+            },
+            "position": 4,
+            "synonyms": "disagreement, conflict",
+            "antonyms": "harmony, accord",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মতবিরোধ",
+                    "word_transliteration": "motbirodh",
+                    "example_sentence_translation": "রাজনৈতিক ডিসকর্ড উন্নতির পথে বাধা সৃষ্টি করে।",
+                    "example_sentence_transliteration": "Rajnoitik discord unnotir pothe badha srishti kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "disillusionment",
+            "phonetic": "/ˌdɪs.ɪˈluː.ʒən.mənt/",
+            "word_native_transliteration": {
+                "bn": "ডিসইলিউশনমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💔",
+            "meaning": "A feeling of disappointment resulting from the discovery that something is not as good as one believed it to be.",
+            "example_sentence": "Many people experience disillusionment after unrealistic expectations.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেনি পিপল একসপেরিয়েন্স ডিসইলিউশনমেন্ট আফটার আনরিয়ালিস্টিক একসপেক্টেশনস।"
+            },
+            "position": 5,
+            "synonyms": "disenchantment, disappointment",
+            "antonyms": "optimism, hopefulness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মোহভঙ্গ",
+                    "word_transliteration": "mohobhongo",
+                    "example_sentence_translation": "অযৌক্তিক প্রত্যাশার পর অনেকেই ডিসইলিউশনমেন্ট অনুভব করেন।",
+                    "example_sentence_transliteration": "Oyoktik protiasha por onekei disillusionment onuvob koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "forthrightness",
+            "phonetic": "/ˈfɔːθ.raɪt.nəs/",
+            "word_native_transliteration": {
+                "bn": "ফোর্থরাইটনেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The quality of being honest and straightforward; directness.",
+            "example_sentence": "Her forthrightness made her a respected journalist.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার ফোর্থরাইটনেস মেইড হার এ রেসপেক্টেড জার্নালিস্ট।"
+            },
+            "position": 6,
+            "synonyms": "honesty, candor",
+            "antonyms": "deception, evasiveness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সরলতা",
+                    "word_transliteration": "shorolota",
+                    "example_sentence_translation": "তার ফোর্থরাইটনেস তাকে একজন সম্মানিত সাংবাদিক করেছে।",
+                    "example_sentence_transliteration": "Tar forthrightness take ekjon shommanito shangbadik koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "transparency",
+            "phonetic": "/trænsˈpær.ən.si/",
+            "word_native_transliteration": {
+                "bn": "ট্রান্সপ্যারেন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌟",
+            "meaning": "The condition of being transparent; openness, honesty.",
+            "example_sentence": "Government transparency ensures public trust.",
+            "example_sentence_native_transliteration": {
+                "bn": "গভর্নমেন্ট ট্রান্সপ্যারেন্সি ইনশিওরস পাবলিক ট্রাস্ট।"
+            },
+            "position": 7,
+            "synonyms": "clarity, openness",
+            "antonyms": "secrecy, concealment",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বচ্ছতা",
+                    "word_transliteration": "shwochcchota",
+                    "example_sentence_translation": "সরকারের ট্রান্সপ্যারেন্সি জনসাধারণের আস্থার নিশ্চয়তা দেয়।",
+                    "example_sentence_transliteration": "Shorkarer transparency jonosadharon ashthar nishchoita dei.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "allegiance",
+            "phonetic": "/əˈliː.dʒəns/",
+            "word_native_transliteration": {
+                "bn": "অ্যালিজিয়েন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "Loyalty or commitment of a subordinate to a superior or of an individual to a group or cause.",
+            "example_sentence": "Soldiers take an oath of allegiance to their country.",
+            "example_sentence_native_transliteration": {
+                "bn": "সোলজারস টেইক অ্যান ওথ অফ অ্যালিজিয়েন্স টু দেয়ার কান্ট্রি।"
+            },
+            "position": 8,
+            "synonyms": "loyalty, devotion",
+            "antonyms": "disloyalty, betrayal",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আনুগত্য",
+                    "word_transliteration": "anugohtto",
+                    "example_sentence_translation": "সৈনিকরা তাদের দেশের প্রতি অ্যালিজিয়েন্স প্রদর্শনের শপথ নেয়।",
+                    "example_sentence_transliteration": "Sainikra tader desher proti allegiance prodorshoner shopoth nei.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "scrutiny",
+            "phonetic": "/ˈskruː.tɪ.ni/",
+            "word_native_transliteration": {
+                "bn": "স্ক্রুটিনি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔍",
+            "meaning": "Critical observation or examination.",
+            "example_sentence": "The documents underwent strict scrutiny.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডকিউমেন্টস আন্ডারওয়েন্ট স্ট্রিক্ট স্ক্রুটিনি।"
+            },
+            "position": 9,
+            "synonyms": "inspection, analysis",
+            "antonyms": "neglect, oversight",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিবিড় তদন্ত",
+                    "word_transliteration": "nibir todonot",
+                    "example_sentence_translation": "নথিগুলো কঠোর স্ক্রুটিনির মধ্য দিয়ে গিয়েছিল।",
+                    "example_sentence_transliteration": "Nothigulo kothor scrutinir modhyo diey giyechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "impediment",
+            "phonetic": "/ɪmˈpɛd.ɪ.mənt/",
+            "word_native_transliteration": {
+                "bn": "ইম্পেডিমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚧",
+            "meaning": "A hindrance or obstruction in doing something.",
+            "example_sentence": "His lack of confidence was an impediment to his success.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ল্যাক অফ কনফিডেন্স ওয়াজ অ্যান ইম্পেডিমেন্ট টু হিজ সাকসেস।"
+            },
+            "position": 10,
+            "synonyms": "obstruction, hindrance",
+            "antonyms": "assistance, facilitation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাধা",
+                    "word_transliteration": "badha",
+                    "example_sentence_translation": "তার আত্মবিশ্বাসের অভাব তার সাফল্যের জন্য একটি ইম্পেডিমেন্ট ছিল।",
+                    "example_sentence_transliteration": "Tar attobishasher obhab tar saphallyer jonno ekti impediment chilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "amicable",
+            "phonetic": "/ˈæm.ɪ.kə.bəl/",
+            "word_native_transliteration": {
+                "bn": "অ্যামিকেবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "😊",
+            "meaning": "Having a spirit of friendliness; without serious disagreement or rancor.",
+            "example_sentence": "They reached an amicable agreement.",
+            "example_sentence_native_transliteration": {
+                "bn": "দেই রিচড অ্যান অ্যামিকেবল অ্যাগ্রিমেন্ট।"
+            },
+            "position": 11,
+            "synonyms": "friendly, cordial",
+            "antonyms": "hostile, antagonistic",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বন্ধুত্বপূর্ণ",
+                    "word_transliteration": "bondhuttopurno",
+                    "example_sentence_translation": "তারা একটি অ্যামিকেবল সমঝোতায় পৌঁছাল।",
+                    "example_sentence_transliteration": "Tara ekti amicable shomjhotay pouchalo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ingenuity",
+            "phonetic": "/ˌɪn.dʒəˈnjuː.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "ইঞ্জেনুইটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💡",
+            "meaning": "The quality of being clever, original, and inventive.",
+            "example_sentence": "His ingenuity led to groundbreaking innovations.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ইঞ্জেনুইটি লেড টু গ্রাউন্ডব্রেকিং ইনোভেশনস।"
+            },
+            "position": 12,
+            "synonyms": "creativity, inventiveness",
+            "antonyms": "ineptitude, unimaginativeness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্ভাবনী ক্ষমতা",
+                    "word_transliteration": "udbhavoni khomota",
+                    "example_sentence_translation": "তার ইঞ্জেনুইটি যুগান্তকারী উদ্ভাবনের দিকে নিয়ে গেছে।",
+                    "example_sentence_transliteration": "Tar ingenuity jugantkari udbhaboner dike niey geche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "reconciliation",
+            "phonetic": "/ˌrek.ənˌsɪl.iˈeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "রিকনসিলিয়েশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤲",
+            "meaning": "The restoration of friendly relations; the action of making one view or belief compatible with another.",
+            "example_sentence": "The peace treaty was a major step toward reconciliation.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য পিস ট্রিটি ওয়াজ এ মেজার স্টেপ টুওয়ার্ড রিকনসিলিয়েশন।"
+            },
+            "position": 13,
+            "synonyms": "resolution, settlement",
+            "antonyms": "conflict, dispute",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুনর্মিলন",
+                    "word_transliteration": "punormilone",
+                    "example_sentence_translation": "শান্তি চুক্তিটি রিকনসিলিয়েশন এর একটি গুরুত্বপূর্ণ ধাপ ছিল।",
+                    "example_sentence_transliteration": "Shanti chuktiti reconciliation er ekti guruttopurno dhap chilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "efficacy",
+            "phonetic": "/ˈɛf.ɪ.kə.si/",
+            "word_native_transliteration": {
+                "bn": "এফিকেসি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "The ability to produce a desired or intended result; effectiveness.",
+            "example_sentence": "The efficacy of the new vaccine has been proven.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এফিকেসি অফ দ্য নিউ ভ্যাকসিন হ্যাজ বিন প্রুভেন।"
+            },
+            "position": 14,
+            "synonyms": "effectiveness, potency",
+            "antonyms": "ineffectiveness, failure",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কার্যকারিতা",
+                    "word_transliteration": "karyokarota",
+                    "example_sentence_translation": "নতুন ভ্যাকসিনের এফিকেসি প্রমাণিত হয়েছে।",
+                    "example_sentence_transliteration": "Notun vaccineer efficacy promanito hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "affirmation",
+            "phonetic": "/ˌæf.ɚˈmeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "অ্যাফারমেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✅",
+            "meaning": "The action or process of affirming something or being affirmed; emotional support or encouragement.",
+            "example_sentence": "Daily affirmation of self-worth boosts confidence.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডেইলি অ্যাফারমেশন অফ সেলফ-ওর্থ বুস্টস কনফিডেন্স।"
+            },
+            "position": 15,
+            "synonyms": "confirmation, assertion",
+            "antonyms": "denial, rejection",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিশ্চয়তা",
+                    "word_transliteration": "nishchoita",
+                    "example_sentence_translation": "আত্মসম্মানের দৈনিক অ্যাফারমেশন আত্মবিশ্বাস বাড়ায়।",
+                    "example_sentence_transliteration": "Atme-sommaner dainik affirmation attobishwash baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "endorsement",
+            "phonetic": "/ɪnˈdɔːrs.mənt/",
+            "word_native_transliteration": {
+                "bn": "এন্ডোর্সমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👍",
+            "meaning": "A public or official statement of support or approval.",
+            "example_sentence": "The celebrity's endorsement increased the product's sales.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সেলিব্রিটিজ এন্ডোর্সমেন্ট ইনক্রিজড দ্য প্রোডাক্টস সেলস।"
+            },
+            "position": 16,
+            "synonyms": "approval, validation",
+            "antonyms": "opposition, disapproval",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সমর্থন",
+                    "word_transliteration": "shomorthon",
+                    "example_sentence_translation": "তারকা ব্যক্তির এন্ডোর্সমেন্ট পণ্যের বিক্রি বাড়িয়েছে।",
+                    "example_sentence_transliteration": "Tarka byektir endorsement ponner bikri bariyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "introspection",
+            "phonetic": "/ˌɪn.trəˈspek.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ইন্ট্রোস্পেকশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤔",
+            "meaning": "The examination or observation of one's own mental and emotional processes.",
+            "example_sentence": "Regular introspection leads to self-improvement.",
+            "example_sentence_native_transliteration": {
+                "bn": "রেগুলার ইন্ট্রোস্পেকশন লিডস টু সেলফ-ইমপ্রুভমেন্ট।"
+            },
+            "position": 17,
+            "synonyms": "reflection, contemplation",
+            "antonyms": "thoughtlessness, disregard",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আত্মবিশ্লেষণ",
+                    "word_transliteration": "attobisleshon",
+                    "example_sentence_translation": "নিয়মিত ইন্ট্রোস্পেকশন আত্মউন্নয়নের দিকে নিয়ে যায়।",
+                    "example_sentence_transliteration": "Niomito introspection attomunnoyone dike niey jai.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "affiliation",
+            "phonetic": "/əˌfɪl.iˈeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "অ্যাফিলিয়েশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔗",
+            "meaning": "The state or process of affiliating or being affiliated; a connection or association.",
+            "example_sentence": "His affiliation with the company lasted for a decade.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ অ্যাফিলিয়েশন উইথ দ্য কোম্পানি লাস্টেড ফর এ ডিকেইড।"
+            },
+            "position": 18,
+            "synonyms": "association, connection",
+            "antonyms": "disassociation, separation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংযুক্তি",
+                    "word_transliteration": "shongjukti",
+                    "example_sentence_translation": "কোম্পানির সঙ্গে তার অ্যাফিলিয়েশন এক দশক ধরে ছিল।",
+                    "example_sentence_transliteration": "Company shongey tar affiliation ek doshok dhore chilo.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}
