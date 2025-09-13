@@ -1,0 +1,283 @@
+{
+    "position": 47,
+    "title_translation": {
+        "en": "Causes and Prevention of Child Labour",
+        "bn": "শিশুশ্রমের কারণ ও প্রতিকার"
+    },
+    "content_translation": {
+        "en": "In 1992, the International Labour Organization (ILO) took effective steps to stop child labour. Since June 12, 2002, the World Day Against Child Labour has been **celebrating**. This day is also **observed** in Bangladesh. However, child labour is a **complex** problem that cannot be solved simply by **imposing** rules.\n\nIt is urgent to keep children **protected** and **safe**. They need to be empowered by **supporting** and **educating** them. The root causes of the problem must be **identified** and **addressed**. **Creating** awareness and **promoting** education helps create a **positive environment** for children.\n\nGovernment and non-government initiatives in **strengthening** advocacy and **enforcing** laws are fundamental. If strict laws are not **implemented**, it will be difficult to **control** the situation. To **reduce** child labour, long-term planning and **dedicated efforts** are needed.\n\nIf educational opportunities are **expanded** and responsibilities towards children are **ensured**, society will become more **progressive**. If today's children are **nurtured** and **guided**, they will be **instrumental** in building society in the future.",
+        "bn": "১৯৯২ সালে আন্তর্জাতিক শ্রম সংস্থা (আইএলও) শিশুশ্রম বন্ধ করার জন্য কার্যকর পদক্ষেপ গ্রহণ করে। ২০০২ সালের ১২ জুন থেকে **celebrating** করা হচ্ছে World Day Against Child Labour। বাংলাদেশেও দিবসটি **observed** হয়। তবে শিশুশ্রম একটি **complex** সমস্যা, যা শুধুমাত্র **imposing** নিয়ম দিয়ে সমাধান করা সম্ভব নয়।\n\nশিশুদের **protected** এবং **safe** রাখা জরুরি। তাদের **supporting** এবং **educating** করে **empowering** করতে হবে। সমস্যার মূল কারণগুলো **identified** করে তা **addressed** করতে হবে। **Creating awareness** এবং **promoting education** শিশুদের জন্য একটি **positive environment** তৈরি করতে সাহায্য করে।\n\nসরকারি ও বেসরকারি উদ্যোগে **strengthening** প্রচারণা এবং **enforcing** আইন বাধ্যতামূলক। কঠোর আইন **implemented** না হলে পরিস্থিতি **controlled** করা কঠিন হবে। শিশুশ্রম **reduced** করতে হলে দীর্ঘমেয়াদী পরিকল্পনা এবং **dedicated efforts** প্রয়োজন।\n\nশিক্ষার সুযোগ **expanded** এবং শিশুদের প্রতি দায়িত্ব **ensured** করলে সমাজ আরও **progressive** হয়ে উঠবে। আজকের শিশুরা যদি **nurtured** এবং **guided** হয়, তারা ভবিষ্যতে সমাজ গঠনে **instrumental** হবে।"
+    },
+    "list": [
+        {
+            "word": "celebrating",
+            "phonetic": "ˈsɛləbreɪtɪŋ",
+            "word_native_transliteration": {
+                "bn": "সেলিব্রেটিং"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🎉",
+            "meaning": "The act of acknowledging a significant or happy day or event with a social gathering or enjoyable activity.",
+            "example_sentence": "Celebrating awareness days helps spread important messages.",
+            "example_sentence_native_transliteration": {
+                "bn": "সেলিব্রেটিং অ্যাওয়ারনেস ডেস হেল্পস স্প্রেড ইম্পর্ট্যান্ট মেসেজেস।"
+            },
+            "position": 1,
+            "synonyms": "observing, commemorating, honoring, marking, rejoicing, festooning",
+            "antonyms": "ignoring, overlooking, neglecting, forgetting, dismissing, disregarding",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদযাপন করা",
+                    "word_transliteration": "udjapon kora",
+                    "example_sentence_translation": "সচেতনতার দিন উদযাপন গুরুত্বপূর্ণ বার্তা ছড়াতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Sochetontar din udjapon gurutbopurno barta chhoratey sahajjo korey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "observed",
+            "phonetic": "əbˈzɜːrvd",
+            "word_native_transliteration": {
+                "bn": "অবজার্ভড"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "👁️",
+            "meaning": "To celebrate or keep a religious or other festival.",
+            "example_sentence": "The day is observed annually to raise awareness.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডে ইজ অবজার্ভড অ্যানুয়ালি টু রেইজ অ্যাওয়ারনেস।"
+            },
+            "position": 2,
+            "synonyms": "celebrated, commemorated, marked, honored, kept, maintained",
+            "antonyms": "neglected, forgotten, ignored, overlooked, dismissed, abandoned",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পালন করা",
+                    "word_transliteration": "palon kora",
+                    "example_sentence_translation": "দিনটি প্রতি বছর সচেতনতা বাড়ানোর জন্য পালন করা হয়।",
+                    "example_sentence_transliteration": "Dinti proti bochhor sochetonta baranor jonno palon kora hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "empowering",
+            "phonetic": "ɪmˈpaʊərɪŋ",
+            "word_native_transliteration": {
+                "bn": "এমপাওয়ারিং"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "💪",
+            "meaning": "Giving someone the authority or power to do something; making someone stronger and more confident.",
+            "example_sentence": "Empowering children can lead to societal progress.",
+            "example_sentence_native_transliteration": {
+                "bn": "এমপাওয়ারিং চিলড্রেন ক্যান লিড টু সোসাইটাল প্রগ্রেস।"
+            },
+            "position": 3,
+            "synonyms": "enabling, authorizing, strengthening, encouraging, inspiring, motivating",
+            "antonyms": "weakening, restricting, disabling, discouraging, undermining, limiting",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্ষমতায়ন করা",
+                    "word_transliteration": "khomotayon kora",
+                    "example_sentence_translation": "শিশুদের ক্ষমতায়ন সমাজের অগ্রগতির দিকে নিয়ে যেতে পারে।",
+                    "example_sentence_transliteration": "Shishudер khomotayon shamajor agrogatir dike niye jetey parey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "supporting",
+            "phonetic": "səˈpɔːrtɪŋ",
+            "word_native_transliteration": {
+                "bn": "সাপোর্টিং"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🤝",
+            "meaning": "Giving assistance to; helping to bear the weight of something.",
+            "example_sentence": "Supporting education initiatives helps reduce child labour.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাপোর্টিং এডুকেশন ইনিশিয়েটিভস হেল্পস রিডিউস চাইল্ড লেবার।"
+            },
+            "position": 4,
+            "synonyms": "helping, assisting, backing, aiding, encouraging, facilitating",
+            "antonyms": "opposing, undermining, hindering, obstructing, discouraging, abandoning",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহায়তা করা",
+                    "word_transliteration": "sahayta kora",
+                    "example_sentence_translation": "শিক্ষার উদ্যোগকে সহায়তা করা শিশুশ্রম হ্রাসে সাহায্য করে।",
+                    "example_sentence_transliteration": "Shikkhar udyogkey sahayta kora shishushrom hrashe sahajjo korey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "identified",
+            "phonetic": "aɪˈdɛntɪfaɪd",
+            "word_native_transliteration": {
+                "bn": "আইডেন্টিফাইড"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔍",
+            "meaning": "To recognize or establish who or what someone or something is.",
+            "example_sentence": "The root causes of the issue need to be identified.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রুট কজেস অফ দ্য ইস্যু নিড টু বি আইডেন্টিফাইড।"
+            },
+            "position": 5,
+            "synonyms": "recognized, discovered, detected, pinpointed, located, found",
+            "antonyms": "overlooked, missed, ignored, unrecognized, hidden, concealed",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চিহ্নিত করা",
+                    "word_transliteration": "chihnito kora",
+                    "example_sentence_translation": "সমস্যার মূল কারণ চিহ্নিত করা প্রয়োজন।",
+                    "example_sentence_transliteration": "Shomoshyar mul karon chihnito kora proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "addressed",
+            "phonetic": "əˈdrɛst",
+            "word_native_transliteration": {
+                "bn": "অ্যাড্রেসড"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🎯",
+            "meaning": "To think about and begin to deal with an issue or problem.",
+            "example_sentence": "Addressing key problems is vital for long-term change.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাড্রেসিং কি প্রবলেমস ইজ ভাইটাল ফর লং-টার্ম চেঞ্জ।"
+            },
+            "position": 6,
+            "synonyms": "tackled, dealt with, handled, resolved, confronted, approached",
+            "antonyms": "ignored, neglected, avoided, dismissed, overlooked, abandoned",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সমাধান করা",
+                    "word_transliteration": "somadhan kora",
+                    "example_sentence_translation": "দীর্ঘমেয়াদী পরিবর্তনের জন্য মূল সমস্যাগুলো সমাধান করা অপরিহার্য।",
+                    "example_sentence_transliteration": "Dirghomeyadi poribortonor jonno mul shomoshyagulo somadhan kora oporhiharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "promoting",
+            "phonetic": "prəˈmoʊtɪŋ",
+            "word_native_transliteration": {
+                "bn": "প্রোমোটিং"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📢",
+            "meaning": "To support or actively encourage a cause, venture, or aim; to help or encourage the progress or development of something.",
+            "example_sentence": "Promoting education can significantly improve children's lives.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোমোটিং এডুকেশন ক্যান সিগনিফিক্যান্টলি ইমপ্রুভ চিলড্রেনস লাইভস।"
+            },
+            "position": 7,
+            "synonyms": "encouraging, supporting, advancing, fostering, advocating, facilitating",
+            "antonyms": "discouraging, suppressing, hindering, opposing, obstructing, preventing",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রচার করা",
+                    "word_transliteration": "prochar kora",
+                    "example_sentence_translation": "শিক্ষার প্রচার শিশুদের জীবনকে উল্লেখযোগ্যভাবে উন্নত করতে পারে।",
+                    "example_sentence_transliteration": "Shikkhar prochar shishudor jibonkey ullekhjoggyabhabe unnoto koretey parey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "enforcing",
+            "phonetic": "ɪnˈfɔːrsɪŋ",
+            "word_native_transliteration": {
+                "bn": "এনফোর্সিং"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⚖️",
+            "meaning": "To compel observance of or compliance with a law, rule, or obligation.",
+            "example_sentence": "Enforcing strict laws is necessary to prevent violations.",
+            "example_sentence_native_transliteration": {
+                "bn": "এনফোর্সিং স্ট্রিক্ট লস ইজ নেসেসারি টু প্রিভেন্ট ভায়োলেশনস।"
+            },
+            "position": 8,
+            "synonyms": "implementing, applying, executing, administering, imposing, compelling",
+            "antonyms": "relaxing, ignoring, waiving, abandoning, suspending, overlooking",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রয়োগ করা",
+                    "word_transliteration": "proyog kora",
+                    "example_sentence_translation": "কঠোর আইন প্রয়োগ লঙ্ঘন প্রতিরোধে অপরিহার্য।",
+                    "example_sentence_transliteration": "Kothoor ain proyog longghon protirodhey oporhiharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "expanded",
+            "phonetic": "ɪkˈspændɪd",
+            "word_native_transliteration": {
+                "bn": "এক্সপ্যান্ডেড"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📈",
+            "meaning": "Made or become larger or more extensive.",
+            "example_sentence": "Expanded opportunities in education can transform lives.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সপ্যান্ডেড অপরচুনিটিস ইন এডুকেশন ক্যান ট্রান্সফর্ম লাইভস।"
+            },
+            "position": 9,
+            "synonyms": "enlarged, extended, increased, broadened, widened, amplified",
+            "antonyms": "restricted, reduced, contracted, narrowed, limited, compressed",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সম্প্রসারিত করা",
+                    "word_transliteration": "shomprasharito kora",
+                    "example_sentence_translation": "শিক্ষায় সম্প্রসারিত সুযোগ জীবনকে পরিবর্তন করতে পারে।",
+                    "example_sentence_transliteration": "Shikkhay shomprasharito sujog jibonkey poriborton koretey parey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "instrumental",
+            "phonetic": "ˌɪnstrəˈmɛntl",
+            "word_native_transliteration": {
+                "bn": "ইনস্ট্রুমেন্টাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔧",
+            "meaning": "Serving as a crucial means, agent, or tool; having a part in bringing about a result.",
+            "example_sentence": "Children can be instrumental in building a better society.",
+            "example_sentence_native_transliteration": {
+                "bn": "চিলড্রেন ক্যান বি ইনস্ট্রুমেন্টাল ইন বিল্ডিং অ্যা বেটার সোসাইটি।"
+            },
+            "position": 10,
+            "synonyms": "crucial, essential, important, vital, key, significant",
+            "antonyms": "insignificant, uninvolved, unimportant, irrelevant, minor, trivial",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গুরুত্বপূর্ণ",
+                    "word_transliteration": "gurutbopurno",
+                    "example_sentence_translation": "শিশুরা একটি উন্নত সমাজ গঠনে গুরুত্বপূর্ণ ভূমিকা পালন করতে পারে।",
+                    "example_sentence_transliteration": "Shishura ekti unnoto shamaj gothoney gurutbopurno bhumika palon koretey parey.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,526 @@
+{
+    "position": 37,
+    "title_translation": {
+        "en": "Learn Vocabulary Through Stories",
+        "bn": "গল্পের মাধ্যমে শব্দভাণ্ডার শেখা"
+    },
+    "content_translation": {
+        "en": "The **military incursion** by Israel that began on October 7, 2023, has resulted in the deaths of more than 21,500 Palestinians in Gaza. This operation has raised **genocide allegations** internationally and sparked **contentious debates** about human rights violations.\n\nSouth Africa has filed a **litigation** against Israel at the International **Tribunal of Justice (ICJ)** on charges of 'genocide crimes.' The case alleges that Israel has **deliberately orchestrated** a **systematic strategy** to destroy the Palestinian people.\n\nSaudi Arabia and other countries have strongly condemned these **atrocities** by Israel and have **condemned** it as 'genocide.' On the other hand, Israel has **categorically refuted** these allegations and described their operation as **legitimate self-defense**.\n\nThe UN's top **adjudicative body** has begun **deliberations** on this case, which will establish an important **jurisprudential benchmark** for the international community. This situation has created a deep **humanitarian catastrophe** worldwide and various countries have called for a **diplomatic resolution**.",
+        "bn": "২০২৩ সালের ৭ অক্টোবর শুরু হওয়া ইসরায়েলের **military incursion**-এ গাজায় ২১,৫০০ জনের বেশি ফিলিস্তিনি নিহত হয়েছে। এই অভিযান আন্তর্জাতিক মহলে **genocide allegations** উত্থাপন করেছে এবং মানবাধিকার লঙ্ঘনের **contentious debates** শুরু করেছে।\n\nদক্ষিণ আফ্রিকা আন্তর্জাতিক **Tribunal of Justice (ICJ)**-এ ইসরায়েলের বিরুদ্ধে 'গণহত্যার অপরাধ' অভিযোগে একটি **litigation** দায়ের করেছে। মামলায় দাবি করা হয়েছে, ইসরায়েল **deliberately orchestrated** ফিলিস্তিনি জনগোষ্ঠী ধ্বংস করার একটি **systematic strategy**।\n\nসৌদি আরবসহ অন্যান্য দেশ ইসরায়েলের এই **atrocities**-এর তীব্র নিন্দা করেছে এবং একে 'গণহত্যা' বলে **condemn** করেছে। অন্য দিকে, ইসরায়েল এই অভিযোগ **categorically refuted** করে তাদের অভিযানকে **legitimate self-defense** হিসেবে বর্ণনা করেছে।\n\nজাতিসংঘের শীর্ষ **adjudicative body** এই মামলার **deliberations** শুরু করেছে, যা আন্তর্জাতিক সম্প্রদায়ের জন্য একটি গুরুত্বপূর্ণ **jurisprudential benchmark** স্থাপন করবে। এই পরিস্থিতি বিশ্বজুড়ে একটি গভীর **humanitarian catastrophe** সৃষ্টি করেছে এবং বিভিন্ন দেশ এর **diplomatic resolution** আহ্বান জানিয়েছে।"
+    },
+    "list": [
+        {
+            "word": "military incursion",
+            "phonetic": "ˈmɪl.ɪ.tər.i ɪnˈkɜː.ʃən",
+            "word_native_transliteration": {
+                "bn": "মিলিটারী ইনকার্শন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🪖",
+            "meaning": "A sudden armed attack or invasion by military forces into a territory.",
+            "example_sentence": "The military incursion caused widespread devastation.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য মিলিটারী ইনকার্শন কজড উইডসপ্রেড ডেভাস্টেশন।"
+            },
+            "position": 1,
+            "synonyms": "invasion, assault, attack, raid, offensive, strike",
+            "antonyms": "withdrawal, retreat, evacuation, peace, ceasefire, truce",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সামরিক আক্রমণ",
+                    "word_transliteration": "shamorik akromon",
+                    "example_sentence_translation": "সামরিক আক্রমণ ব্যাপক ধ্বংসযজ্ঞ সৃষ্টি করেছিল।",
+                    "example_sentence_transliteration": "Shamorik akromon byapok dhongsojoggo srishti korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "genocide",
+            "phonetic": "ˈdʒen.ə.saɪd",
+            "word_native_transliteration": {
+                "bn": "জেনোসাইড"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚰️",
+            "meaning": "The deliberate killing of a large group of people, especially those of a particular ethnic group or nation.",
+            "example_sentence": "The allegations of genocide raised global concerns.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যালেগেশনস অফ জেনোসাইড রেইজড গ্লোবাল কনসার্নস।"
+            },
+            "position": 2,
+            "synonyms": "massacre, extermination, ethnic cleansing, mass murder, holocaust, slaughter",
+            "antonyms": "protection, salvation, preservation, conservation, safeguarding, defense",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গণহত্যা",
+                    "word_transliteration": "gonhottya",
+                    "example_sentence_translation": "গণহত্যার অভিযোগ বৈশ্বিক উদ্বেগ সৃষ্টি করেছে।",
+                    "example_sentence_transliteration": "Gonhottyar ovijog boishbik udbeg srishti koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "allegations",
+            "phonetic": "ˌæl.ɪˈɡeɪ.ʃənz",
+            "word_native_transliteration": {
+                "bn": "অ্যালেগেশনস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "Claims or assertions that someone has done something illegal or wrong, typically without proof.",
+            "example_sentence": "The allegations were investigated by an international body.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যালেগেশনস ওয়ার ইনভেস্টিগেটেড বাই অ্যান ইন্টারন্যাশনাল বডি।"
+            },
+            "position": 3,
+            "synonyms": "accusations, claims, charges, assertions, imputations, indictments",
+            "antonyms": "denials, defenses, refutations, vindications, exonerations, acquittals",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অভিযোগ",
+                    "word_transliteration": "ovijog",
+                    "example_sentence_translation": "অভিযোগগুলো আন্তর্জাতিক সংস্থার দ্বারা তদন্ত করা হয়।",
+                    "example_sentence_transliteration": "Ovijogguloo antorjatik songsthar dwara todon্ত kora hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "contentious",
+            "phonetic": "kənˈten.ʃəs",
+            "word_native_transliteration": {
+                "bn": "কনটেনশাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔥",
+            "meaning": "Causing or likely to cause an argument; controversial.",
+            "example_sentence": "The contentious issue divided global leaders.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কনটেনশাস ইস্যু ডিভাইডেড গ্লোবাল লিডারস।"
+            },
+            "position": 4,
+            "synonyms": "controversial, disputed, debatable, argumentative, quarrelsome, combative",
+            "antonyms": "agreeable, peaceful, harmonious, uncontroversial, undisputed, amicable",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিতর্কিত",
+                    "word_transliteration": "bitorkit",
+                    "example_sentence_translation": "বিতর্কিত বিষয়টি বৈশ্বিক নেতাদের বিভক্ত করেছে।",
+                    "example_sentence_transliteration": "Bitorkit bishoyti boishbik netader bivokto koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "debates",
+            "phonetic": "dɪˈbeɪts",
+            "word_native_transliteration": {
+                "bn": "ডিবেটস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💬",
+            "meaning": "Formal discussions on particular topics in public meetings or legislative assemblies.",
+            "example_sentence": "Heated debates ensued over the legitimacy of the actions.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিটেড ডিবেটস এনসুড ওভার দ্য লেজিটিমেসি অফ দ্য অ্যাকশনস।"
+            },
+            "position": 5,
+            "synonyms": "discussions, arguments, disputes, deliberations, conversations, dialogues",
+            "antonyms": "consensus, agreement, harmony, accord, unity, silence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিতর্ক",
+                    "word_transliteration": "bitorko",
+                    "example_sentence_translation": "কর্মকাণ্ডের বৈধতা নিয়ে উত্তপ্ত বিতর্ক শুরু হয়।",
+                    "example_sentence_transliteration": "Kormokandor boiudhota niyo uttapto bitorko shuru hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "tribunal of justice",
+            "phonetic": "ˌtraɪ.bjuˈnæl əv ˈdʒʌs.tɪs",
+            "word_native_transliteration": {
+                "bn": "ট্রাইব্যুনাল অফ জাস্টিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏛️",
+            "meaning": "A court of justice or judicial body that settles disputes or tries offenses.",
+            "example_sentence": "The Tribunal of Justice started the hearings promptly.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ট্রাইব্যুনাল অফ জাস্টিস স্টার্টেড দ্য হিয়ারিংস প্রমপ্টলি।"
+            },
+            "position": 6,
+            "synonyms": "court of justice, judicial panel, court, tribunal, judiciary, bench",
+            "antonyms": "lawlessness, anarchy, injustice, chaos, disorder, vigilantism",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিচার ট্রাইব্যুনাল",
+                    "word_transliteration": "bichar tribunal",
+                    "example_sentence_translation": "বিচার ট্রাইব্যুনাল দ্রুত শুনানি শুরু করে।",
+                    "example_sentence_transliteration": "Bichar tribunal druto shunani shuru kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "litigation",
+            "phonetic": "ˌlɪt.ɪˈɡeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "লিটিগেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📄",
+            "meaning": "The process of taking legal action; a lawsuit.",
+            "example_sentence": "The litigation accused the regime of human rights abuses.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য লিটিগেশন অ্যাকিউজড দ্য রেজিম অফ হিউম্যান রাইটস অ্যাবিউজেস।"
+            },
+            "position": 7,
+            "synonyms": "lawsuit, case, legal action, legal proceedings, court case, prosecution",
+            "antonyms": "agreement, arbitration, settlement, mediation, compromise, resolution",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মামলা",
+                    "word_transliteration": "mamla",
+                    "example_sentence_translation": "মামলাটি শাসনকে মানবাধিকার লঙ্ঘনের অভিযোগে অভিযুক্ত করেছে।",
+                    "example_sentence_transliteration": "Mamlati shashanke manbadhikar longhoner ovijoge ovijukto koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "deliberately",
+            "phonetic": "dɪˈlɪb.ər.ət.li",
+            "word_native_transliteration": {
+                "bn": "ডেলিবারেটলি"
+            },
+            "parts_of_speech": "adverb",
+            "emoji": "🎯",
+            "meaning": "Consciously and intentionally; on purpose.",
+            "example_sentence": "The actions were deliberately planned to cause harm.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যাকশনস ওয়ার ডেলিবারেটলি প্ল্যানড টু কজ হার্ম।"
+            },
+            "position": 8,
+            "synonyms": "intentionally, purposefully, consciously, knowingly, willfully, calculatedly",
+            "antonyms": "accidentally, unintentionally, inadvertently, unknowingly, spontaneously, randomly",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ইচ্ছাকৃতভাবে",
+                    "word_transliteration": "ichhakritobhabe",
+                    "example_sentence_translation": "ক্ষতি করার জন্য কাজগুলো ইচ্ছাকৃতভাবে পরিকল্পিত ছিল।",
+                    "example_sentence_transliteration": "Khoti korar jonno kajguloo ichhakritobhabe porikalpito chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "orchestrated",
+            "phonetic": "ˈɔː.kɪ.streɪ.tɪd",
+            "word_native_transliteration": {
+                "bn": "অর্কেস্ট্রেটেড"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🎼",
+            "meaning": "Planned or coordinated carefully and deliberately.",
+            "example_sentence": "The attacks were orchestrated with precision.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যাটাকস ওয়ার অর্কেস্ট্রেটেড উইথ প্রিসিশন।"
+            },
+            "position": 9,
+            "synonyms": "arranged, coordinated, organized, planned, managed, directed",
+            "antonyms": "disorganized, neglected, chaotic, random, spontaneous, unplanned",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিচালিত",
+                    "word_transliteration": "porichalit",
+                    "example_sentence_translation": "আক্রমণগুলি নিখুঁতভাবে পরিচালিত হয়েছিল।",
+                    "example_sentence_transliteration": "Akromonguli nikhuntobhabe porichalit hoyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "systematic strategy",
+            "phonetic": "ˌsɪs.təˈmæt.ɪk ˈstræt.ə.dʒi",
+            "word_native_transliteration": {
+                "bn": "সিস্টেম্যাটিক স্ট্র্যাটেজি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "A methodical and organized plan or approach to achieve specific objectives.",
+            "example_sentence": "A systematic strategy was employed to achieve objectives.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্য সিস্টেম্যাটিক স্ট্র্যাটেজি ওয়াস এমপ্লয়েড টু অ্যাচিভ অবজেক্টিভস।"
+            },
+            "position": 10,
+            "synonyms": "methodical plan, organized approach, structured method, coordinated scheme, deliberate design, strategic framework",
+            "antonyms": "chaotic tactics, random actions, disorganized approach, haphazard method, improvised plan, spontaneous action",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিকল্পিত কৌশল",
+                    "word_transliteration": "porikalpito koushal",
+                    "example_sentence_translation": "লক্ষ্য অর্জনে একটি পরিকল্পিত কৌশল প্রয়োগ করা হয়েছিল।",
+                    "example_sentence_transliteration": "Lokkho orjone ekti porikalpito koushal proyog kora hoyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "atrocities",
+            "phonetic": "əˈtrɒs.ɪ.tiz",
+            "word_native_transliteration": {
+                "bn": "অ্যাট্রোসিটিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💀",
+            "meaning": "Extremely wicked or cruel acts, typically involving physical violence or injury.",
+            "example_sentence": "The atrocities shocked the international community.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যাট্রোসিটিস শকড দ্য ইন্টারন্যাশনাল কমিউনিটি।"
+            },
+            "position": 11,
+            "synonyms": "cruelties, barbarities, brutalities, horrors, outrages, savageries",
+            "antonyms": "kindness, humanity, compassion, mercy, benevolence, gentleness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নৃশংসতা",
+                    "word_transliteration": "nrishongshota",
+                    "example_sentence_translation": "নৃশংসতাগুলো আন্তর্জাতিক সম্প্রদায়কে হতবাক করেছে।",
+                    "example_sentence_transliteration": "Nrishongshota guloo antorjatik shomprodyoke hotobak koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "condemn",
+            "phonetic": "kənˈdem",
+            "word_native_transliteration": {
+                "bn": "কন্ডেম"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "👎",
+            "meaning": "To express complete disapproval of; to censure.",
+            "example_sentence": "The leaders condemned the actions as inhumane.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য লিডারস কন্ডেমড দ্য অ্যাকশনস অ্যাজ ইনহিউমেন।"
+            },
+            "position": 12,
+            "synonyms": "criticize, denounce, censure, disapprove, reprove, rebuke",
+            "antonyms": "praise, approve, commend, endorse, support, applaud",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিন্দা করা",
+                    "word_transliteration": "ninda kora",
+                    "example_sentence_translation": "নেতারা কর্মকাণ্ডগুলোকে অমানবিক বলে নিন্দা করেছেন।",
+                    "example_sentence_transliteration": "Netara kormokandoguloke omanbik bole ninda korechhen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "categorically refuted",
+            "phonetic": "ˌkæt.əˈɡɒr.ɪ.kəl.i rɪˈfjuː.tɪd",
+            "word_native_transliteration": {
+                "bn": "ক্যাটাগরিক্যালি রিফিউটেড"
+            },
+            "parts_of_speech": "phrase",
+            "emoji": "❌",
+            "meaning": "Completely and absolutely denied or disproved.",
+            "example_sentence": "The claims were categorically refuted by officials.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ক্লেইমস ওয়ার ক্যাটাগরিক্যালি রিফিউটেড বাই অফিসিয়ালস।"
+            },
+            "position": 13,
+            "synonyms": "absolutely denied, completely rejected, totally dismissed, entirely disproved, thoroughly contradicted, flatly denied",
+            "antonyms": "accepted, confirmed, validated, acknowledged, endorsed, substantiated",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সম্পূর্ণ অস্বীকার করা",
+                    "word_transliteration": "shompurno osshikar kora",
+                    "example_sentence_translation": "অভিযোগগুলো সম্পূর্ণ অস্বীকার করা হয়েছিল।",
+                    "example_sentence_transliteration": "Ovijogguloo shompurno osshikar kora hoyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "legitimate self-defense",
+            "phonetic": "lɪˈdʒɪt.ɪ.mət sɛlf dɪˈfens",
+            "word_native_transliteration": {
+                "bn": "লেজিটিমেট সেলফ ডিফেন্স"
+            },
+            "parts_of_speech": "phrase",
+            "emoji": "🛡️",
+            "meaning": "Lawful protection of oneself from harm or attack.",
+            "example_sentence": "The country claimed it was legitimate self-defense.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কান্ট্রি ক্লেইমড ইট ওয়াস লেজিটিমেট সেলফ-ডিফেন্স।"
+            },
+            "position": 14,
+            "synonyms": "justifiable defense, lawful protection, rightful resistance, legal self-protection, valid defense, authorized protection",
+            "antonyms": "aggression, offense, attack, provocation, assault, invasion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৈধ আত্মরক্ষা",
+                    "word_transliteration": "boidho attorrokkha",
+                    "example_sentence_translation": "দেশটি দাবি করেছিল এটি বৈধ আত্মরক্ষা।",
+                    "example_sentence_transliteration": "Deshti dabi korechhilo eti boidho attorrokkha.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "adjudicative body",
+            "phonetic": "əˈdʒuː.dɪ.kə.tɪv ˈbɒd.i",
+            "word_native_transliteration": {
+                "bn": "অ্যাডজুডিকেটিভ বডি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "An official organization that has the authority to judge disputes and make decisions.",
+            "example_sentence": "The adjudicative body deliberated on the case.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যাডজুডিকেটিভ বডি ডেলিবারেটেড অন দ্য কেস।"
+            },
+            "position": 15,
+            "synonyms": "judicial panel, tribunal, court, arbitration board, review body, decision-making authority",
+            "antonyms": "lawless entity, unauthorized group, illegitimate organization, rogue body, unofficial assembly, unrecognized authority",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিচার সংস্থা",
+                    "word_transliteration": "bichar shongstha",
+                    "example_sentence_translation": "বিচার সংস্থা মামলাটি নিয়ে আলোচনা করে।",
+                    "example_sentence_transliteration": "Bichar shongstha mamlati niyo alochona kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "deliberations",
+            "phonetic": "dɪˌlɪb.əˈreɪ.ʃənz",
+            "word_native_transliteration": {
+                "bn": "ডেলিবারেশনস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤔",
+            "meaning": "Long and careful consideration or discussion of a matter.",
+            "example_sentence": "Deliberations lasted for several hours.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডেলিবারেশনস লাস্টেড ফর সেভারাল আওয়ারস।"
+            },
+            "position": 16,
+            "synonyms": "negotiations, considerations, discussions, consultations, reflections, examinations",
+            "antonyms": "haste, neglect, rush, impulsiveness, carelessness, thoughtlessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আলোচনা",
+                    "word_transliteration": "alochona",
+                    "example_sentence_translation": "আলোচনা কয়েক ঘণ্টা ধরে চলেছিল।",
+                    "example_sentence_transliteration": "Alochona koyeek ghonta dhore cholechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "jurisprudential benchmark",
+            "phonetic": "ˌdʒʊə.rɪs.pruːˈden.ʃəl ˈbentʃ.mɑːk",
+            "word_native_transliteration": {
+                "bn": "জুরিসপ্রুডেনশাল বেঞ্চমার্ক"
+            },
+            "parts_of_speech": "phrase",
+            "emoji": "📏",
+            "meaning": "A legal standard or precedent that serves as a reference point for future legal decisions.",
+            "example_sentence": "The decision set a jurisprudential benchmark.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডিসিশন সেট অ্য জুরিসপ্রুডেনশাল বেঞ্চমার্ক।"
+            },
+            "position": 17,
+            "synonyms": "legal standard, judicial precedent, legal milestone, jurisprudential precedent, legal framework, judicial guideline",
+            "antonyms": "irregularity, legal chaos, judicial inconsistency, lawlessness, legal vacuum, judicial arbitrariness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আইনগত মানদণ্ড",
+                    "word_transliteration": "aingoto mandondo",
+                    "example_sentence_translation": "সিদ্ধান্তটি একটি আইনগত মানদণ্ড স্থাপন করেছে।",
+                    "example_sentence_transliteration": "Siddhantoti ekti aingoto mandondo sthapn koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "humanitarian catastrophe",
+            "phonetic": "ˌhjuː.məˈnɪt.ər.i.kəˈtæs.trə.fi",
+            "word_native_transliteration": {
+                "bn": "হিউম্যানিটারিয়ান ক্যাটাস্ট্রফি"
+            },
+            "parts_of_speech": "phrase",
+            "emoji": "🆘",
+            "meaning": "A widespread disaster affecting human life, health, and well-being on a large scale.",
+            "example_sentence": "The war created a humanitarian catastrophe.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ওয়ার ক্রিয়েটেড অ্য হিউম্যানিটারিয়ান ক্যাটাস্ট্রফি।"
+            },
+            "position": 18,
+            "synonyms": "disaster, crisis, calamity, emergency, tragedy, human crisis",
+            "antonyms": "relief, salvation, recovery, prosperity, stability, peace",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মানবিক বিপর্যয়",
+                    "word_transliteration": "manobik biporjoy",
+                    "example_sentence_translation": "যুদ্ধ একটি মানবিক বিপর্যয় সৃষ্টি করেছে।",
+                    "example_sentence_transliteration": "Juddho ekti manobik biporjoy srishti koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "diplomatic resolution",
+            "phonetic": "ˌdɪp.ləˈmæt.ɪk rɛz.əˈluː.ʃən",
+            "word_native_transliteration": {
+                "bn": "ডিপ্লোম্যাটিক রেজলিউশন"
+            },
+            "parts_of_speech": "phrase",
+            "emoji": "🤝",
+            "meaning": "A peaceful solution to conflicts through negotiation and diplomatic channels.",
+            "example_sentence": "A diplomatic resolution is necessary for peace.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্য ডিপ্লোম্যাটিক রেজলিউশন ইজ নেসেসারি ফর পিস।"
+            },
+            "position": 19,
+            "synonyms": "negotiated settlement, peaceful solution, diplomatic agreement, political settlement, mediated resolution, peaceful accord",
+            "antonyms": "conflict, stalemate, deadlock, military solution, warfare, hostility",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কূটনৈতিক সমাধান",
+                    "word_transliteration": "kutnaitik somadhan",
+                    "example_sentence_translation": "শান্তির জন্য একটি কূটনৈতিক সমাধান প্রয়োজন।",
+                    "example_sentence_transliteration": "Shantir jonno ekti kutnaitik somadhan proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,364 @@
+{
+    "position": 38,
+    "title_translation": {
+        "en": "Jagadish Chandra Bose: The First Biophysicist",
+        "bn": "জগদীশচন্দ্র বসু: প্রথম জীবপদার্থবিজ্ঞানী"
+    },
+    "content_translation": {
+        "en": "At the end of the 19th century, when extensive **research** was being conducted in advanced **laboratories** in Europe and America, Jagadish Chandra Bose was fighting alone for **innovation** in India's **science-desert**. The path on which we are slowly beginning to walk today in **scientific discovery** was created by Jagadish Chandra through half a century of hard **dedication**.\n\nAt the end of 1909, when Guglielmo Marconi of Italy and Karl Ferdinand Braun of Germany were awarded the **Nobel Prize** in Physics, the whole world knew that the **wireless communication system** had been invented. However, Bengali **scientist** Jagadish Chandra Bose started fundamental **research** on **radio waves** much earlier than Marconi. He was the first in the world to successfully produce artificial **microwave** in 1895. Along with revolutionary **discoveries** in physics, Jagadish Chandra initiated research on **sensitivity**. He was the first to **experimentally** prove that plants also respond to **stimulus**.\n\nJagadish Chandra, a seeker of multifaceted science, had earned appropriate **recognition** in the assembly of world scientists. In 1927, London's Daily Express mentioned him as **equal** to Galileo and Newton. According to Albert Einstein, 'Jagadish Chandra has provided so much information for the advancement of science that **monuments** should be erected for any one of his contributions.'",
+        "bn": "ঊনবিংশ শতাব্দীর শেষ ভাগে ইউরোপ-আমেরিকার উন্নত **laboratories**-এ যখন ব্যাপক **research** চলছিল, সেই সময় ভারতের **science-desert**-এ **innovation**-এর জন্য একাই লড়ছিলেন জগদীশচন্দ্র বসু। আমরা আজ যে **scientific discovery**-এর পথে ধীরে ধীরে হাঁটতে শুরু করেছি, সেই পথ অর্ধশত বছরের কঠিন **dedication**-এ তৈরি করেছিলেন জগদীশচন্দ্র।\n\n১৯০৯ সালের শেষের দিকে ইতালির গুগ্লিয়েলমো মার্কনি আর জার্মানির কার্ল ফার্ডিন্যান্ড ব্রোনকে যখন পদার্থবিজ্ঞানে **Nobel Prize** দেওয়া হলো, তখন সারা বিশ্ব জানল যে **wireless communication system** আবিষ্কৃত হয়েছে। অথচ বাঙালি **scientist** জগদীশচন্দ্র বসু **radio waves** নিয়ে মৌলিক **research** শুরু করেন মার্কনিরও অনেক আগে। তিনিই ১৮৯৫ সালে বিশ্বে প্রথম কৃত্রিম **microwave** উৎপাদনে সাফল্য লাভ করেন। পদার্থবিজ্ঞানে যুগান্তকারী **discoveries**-এর পাশাপাশি **sensitivity** নিয়ে গবেষণার সূত্রপাত করেন জগদীশচন্দ্র। উদ্ভিদও যে **stimulus**-এ সাড়া দেয়, এ তথ্য তিনিই **experimentally** প্রমাণ করেন।\n\nবহুমুখী বিজ্ঞানের সাধক জগদীশচন্দ্র বিশ্ববিজ্ঞানীর আসরে যথোপযুক্ত **recognition** অর্জন করেছিলেন। ১৯২৭ সালে লন্ডনের ডেইলি এক্সপ্রেস তাঁকে গ্যালিলিও এবং নিউটনের **equal** হিসেবে উল্লেখ করেছে। আলবার্ট আইনস্টাইনের মতে, 'জগদীশচন্দ্র বিজ্ঞানের উন্নতির জন্য যত তথ্য দিয়েছেন, তাঁর যেকোনো টির জন্য **monuments** স্থাপন করা উচিত।'"
+    },
+    "list": [
+        {
+            "word": "laboratories",
+            "phonetic": "ˈlæbrətɔːriz",
+            "word_native_transliteration": {
+                "bn": "ল্যাবরেটরিজ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔬",
+            "meaning": "A room or building equipped for scientific experiments, research, or teaching, or for the manufacture of drugs or chemicals.",
+            "example_sentence": "Advanced laboratories enabled groundbreaking discoveries.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাডভান্সড ল্যাবরেটরিজ এনেবলড গ্রাউন্ডব্রেকিং ডিসকভারিজ।"
+            },
+            "position": 1,
+            "synonyms": "labs, research centers, facilities, workshops, institutes, establishments",
+            "antonyms": "none applicable",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গবেষণাগার",
+                    "word_transliteration": "gobeshonagar",
+                    "example_sentence_translation": "উন্নত গবেষণাগার যুগান্তকারী আবিষ্কার সম্ভব করেছে।",
+                    "example_sentence_transliteration": "Unnoto gobeshonagar yugantokari abishkar shombhob koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "research",
+            "phonetic": "rɪˈsɜːtʃ",
+            "word_native_transliteration": {
+                "bn": "রিসার্চ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📚",
+            "meaning": "The systematic investigation into and study of materials and sources in order to establish facts and reach new conclusions.",
+            "example_sentence": "Research on radio waves began earlier in India.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিসার্চ অন রেডিও ওয়েভস বেগ্যান আর্লিয়ার ইন ইন্ডিয়া।"
+            },
+            "position": 2,
+            "synonyms": "study, investigation, analysis, examination, inquiry, exploration",
+            "antonyms": "ignorance, neglect, assumption, guesswork, speculation, prejudice",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গবেষণা",
+                    "word_transliteration": "gobeshona",
+                    "example_sentence_translation": "রেডিও তরঙ্গ নিয়ে গবেষণা ভারতে আগেই শুরু হয়েছিল।",
+                    "example_sentence_transliteration": "Radio torongo niye gobeshona Bharote agei shuru hoyechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "science-desert",
+            "phonetic": "ˈsaɪəns ˈdezət",
+            "word_native_transliteration": {
+                "bn": "সায়েন্স-ডেজার্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏜️",
+            "meaning": "A region or area lacking in scientific development, research facilities, or educational institutions.",
+            "example_sentence": "J.C. Bose thrived in a science-desert.",
+            "example_sentence_native_transliteration": {
+                "bn": "জে সি বোস থ্রাইভড ইন অ্যা সায়েন্স-ডেজার্ট।"
+            },
+            "position": 3,
+            "synonyms": "undeveloped science zone, scientific wasteland, research void",
+            "antonyms": "science hub, research center, academic paradise",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিজ্ঞান-মরু",
+                    "word_transliteration": "bigyan-moru",
+                    "example_sentence_translation": "বিজ্ঞান-মরুতে জগদীশচন্দ্র বসু লড়াই করেছিলেন।",
+                    "example_sentence_transliteration": "Bigyan-morute Jagadishchondro Boshu lorai korechilon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "innovation",
+            "phonetic": "ˌɪnəˈveɪʃn",
+            "word_native_transliteration": {
+                "bn": "ইনোভেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💡",
+            "meaning": "The action or process of innovating; a new method, idea, product, etc.",
+            "example_sentence": "Innovation drove Bose's scientific work.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনোভেশন ড্রোভ বোস'স সায়েন্টিফিক ওয়ার্ক।"
+            },
+            "position": 4,
+            "synonyms": "invention, breakthrough, creativity, novelty, advancement, progress",
+            "antonyms": "stagnation, imitation, tradition, convention, repetition, copying",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্ভাবন",
+                    "word_transliteration": "udbhabon",
+                    "example_sentence_translation": "উদ্ভাবন বোসের বৈজ্ঞানিক কাজকে এগিয়ে নিয়েছে।",
+                    "example_sentence_transliteration": "Udbhabon Bosher boiggyanik kajke egiye niyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dedication",
+            "phonetic": "ˌdedɪˈkeɪʃn",
+            "word_native_transliteration": {
+                "bn": "ডেডিকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The quality of being dedicated or committed to a task or purpose; devotion.",
+            "example_sentence": "His dedication laid the foundation of Indian science.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিস ডেডিকেশন লেড দ্য ফাউন্ডেশন অফ ইন্ডিয়ান সায়েন্স।"
+            },
+            "position": 5,
+            "synonyms": "commitment, devotion, loyalty, persistence, determination, resolve",
+            "antonyms": "apathy, indifference, neglect, abandonment, carelessness, laziness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আত্মনিবেদন",
+                    "word_transliteration": "attmonibedon",
+                    "example_sentence_translation": "তাঁর আত্মনিবেদন ভারতীয় বিজ্ঞানের ভিত্তি স্থাপন করেছিল।",
+                    "example_sentence_transliteration": "Tar attmonibedon Bharotiyo bigganer bhitti sthapon korechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Nobel Prize",
+            "phonetic": "noʊˈbel praɪz",
+            "word_native_transliteration": {
+                "bn": "নোবেল প্রাইজ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏆",
+            "meaning": "Any of six international prizes awarded annually for outstanding work in physics, chemistry, physiology or medicine, literature, economics, and the promotion of peace.",
+            "example_sentence": "Nobel Prize recognition evaded Bose's contributions.",
+            "example_sentence_native_transliteration": {
+                "bn": "নোবেল প্রাইজ রেকগনিশন ইভেইডেড বোস'স কন্ট্রিবিউশনস।"
+            },
+            "position": 6,
+            "synonyms": "prestigious award, international honor, academic recognition",
+            "antonyms": "none applicable",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নোবেল পুরস্কার",
+                    "word_transliteration": "Nobel puroshkar",
+                    "example_sentence_translation": "নোবেল পুরস্কার বোসের অবদানে স্বীকৃতি দেয়নি।",
+                    "example_sentence_transliteration": "Nobel puroshkar Bosher obdane shikkriti deyni.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "discoveries",
+            "phonetic": "dɪˈskʌvəriz",
+            "word_native_transliteration": {
+                "bn": "ডিসকভারিজ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔍",
+            "meaning": "The action or process of finding or learning something for the first time; facts or things discovered.",
+            "example_sentence": "His discoveries revolutionized multiple fields.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিস ডিসকভারিজ রেভলিউশনাইজড মাল্টিপল ফিল্ডস।"
+            },
+            "position": 7,
+            "synonyms": "inventions, findings, revelations, breakthroughs, explorations, detections",
+            "antonyms": "losses, misplacements, concealment, ignorance, oversight, negligence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আবিষ্কার",
+                    "word_transliteration": "abishkar",
+                    "example_sentence_translation": "তাঁর আবিষ্কার বিভিন্ন ক্ষেত্রে বিপ্লব ঘটিয়েছে।",
+                    "example_sentence_transliteration": "Tar abishkar bibhinno khetre biplob ghotiyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sensitivity",
+            "phonetic": "ˌsensɪˈtɪvɪti",
+            "word_native_transliteration": {
+                "bn": "সেনসিটিভিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌱",
+            "meaning": "The quality or condition of being sensitive; responsiveness to stimuli.",
+            "example_sentence": "Bose proved plant sensitivity through experiments.",
+            "example_sentence_native_transliteration": {
+                "bn": "বোস প্রুভড প্ল্যান্ট সেনসিটিভিটি থ্রু এক্সপেরিমেন্টস।"
+            },
+            "position": 8,
+            "synonyms": "responsiveness, perception, awareness, susceptibility, reactivity, alertness",
+            "antonyms": "insensitivity, ignorance, numbness, indifference, unresponsiveness, apathy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংবেদনশীলতা",
+                    "word_transliteration": "shongbedonshilota",
+                    "example_sentence_translation": "বোস পরীক্ষার মাধ্যমে উদ্ভিদের সংবেদনশীলতা প্রমাণ করেন।",
+                    "example_sentence_transliteration": "Bose porikhar madhyome uddhider shongbedonshilota proman koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "stimulus",
+            "phonetic": "ˈstɪmjələs",
+            "word_native_transliteration": {
+                "bn": "স্টিমুলাস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "A thing or event that evokes a specific functional reaction in an organ or tissue.",
+            "example_sentence": "Plants respond to external stimulus.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্ল্যান্টস রেসপন্ড টু এক্সটার্নাল স্টিমুলাস।"
+            },
+            "position": 9,
+            "synonyms": "trigger, impulse, prompt, catalyst, motivator, incentive",
+            "antonyms": "hindrance, suppression, deterrent, inhibitor, obstacle, barrier",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্দীপনা",
+                    "word_transliteration": "uddipona",
+                    "example_sentence_translation": "উদ্ভিদ বাহ্যিক উদ্দীপনায় সাড়া দেয়।",
+                    "example_sentence_transliteration": "Uddhid bahyik uddiponay shara dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "experimentally",
+            "phonetic": "ɪkˌsperɪˈmentəli",
+            "word_native_transliteration": {
+                "bn": "এক্সপেরিমেন্টালি"
+            },
+            "parts_of_speech": "adverb",
+            "emoji": "🧪",
+            "meaning": "In a way that is based on or derived from experiment and observation rather than theory.",
+            "example_sentence": "Bose demonstrated findings experimentally.",
+            "example_sentence_native_transliteration": {
+                "bn": "বোস ডেমনস্ট্রেটেড ফাইন্ডিংস এক্সপেরিমেন্টালি।"
+            },
+            "position": 10,
+            "synonyms": "practically, empirically, through testing, observationally, scientifically",
+            "antonyms": "theoretically, hypothetically, speculatively, abstractly, conceptually",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরীক্ষামূলকভাবে",
+                    "word_transliteration": "porikhamulokbhabe",
+                    "example_sentence_translation": "বোস পরীক্ষামূলকভাবে ফলাফল প্রদর্শন করেন।",
+                    "example_sentence_transliteration": "Bose porikhamulokbhabe pholaphol proddorshon koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "recognition",
+            "phonetic": "ˌrekəɡˈnɪʃn",
+            "word_native_transliteration": {
+                "bn": "রেকগনিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏅",
+            "meaning": "Acknowledgment of the existence, validity, or legality of something; appreciation or acclaim for an achievement, service, or ability.",
+            "example_sentence": "He earned recognition after years of struggle.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি আর্নড রেকগনিশন আফটার ইয়ারস অফ স্ট্রাগল।"
+            },
+            "position": 11,
+            "synonyms": "acknowledgment, approval, appreciation, acclaim, honor, credit",
+            "antonyms": "denial, rejection, ignorance, dismissal, neglect, disregard",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বীকৃতি",
+                    "word_transliteration": "shikkriti",
+                    "example_sentence_translation": "বহু সংগ্রামের পর তিনি স্বীকৃতি পেয়েছিলেন।",
+                    "example_sentence_transliteration": "Bohu shongramer por tini shikkriti peyechilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "equal",
+            "phonetic": "ˈiːkwəl",
+            "word_native_transliteration": {
+                "bn": "ইকুয়াল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚖️",
+            "meaning": "Being the same in quantity, size, degree, or value; having the same status or treatment.",
+            "example_sentence": "Bose was regarded as Galileo's equal.",
+            "example_sentence_native_transliteration": {
+                "bn": "বোস ওয়াজ রেগার্ডেড অ্যাজ গ্যালিলিও'স ইকুয়াল।"
+            },
+            "position": 12,
+            "synonyms": "equivalent, peer, match, same, identical, comparable",
+            "antonyms": "unequal, inferior, superior, different, dissimilar, unmatched",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সমকক্ষ",
+                    "word_transliteration": "shomokkhyo",
+                    "example_sentence_translation": "বোসকে গ্যালিলিওর সমকক্ষ মনে করা হয়।",
+                    "example_sentence_transliteration": "Bosoke Galileor shomokkhyo mone kora hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "monument",
+            "phonetic": "ˈmɒnjʊmənt",
+            "word_native_transliteration": {
+                "bn": "মনুমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🗿",
+            "meaning": "A statue, building, or other structure erected to commemorate a notable person or event.",
+            "example_sentence": "A monument should honor his contributions.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যা মনুমেন্ট শুড অনর হিজ কন্ট্রিবিউশনস।"
+            },
+            "position": 13,
+            "synonyms": "memorial, edifice, statue, structure, commemoration, tribute",
+            "antonyms": "destruction, neglect, demolition, forgetting, erasure, abandonment",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্মৃতিস্তম্ভ",
+                    "word_transliteration": "smritistombho",
+                    "example_sentence_translation": "একটি স্মৃতিস্তম্ভ তাঁর অবদানকে সম্মান জানানো উচিত।",
+                    "example_sentence_transliteration": "Ekti smritistombho tar obdanke shomman janano uchit.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

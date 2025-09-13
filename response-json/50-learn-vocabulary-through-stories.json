@@ -1,0 +1,553 @@
+{
+    "position": 50,
+    "title_translation": {
+        "en": "Climate Action and Renewable Energy Commitments",
+        "bn": "জলবায়ু পদক্ষেপ এবং পুনর্নবীকরণযোগ্য শক্তির অঙ্গীকার"
+    },
+    "content_translation": {
+        "en": "In 2024, countries have adopted new **commitments** under the Paris Agreement to combat climate change. Due to the **intensification** of climate crisis, emphasis has been placed on **reduction** and **utilization** of renewable energy.\n\nIndia has set a **target** of 500 gigawatts of renewable **energy** production by 2030, of which 200 gigawatts have already been achieved. Additionally, they have developed **facilities** and formed **alliances**.\n\nAt the COP-29 **conference**, controversial discussions have taken place regarding climate **warnings** and fund-related **initiatives**. Countries have adopted new **strategies** for **mitigation**, **adaptation**, and carbon **neutrality**.\n\nThese **commitments** and **measures** will be **instrumental** in achieving the goals of the Paris Agreement. This will play a **significant** role in **progression** and sustainable development.",
+        "bn": "২০২৪ সালে প্যারিস চুক্তির আওতায় জলবায়ু পরিবর্তন মোকাবিলায় দেশগুলো নতুন **commitments** গ্রহণ করেছে। জলবায়ু সংকটের **intensification**-এর কারণে **reduction**, এবং পুনর্নবীকরণযোগ্য শক্তির **utilization**-এ জোর দেওয়া হয়েছে।\n\nভারত ২০৩০ সালের মধ্যে ৫০০ গিগাওয়াট পুনর্নবীকরণযোগ্য শক্তি উৎপাদনের **target** নির্ধারণ করেছে, যার মধ্যে ইতিমধ্যে ২০০ গিগাওয়াট অর্জিত হয়েছে। এছাড়া, তারা **facilities** উন্নয়ন এবং **alliance** গঠন করেছে।\n\nকপ-২৯ সম্মেলনে জলবায়ু **warning** এবং তহবিল সংক্রান্ত **initiatives** নিয়ে বিতর্কিত আলোচনা হয়েছে। দেশগুলো **mitigation**, **adaptation**, এবং কার্বন **neutrality**-এর দিকে নতুন **strategies** গ্রহণ করেছে।\n\nএই অঙ্গীকার এবং **measures** প্যারিস চুক্তির লক্ষ্য অর্জনে **instrumental** হবে। এটি **progression**, এবং টেকসই উন্নয়নে **significant** ভূমিকা রাখবে।"
+    },
+    "list": [
+        {
+            "word": "commitments",
+            "phonetic": "kəˈmɪt.mənts",
+            "word_native_transliteration": {
+                "bn": "কমিটমেন্টস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "Formal pledges or promises to do something, especially in terms of obligations or agreements.",
+            "example_sentence": "Global commitments to renewable energy are increasing.",
+            "example_sentence_native_transliteration": {
+                "bn": "গ্লোবাল কমিটমেন্টস টু রিনিউএবল এনার্জি আর ইনক্রিসিং।"
+            },
+            "position": 1,
+            "synonyms": "obligations, promises",
+            "antonyms": "neglect, refusal",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিশ্রুতি",
+                    "word_transliteration": "protishru ti",
+                    "example_sentence_translation": "পুনর্নবীকরণযোগ্য শক্তিতে বৈশ্বিক প্রতিশ্রুতি বাড়ছে।",
+                    "example_sentence_transliteration": "Punorbobikronyogyo shokti te boishbik protishru ti barche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "intensification",
+            "phonetic": "ɪnˌten.sɪ.fɪˈkeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ইনটেনসিফিকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "The process of becoming or making something more intense or extreme.",
+            "example_sentence": "The intensification of climate change requires urgent action.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইনটেনসিফিকেশন অফ ক্লাইমেট চেইঞ্জ রিকোয়ারস আর্জেন্ট অ্যাকশন।"
+            },
+            "position": 2,
+            "synonyms": "escalation, amplification",
+            "antonyms": "reduction, diminishment",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "তীব্রতা বৃদ্ধি",
+                    "word_transliteration": "tibro ta briddhi",
+                    "example_sentence_translation": "জলবায়ু পরিবর্তনের তীব্রতা বৃদ্ধি জরুরি পদক্ষেপ দাবি করে।",
+                    "example_sentence_transliteration": "Jolbayu poribortoner tibro ta briddhi joruri podokkhep dabi kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "reduction",
+            "phonetic": "rɪˈdʌk.ʃən",
+            "word_native_transliteration": {
+                "bn": "রিডাকশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📉",
+            "meaning": "The action or fact of making a specified thing smaller or less in amount, degree, or size.",
+            "example_sentence": "Greenhouse gas reduction is a primary global goal.",
+            "example_sentence_native_transliteration": {
+                "bn": "গ্রিনহাউস গ্যাস রিডাকশন ইজ এ প্রাইমারি গ্লোবাল গোল।"
+            },
+            "position": 3,
+            "synonyms": "decrease, minimization",
+            "antonyms": "increase, expansion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "হ্রাস",
+                    "word_transliteration": "hrash",
+                    "example_sentence_translation": "গ্রিনহাউস গ্যাস হ্রাস একটি প্রধান বৈশ্বিক লক্ষ্য।",
+                    "example_sentence_transliteration": "Greenhouse gas hrash ekti prodhan boishbik lokkho.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "utilization",
+            "phonetic": "ˌjuː.tɪ.laɪˈzeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ইউটিলাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "The action of making practical and effective use of something.",
+            "example_sentence": "Utilization of renewable energy is crucial for sustainability.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইউটিলাইজেশন অফ রিনিউএবল এনার্জি ইজ ক্রুশিয়াল ফর সাসটেইনেবিলিটি।"
+            },
+            "position": 4,
+            "synonyms": "application, employment",
+            "antonyms": "waste, neglect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ব্যবহার",
+                    "word_transliteration": "byobhar",
+                    "example_sentence_translation": "পুনর্নবীকরণযোগ্য শক্তির ব্যবহার টেকসইতায় অপরিহার্য।",
+                    "example_sentence_transliteration": "Punorbobikronyogyo shokti r byobhar teksoi tay oporiharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "renewable",
+            "phonetic": "rɪˈnjuː.ə.bəl",
+            "word_native_transliteration": {
+                "bn": "রিনিউএবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌱",
+            "meaning": "A source of energy that is not depleted when used, such as wind or solar power.",
+            "example_sentence": "Renewable energy is the future of global power.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিনিউএবল এনার্জি ইজ দ্য ফিউচার অফ গ্লোবাল পাওয়ার।"
+            },
+            "position": 5,
+            "synonyms": "sustainable, recyclable",
+            "antonyms": "nonrenewable, exhaustible",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুনর্নবীকরণযোগ্য",
+                    "word_transliteration": "punorbobikronyogyo",
+                    "example_sentence_translation": "পুনর্নবীকরণযোগ্য শক্তি বৈশ্বিক শক্তির ভবিষ্যৎ।",
+                    "example_sentence_transliteration": "Punorbobikronyogyo shokti boishbik shokti r bhabisyot.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "energy",
+            "phonetic": "ˈen.ə.dʒi",
+            "word_native_transliteration": {
+                "bn": "এনার্জি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "Power derived from the utilization of physical or chemical resources, especially to provide light and heat or to work machines.",
+            "example_sentence": "Clean energy sources help reduce pollution.",
+            "example_sentence_native_transliteration": {
+                "bn": "ক্লিন এনার্জি সোর্সেস হেল্প রিডিউস পলিউশন।"
+            },
+            "position": 6,
+            "synonyms": "power, electricity",
+            "antonyms": "weakness, exhaustion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শক্তি",
+                    "word_transliteration": "shokti",
+                    "example_sentence_translation": "পরিষ্কার শক্তি উৎস দূষণ কমাতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Porishkar shokti utso dushon komate shahayyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "target",
+            "phonetic": "ˈtɑː.ɡɪt",
+            "word_native_transliteration": {
+                "bn": "টার্গেট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "An object, person, or place selected as the aim of an attack or focus of attention.",
+            "example_sentence": "Achieving energy targets is critical for global progress.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাচিভিং এনার্জি টার্গেটস ইজ ক্রিটিক্যাল ফর গ্লোবাল প্রোগ্রেস।"
+            },
+            "position": 7,
+            "synonyms": "aim, objective",
+            "antonyms": "miss, avoidance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "লক্ষ্য",
+                    "word_transliteration": "lokkho",
+                    "example_sentence_translation": "শক্তি লক্ষ্য অর্জন বৈশ্বিক অগ্রগতির জন্য অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Shokti lokkho orjon boishbik ogrogorti r jonno otynoto guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "facilities",
+            "phonetic": "fəˈsɪl.ɪ.tiz",
+            "word_native_transliteration": {
+                "bn": "ফ্যাসিলিটিজ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏭",
+            "meaning": "Space, equipment, or services provided for a particular purpose.",
+            "example_sentence": "Facilities for renewable energy production are expanding.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফ্যাসিলিটিজ ফর রিনিউএবল এনার্জি প্রোডাকশন আর এক্সপান্ডিং।"
+            },
+            "position": 8,
+            "synonyms": "amenities, resources",
+            "antonyms": "barriers, hindrances",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সুবিধা",
+                    "word_transliteration": "subidha",
+                    "example_sentence_translation": "পুনর্নবীকরণযোগ্য শক্তি উৎপাদনের সুবিধা বাড়ছে।",
+                    "example_sentence_transliteration": "Punorbobikronyogyo shokti utpadoner subidha barche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "alliance",
+            "phonetic": "əˈlaɪ.əns",
+            "word_native_transliteration": {
+                "bn": "অ্যালায়েন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "A union or association formed for mutual benefit, especially between countries or organizations.",
+            "example_sentence": "Global alliances promote environmental sustainability.",
+            "example_sentence_native_transliteration": {
+                "bn": "গ্লোবাল অ্যালায়েন্সেস প্রমোট এনভায়রনমেন্টাল সাসটেইনেবিলিটি।"
+            },
+            "position": 9,
+            "synonyms": "coalition, partnership",
+            "antonyms": "division, rivalry",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জোট",
+                    "word_transliteration": "jot",
+                    "example_sentence_translation": "বৈশ্বিক জোট পরিবেশগত টেকসইতা কে উৎসাহিত করে।",
+                    "example_sentence_transliteration": "Boishbik jot poribeshgoto teksoi ta ke utsahit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "conference",
+            "phonetic": "ˈkɒn.fər.əns",
+            "word_native_transliteration": {
+                "bn": "কনফারেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏛️",
+            "meaning": "A formal meeting of people with a shared interest, typically one that takes place over several days.",
+            "example_sentence": "The climate conference emphasized renewable energy.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ক্লাইমেট কনফারেন্স এমফাসাইজড রিনিউএবল এনার্জি।"
+            },
+            "position": 10,
+            "synonyms": "meeting, symposium",
+            "antonyms": "isolation, disconnection",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সম্মেলন",
+                    "word_transliteration": "shommelon",
+                    "example_sentence_translation": "জলবায়ু সম্মেলনে পুনর্নবীকরণযোগ্য শক্তির ওপর জোর দেওয়া হয়।",
+                    "example_sentence_transliteration": "Jolbayu shommelone punorbobikronyogyo shokti r opor jor deoya hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "warning",
+            "phonetic": "ˈwɔː.nɪŋ",
+            "word_native_transliteration": {
+                "bn": "ওয়ার্নিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚠️",
+            "meaning": "A statement or event that indicates a possible or impending danger, problem, or other unpleasant situation.",
+            "example_sentence": "Warnings about rising temperatures demand urgent action.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওয়ার্নিংস অ্যাবাউট রাইজিং টেম্পারেচারস ডিমান্ড আর্জেন্ট অ্যাকশন।"
+            },
+            "position": 11,
+            "synonyms": "alert, notification",
+            "antonyms": "assurance, certainty",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সতর্কবার্তা",
+                    "word_transliteration": "shotor ko barta",
+                    "example_sentence_translation": "উচ্চ তাপমাত্রার সতর্কবার্তা জরুরি পদক্ষেপের দাবি করে।",
+                    "example_sentence_transliteration": "Uccho tapmatra r shotor ko barta joruri podokkheper dabi kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "initiatives",
+            "phonetic": "ɪˈnɪʃ.ə.tɪvz",
+            "word_native_transliteration": {
+                "bn": "ইনিশিয়েটিভস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💡",
+            "meaning": "An act or strategy intended to resolve a difficulty or improve a situation; a fresh approach to something.",
+            "example_sentence": "Climate initiatives focus on reducing carbon emissions.",
+            "example_sentence_native_transliteration": {
+                "bn": "ক্লাইমেট ইনিশিয়েটিভস ফোকাস অন রিডিউসিং কার্বন এমিশনস।"
+            },
+            "position": 12,
+            "synonyms": "actions, measures",
+            "antonyms": "inaction, neglect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্যোগ",
+                    "word_transliteration": "uddyog",
+                    "example_sentence_translation": "জলবায়ু উদ্যোগ কার্বন নিঃসরণ হ্রাসে মনোনিবেশ করে।",
+                    "example_sentence_transliteration": "Jolbayu uddyog carbon nihshoron hrash e mononibesh kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "mitigation",
+            "phonetic": "ˌmɪt.ɪˈɡeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "মিটিগেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛡️",
+            "meaning": "The action of reducing the severity, seriousness, or painfulness of something.",
+            "example_sentence": "Carbon mitigation strategies are essential for survival.",
+            "example_sentence_native_transliteration": {
+                "bn": "কার্বন মিটিগেশন স্ট্র্যাটেজিস আর এসেনশিয়াল ফর সারভাইভাল।"
+            },
+            "position": 13,
+            "synonyms": "alleviation, reduction",
+            "antonyms": "aggravation, escalation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রশমন",
+                    "word_transliteration": "proshmon",
+                    "example_sentence_translation": "কার্বন প্রশমন কৌশল টিকে থাকার জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Carbon proshmon koushol tike thakar jonno oporiharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "adaptation",
+            "phonetic": "ˌæd.æpˈteɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "অ্যাডাপটেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The action or process of adapting or being adapted.",
+            "example_sentence": "Adaptation to climate change is critical for resilience.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাডাপটেশন টু ক্লাইমেট চেইঞ্জ ইজ ক্রিটিক্যাল ফর রেজিলিয়েন্স।"
+            },
+            "position": 14,
+            "synonyms": "adjustment, accommodation",
+            "antonyms": "resistance, stagnation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অভিযোজন",
+                    "word_transliteration": "obbhiyojon",
+                    "example_sentence_translation": "জলবায়ু পরিবর্তনের অভিযোজন স্থিতিস্থাপকতার জন্য গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Jolbayu poribortoner obbhiyojon shtitishthapokta r jonno guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "neutrality",
+            "phonetic": "njuːˈtræl.ə.ti",
+            "word_native_transliteration": {
+                "bn": "নিউট্রালিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "The state of not supporting or helping either side in a conflict, disagreement, etc.; impartiality.",
+            "example_sentence": "Carbon neutrality is a global priority for sustainability.",
+            "example_sentence_native_transliteration": {
+                "bn": "কার্বন নিউট্রালিটি ইজ এ গ্লোবাল প্রায়োরিটি ফর সাসটেইনেবিলিটি।"
+            },
+            "position": 15,
+            "synonyms": "impartiality, objectivity",
+            "antonyms": "bias, partisanship",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিরপেক্ষতা",
+                    "word_transliteration": "niropekkho ta",
+                    "example_sentence_translation": "কার্বন নিরপেক্ষতা টেকসইতায় বৈশ্বিক অগ্রাধিকার।",
+                    "example_sentence_transliteration": "Carbon niropekkho ta teksoi tay boishbik ogrodhikar.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "strategies",
+            "phonetic": "ˈstræt.ə.dʒiz",
+            "word_native_transliteration": {
+                "bn": "স্ট্র্যাটেজিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📋",
+            "meaning": "A plan of action designed to achieve a long-term or overall aim.",
+            "example_sentence": "Effective strategies are needed to combat climate change.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইফেকটিভ স্ট্র্যাটেজিস আর নিডেড টু কমব্যাট ক্লাইমেট চেইঞ্জ।"
+            },
+            "position": 16,
+            "synonyms": "plans, tactics",
+            "antonyms": "improvisation, inaction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কৌশল",
+                    "word_transliteration": "koushol",
+                    "example_sentence_translation": "জলবায়ু পরিবর্তনের বিরুদ্ধে লড়াইয়ের জন্য কার্যকর কৌশল প্রয়োজন।",
+                    "example_sentence_transliteration": "Jolbayu poribortoner biruddhe lorai yer jonno karjokoro koushol proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "measures",
+            "phonetic": "ˈmeʒ.ərz",
+            "word_native_transliteration": {
+                "bn": "মেজারস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📏",
+            "meaning": "A plan or course of action taken to achieve a particular purpose.",
+            "example_sentence": "Mitigation measures focus on reducing emissions.",
+            "example_sentence_native_transliteration": {
+                "bn": "মিটিগেশন মেজারস ফোকাস অন রিডিউসিং এমিশনস।"
+            },
+            "position": 17,
+            "synonyms": "actions, initiatives",
+            "antonyms": "inaction, neglect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পদক্ষেপ",
+                    "word_transliteration": "podokkhep",
+                    "example_sentence_translation": "প্রশমন পদক্ষেপ নিঃসরণ হ্রাস মানেও যোগ দেয়।",
+                    "example_sentence_transliteration": "Proshmon podokkhep nihshoron hrash maneo yog dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "instrumental",
+            "phonetic": "ˌɪn.strəˈmen.təl",
+            "word_native_transliteration": {
+                "bn": "ইনস্ট্রুমেন্টাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔧",
+            "meaning": "Serving as a crucial means, agent, or tool in achieving something.",
+            "example_sentence": "Renewable energy is instrumental in combating climate change.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিনিউএবল এনার্জি ইজ ইনস্ট্রুমেন্টাল ইন কমব্যাটিং ক্লাইমেট চেইঞ্জ।"
+            },
+            "position": 18,
+            "synonyms": "helpful, influential",
+            "antonyms": "useless, unimportant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহায়ক",
+                    "word_transliteration": "shahayok",
+                    "example_sentence_translation": "পুনর্নবীকরণযোগ্য শক্তি জলবায়ু পরিবর্তনের বিরুদ্ধে লড়াইয়ে সহায়ক।",
+                    "example_sentence_transliteration": "Punorbobikronyogyo shokti jolbayu poribortoner biruddhe lorai ye shahayok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "progression",
+            "phonetic": "prəˈɡreʃ.ən",
+            "word_native_transliteration": {
+                "bn": "প্রোগ্রেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "The process of developing or moving gradually towards a more advanced state.",
+            "example_sentence": "Climate progression requires global cooperation.",
+            "example_sentence_native_transliteration": {
+                "bn": "ক্লাইমেট প্রোগ্রেশন রিকোয়ারস গ্লোবাল কোঅপারেশন।"
+            },
+            "position": 19,
+            "synonyms": "advancement, development",
+            "antonyms": "regression, stagnation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অগ্রগতি",
+                    "word_transliteration": "ogrago ti",
+                    "example_sentence_translation": "জলবায়ু অগ্রগতির জন্য বৈশ্বিক সহযোগিতা প্রয়োজন।",
+                    "example_sentence_transliteration": "Jolbayu ogrago ti r jonno boishbik shohyogita proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "significant",
+            "phonetic": "sɪɡˈnɪf.ɪ.kənt",
+            "word_native_transliteration": {
+                "bn": "সিগ্নিফিকেন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⭐",
+            "meaning": "Sufficiently great or important to be worthy of attention; noteworthy.",
+            "example_sentence": "Climate agreements have a significant impact on global policies.",
+            "example_sentence_native_transliteration": {
+                "bn": "ক্লাইমেট অ্যাগ্রিমেন্টস হ্যাভ এ সিগ্নিফিকেন্ট ইমপ্যাক্ট অন গ্লোবাল পলিসিস।"
+            },
+            "position": 20,
+            "synonyms": "important, noteworthy",
+            "antonyms": "insignificant, trivial",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গুরুত্বপূর্ণ",
+                    "word_transliteration": "guruttopurno",
+                    "example_sentence_translation": "জলবায়ু চুক্তিগুলো বৈশ্বিক নীতিতে গুরুত্বপূর্ণ প্রভাব ফেলে।",
+                    "example_sentence_transliteration": "Jolbayu chuktiguloo boishbik nitite guruttopurno prothab fele.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,472 @@
+{
+    "position": 40,
+    "title_translation": {
+        "en": "Mirsarai - Asia's Largest Economic Zone",
+        "bn": "মীরসরাই - এশিয়ার সবচেয়ে বড় ইকোনমিক জোন"
+    },
+    "content_translation": {
+        "en": "Bangladesh's largest **economic zone**, recognized as a **regional industrial hub**, is a crucial part of the country's **sustainable development**. It is ideal for conducting **diverse industrial activities** through **sector-specific zones**. Here **integrated facilities**, such as **residential**, **administrative**, and **commercial centers**, are included. It provides **strategic advantages** to increase **domestic** and international investments. This initiative has the potential to create **employment opportunities** and have a positive impact on **economic indicators**. It will play a significant role in GDP growth and be considered a **transformational milestone**.",
+        "bn": "বাংলাদেশের বৃহত্তম **economic zone**, যা **regional industrial hub** হিসেবে স্বীকৃত, দেশের **sustainable development**-এর একটি গুরুত্বপূর্ণ অংশ। এটি **sector-specific zones**-এর মাধ্যমে **diverse industrial activities** পরিচালনার জন্য আদর্শ। এখানে **integrated facilities**, যেমন **residential**, **administrative**, এবং **commercial centers**, অন্তর্ভুক্ত রয়েছে। এটি **domestic** এবং international investments বাড়াতে **strategic advantages** প্রদান করছে। এই উদ্যোগে **employment opportunities** তৈরি এবং **economic indicators**-এ ইতিবাচক প্রভাব ফেলার সম্ভাবনা রয়েছে। এটি GDP growth-এ উল্লেখযোগ্য ভূমিকা পালন করবে এবং একটি **transformational milestone** হিসেবে বিবেচিত।"
+    },
+    "list": [
+        {
+            "word": "economic",
+            "phonetic": "ˌiː.kəˈnɒm.ɪk",
+            "word_native_transliteration": {
+                "bn": "ইকোনমিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💰",
+            "meaning": "Relating to economics or the economy; concerning the organization of the money, industry, and trade of a country, region, or society.",
+            "example_sentence": "Economic policies drive development.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইকোনমিক পলিসিজ ড্রাইভ ডেভেলপমেন্ট।"
+            },
+            "position": 1,
+            "synonyms": "financial, monetary",
+            "antonyms": "non-financial, unproductive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অর্থনৈতিক",
+                    "word_transliteration": "orthonaitik",
+                    "example_sentence_translation": "অর্থনৈতিক নীতি উন্নয়নে সহায়ক।",
+                    "example_sentence_transliteration": "Orthonaitik niti unnoyono shahayok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "zone",
+            "phonetic": "zəʊn",
+            "word_native_transliteration": {
+                "bn": "জোন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏭",
+            "meaning": "An area or stretch of land having a particular characteristic, purpose, or use, or subject to particular restrictions.",
+            "example_sentence": "Industrial zones attract investments.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইন্ডাস্ট্রিয়াল জোনস অ্যাট্র্যাক্ট ইনভেস্টমেন্টস।"
+            },
+            "position": 2,
+            "synonyms": "region, territory",
+            "antonyms": "chaos, unzoned area",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অঞ্চল",
+                    "word_transliteration": "onchol",
+                    "example_sentence_translation": "শিল্প অঞ্চল বিনিয়োগ আকর্ষণ করে।",
+                    "example_sentence_transliteration": "Shilpo onchol biniyog akorshon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "regional",
+            "phonetic": "ˈriː.dʒən.əl",
+            "word_native_transliteration": {
+                "bn": "রিজিওনাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌏",
+            "meaning": "Relating to or characteristic of a region.",
+            "example_sentence": "Regional hubs support localized industries.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিজিওনাল হাবস সাপোর্ট লোকালাইজড ইন্ডাস্ট্রিজ।"
+            },
+            "position": 3,
+            "synonyms": "local, provincial",
+            "antonyms": "global, international",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আঞ্চলিক",
+                    "word_transliteration": "ancholic",
+                    "example_sentence_translation": "আঞ্চলিক কেন্দ্র স্থানীয় শিল্পকে সহায়তা করে।",
+                    "example_sentence_transliteration": "Ancholic kendro sthanio shilpoke shahayota kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "industrial",
+            "phonetic": "ɪnˈdʌs.tri.əl",
+            "word_native_transliteration": {
+                "bn": "ইন্ডাস্ট্রিয়াল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🏭",
+            "meaning": "Relating to or characterized by industry.",
+            "example_sentence": "Industrial sectors boost exports.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইন্ডাস্ট্রিয়াল সেক্টরস বুস্ট এক্সপোর্টস।"
+            },
+            "position": 4,
+            "synonyms": "manufacturing, factory-based",
+            "antonyms": "agricultural, artisanal",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শিল্প",
+                    "word_transliteration": "shilpo",
+                    "example_sentence_translation": "শিল্পখাত রপ্তানি বাড়ায়।",
+                    "example_sentence_transliteration": "Shilpokhato roptani baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sustainable",
+            "phonetic": "səˈsteɪ.nə.bəl",
+            "word_native_transliteration": {
+                "bn": "সাসটেইনেবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "♻️",
+            "meaning": "Able to be maintained at a certain rate or level; conserving an ecological balance by avoiding depletion of natural resources.",
+            "example_sentence": "Sustainable practices reduce environmental harm.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাসটেইনেবল প্র্যাক্টিসেস রিডিউস এনভায়রনমেন্টাল হার্ম।"
+            },
+            "position": 5,
+            "synonyms": "durable, renewable",
+            "antonyms": "unsustainable, short-lived",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "টেকসই",
+                    "word_transliteration": "teksoi",
+                    "example_sentence_translation": "টেকসই পদ্ধতি পরিবেশগত ক্ষতি কমায়।",
+                    "example_sentence_transliteration": "Teksoi poddhoti poribeshgoto khoti komay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "development",
+            "phonetic": "dɪˈvel.əp.mənt",
+            "word_native_transliteration": {
+                "bn": "ডেভেলপমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "The process of developing or being developed; a specified state of growth or advancement.",
+            "example_sentence": "Development initiatives foster innovation.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডেভেলপমেন্ট ইনিশিয়েটিভস ফস্টার ইনোভেশন।"
+            },
+            "position": 6,
+            "synonyms": "advancement, growth",
+            "antonyms": "decline, regression",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উন্নয়ন",
+                    "word_transliteration": "unnoyon",
+                    "example_sentence_translation": "উন্নয়ন উদ্যোগ উদ্ভাবন বাড়ায়।",
+                    "example_sentence_transliteration": "Unnoyon udyog udbhabon baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sector-specific",
+            "phonetic": "ˈsek.tər spəˈsɪf.ɪk",
+            "word_native_transliteration": {
+                "bn": "সেক্টর-স্পেসিফিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎯",
+            "meaning": "Relating to or designed for a particular sector or industry.",
+            "example_sentence": "Sector-specific policies attract targeted investments.",
+            "example_sentence_native_transliteration": {
+                "bn": "সেক্টর-স্পেসিফিক পলিসিজ অ্যাট্র্যাক্ট টার্গেটেড ইনভেস্টমেন্টস।"
+            },
+            "position": 7,
+            "synonyms": "industry-oriented, niche-based",
+            "antonyms": "generalized, broad-based",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "খাতভিত্তিক",
+                    "word_transliteration": "khatvittik",
+                    "example_sentence_translation": "খাতভিত্তিক নীতিমালা নির্দিষ্ট বিনিয়োগ আকর্ষণ করে।",
+                    "example_sentence_transliteration": "Khatvittik nitimala nirdishto biniyog akorshon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "diverse",
+            "phonetic": "daɪˈvɜːs",
+            "word_native_transliteration": {
+                "bn": "ডাইভার্স"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌈",
+            "meaning": "Showing a great deal of variety; very different.",
+            "example_sentence": "Diverse industries enhance economic resilience.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডাইভার্স ইন্ডাস্ট্রিজ এনহান্স ইকোনমিক রেজিলিয়েন্স।"
+            },
+            "position": 8,
+            "synonyms": "varied, multifaceted",
+            "antonyms": "uniform, similar",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৈচিত্র্যময়",
+                    "word_transliteration": "boichitromoy",
+                    "example_sentence_translation": "বৈচিত্র্যময় শিল্প অর্থনৈতিক স্থিতিশীলতা বাড়ায়।",
+                    "example_sentence_transliteration": "Boichitromoy shilpo orthonaitik sthitishilota baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "integrated",
+            "phonetic": "ˈɪn.tɪ.ɡreɪ.tɪd",
+            "word_native_transliteration": {
+                "bn": "ইন্টিগ্রেটেড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔗",
+            "meaning": "Combining or coordinating separate elements so as to provide a harmonious, interrelated whole.",
+            "example_sentence": "Integrated systems optimize efficiency.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইন্টিগ্রেটেড সিস্টেমস অপটিমাইজ এফিশিয়েন্সি।"
+            },
+            "position": 9,
+            "synonyms": "unified, combined",
+            "antonyms": "separated, fragmented",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সমন্বিত",
+                    "word_transliteration": "somonnito",
+                    "example_sentence_translation": "সমন্বিত ব্যবস্থা দক্ষতা বাড়ায়।",
+                    "example_sentence_transliteration": "Somonnito bebostha dokkhota baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "facilities",
+            "phonetic": "fəˈsɪl.ɪ.tiz",
+            "word_native_transliteration": {
+                "bn": "ফ্যাসিলিটিজ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏢",
+            "meaning": "A place, amenity, or piece of equipment provided for a particular purpose.",
+            "example_sentence": "Facilities improve industrial productivity.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফ্যাসিলিটিজ ইমপ্রুভ ইন্ডাস্ট্রিয়াল প্রোডাক্টিভিটি।"
+            },
+            "position": 10,
+            "synonyms": "amenities, infrastructure",
+            "antonyms": "hindrances, barriers",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সুবিধাসমূহ",
+                    "word_transliteration": "subidhasomuho",
+                    "example_sentence_translation": "সুবিধাগুলি শিল্প উৎপাদনশীলতা বাড়ায়।",
+                    "example_sentence_transliteration": "Subidhaguli shilpo utpadonsheelota baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "residential",
+            "phonetic": "ˌrez.ɪˈden.ʃəl",
+            "word_native_transliteration": {
+                "bn": "রেসিডেনশিয়াল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🏠",
+            "meaning": "Designed for people to live in; relating to housing.",
+            "example_sentence": "Residential areas complement industrial zones.",
+            "example_sentence_native_transliteration": {
+                "bn": "রেসিডেনশিয়াল এরিয়াস কমপ্লিমেন্ট ইন্ডাস্ট্রিয়াল জোনস।"
+            },
+            "position": 11,
+            "synonyms": "domestic, dwelling-related",
+            "antonyms": "commercial, public",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আবাসিক",
+                    "word_transliteration": "abasik",
+                    "example_sentence_translation": "আবাসিক এলাকা শিল্প অঞ্চলের পরিপূরক।",
+                    "example_sentence_transliteration": "Abasik elaka shilpo oncholor poriporok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "administrative",
+            "phonetic": "ədˈmɪn.ɪ.strə.tɪv",
+            "word_native_transliteration": {
+                "bn": "অ্যাডমিনিস্ট্রেটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📋",
+            "meaning": "Relating to the running of a business, organization, etc.; executive.",
+            "example_sentence": "Administrative reforms enhance governance.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাডমিনিস্ট্রেটিভ রিফর্মস এনহান্স গভার্নেন্স।"
+            },
+            "position": 12,
+            "synonyms": "managerial, bureaucratic",
+            "antonyms": "non-managerial, unorganized",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রশাসনিক",
+                    "word_transliteration": "proshasonik",
+                    "example_sentence_translation": "প্রশাসনিক সংস্কার শাসনকে উন্নত করে।",
+                    "example_sentence_transliteration": "Proshasonik shongskar shasonke unnoto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "commercial",
+            "phonetic": "kəˈmɜː.ʃəl",
+            "word_native_transliteration": {
+                "bn": "কমার্শিয়াল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🛒",
+            "meaning": "Concerned with or engaged in commerce; having profit as a primary aim rather than artistic or other value.",
+            "example_sentence": "Commercial hubs attract investments.",
+            "example_sentence_native_transliteration": {
+                "bn": "কমার্শিয়াল হাবস অ্যাট্র্যাক্ট ইনভেস্টমেন্টস।"
+            },
+            "position": 13,
+            "synonyms": "trade-related, mercantile",
+            "antonyms": "non-commercial, non-trade",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাণিজ্যিক",
+                    "word_transliteration": "banijjik",
+                    "example_sentence_translation": "বাণিজ্যিক কেন্দ্র বিনিয়োগ আকর্ষণ করে।",
+                    "example_sentence_transliteration": "Banijjik kendro biniyog akorshon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "centers",
+            "phonetic": "ˈsen.tərz",
+            "word_native_transliteration": {
+                "bn": "সেন্টারস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The middle point of a circle or sphere, equidistant from every point on the circumference or surface; a place or group of buildings where a specified activity is concentrated.",
+            "example_sentence": "Centers drive regional development.",
+            "example_sentence_native_transliteration": {
+                "bn": "সেন্টারস ড্রাইভ রিজিওনাল ডেভেলপমেন্ট।"
+            },
+            "position": 14,
+            "synonyms": "hubs, focal points",
+            "antonyms": "peripheries, outskirts",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কেন্দ্র",
+                    "word_transliteration": "kendro",
+                    "example_sentence_translation": "কেন্দ্র আঞ্চলিক উন্নয়নকে পরিচালিত করে।",
+                    "example_sentence_transliteration": "Kendro ancholic unnoyonke porichalito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "domestic",
+            "phonetic": "dəˈmes.tɪk",
+            "word_native_transliteration": {
+                "bn": "ডোমেস্টিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🏠",
+            "meaning": "Existing or occurring inside a particular country; not foreign or international.",
+            "example_sentence": "Domestic investments stabilize the economy.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডোমেস্টিক ইনভেস্টমেন্টস স্ট্যাবিলাইজ দ্য ইকোনমি।"
+            },
+            "position": 15,
+            "synonyms": "internal, national",
+            "antonyms": "international, foreign",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অভ্যন্তরীণ",
+                    "word_transliteration": "obhyontorin",
+                    "example_sentence_translation": "অভ্যন্তরীণ বিনিয়োগ অর্থনীতিকে স্থিতিশীল করে।",
+                    "example_sentence_transliteration": "Obhyontorin biniyog orthnitike sthitisheel kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "strategic",
+            "phonetic": "strəˈtiː.dʒɪk",
+            "word_native_transliteration": {
+                "bn": "স্ট্র্যাটেজিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "♟️",
+            "meaning": "Relating to the identification of long-term or overall aims and interests and the means of achieving them.",
+            "example_sentence": "Strategic policies enhance competitiveness.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্ট্র্যাটেজিক পলিসিজ এনহান্স কমপিটিটিভনেস।"
+            },
+            "position": 16,
+            "synonyms": "tactical, planned",
+            "antonyms": "unplanned, haphazard",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কৌশলগত",
+                    "word_transliteration": "kousholgooto",
+                    "example_sentence_translation": "কৌশলগত নীতিমালা প্রতিযোগিতা বাড়ায়।",
+                    "example_sentence_transliteration": "Kousholgooto nitimala protijogita baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "transformational",
+            "phonetic": "ˌtræns.fəˈmeɪ.ʃən.əl",
+            "word_native_transliteration": {
+                "bn": "ট্রান্সফরমেশনাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔄",
+            "meaning": "Causing or able to cause an important and lasting change in someone or something.",
+            "example_sentence": "Transformational projects redefine progress.",
+            "example_sentence_native_transliteration": {
+                "bn": "ট্রান্সফরমেশনাল প্রোজেক্টস রিডিফাইন প্রোগ্রেস।"
+            },
+            "position": 17,
+            "synonyms": "revolutionary, groundbreaking",
+            "antonyms": "traditional, stagnant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রূপান্তরমূলক",
+                    "word_transliteration": "rupantormulok",
+                    "example_sentence_translation": "রূপান্তরমূলক প্রকল্প অগ্রগতিকে নতুন করে সংজ্ঞায়িত করে।",
+                    "example_sentence_transliteration": "Rupantormulok prokolpo ogragorike notun kore shongggayito kore.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

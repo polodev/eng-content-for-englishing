@@ -1,0 +1,310 @@
+{
+    "position": 45,
+    "title_translation": {
+        "en": "The British Thought of Leaving India",
+        "bn": "ব্রিটিশদের ভারত ছাড়ার চিন্তা"
+    },
+    "content_translation": {
+        "en": "During the Second World War, it became **evident** that the British had to leave India.\n\nAccording to the **strategy** of the then British government, they had to **transfer** power of the Indian subcontinent before June 30, 1948.\n\nAt that time, young **leader** Sheikh Mujibur Rahman was **active** in the Pakistan movement. Later he became the founding **leader** of Bangladesh.\n\nHe witnessed the **partition** of India-Pakistan from within. Sheikh Mujib gave a **description** of this in his book 'Unfinished Autobiography'.\n\nHe wrote that during the Second World War, Britain's then Prime Minister Winston Churchill had **dispatched** a delegation to the Indian subcontinent, which was called the Cripps Mission. But it had no **impact**.\n\nAfter the Second World War, when Clement Attlee became Britain's Prime Minister from the Labour Party, he **announced** a Cabinet Mission of three ministers on March 15, 1946.\n\nIt was said that this mission would come to the Indian subcontinent and have **consultation** with various parties to try to give independence to the Indian subcontinent as soon as possible.",
+        "bn": "দ্বিতীয় বিশ্বযুদ্ধ চলার সময়ই **evident** হয়েছিল যে, ব্রিটিশদের ভারত ছাড়তে হবে।\n\nতৎকালীন ব্রিটিশ সরকারের **strategy** অনুযায়ী, ১৯৪৮ সালের ৩০শে জুনের আগেই তাদেরকে ভারতবর্ষের ক্ষমতা **transfer** করতে হবে।\n\nসে সময় তরুণ নেতা শেখ মুজিবুর রহমান পাকিস্তান আন্দোলনে **active** ছিলেন। পরবর্তী সময়ে তিনি হন বাংলাদেশের প্রতিষ্ঠাতা **leader**।\n\nতিনি একেবারে ভেতর থেকে দেখেছেন ভারত-পাকিস্তান **partition**-এর ঘটনাবলী। শেখ মুজিব তাঁর 'অসমাপ্ত আত্মজীবনী' বইয়ে **description** দিয়েছেন।\n\nতিনি লেখেছেন, দ্বিতীয় বিশ্বযুদ্ধ চলার সময় ব্রিটেনের তখনকার প্রধানমন্ত্রী উইনস্টন চার্চিল ভারতবর্ষে একটি প্রতিনিধি দল **dispatched** করেছিলেন, সেটির নাম ছিল ক্রিপস মিশন। কিন্তু তাতে কোন **impact** হয়নি।\n\nদ্বিতীয় বিশ্বযুদ্ধের পর ক্লেমেন্ট অ্যাটলি যখন লেবার পার্টির পক্ষ থেকে ব্রিটেনের প্রধানমন্ত্রী হন, তখন তিনি ১৯৪৬ সালের ১৫ই মার্চ তিনজন মন্ত্রীর সমন্বয়ে ক্যাবিনেট মিশন **announced** করেন।\n\nবলা হয়েছিল, এই মিশন ভারতবর্ষে এসে বিভিন্ন দলের সাথে **consultation** করে ভারতবর্ষকে যত তাড়াতাড়ি সম্ভব স্বাধীনতা দেওয়া যায়-সেই চেষ্টা করবে।"
+    },
+    "list": [
+        {
+            "word": "evident",
+            "phonetic": "ˈɛvɪdənt",
+            "word_native_transliteration": {
+                "bn": "এভিডেন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "👁️",
+            "meaning": "Clearly seen or understood; obvious.",
+            "example_sentence": "The result was evident.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রেজাল্ট ওয়াজ এভিডেন্ট।"
+            },
+            "position": 1,
+            "synonyms": "clear, apparent, obvious, plain, visible",
+            "antonyms": "obscure, hidden, unclear, vague",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সুস্পষ্ট",
+                    "word_transliteration": "shushposhto",
+                    "example_sentence_translation": "ফলাফল সুস্পষ্ট ছিল।",
+                    "example_sentence_transliteration": "Folafol shushposhto chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "strategy",
+            "phonetic": "ˈstrætədʒi",
+            "word_native_transliteration": {
+                "bn": "স্ট্র্যাটেজি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "A plan of action designed to achieve a long-term or overall aim.",
+            "example_sentence": "The strategy ensured success.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্ট্র্যাটেজি এনশিউরড সাকসেস।"
+            },
+            "position": 2,
+            "synonyms": "plan, tactic, approach, method, scheme",
+            "antonyms": "chaos, improvisation, disorder",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কৌশল",
+                    "word_transliteration": "koushol",
+                    "example_sentence_translation": "কৌশল সফলতা নিশ্চিত করেছিল।",
+                    "example_sentence_transliteration": "Koushol shofolota nishchito korechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "transfer",
+            "phonetic": "ˈtrænsfər",
+            "word_native_transliteration": {
+                "bn": "ট্রান্সফার"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔄",
+            "meaning": "To move from one place to another; to hand over.",
+            "example_sentence": "Power transfer was necessary.",
+            "example_sentence_native_transliteration": {
+                "bn": "পাওয়ার ট্রান্সফার ওয়াজ নেসেসারি।"
+            },
+            "position": 3,
+            "synonyms": "shift, relocate, move, convey, transport",
+            "antonyms": "retain, keep, hold, maintain",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "হস্তান্তর করা",
+                    "word_transliteration": "hostantor kora",
+                    "example_sentence_translation": "ক্ষমতা হস্তান্তর প্রয়োজনীয় ছিল।",
+                    "example_sentence_transliteration": "Khomota hostantor proyojoniyo chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "active",
+            "phonetic": "ˈæktɪv",
+            "word_native_transliteration": {
+                "bn": "অ্যাক্টিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚡",
+            "meaning": "Engaging or ready to engage in physically energetic pursuits; participating.",
+            "example_sentence": "He was active in movements.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি ওয়াজ অ্যাক্টিভ ইন মুভমেন্টস।"
+            },
+            "position": 4,
+            "synonyms": "energetic, dynamic, busy, lively, engaged",
+            "antonyms": "passive, inactive, idle, dormant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সক্রিয়",
+                    "word_transliteration": "shokrio",
+                    "example_sentence_translation": "তিনি আন্দোলনে সক্রিয় ছিলেন।",
+                    "example_sentence_transliteration": "Tini andolone shokrio chhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "leader",
+            "phonetic": "ˈliːdər",
+            "word_native_transliteration": {
+                "bn": "লিডার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👨‍💼",
+            "meaning": "A person who leads or commands a group, organization, or country.",
+            "example_sentence": "The leader inspired people.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য লিডার ইনস্পায়ারড পিপল।"
+            },
+            "position": 5,
+            "synonyms": "head, guide, chief, commander, director",
+            "antonyms": "follower, subordinate, supporter",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নেতা",
+                    "word_transliteration": "neta",
+                    "example_sentence_translation": "নেতা মানুষকে অনুপ্রাণিত করেছিলেন।",
+                    "example_sentence_transliteration": "Neta manushke onupranioto korechilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "partition",
+            "phonetic": "pɑrˈtɪʃən",
+            "word_native_transliteration": {
+                "bn": "পার্টিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚧",
+            "meaning": "The action of dividing or being divided into parts; separation.",
+            "example_sentence": "Partition caused unrest.",
+            "example_sentence_native_transliteration": {
+                "bn": "পার্টিশন কজড আনরেস্ট।"
+            },
+            "position": 6,
+            "synonyms": "division, separation, split, segregation",
+            "antonyms": "union, unity, merger, integration",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিভাজন",
+                    "word_transliteration": "bibhajon",
+                    "example_sentence_translation": "বিভাজন অশান্তি সৃষ্টি করেছিল।",
+                    "example_sentence_transliteration": "Bibhajon oshanti srishti korechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "description",
+            "phonetic": "dɪˈskrɪpʃən",
+            "word_native_transliteration": {
+                "bn": "ডেসক্রিপশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📝",
+            "meaning": "A spoken or written account of a person, object, or event.",
+            "example_sentence": "His description was vivid.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ডেসক্রিপশন ওয়াজ ভিভিড।"
+            },
+            "position": 7,
+            "synonyms": "explanation, account, portrayal, depiction",
+            "antonyms": "concealment, omission, silence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বর্ণনা",
+                    "word_transliteration": "bornona",
+                    "example_sentence_translation": "তার বর্ণনা ছিল স্পষ্ট।",
+                    "example_sentence_transliteration": "Tar bornona chhilo sposhto.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dispatched",
+            "phonetic": "dɪˈspætʃt",
+            "word_native_transliteration": {
+                "bn": "ডিসপ্যাচড"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📤",
+            "meaning": "To send off to a destination or for a purpose.",
+            "example_sentence": "A team was dispatched quickly.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ টিম ওয়াজ ডিসপ্যাচড কুইক্লি।"
+            },
+            "position": 8,
+            "synonyms": "sent, deployed, forwarded, transmitted",
+            "antonyms": "recalled, withheld, retained",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রেরণ করা",
+                    "word_transliteration": "preron kora",
+                    "example_sentence_translation": "একটি দল দ্রুত প্রেরণ করা হয়।",
+                    "example_sentence_transliteration": "Ekti dol druto preron kora hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "impact",
+            "phonetic": "ˈɪmpækt",
+            "word_native_transliteration": {
+                "bn": "ইমপ্যাক্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💥",
+            "meaning": "A strong effect or influence; the action of one object coming forcibly into contact with another.",
+            "example_sentence": "The decision had great impact.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডিসিশন হ্যাড গ্রেট ইমপ্যাক্ট।"
+            },
+            "position": 9,
+            "synonyms": "effect, influence, consequence, result",
+            "antonyms": "neglect, avoidance, insignificance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রভাব",
+                    "word_transliteration": "probhab",
+                    "example_sentence_translation": "সিদ্ধান্তের বড় প্রভাব ছিল।",
+                    "example_sentence_transliteration": "Siddhanter boro probhab chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "announced",
+            "phonetic": "əˈnaʊnst",
+            "word_native_transliteration": {
+                "bn": "অ্যানাউন্সড"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📢",
+            "meaning": "To make a public and typically formal declaration about a fact, occurrence, or intention.",
+            "example_sentence": "The mission was announced publicly.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য মিশন ওয়াজ অ্যানাউন্সড পাবলিকলি।"
+            },
+            "position": 10,
+            "synonyms": "declared, proclaimed, revealed, disclosed",
+            "antonyms": "withheld, concealed, suppressed",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ঘোষণা করা",
+                    "word_transliteration": "ghoshona kora",
+                    "example_sentence_translation": "মিশনটি প্রকাশ্যে ঘোষণা করা হয়।",
+                    "example_sentence_transliteration": "Mishonti prokashye ghoshona kora hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "consultation",
+            "phonetic": "ˌkɒnsəlˈteɪʃən",
+            "word_native_transliteration": {
+                "bn": "কনসালটেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "The action of consulting or discussing; a meeting with an expert or professional to seek advice.",
+            "example_sentence": "Consultation was essential.",
+            "example_sentence_native_transliteration": {
+                "bn": "কনসালটেশন ওয়াজ এসেনশিয়াল।"
+            },
+            "position": 11,
+            "synonyms": "discussion, deliberation, conference, meeting",
+            "antonyms": "disagreement, conflict, dispute",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরামর্শ",
+                    "word_transliteration": "poramorsho",
+                    "example_sentence_translation": "পরামর্শ ছিল অপরিহার্য।",
+                    "example_sentence_transliteration": "Poramorsho chhilo oporiharjo.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

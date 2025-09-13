@@ -1,0 +1,526 @@
+{
+    "position": 48,
+    "title_translation": {
+        "en": "Learn Vocabulary Through Stories - Asian Cup Football 2024",
+        "bn": "গল্পের মাধ্যমে শব্দভাণ্ডার শিখুন - এশিয়ান কাপ ফুটবল ২০২৪"
+    },
+    "content_translation": {
+        "en": "The 18th **Asian Cup Football** was held in Qatar in 2024, where 24 teams participated. In the final, the host team defeated their opponents 3-1 through their **exceptional performance**. **Hat-trick scorer** Akram Afif was selected as **player of the tournament**.\n\nAmong the participating powerful teams in the tournament, the hosts maintained their lead through **strategic gameplay** and **consistent performance**. Their **dominance** reflects improved **standards** and **innovative strategies** in Asian football.\n\nThis tournament once again proved their **prowess** in football and played an important role in increasing the **global recognition** of Asian football. It was a **memorable tournament** for football lovers, which ensures their **unassailable position** in Asian football in the **future**.",
+        "bn": "১৮তম **এশিয়ান কাপ ফুটবল** ২০২৪ সালে কাতারে অনুষ্ঠিত হয়, যেখানে ২৪টি দল অংশগ্রহণ করে। ফাইনালে স্বাগতিক দল তাদের **exceptional performance**-এর মাধ্যমে প্রতিদ্বন্দ্বী দলকে ৩-১ ব্যবধানে পরাজিত করে। **Hat-trick scorer** আকরাম আফিফ **player of the tournament** নির্বাচিত হন।\n\nটুর্নামেন্টে অংশগ্রহণকারী শক্তিশালী দলগুলোর মধ্যে, স্বাগতিকরা তাদের **strategic gameplay** এবং **consistent performance** দিয়ে শিরোপা ধরে রাখে। তাদের **dominance** এশিয়ান ফুটবলে উন্নত **standards** এবং **innovative strategies**-এর প্রতিফলন।\n\nএই আসরটি ফুটবলে তাদের **prowess** পুনরায় প্রমাণ করে এবং এশিয়ার ফুটবলের **global recognition** বাড়াতে গুরুত্বপূর্ণ ভূমিকা রাখে। এটি ফুটবলপ্রেমীদের জন্য একটি **memorable tournament**, যা ভবিষ্যতে এশিয়ার ফুটবলে তাদের **unassailable position** নিশ্চিত করে।"
+    },
+    "list": [
+        {
+            "word": "exceptional",
+            "phonetic": "ɪkˈsep.ʃən.əl",
+            "word_native_transliteration": {
+                "bn": "এক্সেপশনাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⭐",
+            "meaning": "Unusually good; outstanding; better than what is normal or expected.",
+            "example_sentence": "Exceptional skills ensure success.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সেপশনাল স্কিলস এনশিওর সাকসেস।"
+            },
+            "position": 1,
+            "synonyms": "outstanding, remarkable",
+            "antonyms": "ordinary, average",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ব্যতিক্রমী",
+                    "word_transliteration": "byotikromi",
+                    "example_sentence_translation": "ব্যতিক্রমী দক্ষতা সাফল্য নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Byotikromi dokkhota shafolyo nishchito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "participating",
+            "phonetic": "pɑːˈtɪs.ɪ.peɪ.tɪŋ",
+            "word_native_transliteration": {
+                "bn": "পার্টিসিপেটিং"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🤝",
+            "meaning": "Taking part in or becoming involved in an activity or event.",
+            "example_sentence": "Participating teams showcased their skills.",
+            "example_sentence_native_transliteration": {
+                "bn": "পার্টিসিপেটিং টিমস শোকেসড দেয়ার স্কিলস।"
+            },
+            "position": 2,
+            "synonyms": "engaging, contributing",
+            "antonyms": "ignoring, avoiding",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অংশগ্রহণ",
+                    "word_transliteration": "ongshogroho",
+                    "example_sentence_translation": "অংশগ্রহণকারী দলগুলি তাদের দক্ষতা প্রদর্শন করেছে।",
+                    "example_sentence_transliteration": "Ongshogrohokari dolgouli tader dokkhota prodorshon koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "strong",
+            "phonetic": "strɒŋ",
+            "word_native_transliteration": {
+                "bn": "স্ট্রং"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💪",
+            "meaning": "Having the power to move heavy weights or perform other physically demanding tasks.",
+            "example_sentence": "A strong defense secures victory.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ স্ট্রং ডিফেন্স সিকিউরস ভিক্টরি।"
+            },
+            "position": 3,
+            "synonyms": "robust, powerful",
+            "antonyms": "weak, fragile",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শক্তিশালী",
+                    "word_transliteration": "shokti-shali",
+                    "example_sentence_translation": "একটি শক্তিশালী প্রতিরক্ষা বিজয় নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Ekti shokti-shali protiroksha bijoy nishchito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "strategic",
+            "phonetic": "strəˈtiː.dʒɪk",
+            "word_native_transliteration": {
+                "bn": "স্ট্র্যাটেজিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎯",
+            "meaning": "Relating to the identification of long-term or overall aims and interests and the means of achieving them.",
+            "example_sentence": "Strategic planning improves results.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্ট্র্যাটেজিক প্ল্যানিং ইমপ্রুভস রিজাল্টস।"
+            },
+            "position": 4,
+            "synonyms": "tactical, planned",
+            "antonyms": "unplanned, random",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কৌশলগত",
+                    "word_transliteration": "kousholgoto",
+                    "example_sentence_translation": "কৌশলগত পরিকল্পনা ফলাফল উন্নত করে।",
+                    "example_sentence_transliteration": "Kousholgoto porikolpona pholafol unnoto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "gameplay",
+            "phonetic": "ˈɡeɪm.pleɪ",
+            "word_native_transliteration": {
+                "bn": "গেমপ্লে"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎮",
+            "meaning": "The tactical aspects of a game, such as its plot and the way it is played.",
+            "example_sentence": "The team's gameplay was innovative.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য টিমস গেমপ্লে ওয়াজ ইনোভেটিভ।"
+            },
+            "position": 5,
+            "synonyms": "playstyle, tactics",
+            "antonyms": "chaos, disorder",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "খেলার ধরন",
+                    "word_transliteration": "khelar dhoron",
+                    "example_sentence_translation": "দলের খেলার ধরন উদ্ভাবনী ছিল।",
+                    "example_sentence_transliteration": "Doler khelar dhoron udbhaboni chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "consistent",
+            "phonetic": "kənˈsɪs.tənt",
+            "word_native_transliteration": {
+                "bn": "কনসিস্টেন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔄",
+            "meaning": "Acting or done in the same way over time, especially so as to be fair or accurate.",
+            "example_sentence": "Consistent performance leads to success.",
+            "example_sentence_native_transliteration": {
+                "bn": "কনসিস্টেন্ট পারফরম্যান্স লিডস টু সাকসেস।"
+            },
+            "position": 6,
+            "synonyms": "steady, reliable",
+            "antonyms": "erratic, inconsistent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ধারাবাহিক",
+                    "word_transliteration": "dharabahik",
+                    "example_sentence_translation": "ধারাবাহিক কার্যক্ষমতা সাফল্যের দিকে নিয়ে যায়।",
+                    "example_sentence_transliteration": "Dharabahik karyokkhomota shafolyar dike niye jay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "performance",
+            "phonetic": "pəˈfɔː.məns",
+            "word_native_transliteration": {
+                "bn": "পারফরম্যান্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎭",
+            "meaning": "The action or process of carrying out or accomplishing an action, task, or function.",
+            "example_sentence": "Performance improvements boost confidence.",
+            "example_sentence_native_transliteration": {
+                "bn": "পারফরম্যান্স ইমপ্রুভমেন্টস বুস্ট কনফিডেন্স।"
+            },
+            "position": 7,
+            "synonyms": "execution, display",
+            "antonyms": "failure, inactivity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কার্যক্ষমতা",
+                    "word_transliteration": "karyokkhomota",
+                    "example_sentence_translation": "কার্যক্ষমতা উন্নতি আত্মবিশ্বাস বাড়ায়।",
+                    "example_sentence_transliteration": "Karyokkhomota unnoti attobishshash baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dominance",
+            "phonetic": "ˈdɒm.ɪ.nəns",
+            "word_native_transliteration": {
+                "bn": "ডমিনেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👑",
+            "meaning": "Power and influence over others.",
+            "example_sentence": "Dominance in sports reflects preparation.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডমিনেন্স ইন স্পোর্টস রিফ্লেক্টস প্রিপারেশন।"
+            },
+            "position": 8,
+            "synonyms": "supremacy, control",
+            "antonyms": "weakness, subjugation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আধিপত্য",
+                    "word_transliteration": "adhipatyo",
+                    "example_sentence_translation": "খেলাধুলায় আধিপত্য প্রস্তুতির প্রতিফলন।",
+                    "example_sentence_transliteration": "Kheladhulায় adhipatyo prostutir protifolon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "standards",
+            "phonetic": "ˈstæn.dədz",
+            "word_native_transliteration": {
+                "bn": "স্ট্যান্ডার্ডস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📏",
+            "meaning": "A level of quality or attainment; a required or agreed level of quality or attainment.",
+            "example_sentence": "High standards inspire competitors.",
+            "example_sentence_native_transliteration": {
+                "bn": "হাই স্ট্যান্ডার্ডস ইনস্পায়ার কম্পেটিটরস।"
+            },
+            "position": 9,
+            "synonyms": "criteria, benchmarks",
+            "antonyms": "inferiority, mediocrity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মান",
+                    "word_transliteration": "man",
+                    "example_sentence_translation": "উচ্চ মান প্রতিদ্বন্দ্বীদের অনুপ্রাণিত করে।",
+                    "example_sentence_transliteration": "Uchcho man protiddhondider onupranito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "innovative",
+            "phonetic": "ˈɪn.ə.və.tɪv",
+            "word_native_transliteration": {
+                "bn": "ইনোভেটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💡",
+            "meaning": "Featuring new methods; advanced and original.",
+            "example_sentence": "Innovative solutions drive progress.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনোভেটিভ সলিউশনস ড্রাইভ প্রগ্রেস।"
+            },
+            "position": 10,
+            "synonyms": "creative, original",
+            "antonyms": "conventional, uninspired",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্ভাবনী",
+                    "word_transliteration": "udbhaboni",
+                    "example_sentence_translation": "উদ্ভাবনী সমাধান অগ্রগতিকে ত্বরান্বিত করে।",
+                    "example_sentence_transliteration": "Udbhaboni somadhan agrogotike tworanwito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "strategies",
+            "phonetic": "ˈstræt.ə.dʒiz",
+            "word_native_transliteration": {
+                "bn": "স্ট্রাটেজিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📋",
+            "meaning": "A plan of action designed to achieve a long-term or overall aim.",
+            "example_sentence": "Effective strategies ensure success.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইফেক্টিভ স্ট্রাটেজিস এনশিওর সাকসেস।"
+            },
+            "position": 11,
+            "synonyms": "plans, tactics",
+            "antonyms": "improvisation, guesswork",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কৌশল",
+                    "word_transliteration": "koushol",
+                    "example_sentence_translation": "কার্যকর কৌশল সাফল্য নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Karjokor koushol shafolyo nishchito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "prowess",
+            "phonetic": "ˈpraʊ.es",
+            "word_native_transliteration": {
+                "bn": "প্রাউএস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏆",
+            "meaning": "Skill or expertise in a particular activity or field.",
+            "example_sentence": "Prowess in sports enhances team strength.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রাউএস ইন স্পোর্টস এনহান্সেস টিম স্ট্রেংথ।"
+            },
+            "position": 12,
+            "synonyms": "expertise, skill",
+            "antonyms": "incompetence, weakness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষতা",
+                    "word_transliteration": "dokkhota",
+                    "example_sentence_translation": "খেলায় দক্ষতা দলীয় শক্তি বাড়ায়।",
+                    "example_sentence_transliteration": "Khelay dokkhota doliy shokti baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "global",
+            "phonetic": "ˈɡləʊ.bəl",
+            "word_native_transliteration": {
+                "bn": "গ্লোবাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌍",
+            "meaning": "Relating to the whole world; worldwide.",
+            "example_sentence": "Global initiatives address critical issues.",
+            "example_sentence_native_transliteration": {
+                "bn": "গ্লোবাল ইনিশিয়েটিভস অ্যাড্রেস ক্রিটিক্যাল ইস্যুস।"
+            },
+            "position": 13,
+            "synonyms": "worldwide, universal",
+            "antonyms": "local, regional",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৈশ্বিক",
+                    "word_transliteration": "boishwik",
+                    "example_sentence_translation": "বৈশ্বিক উদ্যোগ গুরুত্বপূর্ণ বিষয়গুলি সমাধান করে।",
+                    "example_sentence_transliteration": "Boishwik udyog guruttwopurno bishoygouli somadhan kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "recognition",
+            "phonetic": "ˌrek.əɡˈnɪʃ.ən",
+            "word_native_transliteration": {
+                "bn": "রেকগনিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏅",
+            "meaning": "Acknowledgment of the existence, validity, or legality of something.",
+            "example_sentence": "International recognition boosts morale.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইন্টারন্যাশনাল রেকগনিশন বুস্টস মোরাল।"
+            },
+            "position": 14,
+            "synonyms": "acknowledgment, validation",
+            "antonyms": "neglect, denial",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বীকৃতি",
+                    "word_transliteration": "shikritee",
+                    "example_sentence_translation": "আন্তর্জাতিক স্বীকৃতি মনোবল বাড়ায়।",
+                    "example_sentence_transliteration": "Antorjatik shikritee monobol baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "memorable",
+            "phonetic": "ˈmem.ər.ə.bəl",
+            "word_native_transliteration": {
+                "bn": "মেমোরেবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📸",
+            "meaning": "Worth remembering or easily remembered, especially because of being special or unusual.",
+            "example_sentence": "Memorable events inspire generations.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেমোরেবল ইভেন্টস ইনস্পায়ার জেনারেশনস।"
+            },
+            "position": 15,
+            "synonyms": "unforgettable, remarkable",
+            "antonyms": "forgettable, insignificant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্মরণীয়",
+                    "word_transliteration": "shoroneeyo",
+                    "example_sentence_translation": "স্মরণীয় ঘটনা প্রজন্মকে অনুপ্রাণিত করে।",
+                    "example_sentence_transliteration": "Shoroneeyo ghotona projonnoke onupranito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "tournament",
+            "phonetic": "ˈtʊə.nə.mənt",
+            "word_native_transliteration": {
+                "bn": "টুর্নামেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏟️",
+            "meaning": "A series of contests between a number of competitors, competing for an overall prize.",
+            "example_sentence": "The tournament showcased exceptional talent.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য টুর্নামেন্ট শোকেসড এক্সেপশনাল ট্যালেন্ট।"
+            },
+            "position": 16,
+            "synonyms": "competition, championship",
+            "antonyms": "practice, exhibition",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিযোগিতা",
+                    "word_transliteration": "protijogita",
+                    "example_sentence_translation": "প্রতিযোগিতা ব্যতিক্রমী প্রতিভা প্রদর্শন করেছে।",
+                    "example_sentence_transliteration": "Protijogita byotikromi protibha prodorshon koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "future",
+            "phonetic": "ˈfjuː.tʃər",
+            "word_native_transliteration": {
+                "bn": "ফিউচার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔮",
+            "meaning": "The time or a period of time following the moment of speaking or writing; time regarded as still to come.",
+            "example_sentence": "Future projects depend on strategic planning.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফিউচার প্রজেক্টস ডিপেন্ড অন স্ট্র্যাটেজিক প্ল্যানিং।"
+            },
+            "position": 17,
+            "synonyms": "prospect, forthcoming",
+            "antonyms": "past, history",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভবিষ্যৎ",
+                    "word_transliteration": "bhobishyot",
+                    "example_sentence_translation": "ভবিষ্যৎ প্রকল্পগুলি কৌশলগত পরিকল্পনার উপর নির্ভর করে।",
+                    "example_sentence_transliteration": "Bhobishyot prokolpogouli kousholgoto porikolponar upor nirbhor kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "unassailable",
+            "phonetic": "ˌʌn.əˈseɪ.lə.bəl",
+            "word_native_transliteration": {
+                "bn": "আনঅ্যাসেইলেবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🛡️",
+            "meaning": "Unable to be attacked, questioned, or defeated.",
+            "example_sentence": "An unassailable position ensures dominance.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যান আনঅ্যাসেইলেবল পজিশন এনশিওরস ডমিনেন্স।"
+            },
+            "position": 18,
+            "synonyms": "invincible, unbeatable",
+            "antonyms": "vulnerable, weak",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অজেয়",
+                    "word_transliteration": "ajey",
+                    "example_sentence_translation": "অজেয় অবস্থান আধিপত্য নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Ajey obosthan adhipatyo nishchito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "position",
+            "phonetic": "pəˈzɪʃ.ən",
+            "word_native_transliteration": {
+                "bn": "পজিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📍",
+            "meaning": "A particular way in which someone or something is placed or arranged.",
+            "example_sentence": "The team's position reflects consistent performance.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য টিমস পজিশন রিফ্লেক্টস কনসিস্টেন্ট পারফরম্যান্স।"
+            },
+            "position": 19,
+            "synonyms": "rank, placement",
+            "antonyms": "displacement, chaos",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অবস্থান",
+                    "word_transliteration": "obosthan",
+                    "example_sentence_translation": "দলের অবস্থান ধারাবাহিক কার্যক্ষমতা প্রকাশ করে।",
+                    "example_sentence_transliteration": "Doler obosthan dharabahik karyokkhomota prokash kore.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

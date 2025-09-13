@@ -1,0 +1,283 @@
+{
+    "position": 39,
+    "title_translation": {
+        "en": "The Relationship Between Poverty and Education",
+        "bn": "দারিদ্রের সঙ্গে শিক্ষার সম্পর্ক"
+    },
+    "content_translation": {
+        "en": "The relationship between poverty and education is always **complex** and **contradictory**. Generally, **illiteracy** or **limited education** is observed among poor people. **Increasing** lack of education makes poverty **worsen**. However, there are some **exceptions**, where even less-educated people have become **wealthy**. **Active mental skills** have worked behind their success.\n\nEducation is not just **formal education**, it is the process of human **evolving**. Those who memorize and pass, but are unable to apply, their education remains **ineffective**. On the other hand, **experiential learning** in life helps people become **productive** and **contribute** to society.\n\nOur goal should be **expanding impactful education** that can free people from economic and mental poverty. **Promoting** education does not mean just sending to school-college, but **ensuring practical knowledge** that is **beneficial** for both individuals and society.",
+        "bn": "দারিদ্র্য ও শিক্ষার সম্পর্ক সবসময়ই **complex** এবং **contradictory**। সাধারণত দরিদ্র মানুষদের মধ্যে **illiteracy** বা **limited education** লক্ষ্য করা যায়। **Increasing** শিক্ষার অভাবে দারিদ্র্য আরও **worsen** হয়। তবে কিছু **exceptions** আছে, যেখানে স্বল্পশিক্ষিত মানুষও **wealthy** হয়েছে। তাদের সফলতার পেছনে **active mental skills** কাজ করেছে।\n\nশিক্ষা শুধুমাত্র **formal education** নয়, এটি প্রকৃত মানুষের **evolving** হওয়ার প্রক্রিয়া। যারা মুখস্থ করে **pass** করে, কিন্তু **apply** করতে অক্ষম, তাদের শিক্ষা **ineffective** থেকে যায়। অন্যদিকে, জীবনের **experiential learning** মানুষকে **productive** এবং সমাজে **contribute** করতে সাহায্য করে।\n\nআমাদের লক্ষ্য হওয়া উচিত **expanding impactful education** যা মানুষকে আর্থিক ও মানসিক দারিদ্র্য থেকে মুক্তি দিতে পারে। **Promoting** শিক্ষা মানে কেবল স্কুল-কলেজে পাঠ নয়, বরং **ensuring practical knowledge** যা ব্যক্তি ও সমাজ উভয়ের জন্য **beneficial**।"
+    },
+    "list": [
+        {
+            "word": "complex",
+            "phonetic": "ˈkɒmplɛks",
+            "word_native_transliteration": {
+                "bn": "কমপ্লেক্স"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧩",
+            "meaning": "Having many interrelated parts or factors; complicated.",
+            "example_sentence": "The relationship between poverty and education is complex.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রিলেশনশিপ বিটুইন পোভার্টি অ্যান্ড এডুকেশন ইজ কমপ্লেক্স।"
+            },
+            "position": 1,
+            "synonyms": "complicated, intricate, involved, elaborate, convoluted, sophisticated",
+            "antonyms": "simple, easy, straightforward, uncomplicated, basic, elementary",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জটিল",
+                    "word_transliteration": "jotil",
+                    "example_sentence_translation": "দারিদ্র্য ও শিক্ষার সম্পর্ক জটিল।",
+                    "example_sentence_transliteration": "Daridro o shikkhar shomporko jotil.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "contradictory",
+            "phonetic": "ˌkɒntrəˈdɪktəri",
+            "word_native_transliteration": {
+                "bn": "কন্ট্রাডিক্টরি"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚡",
+            "meaning": "Mutually opposed or inconsistent; containing elements that oppose each other.",
+            "example_sentence": "Their views on education are contradictory.",
+            "example_sentence_native_transliteration": {
+                "bn": "দেয়ার ভিউজ অন এডুকেশন আর কন্ট্রাডিক্টরি।"
+            },
+            "position": 2,
+            "synonyms": "conflicting, inconsistent, opposing, incompatible, contrary, paradoxical",
+            "antonyms": "consistent, harmonious, compatible, agreeable, concordant, uniform",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরস্পরবিরোধী",
+                    "word_transliteration": "porosporobirodhī",
+                    "example_sentence_translation": "শিক্ষার বিষয়ে তাদের মতামত পরস্পরবিরোধী।",
+                    "example_sentence_transliteration": "Shikkhar bishoy-e tader motamot porosporobirodhī.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "illiteracy",
+            "phonetic": "ɪˈlɪtərəsi",
+            "word_native_transliteration": {
+                "bn": "ইলিটারেসি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📚",
+            "meaning": "The inability to read and write; lack of education or knowledge in a particular area.",
+            "example_sentence": "Illiteracy often leads to poverty and unemployment.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইলিটারেসি অফেন লিডস টু পোভার্টি অ্যান্ড আনএমপ্লয়মেন্ট।"
+            },
+            "position": 3,
+            "synonyms": "ignorance, lack of education, unlearned state, uneducated condition",
+            "antonyms": "literacy, education, learning, knowledge, erudition, scholarship",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিরক্ষরতা",
+                    "word_transliteration": "nirokshorotā",
+                    "example_sentence_translation": "নিরক্ষরতা প্রায়ই দারিদ্র্য ও বেকারত্বের দিকে নিয়ে যায়।",
+                    "example_sentence_transliteration": "Nirokshorotā prāyoi dāridro o bekāroter dike niye yāy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "increasing",
+            "phonetic": "ɪnˈkriːsɪŋ",
+            "word_native_transliteration": {
+                "bn": "ইনক্রিসিং"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📈",
+            "meaning": "Becoming or making greater in size, amount, intensity, or degree; growing.",
+            "example_sentence": "Increasing awareness about education is necessary.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনক্রিসিং অ্যাওয়ারনেস অ্যাবাউট এডুকেশন ইজ নেসেসারি।"
+            },
+            "position": 4,
+            "synonyms": "growing, rising, expanding, escalating, mounting, intensifying",
+            "antonyms": "decreasing, reducing, diminishing, declining, falling, lessening",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৃদ্ধি পাওয়া",
+                    "word_transliteration": "briddhi pāoyā",
+                    "example_sentence_translation": "শিক্ষার প্রতি সচেতনতা বৃদ্ধি করা জরুরি।",
+                    "example_sentence_transliteration": "Shikkhar proti shochetonota briddhi korā joruri.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "worsen",
+            "phonetic": "ˈwɜːrsən",
+            "word_native_transliteration": {
+                "bn": "ওয়ার্সেন"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📉",
+            "meaning": "To make or become worse; to deteriorate in quality, condition, or degree.",
+            "example_sentence": "Lack of education can worsen poverty levels.",
+            "example_sentence_native_transliteration": {
+                "bn": "ল্যাক অফ এডুকেশন ক্যান ওয়ার্সেন পোভার্টি লেভেলস।"
+            },
+            "position": 5,
+            "synonyms": "deteriorate, decline, degenerate, aggravate, exacerbate, intensify",
+            "antonyms": "improve, enhance, better, ameliorate, upgrade, progress",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "খারাপ হওয়া",
+                    "word_transliteration": "kharāp hoyā",
+                    "example_sentence_translation": "শিক্ষার অভাব দারিদ্র্যের মাত্রা আরও খারাপ করতে পারে।",
+                    "example_sentence_transliteration": "Shikkhar obhab dāridryer mātrā āro kharāp korote pāre.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "active",
+            "phonetic": "ˈæktɪv",
+            "word_native_transliteration": {
+                "bn": "অ্যাক্টিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚡",
+            "meaning": "Engaging or ready to engage in physically energetic pursuits; characterized by energetic work, participation, etc.",
+            "example_sentence": "Active participation in education is vital for progress.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাক্টিভ পার্টিসিপেশন ইন এডুকেশন ইজ ভাইটাল ফর প্রগ্রেস।"
+            },
+            "position": 6,
+            "synonyms": "energetic, dynamic, vigorous, lively, busy, engaged",
+            "antonyms": "passive, inactive, idle, dormant, sluggish, lethargic",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সক্রিয়",
+                    "word_transliteration": "shokriyo",
+                    "example_sentence_translation": "শিক্ষায় সক্রিয় অংশগ্রহণ অগ্রগতির জন্য গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Shikkhay shokriyo ongshogrohon ogrogotir jonno guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "evolving",
+            "phonetic": "ɪˈvɒlvɪŋ",
+            "word_native_transliteration": {
+                "bn": "ইভলভিং"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌱",
+            "meaning": "Developing gradually, especially from a simple to a more complex form; changing and developing.",
+            "example_sentence": "Education plays a role in evolving societal norms.",
+            "example_sentence_native_transliteration": {
+                "bn": "এডুকেশন প্লেস অ্যা রোল ইন ইভলভিং সোসাইটাল নর্মস।"
+            },
+            "position": 7,
+            "synonyms": "developing, advancing, progressing, growing, changing, transforming",
+            "antonyms": "stagnant, declining, static, unchanging, regressing, deteriorating",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিকাশমান",
+                    "word_transliteration": "bikāshmān",
+                    "example_sentence_translation": "শিক্ষা সমাজের নীতিমালা বিকাশে ভূমিকা রাখে।",
+                    "example_sentence_transliteration": "Shikkha shomajer nītimālā bikāshe bhumikā rākhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ineffective",
+            "phonetic": "ˌɪnɪˈfɛktɪv",
+            "word_native_transliteration": {
+                "bn": "ইনইফেক্টিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "❌",
+            "meaning": "Not producing any significant or desired effect; not achieving the intended result.",
+            "example_sentence": "Rote learning often proves to be ineffective.",
+            "example_sentence_native_transliteration": {
+                "bn": "রোট লার্নিং অফেন প্রুভস টু বি ইনইফেক্টিভ।"
+            },
+            "position": 8,
+            "synonyms": "useless, unsuccessful, futile, unproductive, powerless, inadequate",
+            "antonyms": "effective, functional, successful, productive, powerful, efficient",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অকার্যকর",
+                    "word_transliteration": "okāryokor",
+                    "example_sentence_translation": "মুখস্থ শিক্ষা প্রায়ই অকার্যকর প্রমাণিত হয়।",
+                    "example_sentence_transliteration": "Mukhostho shikkha prāyoi okāryokor promānito hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "expanding",
+            "phonetic": "ɪkˈspændɪŋ",
+            "word_native_transliteration": {
+                "bn": "এক্সপ্যান্ডিং"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔄",
+            "meaning": "Becoming larger or more extensive; increasing in size, number, or importance.",
+            "example_sentence": "Expanding education opportunities helps reduce inequality.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সপ্যান্ডিং এডুকেশন অপরচুনিটিস হেল্পস রিডিউস ইনইকুয়ালিটি।"
+            },
+            "position": 9,
+            "synonyms": "growing, enlarging, extending, increasing, broadening, developing",
+            "antonyms": "limiting, restricting, reducing, contracting, shrinking, narrowing",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সম্প্রসারিত করা",
+                    "word_transliteration": "shomprosārito korā",
+                    "example_sentence_translation": "শিক্ষার সুযোগ সম্প্রসারণ অসমতা হ্রাসে সহায়ক।",
+                    "example_sentence_transliteration": "Shikkhar shuyog shomprosāron oshomotā hrāshe shohāyok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "promoting",
+            "phonetic": "prəˈmoʊtɪŋ",
+            "word_native_transliteration": {
+                "bn": "প্রোমোটিং"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📢",
+            "meaning": "Supporting or actively encouraging; helping to develop or increase.",
+            "example_sentence": "Promoting practical education ensures skill development.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোমোটিং প্র্যাক্টিক্যাল এডুকেশন এনশিউরস স্কিল ডেভেলপমেন্ট।"
+            },
+            "position": 10,
+            "synonyms": "encouraging, supporting, advancing, fostering, advocating, facilitating",
+            "antonyms": "discouraging, suppressing, hindering, opposing, preventing, obstructing",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রচার করা",
+                    "word_transliteration": "prochār korā",
+                    "example_sentence_translation": "ব্যবহারিক শিক্ষা প্রচার দক্ষতা উন্নয়ন নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Byobhārik shikkha prochār dokkhotā unnōyon nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

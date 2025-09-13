@@ -1,0 +1,283 @@
+{
+    "position": 41,
+    "title_translation": {
+        "en": "Planning Implementation: The Main Challenge",
+        "bn": "পরিকল্পনা বাস্তবায়নই প্রধান চ্যালেঞ্জ"
+    },
+    "content_translation": {
+        "en": "While the pace of urbanization in Bangladesh is **increasing**, it is happening in an **unplanned** manner. Especially in Dhaka and other divisional cities, the lack of **planning** in urbanization may **create** **complex problems** in the future. **Unmanaged growth** can make Dhaka metropolis **uninhabitable**.\n\nLike other countries in the world, we also **celebrate** World Urban Planning Day on November 8 every year in Bangladesh. Recently, **roundtable discussions** have been held on urban planning and its **implementation**.\n\n**Master plans** created for Dhaka, Chittagong, Khulna, and Rajshahi have been partially **executed**. The Chairman of the Urban Research Center, Professor Nazrul Islam, says that we are still able to live in the metropolis because of Dhaka's **implemented** plans.\n\nHowever, current **urban challenges** are extremely **difficult** and are hampering citizens' **comfortable living**. **Unanticipated expansion** and the **lack of foresight** in previous planning have created new problems.",
+        "bn": "বাংলাদেশে নগরায়ণের গতি **increasing** হলেও, এটি **unplanned** উপায়ে ঘটছে। বিশেষ করে ঢাকা এবং অন্যান্য বিভাগীয় শহরগুলোতে নগরায়ণের **lack of planning** ভবিষ্যতে **complex problems** **create** করতে পারে। **Unmanaged growth** ঢাকা মহানগরকে **uninhabitable** করে তুলতে পারে।\n\nবিশ্বের অন্যান্য দেশের মতো বাংলাদেশেও আমরা প্রতি বছর ৮ নভেম্বর **celebrate** করি বিশ্ব নগর পরিকল্পনা দিবস। নগর পরিকল্পনা এবং তার **implementation** নিয়ে সম্প্রতি **roundtable discussions** অনুষ্ঠিত হয়েছে।\n\nঢাকা, চট্টগ্রাম, খুলনা, এবং রাজশাহীর জন্য তৈরি করা **master plans** আংশিকভাবে **executed** হয়েছে। নগর গবেষণাকেন্দ্রের চেয়ারম্যান অধ্যাপক নজরুল ইসলাম বলেছেন, ঢাকার **implemented** plans-এর জন্যই আমরা এখনও মহানগরে বাস করতে পারছি।\n\nতবে, বর্তমান **urban challenges** অত্যন্ত **difficult** এবং নাগরিকদের **comfortable living** বাধাগ্রস্ত করছে। **Unanticipated expansion** এবং পূর্বের পরিকল্পনার **lack of foresight** নতুন সমস্যার সৃষ্টি করেছে।"
+    },
+    "list": [
+        {
+            "word": "increasing",
+            "phonetic": "ɪnˈkriːsɪŋ",
+            "word_native_transliteration": {
+                "bn": "ইনক্রিসিং"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📈",
+            "meaning": "Becoming greater in size, amount, or degree; growing.",
+            "example_sentence": "The rate of urbanization is increasing rapidly in Bangladesh.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রেট অফ আরবানাইজেশন ইজ ইনক্রিসিং র্যাপিডলি ইন বাংলাদেশ।"
+            },
+            "position": 1,
+            "synonyms": "growing, expanding, rising, escalating, mounting, surging",
+            "antonyms": "decreasing, reducing, declining, diminishing, falling, dropping",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৃদ্ধি পাওয়া",
+                    "word_transliteration": "briddhi paowa",
+                    "example_sentence_translation": "বাংলাদেশে নগরায়ণের হার দ্রুত বৃদ্ধি পাচ্ছে।",
+                    "example_sentence_transliteration": "Bangladesh-e nogorayoner har druto briddhi pacche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "unplanned",
+            "phonetic": "ʌnˈplænd",
+            "word_native_transliteration": {
+                "bn": "আনপ্ল্যান্ড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎲",
+            "meaning": "Not planned in advance; happening spontaneously or without organization.",
+            "example_sentence": "Unplanned urbanization causes severe problems.",
+            "example_sentence_native_transliteration": {
+                "bn": "আনপ্ল্যান্ড আরবানাইজেশন কজেস সিভিয়ার প্রবলেমস।"
+            },
+            "position": 2,
+            "synonyms": "chaotic, disorganized, spontaneous, random, haphazard, impromptu",
+            "antonyms": "planned, organized, structured, systematic, deliberate, coordinated",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অপরিকল্পিত",
+                    "word_transliteration": "oporikalpito",
+                    "example_sentence_translation": "অপরিকল্পিত নগরায়ণ গুরুতর সমস্যার সৃষ্টি করে।",
+                    "example_sentence_transliteration": "Oporikalpito nogorayon gurutor somossar srishti kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "create",
+            "phonetic": "kriˈeɪt",
+            "word_native_transliteration": {
+                "bn": "ক্রিয়েট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🎨",
+            "meaning": "To bring something into existence; to make or produce something new.",
+            "example_sentence": "Unmanaged growth can create complex challenges.",
+            "example_sentence_native_transliteration": {
+                "bn": "আনম্যানেজড গ্রোথ ক্যান ক্রিয়েট কমপ্লেক্স চ্যালেঞ্জেস।"
+            },
+            "position": 3,
+            "synonyms": "generate, build, produce, make, establish, form",
+            "antonyms": "destroy, eliminate, demolish, dismantle, remove, erase",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সৃষ্টি করা",
+                    "word_transliteration": "srishti kora",
+                    "example_sentence_translation": "অপরিকল্পিত বৃদ্ধি জটিল চ্যালেঞ্জ সৃষ্টি করতে পারে।",
+                    "word_transliteration": "Oporikalpito briddhi jotil challenge srishti korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "uninhabitable",
+            "phonetic": "ʌnɪnˈhæbɪtəbəl",
+            "word_native_transliteration": {
+                "bn": "আনইনহ্যাবিটেবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🏚️",
+            "meaning": "Not suitable or safe for people to live in.",
+            "example_sentence": "Rapid urbanization can make cities uninhabitable.",
+            "example_sentence_native_transliteration": {
+                "bn": "র্যাপিড আরবানাইজেশন ক্যান মেক সিটিস আনইনহ্যাবিটেবল।"
+            },
+            "position": 4,
+            "synonyms": "unlivable, hostile, dangerous, unsafe, unsuitable, harsh",
+            "antonyms": "habitable, livable, comfortable, safe, suitable, pleasant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বসবাসের অযোগ্য",
+                    "word_transliteration": "bosobaser oyoggo",
+                    "example_sentence_translation": "দ্রুত নগরায়ণ শহরগুলোকে বসবাসের অযোগ্য করে তুলতে পারে।",
+                    "example_sentence_transliteration": "Druto nogorayon shorgulooke bosobaser oyoggo kore tulte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "celebrate",
+            "phonetic": "ˈselɪbreɪt",
+            "word_native_transliteration": {
+                "bn": "সেলিব্রেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🎉",
+            "meaning": "To acknowledge a significant or happy day or event with a social gathering or enjoyable activity.",
+            "example_sentence": "Bangladesh celebrates Urban Planning Day on November 8.",
+            "example_sentence_native_transliteration": {
+                "bn": "বাংলাদেশ সেলিব্রেটস আরবান প্ল্যানিং ডে অন নভেম্বার ৮।"
+            },
+            "position": 5,
+            "synonyms": "honor, commemorate, observe, mark, praise, applaud",
+            "antonyms": "ignore, overlook, neglect, dismiss, disregard, forget",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদযাপন করা",
+                    "word_transliteration": "uddyapon kora",
+                    "example_sentence_translation": "বাংলাদেশ ৮ নভেম্বর নগর পরিকল্পনা দিবস উদযাপন করে।",
+                    "example_sentence_transliteration": "Bangladesh 8 November nogor porikalpona dibosh uddyapon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "implemented",
+            "phonetic": "ˈɪmplɪmentɪd",
+            "word_native_transliteration": {
+                "bn": "ইমপ্লিমেন্টেড"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⚙️",
+            "meaning": "Put a decision or plan into effect; carried out or executed.",
+            "example_sentence": "The master plans were partially implemented.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য মাস্টার প্ল্যানস ওয়ার পার্শিয়ালি ইমপ্লিমেন্টেড।"
+            },
+            "position": 6,
+            "synonyms": "executed, applied, carried out, enacted, performed, realized",
+            "antonyms": "neglected, overlooked, ignored, abandoned, discarded, shelved",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাস্তবায়ন করা",
+                    "word_transliteration": "bastobayoon kora",
+                    "example_sentence_translation": "মাস্টার পরিকল্পনাগুলি আংশিকভাবে বাস্তবায়িত হয়েছে।",
+                    "example_sentence_transliteration": "Master porikalpona guli angshikbhabe bastobayito hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "difficult",
+            "phonetic": "ˈdɪfɪkəlt",
+            "word_native_transliteration": {
+                "bn": "ডিফিকাল্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "😰",
+            "meaning": "Needing much effort or skill to accomplish, deal with, or understand; hard.",
+            "example_sentence": "Managing urban challenges has become increasingly difficult.",
+            "example_sentence_native_transliteration": {
+                "bn": "ম্যানেজিং আরবান চ্যালেঞ্জেস হ্যাজ বিকাম ইনক্রিসিংলি ডিফিকাল্ট।"
+            },
+            "position": 7,
+            "synonyms": "challenging, complex, hard, tough, demanding, arduous",
+            "antonyms": "easy, simple, straightforward, manageable, effortless, uncomplicated",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কঠিন",
+                    "word_transliteration": "kothin",
+                    "example_sentence_translation": "নগরায়ণের চ্যালেঞ্জ মোকাবিলা করা ক্রমশ কঠিন হয়ে উঠছে।",
+                    "example_sentence_transliteration": "Nogorayoner challenge mokabila kora kromosh kothin hoye uthche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "comfortable",
+            "phonetic": "ˈkʌmftəbəl",
+            "word_native_transliteration": {
+                "bn": "কমফরটেবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "😌",
+            "meaning": "Giving a feeling of physical ease and relaxation; free from hardship or unpleasant conditions.",
+            "example_sentence": "Urban planning aims to make cities more comfortable.",
+            "example_sentence_native_transliteration": {
+                "bn": "আরবান প্ল্যানিং এইমস টু মেক সিটিস মোর কমফরটেবল।"
+            },
+            "position": 8,
+            "synonyms": "cozy, pleasant, relaxed, at ease, content, peaceful",
+            "antonyms": "uncomfortable, inhospitable, unpleasant, harsh, difficult, stressful",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আরামদায়ক",
+                    "word_transliteration": "aramdayok",
+                    "example_sentence_translation": "নগর পরিকল্পনার লক্ষ্য শহরগুলোকে আরও আরামদায়ক করা।",
+                    "example_sentence_transliteration": "Nogor porikolponar lokkhyo shohorguloke aro aramdayok kora.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "anticipated",
+            "phonetic": "ænˈtɪsɪpeɪtɪd",
+            "word_native_transliteration": {
+                "bn": "অ্যান্টিসিপেটেড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔮",
+            "meaning": "Expected or predicted to happen; foreseen in advance.",
+            "example_sentence": "The anticipated growth exceeded the city's capacity.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যান্টিসিপেটেড গ্রোথ এক্সসিডেড দ্য সিটিস ক্যাপাসিটি।"
+            },
+            "position": 9,
+            "synonyms": "expected, predicted, foreseen, projected, forecasted, planned",
+            "antonyms": "unanticipated, unexpected, unforeseen, surprising, sudden, spontaneous",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রত্যাশিত",
+                    "word_transliteration": "prottyashito",
+                    "example_sentence_translation": "প্রত্যাশিত বৃদ্ধি শহরের ক্ষমতার বাইরে চলে গেছে।",
+                    "example_sentence_transliteration": "Prottyashito briddhi shohorer khomotar baire chole geche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "deteriorate",
+            "phonetic": "dɪˈtɪəriəreɪt",
+            "word_native_transliteration": {
+                "bn": "ডেটিরিয়রেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📉",
+            "meaning": "To become progressively worse in quality, condition, or performance; to decline.",
+            "example_sentence": "Unplanned growth can deteriorate living conditions.",
+            "example_sentence_native_transliteration": {
+                "bn": "আনপ্ল্যান্ড গ্রোথ ক্যান ডেটেরিয়রেট লিভিং কন্ডিশন্স।"
+            },
+            "position": 10,
+            "synonyms": "decline, worsen, degrade, decay, weaken, crumble",
+            "antonyms": "improve, enhance, strengthen, upgrade, better, develop",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অবনতি হওয়া",
+                    "word_transliteration": "obonoti howa",
+                    "example_sentence_translation": "অপরিকল্পিত বৃদ্ধি জীবনের মান অবনতি করতে পারে।",
+                    "example_sentence_transliteration": "Oporikalpito briddhi jiboner man obonoti korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

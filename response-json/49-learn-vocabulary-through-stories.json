@@ -1,0 +1,661 @@
+{
+    "position": 49,
+    "title_translation": {
+        "en": "The Commonwealth Summit: Forging a Path to Sustainable Future",
+        "bn": "কমনওয়েলথ শীর্ষ সম্মেলন: টেকসই ভবিষ্যতের পথ তৈরি"
+    },
+    "content_translation": {
+        "en": "The 27th Commonwealth **Summit** was held in Apia, the capital of Samoa, from October 21-26, 2024. The **theme** of the conference was \"Building **resilience** and enhancing **collaboration** for a **sustainable** future.\"\n\nThe **leaders** of member nations discussed **global** **economy**, **climate** **change**, and **security**. Emphasis was placed on increasing **trade** and **communication** to ensure a **green** future.\n\nThe delegation from Bangladesh, led by the Foreign Affairs Advisor, highlighted the **contribution** of the younger generation and called for **unified** **action** to address **climate** **vulnerability**.\n\nOn the **sideline** of the conference, 37 events were held, where one **session** was jointly organized by Bangladesh and Samoa. This session discussed the role of **youth** **empowerment** in building **climate** **resilience**.\n\nThis **summit** has served as a **pivotal** **platform** for strengthening **regional** **cooperation** and will enhance **prospects** for future development.",
+        "bn": "২০২৪ সালের ২১-২৬ অক্টোবর সামোয়ার রাজধানী আপিয়ায় ২৭তম কমনওয়েলথ শীর্ষ সম্মেলন অনুষ্ঠিত হয়। সম্মেলনের theme ছিল \"**sustainable** ভবিষ্যৎ গড়তে **resilience** এবং **collaboration** বাড়ানোর ওপর **Emphasis** দেওয়া হয়।\"\n\nসম্মেলনে সদস্য রাষ্ট্রগুলোর নেতারা **global** অর্থনীতি, **climate** পরিবর্তন, এবং **security** নিয়ে আলোচনা করেন। **green** ভবিষ্যৎ নিশ্চিত করতে **trade** এবং **communication** বাড়ানোর ওপর গুরুত্ব দেওয়া হয়।\n\nবাংলাদেশের প্রতিনিধি দলের নেতৃত্বে পররাষ্ট্র উপদেষ্টা তরুণ প্রজন্মের **contribution** তুলে ধরেন এবং **climate vulnerability** মোকাবিলায় **unified action** নেওয়ার আহ্বান জানান।\n\nসম্মেলনের **sideline**-এ ৩৭টি ইভেন্ট অনুষ্ঠিত হয়, যেখানে একটি **session** যৌথভাবে বাংলাদেশ এবং সামোয়া পরিচালনা করে। এই সেশনে **climate resilience** বাড়াতে **youth empowerment**-এর ভূমিকা নিয়ে আলোচনা করা হয়।\n\nএই সম্মেলন **regional** সহযোগিতা শক্তিশালী করার জন্য একটি **pivotal platform** হিসেবে কাজ করেছে এবং ভবিষ্যতে উন্নয়নের **prospects** বাড়াবে।"
+    },
+    "list": [
+        {
+            "word": "sustainable",
+            "phonetic": "/səˈsteɪ.nə.bəl/",
+            "word_native_transliteration": {
+                "bn": "সাসটেইনেবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌱",
+            "meaning": "Able to be maintained at a certain rate or level; environmentally responsible.",
+            "example_sentence": "Sustainable practices improve environmental health.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাসটেইনেবল প্র্যাকটিসেস ইমপ্রুভ এনভায়রনমেন্টাল হেলথ।"
+            },
+            "position": 1,
+            "synonyms": "durable, viable",
+            "antonyms": "unsustainable, temporary",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "টেকসই",
+                    "word_transliteration": "tekshoi",
+                    "example_sentence_translation": "টেকসই পদ্ধতি পরিবেশের স্বাস্থ্য উন্নত করে।",
+                    "example_sentence_transliteration": "Tekshoi poddhooti poribeshero shasthyo unnoto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "resilience",
+            "phonetic": "/rɪˈzɪl.jəns/",
+            "word_native_transliteration": {
+                "bn": "রিজিলিয়েন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "The capacity to recover quickly from difficulties; toughness.",
+            "example_sentence": "Resilience is key to overcoming adversity.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিজিলিয়েন্স ইজ কি টু ওভারকামিং অ্যাডভার্সিটি।"
+            },
+            "position": 2,
+            "synonyms": "strength, endurance",
+            "antonyms": "fragility, weakness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্থিতিশীলতা",
+                    "word_transliteration": "stitishilota",
+                    "example_sentence_translation": "স্থিতিশীলতা প্রতিকূলতা অতিক্রমের চাবিকাঠি।",
+                    "example_sentence_transliteration": "Stitishilota protikoolota otikremer chabikathi.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "collaboration",
+            "phonetic": "/kəˌlæb.əˈreɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "কলাবোরেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "The action of working with someone to produce or create something.",
+            "example_sentence": "Collaboration fosters progress in diverse sectors.",
+            "example_sentence_native_transliteration": {
+                "bn": "কলাবোরেশন ফস্টারস প্রোগ্রেস ইন ডাইভার্স সেক্টরস।"
+            },
+            "position": 3,
+            "synonyms": "partnership, alliance",
+            "antonyms": "conflict, isolation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহযোগিতা",
+                    "word_transliteration": "sohojogita",
+                    "example_sentence_translation": "সহযোগিতা বিভিন্ন ক্ষেত্রে অগ্রগতি বাড়ায়।",
+                    "example_sentence_transliteration": "Sohojogita bibhinno kkhetre ogrogoti baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "emphasis",
+            "phonetic": "/ˈem.fə.sɪs/",
+            "word_native_transliteration": {
+                "bn": "এমফাসিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "Special importance, value, or prominence given to something.",
+            "example_sentence": "The emphasis was on sustainable practices.",
+            "example_sentence_native_transliteration": {
+                "bn": "দি এমফাসিস ওয়াজ অন সাসটেইনেবল প্র্যাকটিসেস।"
+            },
+            "position": 4,
+            "synonyms": "stress, focus",
+            "antonyms": "neglect, disregard",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গুরুত্ব",
+                    "word_transliteration": "gurutbo",
+                    "example_sentence_translation": "গুরুত্ব ছিল টেকসই পদ্ধতিতে।",
+                    "example_sentence_transliteration": "Gurutbo chhilo tekshoi poddhoti te.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "theme",
+            "phonetic": "/θiːm/",
+            "word_native_transliteration": {
+                "bn": "থিম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "A subject or topic of discourse or artistic representation.",
+            "example_sentence": "The theme highlighted resilience and sustainability.",
+            "example_sentence_native_transliteration": {
+                "bn": "দি থিম হাইলাইটেড রিজিলিয়েন্স অ্যান্ড সাসটেইনেবিলিটি।"
+            },
+            "position": 5,
+            "synonyms": "subject, topic",
+            "antonyms": "digression, off-topic",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিপাদ্য",
+                    "word_transliteration": "protipaddo",
+                    "example_sentence_translation": "প্রতিপাদ্য স্থিতিশীলতা ও টেকসই বিষয়কে তুলে ধরেছে।",
+                    "example_sentence_transliteration": "Protipaddo stitishilota o tekshoi bishoyke tule dhorechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "global",
+            "phonetic": "/ˈɡləʊ.bəl/",
+            "word_native_transliteration": {
+                "bn": "গ্লোবাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌍",
+            "meaning": "Relating to the whole world; worldwide.",
+            "example_sentence": "Global challenges require collaborative solutions.",
+            "example_sentence_native_transliteration": {
+                "bn": "গ্লোবাল চ্যালেঞ্জেস রিকোয়ার কলাবোরেটিভ সলিউশনস।"
+            },
+            "position": 6,
+            "synonyms": "worldwide, universal",
+            "antonyms": "local, regional",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৈশ্বিক",
+                    "word_transliteration": "boishbik",
+                    "example_sentence_translation": "বৈশ্বিক চ্যালেঞ্জ সমাধানে সহযোগিতার প্রয়োজন।",
+                    "example_sentence_transliteration": "Boishbik challenge somadhaney sohojogitar proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "economy",
+            "phonetic": "/ɪˈkɒn.ə.mi/",
+            "word_native_transliteration": {
+                "bn": "ইকোনমি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💰",
+            "meaning": "The wealth and resources of a country or region.",
+            "example_sentence": "A stable economy is essential for national growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ স্টেবল ইকোনমি ইজ এসেনশিয়াল ফর ন্যাশনাল গ্রোথ।"
+            },
+            "position": 7,
+            "synonyms": "market, financial system",
+            "antonyms": "poverty, chaos",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অর্থনীতি",
+                    "word_transliteration": "orthoniti",
+                    "example_sentence_translation": "স্থিতিশীল অর্থনীতি জাতীয় উন্নয়নের জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Stitishil orthoniti jatio unnoyoner jonno oprihario.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "climate",
+            "phonetic": "/ˈklaɪ.mət/",
+            "word_native_transliteration": {
+                "bn": "ক্লাইমেট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌡️",
+            "meaning": "The weather conditions prevailing in an area in general.",
+            "example_sentence": "Climate change impacts all regions globally.",
+            "example_sentence_native_transliteration": {
+                "bn": "ক্লাইমেট চেইঞ্জ ইমপ্যাক্টস অল রিজিয়নস গ্লোবালি।"
+            },
+            "position": 8,
+            "synonyms": "weather, environment",
+            "antonyms": "stability, unchanging",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জলবায়ু",
+                    "word_transliteration": "jolbayu",
+                    "example_sentence_translation": "জলবায়ু পরিবর্তন বৈশ্বিকভাবে সব অঞ্চলে প্রভাব ফেলে।",
+                    "example_sentence_transliteration": "Jolbayu poribortono boishbikbhabey shob oncholey probhab feley.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "change",
+            "phonetic": "/tʃeɪndʒ/",
+            "word_native_transliteration": {
+                "bn": "চেইঞ্জ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The act or instance of making or becoming different.",
+            "example_sentence": "Change is inevitable for growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "চেইঞ্জ ইজ ইনএভিটেবল ফর গ্রোথ।"
+            },
+            "position": 9,
+            "synonyms": "transformation, shift",
+            "antonyms": "stagnation, consistency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিবর্তন",
+                    "word_transliteration": "poribortono",
+                    "example_sentence_translation": "উন্নতির জন্য পরিবর্তন অনিবার্য।",
+                    "example_sentence_transliteration": "Unnotir jonno poribortono onibarjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "security",
+            "phonetic": "/sɪˈkjʊə.rɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "সিকিউরিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛡️",
+            "meaning": "The state of being free from danger or threat.",
+            "example_sentence": "Security measures were enhanced for the event.",
+            "example_sentence_native_transliteration": {
+                "bn": "সিকিউরিটি মেজারস ওয়ার এনহান্সড ফর দি ইভেন্ট।"
+            },
+            "position": 10,
+            "synonyms": "safety, protection",
+            "antonyms": "danger, risk",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিরাপত্তা",
+                    "word_transliteration": "nirappotta",
+                    "example_sentence_translation": "ইভেন্টের জন্য নিরাপত্তা ব্যবস্থা বাড়ানো হয়।",
+                    "example_sentence_transliteration": "Eventer jonno nirappotta byabostha barano hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "trade",
+            "phonetic": "/treɪd/",
+            "word_native_transliteration": {
+                "bn": "ট্রেড"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "The action of buying and selling goods and services.",
+            "example_sentence": "Trade agreements foster economic development.",
+            "example_sentence_native_transliteration": {
+                "bn": "ট্রেড এগ্রিমেন্টস ফস্টার ইকোনমিক ডেভেলপমেন্ট।"
+            },
+            "position": 11,
+            "synonyms": "commerce, business",
+            "antonyms": "stagnation, unemployment",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাণিজ্য",
+                    "word_transliteration": "banijjo",
+                    "example_sentence_translation": "বাণিজ্য চুক্তি অর্থনৈতিক উন্নয়নকে ত্বরান্বিত করে।",
+                    "example_sentence_transliteration": "Banijjo chukti orthonootik unnoyonkey tworanbit korey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "communication",
+            "phonetic": "/kəˌmjuː.nɪˈkeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "কমিউনিকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💬",
+            "meaning": "The imparting or exchanging of information or ideas.",
+            "example_sentence": "Effective communication strengthens relationships.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইফেক্টিভ কমিউনিকেশন স্ট্রেংথেনস রিলেশনশিপস।"
+            },
+            "position": 12,
+            "synonyms": "interaction, dialogue",
+            "antonyms": "silence, miscommunication",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "যোগাযোগ",
+                    "word_transliteration": "jogajog",
+                    "example_sentence_translation": "কার্যকর যোগাযোগ সম্পর্ক শক্তিশালী করে।",
+                    "example_sentence_transliteration": "Karjokor jogajog somporko shokti shali korey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "representative",
+            "phonetic": "/ˌrep.rɪˈzen.tə.tɪv/",
+            "word_native_transliteration": {
+                "bn": "রিপ্রেজেন্টেটিভ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👤",
+            "meaning": "A person chosen or appointed to act or speak for another or others.",
+            "example_sentence": "The representative addressed critical issues.",
+            "example_sentence_native_transliteration": {
+                "bn": "দি রিপ্রেজেন্টেটিভ অ্যাড্রেসড ক্রিটিক্যাল ইস্যুস।"
+            },
+            "position": 13,
+            "synonyms": "delegate, spokesperson",
+            "antonyms": "opponent, bystander",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিনিধি",
+                    "word_transliteration": "protinidhi",
+                    "example_sentence_translation": "প্রতিনিধি গুরুত্বপূর্ণ বিষয়গুলোর ওপর আলোকপাত করেন।",
+                    "example_sentence_transliteration": "Protinidhi gurutbopurno bishoyguloror opor alokpat koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "contribution",
+            "phonetic": "/ˌkɒn.trɪˈbjuː.ʃən/",
+            "word_native_transliteration": {
+                "bn": "কন্ট্রিবিউশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎁",
+            "meaning": "A gift or payment to a common fund or collection.",
+            "example_sentence": "His contribution to the project was vital.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ কন্ট্রিবিউশন টু দি প্রজেক্ট ওয়াজ ভাইটাল।"
+            },
+            "position": 14,
+            "synonyms": "input, donation",
+            "antonyms": "neglect, withholding",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অবদান",
+                    "word_transliteration": "obdan",
+                    "example_sentence_translation": "প্রকল্পে তার অবদান অত্যন্ত গুরুত্বপূর্ণ ছিল।",
+                    "example_sentence_transliteration": "Proklopey tar obdan ottyonto gurutbopurno chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "vulnerability",
+            "phonetic": "/ˌvʌl.nər.əˈbɪl.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "ভালনারেবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚠️",
+            "meaning": "The quality or state of being exposed to the possibility of being attacked or harmed.",
+            "example_sentence": "Addressing vulnerability is crucial for stability.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাড্রেসিং ভালনারেবিলিটি ইজ ক্রুসিয়াল ফর স্টেবিলিটি।"
+            },
+            "position": 15,
+            "synonyms": "weakness, susceptibility",
+            "antonyms": "strength, resilience",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দুর্বলতা",
+                    "word_transliteration": "durbolota",
+                    "example_sentence_translation": "দুর্বলতা মোকাবিলা স্থিতিশীলতার জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Durbolota mokabila stitishilotay jonno oprihario.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "unified",
+            "phonetic": "/ˈjuː.nɪ.faɪd/",
+            "word_native_transliteration": {
+                "bn": "ইউনিফাইড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🤝",
+            "meaning": "Made into a whole or joined together.",
+            "example_sentence": "A unified approach fosters better outcomes.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ ইউনিফাইড অ্যাপ্রোচ ফস্টারস বেটার আউটকামস।"
+            },
+            "position": 16,
+            "synonyms": "integrated, united",
+            "antonyms": "divided, fragmented",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একতাবদ্ধ",
+                    "word_transliteration": "ektabaddho",
+                    "example_sentence_translation": "একতাবদ্ধ দৃষ্টিভঙ্গি উন্নত ফলাফল নিয়ে আসে।",
+                    "example_sentence_transliteration": "Ektabaddho drishtibhongi unnoto folafolney ashe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sideline",
+            "phonetic": "/ˈsaɪd.laɪn/",
+            "word_native_transliteration": {
+                "bn": "সাইডলাইন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📍",
+            "meaning": "An activity done in addition to one's main job or area of work.",
+            "example_sentence": "The sideline discussions led to mutual understanding.",
+            "example_sentence_native_transliteration": {
+                "bn": "দি সাইডলাইন ডিসকাশনস লেড টু মিউচুয়াল আন্ডারস্ট্যান্ডিং।"
+            },
+            "position": 17,
+            "synonyms": "secondary, peripheral",
+            "antonyms": "central, main",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পার্শ্ব",
+                    "word_transliteration": "parshbo",
+                    "example_sentence_translation": "পার্শ্ব আলোচনা পারস্পরিক বোঝাপড়া বাড়িয়েছে।",
+                    "example_sentence_transliteration": "Parshbo alochona parasporik bojhapora bariyechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "session",
+            "phonetic": "/ˈseʃ.ən/",
+            "word_native_transliteration": {
+                "bn": "সেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🗣️",
+            "meaning": "A meeting devoted to a particular activity.",
+            "example_sentence": "The session focused on youth empowerment.",
+            "example_sentence_native_transliteration": {
+                "bn": "দি সেশন ফোকাসড অন ইউথ এমপাওয়ারমেন্ট।"
+            },
+            "position": 18,
+            "synonyms": "meeting, assembly",
+            "antonyms": "break, pause",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অধিবেশন",
+                    "word_transliteration": "odhibeshon",
+                    "example_sentence_translation": "অধিবেশনটি তরুণদের ক্ষমতায়নের উপর মনোনিবেশ করে।",
+                    "example_sentence_transliteration": "Odhibeshonti torunder kkhomotayoner upor mononibesh korey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "empowerment",
+            "phonetic": "/ɪmˈpaʊə.mənt/",
+            "word_native_transliteration": {
+                "bn": "এমপাওয়ারমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "Authority or power given to someone to do something.",
+            "example_sentence": "Empowerment initiatives enhance confidence.",
+            "example_sentence_native_transliteration": {
+                "bn": "এমপাওয়ারমেন্ট ইনিশিয়েটিভস এনহান্স কনফিডেন্স।"
+            },
+            "position": 19,
+            "synonyms": "enablement, authorization",
+            "antonyms": "disempowerment, oppression",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্ষমতায়ন",
+                    "word_transliteration": "khomotayon",
+                    "example_sentence_translation": "ক্ষমতায়নের উদ্যোগ আত্মবিশ্বাস বাড়ায়।",
+                    "example_sentence_transliteration": "Khomotayoner uddog attobisshas baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "platform",
+            "phonetic": "/ˈplæt.fɔːm/",
+            "word_native_transliteration": {
+                "bn": "প্ল্যাটফর্ম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏛️",
+            "meaning": "A raised level surface on which people or things can stand.",
+            "example_sentence": "The platform was used to discuss collaboration.",
+            "example_sentence_native_transliteration": {
+                "bn": "দি প্ল্যাটফর্ম ওয়াজ ইউজড টু ডিসকাস কলাবোরেশন।"
+            },
+            "position": 20,
+            "synonyms": "stage, basis",
+            "antonyms": "void, absence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মঞ্চ",
+                    "word_transliteration": "moncho",
+                    "example_sentence_translation": "সহযোগিতার বিষয়ে আলোচনার জন্য মঞ্চটি ব্যবহৃত হয়।",
+                    "example_sentence_transliteration": "Sohojogitar bishoyey alochnar jonno monchoti byabrihto hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "regional",
+            "phonetic": "/ˈriː.dʒən.əl/",
+            "word_native_transliteration": {
+                "bn": "রিজিওনাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🗺️",
+            "meaning": "Relating to or characteristic of a region.",
+            "example_sentence": "Regional efforts strengthen mutual ties.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিজিওনাল এফর্টস স্ট্রেংথেন মিউচুয়াল টাইস।"
+            },
+            "position": 21,
+            "synonyms": "local, provincial",
+            "antonyms": "global, international",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আঞ্চলিক",
+                    "word_transliteration": "ancholik",
+                    "example_sentence_translation": "আঞ্চলিক প্রচেষ্টা পারস্পরিক সম্পর্ককে শক্তিশালী করে।",
+                    "example_sentence_transliteration": "Ancholik procheshta parasporik somporkkey shokti shali korey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cooperation",
+            "phonetic": "/kəʊˌɒp.ərˈeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "কো-অপারেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "The process of working together to the same end.",
+            "example_sentence": "Cooperation ensures effective problem-solving.",
+            "example_sentence_native_transliteration": {
+                "bn": "কো-অপারেশন এনশিউরস ইফেক্টিভ প্রবলেম সলভিং।"
+            },
+            "position": 22,
+            "synonyms": "collaboration, assistance",
+            "antonyms": "resistance, opposition",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহযোগিতা",
+                    "word_transliteration": "sohojogita",
+                    "example_sentence_translation": "সহযোগিতা কার্যকর সমস্যা সমাধান নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Sohojogita karjokor shomoshya somadhan nishchito korey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pivotal",
+            "phonetic": "/ˈpɪv.ə.təl/",
+            "word_native_transliteration": {
+                "bn": "পিভোটাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔑",
+            "meaning": "Of crucial importance in relation to the development or success of something else.",
+            "example_sentence": "This pivotal moment defined future strategies.",
+            "example_sentence_native_transliteration": {
+                "bn": "দিস পিভোটাল মোমেন্ট ডিফাইনড ফিউচার স্ট্র্যাটেজিস।"
+            },
+            "position": 23,
+            "synonyms": "crucial, key",
+            "antonyms": "minor, insignificant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গুরুত্বপূর্ণ",
+                    "word_transliteration": "gurutbopurno",
+                    "example_sentence_translation": "এই গুরুত্বপূর্ণ মুহূর্ত ভবিষ্যৎ কৌশল নির্ধারণ করে।",
+                    "example_sentence_transliteration": "Ei gurutbopurno muhurto bhobissyot koushole nirdharon korey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "prospects",
+            "phonetic": "/ˈprɒs.pekts/",
+            "word_native_transliteration": {
+                "bn": "প্রসপেক্টস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌟",
+            "meaning": "The possibility or likelihood of some future event occurring.",
+            "example_sentence": "The prospects for growth look promising.",
+            "example_sentence_native_transliteration": {
+                "bn": "দি প্রসপেক্টস ফর গ্রোথ লুক প্রমিসিং।"
+            },
+            "position": 24,
+            "synonyms": "opportunities, potential",
+            "antonyms": "impossibilities, limitations",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সম্ভাবনা",
+                    "word_transliteration": "shombhabona",
+                    "example_sentence_translation": "উন্নতির সম্ভাবনা প্রতিশ্রুতিশীল দেখা যাচ্ছে।",
+                    "example_sentence_transliteration": "Unnotir shombhabona protishrutishil dekha jacchey.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

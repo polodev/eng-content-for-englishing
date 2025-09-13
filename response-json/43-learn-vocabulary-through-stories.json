@@ -1,0 +1,553 @@
+{
+    "position": 43,
+    "title_translation": {
+        "en": "BIMSTEC Summit: Bangladesh's Leadership in Regional Cooperation",
+        "bn": "বিমসটেক সম্মেলন: আঞ্চলিক সহযোগিতায় বাংলাদেশের নেতৃত্ব"
+    },
+    "content_translation": {
+        "en": "On September 4, 2024, the seventh **summit** of BIMSTEC was held in Bangkok, Thailand. At this **significant summit**, Bangladesh took the chairmanship responsibility, which is a **pivotal milestone** in enhancing **regional collaboration**.\n\nAt the conference, member states discussed **climate adaptation**, **renewable energy**, **energy security**, and **economic sustainability**. Special emphasis was given to **hydropower generation** and **green energy** utilization in Nepal and Bhutan.\n\nIn **sideline discussions**, leaders of the two countries conducted **bilateral negotiations**, where **water-sharing agreements** and **trade facilitation** were discussed.\n\nThe plan to hold the **subsequent summit** in Dhaka in 2025 reflects Bangladesh's **proactive leadership** and **integrative strategies** in regional development. By taking the chairmanship of BIMSTEC, Bangladesh is playing an important role in **regional diplomacy** and **socioeconomic progress**.",
+        "bn": "২০২৪ সালের ৪ সেপ্টেম্বর থাইল্যান্ডের ব্যাংককে বিমসটেকের সপ্তম শীর্ষ সম্মেলন অনুষ্ঠিত হয়। এই **significant summit**-এ বাংলাদেশ সভাপতির দায়িত্ব গ্রহণ করে, যা **regional collaboration** বৃদ্ধির ক্ষেত্রে একটি **pivotal milestone**।\n\nসম্মেলনে সদস্য রাষ্ট্রগুলো **climate adaptation**, **renewable energy**, **energy security**, এবং **economic sustainability** নিয়ে আলোচনা করে। বিশেষ করে, নেপাল ও ভুটানে **hydropower generation** এবং **green energy utilization**-এর ওপর গুরুত্ব দেওয়া হয়।\n\n**Sideline discussions**-এ দুই দেশের নেতারা **bilateral negotiations** চালান, যেখানে **water-sharing agreements** এবং **trade facilitation** নিয়ে আলোচনা হয়।\n\n২০২৫ সালে ঢাকায় **subsequent summit** অনুষ্ঠিত হওয়ার পরিকল্পনা আঞ্চলিক উন্নয়নে বাংলাদেশের **proactive leadership** এবং **integrative strategies**-এর প্রতিফলন। বিমসটেকের সভাপতির দায়িত্ব গ্রহণের মাধ্যমে বাংলাদেশ **regional diplomacy** এবং **socioeconomic progress**-এ গুরুত্বপূর্ণ ভূমিকা রাখছে।"
+    },
+    "list": [
+        {
+            "word": "significant",
+            "phonetic": "/sɪɡˈnɪf.ɪ.kənt/",
+            "word_native_transliteration": {
+                "bn": "সিগনিফিক্যান্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⭐",
+            "meaning": "Having great importance, consequence, or influence; notable or meaningful.",
+            "example_sentence": "Significant achievements shape future policies.",
+            "example_sentence_native_transliteration": {
+                "bn": "সিগনিফিক্যান্ট অ্যাচিভমেন্টস শেইপ ফিউচার পলিসিস।"
+            },
+            "position": 1,
+            "synonyms": "important, noteworthy, substantial, meaningful, considerable, major",
+            "antonyms": "insignificant, trivial, minor, unimportant, negligible, inconsequential",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গুরুত্বপূর্ণ",
+                    "word_transliteration": "guruttbopurno",
+                    "example_sentence_translation": "গুরুত্বপূর্ণ অর্জন ভবিষ্যৎ নীতিমালা গঠন করে।",
+                    "example_sentence_transliteration": "Guruttbopurno orjon bhobishyot nitimala gothon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "summit",
+            "phonetic": "/ˈsʌm.ɪt/",
+            "word_native_transliteration": {
+                "bn": "সামিট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏔️",
+            "meaning": "A high-level meeting between leaders, especially of governments; a conference.",
+            "example_sentence": "The summit addressed pressing global issues.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সামিট অ্যাড্রেসড প্রেসিং গ্লোবাল ইস্যুস।"
+            },
+            "position": 2,
+            "synonyms": "conference, meeting, gathering, convention, assembly, forum",
+            "antonyms": "base, groundwork, foundation, bottom, nadir, valley",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শীর্ষ সম্মেলন",
+                    "word_transliteration": "shirso sommelon",
+                    "example_sentence_translation": "শীর্ষ সম্মেলন গুরুত্বপূর্ণ বৈশ্বিক বিষয়গুলো নিয়ে আলোচনা করেছে।",
+                    "example_sentence_transliteration": "Shirso sommelon guruttbopurno boishbik bishoyguloo niye alochona koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "regional",
+            "phonetic": "/ˈriː.dʒən.əl/",
+            "word_native_transliteration": {
+                "bn": "রিজিওনাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🗺️",
+            "meaning": "Relating to or characteristic of a region; affecting a particular area or district.",
+            "example_sentence": "Regional cooperation strengthens economic ties.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিজিওনাল কো-অপারেশন স্ট্রেংথেনস ইকোনমিক টাইস।"
+            },
+            "position": 3,
+            "synonyms": "local, provincial, territorial, district, area-specific, sectoral",
+            "antonyms": "global, national, international, universal, worldwide, comprehensive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আঞ্চলিক",
+                    "word_transliteration": "ancholic",
+                    "example_sentence_translation": "আঞ্চলিক সহযোগিতা অর্থনৈতিক সম্পর্ক মজবুত করে।",
+                    "example_sentence_transliteration": "Ancholic sohojogita orthonnoitik somporko mojbut kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "collaboration",
+            "phonetic": "/kəˌlæb.əˈreɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "কলাবোরেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "The action of working with someone to produce something; cooperative effort.",
+            "example_sentence": "Collaboration among nations fosters progress.",
+            "example_sentence_native_transliteration": {
+                "bn": "কলাবোরেশন অ্যামং নেশনস ফসটারস প্রোগ্রেস।"
+            },
+            "position": 4,
+            "synonyms": "partnership, alliance, cooperation, teamwork, joint effort, coordination",
+            "antonyms": "conflict, isolation, competition, opposition, rivalry, discord",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহযোগিতা",
+                    "word_transliteration": "sohojogita",
+                    "example_sentence_translation": "জাতির মধ্যে সহযোগিতা অগ্রগতি বাড়ায়।",
+                    "example_sentence_transliteration": "Jatir modhye sohojogita ogroggoti baraye.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pivotal",
+            "phonetic": "/ˈpɪv.ə.təl/",
+            "word_native_transliteration": {
+                "bn": "পিভোটাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔄",
+            "meaning": "Of crucial importance in relation to the development or success of something else.",
+            "example_sentence": "Pivotal moments determine history.",
+            "example_sentence_native_transliteration": {
+                "bn": "পিভোটাল মোমেন্টস ডিটারমাইন হিস্টরি।"
+            },
+            "position": 5,
+            "synonyms": "crucial, key, essential, vital, critical, decisive",
+            "antonyms": "minor, insignificant, peripheral, unimportant, trivial, secondary",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গুরুত্বপূর্ণ",
+                    "word_transliteration": "guruttbopurno",
+                    "example_sentence_translation": "গুরুত্বপূর্ণ মুহূর্ত ইতিহাস নির্ধারণ করে।",
+                    "example_sentence_transliteration": "Guruttbopurno muhurto itihas nirdharon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "milestone",
+            "phonetic": "/ˈmaɪl.stəʊn/",
+            "word_native_transliteration": {
+                "bn": "মাইলস্টোন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "A significant stage or event in the development of something; an important achievement.",
+            "example_sentence": "This milestone marks remarkable growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "দিস মাইলস্টোন মার্কস রিমার্কেবল গ্রোথ।"
+            },
+            "position": 6,
+            "synonyms": "landmark, achievement, breakthrough, turning point, accomplishment, success",
+            "antonyms": "setback, failure, regression, decline, downfall, obstacle",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মাইলফলক",
+                    "word_transliteration": "mailfolok",
+                    "example_sentence_translation": "এই মাইলফলক উল্লেখযোগ্য প্রবৃদ্ধি চিহ্নিত করে।",
+                    "example_sentence_transliteration": "Ei mailfolok ullekhjogyo probridhi chihnito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "climate adaptation",
+            "phonetic": "/ˈklaɪ.mət əˌdæp.teɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ক্লাইমেট অ্যাডাপটেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌍",
+            "meaning": "The process of adjusting to current or expected climate change and its effects.",
+            "example_sentence": "Climate adaptation ensures resilience to change.",
+            "example_sentence_native_transliteration": {
+                "bn": "ক্লাইমেট অ্যাডাপটেশন এনশিওরস রেসিলিয়েনস টু চেঞ্জ।"
+            },
+            "position": 7,
+            "synonyms": "environmental adjustment, climate response, adaptation strategy",
+            "antonyms": "neglect, inaction, climate denial",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জলবায়ু অভিযোজন",
+                    "word_transliteration": "jolbayu obhijojon",
+                    "example_sentence_translation": "জলবায়ু অভিযোজন পরিবর্তনের সাথে মানিয়ে নিতে সহায়ক।",
+                    "example_sentence_transliteration": "Jolbayu obhijojon poribortonor sathe maniye nite sahayok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "renewable",
+            "phonetic": "/rɪˈnjuː.ə.bəl/",
+            "word_native_transliteration": {
+                "bn": "রিনিউএবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "♻️",
+            "meaning": "Able to be renewed or replaced naturally; not depleted when used.",
+            "example_sentence": "Renewable resources minimize environmental damage.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিনিউএবল রিসোর্সেস মিনিমাইজ এনভায়রনমেন্টাল ড্যামেজ।"
+            },
+            "position": 8,
+            "synonyms": "sustainable, green, eco-friendly, clean, recyclable",
+            "antonyms": "non-renewable, finite, exhaustible, limited, depleting",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নবায়নযোগ্য",
+                    "word_transliteration": "nobayonjoggo",
+                    "example_sentence_translation": "নবায়নযোগ্য সম্পদ পরিবেশগত ক্ষতি কমায়।",
+                    "example_sentence_transliteration": "Nobayonjoggo sompod poribeshgoto khoti komaye.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "energy security",
+            "phonetic": "/ˈen.ə.dʒi sɪˈkjʊə.rɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "এনার্জি সিকিউরিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔋",
+            "meaning": "The reliable availability of energy sources at an affordable price for a nation or region.",
+            "example_sentence": "Energy security ensures consistent supply.",
+            "example_sentence_native_transliteration": {
+                "bn": "এনার্জি সিকিউরিটি এনশিওরস কনসিসটেন্ট সাপলাই।"
+            },
+            "position": 9,
+            "synonyms": "energy stability, power security, fuel reliability",
+            "antonyms": "energy scarcity, power shortage, fuel crisis",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জ্বালানি নিরাপত্তা",
+                    "word_transliteration": "jbalani nirapotta",
+                    "example_sentence_translation": "জ্বালানি নিরাপত্তা স্থায়ী সরবরাহ নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Jbalani nirapotta sthayi shorboraho nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "economic sustainability",
+            "phonetic": "/ˌek.əˈnɒm.ɪk səˌsteɪ.nəˈbɪl.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "ইকোনমিক সাসটেইনেবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💰",
+            "meaning": "The ability of an economy to support a defined level of economic production indefinitely.",
+            "example_sentence": "Economic sustainability drives long-term growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইকোনমিক সাসটেইনেবিলিটি ড্রাইভস লং-টার্ম গ্রোথ।"
+            },
+            "position": 10,
+            "synonyms": "financial viability, economic stability, fiscal sustainability",
+            "antonyms": "economic instability, financial crisis, unsustainable growth",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অর্থনৈতিক স্থায়িত্ব",
+                    "word_transliteration": "orthonnoitik sthayitto",
+                    "example_sentence_translation": "অর্থনৈতিক স্থায়িত্ব দীর্ঘমেয়াদী প্রবৃদ্ধি ত্বরান্বিত করে।",
+                    "example_sentence_transliteration": "Orthonnoitik sthayitto dirghomeyadi probridhi tboranbito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "hydropower generation",
+            "phonetic": "/ˈhaɪ.drəʊˌpaʊər ˌdʒen.əˈreɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "হাইড্রোপাওয়ার জেনারেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "The production of electrical power through the use of the gravitational force of falling or flowing water.",
+            "example_sentence": "Hydropower generation promotes green energy.",
+            "example_sentence_native_transliteration": {
+                "bn": "হাইড্রোপাওয়ার জেনারেশন প্রোমোটস গ্রিন এনার্জি।"
+            },
+            "position": 11,
+            "synonyms": "water power production, hydro energy, water-based electricity",
+            "antonyms": "fossil fuel generation, coal power, thermal generation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জলবিদ্যুৎ উৎপাদন",
+                    "word_transliteration": "jolbidyut utpadon",
+                    "example_sentence_translation": "জলবিদ্যুৎ উৎপাদন সবুজ শক্তি প্রচার করে।",
+                    "example_sentence_transliteration": "Jolbidyut utpadon shobuj shokti prochar kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "green energy",
+            "phonetic": "/ˌɡriːn ˈen.ə.dʒi/",
+            "word_native_transliteration": {
+                "bn": "গ্রিন এনার্জি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌱",
+            "meaning": "Energy derived from renewable sources that have minimal environmental impact.",
+            "example_sentence": "Green energy reduces environmental harm.",
+            "example_sentence_native_transliteration": {
+                "bn": "গ্রিন এনার্জি রিডিউসেস এনভায়রনমেন্টাল হার্ম।"
+            },
+            "position": 12,
+            "synonyms": "renewable energy, clean energy, sustainable power",
+            "antonyms": "polluting energy, fossil fuels, dirty energy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সবুজ শক্তি",
+                    "word_transliteration": "shobuj shokti",
+                    "example_sentence_translation": "সবুজ শক্তি পরিবেশগত ক্ষতি কমায়।",
+                    "example_sentence_transliteration": "Shobuj shokti poribeshgoto khoti komaye.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sideline discussions",
+            "phonetic": "/ˈsaɪd.laɪn dɪˈskʌʃənz/",
+            "word_native_transliteration": {
+                "bn": "সাইডলাইন ডিসকাশনস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💬",
+            "meaning": "Informal or secondary conversations that occur outside the main agenda of a formal meeting.",
+            "example_sentence": "Sideline discussions often lead to agreements.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাইডলাইন ডিসকাশনস অফটেন লিড টু এগ্রিমেন্টস।"
+            },
+            "position": 13,
+            "synonyms": "secondary talks, informal conversations, side meetings",
+            "antonyms": "main debates, formal sessions, official discussions",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পার্শ্ব আলোচনা",
+                    "word_transliteration": "parshbo alochona",
+                    "example_sentence_translation": "পার্শ্ব আলোচনা প্রায়ই চুক্তিতে পৌঁছায়।",
+                    "example_sentence_transliteration": "Parshbo alochona prayoi chuktite pouchaye.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "bilateral negotiations",
+            "phonetic": "/ˌbaɪˈlæt.ər.əl nɪˌɡəʊ.ʃiˈeɪ.ʃənz/",
+            "word_native_transliteration": {
+                "bn": "বিল্যাটেরাল নেগোশিয়েশনস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "Negotiations or discussions between two parties, typically countries or organizations.",
+            "example_sentence": "Bilateral negotiations resolve disputes.",
+            "example_sentence_native_transliteration": {
+                "bn": "বিল্যাটেরাল নেগোশিয়েশনস রেসলভ ডিসপিউটস।"
+            },
+            "position": 14,
+            "synonyms": "two-way talks, bipartisan discussions, dual negotiations",
+            "antonyms": "unilateral decisions, multilateral talks, solo actions",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্বিপাক্ষিক আলোচনা",
+                    "word_transliteration": "dbipokkho alochona",
+                    "example_sentence_translation": "দ্বিপাক্ষিক আলোচনা বিরোধ মেটায়।",
+                    "example_sentence_transliteration": "Dbipokkho alochona birodh metaye.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "agreements",
+            "phonetic": "/əˈɡriː.mənts/",
+            "word_native_transliteration": {
+                "bn": "অ্যাগ্রিমেন্টস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📋",
+            "meaning": "Formal arrangements or understandings between two or more parties.",
+            "example_sentence": "Agreements strengthen partnerships.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাগ্রিমেন্টস স্ট্রেংথেন পার্টনারশিপস।"
+            },
+            "position": 15,
+            "synonyms": "pacts, contracts, treaties, accords, deals, arrangements",
+            "antonyms": "disagreements, conflicts, disputes, rejections, oppositions",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চুক্তি",
+                    "word_transliteration": "chukti",
+                    "example_sentence_translation": "চুক্তি অংশীদারিত্বকে শক্তিশালী করে।",
+                    "example_sentence_transliteration": "Chukti ongshidarittoke shoktishali kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "trade facilitation",
+            "phonetic": "/treɪd fəˌsɪl.ɪˈteɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ট্রেড ফ্যাসিলিটেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📦",
+            "meaning": "The simplification, modernization and harmonization of export and import processes.",
+            "example_sentence": "Trade facilitation boosts economic growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "ট্রেড ফ্যাসিলিটেশন বুস্টস ইকোনমিক গ্রোথ।"
+            },
+            "position": 16,
+            "synonyms": "commerce support, trade enhancement, business facilitation",
+            "antonyms": "trade barriers, commercial restrictions, import/export obstacles",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাণিজ্য সহজতর",
+                    "word_transliteration": "banijyo shojotoro",
+                    "example_sentence_translation": "বাণিজ্য সহজতর অর্থনৈতিক প্রবৃদ্ধি বাড়ায়।",
+                    "example_sentence_transliteration": "Banijyo shojotoro orthonnoitik probridhi baraye.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "subsequent",
+            "phonetic": "/ˈsʌb.sɪ.kwənt/",
+            "word_native_transliteration": {
+                "bn": "সাবসিকুয়েন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "➡️",
+            "meaning": "Coming after something in time; following in time or order.",
+            "example_sentence": "Subsequent events clarified the outcomes.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাবসিকুয়েন্ট ইভেন্টস ক্লারিফাইড দ্য আউটকামস।"
+            },
+            "position": 17,
+            "synonyms": "following, succeeding, next, later, ensuing, consecutive",
+            "antonyms": "previous, prior, earlier, preceding, former, antecedent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরবর্তী",
+                    "word_transliteration": "poroborti",
+                    "example_sentence_translation": "পরবর্তী ঘটনাগুলি ফলাফল স্পষ্ট করে।",
+                    "example_sentence_transliteration": "Poroborti ghotanaguloo folafolko sposhto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "proactive leadership",
+            "phonetic": "/ˌprəʊˈæk.tɪv ˈliː.də.ʃɪp/",
+            "word_native_transliteration": {
+                "bn": "প্রো-অ্যাকটিভ লিডারশিপ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👨‍💼",
+            "meaning": "Leadership that takes initiative and anticipates problems before they occur, rather than reacting to events.",
+            "example_sentence": "Proactive leadership ensures timely decisions.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রো-অ্যাকটিভ লিডারশিপ এনশিওরস টাইমলি ডিসিশনস।"
+            },
+            "position": 18,
+            "synonyms": "dynamic leadership, forward-thinking leadership, initiative-taking management",
+            "antonyms": "passive management, reactive leadership, indecisive governance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সক্রিয় নেতৃত্ব",
+                    "word_transliteration": "shokriyo netritho",
+                    "example_sentence_translation": "সক্রিয় নেতৃত্ব সময়োপযোগী সিদ্ধান্ত নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Shokriyo netritho shomoyopojogi siddhanto nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "integrative diplomacy",
+            "phonetic": "/ˈɪn.tɪ.ɡreɪ.tɪv dɪˈpləʊ.mə.si/",
+            "word_native_transliteration": {
+                "bn": "ইন্টিগ্রেটিভ ডিপ্লোমেসি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌐",
+            "meaning": "A diplomatic approach that seeks to combine or coordinate different elements, interests, or parties into a unified whole.",
+            "example_sentence": "Integrative diplomacy strengthens alliances.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইন্টিগ্রেটিভ ডিপ্লোমেসি স্ট্রেংথেনস অ্যালায়েন্সেস।"
+            },
+            "position": 19,
+            "synonyms": "inclusive negotiation, comprehensive diplomacy, unified approach",
+            "antonyms": "divisive diplomacy, isolationist policy, fragmented approach",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সমন্বিত কূটনীতি",
+                    "word_transliteration": "shomombito kutniti",
+                    "example_sentence_translation": "সমন্বিত কূটনীতি মিত্রতা মজবুত করে।",
+                    "example_sentence_transliteration": "Shomombito kutniti mitrata mojbut kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "socioeconomic progress",
+            "phonetic": "/ˌsəʊ.ʃi.əʊˈek.ə.nɒm.ɪk ˈprɒɡ.res/",
+            "word_native_transliteration": {
+                "bn": "সোশিওইকোনমিক প্রোগ্রেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "Advancement in both social and economic conditions of a society or community.",
+            "example_sentence": "Socioeconomic progress uplifts marginalized communities.",
+            "example_sentence_native_transliteration": {
+                "bn": "সোশিওইকোনমিক প্রোগ্রেস আপলিফটস মার্জিনালাইজড কমিউনিটিস।"
+            },
+            "position": 20,
+            "synonyms": "economic development, social advancement, comprehensive growth",
+            "antonyms": "stagnation, regression, economic decline",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আর্থসামাজিক অগ্রগতি",
+                    "word_transliteration": "arthoshamaejik ogroggoti",
+                    "example_sentence_translation": "আর্থসামাজিক অগ্রগতি প্রান্তিক জনগোষ্ঠীকে উন্নীত করে।",
+                    "example_sentence_transliteration": "Arthoshamaejik ogroggoti prantik jonogoshtikke unnito kore.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,337 @@
+{
+    "position": 42,
+    "title_translation": {
+        "en": "The Great Wall of China",
+        "bn": "চীনের মহাপ্রাচীর"
+    },
+    "content_translation": {
+        "en": "The **Great Wall of China** is a long **structure** made of stone and earth. It was built and maintained from the 5th century BC to the 16th century AD to protect China's northern **boundary**. Many such **fortifications** were built, but the **barrier** built by China's first emperor Shi Huang Ti between 220 BC and 200 BC is the most famous. It is located far north of the current wall and very few **remnants** of it remain. The current wall was built during the Ming Dynasty.\n\nThe Great Wall of China is the largest **architecture** on Earth made by human hands. The height of this wall is about 5 to 8 meters and the length is 8851.8 kilometers. It starts near Shanghai and ends at a place called Lopnur.\n\nConstruction of its main part began around 208 BC. The construction work was started by the Chinese or Chinese during the Qin Empire. China's first emperor Qin Shi Huang first used it and built it longer to protect his **territory** from enemies. Besides China's natural **barriers**, it was used for guarding other areas and was the first line of **defense** against the northern Chinese tribes Xiongnu.\n\nIn the history of the Han, Sui, Northern and Jin empires, there are mentions of **modification**, **expansion**, and **reconstruction** of the Chinese wall for the same reason they built it.",
+        "bn": "চীনের মহাপ্রাচীর পাথর ও মাটি দিয়ে তৈরি দীর্ঘ **structure**। এগুলি খ্রিস্টপূর্ব ৫ম শতক থেকে খ্রিস্টীয় ১৬শ শতক পর্যন্ত চীনের উত্তর **boundary** রক্ষা করার জন্য তৈরি ও রক্ষণাবেক্ষণ করা হয়। এরকম অনেকগুলি **fortifications** তৈরি করা হয়েছিল, তবে ২২০ খ্রিস্টপূর্বাব্দ থেকে ২০০ খ্রিস্টপূর্বাব্দের মধ্যবর্তী সময়ে চীনের প্রথম সম্রাট শি - হোয়াং তিনি নির্মিত **barrier** টিই সবচেয়ে বিখ্যাত। এটি বর্তমান **wall** এর অনেক উত্তরে অবস্থিত এবং এর খুব সামান্যই **remnants** আছে। বর্তমান প্রাচীরটি মিং রাজবংশের শাসনামলে নির্মিত হয়।\n\nচীনের মহাপ্রাচীর মানুষের হাতে তৈরি পৃথিবীর সবচেয়ে বড় **architecture**। এই প্রাচীরের উচ্চতা প্রায় ৫ থেকে ৮ মিটার এবং দৈর্ঘ্য ৮৮৫১.৮ কিলোমিটার। এটি শুরু হয়েছে সাংহাই পাশ এবং শেষ হয়েছে লোপনুর নামক স্থানে।\n\nএর মূল অংশের নির্মাণ শুরু হয়েছিল প্রায় খ্রিস্টপূর্ব ২০৮ সালের দিকে। নির্মাণ কাজ শুরু করেছিলেন চৈনিক বা চাইনিজরা কিন সাম্রাজ্যের সময়। চীনের প্রথম সম্রাট কিন সি হুয়াং এটি প্রথম ব্যবহার করেছিলেন এবং শত্রুর হাত থেকে নিজের **territory** কে রক্ষার জন্য দীর্ঘ করে নির্মাণ করেছিলেন। এটি চীনের প্রকৃতিক **barriers** ছাড়া অন্যান্য অঞ্চল পাহারা দেওয়ার কাজে এবং উত্তর চীনের উপজাতি সুইং নু বিরুদ্ধে এটি প্রথম স্তরের **defense** ব্যবস্থা ছিল।\n\nহান, সুই, নরদান এবং জিং সাম্রাজ্যের সময়ের ইতিহাসেও যে কারণে তারা এটি তৈরি করেছিলেন ঠিক একই কারণে চীনের প্রাচীরের **modification**, **expansion**, এবং **reconstruction** এর উল্লেখ আছে।"
+    },
+    "list": [
+        {
+            "word": "structure",
+            "phonetic": "ˈstrʌktʃə(r)",
+            "word_native_transliteration": {
+                "bn": "স্ট্রাকচার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏗️",
+            "meaning": "A building or other object constructed from several parts; the arrangement of and relations between the parts or elements of something complex.",
+            "example_sentence": "The structure of the building was impressive.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্ট্রাকচার অফ দ্য বিল্ডিং ওয়াজ ইমপ্রেসিভ।"
+            },
+            "position": 1,
+            "synonyms": "formation, framework",
+            "antonyms": "disorganization, chaos",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গঠন",
+                    "word_transliteration": "gothon",
+                    "example_sentence_translation": "ভবনের গঠনটি চমৎকার ছিল।",
+                    "example_sentence_transliteration": "Bhoboner gothonti chomotkar chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "boundary",
+            "phonetic": "ˈbaʊndəri",
+            "word_native_transliteration": {
+                "bn": "বাউন্ডারি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔲",
+            "meaning": "A line that marks the limits of an area; a dividing line.",
+            "example_sentence": "The river marks the boundary.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রিভার মার্কস দ্য বাউন্ডারি।"
+            },
+            "position": 2,
+            "synonyms": "border, limit",
+            "antonyms": "center, interior",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সীমানা",
+                    "word_transliteration": "shimana",
+                    "example_sentence_translation": "নদীটি সীমানা নির্দেশ করে।",
+                    "example_sentence_transliteration": "Noditi shimana nirdesh kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fortification",
+            "phonetic": "ˌfɔːtɪfɪˈkeɪʃn",
+            "word_native_transliteration": {
+                "bn": "ফর্টিফিকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏰",
+            "meaning": "A defensive wall or other reinforcement built to strengthen a place against attack.",
+            "example_sentence": "The fortifications protected the city.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফর্টিফিকেশনস প্রোটেকটেড দ্য সিটি।"
+            },
+            "position": 3,
+            "synonyms": "bastion, stronghold",
+            "antonyms": "weakness, vulnerability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দুর্গীকরণ",
+                    "word_transliteration": "durgikoron",
+                    "example_sentence_translation": "দুর্গীকরণ শহরকে রক্ষা করেছিল।",
+                    "example_sentence_transliteration": "Durgikoron shohorke roksha korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "remnants",
+            "phonetic": "ˈremnənts",
+            "word_native_transliteration": {
+                "bn": "রেমন্যান্টস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧱",
+            "meaning": "A small remaining quantity of something; a surviving trace.",
+            "example_sentence": "The remnants of the wall are still visible.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রেমন্যান্টস অফ দ্য ওয়াল আর স্টিল ভিজিবল।"
+            },
+            "position": 4,
+            "synonyms": "remains, residue",
+            "antonyms": "whole, entirety",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অবশেষ",
+                    "word_transliteration": "oboshesh",
+                    "example_sentence_translation": "দেয়ালের অবশেষ এখনও দৃশ্যমান।",
+                    "example_sentence_transliteration": "Deyaler oboshesh ekhono drishyoman.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "architecture",
+            "phonetic": "ˈɑːkɪtektʃə(r)",
+            "word_native_transliteration": {
+                "bn": "আর্কিটেকচার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏛️",
+            "meaning": "The art or science of designing and constructing buildings.",
+            "example_sentence": "Ancient architecture is fascinating.",
+            "example_sentence_native_transliteration": {
+                "bn": "এনসিয়েন্ট আর্কিটেকচার ইজ ফ্যাসিনেটিং।"
+            },
+            "position": 5,
+            "synonyms": "design, construction",
+            "antonyms": "demolition, deconstruction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্থাপত্য",
+                    "word_transliteration": "sthapotyro",
+                    "example_sentence_translation": "প্রাচীন স্থাপত্য মনোমুগ্ধকর।",
+                    "example_sentence_transliteration": "Prachin sthapotyro monomugdhkor.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "territory",
+            "phonetic": "ˈterɪtəri",
+            "word_native_transliteration": {
+                "bn": "টেরিটরি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🗺️",
+            "meaning": "An area of land under the jurisdiction of a ruler or state.",
+            "example_sentence": "The king expanded his territory.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কিং এক্সপ্যান্ডেড হিজ টেরিটরি।"
+            },
+            "position": 6,
+            "synonyms": "region, domain",
+            "antonyms": "foreign land, expanse",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অঞ্চল",
+                    "word_transliteration": "onchol",
+                    "example_sentence_translation": "রাজা তার অঞ্চল সম্প্রসারিত করেছিলেন।",
+                    "example_sentence_transliteration": "Raja tar onchol somprosarito korechhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "barrier",
+            "phonetic": "ˈbæriə(r)",
+            "word_native_transliteration": {
+                "bn": "ব্যারিয়ার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚧",
+            "meaning": "A fence or other obstacle that prevents movement or access.",
+            "example_sentence": "The barrier prevented entry.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ব্যারিয়ার প্রিভেন্টেড এন্ট্রি।"
+            },
+            "position": 7,
+            "synonyms": "obstacle, hurdle",
+            "antonyms": "access, opening",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাধা",
+                    "word_transliteration": "badha",
+                    "example_sentence_translation": "বাধা প্রবেশ ঠেকিয়েছিল।",
+                    "example_sentence_transliteration": "Badha probesh thekiyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "defense",
+            "phonetic": "dɪˈfens",
+            "word_native_transliteration": {
+                "bn": "ডিফেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛡️",
+            "meaning": "The action of defending from or resisting attack.",
+            "example_sentence": "The defense strategy was effective.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডিফেন্স স্ট্র্যাটেজি ওয়াজ ইফেক্টিভ।"
+            },
+            "position": 8,
+            "synonyms": "protection, security",
+            "antonyms": "attack, assault",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিরক্ষা",
+                    "word_transliteration": "protiroksha",
+                    "example_sentence_translation": "প্রতিরক্ষা কৌশল কার্যকর ছিল।",
+                    "example_sentence_transliteration": "Protiroksha koushol karjyokor chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "modification",
+            "phonetic": "ˌmɒdɪfɪˈkeɪʃn",
+            "word_native_transliteration": {
+                "bn": "মডিফিকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔧",
+            "meaning": "The action of making changes to something.",
+            "example_sentence": "The plan required modification.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্ল্যান রিকোয়ার্ড মডিফিকেশন।"
+            },
+            "position": 9,
+            "synonyms": "adjustment, alteration",
+            "antonyms": "preservation, constancy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিবর্তন",
+                    "word_transliteration": "poriborton",
+                    "example_sentence_translation": "পরিকল্পনার পরিবর্তন প্রয়োজন।",
+                    "example_sentence_transliteration": "Porikolponar poriborton proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "expansion",
+            "phonetic": "ɪkˈspænʃn",
+            "word_native_transliteration": {
+                "bn": "এক্সপ্যানশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "The action of becoming larger or more extensive.",
+            "example_sentence": "Expansion of the wall was essential.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সপ্যানশন অফ দ্য ওয়াল ওয়াজ এসেনশিয়াল।"
+            },
+            "position": 10,
+            "synonyms": "enlargement, growth",
+            "antonyms": "reduction, contraction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সম্প্রসারণ",
+                    "word_transliteration": "somprosaaron",
+                    "example_sentence_translation": "দেয়ালের সম্প্রসারণ অপরিহার্য ছিল।",
+                    "example_sentence_transliteration": "Deyaler somprosaaron oporiharjyo chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "reconstruction",
+            "phonetic": "ˌriːkənˈstrʌkʃn",
+            "word_native_transliteration": {
+                "bn": "রিকনস্ট্রাকশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔨",
+            "meaning": "The action or process of reconstructing or being reconstructed.",
+            "example_sentence": "The reconstruction project took years.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রিকনস্ট্রাকশন প্রজেক্ট টুক ইয়ার্স।"
+            },
+            "position": 11,
+            "synonyms": "rebuilding, renewal",
+            "antonyms": "destruction, ruin",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুনর্গঠন",
+                    "word_transliteration": "punorgothon",
+                    "example_sentence_translation": "পুনর্গঠনের প্রকল্পে কয়েক বছর লেগেছে।",
+                    "example_sentence_transliteration": "Punorgothoner prokolpe koyok bochor legechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "strategic",
+            "phonetic": "strəˈtiːdʒɪk",
+            "word_native_transliteration": {
+                "bn": "স্ট্র্যাটেজিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎯",
+            "meaning": "Relating to the identification of long-term or overall aims and interests and the means of achieving them.",
+            "example_sentence": "Strategic decisions are vital for growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্ট্র্যাটেজিক ডিসিশনস আর ভাইটাল ফর গ্রোথ।"
+            },
+            "position": 12,
+            "synonyms": "tactical, planned",
+            "antonyms": "haphazard, unplanned",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কৌশলগত",
+                    "word_transliteration": "kousholgooto",
+                    "example_sentence_translation": "কৌশলগত সিদ্ধান্ত বৃদ্ধির জন্য গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Kousholgooto siddhanto briddhir jonyo guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

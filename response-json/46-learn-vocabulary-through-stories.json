@@ -1,0 +1,364 @@
+{
+    "position": 46,
+    "title_translation": {
+        "en": "The Strength of the Strong Force",
+        "bn": "শক্তিশালী বলের শক্তি কত"
+    },
+    "content_translation": {
+        "en": "Among the four forces of nature, the most powerful force is called the **strong nuclear force**. It **binds** quark particles together, and these **quark particles** form **protons** and **neutrons**. These stay together **compactly** to form the **nucleus**.\n\nThe charge of **protons** is **positive** and the charge of **neutrons** is **neutral**. Electrically charged **protons** **repel** other **protons**. Therefore, the **arrangement** of multiple **protons** in the **nucleus** is complex. However, except for hydrogen, the number of **protons** increases in other elements. For example, the **helium nucleus** has two **protons** and uranium has 92 **protons**.\n\nThese **protons** and **neutrons** can **adhere** to each other only through the **strong** force. The **electromagnetic force** that works between **protons** is overcome by establishing **dominance** by the **strong** force. That's why it's called the **strong nuclear force**.",
+        "bn": "প্রকৃতির চারটি বলের মধ্যে সবচেয়ে শক্তিশালী বলটির নাম সবল বা **strong nuclear force**। এটি কোয়ার্ক কণাগুলোকে একত্রে **bind** করে রাখে এবং এই **quark particles** গঠন করে **protons** ও **neutrons**। এগুলো একসঙ্গে **compactly** থেকে তৈরি করে **nucleus**।\n\nপ্রোটনের চার্জ **positive** এবং নিউট্রনের চার্জ **neutral**। বৈদ্যুতিকভাবে চার্জিত প্রোটন অন্য প্রোটনকে **repel** করে। তাই **nucleus**-এ একাধিক প্রোটনের **arrangement** জটিল। অথচ হাইড্রোজেন ছাড়া অন্য মৌলে প্রোটনের সংখ্যা বাড়ে। উদাহরণস্বরূপ, **helium nucleus**-এ দুটি প্রোটন থাকে এবং ইউরেনিয়ামে থাকে ৯২টি প্রোটন।\n\nএই প্রোটন ও নিউট্রন পরস্পরের সঙ্গে **adhere** করতে পারে শুধুমাত্র শক্তিশালী বলের মাধ্যমে। প্রোটনের মধ্যে যে **electromagnetic force** কাজ করে, তা বাতিল করে **dominance** স্থাপন করে সবল বল। এজন্যই এর নাম **strong nuclear force**।"
+    },
+    "list": [
+        {
+            "word": "force",
+            "phonetic": "fɔːrs",
+            "word_native_transliteration": {
+                "bn": "ফোর্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "A physical power or energy that can cause movement, change, or influence.",
+            "example_sentence": "Strong nuclear force binds particles.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্ট্রং নিউক্লিয়ার ফোর্স বাইন্ডস পার্টিকলস।"
+            },
+            "position": 1,
+            "synonyms": "power, energy",
+            "antonyms": "weakness, fragility",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বল",
+                    "word_transliteration": "bol",
+                    "example_sentence_translation": "শক্তিশালী পারমাণবিক বল কণাগুলোকে ধরে রাখে।",
+                    "example_sentence_transliteration": "Shokti-shali paramanobik bol konaggulo ke dhore rakhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "bind",
+            "phonetic": "baɪnd",
+            "word_native_transliteration": {
+                "bn": "বাইন্ড"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔗",
+            "meaning": "To tie, fasten, or hold together securely.",
+            "example_sentence": "This force binds quarks together.",
+            "example_sentence_native_transliteration": {
+                "bn": "দিস ফোর্স বাইন্ডস কোয়ার্কস টুগেদার।"
+            },
+            "position": 2,
+            "synonyms": "tie, unite",
+            "antonyms": "separate, disconnect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বন্ধন করা",
+                    "word_transliteration": "bondhon kora",
+                    "example_sentence_translation": "এই বল কোয়ার্ক কণাগুলোকে একত্রে ধরে রাখে।",
+                    "example_sentence_transliteration": "Ei bol quark konaggulo ke ekotre dhore rakhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "quark",
+            "phonetic": "kwɔːrk",
+            "word_native_transliteration": {
+                "bn": "কোয়ার্ক"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔬",
+            "meaning": "A fundamental subatomic particle that combines to form protons and neutrons.",
+            "example_sentence": "Quarks form protons and neutrons.",
+            "example_sentence_native_transliteration": {
+                "bn": "কোয়ার্কস ফর্ম প্রোটনস অ্যান্ড নিউট্রনস।"
+            },
+            "position": 3,
+            "synonyms": "particle, subatomic unit",
+            "antonyms": "none (N/A)",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরমাণুর ক্ষুদ্রতম কণা",
+                    "word_transliteration": "poramanur khudrotom kona",
+                    "example_sentence_translation": "কোয়ার্ক কণাগুলো প্রোটন ও নিউট্রন গঠন করে।",
+                    "example_sentence_transliteration": "Quark konaggulo proton o neutron gothon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "nucleus",
+            "phonetic": "ˈnuːkliəs",
+            "word_native_transliteration": {
+                "bn": "নিউক্লিয়াস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚛️",
+            "meaning": "The central core of an atom containing protons and neutrons.",
+            "example_sentence": "The nucleus consists of protons.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিউক্লিয়াস কনসিস্টস অফ প্রোটনস।"
+            },
+            "position": 4,
+            "synonyms": "core, center",
+            "antonyms": "periphery, outside",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কেন্দ্রক",
+                    "word_transliteration": "kendrok",
+                    "example_sentence_translation": "কেন্দ্রক প্রোটন নিয়ে গঠিত।",
+                    "example_sentence_transliteration": "Kendrok proton niye gothito.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "positive",
+            "phonetic": "ˈpɒzətɪv",
+            "word_native_transliteration": {
+                "bn": "পজিটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "➕",
+            "meaning": "Having an electric charge opposite to that of an electron.",
+            "example_sentence": "Protons have a positive charge.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোটনস হ্যাভ অ্যা পজিটিভ চার্জ।"
+            },
+            "position": 5,
+            "synonyms": "affirmative, plus",
+            "antonyms": "negative, neutral",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ধনাত্মক",
+                    "word_transliteration": "dhonatmok",
+                    "example_sentence_translation": "প্রোটনের চার্জ ধনাত্মক।",
+                    "example_sentence_transliteration": "Protoner charge dhonatmok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "neutral",
+            "phonetic": "ˈnjuːtrəl",
+            "word_native_transliteration": {
+                "bn": "নিউট্রাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚖️",
+            "meaning": "Having no electric charge; neither positive nor negative.",
+            "example_sentence": "Neutrons are electrically neutral.",
+            "example_sentence_native_transliteration": {
+                "bn": "নিউট্রনস আর ইলেকট্রিকালি নিউট্রাল।"
+            },
+            "position": 6,
+            "synonyms": "unbiased, uncharged",
+            "antonyms": "charged, biased",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিরপেক্ষ",
+                    "word_transliteration": "niropeksho",
+                    "example_sentence_translation": "নিউট্রন চার্জ নিরপেক্ষ।",
+                    "example_sentence_transliteration": "Neutron charge niropeksho.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "repel",
+            "phonetic": "rɪˈpel",
+            "word_native_transliteration": {
+                "bn": "রিপেল"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔄",
+            "meaning": "To push away or force apart due to similar charges or properties.",
+            "example_sentence": "Protons repel each other.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোটনস রিপেল ইচ আদার।"
+            },
+            "position": 7,
+            "synonyms": "push away, reject",
+            "antonyms": "attract, pull",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিকর্ষণ করা",
+                    "word_transliteration": "bikorshon kora",
+                    "example_sentence_translation": "প্রোটন একে অপরকে বিকর্ষণ করে।",
+                    "example_sentence_transliteration": "Proton eke oporke bikorshon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "compactly",
+            "phonetic": "kəmˈpæktli",
+            "word_native_transliteration": {
+                "bn": "কমপ্যাক্টলি"
+            },
+            "parts_of_speech": "adverb",
+            "emoji": "📦",
+            "meaning": "In a closely packed or dense manner.",
+            "example_sentence": "Protons and neutrons are compactly arranged.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোটনস অ্যান্ড নিউট্রনস আর কমপ্যাক্টলি অ্যারেঞ্জড।"
+            },
+            "position": 8,
+            "synonyms": "densely, closely",
+            "antonyms": "loosely, scattered",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংবদ্ধভাবে",
+                    "word_transliteration": "songoboddhobhabe",
+                    "example_sentence_translation": "প্রোটন ও নিউট্রন সংবদ্ধভাবে থাকে।",
+                    "example_sentence_transliteration": "Proton o neutron songoboddhobhabe thake.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "adhere",
+            "phonetic": "ədˈhɪər",
+            "word_native_transliteration": {
+                "bn": "অ্যাডহিয়ার"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🤝",
+            "meaning": "To stick firmly to something or stay attached.",
+            "example_sentence": "Neutrons adhere to protons.",
+            "example_sentence_native_transliteration": {
+                "bn": "নিউট্রনস অ্যাডহিয়ার টু প্রোটনস।"
+            },
+            "position": 9,
+            "synonyms": "stick, cling",
+            "antonyms": "detach, separate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "লেগে থাকা",
+                    "word_transliteration": "lege thaka",
+                    "example_sentence_translation": "নিউট্রন প্রোটনের সঙ্গে লেগে থাকে।",
+                    "example_sentence_transliteration": "Neutron protoner songge lege thake.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dominance",
+            "phonetic": "ˈdɒmɪnəns",
+            "word_native_transliteration": {
+                "bn": "ডমিন্যান্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👑",
+            "meaning": "The state of having power, control, or influence over others.",
+            "example_sentence": "Strong force exerts dominance over other forces.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্ট্রং ফোর্স এগজার্টস ডমিন্যান্স ওভার আদার ফোর্সেস।"
+            },
+            "position": 10,
+            "synonyms": "supremacy, authority",
+            "antonyms": "inferiority, submission",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আধিপত্য",
+                    "word_transliteration": "adhipotyo",
+                    "example_sentence_translation": "শক্তিশালী বল অন্যান্য বলের ওপর আধিপত্য বিস্তার করে।",
+                    "example_sentence_transliteration": "Shokti-shali bol onyanyo boler opor adhipotyo bistar kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "electromagnetic",
+            "phonetic": "ɪˌlektrəʊmæɡˈnetɪk",
+            "word_native_transliteration": {
+                "bn": "ইলেকট্রোম্যাগনেটিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧲",
+            "meaning": "Relating to both electricity and magnetism or their interaction.",
+            "example_sentence": "Electromagnetic forces repel protons.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইলেকট্রোম্যাগনেটিক ফোর্সেস রিপেল প্রোটনস।"
+            },
+            "position": 11,
+            "synonyms": "electric, magnetic",
+            "antonyms": "static, uncharged",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিদ্যুৎচুম্বকীয়",
+                    "word_transliteration": "bidyutchumbokiyo",
+                    "example_sentence_translation": "বিদ্যুৎচুম্বকীয় বল প্রোটনকে বিকর্ষণ করে।",
+                    "example_sentence_transliteration": "Bidyutchumbokiyo bol protonke bikorshon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "arrangement",
+            "phonetic": "əˈreɪndʒmənt",
+            "word_native_transliteration": {
+                "bn": "অ্যারেঞ্জমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏗️",
+            "meaning": "The way things are organized, positioned, or structured.",
+            "example_sentence": "The arrangement of protons in the nucleus is critical.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যারেঞ্জমেন্ট অফ প্রোটনস ইন দ্য নিউক্লিয়াস ইজ ক্রিটিকাল।"
+            },
+            "position": 12,
+            "synonyms": "order, organization",
+            "antonyms": "disorder, chaos",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিন্যাস",
+                    "word_transliteration": "binyas",
+                    "example_sentence_translation": "নিউক্লিয়াসে প্রোটনের বিন্যাস অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Nucliase protoner binyas ottyonto guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "stable",
+            "phonetic": "ˈsteɪbl",
+            "word_native_transliteration": {
+                "bn": "স্টেবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚖️",
+            "meaning": "Not likely to change or fail; firmly established.",
+            "example_sentence": "Strong nuclear force keeps the nucleus stable.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্ট্রং নিউক্লিয়ার ফোর্স কিপস দ্য নিউক্লিয়াস স্টেবল।"
+            },
+            "position": 13,
+            "synonyms": "steady, secure",
+            "antonyms": "unstable, volatile",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্থিতিশীল",
+                    "word_transliteration": "sthitishil",
+                    "example_sentence_translation": "শক্তিশালী পারমাণবিক বল নিউক্লিয়াসকে স্থিতিশীল রাখে।",
+                    "example_sentence_transliteration": "Shokti-shali paramanobik bol nucliasoke sthitishil rakhe.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}
