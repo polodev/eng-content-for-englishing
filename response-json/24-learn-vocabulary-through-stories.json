@@ -1,0 +1,310 @@
+{
+    "position": 24,
+    "title_translation": {
+        "en": "Learn Vocabulary Through Stories - Robotic Surgery",
+        "bn": "গল্পের মাধ্যমে শব্দভান্ডার শিখুন - রোবটিক সার্জারি"
+    },
+    "content_translation": {
+        "en": "Bangladesh's era of **robotic surgery** began in 2024 at Rangpur Community Medical College Hospital. This is the country's first **robotic surgery center**, which is an important example of **technological advancement** in the medical field. **Robotic surgery** helps patients complete complex operations more **precisely** and effectively.\n\nBefore this, in January 2023, the first **robotic angioplasty** was successfully completed at the National Institute of Cardiovascular Diseases (NICVD). In this process, **stents** were placed in the arteries of two heart patients through **robot-assisted procedures**. This opened a new **frontier** in the country's healthcare system.\n\nThrough **robotic surgery**, medical care can be made more **efficient**, safer and effective in dealing with complex physical conditions. This center is a **revolutionary breakthrough** in Bangladesh's medical field and a **milestone** in ensuring international standard medical care.",
+        "bn": "বাংলাদেশের **robotic surgery**-এর যুগ শুরু হয় ২০২৪ সালে রংপুর কমিউনিটি মেডিকেল কলেজ হাসপাতালে। এটি দেশের প্রথম **robotic surgery center**, যা চিকিৎসা খাতে প্রযুক্তিগত **advancement**-এর একটি গুরুত্বপূর্ণ উদাহরণ। রোবটিক সার্জারি রোগীদের জটিল অপারেশন আরও **precisely** এবং কার্যকরভাবে সম্পন্ন করতে সহায়ক।\n\nএর আগে, ২০২৩ সালের জানুয়ারি মাসে জাতীয় হৃদরোগ ইনস্টিটিউট ও হাসপাতালে (এনআইসিভিডি) প্রথমবারের মতো রোবটিক **angioplasty** সফলভাবে সম্পন্ন হয়। এই প্রক্রিয়ায় **robot-assisted procedures**-এর মাধ্যমে দুজন হৃদরোগীর ধমনিতে **stents** স্থাপন করা হয়। এটি দেশের চিকিৎসা ব্যবস্থায় প্রযুক্তির নতুন **frontier** উন্মোচন করে।\n\nরোবটিক সার্জারির মাধ্যমে চিকিৎসা আরও **efficient**, নিরাপদ এবং জটিল শারীরিক অবস্থা মোকাবিলায় কার্যকর করা সম্ভব। এই কেন্দ্র বাংলাদেশের চিকিৎসা খাতে একটি **revolutionary breakthrough** এবং আন্তর্জাতিক মানের চিকিৎসা সেবা নিশ্চিত করার ক্ষেত্রে একটি **milestone**।"
+    },
+    "list": [
+        {
+            "word": "robotic surgery",
+            "phonetic": "/rəʊˈbɒt.ɪk ˈsɜː.dʒər.i/",
+            "word_native_transliteration": {
+                "bn": "রোবটিক সার্জারি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤖",
+            "meaning": "Surgery performed with the assistance of robotic systems to enhance precision and reduce invasiveness.",
+            "example_sentence": "Robotic surgery enhances precision in complex procedures.",
+            "example_sentence_native_transliteration": {
+                "bn": "রোবটিক সার্জারি এনহান্সেস প্রিসিশন ইন কমপ্লেক্স প্রসিডিউরস।"
+            },
+            "position": 1,
+            "synonyms": "automated surgery, machine-assisted surgery",
+            "antonyms": "manual surgery",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রোবটিক অপারেশন",
+                    "word_transliteration": "robotik opareshon",
+                    "example_sentence_translation": "রোবটিক সার্জারি জটিল প্রক্রিয়ায় নির্ভুলতা বাড়ায়।",
+                    "example_sentence_transliteration": "Robotik surgery jotil procriay nirbhulota baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "center",
+            "phonetic": "/ˈsen.tər/",
+            "word_native_transliteration": {
+                "bn": "সেন্টার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏥",
+            "meaning": "A place or building designated for a particular activity or service.",
+            "example_sentence": "The first robotic surgery center was established in Rangpur.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফার্স্ট রোবটিক সার্জারি সেন্টার ওয়াস এস্ট্যাব্লিশড ইন রংপুর।"
+            },
+            "position": 2,
+            "synonyms": "hub, facility",
+            "antonyms": "periphery, margin",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কেন্দ্র",
+                    "word_transliteration": "kendro",
+                    "example_sentence_translation": "প্রথম রোবটিক সার্জারি কেন্দ্র রংপুরে প্রতিষ্ঠিত হয়।",
+                    "example_sentence_transliteration": "Prothom robotik surgery kendro Rongpure protishthit hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "technological advancement",
+            "phonetic": "/tekˈnɒl.ə.dʒɪ.kəl ədˈvɑːns.mənt/",
+            "word_native_transliteration": {
+                "bn": "টেকনোলজিকাল অ্যাডভান্সমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚀",
+            "meaning": "Progress or improvement in technology that leads to better solutions or capabilities.",
+            "example_sentence": "Technological advancement is revolutionizing healthcare.",
+            "example_sentence_native_transliteration": {
+                "bn": "টেকনোলজিকাল অ্যাডভান্সমেন্ট ইজ রেভোলিউশনাইজিং হেলথকেয়ার।"
+            },
+            "position": 3,
+            "synonyms": "innovation, progress",
+            "antonyms": "stagnation, regression",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রযুক্তিগত উন্নতি",
+                    "word_transliteration": "projuktiyoto unnoti",
+                    "example_sentence_translation": "প্রযুক্তিগত উন্নতি স্বাস্থ্যসেবাকে বদলে দিচ্ছে।",
+                    "example_sentence_transliteration": "Projuktiyoto unnoti swasthyosebake bodle dicche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "precisely",
+            "phonetic": "/prɪˈsaɪs.li/",
+            "word_native_transliteration": {
+                "bn": "প্রিসাইজলি"
+            },
+            "parts_of_speech": "adverb",
+            "emoji": "🎯",
+            "meaning": "In an exact and accurate manner, with attention to detail.",
+            "example_sentence": "The robotic arm performed the operation precisely.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রোবটিক আর্ম পারফরমড দ্য অপারেশন প্রিসাইজলি।"
+            },
+            "position": 4,
+            "synonyms": "accurately, exactly",
+            "antonyms": "vaguely, approximately",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সুনির্দিষ্টভাবে",
+                    "word_transliteration": "shunirdishttobhabe",
+                    "example_sentence_translation": "রোবটিক বাহু অপারেশনটি সুনির্দিষ্টভাবে সম্পন্ন করেছে।",
+                    "example_sentence_transliteration": "Robotik bahu opareshonti shunirdishttobhabe shomponno koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "angioplasty",
+            "phonetic": "/ˈæn.dʒi.əʊ.plæs.ti/",
+            "word_native_transliteration": {
+                "bn": "অ্যাঞ্জিওপ্লাস্টি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💓",
+            "meaning": "A medical procedure to open blocked or narrowed blood vessels that supply blood to the heart.",
+            "example_sentence": "Angioplasty is now safer with robotic assistance.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাঞ্জিওপ্লাস্টি ইজ নাও সেফার উইথ রোবটিক অ্যাসিস্ট্যান্স।"
+            },
+            "position": 5,
+            "synonyms": "balloon surgery, artery expansion",
+            "antonyms": "blockage persistence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ধমনি প্রশস্ত করার চিকিৎসা",
+                    "word_transliteration": "dhomoni proshosto korar chikitsa",
+                    "example_sentence_translation": "রোবটিক সহায়তায় এখন অ্যাঞ্জিওপ্লাস্টি আরও নিরাপদ।",
+                    "example_sentence_transliteration": "Robotik shahaytay ekhon angioplasty aro nirapad.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "robot-assisted procedures",
+            "phonetic": "/ˈrəʊ.bɒt əˈsɪs.tɪd prəˈsiː.dʒərz/",
+            "word_native_transliteration": {
+                "bn": "রোবট-অ্যাসিস্টেড প্রসিডিউরস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔧",
+            "meaning": "Medical operations performed with the help of robotic systems to enhance precision and control.",
+            "example_sentence": "Robot-assisted procedures reduce human error.",
+            "example_sentence_native_transliteration": {
+                "bn": "রোবট-অ্যাসিস্টেড প্রসিডিউরস রিডিউস হিউম্যান এরর।"
+            },
+            "position": 6,
+            "synonyms": "automated operations",
+            "antonyms": "manual procedures",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রোবট দ্বারা সহায়তাপ্রাপ্ত প্রক্রিয়া",
+                    "word_transliteration": "robot dwara shahaytaprapto prokriya",
+                    "example_sentence_translation": "রোবট-সহায়ক প্রক্রিয়া মানব ত্রুটি কমায়।",
+                    "example_sentence_transliteration": "Robot-shohayok prokriya manob truti komay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "stents",
+            "phonetic": "/stents/",
+            "word_native_transliteration": {
+                "bn": "স্টেন্টস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🩺",
+            "meaning": "Small mesh tubes used to treat narrow or blocked arteries.",
+            "example_sentence": "Stents were successfully placed using robotic techniques.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্টেন্টস ওয়ার সাকসেসফুলি প্লেসড ইউজিং রোবটিক টেকনিকস।"
+            },
+            "position": 7,
+            "synonyms": "vascular supports, tubes",
+            "antonyms": "blockage",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ধমনিতে বসানো নল",
+                    "word_transliteration": "dhomonite bosano nol",
+                    "example_sentence_translation": "রোবটিক প্রযুক্তি ব্যবহার করে স্টেন্ট সফলভাবে বসানো হয়।",
+                    "example_sentence_transliteration": "Robotik projukti bybohar kore stent shofolbhabe bosano hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "frontier",
+            "phonetic": "/ˈfrʌn.tɪər/",
+            "word_native_transliteration": {
+                "bn": "ফ্রন্টিয়ার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌟",
+            "meaning": "A new area of activity, knowledge, or development; the edge of knowledge or achievement.",
+            "example_sentence": "Robotic surgery is exploring a new frontier in medicine.",
+            "example_sentence_native_transliteration": {
+                "bn": "রোবটিক সার্জারি ইজ এক্সপ্লোরিং এ নিউ ফ্রন্টিয়ার ইন মেডিসিন।"
+            },
+            "position": 8,
+            "synonyms": "boundary, edge",
+            "antonyms": "interior, center",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সীমান্ত বা নতুন ক্ষেত্র",
+                    "word_transliteration": "shimanto ba notun khhetro",
+                    "example_sentence_translation": "রোবটিক সার্জারি চিকিৎসায় একটি নতুন ক্ষেত্র উন্মোচন করছে।",
+                    "example_sentence_transliteration": "Robotik surgery chikitsay ekti notun khhetro unmochon korche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "efficient",
+            "phonetic": "/ɪˈfɪʃ.ənt/",
+            "word_native_transliteration": {
+                "bn": "এফিশিয়েন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚡",
+            "meaning": "Achieving maximum productivity with minimum wasted effort or expense.",
+            "example_sentence": "The system is designed to be highly efficient.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সিস্টেম ইজ ডিজাইনড টু বি হাইলি এফিশিয়েন্ট।"
+            },
+            "position": 9,
+            "synonyms": "effective, productive",
+            "antonyms": "inefficient, wasteful",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষ",
+                    "word_transliteration": "dokkho",
+                    "example_sentence_translation": "সিস্টেমটি অত্যন্ত দক্ষ হতে তৈরি করা হয়েছে।",
+                    "example_sentence_transliteration": "Systemti ottyonto dokkho hote tori kora hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "revolutionary breakthrough",
+            "phonetic": "/ˌrev.əˈluː.ʃən.ər.i ˈbreɪk.θruː/",
+            "word_native_transliteration": {
+                "bn": "রেভোলিউশনারি ব্রেকথ্রু"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💥",
+            "meaning": "A sudden, dramatic, and important discovery or development that changes everything.",
+            "example_sentence": "Robotic surgery is a revolutionary breakthrough in healthcare.",
+            "example_sentence_native_transliteration": {
+                "bn": "রোবটিক সার্জারি ইজ এ রেভোলিউশনারি ব্রেকথ্রু ইন হেলথকেয়ার।"
+            },
+            "position": 10,
+            "synonyms": "innovative discovery, radical change",
+            "antonyms": "routine development",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিপ্লবী আবিষ্কার",
+                    "word_transliteration": "biplobi abishkar",
+                    "example_sentence_translation": "রোবটিক সার্জারি স্বাস্থ্যসেবায় একটি বিপ্লবী আবিষ্কার।",
+                    "example_sentence_transliteration": "Robotik surgery swasthyosebay ekti biplobi abishkar.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "milestone",
+            "phonetic": "/ˈmaɪl.stəʊn/",
+            "word_native_transliteration": {
+                "bn": "মাইলস্টোন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏆",
+            "meaning": "An important stage or event in the development, progress, or history of something.",
+            "example_sentence": "The first robotic angioplasty is a significant milestone.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফার্স্ট রোবটিক অ্যাঞ্জিওপ্লাস্টি ইজ এ সিগনিফিক্যান্ট মাইলস্টোন।"
+            },
+            "position": 11,
+            "synonyms": "landmark, achievement",
+            "antonyms": "setback, failure",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মাইলফলক",
+                    "word_transliteration": "milepholok",
+                    "example_sentence_translation": "প্রথম রোবটিক অ্যাঞ্জিওপ্লাস্টি একটি গুরুত্বপূর্ণ মাইলফলক।",
+                    "example_sentence_transliteration": "Prothom robotik angioplasty ekti guruttopoorno milepholok.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

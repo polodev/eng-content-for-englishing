@@ -1,0 +1,661 @@
+{
+    "position": 34,
+    "title_translation": {
+        "en": "Japanese Researchers Launch World's First Wooden Satellite 'LignoSat'",
+        "bn": "জাপানের researchers প্রথমবারের মতো wood দিয়ে তৈরি স্যাটেলাইট 'লিগনোস্যাট' orbit-এ প্রেরণ করেছেন"
+    },
+    "content_translation": {
+        "en": "Japanese **researchers** for the first time have launched a **wooden satellite** called 'LignoSat' into **orbit**. This **innovative apparatus**, **launched** on November 5, 2024, is made entirely of **wood**, specifically the honoki wood traditionally used for making swords. LignoSat is positioned in **trajectory** approximately 400 kilometers above Earth. Its main **objective** is to test the **resilience** and **durability** of wood in space.\n\nA special **attribute** of this wooden device is that it burns completely upon re-entering the atmosphere, leaving no harmful **residues** or **pollutants**. This helps reduce space **contamination** and **debris**.\n\nScientists are optimistic that in the future it will be possible to build wooden **habitats** and **infrastructure** on the Moon and Mars. This **breakthrough** has opened the path for **sustainable innovation** in space research and created **pioneering opportunities** in satellite construction.",
+        "bn": "জাপানের **researchers** প্রথমবারের মতো **wood** দিয়ে তৈরি স্যাটেলাইট 'লিগনোস্যাট' **orbit**-এ প্রেরণ করেছেন।\n২০২৪ সালের ৫ নভেম্বর **launched** হওয়া এই **innovative apparatus** হোনোকি কাঠ দিয়ে তৈরি, যা ঐতিহ্যগতভাবে তরবারির খাপ তৈরিতে ব্যবহৃত হয়।\nলিগনোস্যাট পৃথিবীর প্রায় ৪০০ কিলোমিটার ওপরে **trajectory** ধরে অবস্থান করছে। এর মূল **objective** হলো মহাকাশে কাঠের **resilience** এবং **durability** পরীক্ষা করা।\nকাঠের এই যন্ত্রটির বিশেষ **attribute** হলো, এটি বায়ুমণ্ডলে পুনঃ প্রবেশের সময় সম্পূর্ণ পুড়ে যায়, ফলে পরিবেশে কোনো ক্ষতিকর **residues** বা **pollutants** ছড়ায় না। এটি মহাকাশ **contamination** এবং **debris** হ্রাসে সহায়ক।\nবিজ্ঞানীরা আশাবাদী যে ভবিষ্যতে চাঁদ এবং মঙ্গল গ্রহে কাঠের **habitats** এবং **infrastructure** তৈরি করা সম্ভব হবে। এই **breakthrough** মহাকাশ গবেষণায় **sustainable innovation**-এর পথ উন্মুক্ত করেছে এবং স্যাটেলাইট নির্মাণে **pioneering opportunities** সৃষ্টি করেছে।"
+    },
+    "list": [
+        {
+            "word": "researchers",
+            "phonetic": "rɪˈsɜː.tʃəz",
+            "word_native_transliteration": {
+                "bn": "রিসার্চার্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔬",
+            "meaning": "People who study and investigate to discover new information or facts.",
+            "example_sentence": "Researchers are working on innovative solutions.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিসার্চার্স আর ওয়ার্কিং অন ইনোভেটিভ সলিউশনস।"
+            },
+            "position": 1,
+            "synonyms": "scientists, investigators",
+            "antonyms": "laymen, generalists",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গবেষক",
+                    "word_transliteration": "gobeshok",
+                    "example_sentence_translation": "গবেষকরা উদ্ভাবনী সমাধানে কাজ করছেন।",
+                    "example_sentence_transliteration": "Gobeshokra udbhaboni somadhane kaj korchen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "wood",
+            "phonetic": "wʊd",
+            "word_native_transliteration": {
+                "bn": "উড"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🪵",
+            "meaning": "The hard fibrous material that forms the main substance of the trunk or branches of a tree or shrub.",
+            "example_sentence": "Wood is being tested for its resilience in space.",
+            "example_sentence_native_transliteration": {
+                "bn": "উড ইজ বিইং টেস্টেড ফর ইটস রেজিলিয়েন্স ইন স্পেস।"
+            },
+            "position": 2,
+            "synonyms": "timber, lumber",
+            "antonyms": "metal, plastic",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কাঠ",
+                    "word_transliteration": "kath",
+                    "example_sentence_translation": "মহাকাশে কাঠের স্থিতিশীলতা পরীক্ষা করা হচ্ছে।",
+                    "example_sentence_transliteration": "Mohakashe kather sthitishilota poriksha kora hocche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "satellite",
+            "phonetic": "ˈsæt.əl.aɪt",
+            "word_native_transliteration": {
+                "bn": "স্যাটেলাইট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛰️",
+            "meaning": "An artificial object which has been intentionally placed into orbit around a celestial body.",
+            "example_sentence": "Satellites provide critical data for research.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্যাটেলাইটস প্রোভাইড ক্রিটিক্যাল ডেটা ফর রিসার্চ।"
+            },
+            "position": 3,
+            "synonyms": "spacecraft, orbiter",
+            "antonyms": "ground station",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উপগ্রহ",
+                    "word_transliteration": "upogroho",
+                    "example_sentence_translation": "উপগ্রহ গবেষণার জন্য গুরুত্বপূর্ণ তথ্য সরবরাহ করে।",
+                    "example_sentence_transliteration": "Upogroho gobeshnar jonno gurutbopurno tothyo sorobraho kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "LignoSat",
+            "phonetic": "ˈlɪɡ.nəʊˌsæt",
+            "word_native_transliteration": {
+                "bn": "লিগনোস্যাট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛰️",
+            "meaning": "A wooden satellite that demonstrates the use of wood in space technology.",
+            "example_sentence": "LignoSat demonstrates the use of wood in space.",
+            "example_sentence_native_transliteration": {
+                "bn": "লিগনোস্যাট ডেমনস্ট্রেটস দ্য ইউজ অব উড ইন স্পেস।"
+            },
+            "position": 4,
+            "synonyms": "wooden satellite, timber orbiter",
+            "antonyms": "metal satellite",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কাঠের স্যাটেলাইট",
+                    "word_transliteration": "kather satellite",
+                    "example_sentence_translation": "লিগনোস্যাট মহাকাশে কাঠের ব্যবহার প্রদর্শন করে।",
+                    "example_sentence_transliteration": "LignoSat mohakashe kather byabohar prodarshon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "orbit",
+            "phonetic": "ˈɔː.bɪt",
+            "word_native_transliteration": {
+                "bn": "অরবিট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌍",
+            "meaning": "The curved path of a celestial object around a star, planet, or moon.",
+            "example_sentence": "The satellite maintains its orbit around Earth.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্যাটেলাইট মেইনটেইনস ইটস অরবিট অ্যারাউন্ড আর্থ।"
+            },
+            "position": 5,
+            "synonyms": "path, trajectory",
+            "antonyms": "random movement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কক্ষপথ",
+                    "word_transliteration": "kokshopotho",
+                    "example_sentence_translation": "স্যাটেলাইট পৃথিবীর চারপাশে তার কক্ষপথ বজায় রাখে।",
+                    "example_sentence_transliteration": "Satellite prithbir charpashe tar kokshopotho bojay rakhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "launched",
+            "phonetic": "lɔːntʃt",
+            "word_native_transliteration": {
+                "bn": "লঞ্চড"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🚀",
+            "meaning": "Set (something) in motion by pushing it or letting it go.",
+            "example_sentence": "The satellite was launched successfully.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্যাটেলাইট ওয়াজ লঞ্চড সাকসেসফুলি।"
+            },
+            "position": 6,
+            "synonyms": "deployed, sent",
+            "antonyms": "retrieved, grounded",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উৎক্ষেপণ করা",
+                    "word_transliteration": "utkkhepen kora",
+                    "example_sentence_translation": "স্যাটেলাইট সফলভাবে উৎক্ষেপণ করা হয়েছে।",
+                    "example_sentence_transliteration": "Satellite sofolbhabe utkkhepen kora hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "innovative",
+            "phonetic": "ˈɪn.ə.və.tɪv",
+            "word_native_transliteration": {
+                "bn": "ইনোভেটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💡",
+            "meaning": "Featuring new methods; advanced and original.",
+            "example_sentence": "Innovative technologies drive progress.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনোভেটিভ টেকনোলজিজ ড্রাইভ প্রোগ্রেস।"
+            },
+            "position": 7,
+            "synonyms": "creative, groundbreaking",
+            "antonyms": "conventional, traditional",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্ভাবনী",
+                    "word_transliteration": "udbhaboni",
+                    "example_sentence_translation": "উদ্ভাবনী প্রযুক্তি অগ্রগতি ত্বরান্বিত করে।",
+                    "example_sentence_transliteration": "Udbhaboni projukti ogrogoti tboranbit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "apparatus",
+            "phonetic": "ˌæp.əˈreɪ.təs",
+            "word_native_transliteration": {
+                "bn": "অ্যাপারেটাস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚙️",
+            "meaning": "The technical equipment or machinery needed for a particular activity or purpose.",
+            "example_sentence": "The apparatus was designed to be eco-friendly.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যাপারেটাস ওয়াজ ডিজাইনড টু বি ইকো-ফ্রেন্ডলি।"
+            },
+            "position": 8,
+            "synonyms": "equipment, device",
+            "antonyms": "absence, simplicity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "যন্ত্রপাতি",
+                    "word_transliteration": "jontropati",
+                    "example_sentence_translation": "যন্ত্রটি পরিবেশবান্ধব করার জন্য নকশা করা হয়েছিল।",
+                    "example_sentence_transliteration": "Jontroti poribeshshbandho korar jonno noksha kora hoyechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "trajectory",
+            "phonetic": "trəˈdʒek.tər.i",
+            "word_native_transliteration": {
+                "bn": "ট্রাজেক্টরি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "The path followed by a projectile flying or an object moving under the action of given forces.",
+            "example_sentence": "The satellite followed its intended trajectory.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্যাটেলাইট ফলোড ইটস ইনটেন্ডেড ট্রাজেক্টরি।"
+            },
+            "position": 9,
+            "synonyms": "course, route",
+            "antonyms": "deviation, randomness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গতিপথ",
+                    "word_transliteration": "gotipoth",
+                    "example_sentence_translation": "স্যাটেলাইট তার নির্ধারিত গতিপথ অনুসরণ করেছে।",
+                    "example_sentence_transliteration": "Satellite tar nirdharito gotipoth onushoron koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "objective",
+            "phonetic": "əbˈdʒek.tɪv",
+            "word_native_transliteration": {
+                "bn": "অবজেকটিভ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "A thing aimed at or sought; a goal.",
+            "example_sentence": "The main objective is to test sustainability.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য মেইন অবজেকটিভ ইজ টু টেস্ট সাস্টেইনেবিলিটি।"
+            },
+            "position": 10,
+            "synonyms": "goal, purpose",
+            "antonyms": "aimlessness, randomness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্দেশ্য",
+                    "word_transliteration": "uddesho",
+                    "example_sentence_translation": "মূল উদ্দেশ্য হল স্থায়িত্ব পরীক্ষা করা।",
+                    "example_sentence_transliteration": "Mul uddesho hol sthayitto poriksha kora.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "resilience",
+            "phonetic": "rɪˈzɪl.i.əns",
+            "word_native_transliteration": {
+                "bn": "রিজিলিয়েন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "The ability to recover quickly from difficulties; toughness.",
+            "example_sentence": "Testing the resilience of wood is crucial.",
+            "example_sentence_native_transliteration": {
+                "bn": "টেস্টিং দ্য রিজিলিয়েন্স অব উড ইজ ক্রুশিয়াল।"
+            },
+            "position": 11,
+            "synonyms": "strength, endurance",
+            "antonyms": "fragility, weakness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্থিতিস্থাপকতা",
+                    "word_transliteration": "sthitisthapokota",
+                    "example_sentence_translation": "কাঠের স্থিতিস্থাপকতা পরীক্ষা করা গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Kather sthitisthapokota poriksha kora gurutbopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "durability",
+            "phonetic": "ˌdjʊə.rəˈbɪl.ə.ti",
+            "word_native_transliteration": {
+                "bn": "ডিউরেবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔧",
+            "meaning": "The ability to withstand wear, pressure, or damage; hard-wearing.",
+            "example_sentence": "The durability of materials affects performance.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডিউরেবিলিটি অব ম্যাটেরিয়ালস অ্যাফেক্টস পারফরমেন্স।"
+            },
+            "position": 12,
+            "synonyms": "longevity, toughness",
+            "antonyms": "frailty, fragility",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "টেকসইতা",
+                    "word_transliteration": "teksoita",
+                    "example_sentence_translation": "উপকরণের টেকসইতা কর্মক্ষমতাকে প্রভাবিত করে।",
+                    "example_sentence_transliteration": "Upokoroner teksoita kormokkhomotake probhabit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "attribute",
+            "phonetic": "ˈæt.rɪ.bjuːt",
+            "word_native_transliteration": {
+                "bn": "অ্যাট্রিবিউট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⭐",
+            "meaning": "A quality or feature regarded as a characteristic or inherent part of someone or something.",
+            "example_sentence": "An important attribute of wood is its flexibility.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যান ইম্পর্ট্যান্ট অ্যাট্রিবিউট অব উড ইজ ইটস ফ্লেক্সিবিলিটি।"
+            },
+            "position": 13,
+            "synonyms": "feature, quality",
+            "antonyms": "flaw, fault",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৈশিষ্ট্য",
+                    "word_transliteration": "boishishtyo",
+                    "example_sentence_translation": "কাঠের একটি গুরুত্বপূর্ণ বৈশিষ্ট্য হল এর নমনীয়তা।",
+                    "example_sentence_transliteration": "Kather ekti gurutbopurno boishishtyo hol er nonioyota.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "residues",
+            "phonetic": "ˈrez.ɪ.djuːz",
+            "word_native_transliteration": {
+                "bn": "রেসিডিউস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🗑️",
+            "meaning": "A small amount of something that remains after the main part has gone or been taken or used.",
+            "example_sentence": "The burning process leaves no harmful residues.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য বার্নিং প্রোসেস লিভস নো হার্মফুল রেসিডিউস।"
+            },
+            "position": 14,
+            "synonyms": "remnants, debris",
+            "antonyms": "purity, absence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অবশেষ",
+                    "word_transliteration": "oboshesh",
+                    "example_sentence_translation": "পোড়ানোর প্রক্রিয়ায় কোনো ক্ষতিকর অবশেষ থাকে না।",
+                    "example_sentence_transliteration": "Poranor prokriyay kono khotikor oboshesh thake na.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pollutants",
+            "phonetic": "pəˈluː.tənts",
+            "word_native_transliteration": {
+                "bn": "পলুট্যান্টস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "☠️",
+            "meaning": "A substance that pollutes or contaminates the environment.",
+            "example_sentence": "Pollutants contribute to environmental degradation.",
+            "example_sentence_native_transliteration": {
+                "bn": "পলুট্যান্টস কন্ট্রিবিউট টু এনভায়রনমেন্টাল ডেগ্রাডেশন।"
+            },
+            "position": 15,
+            "synonyms": "contaminants, impurities",
+            "antonyms": "purifiers, cleaners",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দূষুক",
+                    "word_transliteration": "dushok",
+                    "example_sentence_translation": "দূষুক পরিবেশের অবক্ষয়ে ভূমিকা রাখে।",
+                    "example_sentence_transliteration": "Dushok poribesher obokkhoye bhumika rakhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "contamination",
+            "phonetic": "kənˌtæm.ɪˈneɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "কন্টামিনেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "☣️",
+            "meaning": "The process of making something less pure by exposure to or addition of a poisonous or polluting substance.",
+            "example_sentence": "Contamination of air leads to health issues.",
+            "example_sentence_native_transliteration": {
+                "bn": "কন্টামিনেশন অব এয়ার লিডস টু হেলথ ইস্যুস।"
+            },
+            "position": 16,
+            "synonyms": "pollution, impurity",
+            "antonyms": "purity, cleanliness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দূষণ",
+                    "word_transliteration": "dushon",
+                    "example_sentence_translation": "বায়ুর দূষণ স্বাস্থ্য সমস্যার কারণ।",
+                    "example_sentence_transliteration": "Bayur dushon shasthyo somposhyar karon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "debris",
+            "phonetic": "ˈdeb.riː",
+            "word_native_transliteration": {
+                "bn": "ডেব্রি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💥",
+            "meaning": "Scattered pieces of rubbish or remains.",
+            "example_sentence": "Space debris is a major concern for scientists.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্পেস ডেব্রি ইজ এ মেজর কনসার্ন ফর সাইয়েন্টিস্টস।"
+            },
+            "position": 17,
+            "synonyms": "rubble, waste",
+            "antonyms": "order, purity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ধ্বংসাবশেষ",
+                    "word_transliteration": "dhongshoboshesh",
+                    "example_sentence_translation": "মহাকাশ ধ্বংসাবশেষ বিজ্ঞানীদের জন্য একটি বড় উদ্বেগ।",
+                    "example_sentence_transliteration": "Mohakash dhongshoboshesh biggyanider jonny ekti boro udbeg.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "habitats",
+            "phonetic": "ˈhæb.ɪ.tæts",
+            "word_native_transliteration": {
+                "bn": "হ্যাবিট্যাটস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏡",
+            "meaning": "The natural home or environment of an animal, plant, or other organism.",
+            "example_sentence": "Scientists envision habitats on the Moon.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাইয়েন্টিস্টস এনভিশন হ্যাবিট্যাটস অন দ্য মুন।"
+            },
+            "position": 18,
+            "synonyms": "homes, dwellings",
+            "antonyms": "exile, homelessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাসস্থান",
+                    "word_transliteration": "bassthan",
+                    "example_sentence_translation": "বিজ্ঞানীরা চাঁদে বাসস্থান কল্পনা করছেন।",
+                    "example_sentence_transliteration": "Biggyanira chande bassthan kolpona korchen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "infrastructure",
+            "phonetic": "ˈɪn.frəˌstrʌk.tʃər",
+            "word_native_transliteration": {
+                "bn": "ইনফ্রাস্ট্রাকচার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏗️",
+            "meaning": "The basic physical and organizational structures and facilities needed for the operation of a society or enterprise.",
+            "example_sentence": "Developing infrastructure is key to progress.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডেভেলপিং ইনফ্রাস্ট্রাকচার ইজ কি টু প্রোগ্রেস।"
+            },
+            "position": 19,
+            "synonyms": "framework, foundation",
+            "antonyms": "chaos, disorganization",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অবকাঠামো",
+                    "word_transliteration": "obokathamo",
+                    "example_sentence_translation": "অবকাঠামো উন্নয়ন অগ্রগতির চাবিকাঠি।",
+                    "example_sentence_transliteration": "Obokathamo unnayan ogrogotir chabikathi.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "breakthrough",
+            "phonetic": "ˈbreɪk.θruː",
+            "word_native_transliteration": {
+                "bn": "ব্রেকথ্রু"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚀",
+            "meaning": "A sudden, dramatic, and important discovery or development.",
+            "example_sentence": "The breakthrough opens doors for new technology.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ব্রেকথ্রু ওপেনস ডোর্স ফর নিউ টেকনোলজি।"
+            },
+            "position": 20,
+            "synonyms": "discovery, innovation",
+            "antonyms": "setback, regression",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "যুগান্তকারী আবিষ্কার",
+                    "word_transliteration": "jugantokari abishkar",
+                    "example_sentence_translation": "এই আবিষ্কার নতুন প্রযুক্তির জন্য দরজা খুলে দেয়।",
+                    "example_sentence_transliteration": "Ei abishkar notun projuktir jonno dorja khule dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sustainable",
+            "phonetic": "səˈsteɪ.nə.bəl",
+            "word_native_transliteration": {
+                "bn": "সাসটেইনেবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "♻️",
+            "meaning": "Able to be maintained at a certain rate or level.",
+            "example_sentence": "Sustainable practices ensure environmental health.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাসটেইনেবল প্র্যাক্টিসেস এনশিউর এনভায়রনমেন্টাল হেলথ।"
+            },
+            "position": 21,
+            "synonyms": "eco-friendly, durable",
+            "antonyms": "unsustainable, temporary",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "টেকসই",
+                    "word_transliteration": "teksoi",
+                    "example_sentence_translation": "টেকসই পদ্ধতি পরিবেশের স্বাস্থ্য নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Teksoi poddhoti poribesher shasthyo nishchito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "innovation",
+            "phonetic": "ˌɪn.əˈveɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ইনোভেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💡",
+            "meaning": "The action or process of innovating; a new method, idea, or product.",
+            "example_sentence": "Innovation drives progress in all sectors.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনোভেশন ড্রাইভস প্রোগ্রেস ইন অল সেক্টরস।"
+            },
+            "position": 22,
+            "synonyms": "creativity, invention",
+            "antonyms": "imitation, stagnation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্ভাবন",
+                    "word_transliteration": "udbhabon",
+                    "example_sentence_translation": "উদ্ভাবন সব ক্ষেত্রেই অগ্রগতিকে ত্বরান্বিত করে।",
+                    "example_sentence_transliteration": "Udbhabon sob khetre-i ogrogotike tboranbit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pioneering",
+            "phonetic": "ˌpaɪəˈnɪə.rɪŋ",
+            "word_native_transliteration": {
+                "bn": "পাইওনিয়ারিং"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎯",
+            "meaning": "Involving new ideas or methods; innovative and original.",
+            "example_sentence": "Pioneering efforts often lead to success.",
+            "example_sentence_native_transliteration": {
+                "bn": "পাইওনিয়ারিং এফোর্টস অফেন লিড টু সাকসেস।"
+            },
+            "position": 23,
+            "synonyms": "groundbreaking, trailblazing",
+            "antonyms": "conventional, following",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অগ্রগামী",
+                    "word_transliteration": "ogrogami",
+                    "example_sentence_translation": "অগ্রগামী প্রচেষ্টা প্রায়ই সাফল্যের দিকে নিয়ে যায়।",
+                    "example_sentence_transliteration": "Ogrogami procheshta prayi safoller dike niye jay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "opportunities",
+            "phonetic": "ˌɒp.əˈtjuː.nɪ.tiz",
+            "word_native_transliteration": {
+                "bn": "অপরচুনিটিজ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌟",
+            "meaning": "A set of circumstances that makes it possible to do something.",
+            "example_sentence": "New opportunities arise with every innovation.",
+            "example_sentence_native_transliteration": {
+                "bn": "নিউ অপরচুনিটিজ অ্যারাইজ উইথ এভরি ইনোভেশন।"
+            },
+            "position": 24,
+            "synonyms": "chances, possibilities",
+            "antonyms": "limitations, obstacles",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সুযোগ",
+                    "word_transliteration": "sujog",
+                    "example_sentence_translation": "প্রতিটি উদ্ভাবনের সঙ্গে নতুন সুযোগ সৃষ্টি হয়।",
+                    "example_sentence_transliteration": "Protiti udbhaboner shonge notun sujog srishti hoy.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

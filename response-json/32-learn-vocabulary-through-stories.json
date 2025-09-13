@@ -1,0 +1,418 @@
+{
+    "position": 32,
+    "title_translation": {
+        "en": "27 Bangladeshis on the way to Antarctica",
+        "bn": "অ্যান্টার্কটিকার পথে ২৭ বাংলাদেশি"
+    },
+    "content_translation": {
+        "en": "Among the 27 **enthusiastic** explorers, writer and bird specialist Inam Al Haque is **participating**. Also present are **curious** tourists Tarek Onu and Tanvir Opu.\n\nOn the morning of December 10, Tarek Onu **posted** a group photo on his personal Facebook account and wrote, '**Heading** to Antarctica with 27 Bangladeshis... from 11 to 80—all **diverse** ages of people, but all **passionate**.'\n\nExpedition team member Humayra Mostafa says, 'We are **embarking** on a long journey. This is an **exciting** and **educational** experience. We are **stopping** at various islands and increasing our **understanding** about nature and biodiversity.'\n\nShe further says, 'Unlike previous explorers, we are not **exploring**, we are **experiencing** **adventurous** basecamp trips. We are participating in **fun** activities like camping, hiking, and kayaking.'\n\nTourist Tanvir Opu says, 'This is a **historic** mission. Some Bangladeshis have **traveled** before, but this is the first joint **expedition** of so many Bangladeshis.'\n\nThe explorers **boarded** the ship from Ushuaia port on December 6. During the 21-day expedition, they will be **visiting** various regions of the ice-covered continent. They will also be **stopping** at Falkland Islands and South Georgia Islands. They will be **returning** to the same port on December 25.",
+        "bn": "২৭ জনের **enthusiastic** অভিযাত্রীদের মধ্যে লেখক ও পাখি বিশেষজ্ঞ ইনাম আল হক **participating** করছেন। সাথে আছেন **curious** পর্যটক তারেক অণু ও তানভীর অপু।\n\n১০ ডিসেম্বর সকালে, তারেক অণু নিজের **personal** ফেসবুক account-এ একটি group photo **posted** করে লিখেছেন,'**Heading** to Antarctica with ২৭ জন বাংলাদেশি... ১১ থেকে ৮০—সব **diverse** বয়সের মানুষ, কিন্তু **passionate** সকলেই।'\n\nঅভিযাত্রী দলের সদস্য হুমায়রা মোস্তাফা বলেন,'আমরা একটি long journey-তে **embarking** করেছি। এটি **exciting** এবং **educational** **experience** হচ্ছে। বিভিন্ন দ্বীপে **stopping** করছি এবং প্রকৃতি ও জীববৈচিত্র্য সম্পর্কে **understanding** বাড়ছে।'\n\nতিনি আরও বলেন,'আগের অভিযাত্রীদের মতো আমরা **exploring** করছি না, আমরা **experiencing** **adventurous** basecamp trips। Camping, hiking, এবং kayaking এর মতো **fun** কার্যক্রমে অংশ নিচ্ছি।'\n\nপর্যটক তানভীর অপু বলেন,'এটি একটি **historic** mission। এর আগে কিছু Bangladeshis **traveled** করেছেন, তবে এত বাংলাদেশির joint **expedition** এবারই প্রথম।'\n\nঅভিযাত্রীরা ৬ ডিসেম্বর Ushuaia port থেকে জাহাজে **boarding** করেন। ২১ দিনের অভিযানে, তাঁরা **visiting** করবেন বরফঢাকা মহাদেশের নানা প্রান্ত। এছাড়া **stopping** করবেন Falkland Islands এবং South Georgia Islands-এ। ২৫ ডিসেম্বর তাঁরা **returning** করবেন একই বন্দরে।"
+    },
+    "list": [
+        {
+            "word": "participating",
+            "phonetic": "/pɑːrtɪsɪˈpeɪtɪŋ/",
+            "word_native_transliteration": {
+                "bn": "পার্টিসিপেটিং"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🤝",
+            "meaning": "Taking part in an activity or event.",
+            "example_sentence": "He is participating in the Antarctic expedition.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি ইজ পার্টিসিপেটিং ইন দ্য অ্যান্টার্কটিক এক্সপেডিশন।"
+            },
+            "position": 1,
+            "synonyms": "taking part, joining, engaging, contributing, sharing",
+            "antonyms": "withdrawing, abstaining, avoiding, refusing, declining",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অংশগ্রহণ করা",
+                    "word_transliteration": "ongshogrohon kora",
+                    "example_sentence_translation": "তিনি অ্যান্টার্কটিকা অভিযানে অংশ নিচ্ছেন।",
+                    "example_sentence_transliteration": "Tini Antarctica ovijane ongsho nichchen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "enthusiastic",
+            "phonetic": "/ɪnˌθjuːziˈæstɪk/",
+            "word_native_transliteration": {
+                "bn": "এনথুসিয়াস্টিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "😃",
+            "meaning": "Having or showing intense and eager enjoyment, interest, or approval.",
+            "example_sentence": "The explorers were enthusiastic about the journey.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এক্সপ্লোরারস ওয়ার এনথুসিয়াস্টিক অ্যাবাউট দ্য জার্নি।"
+            },
+            "position": 2,
+            "synonyms": "eager, excited, passionate, keen, zealous, fervent",
+            "antonyms": "unenthusiastic, apathetic, indifferent, uninterested, reluctant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্দীপ্ত",
+                    "word_transliteration": "uddipto",
+                    "example_sentence_translation": "অভিযাত্রীরা যাত্রা নিয়ে উদ্দীপ্ত ছিলেন।",
+                    "example_sentence_transliteration": "Ovijatriora jatra niye uddipto chhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "curious",
+            "phonetic": "/ˈkjʊriəs/",
+            "word_native_transliteration": {
+                "bn": "কিউরিয়াস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🤔",
+            "meaning": "Eager to know or learn something.",
+            "example_sentence": "The curious explorers asked questions about Antarctica.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কিউরিয়াস এক্সপ্লোরারস আস্কড কোয়েশ্চনস অ্যাবাউট অ্যান্টার্কটিকা।"
+            },
+            "position": 3,
+            "synonyms": "inquisitive, interested, intrigued, questioning, wondering",
+            "antonyms": "uninterested, indifferent, apathetic, unconcerned, disinterested",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কৌতূহলী",
+                    "word_transliteration": "koutuholi",
+                    "example_sentence_translation": "অভিযাত্রীরা অ্যান্টার্কটিকা সম্পর্কে প্রশ্ন করেছিলেন।",
+                    "example_sentence_transliteration": "Ovijatriora Antarctica shomporke proshno korechilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "heading",
+            "phonetic": "/ˈhɛdɪŋ/",
+            "word_native_transliteration": {
+                "bn": "হেডিং"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🧭",
+            "meaning": "Moving in a particular direction.",
+            "example_sentence": "The ship is heading toward Antarctica.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য শিপ ইজ হেডিং টুওয়ার্ড অ্যান্টার্কটিকা।"
+            },
+            "position": 4,
+            "synonyms": "going, traveling, moving, proceeding, advancing",
+            "antonyms": "retreating, returning, withdrawing, backing away",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "এগিয়ে যাওয়া",
+                    "word_transliteration": "egiye jaowa",
+                    "example_sentence_translation": "জাহাজটি অ্যান্টার্কটিকার দিকে এগিয়ে যাচ্ছে।",
+                    "example_sentence_transliteration": "Jahajti Antarctica dike egiye jachche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "embarking",
+            "phonetic": "/ɪmˈbɑːrkɪŋ/",
+            "word_native_transliteration": {
+                "bn": "এমবার্কিং"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🚢",
+            "meaning": "Beginning a journey or enterprise.",
+            "example_sentence": "The group is embarking on a long journey.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গ্রুপ ইজ এমবার্কিং অন আ লং জার্নি।"
+            },
+            "position": 5,
+            "synonyms": "starting, beginning, commencing, launching, initiating",
+            "antonyms": "disembarking, ending, concluding, finishing, terminating",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "যাত্রা শুরু করা",
+                    "word_transliteration": "jatra shuru kora",
+                    "example_sentence_translation": "দলটি দীর্ঘ যাত্রা শুরু করছে।",
+                    "example_sentence_transliteration": "Dolti dirgho jatra shuru korche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "stopping",
+            "phonetic": "/ˈstɒpɪŋ/",
+            "word_native_transliteration": {
+                "bn": "স্টপিং"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⛔",
+            "meaning": "Coming to a halt or pause.",
+            "example_sentence": "The ship is stopping at the Falkland Islands.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য শিপ ইজ স্টপিং অ্যাট দ্য ফকল্যান্ড আইল্যান্ডস।"
+            },
+            "position": 6,
+            "synonyms": "halting, pausing, ceasing, resting, waiting",
+            "antonyms": "continuing, proceeding, advancing, moving, going",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "থামা",
+                    "word_transliteration": "thama",
+                    "example_sentence_translation": "জাহাজটি ফকল্যান্ড দ্বীপপুঞ্জে থামছে।",
+                    "example_sentence_transliteration": "Jahajti Falkland dwippunnje thamche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "experiencing",
+            "phonetic": "/ɪkˈspɪəriənsɪŋ/",
+            "word_native_transliteration": {
+                "bn": "এক্সপেরিয়েন্সিং"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🌟",
+            "meaning": "Encountering or undergoing an event or occurrence.",
+            "example_sentence": "The travelers are experiencing the thrill of adventure.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ট্র্যাভেলারস আর এক্সপেরিয়েন্সিং দ্য থ্রিল অফ অ্যাডভেঞ্চার।"
+            },
+            "position": 7,
+            "synonyms": "undergoing, encountering, living through, feeling, having",
+            "antonyms": "ignoring, avoiding, missing, skipping, bypassing",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অভিজ্ঞতা অর্জন",
+                    "word_transliteration": "ovigghota orjon",
+                    "example_sentence_translation": "ভ্রমণকারীরা অভিযানের রোমাঞ্চ অনুভব করছেন।",
+                    "example_sentence_transliteration": "Bromonkaroira ovijaner romancho onuvob korchen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "adventurous",
+            "phonetic": "/ədˈvɛnʧərəs/",
+            "word_native_transliteration": {
+                "bn": "অ্যাডভেঞ্চারাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🏔️",
+            "meaning": "Willing to take risks or try out new methods, ideas, or experiences.",
+            "example_sentence": "They participated in adventurous activities like kayaking and hiking.",
+            "example_sentence_native_transliteration": {
+                "bn": "দে পার্টিসিপেটেড ইন অ্যাডভেঞ্চারাস অ্যাক্টিভিটিজ লাইক কায়াকিং অ্যান্ড হাইকিং।"
+            },
+            "position": 8,
+            "synonyms": "daring, bold, courageous, brave, fearless, risky",
+            "antonyms": "cautious, careful, conservative, safe, timid",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রোমাঞ্চকর",
+                    "word_transliteration": "romanchkor",
+                    "example_sentence_translation": "তারা কায়াকিং এবং হাইকিংয়ের মতো রোমাঞ্চকর কার্যক্রমে অংশ নিয়েছিলেন।",
+                    "example_sentence_transliteration": "Tara kayaking ebong hiking-er moto romanchkor karjokrome ongsho niyechhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "traveled",
+            "phonetic": "/ˈtrævəld/",
+            "word_native_transliteration": {
+                "bn": "ট্র্যাভেলড"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "✈️",
+            "meaning": "Went from one place to another, especially over a distance.",
+            "example_sentence": "They traveled to Antarctica with a large group.",
+            "example_sentence_native_transliteration": {
+                "bn": "দে ট্র্যাভেলড টু অ্যান্টার্কটিকা উইথ এ লার্জ গ্রুপ।"
+            },
+            "position": 9,
+            "synonyms": "journeyed, voyaged, toured, visited, went",
+            "antonyms": "stayed, remained, settled, stopped, waited",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভ্রমণ করা",
+                    "word_transliteration": "bhromon kora",
+                    "example_sentence_translation": "তারা একটি বড় দলের সঙ্গে অ্যান্টার্কটিকায় ভ্রমণ করেছিলেন।",
+                    "example_sentence_transliteration": "Tara ekti boro doler shonge Antarctica-y bhromon korechhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "boarding",
+            "phonetic": "/ˈbɔːrdɪŋ/",
+            "word_native_transliteration": {
+                "bn": "বোর্ডিং"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🚢",
+            "meaning": "Getting on or into a ship, aircraft, or other vehicle.",
+            "example_sentence": "The explorers were boarding the ship at the port.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এক্সপ্লোরারস ওয়ার বোর্ডিং দ্য শিপ অ্যাট দ্য পোর্ট।"
+            },
+            "position": 10,
+            "synonyms": "embarking, getting on, climbing aboard, entering, mounting",
+            "antonyms": "leaving, disembarking, getting off, exiting, departing",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জাহাজে ওঠা",
+                    "word_transliteration": "jahaje otha",
+                    "example_sentence_translation": "অভিযাত্রীরা বন্দরে জাহাজে উঠছিলেন।",
+                    "example_sentence_transliteration": "Ovijatriora bondore jahaje uthchhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "returning",
+            "phonetic": "/rɪˈtɜrnɪŋ/",
+            "word_native_transliteration": {
+                "bn": "রিটার্নিং"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔄",
+            "meaning": "Coming or going back to a place or person.",
+            "example_sentence": "The group is returning to the port on December 25th.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গ্রুপ ইজ রিটার্নিং টু দ্য পোর্ট অন ডিসেম্বর ২৫।"
+            },
+            "position": 11,
+            "synonyms": "coming back, going back, arriving back, getting back",
+            "antonyms": "departing, leaving, going away, setting off",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ফিরে আসা",
+                    "word_transliteration": "fire asha",
+                    "example_sentence_translation": "দলটি ২৫ ডিসেম্বর বন্দরে ফিরে আসবে।",
+                    "example_sentence_transliteration": "Dolti 25 December bondore fire ashbe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "exploring",
+            "phonetic": "/ɪkˈsplɔːrɪŋ/",
+            "word_native_transliteration": {
+                "bn": "এক্সপ্লোরিং"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔍",
+            "meaning": "Investigating or studying thoroughly; searching into or ranging over for the purpose of discovery.",
+            "example_sentence": "They are exploring different areas of Antarctica.",
+            "example_sentence_native_transliteration": {
+                "bn": "দে আর এক্সপ্লোরিং ডিফারেন্ট এরিয়াস অফ অ্যান্টার্কটিকা।"
+            },
+            "position": 12,
+            "synonyms": "investigating, examining, searching, discovering, surveying",
+            "antonyms": "ignoring, avoiding, neglecting, overlooking",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনুসন্ধান করা",
+                    "word_transliteration": "onushondhan kora",
+                    "example_sentence_translation": "তারা অ্যান্টার্কটিকার বিভিন্ন এলাকা অন্বেষণ করছেন।",
+                    "example_sentence_transliteration": "Tara Antarctica-r bibhno elaka onbeshan korchen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "visiting",
+            "phonetic": "/ˈvɪzɪtɪŋ/",
+            "word_native_transliteration": {
+                "bn": "ভিজিটিং"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🏝️",
+            "meaning": "Going to see and spend time with someone or at a place.",
+            "example_sentence": "The group is visiting islands during the expedition.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গ্রুপ ইজ ভিজিটিং আইল্যান্ডস ডিউরিং দ্য এক্সপেডিশন।"
+            },
+            "position": 13,
+            "synonyms": "calling on, going to see, stopping by, touring",
+            "antonyms": "avoiding, staying away, leaving, departing",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিদর্শন করা",
+                    "word_transliteration": "poridorshon kora",
+                    "example_sentence_translation": "দলটি অভিযানের সময় দ্বীপ পরিদর্শন করছে।",
+                    "example_sentence_transliteration": "Dolti ovijaner shomoy dwip poridorshon korche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "exciting",
+            "phonetic": "/ɪkˈsaɪtɪŋ/",
+            "word_native_transliteration": {
+                "bn": "এক্সাইটিং"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎉",
+            "meaning": "Causing great enthusiasm and eagerness.",
+            "example_sentence": "The journey has been an exciting experience.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য জার্নি হ্যাজ বিন এন এক্সাইটিং এক্সপেরিয়েন্স।"
+            },
+            "position": 14,
+            "synonyms": "thrilling, exhilarating, stimulating, electrifying",
+            "antonyms": "boring, dull, tedious, monotonous, uninteresting",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উত্তেজনাপূর্ণ",
+                    "word_transliteration": "uttejnapurno",
+                    "example_sentence_translation": "এই যাত্রাটি একটি উত্তেজনাপূর্ণ অভিজ্ঞতা ছিল।",
+                    "example_sentence_transliteration": "Ei jatrati ekti uttejnapurno ovigghota chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "educational",
+            "phonetic": "/ˌɛdjuˈkeɪʃənl/",
+            "word_native_transliteration": {
+                "bn": "এডুকেশনাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📚",
+            "meaning": "Relating to the provision of education or having an educative effect.",
+            "example_sentence": "The journey was an educational experience.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য জার্নি ওয়াজ এন এডুকেশনাল এক্সপেরিয়েন্স।"
+            },
+            "position": 15,
+            "synonyms": "instructive, informative, enlightening, learning",
+            "antonyms": "uninformative, unhelpful, useless, meaningless",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শিক্ষামূলক",
+                    "word_transliteration": "shikkhamulok",
+                    "example_sentence_translation": "যাত্রাটি একটি শিক্ষামূলক অভিজ্ঞতা ছিল।",
+                    "example_sentence_transliteration": "Jatrati ekti shikkhamulok ovigghota chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

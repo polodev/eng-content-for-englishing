@@ -1,0 +1,796 @@
+{
+    "position": 23,
+    "title_translation": {
+        "en": "Learn Vocabulary Through Stories - BPSC",
+        "bn": "গল্পের মাধ্যমে শব্দভান্ডার শেখা - বিপিএসসি"
+    },
+    "content_translation": {
+        "en": "Bangladesh's **independent constitutional body**, BPSC, conducts **recruitment** and **selection** for **eligible candidates** in the democratic government. It was **established** on April 8, 1972, and provides **appointments** to 26 **cadres** through BCS **examinations**. The **assessment process** is divided into three stages: **Preliminary**, Written, and **Viva Voce**.\n\nCommission **chairperson** and **members** are **appointed** by the President. It not only handles recruitment but also plays a role in **eligibility** determination, promotion, transfer, and **disciplinary advice**.\n\nThis **institution** works to ensure **governance efficiency** and **neutrality** in the democracy. Through **merit-based recruitment** and **transparency**, it strengthens the country's **administrative framework**. BPSC plays a **pivotal role** in achieving public service **improvements** and **effective governance**.",
+        "bn": "বাংলাদেশের **independent constitutional body**, BPSC, প্রজাতন্ত্রের কর্মে **eligible candidates**-দের **recruitment** এবং **selection** পরিচালনা করে। এটি ১৯৭২ সালের ৮ এপ্রিল **established** হয় এবং BCS **examinations**-এর মাধ্যমে ২৬টি **cadres**-এ **appointments** প্রদান করে। **Assessment process** তিনটি ধাপে বিভক্ত: **Preliminary**, Written, এবং **Viva Voce**।\n\nCommission **chairperson** এবং **members** রাষ্ট্রপতি কর্তৃক **appointed** হন। এটি শুধুমাত্র নিয়োগ নয়, বরং **eligibility** determination, promotion, transfer, এবং disciplinary advice প্রদানেও ভূমিকা রাখে।\n\nএই **institution** প্রজাতন্ত্রের **governance efficiency** এবং **neutrality** নিশ্চিত করতে কাজ করে। **Merit-based recruitment** এবং **transparency** নিশ্চিত করার মাধ্যমে এটি দেশের **administrative framework**-কে শক্তিশালী করে। Public service **improvements** এবং **effective governance** অর্জনে বিপিএসসি একটি **pivotal role** পালন করে।"
+    },
+    "list": [
+        {
+            "word": "independent",
+            "phonetic": "ˌɪn.dɪˈpen.dənt",
+            "word_native_transliteration": {
+                "bn": "ইন্ডিপেনডেন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🆓",
+            "meaning": "Not depending on another for livelihood or subsistence; free from outside control; not subject to another's authority.",
+            "example_sentence": "An independent institution ensures transparency in governance.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যান ইন্ডিপেনডেন্ট ইনস্টিটিউশন ইনশিওরস ট্রান্সপারেন্সি ইন গভর্নেন্স।"
+            },
+            "position": 1,
+            "synonyms": "autonomous, sovereign, free, self-governing, self-reliant, uncontrolled",
+            "antonyms": "dependent, subordinate, controlled, subject, reliant, governed",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বাধীন",
+                    "word_transliteration": "shadhin",
+                    "example_sentence_translation": "একটি স্বাধীন প্রতিষ্ঠান শাসনে স্বচ্ছতা নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Ekti shadhin protishṭhan shasone sochchhota nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "constitutional",
+            "phonetic": "ˌkɒn.stɪˈtjuː.ʃən.əl",
+            "word_native_transliteration": {
+                "bn": "কনস্টিটিউশনাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📜",
+            "meaning": "Relating to an established set of principles governing a state; in accordance with a political constitution.",
+            "example_sentence": "Constitutional reforms ensure fairness in the system.",
+            "example_sentence_native_transliteration": {
+                "bn": "কনস্টিটিউশনাল রিফর্মস ইনশিওর ফেয়ারনেস ইন দ্য সিস্টেম।"
+            },
+            "position": 2,
+            "synonyms": "legal, chartered, lawful, legitimate, statutory, authorized",
+            "antonyms": "unconstitutional, illegal, unlawful, illegitimate, unauthorized, invalid",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সাংবিধানিক",
+                    "word_transliteration": "shangbidhanik",
+                    "example_sentence_translation": "সাংবিধানিক সংস্কার ব্যবস্থায় ন্যায্যতা নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Shangbidhanik songsskar byabosthay nyadyota nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "eligible",
+            "phonetic": "ˈel.ɪ.dʒə.bəl",
+            "word_native_transliteration": {
+                "bn": "এলিজিবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "✅",
+            "meaning": "Having the right to do or obtain something through satisfaction of the appropriate conditions.",
+            "example_sentence": "Only eligible candidates are considered for appointments.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওনলি এলিজিবল ক্যানডিডেটস আর কনসিডারড ফর এপয়েন্টমেন্টস।"
+            },
+            "position": 3,
+            "synonyms": "qualified, suitable, entitled, fit, worthy, competent",
+            "antonyms": "ineligible, unsuitable, unqualified, unfit, unworthy, incompetent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "যোগ্য",
+                    "word_transliteration": "jogyo",
+                    "example_sentence_translation": "শুধুমাত্র যোগ্য প্রার্থীদের নিয়োগে বিবেচনা করা হয়।",
+                    "example_sentence_transliteration": "Shudhomatro jogyo prarthider niyoge bibechona kora hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "candidates",
+            "phonetic": "ˈkæn.dɪ.deɪts",
+            "word_native_transliteration": {
+                "bn": "ক্যান্ডিডেটস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👥",
+            "meaning": "A person who applies for a job or is nominated for election; someone being considered for a position.",
+            "example_sentence": "Candidates undergo a rigorous selection process.",
+            "example_sentence_native_transliteration": {
+                "bn": "ক্যান্ডিডেটস আন্ডারগো এ রিগোরাস সিলেকশন প্রসেস।"
+            },
+            "position": 4,
+            "synonyms": "applicants, nominees, contenders, aspirants, hopefuls, prospects",
+            "antonyms": "non-applicants, non-contenders, excludees, rejectees, disqualified, ineligible",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রার্থী",
+                    "word_transliteration": "prarthi",
+                    "example_sentence_translation": "প্রার্থীরা একটি কঠোর নির্বাচন প্রক্রিয়ার মধ্য দিয়ে যায়।",
+                    "example_sentence_transliteration": "Prarthira ekti kothor nirbachon prokriyar modhyo diyo jay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "recruitment",
+            "phonetic": "rɪˈkruːt.mənt",
+            "word_native_transliteration": {
+                "bn": "রিক্রুটমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔍",
+            "meaning": "The action of finding new people to join an organization or support a cause.",
+            "example_sentence": "Recruitment strengthens the workforce.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিক্রুটমেন্ট স্ট্রেংথেনস দ্য ওয়ার্কফোর্স।"
+            },
+            "position": 5,
+            "synonyms": "hiring, enrollment, selection, engagement, appointment, employment",
+            "antonyms": "dismissal, retrenchment, firing, discharge, layoff, termination",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিয়োগ",
+                    "word_transliteration": "niyog",
+                    "example_sentence_translation": "নিয়োগ কর্মী শক্তি শক্তিশালী করে।",
+                    "example_sentence_transliteration": "Niyog kormi shokti shoktishali kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "selection",
+            "phonetic": "sɪˈlek.ʃən",
+            "word_native_transliteration": {
+                "bn": "সিলেকশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The action or fact of carefully choosing someone or something as being the best or most suitable.",
+            "example_sentence": "The selection process is based on merit.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সিলেকশন প্রসেস ইজ বেসড অন মেরিট।"
+            },
+            "position": 6,
+            "synonyms": "choice, shortlisting, picking, choosing, election, appointment",
+            "antonyms": "rejection, exclusion, elimination, dismissal, refusal, denial",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নির্বাচন",
+                    "word_transliteration": "nirbachon",
+                    "example_sentence_translation": "নির্বাচন প্রক্রিয়া মেধার উপর ভিত্তি করে।",
+                    "example_sentence_transliteration": "Nirbachon prokriya medhar upor bhitti kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "established",
+            "phonetic": "ɪˈstæb.lɪʃt",
+            "word_native_transliteration": {
+                "bn": "এস্টাব্লিশড"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🏛️",
+            "meaning": "Set up on a firm or permanent basis; having existed for a long time and therefore recognized.",
+            "example_sentence": "BPSC was established in 1972.",
+            "example_sentence_native_transliteration": {
+                "bn": "বিপিএসসি ওয়াজ এস্টাব্লিশড ইন নাইন্টিন সেভেন্টি টু।"
+            },
+            "position": 7,
+            "synonyms": "founded, created, instituted, formed, set up, built",
+            "antonyms": "dismantled, abolished, destroyed, dissolved, eliminated, closed",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিষ্ঠিত",
+                    "word_transliteration": "protishṭhit",
+                    "example_sentence_translation": "বিপিএসসি ১৯৭২ সালে প্রতিষ্ঠিত হয়।",
+                    "example_sentence_transliteration": "BPSC 1972 sale protishṭhit hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "examinations",
+            "phonetic": "ɪɡˌzæm.ɪˈneɪ.ʃənz",
+            "word_native_transliteration": {
+                "bn": "এক্সামিনেশনস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📝",
+            "meaning": "A detailed inspection or investigation; a formal test of a person's knowledge or proficiency.",
+            "example_sentence": "BPSC conducts rigorous examinations.",
+            "example_sentence_native_transliteration": {
+                "bn": "বিপিএসসি কন্ডাক্টস রিগোরাস এক্সামিনেশনস।"
+            },
+            "position": 8,
+            "synonyms": "tests, assessments, evaluations, inspections, reviews, analyses",
+            "antonyms": "exemptions, passes, approvals, acceptances, waivers, dispensations",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরীক্ষা",
+                    "word_transliteration": "poriksha",
+                    "example_sentence_translation": "বিপিএসসি কঠোর পরীক্ষা পরিচালনা করে।",
+                    "example_sentence_transliteration": "BPSC kothor poriksha porichalona kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cadres",
+            "phonetic": "ˈkɑː.dərz",
+            "word_native_transliteration": {
+                "bn": "ক্যাডার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👔",
+            "meaning": "A small group of people specially trained for a particular purpose or profession; a group of activists in a communist or other political organization.",
+            "example_sentence": "There are 26 cadres under BPSC.",
+            "example_sentence_native_transliteration": {
+                "bn": "দেয়ার আর টোয়েন্টি সিক্স ক্যাডার আন্ডার বিপিএসসি।"
+            },
+            "position": 9,
+            "synonyms": "groups, divisions, units, corps, teams, squads",
+            "antonyms": "individual, unit, single, lone, solitary, separate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্যাডার",
+                    "word_transliteration": "cadar",
+                    "example_sentence_translation": "বিপিএসসি-এর অধীনে ২৬টি ক্যাডার রয়েছে।",
+                    "example_sentence_transliteration": "BPSC-er odhine 26ti cadar royechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "appointments",
+            "phonetic": "əˈpɔɪnt.mənts",
+            "word_native_transliteration": {
+                "bn": "অ্যাপয়েন্টমেন্টস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📋",
+            "meaning": "An arrangement to meet someone at a particular time and place; the action of assigning a job or role to someone.",
+            "example_sentence": "Government appointments follow meritocracy.",
+            "example_sentence_native_transliteration": {
+                "bn": "গভর্নমেন্ট অ্যাপয়েন্টমেন্টস ফলো মেরিটোক্রাসি।"
+            },
+            "position": 10,
+            "synonyms": "placements, designations, assignments, positions, postings, jobs",
+            "antonyms": "dismissals, terminations, removals, discharges, layoffs, firings",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিয়োগ",
+                    "word_transliteration": "niyog",
+                    "example_sentence_translation": "সরকারি নিয়োগ মেধার ভিত্তিতে হয়।",
+                    "example_sentence_transliteration": "Sorkari niyog medhar bhittite hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "assessment",
+            "phonetic": "əˈses.mənt",
+            "word_native_transliteration": {
+                "bn": "অ্যাসেসমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "The evaluation or estimation of the nature, quality, or ability of someone or something.",
+            "example_sentence": "The assessment process ensures fairness.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যাসেসমেন্ট প্রসেস ইনশিওরস ফেয়ারনেস।"
+            },
+            "position": 11,
+            "synonyms": "evaluation, review, appraisal, analysis, examination, judgment",
+            "antonyms": "neglect, guesswork, assumption, ignorance, oversight, disregard",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মূল্যায়ন",
+                    "word_transliteration": "mullayon",
+                    "example_sentence_translation": "মূল্যায়ন প্রক্রিয়া ন্যায্যতা নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Mullayon prokriya nyadyota nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "process",
+            "phonetic": "ˈprəʊ.ses",
+            "word_native_transliteration": {
+                "bn": "প্রসেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚙️",
+            "meaning": "A series of actions or steps taken in order to achieve a particular end.",
+            "example_sentence": "Recruitment involves a three-stage process.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিক্রুটমেন্ট ইনভলভস এ থ্রি-স্টেজ প্রসেস।"
+            },
+            "position": 12,
+            "synonyms": "procedure, method, system, technique, approach, way",
+            "antonyms": "stagnation, disruption, chaos, disorder, confusion, halt",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রক্রিয়া",
+                    "word_transliteration": "prokriya",
+                    "example_sentence_translation": "নিয়োগে তিন-ধাপের প্রক্রিয়া থাকে।",
+                    "example_sentence_transliteration": "Niyoge tin-dhaper prokriya thake.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "preliminary",
+            "phonetic": "prɪˈlɪm.ɪ.nər.i",
+            "word_native_transliteration": {
+                "bn": "প্রিলিমিনারি"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🚀",
+            "meaning": "Denoting an action or event preceding or done in preparation for something fuller or more important.",
+            "example_sentence": "Preliminary exams filter eligible candidates.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রিলিমিনারি এক্সামস ফিল্টার এলিজিবল ক্যান্ডিডেটস।"
+            },
+            "position": 13,
+            "synonyms": "initial, introductory, preparatory, opening, first, primary",
+            "antonyms": "final, conclusive, ultimate, definitive, last, closing",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রাথমিক",
+                    "word_transliteration": "prathomik",
+                    "example_sentence_translation": "প্রাথমিক পরীক্ষা যোগ্য প্রার্থী নির্বাচন করে।",
+                    "example_sentence_transliteration": "Prathomik poriksha jogyo prarthi nirbachon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "viva voce",
+            "phonetic": "ˈvaɪ.və ˈvəʊs",
+            "word_native_transliteration": {
+                "bn": "ভাইভা ভোস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🗣️",
+            "meaning": "An oral examination, typically for an academic qualification.",
+            "example_sentence": "Viva Voce tests communication skills.",
+            "example_sentence_native_transliteration": {
+                "bn": "ভাইভা ভোস টেস্টস কমিউনিকেশন স্কিলস।"
+            },
+            "position": 14,
+            "synonyms": "oral examination, interview, verbal test, spoken test, face-to-face assessment, oral quiz",
+            "antonyms": "written, non-verbal, silent, mute, paper-based, textual",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মৌখিক পরীক্ষা",
+                    "word_transliteration": "moukhik poriksha",
+                    "example_sentence_translation": "ভাইভা ভোস প্রার্থীদের যোগাযোগ দক্ষতা পরীক্ষা করে।",
+                    "example_sentence_transliteration": "Viva Voce prarthider jogajog dokkhota poriksha kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "chairperson",
+            "phonetic": "ˈtʃeə.pɜː.sən",
+            "word_native_transliteration": {
+                "bn": "চেয়ারপারসন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🪑",
+            "meaning": "A person who is in charge of a meeting or organization; the presiding officer of a committee, board, or organization.",
+            "example_sentence": "The chairperson ensures procedural integrity.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য চেয়ারপারসন ইনশিওরস প্রসিডিউরাল ইন্টিগ্রিটি।"
+            },
+            "position": 15,
+            "synonyms": "leader, head, president, director, chief, moderator",
+            "antonyms": "member, participant, follower, subordinate, assistant, deputy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চেয়ারপারসন",
+                    "word_transliteration": "chairparson",
+                    "example_sentence_translation": "চেয়ারপারসন প্রক্রিয়াগত সততা নিশ্চিত করেন।",
+                    "example_sentence_transliteration": "Chairparson prokriyagot sotota nishchit koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "members",
+            "phonetic": "ˈmem.bərz",
+            "word_native_transliteration": {
+                "bn": "মেম্বার্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👥",
+            "meaning": "A person, animal, or plant belonging to a particular group; an individual belonging to a group such as a society or team.",
+            "example_sentence": "Members collaborate to finalize recruitment decisions.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেম্বার্স কলাবোরেট টু ফাইনালাইজ রিক্রুটমেন্ট ডিসিশনস।"
+            },
+            "position": 16,
+            "synonyms": "participants, contributors, associates, colleagues, partners, affiliates",
+            "antonyms": "leaders, observers, outsiders, non-members, strangers, excluded",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সদস্য",
+                    "word_transliteration": "sodosso",
+                    "example_sentence_translation": "সদস্যরা নিয়োগ সিদ্ধান্ত চূড়ান্ত করতে সহযোগিতা করেন।",
+                    "example_sentence_transliteration": "Sodossora niyog siddhanto chuḍanto korte shohojogita koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "appointed",
+            "phonetic": "əˈpɔɪn.tɪd",
+            "word_native_transliteration": {
+                "bn": "অ্যাপয়েন্টেড"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "✋",
+            "meaning": "Assign a job or role to someone; designate someone to a position.",
+            "example_sentence": "Appointed officials carry significant responsibilities.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাপয়েন্টেড অফিসিয়ালস ক্যারি সিগনিফিক্যান্ট রেসপনসিবিলিটিজ।"
+            },
+            "position": 17,
+            "synonyms": "assigned, designated, nominated, selected, chosen, commissioned",
+            "antonyms": "removed, dismissed, discharged, fired, terminated, relieved",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিযুক্ত",
+                    "word_transliteration": "niyukto",
+                    "example_sentence_translation": "নিযুক্ত কর্মকর্তারা গুরুত্বপূর্ণ দায়িত্ব পালন করেন।",
+                    "example_sentence_transliteration": "Niyukto kormokorta-ra gurutbopurno dayitto palon koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "eligibility",
+            "phonetic": "ˌel.ɪ.dʒəˈbɪl.ə.ti",
+            "word_native_transliteration": {
+                "bn": "এলিজিবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The state of having the right to do or obtain something through satisfaction of the appropriate conditions.",
+            "example_sentence": "Eligibility criteria maintain fairness.",
+            "example_sentence_native_transliteration": {
+                "bn": "এলিজিবিলিটি ক্রাইটেরিয়া মেইনটেইন ফেয়ারনেস।"
+            },
+            "position": 18,
+            "synonyms": "qualification, suitability, entitlement, fitness, competency, worthiness",
+            "antonyms": "ineligibility, unsuitability, disqualification, unfitness, incompetency, unworthiness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "যোগ্যতা",
+                    "word_transliteration": "joggyota",
+                    "example_sentence_translation": "যোগ্যতার মানদণ্ড ন্যায্যতা নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Joggyotar mandondo nyadyota nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "institution",
+            "phonetic": "ˌɪn.stɪˈtjuː.ʃən",
+            "word_native_transliteration": {
+                "bn": "ইনস্টিটিউশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏛️",
+            "meaning": "An organization founded and united for a specific purpose; an established law, practice, or custom.",
+            "example_sentence": "Institutions play a crucial role in governance.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনস্টিটিউশনস প্লে এ ক্রুশিয়াল রোল ইন গভর্নেন্স।"
+            },
+            "position": 19,
+            "synonyms": "organization, establishment, foundation, body, agency, entity",
+            "antonyms": "individual, entity, person, dissolution, breakdown, destruction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিষ্ঠান",
+                    "word_transliteration": "protishṭhan",
+                    "example_sentence_translation": "প্রতিষ্ঠান শাসনে গুরুত্বপূর্ণ ভূমিকা পালন করে।",
+                    "example_sentence_transliteration": "Protishṭhan shasone gurutbopurno bhumika palon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "governance",
+            "phonetic": "ˈɡʌv.ən.əns",
+            "word_native_transliteration": {
+                "bn": "গভর্নেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "The action or manner of governing; the conduct of the policy, actions, and affairs of a state, organization, or people.",
+            "example_sentence": "Effective governance ensures sustainable development.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইফেক্টিভ গভর্নেন্স ইনশিওরস সাস্টেইনেবল ডেভেলপমেন্ট।"
+            },
+            "position": 20,
+            "synonyms": "administration, leadership, management, control, rule, direction",
+            "antonyms": "disorder, mismanagement, chaos, anarchy, neglect, abandonment",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শাসন",
+                    "word_transliteration": "shason",
+                    "example_sentence_translation": "কার্যকর শাসন টেকসই উন্নয়ন নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Karjokor shason teksoi unnoyno nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "efficiency",
+            "phonetic": "ɪˈfɪʃ.ən.si",
+            "word_native_transliteration": {
+                "bn": "এফিশিয়েন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "The state or quality of being efficient; achievement of maximum productivity with minimum wasted effort or expense.",
+            "example_sentence": "Efficiency enhances resource utilization.",
+            "example_sentence_native_transliteration": {
+                "bn": "এফিশিয়েন্সি এনহান্সেস রিসোর্স ইউটিলাইজেশন।"
+            },
+            "position": 21,
+            "synonyms": "productivity, effectiveness, competence, capability, proficiency, performance",
+            "antonyms": "inefficiency, wastefulness, incompetence, sluggishness, slowness, inadequacy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষতা",
+                    "word_transliteration": "dokkhota",
+                    "example_sentence_translation": "দক্ষতা সম্পদের সঠিক ব্যবহার বাড়ায়।",
+                    "example_sentence_transliteration": "Dokkhota sompoder sothik byabohar baḍay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "neutrality",
+            "phonetic": "njuːˈtræl.ə.ti",
+            "word_native_transliteration": {
+                "bn": "নিউট্রালিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "The state of not supporting or helping either side in a conflict, disagreement, etc.; impartiality.",
+            "example_sentence": "Neutrality fosters trust in decision-making.",
+            "example_sentence_native_transliteration": {
+                "bn": "নিউট্রালিটি ফস্টারস ট্রাস্ট ইন ডিসিশন-মেকিং।"
+            },
+            "position": 22,
+            "synonyms": "impartiality, fairness, objectivity, balance, detachment, non-alignment",
+            "antonyms": "bias, prejudice, partiality, favoritism, discrimination, unfairness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিরপেক্ষতা",
+                    "word_transliteration": "niropekkkhota",
+                    "example_sentence_translation": "নিরপেক্ষতা সিদ্ধান্ত গ্রহণে আস্থা বাড়ায়।",
+                    "example_sentence_transliteration": "Niropekkkhota siddhanto grohone astha baḍay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "merit-based",
+            "phonetic": "ˈmer.ɪt beɪst",
+            "word_native_transliteration": {
+                "bn": "মেরিট-বেস্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🏆",
+            "meaning": "Based on or determined by individual merit, ability, or achievement rather than other factors.",
+            "example_sentence": "Merit-based recruitment strengthens the workforce.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেরিট-বেস্ট রিক্রুটমেন্ট স্ট্রেংথেনস দ্য ওয়ার্কফোর্স।"
+            },
+            "position": 23,
+            "synonyms": "performance-oriented, capability-driven, skill-based, competency-focused, ability-centered, talent-driven",
+            "antonyms": "favoritism, nepotism, bias-based, prejudiced, unfair, discriminatory",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মেধাভিত্তিক",
+                    "word_transliteration": "medhabhittik",
+                    "example_sentence_translation": "মেধাভিত্তিক নিয়োগ কর্মীশক্তি শক্তিশালী করে।",
+                    "example_sentence_transliteration": "Medhabhittik niyog kormishokti shoktishali kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "transparency",
+            "phonetic": "trænˈspær.ən.si",
+            "word_native_transliteration": {
+                "bn": "ট্রান্সপারেন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔍",
+            "meaning": "The quality of being easy to perceive or detect; openness, accountability, and honesty in governance or operations.",
+            "example_sentence": "Transparency fosters trust in governance.",
+            "example_sentence_native_transliteration": {
+                "bn": "ট্রান্সপারেন্সি ফস্টারস ট্রাস্ট ইন গভর্নেন্স।"
+            },
+            "position": 24,
+            "synonyms": "clarity, openness, honesty, accountability, visibility, disclosure",
+            "antonyms": "opaceness, ambiguity, secrecy, concealment, opacity, obscurity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বচ্ছতা",
+                    "word_transliteration": "sochchhota",
+                    "example_sentence_translation": "স্বচ্ছতা শাসনে আস্থা বাড়ায়।",
+                    "example_sentence_transliteration": "Sochchhota shasone astha baḍay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "administrative",
+            "phonetic": "ədˈmɪn.ɪ.strə.tɪv",
+            "word_native_transliteration": {
+                "bn": "অ্যাডমিনিস্ট্রেটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📋",
+            "meaning": "Relating to the running of a business, organization, etc.; concerned with or relating to management or administration.",
+            "example_sentence": "Administrative reforms improve efficiency.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাডমিনিস্ট্রেটিভ রিফর্মস ইমপ্রুভ এফিশিয়েন্সি।"
+            },
+            "position": 25,
+            "synonyms": "managerial, operational, executive, bureaucratic, organizational, supervisory",
+            "antonyms": "non-managerial, unstructured, informal, unorganized, chaotic, disorderly",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রশাসনিক",
+                    "word_transliteration": "proshasonik",
+                    "example_sentence_translation": "প্রশাসনিক সংস্কার দক্ষতা বাড়ায়।",
+                    "example_sentence_transliteration": "Proshasonik songsskar dokkhota baḍay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "framework",
+            "phonetic": "ˈfreɪm.wɜːk",
+            "word_native_transliteration": {
+                "bn": "ফ্রেমওয়ার্ক"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏗️",
+            "meaning": "A basic structure underlying a system, concept, or text; an essential supporting structure.",
+            "example_sentence": "A strong framework ensures stability.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ স্ট্রং ফ্রেমওয়ার্ক ইনশিওরস স্টেবিলিটি।"
+            },
+            "position": 26,
+            "synonyms": "structure, foundation, system, model, skeleton, architecture",
+            "antonyms": "disorder, disorganization, chaos, instability, breakdown, collapse",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কাঠামো",
+                    "word_transliteration": "kaṭhamo",
+                    "example_sentence_translation": "একটি শক্তিশালী কাঠামো স্থিতিশীলতা নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Ekti shoktishali kaṭhamo sthitishilota nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "improvements",
+            "phonetic": "ɪmˈpruːv.mənts",
+            "word_native_transliteration": {
+                "bn": "ইমপ্রুভমেন্টস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "The action of making or becoming better; an instance of something becoming or being made better.",
+            "example_sentence": "Continuous improvements increase productivity.",
+            "example_sentence_native_transliteration": {
+                "bn": "কন্টিনিউয়াস ইমপ্রুভমেন্টস ইনক্রিজ প্রোডাক্টিভিটি।"
+            },
+            "position": 27,
+            "synonyms": "enhancements, advancements, upgrades, betterments, refinements, progress",
+            "antonyms": "deteriorations, declines, regressions, setbacks, worsening, degradation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উন্নতি",
+                    "word_transliteration": "unnoti",
+                    "example_sentence_translation": "ধারাবাহিক উন্নতি উৎপাদনশীলতা বাড়ায়।",
+                    "example_sentence_transliteration": "Dharabahik unnoti utpadoshilota baḍay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "effective",
+            "phonetic": "ɪˈfek.tɪv",
+            "word_native_transliteration": {
+                "bn": "ইফেক্টিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "✅",
+            "meaning": "Successful in producing a desired or intended result; having the power to influence or produce a result.",
+            "example_sentence": "Effective policies drive organizational success.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইফেক্টিভ পলিসিজ ড্রাইভ অর্গানাইজেশনাল সাকসেস।"
+            },
+            "position": 28,
+            "synonyms": "efficient, productive, successful, powerful, potent, influential",
+            "antonyms": "ineffective, unproductive, unsuccessful, weak, powerless, useless",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কার্যকর",
+                    "word_transliteration": "karjokor",
+                    "example_sentence_translation": "কার্যকর নীতিমালা প্রতিষ্ঠানকে সফল করে।",
+                    "example_sentence_transliteration": "Karjokor nitimala protishṭhanke sofol kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pivotal",
+            "phonetic": "ˈpɪv.ə.təl",
+            "word_native_transliteration": {
+                "bn": "পিভোটাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔄",
+            "meaning": "Of crucial importance in relation to the development or success of something else; central, vital.",
+            "example_sentence": "BPSC plays a pivotal role in governance.",
+            "example_sentence_native_transliteration": {
+                "bn": "বিপিএসসি প্লেজ এ পিভোটাল রোল ইন গভর্নেন্স।"
+            },
+            "position": 29,
+            "synonyms": "central, key, crucial, vital, essential, critical",
+            "antonyms": "peripheral, minor, insignificant, trivial, unimportant, secondary",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গুরুত্বপূর্ণ",
+                    "word_transliteration": "gurutbopurno",
+                    "example_sentence_translation": "বিপিএসসি শাসনে গুরুত্বপূর্ণ ভূমিকা পালন করে।",
+                    "example_sentence_transliteration": "BPSC shasone gurutbopurno bhumika palon kore.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

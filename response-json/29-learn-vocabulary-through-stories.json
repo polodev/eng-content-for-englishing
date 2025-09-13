@@ -1,0 +1,283 @@
+{
+    "position": 29,
+    "title_translation": {
+        "en": "What is life's most valuable lesson?",
+        "bn": "কোনটি জীবনের সবচেয়ে মূল শিক্ষা?"
+    },
+    "content_translation": {
+        "en": "In today's education policy, the opportunities to learn **service**, **empathy**, and **social responsibility** are limited. There is a lack of initiatives to develop **social consciousness** and **idealism** among students. As a result, the younger generation is becoming accustomed to a **materialistic lifestyle**. Instead of **selflessness**, **self-interest** is gaining more importance to them.\n\nDue to the absence of **community service ideals** in society, it has become necessary to teach them through legislation. However, changing attitudes cannot be achieved only through **rules and regulations**. This must be done through **value-based education**, which will awaken a sense of **duty towards others** in students.\n\nIncluding **community service values** and **moral duties** in the curriculum is extremely urgent. Students must be taught the principle that doing something for others gives rise to **inner strength**. Through **true education**, a noble life and beautiful society are possible. Otherwise, current **trends of moral decline** will create deeper problems in society.\n\nMain Lesson:\nWithout teaching students **selflessness**, **empathy**, and **social responsibility**, building an advanced society is impossible. Good education is the only solution.",
+        "bn": "বর্তমান শিক্ষানীতিতে **service**, **empathy**, এবং **social responsibility** শেখানোর সুযোগ সীমিত। শিক্ষার্থীদের মধ্যে **social consciousness** এবং **idealism** বিকশিত করার উদ্যোগের অভাব রয়েছে। ফলে তরুণ প্রজন্ম একটি **materialistic lifestyle**-এ অভ্যস্ত হয়ে পড়ছে। **Selflessness**-এর পরিবর্তে **self-interest** তাদের কাছে অধিক গুরুত্ব পাচ্ছে।\n\nসমাজে **community service ideals** অনুপস্থিত থাকার কারণে আইন প্রণয়নের মাধ্যমে তা শেখানোর প্রয়োজন হচ্ছে। কিন্তু, শুধুমাত্র **rules and regulations** দিয়ে মানসিকতার পরিবর্তন সম্ভব নয়। এটি হতে হবে **value-based education**-এর মাধ্যমে, যা শিক্ষার্থীদের মধ্যে **duty towards others**-এর বোধ জাগ্রত করবে।\n\nশিক্ষাসূচিতে **community service values** এবং **moral duties** অন্তর্ভুক্ত করা অত্যন্ত জরুরি। অপরের জন্য কিছু করার মাধ্যমে **inner strength**-এর উন্মেষ হয়—এই **principle** শিক্ষার্থীদের শেখাতে হবে। **True education**-এর মাধ্যমে মহৎ জীবন এবং সুন্দর সমাজ গঠন সম্ভব। তা না হলে, বর্তমান **trends of moral decline** সমাজে আরও গভীর সমস্যা তৈরি করবে।\n\nমূল শিক্ষা:\nশিক্ষার্থীদের **selflessness**, **empathy**, এবং **social responsibility** শেখানো ছাড়া একটি উন্নত সমাজ গঠন অসম্ভব। সুশিক্ষাই একমাত্র সমাধান।"
+    },
+    "list": [
+        {
+            "word": "service",
+            "phonetic": "ˈsɜːrvɪs",
+            "word_native_transliteration": {
+                "bn": "সার্ভিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "An act of helping or doing work for someone.",
+            "example_sentence": "True education promotes the value of service to others.",
+            "example_sentence_native_transliteration": {
+                "bn": "ট্রু এডুকেশন প্রোমোটস দ্য ভ্যালু অফ সার্ভিস টু আদারস।"
+            },
+            "position": 1,
+            "synonyms": "assistance, help, aid, support",
+            "antonyms": "neglect, disregard",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সেবা",
+                    "word_transliteration": "sheba",
+                    "example_sentence_translation": "প্রকৃত শিক্ষা অন্যের প্রতি সেবার মূল্যবোধ প্রচার করে।",
+                    "example_sentence_transliteration": "Prokrito shikkha onnoer proti shebaar mulyobodh prochar kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "empathy",
+            "phonetic": "ˈɛmpəθi",
+            "word_native_transliteration": {
+                "bn": "এম্প্যাথি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💝",
+            "meaning": "The ability to understand and share the feelings of another person.",
+            "example_sentence": "Empathy helps students connect with society.",
+            "example_sentence_native_transliteration": {
+                "bn": "এম্প্যাথি হেল্পস স্টুডেন্টস কানেক্ট উইথ সোসাইটি।"
+            },
+            "position": 2,
+            "synonyms": "compassion, understanding, sympathy",
+            "antonyms": "apathy, indifference",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহানুভূতি",
+                    "word_transliteration": "shohanubhuti",
+                    "example_sentence_translation": "সহানুভূতি শিক্ষার্থীদের সমাজের সাথে সংযুক্ত হতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Shohanubhuti shikkharthider shomajeer shathe shongjukto hote shahajjo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "social responsibility",
+            "phonetic": "ˈsoʊʃəl rɪˌspɒnsəˈbɪləti",
+            "word_native_transliteration": {
+                "bn": "সোশ্যাল রেসপনসিবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏛️",
+            "meaning": "The duty to act in ways that benefit society as a whole.",
+            "example_sentence": "Social responsibility should be part of the education curriculum.",
+            "example_sentence_native_transliteration": {
+                "bn": "সোশ্যাল রেসপনসিবিলিটি শুড বি পার্ট অফ দ্য এডুকেশন কারিকুলাম।"
+            },
+            "position": 3,
+            "synonyms": "civic duty, public accountability",
+            "antonyms": "irresponsibility, carelessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সামাজিক দায়িত্ব",
+                    "word_transliteration": "shamajik dayitto",
+                    "example_sentence_translation": "সামাজিক দায়িত্ব শিক্ষা সূচির অংশ হওয়া উচিত।",
+                    "example_sentence_transliteration": "Shamajik dayitto shikkha suchir ongosh howya uchit.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "materialistic lifestyle",
+            "phonetic": "məˌtɪərɪəˈlɪstɪk ˈlaɪfstaɪl",
+            "word_native_transliteration": {
+                "bn": "মেটেরিয়ালিস্টিক লাইফস্টাইল"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💰",
+            "meaning": "A way of living focused on acquiring material possessions and wealth.",
+            "example_sentence": "A materialistic lifestyle often leads to moral decline.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ মেটেরিয়ালিস্টিক লাইফস্টাইল অফেন লিডস টু মোরাল ডিক্লাইন।"
+            },
+            "position": 4,
+            "synonyms": "consumerist culture, material-focused life",
+            "antonyms": "minimalistic life, simple living",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভোগবাদী জীবনধারা",
+                    "word_transliteration": "bhogbadi jibondhara",
+                    "example_sentence_translation": "ভোগবাদী জীবনধারা প্রায়ই নৈতিক অবক্ষয়ের দিকে নিয়ে যায়।",
+                    "example_sentence_transliteration": "Bhogbadi jibondhara proyoi noitik obokkhoyeer dike niye jay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "selflessness",
+            "phonetic": "ˈsɛlfləsnɪs",
+            "word_native_transliteration": {
+                "bn": "সেলফলেসনেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🙏",
+            "meaning": "The quality of being concerned more with the needs of others than with one's own.",
+            "example_sentence": "Selflessness is a key value for community building.",
+            "example_sentence_native_transliteration": {
+                "bn": "সেলফলেসনেস ইজ অ্যা কি ভ্যালু ফর কমিউনিটি বিল্ডিং।"
+            },
+            "position": 5,
+            "synonyms": "altruism, unselfishness, generosity",
+            "antonyms": "selfishness, egoism",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরার্থপরতা",
+                    "word_transliteration": "porarthporata",
+                    "example_sentence_translation": "পরার্থপরতা কমিউনিটি গঠনের একটি মূল মূল্যবোধ।",
+                    "example_sentence_transliteration": "Porarthporata community gothoner ekti mul mulyobodh.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "community service ideals",
+            "phonetic": "kəˈmjuːnɪti ˈsɜːrvɪs aɪˈdiːəlz",
+            "word_native_transliteration": {
+                "bn": "কমিউনিটি সার্ভিস আইডিয়ালস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌟",
+            "meaning": "Principles and standards of serving the community for social good.",
+            "example_sentence": "Community service ideals must be taught in schools.",
+            "example_sentence_native_transliteration": {
+                "bn": "কমিউনিটি সার্ভিস আইডিয়ালস মাস্ট বি টট ইন স্কুলস।"
+            },
+            "position": 6,
+            "synonyms": "social service values, civic ideals",
+            "antonyms": "neglect, apathy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সমাজসেবার আদর্শ",
+                    "word_transliteration": "shomajshebaar adarsha",
+                    "example_sentence_translation": "সমাজসেবার আদর্শ স্কুলে শেখানো উচিত।",
+                    "example_sentence_transliteration": "Shomajshebaar adarsha school-e shekhano uchit.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "rules and regulations",
+            "phonetic": "ruːlz ənd ˌrɛɡjʊˈleɪʃənz",
+            "word_native_transliteration": {
+                "bn": "রুলস অ্যান্ড রেগুলেশনস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📋",
+            "meaning": "Official orders and laws that control how something is done.",
+            "example_sentence": "Rules and regulations alone cannot change attitudes.",
+            "example_sentence_native_transliteration": {
+                "bn": "রুলস অ্যান্ড রেগুলেশনস এলোন ক্যানট চেঞ্জ অ্যাটিটিউডস।"
+            },
+            "position": 7,
+            "synonyms": "laws, guidelines, policies",
+            "antonyms": "chaos, anarchy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিয়মকানুন",
+                    "word_transliteration": "niyomkanun",
+                    "example_sentence_translation": "শুধুমাত্র নিয়মকানুন দিয়ে মানসিকতার পরিবর্তন সম্ভব নয়।",
+                    "example_sentence_transliteration": "Shudhomatro niyomkanun diye manoshikotaar poribortton shombhob noy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "value-based education",
+            "phonetic": "ˈvæljuː beɪst ˌɛdjuːˈkeɪʃən",
+            "word_native_transliteration": {
+                "bn": "ভ্যালু-বেসড এডুকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📚",
+            "meaning": "Education that emphasizes moral principles and ethical values.",
+            "example_sentence": "Value-based education shapes moral character.",
+            "example_sentence_native_transliteration": {
+                "bn": "ভ্যালু-বেসড এডুকেশন শেপস মোরাল ক্যারেক্টার।"
+            },
+            "position": 8,
+            "synonyms": "moral education, ethical learning",
+            "antonyms": "knowledge-only education",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মূল্যবোধভিত্তিক শিক্ষা",
+                    "word_transliteration": "mulyobodhbhittik shikkha",
+                    "example_sentence_translation": "মূল্যবোধভিত্তিক শিক্ষা নৈতিক চরিত্র গঠনে সাহায্য করে।",
+                    "example_sentence_transliteration": "Mulyobodhbhittik shikkha noitik chorito gothone shahajjo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "inner strength",
+            "phonetic": "ˈɪnər strɛŋkθ",
+            "word_native_transliteration": {
+                "bn": "ইনার স্ট্রেংথ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "Mental or spiritual power that helps a person cope with difficulties.",
+            "example_sentence": "Community service fosters inner strength in individuals.",
+            "example_sentence_native_transliteration": {
+                "bn": "কমিউনিটি সার্ভিস ফস্টার্স ইনার স্ট্রেংথ ইন ইন্ডিভিজুয়ালস।"
+            },
+            "position": 9,
+            "synonyms": "inner power, spiritual strength, resilience",
+            "antonyms": "weakness, fragility",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভেতরের শক্তি",
+                    "word_transliteration": "bhetorer shokti",
+                    "example_sentence_translation": "সমাজসেবা মানুষের ভেতরের শক্তি বাড়ায়।",
+                    "example_sentence_transliteration": "Shomajsheba manusher bhetorer shokti baraye.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "true education",
+            "phonetic": "truː ˌɛdjuˈkeɪʃən",
+            "word_native_transliteration": {
+                "bn": "ট্রু এডুকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎓",
+            "meaning": "Genuine learning that develops both mind and character.",
+            "example_sentence": "True education builds a noble and beautiful life.",
+            "example_sentence_native_transliteration": {
+                "bn": "ট্রু এডুকেশন বিল্ডস অ্যা নোবল অ্যান্ড বিউটিফুল লাইফ।"
+            },
+            "position": 10,
+            "synonyms": "genuine education, holistic learning",
+            "antonyms": "ignorance, misguidance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সুশিক্ষা",
+                    "word_transliteration": "sushikkha",
+                    "example_sentence_translation": "সুশিক্ষা একটি মহৎ এবং সুন্দর জীবন গড়ে তোলে।",
+                    "example_sentence_transliteration": "Sushikkha ekti mohot ebong shundor jibon gore tole.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

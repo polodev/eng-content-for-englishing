@@ -1,0 +1,310 @@
+{
+    "position": 28,
+    "title_translation": {
+        "en": "Why More Vegetables Grow in Winter",
+        "bn": "শীতে বেশি সবজি জন্মায় কেন"
+    },
+    "content_translation": {
+        "en": "Winter is **agriculturally significant** for our country. Along with major crops like rice, wheat, and corn, various **seasonal vegetables** are cultivated in winter. Vegetables like cabbage, cauliflower, carrots, and tomatoes, which are **nutritious crops**, show such **abundance** that is not seen at other times.\n\nThe reason so many vegetables grow in winter is due to **favorable climatic conditions** and plants' own **adaptive features**. Usually, excessive heat and rain **hinder** vegetable plant growth. But winter's **optimal temperature** (approximately 15 to 25 degrees Celsius) and 10-12 hours of daylight **stimulate plant growth**.\n\nAdditionally, fog and cold air maintain the **process stability** of plants' physiological processes, which increases yield. Winter's **ideal environment** is truly a blessing for plants.",
+        "bn": "আমাদের দেশে শীতকাল **agriculturally significant** একটি সময়। ধান, গম এবং ভূট্টার মতো প্রধান শস্যের পাশাপাশি, শীতকালে বিভিন্ন **seasonal vegetables** চাষ করা হয়। বাঁধাকপি, ফুলকপি, গাজর এবং টমেটো যেমন **nutritious crops** উৎপন্ন হয়, অন্য সময় এ ধরনের **abundance** দেখা যায় না।\n\nশীতকালে এত বেশি সবজি জন্মানোর কারণ হলো **favorable climatic conditions** এবং উদ্ভিদের নিজস্ব **adaptive features**। সাধারণত, গরমকালে অতিরিক্ত তাপ এবং বৃষ্টি **hinder** সবজি গাছের বৃদ্ধি। কিন্তু শীতকালের **optimal temperature** (প্রায় ১৫ থেকে ২৫ ডিগ্রি সেলসিয়াস) এবং ১০-১২ ঘণ্টার দিনের আলো **stimulate plant growth**।\n\nএছাড়া কুয়াশা এবং ঠান্ডা বাতাস উদ্ভিদের শারীরবৃত্তীয় **process stability** বজায় রাখে, যা ফলন বাড়ায়। শীতকালে এই **ideal environment** উদ্ভিদের জন্য কার্যত আশীর্বাদ।"
+    },
+    "list": [
+        {
+            "word": "agriculturally significant",
+            "phonetic": "ˌæɡrɪˈkʌltʃərəli sɪɡˈnɪfɪkənt",
+            "word_native_transliteration": {
+                "bn": "অ্যাগ্রিকালচারালি সিগনিফিক্যান্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌾",
+            "meaning": "Important or crucial related to farming and agriculture",
+            "example_sentence": "Winter is agriculturally significant for crop production.",
+            "example_sentence_native_transliteration": {
+                "bn": "উইন্টার ইজ অ্যাগ্রিকালচারালি সিগনিফিক্যান্ট ফর ক্রপ প্রোডাকশন।"
+            },
+            "position": 1,
+            "synonyms": "Important, Critical",
+            "antonyms": "Insignificant, Trivial",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কৃষি সম্পর্কিত গুরুত্বপূর্ণ",
+                    "word_transliteration": "krishi shomporkit guruttopurno",
+                    "example_sentence_translation": "শীতকাল শস্য উৎপাদনের জন্য কৃষি সম্পর্কিত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Sheetkal shoshyo utpadoner jonno krishi shomporkit guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "seasonal vegetables",
+            "phonetic": "ˈsiːzənəl ˈvedʒtəbəlz",
+            "word_native_transliteration": {
+                "bn": "সিজনাল ভেজিটেবলস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🥬",
+            "meaning": "Vegetables that grow during specific seasons or times of the year",
+            "example_sentence": "Seasonal vegetables grow abundantly in winter.",
+            "example_sentence_native_transliteration": {
+                "bn": "সিজনাল ভেজিটেবলস গ্রো অ্যাবান্ড্যান্টলি ইন উইন্টার।"
+            },
+            "position": 2,
+            "synonyms": "Periodic crops, Seasonal greens",
+            "antonyms": "Perennial plants",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ঋতুভিত্তিক সবজি",
+                    "word_transliteration": "ritu bhittik shobjee",
+                    "example_sentence_translation": "শীতকালে সিজনাল ভেজিটেবলস প্রচুর পরিমাণে জন্মে।",
+                    "example_sentence_transliteration": "Sheetkaley seasonal vegetables prochur porimaney jonmey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "nutritious crops",
+            "phonetic": "njuˈtrɪʃəs krɒps",
+            "word_native_transliteration": {
+                "bn": "নিউট্রিশাস ক্রপস"
+            },
+            "parts_of_speech": "adjective + noun",
+            "emoji": "🌱",
+            "meaning": "Plants or vegetables that are rich in nutrients and beneficial for health",
+            "example_sentence": "Winter vegetables are considered nutritious crops.",
+            "example_sentence_native_transliteration": {
+                "bn": "উইন্টার ভেজিটেবলস আর কনসিডার্ড নিউট্রিশাস ক্রপস।"
+            },
+            "position": 3,
+            "synonyms": "Healthy plants, Nutrient-rich yields",
+            "antonyms": "Junk crops",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুষ্টিকর শস্য",
+                    "word_transliteration": "pushtikor shoshyo",
+                    "example_sentence_translation": "শীতকালের সবজি পুষ্টিকর শস্য হিসেবে বিবেচিত হয়।",
+                    "example_sentence_transliteration": "Sheetkaley shobjee pushtikor shoshyo hishebey bibechito hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "abundance",
+            "phonetic": "əˈbʌndəns",
+            "word_native_transliteration": {
+                "bn": "আবান্ডান্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌿",
+            "meaning": "A very large quantity of something; plenty",
+            "example_sentence": "The abundance of vegetables in winter is remarkable.",
+            "example_sentence_native_transliteration": {
+                "bn": "দি আবান্ডান্স অব ভেজিটেবলস ইন উইন্টার ইজ রিমার্কেবল।"
+            },
+            "position": 4,
+            "synonyms": "Plenty, Surplus",
+            "antonyms": "Scarcity, Shortage",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রাচুর্য",
+                    "word_transliteration": "prachurjyo",
+                    "example_sentence_translation": "শীতকালে সবজির প্রাচুর্য উল্লেখযোগ্য।",
+                    "example_sentence_transliteration": "Sheetkaley sho bjeer prachurjyo ullekhjoggo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "favorable climatic conditions",
+            "phonetic": "ˈfeɪvərəbəl klaɪˈmætɪk kənˈdɪʃənz",
+            "word_native_transliteration": {
+                "bn": "ফেভারেবল ক্লাইম্যাটিক কন্ডিশন্স"
+            },
+            "parts_of_speech": "adjective + noun",
+            "emoji": "🌤️",
+            "meaning": "Weather conditions that are suitable and beneficial for growth or development",
+            "example_sentence": "Winter offers favorable climatic conditions for farming.",
+            "example_sentence_native_transliteration": {
+                "bn": "উইন্টার অফার্স ফেভারেবল ক্লাইম্যাটিক কন্ডিশন্স ফর ফার্মিং।"
+            },
+            "position": 5,
+            "synonyms": "Suitable weather, Ideal environment",
+            "antonyms": "Harsh climate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনুকূল আবহাওয়া পরিস্থিতি",
+                    "word_transliteration": "onukul abohawa poristhiti",
+                    "example_sentence_translation": "শীতকাল চাষাবাদের জন্য অনুকূল আবহাওয়া পরিস্থিতি প্রদান করে।",
+                    "example_sentence_transliteration": "Sheetkal chashabader jonno onukul abohawa poristhiti prodan korey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "adaptive features",
+            "phonetic": "əˈdæptɪv ˈfiːtʃərz",
+            "word_native_transliteration": {
+                "bn": "অ্যাডাপটিভ ফিচারস"
+            },
+            "parts_of_speech": "adjective + noun",
+            "emoji": "🔄",
+            "meaning": "Characteristics that help organisms adjust to their environment",
+            "example_sentence": "Plants' adaptive features help them grow in winter.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্ল্যান্টস অ্যাডাপটিভ ফিচারস হেল্প দেম গ্রো ইন উইন্টার।"
+            },
+            "position": 6,
+            "synonyms": "Adjustable traits, Resilient qualities",
+            "antonyms": "Rigid features",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অভিযোজন বৈশিষ্ট্য",
+                    "word_transliteration": "obhijogon boishishtyo",
+                    "example_sentence_translation": "উদ্ভিদের অভিযোজন বৈশিষ্ট্য তাদের শীতে বাড়তে সাহায্য করে।",
+                    "example_sentence_transliteration": "Udbhidder obhijogon boishishtyo tader sheete badhte shahajyo korey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "hinder",
+            "phonetic": "ˈhɪndər",
+            "word_native_transliteration": {
+                "bn": "হিন্ডার"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🚫",
+            "meaning": "To obstruct or delay the progress of something",
+            "example_sentence": "Excessive rain hinders vegetable growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সেসিভ রেইন হিন্ডারস ভেজিটেবল গ্রোথ।"
+            },
+            "position": 7,
+            "synonyms": "Obstruct, Prevent",
+            "antonyms": "Facilitate, Promote",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাধা প্রদান করা",
+                    "word_transliteration": "badha prodan kora",
+                    "example_sentence_translation": "অতিরিক্ত বৃষ্টি সবজির বৃদ্ধি হিন্ডার করে।",
+                    "example_sentence_transliteration": "Otirikto bristhi shobjeer briddhi hinder korey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "optimal temperature",
+            "phonetic": "ˈɒptɪməl ˈtempərətʃər",
+            "word_native_transliteration": {
+                "bn": "অপটিমাল টেম্পারেচার"
+            },
+            "parts_of_speech": "adjective + noun",
+            "emoji": "🌡️",
+            "meaning": "The best or most favorable temperature for a particular purpose",
+            "example_sentence": "Winter provides optimal temperature for farming.",
+            "example_sentence_native_transliteration": {
+                "bn": "উইন্টার প্রোভাইডস অপটিমাল টেম্পারেচার ফর ফার্মিং।"
+            },
+            "position": 8,
+            "synonyms": "Best climate, Perfect condition",
+            "antonyms": "Extreme temperature",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সর্বোত্তম তাপমাত্রা",
+                    "word_transliteration": "shorbottom tapmatra",
+                    "example_sentence_translation": "শীতকাল কৃষিকাজের জন্য সর্বোত্তম তাপমাত্রা প্রদান করে।",
+                    "example_sentence_transliteration": "Sheetkal krishikajer jonno shorbottom tapmatra prodan korey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "stimulate",
+            "phonetic": "ˈstɪmjəleɪt",
+            "word_native_transliteration": {
+                "bn": "স্টিমুলেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⚡",
+            "meaning": "To encourage or promote the development or growth of something",
+            "example_sentence": "Proper sunlight stimulates plant growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রপার সানলাইট স্টিমুলেটস প্ল্যান্ট গ্রোথ।"
+            },
+            "position": 9,
+            "synonyms": "Trigger, Activate",
+            "antonyms": "Suppress, Inhibit",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্দীপিত করা",
+                    "word_transliteration": "uddeepito kora",
+                    "example_sentence_translation": "উপযুক্ত সূর্যালোক উদ্ভিদের বৃদ্ধি স্টিমুলেট করে।",
+                    "example_sentence_transliteration": "Upojukto shurjalouk udbhidder briddhi stimulate korey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "process stability",
+            "phonetic": "ˈprəʊses stəˈbɪlɪti",
+            "word_native_transliteration": {
+                "bn": "প্রসেস স্ট্যাবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "The consistency and steadiness of biological or functional processes",
+            "example_sentence": "Cold air ensures process stability in plants.",
+            "example_sentence_native_transliteration": {
+                "bn": "কোল্ড এয়ার এনশিওরস প্রসেস স্ট্যাবিলিটি ইন প্ল্যান্টস।"
+            },
+            "position": 10,
+            "synonyms": "Procedural balance, Functional steadiness",
+            "antonyms": "Instability, Imbalance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রক্রিয়ার স্থায়িত্ব",
+                    "word_transliteration": "procreeyar sthayitto",
+                    "example_sentence_translation": "ঠান্ডা বাতাস উদ্ভিদের প্রক্রিয়ার স্থায়িত্ব নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Thanda batas udbhidder procreeyar sthayitto nishchit korey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ideal environment",
+            "phonetic": "aɪˈdiːəl ɪnˈvaɪrənmənt",
+            "word_native_transliteration": {
+                "bn": "আইডিয়াল এনভায়রনমেন্ট"
+            },
+            "parts_of_speech": "adjective + noun",
+            "emoji": "🌍",
+            "meaning": "Perfect or most suitable conditions for growth or development",
+            "example_sentence": "Winter creates an ideal environment for vegetable growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "উইন্টার ক্রিয়েটস অ্যান আইডিয়াল এনভায়রনমেন্ট ফর ভেজিটেবল গ্রোথ।"
+            },
+            "position": 11,
+            "synonyms": "Perfect setting, Favorable conditions",
+            "antonyms": "Unfavorable environment",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আদর্শ পরিবেশ",
+                    "word_transliteration": "adrorsho poribesh",
+                    "example_sentence_translation": "শীতকাল সবজির বৃদ্ধির জন্য আইডিয়াল এনভায়রনমেন্ট তৈরি করে।",
+                    "example_sentence_transliteration": "Sheetkal shobjeer brddhir jonno ideal environment toiri korey.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

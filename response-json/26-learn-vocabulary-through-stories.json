@@ -1,0 +1,553 @@
+{
+    "position": 26,
+    "title_translation": {
+        "en": "Bangladesh's Progress in Human Development Index",
+        "bn": "মানব উন্নয়ন সূচকে বাংলাদেশের অগ্রগতি"
+    },
+    "content_translation": {
+        "en": "The United Nations has a **comprehensive index** that determines **human development metrics** based on quality of life, education, and age. In the latest **report**, Switzerland is at the top, followed by Norway and Iceland. These countries' **exceptional living standards**, **sophisticated educational frameworks**, and **prolonged life expectancy** have helped them reach this position. Bangladesh **attained** 129th position, which is better compared to neighboring Pakistan and slightly behind compared to India. **Average** longevity is 72.4 years, which reflects **enhanced healthcare infrastructure**. However, **advancements** in **literacy rates** and investment in medical services can bring further improvement in this **ranking**. Among South Asian countries, Sri Lanka is in the highest position. Bangladesh's **incremental progress** serves as inspiration for future socioeconomic prospects and **policy innovation**.",
+        "bn": "জাতিসংঘের একটি **comprehensive index** জীবনমান, শিক্ষা এবং আয়ুর উপর ভিত্তি করে **human development metrics** নির্ধারণ করে। সর্বশেষ **প্রতিবেদন**-এ সুইজারল্যান্ড শীর্ষে রয়েছে, তারপরে নরওয়ে এবং আইসল্যান্ড। এই দেশগুলোর **exceptional living standards**, **sophisticated educational frameworks**, এবং **prolonged life expectancy** তাদের এই অবস্থানে পৌঁছাতে সাহায্য করেছে। বাংলাদেশ **attained** ১২৯তম position, যা প্রতিবেশী পাকিস্তানের তুলনায় উন্নত এবং ভারতের তুলনায় কিছুটা পিছিয়ে। **Average longevity** ৭২.৪ বছর, যা **enhanced healthcare infrastructure**-এর প্রতিফলন। তবে, **advancements** in **literacy rates** এবং investment in medical services এই ranking-এ আরও উন্নতি আনতে পারে। দক্ষিণ এশিয়ার মধ্যে শ্রী লঙ্কা সর্বোচ্চ অবস্থানে রয়েছে। বাংলাদেশের এই **incremental progress** ভবিষ্যতের socioeconomic prospects এবং **policy innovation**-এর জন্য অনুপ্রেরণা হিসেবে কাজ করে।"
+    },
+    "list": [
+        {
+            "word": "comprehensive",
+            "phonetic": "ˌkɒm.prɪˈhen.sɪv",
+            "word_native_transliteration": {
+                "bn": "কমপ্রিহেনসিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📋",
+            "meaning": "Including or dealing with all or nearly all elements or aspects of something; complete and thorough.",
+            "example_sentence": "A comprehensive study enhances understanding.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ কমপ্রিহেনসিভ স্টাডি এনহানসেস আন্ডারস্ট্যান্ডিং।"
+            },
+            "position": 1,
+            "synonyms": "inclusive, exhaustive, complete, thorough, all-encompassing, detailed",
+            "antonyms": "limited, narrow, incomplete, partial, selective, restricted",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ব্যাপক",
+                    "word_transliteration": "byapok",
+                    "example_sentence_translation": "একটি ব্যাপক গবেষণা বোঝাপড়া বাড়ায়।",
+                    "example_sentence_transliteration": "Ekti byapok gobeshona bojhapora baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "index",
+            "phonetic": "ˈɪn.deks",
+            "word_native_transliteration": {
+                "bn": "ইনডেক্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "An alphabetical list of names, subjects, etc. with references to the places where they occur, typically found at the end of a book; a sign or measure of something.",
+            "example_sentence": "An index organizes critical data.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যান ইনডেক্স অর্গানাইজেস ক্রিটিক্যাল ডেটা।"
+            },
+            "position": 2,
+            "synonyms": "list, register, catalog, directory, guide, indicator",
+            "antonyms": "unlisted, unindexed, unorganized, random, chaotic, scattered",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সূচক",
+                    "word_transliteration": "suchok",
+                    "example_sentence_translation": "একটি সূচক গুরুত্বপূর্ণ ডেটা সংগঠিত করে।",
+                    "example_sentence_transliteration": "Ekti suchok gurutbopurno data songothito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "human",
+            "phonetic": "ˈhjuː.mən",
+            "word_native_transliteration": {
+                "bn": "হিউম্যান"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "👤",
+            "meaning": "Relating to or characteristic of people or human beings; showing the better qualities of humankind, such as kindness.",
+            "example_sentence": "Human values shape social systems.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিউম্যান ভ্যালিউস শেপ সোশ্যাল সিস্টেমস।"
+            },
+            "position": 3,
+            "synonyms": "humane, civil, compassionate, kind, benevolent, civilized",
+            "antonyms": "inhumane, cruel, brutal, savage, barbaric, heartless",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মানব",
+                    "word_transliteration": "manob",
+                    "example_sentence_translation": "মানব মূল্যবোধ সামাজিক ব্যবস্থাকে আকার দেয়।",
+                    "example_sentence_transliteration": "Manob mulyobodh shamajik byabosthake akar dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "development",
+            "phonetic": "dɪˈvel.əp.mənt",
+            "word_native_transliteration": {
+                "bn": "ডেভেলপমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "The process of developing or being developed; a specified state of growth or advancement.",
+            "example_sentence": "Development initiatives improve quality of life.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডেভেলপমেন্ট ইনিশিয়েটিভস ইমপ্রুভ কোয়ালিটি অব লাইফ।"
+            },
+            "position": 4,
+            "synonyms": "progress, advancement, growth, improvement, evolution, expansion",
+            "antonyms": "stagnation, decline, regression, deterioration, decay, setback",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উন্নয়ন",
+                    "word_transliteration": "unnoyono",
+                    "example_sentence_translation": "উন্নয়ন উদ্যোগ জীবনমান উন্নত করে।",
+                    "example_sentence_transliteration": "Unnoyono udyog jibonman unnoto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "metrics",
+            "phonetic": "ˈme.trɪks",
+            "word_native_transliteration": {
+                "bn": "মেট্রিক্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📏",
+            "meaning": "A system or standard of measurement; a set of numbers that give information about a particular process or activity.",
+            "example_sentence": "Metrics are crucial for evaluating performance.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেট্রিক্স আর ক্রুশ্যাল ফর ইভ্যালুয়েটিং পারফরমেন্স।"
+            },
+            "position": 5,
+            "synonyms": "measures, standards, benchmarks, indicators, criteria, parameters",
+            "antonyms": "guesses, estimates, assumptions, speculation, approximations, hunches",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিমাপক",
+                    "word_transliteration": "porimapok",
+                    "example_sentence_translation": "পরিমাপক কর্মক্ষমতা মূল্যায়নের জন্য গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Porimapok kormokkhomota mulyayoner jonno gurutbopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "report",
+            "phonetic": "rɪˈpɔːt",
+            "word_native_transliteration": {
+                "bn": "রিপোর্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📄",
+            "meaning": "An account given of a particular matter, especially in the form of an official document after thorough investigation or consideration.",
+            "example_sentence": "The report highlights critical issues.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রিপোর্ট হাইলাইটস ক্রিটিক্যাল ইস্যুস।"
+            },
+            "position": 6,
+            "synonyms": "statement, account, document, record, summary, briefing",
+            "antonyms": "silence, concealment, secrecy, suppression, withholding, cover-up",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিবেদন",
+                    "word_transliteration": "protibedon",
+                    "example_sentence_translation": "প্রতিবেদন গুরুত্বপূর্ণ বিষয়গুলো তুলে ধরে।",
+                    "example_sentence_transliteration": "Protibedon gurutbopurno bishoygulo tule dhore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "exceptional",
+            "phonetic": "ɪkˈsep.ʃən.əl",
+            "word_native_transliteration": {
+                "bn": "এক্সেপশনাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⭐",
+            "meaning": "Unusually good; outstanding; forming an exception; not typical.",
+            "example_sentence": "Exceptional talent drives innovation.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সেপশনাল ট্যালেন্ট ড্রাইভস ইনোভেশন।"
+            },
+            "position": 7,
+            "synonyms": "outstanding, remarkable, extraordinary, superb, excellent, superior",
+            "antonyms": "ordinary, average, typical, mediocre, commonplace, standard",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ব্যতিক্রমী",
+                    "word_transliteration": "byotikrimi",
+                    "example_sentence_translation": "ব্যতিক্রমী প্রতিভা উদ্ভাবনকে ত্বরান্বিত করে।",
+                    "example_sentence_transliteration": "Byotikrimi protibha udbhabonke tboranvito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "living standards",
+            "phonetic": "ˈlɪv.ɪŋ ˈstæn.dədz",
+            "word_native_transliteration": {
+                "bn": "লিভিং স্ট্যান্ডার্ডস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏠",
+            "meaning": "The degree of wealth and material comfort available to a person or community; quality of life.",
+            "example_sentence": "High living standards improve satisfaction.",
+            "example_sentence_native_transliteration": {
+                "bn": "হাই লিভিং স্ট্যান্ডার্ডস ইমপ্রুভ স্যাটিসফ্যাকশন।"
+            },
+            "position": 8,
+            "synonyms": "quality of life, socioeconomic level, lifestyle, comfort level, prosperity, wellbeing",
+            "antonyms": "poverty, destitution, hardship, deprivation, want, penury",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জীবনমান",
+                    "word_transliteration": "jibonman",
+                    "example_sentence_translation": "উচ্চ জীবনমান সন্তুষ্টি বাড়ায়।",
+                    "example_sentence_transliteration": "Uccho jibonman santushti baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sophisticated",
+            "phonetic": "səˈfɪs.tɪ.keɪ.tɪd",
+            "word_native_transliteration": {
+                "bn": "সফিস্টিকেটেড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎩",
+            "meaning": "Having great knowledge or experience of the world and knowing about fashion, culture, and other things that people think are socially important; highly developed or complex.",
+            "example_sentence": "Sophisticated designs enhance aesthetics.",
+            "example_sentence_native_transliteration": {
+                "bn": "সফিস্টিকেটেড ডিজাইনস এনহান্স এস্থেটিক্স।"
+            },
+            "position": 9,
+            "synonyms": "advanced, refined, complex, elaborate, cultured, polished",
+            "antonyms": "crude, primitive, simple, basic, unsophisticated, naive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিশীলিত",
+                    "word_transliteration": "porishilito",
+                    "example_sentence_translation": "পরিশীলিত নকশা নান্দনিকতা বাড়ায়।",
+                    "example_sentence_transliteration": "Porishilito noksha nandorikota baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "frameworks",
+            "phonetic": "ˈfreɪm.wɜːks",
+            "word_native_transliteration": {
+                "bn": "ফ্রেমওয়ার্কস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏗️",
+            "meaning": "A basic structure underlying a system, concept, or text; an essential supporting structure.",
+            "example_sentence": "Frameworks define the basis of systems.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফ্রেমওয়ার্কস ডিফাইন দ্য বেসিস অব সিস্টেমস।"
+            },
+            "position": 10,
+            "synonyms": "structures, models, foundations, scaffolds, blueprints, systems",
+            "antonyms": "chaos, disorganization, disorder, confusion, anarchy, randomness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কাঠামো",
+                    "word_transliteration": "kathamo",
+                    "example_sentence_translation": "কাঠামো সিস্টেমের ভিত্তি নির্ধারণ করে।",
+                    "example_sentence_transliteration": "Kathamo sistemer bhitti nirdharon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "prolonged",
+            "phonetic": "prəˈlɒŋd",
+            "word_native_transliteration": {
+                "bn": "প্রোলংড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⏳",
+            "meaning": "Continuing for a long time or longer than usual; lengthy.",
+            "example_sentence": "Prolonged discussions often delay decisions.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোলংড ডিসকাশনস অফেন ডিলে ডিসিশনস।"
+            },
+            "position": 11,
+            "synonyms": "extended, lengthy, protracted, sustained, enduring, persistent",
+            "antonyms": "brief, short-lived, temporary, fleeting, momentary, quick",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দীর্ঘস্থায়ী",
+                    "word_transliteration": "dirghosthayee",
+                    "example_sentence_translation": "দীর্ঘ আলোচনায় প্রায়ই সিদ্ধান্ত বিলম্বিত হয়।",
+                    "example_sentence_transliteration": "Dirgho alochonay prayi siddhanto bilambit hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "life expectancy",
+            "phonetic": "ˈlaɪf ɪkˌspek.tən.si",
+            "word_native_transliteration": {
+                "bn": "লাইফ এক্সপেকট্যান্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "The average period that a person may expect to live; the length of time for which something is expected to last or to continue being effective.",
+            "example_sentence": "Life expectancy depends on healthcare quality.",
+            "example_sentence_native_transliteration": {
+                "bn": "লাইফ এক্সপেকট্যান্সি ডিপেন্ডস অন হেলথকেয়ার কোয়ালিটি।"
+            },
+            "position": 12,
+            "synonyms": "longevity, lifespan, lifetime, life duration, survival rate, age expectancy",
+            "antonyms": "mortality, short-lived, brief existence, early death, premature ending, limited lifespan",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গড় আয়ু",
+                    "word_transliteration": "goro ayu",
+                    "example_sentence_translation": "গড় আয়ু স্বাস্থ্যসেবার মানের উপর নির্ভর করে।",
+                    "example_sentence_transliteration": "Goro ayu swasthyosebaer maner upor nirbhor kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "attained",
+            "phonetic": "əˈteɪnd",
+            "word_native_transliteration": {
+                "bn": "অ্যাটেইন্ড"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🎯",
+            "meaning": "Succeeded in achieving (something that one desires and has worked for); reached a specified age, size, or amount.",
+            "example_sentence": "The region attained remarkable progress.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রিজিয়ন অ্যাটেইন্ড রিমার্কেবল প্রোগ্রেস।"
+            },
+            "position": 13,
+            "synonyms": "achieved, reached, accomplished, obtained, secured, realized",
+            "antonyms": "failed, missed, lost, forfeited, abandoned, surrendered",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অর্জিত",
+                    "word_transliteration": "orjito",
+                    "example_sentence_translation": "অঞ্চলটি উল্লেখযোগ্য অগ্রগতি অর্জন করেছে।",
+                    "example_sentence_transliteration": "Onchholti ullekhjogyo ogogoti orjon korechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "average",
+            "phonetic": "ˈæv.ər.ɪdʒ",
+            "word_native_transliteration": {
+                "bn": "অ্যাভারেজ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📊",
+            "meaning": "A number expressing the central or typical value in a set of data; constituting the result obtained by adding together several amounts and then dividing this total by the number of amounts.",
+            "example_sentence": "The average score reflects overall performance.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যাভারেজ স্কোর রিফ্লেক্টস ওভারঅল পারফরমেন্স।"
+            },
+            "position": 14,
+            "synonyms": "median, standard, typical, normal, mean, regular",
+            "antonyms": "extreme, exceptional, outstanding, unusual, extraordinary, remarkable",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গড়",
+                    "word_transliteration": "goro",
+                    "example_sentence_translation": "গড় স্কোর সামগ্রিক কর্মক্ষমতা প্রকাশ করে।",
+                    "example_sentence_transliteration": "Goro skor shamogriko kormokkhomota prokash kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "enhanced",
+            "phonetic": "ɪnˈhɑːnst",
+            "word_native_transliteration": {
+                "bn": "এনহান্সড"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⬆️",
+            "meaning": "Intensify, increase, or further improve the quality, value, or extent of something.",
+            "example_sentence": "Enhanced strategies improve outcomes.",
+            "example_sentence_native_transliteration": {
+                "bn": "এনহান্সড স্ট্র্যাটেজিস ইমপ্রুভ আউটকামস।"
+            },
+            "position": 15,
+            "synonyms": "improved, augmented, strengthened, boosted, elevated, upgraded",
+            "antonyms": "decreased, reduced, weakened, diminished, impaired, downgraded",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উন্নত",
+                    "word_transliteration": "unnoto",
+                    "example_sentence_translation": "উন্নত কৌশল ফলাফল বাড়ায়।",
+                    "example_sentence_transliteration": "Unnoto koushol pholaaphol baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "infrastructure",
+            "phonetic": "ˈɪn.frəˌstrʌk.tʃər",
+            "word_native_transliteration": {
+                "bn": "ইনফ্রাস্ট্রাকচার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏗️",
+            "meaning": "The basic physical and organizational structures and facilities needed for the operation of a society or enterprise.",
+            "example_sentence": "Infrastructure is crucial for development.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনফ্রাস্ট্রাকচার ইজ ক্রুশ্যাল ফর ডেভেলপমেন্ট।"
+            },
+            "position": 16,
+            "synonyms": "foundation, framework, structure, system, network, facilities",
+            "antonyms": "weakness, instability, deterioration, collapse, breakdown, decay",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অবকাঠামো",
+                    "word_transliteration": "obokathamo",
+                    "example_sentence_translation": "অবকাঠামো উন্নয়নের জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Obokathamo unnoyoner jonno oporiharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "literacy rates",
+            "phonetic": "ˈlɪt.ər.ə.si ˌreɪts",
+            "word_native_transliteration": {
+                "bn": "লিটারেসি রেটস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📚",
+            "meaning": "The percentage of people in a population who can read and write; measures of educational levels in a population.",
+            "example_sentence": "Literacy rates impact socioeconomic conditions.",
+            "example_sentence_native_transliteration": {
+                "bn": "লিটারেসি রেটস ইমপ্যাক্ট সোশিওইকোনমিক কন্ডিশনস।"
+            },
+            "position": 17,
+            "synonyms": "educational levels, reading ability, learning statistics, academic achievement, schooling rates, knowledge metrics",
+            "antonyms": "illiteracy, ignorance, educational deficit, learning gaps, knowledge deficiency, academic failure",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সাক্ষরতার হার",
+                    "word_transliteration": "shakkhrotar har",
+                    "example_sentence_translation": "সাক্ষরতার হার আর্থসামাজিক অবস্থার উপর প্রভাব ফেলে।",
+                    "example_sentence_transliteration": "Shakkhrotar har arthoshamajik obosthar upor prohabo phele.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "incremental",
+            "phonetic": "ˌɪn.krəˈmen.təl",
+            "word_native_transliteration": {
+                "bn": "ইনক্রিমেন্টাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📈",
+            "meaning": "Relating to or denoting an increase or addition, especially one of a series on a fixed scale; proceeding in small stages.",
+            "example_sentence": "Incremental changes ensure sustainability.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনক্রিমেন্টাল চেঞ্জেস এনশুর সাস্টেইনেবিলিটি।"
+            },
+            "position": 18,
+            "synonyms": "gradual, step-by-step, progressive, steady, continuous, systematic",
+            "antonyms": "sudden, abrupt, dramatic, radical, revolutionary, immediate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ধাপে ধাপে",
+                    "word_transliteration": "dhape dhape",
+                    "example_sentence_translation": "ধাপে ধাপে পরিবর্তন স্থায়িত্ব নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Dhape dhape poribortono sthayitto nishchito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "policy",
+            "phonetic": "ˈpɒl.ə.si",
+            "word_native_transliteration": {
+                "bn": "পলিসি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📋",
+            "meaning": "A course or principle of action adopted or proposed by a government, party, business, or individual; a contract of insurance.",
+            "example_sentence": "Effective policies drive national development.",
+            "example_sentence_native_transliteration": {
+                "bn": "এফেক্টিভ পলিসিস ড্রাইভ ন্যাশনাল ডেভেলপমেন্ট।"
+            },
+            "position": 19,
+            "synonyms": "strategy, plan, approach, guideline, procedure, protocol",
+            "antonyms": "chaos, disorganization, randomness, anarchy, confusion, disorder",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নীতি",
+                    "word_transliteration": "niti",
+                    "example_sentence_translation": "কার্যকর নীতিমালা জাতীয় উন্নয়ন ত্বরান্বিত করে।",
+                    "example_sentence_transliteration": "Karjokoro nitimala jatiyo unnoyono tboranvito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "innovation",
+            "phonetic": "ˌɪn.əˈveɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ইনোভেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💡",
+            "meaning": "The action or process of innovating; a new method, idea, product, etc.",
+            "example_sentence": "Innovation is the key to progress.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনোভেশন ইজ দ্য কি টু প্রোগ্রেস।"
+            },
+            "position": 20,
+            "synonyms": "invention, creativity, breakthrough, advancement, modernization, pioneering",
+            "antonyms": "stagnation, imitation, tradition, conformity, repetition, conservatism",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্ভাবন",
+                    "word_transliteration": "udbhabon",
+                    "example_sentence_translation": "উদ্ভাবন অগ্রগতির চাবিকাঠি।",
+                    "example_sentence_transliteration": "Udbhabon ogogotir chabikathi.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

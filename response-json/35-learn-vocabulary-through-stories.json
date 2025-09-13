@@ -1,0 +1,499 @@
+{
+    "position": 35,
+    "title_translation": {
+        "en": "Learn Vocabulary Through Stories",
+        "bn": "গল্পের মাধ্যমে শব্দভান্ডার শেখা"
+    },
+    "content_translation": {
+        "en": "The biggest **enigma** to humans is themselves. They **marvel** at their own **creations**. When covered by the veil of time, looking back at the past becomes unrecognizable. The life of the past is **static**, **immovable**, and lies in heaps. Beside it flows the **dynamic stream** of living beings.\n\nOnce this region was **densely covered** with thick forests, which were **famous** for rare **herbal resources**. The terrain's **soil** is reddish, not like ordinary **sedimentary soil**. Once there were sal forests here.\n\nAmong many **structures**, this is the most familiar. It was a **residential educational facility**, where **students** received education from the seventh century. There were **accommodations** for students to stay here.",
+        "bn": "মানুষের কাছে সবচেয়ে বড় **enigma** হলো সে নিজেই। নিজের **creations** দেখে সে **marvel** করে। সময়ের আবরণে ঢেকে গেলে অতীতের দিকে তাকিয়ে তাকে আর চেনা যায় না। অতীতের জীবন **static**, **immovable**, এবং স্তূপাকারে পড়ে থাকে। তার পাশে বয়ে যায় জীবন্ত প্রাণের **dynamic stream**।\n\nএকসময় এই অঞ্চলটি ছিল **densely covered** ঘন অরণ্যে, যা দুর্লভ **herbal resources**-এর জন্য **famous** ছিল। ভূপ্রকৃতির মাটি লালচে, যা সাধারণ **sedimentary soil**-এর মতো নয়। একসময় এখানে শালের বন ছিল।\n\nঅনেক **structures**-এর মধ্যে এটি সবচেয়ে পরিচিত। এটি ছিল একটি **residential educational facility**, যেখানে **students** শিক্ষালাভ করত সপ্তম শতাব্দী থেকে। এখানে শিক্ষার্থীদের থাকার জন্য **accommodations** ছিল।"
+    },
+    "list": [
+        {
+            "word": "enigma",
+            "phonetic": "/ɪˈnɪɡ.mə/",
+            "word_native_transliteration": {
+                "bn": "এনিগমা"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔍",
+            "meaning": "A person or thing that is mysterious, puzzling, or difficult to understand.",
+            "example_sentence": "Life remains an enigma to many.",
+            "example_sentence_native_transliteration": {
+                "bn": "লাইফ রিমেইনস অ্যান এনিগমা টু ম্যানি।"
+            },
+            "position": 1,
+            "synonyms": "mystery, puzzle, riddle, conundrum",
+            "antonyms": "certainty, clarity, solution, answer",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রহস্য",
+                    "word_transliteration": "rohosso",
+                    "example_sentence_translation": "জীবন অনেকের জন্য রহস্যই থেকে যায়।",
+                    "example_sentence_transliteration": "Jibon oneker jonno rohossoi theke jay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "creations",
+            "phonetic": "/kriˈeɪ.ʃənz/",
+            "word_native_transliteration": {
+                "bn": "ক্রিয়েশনস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎨",
+            "meaning": "Things that have been created, especially works of art or imaginative works.",
+            "example_sentence": "His creations astonished the world.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ক্রিয়েশনস অ্যাস্টনিশড দ্য ওয়ার্ল্ড।"
+            },
+            "position": 2,
+            "synonyms": "inventions, productions, works, masterpieces",
+            "antonyms": "destruction, ruin, demolition, annihilation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সৃষ্টি",
+                    "word_transliteration": "srishti",
+                    "example_sentence_translation": "তার সৃষ্টি বিশ্বকে বিস্মিত করেছিল।",
+                    "example_sentence_transliteration": "Tar srishti bishwoke bismito korechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "marvel",
+            "phonetic": "/ˈmɑː.vəl/",
+            "word_native_transliteration": {
+                "bn": "মার্ভেল"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "😲",
+            "meaning": "To be filled with wonder or astonishment.",
+            "example_sentence": "People marvel at their surroundings.",
+            "example_sentence_native_transliteration": {
+                "bn": "পিপল মার্ভেল অ্যাট দেয়ার সারাউন্ডিংস।"
+            },
+            "position": 3,
+            "synonyms": "amaze, wonder, astonish, astound",
+            "antonyms": "ignore, dismiss, overlook, disregard",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিস্মিত হওয়া",
+                    "word_transliteration": "bismito howa",
+                    "example_sentence_translation": "মানুষ তার চারপাশের পরিবেশে বিস্মিত হয়।",
+                    "example_sentence_transliteration": "Manush tar charpsher poribeshshe bismito hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "static",
+            "phonetic": "/ˈstæt.ɪk/",
+            "word_native_transliteration": {
+                "bn": "স্ট্যাটিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⏸️",
+            "meaning": "Lacking in movement, action, or change; stationary.",
+            "example_sentence": "Static ideas hinder progress.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্ট্যাটিক আইডিয়াস হাইন্ডার প্রগ্রেস।"
+            },
+            "position": 4,
+            "synonyms": "still, unchanging, motionless, stationary",
+            "antonyms": "dynamic, active, moving, changing",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্থির",
+                    "word_transliteration": "sthir",
+                    "example_sentence_translation": "স্থির ধারণা উন্নয়নে বাধা দেয়।",
+                    "example_sentence_transliteration": "Sthir dharona unnoyone badha dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "immovable",
+            "phonetic": "/ɪˈmuː.və.bəl/",
+            "word_native_transliteration": {
+                "bn": "ইমুভেবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🗿",
+            "meaning": "Not able to be moved; fixed in position.",
+            "example_sentence": "Immovable barriers prevent change.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইমুভেবল ব্যারিয়ার্স প্রিভেন্ট চেঞ্জ।"
+            },
+            "position": 5,
+            "synonyms": "fixed, rigid, unmovable, stationary",
+            "antonyms": "movable, flexible, mobile, portable",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অচল",
+                    "word_transliteration": "ochol",
+                    "example_sentence_translation": "অচল বাধা পরিবর্তনে প্রতিবন্ধকতা সৃষ্টি করে।",
+                    "example_sentence_transliteration": "Ochol badha poribortone protibondhokkota srishti kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dynamic",
+            "phonetic": "/daɪˈnæm.ɪk/",
+            "word_native_transliteration": {
+                "bn": "ডাইনামিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚡",
+            "meaning": "Characterized by constant change, activity, or progress.",
+            "example_sentence": "Life flows in a dynamic stream.",
+            "example_sentence_native_transliteration": {
+                "bn": "লাইফ ফ্লোজ ইন এ ডাইনামিক স্ট্রিম।"
+            },
+            "position": 6,
+            "synonyms": "energetic, vigorous, active, lively",
+            "antonyms": "static, inactive, stagnant, motionless",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গতিশীল",
+                    "word_transliteration": "gotishil",
+                    "example_sentence_translation": "জীবন এক গতিশীল স্রোতে প্রবাহিত হয়।",
+                    "example_sentence_transliteration": "Jibon ek gotishil srote probahito hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "stream",
+            "phonetic": "/striːm/",
+            "word_native_transliteration": {
+                "bn": "স্ট্রিম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌊",
+            "meaning": "A small, narrow river; a continuous flow of something.",
+            "example_sentence": "The stream of life is unstoppable.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্ট্রিম অফ লাইফ ইজ আনস্টপেবল।"
+            },
+            "position": 7,
+            "synonyms": "flow, current, brook, rivulet",
+            "antonyms": "stagnation, block, obstruction, dam",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রবাহ",
+                    "word_transliteration": "probah",
+                    "example_sentence_translation": "জীবনের প্রবাহ অপ্রতিরোধ্য।",
+                    "example_sentence_transliteration": "Jiboner probah oproitroddho.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "densely",
+            "phonetic": "/ˈden.sli/",
+            "word_native_transliteration": {
+                "bn": "ডেন্সলি"
+            },
+            "parts_of_speech": "adverb",
+            "emoji": "🌲",
+            "meaning": "In a closely compacted or crowded manner.",
+            "example_sentence": "The area is densely covered with trees.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এরিয়া ইজ ডেন্সলি কাভার্ড উইথ ট্রিজ।"
+            },
+            "position": 8,
+            "synonyms": "thickly, compactly, closely, heavily",
+            "antonyms": "sparsely, thinly, lightly, scattered",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ঘনভাবে",
+                    "word_transliteration": "ghonbhabe",
+                    "example_sentence_translation": "এই অঞ্চলটি ঘন গাছে আবৃত।",
+                    "example_sentence_transliteration": "Ei onchholti ghon gache abritto.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "covered",
+            "phonetic": "/ˈkʌv.ərd/",
+            "word_native_transliteration": {
+                "bn": "কাভার্ড"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🫥",
+            "meaning": "Protected by being placed over or wrapped; hidden from view.",
+            "example_sentence": "The forest is covered in greenery.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফরেস্ট ইজ কাভার্ড ইন গ্রিনারি।"
+            },
+            "position": 9,
+            "synonyms": "enclosed, blanketed, concealed, protected",
+            "antonyms": "exposed, uncovered, revealed, naked",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আচ্ছাদিত",
+                    "word_transliteration": "acchhadito",
+                    "example_sentence_translation": "বন সবুজে আচ্ছাদিত।",
+                    "example_sentence_transliteration": "Bon sobuje acchhadito.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "herbal",
+            "phonetic": "/ˈhɜː.bəl/",
+            "word_native_transliteration": {
+                "bn": "হার্বল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌿",
+            "meaning": "Made from or containing herbs, especially for medicinal purposes.",
+            "example_sentence": "Herbal remedies were widely used here.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার্বল রেমিডিজ ওয়ার ওয়াইডলি ইউজড হিয়ার।"
+            },
+            "position": 10,
+            "synonyms": "botanical, medicinal, natural, plant-based",
+            "antonyms": "synthetic, artificial, chemical, manufactured",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভেষজ",
+                    "word_transliteration": "bheshoj",
+                    "example_sentence_translation": "এখানে ভেষজ প্রতিকার ব্যাপকভাবে ব্যবহৃত হতো।",
+                    "example_sentence_transliteration": "Ekhane bheshoj protikar byapokbhabe byobhrito hoto.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "resources",
+            "phonetic": "/rɪˈzɔː.sɪz/",
+            "word_native_transliteration": {
+                "bn": "রিসোর্সেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💎",
+            "meaning": "A stock or supply of money, materials, staff, and other assets.",
+            "example_sentence": "The region was rich in herbal resources.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রিজিয়ন ওয়াজ রিচ ইন হার্বল রিসোর্সেস।"
+            },
+            "position": 11,
+            "synonyms": "assets, supplies, materials, reserves",
+            "antonyms": "deficits, shortages, scarcities, lacks",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সম্পদ",
+                    "word_transliteration": "shompod",
+                    "example_sentence_translation": "এই অঞ্চলটি ভেষজ সম্পদে সমৃদ্ধ ছিল।",
+                    "example_sentence_transliteration": "Ei onchholti bheshoj shompode shomriddho chilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "famous",
+            "phonetic": "/ˈfeɪ.məs/",
+            "word_native_transliteration": {
+                "bn": "ফেমাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⭐",
+            "meaning": "Known about by many people; renowned.",
+            "example_sentence": "This area is famous for its unique heritage.",
+            "example_sentence_native_transliteration": {
+                "bn": "দিস এরিয়া ইজ ফেমাস ফর ইটস ইউনিক হেরিটেজ।"
+            },
+            "position": 12,
+            "synonyms": "renowned, celebrated, well-known, prominent",
+            "antonyms": "unknown, obscure, anonymous, forgotten",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিখ্যাত",
+                    "word_transliteration": "bikhyato",
+                    "example_sentence_translation": "এই এলাকা তার অনন্য ঐতিহ্যের জন্য বিখ্যাত।",
+                    "example_sentence_transliteration": "Ei elaka tar ononno oitihyer jonno bikhyato.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "soil",
+            "phonetic": "/sɔɪl/",
+            "word_native_transliteration": {
+                "bn": "সয়েল"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌱",
+            "meaning": "The upper layer of earth in which plants grow.",
+            "example_sentence": "The soil in this area is reddish.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সয়েল ইন দিস এরিয়া ইজ রেডিশ।"
+            },
+            "position": 13,
+            "synonyms": "earth, ground, dirt, land",
+            "antonyms": "rock, stone, concrete, pavement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মাটি",
+                    "word_transliteration": "mati",
+                    "example_sentence_translation": "এই অঞ্চলের মাটি লালচে।",
+                    "example_sentence_transliteration": "Ei onchholer mati lalche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "structures",
+            "phonetic": "/ˈstrʌk.tʃərz/",
+            "word_native_transliteration": {
+                "bn": "স্ট্রাকচারস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏛️",
+            "meaning": "Buildings or other objects constructed from several parts.",
+            "example_sentence": "The region has ancient structures.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রিজিয়ন হ্যাজ এনশিয়েন্ট স্ট্রাকচারস।"
+            },
+            "position": 14,
+            "synonyms": "buildings, frameworks, constructions, edifices",
+            "antonyms": "ruins, destruction, demolition, debris",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কাঠামো",
+                    "word_transliteration": "kathamo",
+                    "example_sentence_translation": "এই অঞ্চলে প্রাচীন কাঠামো রয়েছে।",
+                    "example_sentence_transliteration": "Ei onchhole prachin kathamo royeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "residential",
+            "phonetic": "/ˌrez.ɪˈden.ʃəl/",
+            "word_native_transliteration": {
+                "bn": "রেসিডেনশিয়াল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🏠",
+            "meaning": "Designed for people to live in.",
+            "example_sentence": "The institution was fully residential.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইনস্টিটিউশন ওয়াজ ফুলি রেসিডেনশিয়াল।"
+            },
+            "position": 15,
+            "synonyms": "habitable, domestic, housing, living",
+            "antonyms": "industrial, commercial, business, non-residential",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আবাসিক",
+                    "word_transliteration": "abasik",
+                    "example_sentence_translation": "প্রতিষ্ঠানটি সম্পূর্ণ আবাসিক ছিল।",
+                    "example_sentence_transliteration": "Protishthanti shompurno abasik chilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "educational",
+            "phonetic": "/ˌedʒ.ʊˈkeɪ.ʃən.əl/",
+            "word_native_transliteration": {
+                "bn": "এডুকেশনাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📚",
+            "meaning": "Relating to the provision of education.",
+            "example_sentence": "The institution had an educational purpose.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইনস্টিটিউশন হ্যাড অ্যান এডুকেশনাল পারপাস।"
+            },
+            "position": 16,
+            "synonyms": "academic, instructional, scholastic, pedagogical",
+            "antonyms": "non-educational, recreational, entertainment, leisure",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শিক্ষামূলক",
+                    "word_transliteration": "shikkhhamulok",
+                    "example_sentence_translation": "প্রতিষ্ঠানটির শিক্ষামূলক উদ্দেশ্য ছিল।",
+                    "example_sentence_transliteration": "Protishthantir shikkhhamulok uddesho chilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "facility",
+            "phonetic": "/fəˈsɪl.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "ফেসিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏢",
+            "meaning": "A place, amenity, or piece of equipment provided for a particular purpose.",
+            "example_sentence": "The facility was well-maintained.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফেসিলিটি ওয়াজ ওয়েল-মেইনটেইন্ড।"
+            },
+            "position": 17,
+            "synonyms": "amenity, service, resource, establishment",
+            "antonyms": "hindrance, obstacle, impediment, barrier",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সুবিধা",
+                    "word_transliteration": "shubidha",
+                    "example_sentence_translation": "সুবিধাটি ভালোভাবে রক্ষণাবেক্ষণ করা হয়েছিল।",
+                    "example_sentence_transliteration": "Shubiddhhati bhalobhabe rokkhonabokkhon kora hoyechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "accommodations",
+            "phonetic": "/əˌkɒm.əˈdeɪ.ʃənz/",
+            "word_native_transliteration": {
+                "bn": "অ্যাকোমোডেশনস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛏️",
+            "meaning": "Lodging; room and board; places to stay.",
+            "example_sentence": "The students had proper accommodations.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্টুডেন্টস হ্যাড প্রপার অ্যাকোমোডেশনস।"
+            },
+            "position": 18,
+            "synonyms": "housing, lodging, quarters, boarding",
+            "antonyms": "homelessness, displacement, eviction, expulsion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "থাকার ব্যবস্থা",
+                    "word_transliteration": "thakar byobostha",
+                    "example_sentence_translation": "শিক্ষার্থীদের জন্য যথাযথ থাকার ব্যবস্থা ছিল।",
+                    "example_sentence_transliteration": "Shikkharthider jonno jothajotho thakar byobostha chilo.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

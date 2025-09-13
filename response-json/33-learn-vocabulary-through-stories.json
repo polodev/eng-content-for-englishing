@@ -1,0 +1,607 @@
+{
+    "position": 33,
+    "title_translation": {
+        "en": "Importance of Effective Communication Skills",
+        "bn": "কার্যকর যোগাযোগ দক্ষতার importance"
+    },
+    "content_translation": {
+        "en": "**Communication** skills are extremely important. Their **importance** is significant in job **interviews** and career advancement. When many candidates apply for a vacant position, the candidate who demonstrates the best **articulation** and **cohesion** can make it to the interview stage. **Conveyance** or skillful presentation of statements is one of the most important aspects of any interview.\n\nIf your statement lacks **eloquence** and **persuasiveness**, you won't be able to convey the **nuance** of your CV or the importance of your profile. When you stand before the interview board, your **proficiency** and **receptivity** should be noteworthy so they can understand how skillfully you can perform your work.\n\n**Interpersonal** skills and **sociability** are very important because in interviews you need to show not only your skills but also how you can apply your **subtlety** and **tact** in work. You need to show **juxtaposition** among candidates so they understand you can create **symbiosis** with each other.\n\nAny problem can be solved through **mediation** and **facilitation**, and when you can do this in the workplace, organizational development becomes possible. In this case, **innuendos** or indirect comments should be avoided. You need to be **expeditious** in completing work quickly, but remember that **verbalization** must be done properly so that your ideas are conveyed correctly.",
+        "bn": "যোগাযোগ দক্ষতার **importance** অনেক। চাকরির ইন্টারভিউ ও চাকরি নিশ্চিত করতে এর গুরুত্ব রয়েছে। একটি খালি পদের জন্য অনেক প্রার্থী আবেদন করে, তবে তাদের মধ্যে যে প্রার্থী সবচেয়ে ভালো **articulation** এবং **cohesion** প্রদর্শন করতে পারে, সেই প্রার্থী ইন্টারভিউ পর্যন্ত যেতে পারে। **Conveyance** বা দক্ষতার সঙ্গে বক্তব্য পেশ করা যেকোনো ইন্টারভিউয়ের অন্যতম গুরুত্বপূর্ণ দিক।\n\nআপনার বক্তব্য যদি **eloquence** এবং **persuasiveness** দ্বারা পরিপূর্ণ না হয়, তবে আপনি আপনার সিভির **nuance** কিংবা প্রোফাইলের গুরুত্ব বোঝাতে পারবেন না। যখন আপনি ইন্টারভিউ বোর্ডের সামনে দাঁড়ান, তখন তাদের কাছে আপনার **proficiency** এবং **receptivity** উল্লেখযোগ্য হতে হবে, যাতে তারা বুঝতে পারে আপনি আপনার কাজ কতটা দক্ষতার সঙ্গে করতে পারেন।\n\n**Interpersonal** দক্ষতা এবং **sociability** খুবই গুরুত্বপূর্ণ, কারণ ইন্টারভিউতে আপনি শুধুমাত্র আপনার দক্ষতা নয়, বরং আপনার **subtlety** এবং **tact** কিভাবে কাজে লাগাতে পারবেন, তাও বোঝাতে হবে। প্রার্থীর মধ্যে **juxtaposition** দেখতে হবে, যেন তারা বুঝতে পারে আপনি একে অপরের সাথে **symbiosis** তৈরি করতে সক্ষম।\n\n**Mediation** এবং **facilitation** এর মাধ্যমে যেকোনো সমস্যার সমাধান দেওয়া যায়, এবং যখন আপনি কাজের জায়গায় এটি করতে পারেন, তখনই প্রতিষ্ঠানের উন্নয়ন সম্ভব। এক্ষেত্রে **innuendo** বা অপ্রত্যক্ষ মন্তব্যগুলো এড়িয়ে চলতে হবে। দ্রুত কাজ সম্পাদন করতে **expeditious** হতে হবে, কিন্তু মনে রাখতে হবে যে **verbalization** যথাযথভাবে করতে হবে যাতে আপনার ধারণা সঠিকভাবে পৌঁছায়।"
+    },
+    "list": [
+        {
+            "word": "communication",
+            "phonetic": "/kəˌmjunɪˈkeɪʃən/",
+            "word_native_transliteration": {
+                "bn": "কমিউনিকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💬",
+            "meaning": "The act or process of using words, sounds, signs, or behaviors to express or exchange information or to express your ideas, thoughts, feelings, etc.",
+            "example_sentence": "Effective communication is crucial for any successful project.",
+            "example_sentence_native_transliteration": {
+                "bn": "এফেকটিভ কমিউনিকেশন ইজ ক্রুশিয়াল ফর এনি সাকসেসফুল প্রোজেক্ট।"
+            },
+            "position": 1,
+            "synonyms": "interaction, correspondence, discourse",
+            "antonyms": "silence, reticence, hush",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "যোগাযোগ",
+                    "word_transliteration": "jogajog",
+                    "example_sentence_translation": "কার্যকর যোগাযোগ যেকোনো সফল প্রকল্পের জন্য গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Karjokor jogajog jekono sofol proklopper jonno gurutbopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "importance",
+            "phonetic": "/ɪmˈpɔːtəns/",
+            "word_native_transliteration": {
+                "bn": "ইমপোর্টেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⭐",
+            "meaning": "The quality or state of being important; consequence or significance.",
+            "example_sentence": "The importance of time management cannot be overstated.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইমপোর্টেন্স অব টাইম ম্যানেজমেন্ট ক্যানট বি ওভারস্টেটেড।"
+            },
+            "position": 2,
+            "synonyms": "significance, value, relevance",
+            "antonyms": "insignificance, triviality, negligence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গুরুত্ব",
+                    "word_transliteration": "gurutbo",
+                    "example_sentence_translation": "সময় ব্যবস্থাপনার গুরুত্ব অত্যধিক বলা যায় না।",
+                    "example_sentence_transliteration": "Somoy byabosthapnar gurutbo ottodhik bola jay na.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "interview",
+            "phonetic": "/ˈɪntəvjuː/",
+            "word_native_transliteration": {
+                "bn": "ইন্টারভিউ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "A meeting of people face to face, especially for consultation.",
+            "example_sentence": "The interview was conducted in a calm and professional manner.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইন্টারভিউ ওয়াজ কন্ডাক্টেড ইন আ কাম অ্যান্ড প্রফেশনাল ম্যানার।"
+            },
+            "position": 3,
+            "synonyms": "discussion, dialogue, examination",
+            "antonyms": "casual meeting, informal talk, chat",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সাক্ষাৎকার",
+                    "word_transliteration": "sakkhatkar",
+                    "example_sentence_translation": "সাক্ষাৎকারটি শান্ত এবং পেশাদারভাবে নেওয়া হয়েছিল।",
+                    "example_sentence_transliteration": "Sakkhatkarti shanto ebong peshadarobhabe neoa hoyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "articulation",
+            "phonetic": "/ɑːˌtɪkjʊˈleɪʃən/",
+            "word_native_transliteration": {
+                "bn": "আর্টিকুলেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🗣️",
+            "meaning": "The action of putting into words an idea or feeling of a specified type.",
+            "example_sentence": "His articulation during the debate impressed everyone.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ আর্টিকুলেশন ড্যুরিং দ্য ডিবেট ইমপ্রেসড এভ্রিওয়ান।"
+            },
+            "position": 4,
+            "synonyms": "expression, pronunciation, clarity",
+            "antonyms": "mumble, muteness, hesitation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভাষাগত প্রকাশ",
+                    "word_transliteration": "bhasagot prokash",
+                    "example_sentence_translation": "বিতর্কে তার উচ্চারণ সবাইকে মুগ্ধ করেছে।",
+                    "example_sentence_transliteration": "Bitorke tar uchcharon sobaike mugdho koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cohesion",
+            "phonetic": "/kəʊˈhiːʒən/",
+            "word_native_transliteration": {
+                "bn": "কোহেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤲",
+            "meaning": "The action or fact of forming a united whole.",
+            "example_sentence": "The team showed excellent cohesion throughout the project.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য টিম শোড এক্সেলেন্ট কোহেশন থ্রুআউট দ্য প্রোজেক্ট।"
+            },
+            "position": 5,
+            "synonyms": "unity, solidarity, bond",
+            "antonyms": "disintegration, fragmentation, separation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংহতি",
+                    "word_transliteration": "songhoti",
+                    "example_sentence_translation": "প্রকল্পের সময় দলটি চমৎকার একতা প্রদর্শন করেছে।",
+                    "example_sentence_transliteration": "Proklopper somoy dolti chomotkar ekkota prodarshon koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "conveyance",
+            "phonetic": "/kənˈveɪəns/",
+            "word_native_transliteration": {
+                "bn": "কনভেয়েন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚚",
+            "meaning": "The action or process of transporting or carrying someone or something from one place to another.",
+            "example_sentence": "The conveyance of goods was delayed due to bad weather.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কনভেয়েন্স অব গুডস ওয়াজ ডিলেড ডিউ টু ব্যাড ওয়েদার।"
+            },
+            "position": 6,
+            "synonyms": "transport, transfer, transmission",
+            "antonyms": "retention, withholding, hoarding",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিবহন",
+                    "word_transliteration": "poribohon",
+                    "example_sentence_translation": "খারাপ আবহাওয়ার কারণে মালামালের পরিবহন বিলম্বিত হয়েছে।",
+                    "example_sentence_transliteration": "Kharap abohaowar karone malamalere poribohon bolombit hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "eloquence",
+            "phonetic": "/ˈɛləkwəns/",
+            "word_native_transliteration": {
+                "bn": "এলোকোয়েন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎤",
+            "meaning": "Fluent or persuasive speaking or writing.",
+            "example_sentence": "His eloquence in speech won him great respect.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ এলোকোয়েন্স ইন স্পিচ ওয়ান হিম গ্রেট রিস্পেক্ট।"
+            },
+            "position": 7,
+            "synonyms": "fluency, articulateness, persuasiveness",
+            "antonyms": "inarticulateness, muteness, hesitation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রাঞ্জলতা",
+                    "word_transliteration": "pranjolota",
+                    "example_sentence_translation": "তার বক্তৃতায় প্রাঞ্জলতা তাকে অনেক সম্মান এনে দিয়েছে।",
+                    "example_sentence_transliteration": "Tar boktitay pranjolota take onek somman ene diyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "persuasiveness",
+            "phonetic": "/pəˈsweɪsɪvnes/",
+            "word_native_transliteration": {
+                "bn": "পারসুয়াসিভনেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The quality of being good at persuading someone to do or believe something.",
+            "example_sentence": "Her persuasiveness convinced the team to follow her suggestions.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার পারসুয়াসিভনেস কনভিন্সড দ্য টিম টু ফলো হার সাজেশনস।"
+            },
+            "position": 8,
+            "synonyms": "influence, conviction, persuasion",
+            "antonyms": "weakness, unpersuasiveness, ineffectiveness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রভাবশালীতা",
+                    "word_transliteration": "probhabshalita",
+                    "example_sentence_translation": "তার প্রভাবশালীতা দলের সদস্যদের তার পরামর্শ মেনে নিতে রাজি করেছে।",
+                    "example_sentence_transliteration": "Tar probhabshalita doler shodosshoder tar poramorsho mene nite raji koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "nuance",
+            "phonetic": "/ˈnjuːɑːns/",
+            "word_native_transliteration": {
+                "bn": "নিউঅন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔍",
+            "meaning": "A subtle difference in shade of meaning, appearance, or sound.",
+            "example_sentence": "He noticed the subtle nuance in her expression.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি নোটিসড দ্য সাবটল নিউঅন্স ইন হার এক্সপ্রেশন।"
+            },
+            "position": 9,
+            "synonyms": "subtlety, fine distinction, detail",
+            "antonyms": "bluntness, crudeness, obviousness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সূক্ষ্ম পার্থক্য",
+                    "word_transliteration": "sukshmo parthokko",
+                    "example_sentence_translation": "সে তার অভিব্যক্তিতে সূক্ষ্ম পার্থক্য লক্ষ্য করেছিল।",
+                    "example_sentence_transliteration": "She tar obhibyoktite sukshmo parthokko lokkhyo korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "proficiency",
+            "phonetic": "/prəˈfɪʃənsi/",
+            "word_native_transliteration": {
+                "bn": "প্রফিসিয়েন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "Competency or skill; expertise.",
+            "example_sentence": "His proficiency in multiple languages is remarkable.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ প্রফিসিয়েন্সি ইন মাল্টিপল ল্যাঙ্গুয়েজেস ইজ রিমার্কেবল।"
+            },
+            "position": 10,
+            "synonyms": "expertise, skill, competence",
+            "antonyms": "incompetence, inefficiency, inability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষতা",
+                    "word_transliteration": "dokkhota",
+                    "example_sentence_translation": "বহু ভাষায় তার দক্ষতা অসাধারণ।",
+                    "example_sentence_transliteration": "Bohu bhashay tar dokkhota oshadharon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "receptivity",
+            "phonetic": "/rɪˌsɛptɪˈvɪti/",
+            "word_native_transliteration": {
+                "bn": "রিসেপটিভিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📡",
+            "meaning": "The ability or willingness to receive something, especially signals or stimuli.",
+            "example_sentence": "Her receptivity to new ideas helped improve the project.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার রিসেপটিভিটি টু নিউ আইডিয়াস হেল্পড ইমপ্রুভ দ্য প্রোজেক্ট।"
+            },
+            "position": 11,
+            "synonyms": "openness, sensitivity, willingness",
+            "antonyms": "rejection, indifference, apathy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গ্রহণক্ষমতা",
+                    "word_transliteration": "grohonokkhomnota",
+                    "example_sentence_translation": "নতুন ধারণাগুলির প্রতি তার গ্রহণক্ষমতা প্রকল্পটিকে উন্নত করতে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Notun dharonagulir proti tar grohonokkhomnota prokolptike unnoto korte sahajjo koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "interpersonal",
+            "phonetic": "/ˌɪntəˈpɜːsənl/",
+            "word_native_transliteration": {
+                "bn": "ইন্টারপারসোনাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "👥",
+            "meaning": "Relating to relationships or communication between people.",
+            "example_sentence": "He has excellent interpersonal skills and gets along well with others.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি হ্যাজ এক্সেলেন্ট ইন্টারপারসোনাল স্কিলস অ্যান্ড গেটস অ্যালং ওয়েল উইথ আদারস।"
+            },
+            "position": 12,
+            "synonyms": "social, communicative, relational",
+            "antonyms": "antisocial, introverted, reserved",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরস্পর সম্পর্কিত",
+                    "word_transliteration": "poroshor somporkito",
+                    "example_sentence_translation": "তার দুর্দান্ত পরস্পর সম্পর্কিত দক্ষতা রয়েছে এবং সে অন্যদের সাথে ভালভাবে মিশে থাকে।",
+                    "example_sentence_transliteration": "Tar durdanto poroshor somporkito dokkhota royeche ebong she onnyoder sathe bhalobhabe mishe thake.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sociability",
+            "phonetic": "/ˌsəʊʃəˈbɪləti/",
+            "word_native_transliteration": {
+                "bn": "সোশিয়াবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎭",
+            "meaning": "The quality or state of being sociable; friendliness.",
+            "example_sentence": "Her sociability made her popular in the office.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার সোশিয়াবিলিটি মেড হার পপুলার ইন দ্য অফিস।"
+            },
+            "position": 13,
+            "synonyms": "friendliness, outgoingness, amiability",
+            "antonyms": "antisocial, solitary, introversion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সামাজিকতা",
+                    "word_transliteration": "samajikota",
+                    "example_sentence_translation": "তার সামাজিকতা তাকে অফিসে জনপ্রিয় করে তুলেছিল।",
+                    "example_sentence_transliteration": "Tar samajikota take ofishe jnonopriyko kore tulechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "subtlety",
+            "phonetic": "/ˈsʌtlti/",
+            "word_native_transliteration": {
+                "bn": "সাবটেলটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🕸️",
+            "meaning": "The quality or state of being subtle.",
+            "example_sentence": "She understood the subtlety of the situation.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি আন্ডারস্টুড দ্য সাবটেলটি অব দ্য সিচুয়েশন।"
+            },
+            "position": 14,
+            "synonyms": "refinement, nuance, delicacy",
+            "antonyms": "obviousness, bluntness, coarseness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সূক্ষ্মতা",
+                    "word_transliteration": "sukshomota",
+                    "example_sentence_translation": "সে পরিস্থিতির সূক্ষ্মতা বুঝেছিল।",
+                    "example_sentence_transliteration": "She poristhitir sukshomota bujhechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "tact",
+            "phonetic": "/tækt/",
+            "word_native_transliteration": {
+                "bn": "ট্যাক্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "Adroitness and sensitivity in dealing with others or with difficult issues.",
+            "example_sentence": "He handled the situation with tact and professionalism.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি হ্যান্ডেলড দ্য সিচুয়েশন উইথ ট্যাক্ট অ্যান্ড প্রফেশনালিজম।"
+            },
+            "position": 15,
+            "synonyms": "diplomacy, sensitivity, discretion",
+            "antonyms": "tactlessness, bluntness, rudeness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষতা",
+                    "word_transliteration": "dokkhota",
+                    "example_sentence_translation": "সে দক্ষতা এবং পেশাদারিত্বের সাথে পরিস্থিতি সামাল দিয়েছে।",
+                    "example_sentence_transliteration": "She dokkhota ebong peshadaritwer sathe poristhiti samal diyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "juxtaposition",
+            "phonetic": "/ˌdʒʌkstəpəˈzɪʃən/",
+            "word_native_transliteration": {
+                "bn": "জাক্সটাপজিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "The fact of two things being seen or placed close together with contrasting effect.",
+            "example_sentence": "The juxtaposition of light and dark colors created a dramatic effect.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য জাক্সটাপজিশন অব লাইট অ্যান্ড ডার্ক কালার্স ক্রিয়েটেড আ ড্রামাটিক ইফেক্ট।"
+            },
+            "position": 16,
+            "synonyms": "comparison, contrast, conjunction",
+            "antonyms": "separation, disconnection, division",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "তুলনা",
+                    "word_transliteration": "tulona",
+                    "example_sentence_translation": "আলো এবং অন্ধকার রঙের তুলনায় একটি নাটকীয় প্রভাব সৃষ্টি করেছে।",
+                    "example_sentence_transliteration": "Alo ebong ondhokar ronger tulonay ekti natkiyo probhab srishti koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "symbiosis",
+            "phonetic": "/ˌsɪmbɪˈəʊsɪs/",
+            "word_native_transliteration": {
+                "bn": "সামবায়োসিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "A mutually beneficial relationship between different people or groups.",
+            "example_sentence": "The symbiosis between the two companies led to mutual growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সামবায়োসিস বিটুইন দ্য টু কোম্পানিজ লেড টু মিউচুয়াল গ্রোথ।"
+            },
+            "position": 17,
+            "synonyms": "cooperation, partnership, mutualism",
+            "antonyms": "parasitism, conflict, antagonism",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পারস্পরিক সম্পর্ক",
+                    "word_transliteration": "paroshporik somporko",
+                    "example_sentence_translation": "দুটি কোম্পানির মধ্যে পারস্পরিক সম্পর্ক একে অপরকে বৃদ্ধি করতে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Duti kompanir modhye paroshporik somporko eke oporke briddhi korte sahajjo koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "mediation",
+            "phonetic": "/ˌmiːdɪˈeɪʃən/",
+            "word_native_transliteration": {
+                "bn": "মিডিয়েশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "Intervention between parties to promote reconciliation, settlement, or compromise.",
+            "example_sentence": "The mediation helped resolve the conflict between the two teams.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য মিডিয়েশন হেল্পড রিজলভ দ্য কনফ্লিক্ট বিটুইন দ্য টু টিমস।"
+            },
+            "position": 18,
+            "synonyms": "arbitration, intervention, negotiation",
+            "antonyms": "agitation, conflict, opposition",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মধ্যস্থতা",
+                    "word_transliteration": "moddhosthota",
+                    "example_sentence_translation": "মধ্যস্থতা দুটি দলের মধ্যে দ্বন্দ্ব সমাধান করতে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Moddhosthota duti doler modhye dondho somadhan korte sahajjo koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "facilitation",
+            "phonetic": "/fəˌsɪlɪˈteɪʃən/",
+            "word_native_transliteration": {
+                "bn": "ফ্যাসিলিটেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛠️",
+            "meaning": "The action of facilitating or making an action or process easier or helping bring about an outcome.",
+            "example_sentence": "Her facilitation made the meeting run smoothly.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার ফ্যাসিলিটেশন মেড দ্য মিটিং রান স্মুথলি।"
+            },
+            "position": 19,
+            "synonyms": "assistance, support, guidance",
+            "antonyms": "hindrance, obstruction, barrier",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহজীকরণ",
+                    "word_transliteration": "sohojikorno",
+                    "example_sentence_translation": "তার সহায়তায় বৈঠকটি নির্বিঘ্নে চলেছে।",
+                    "example_sentence_transliteration": "Tar sahajyotay boithokti nirbighne choleche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "innuendo",
+            "phonetic": "/ˌɪnjuːˈɛndəʊ/",
+            "word_native_transliteration": {
+                "bn": "ইনিউয়েনডো"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤫",
+            "meaning": "An allusive or oblique remark or hint, typically a suggestive or disparaging one.",
+            "example_sentence": "The manager's innuendo was directed towards his competitor.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ম্যানেজারের ইনিউয়েনডো ওয়াজ ডাইরেক্টেড টুওয়ার্ডস হিজ কমপিটিটর।"
+            },
+            "position": 20,
+            "synonyms": "implication, suggestion, hint",
+            "antonyms": "direct statement, clarification, explanation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরোক্ষ ইঙ্গিত",
+                    "word_transliteration": "porokkho ingit",
+                    "example_sentence_translation": "ম্যানেজারের পরোক্ষ ইঙ্গিত তার প্রতিদ্বন্দ্বীর দিকে ছিল।",
+                    "example_sentence_transliteration": "Managerer porokkho ingit tar protidonddir dike chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "expeditious",
+            "phonetic": "/ˌɛkspəˈdɪʃəs/",
+            "word_native_transliteration": {
+                "bn": "এক্সপেডিশিয়াস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚡",
+            "meaning": "Done with speed and efficiency.",
+            "example_sentence": "The expeditious delivery of the package was appreciated.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এক্সপেডিশিয়াস ডেলিভারি অব দ্য প্যাকেজ ওয়াজ অ্যাপ্রিসিয়েটেড।"
+            },
+            "position": 21,
+            "synonyms": "rapid, swift, quick",
+            "antonyms": "slow, delayed, sluggish",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্রুত",
+                    "word_transliteration": "druto",
+                    "example_sentence_translation": "প্যাকেজটির দ্রুত বিতরণ প্রশংসিত হয়েছে।",
+                    "example_sentence_transliteration": "Packagetir druto bitoron proshongshito hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "verbalization",
+            "phonetic": "/ˌvɜːbəlɪˈzeɪʃən/",
+            "word_native_transliteration": {
+                "bn": "ভার্বালাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💬",
+            "meaning": "The action of expressing something in words.",
+            "example_sentence": "The verbalization of his thoughts was clear and direct.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ভার্বালাইজেশন অব হিজ থটস ওয়াজ ক্লিয়ার অ্যান্ড ডাইরেক্ট।"
+            },
+            "position": 22,
+            "synonyms": "expression, articulation, enunciation",
+            "antonyms": "silence, muteness, inarticulateness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভাষায় প্রকাশ",
+                    "word_transliteration": "bhashay prokash",
+                    "example_sentence_translation": "তার চিন্তা প্রকাশ স্পষ্ট এবং সরাসরি ছিল।",
+                    "example_sentence_transliteration": "Tar chinta prokash sposhto ebong shorasori chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

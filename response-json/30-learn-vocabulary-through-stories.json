@@ -1,0 +1,364 @@
+{
+    "position": 30,
+    "title_translation": {
+        "en": "The 6-Point Demand of 1966",
+        "bn": "১৯৬৬ সালের ৬ দফা দাবি"
+    },
+    "content_translation": {
+        "en": "The movement and struggle against the extreme **discriminatory** behavior and neglect of the Pakistani state towards the **population** of East Bengal gained significance through the **autonomy** demand of the 6-point program. Sheikh Mujibur Rahman participated in the opposition parties' conference held on February 5-6, 1966, in Lahore. There, he held a press conference and presented the 6-point demands to protect the **rights** of the people of East Pakistan.\n\nThe points were:\n\n1. A parliamentary system of **government** under a federal system in Pakistan. Elections to be held based on universal **suffrage** with adult voting rights.\n\n2. Only two subjects to remain with the central government - **defense** and foreign ministry.\n\n3. Either two separate freely convertible **currencies** throughout the country, or the same type of **currency** with special conditions.\n\n4. All types of taxation **authority** to remain with regional governments.\n\n5. The federal states will retain **ownership** of their earned foreign **currency**.\n\n6. Giving the federal states the power to form paramilitary forces for regional security.\n\nThe 6 points highlighted all the **economic**, **political**, and military rights of the people of East Pakistan. The Ayub Khan government labeled the 6 points as a 'separatist program'. Although this did not directly speak of **independence**, this 6-point program deeply inspired the Bengalis with the spirit of **independence**. It was the charter of liberation for the Bengali nation.",
+        "bn": "পূর্ব বাংলার **population**-এর প্রতি পাকিস্তান রাষ্ট্রের চরম **discriminatory** আচরণ ও অবহেলার বিরুদ্ধে আন্দোলন-সংগ্রাম তাৎপর্য লাভ করে ৬ দফার **autonomy** দাবির মধ্যে। ১৯৬৬ সালের ৫-৬ ফেব্রুয়ারি লাহোরে অনুষ্ঠিত বিরোধী দলগুলোর সম্মেলনে যোগদান করেন শেখ মুজিবুর রহমান। সেখানে তিনি সংবাদ সম্মেলন করে পূর্ব পাকিস্তানের জনগণের **rights** রক্ষার জন্য ৬ দফা দাবি তুলে ধরেন।\n\nদফাগুলো হলো—\n\n১. পাকিস্তানে যুক্তরাষ্ট্রীয় ব্যবস্থাধীন সংসদীয় পদ্ধতির **government**। সর্বজনীন **suffrage**-এর ভিত্তিতে প্রাপ্তবয়স্কদের ভোটে নির্বাচন অনুষ্ঠান।\n\n২. কেন্দ্রীয় সরকারের হাতে মাত্র দুটি বিষয় থাকবে—**defense** ও foreign মন্ত্রণালয়।\n\n৩. সারা দেশে হয় অবাধে বিনিয়োগযোগ্য দুই ধরনের **currency**, না হয় বিশেষ শর্ত সাপেক্ষে একই ধরনের মুদ্রা প্রচলন করা।\n\n৪. সব ধরনের কর ধার্য করার **authority** থাকবে আঞ্চলিক সরকারের হাতে।\n\n৫. অঙ্গরাজ্যগুলো নিজেদের অর্জিত বৈদেশিক মুদ্রার **ownership** রাখবে।\n\n৬. অঙ্গরাজ্যগুলোকে আঞ্চলিক নিরাপত্তার জন্য আধা সামরিক বাহিনী গঠন করার ক্ষমতা দেওয়া।\n\n৬ দফা পূর্ব পাকিস্তানের জনগণের **economic**, **political**, সামরিকসহ সব অধিকারের কথা তুলে ধরে। আইয়ুব খান সরকার ৬ দফাকে 'বিচ্ছিন্নতাবাদী কর্মসূচি' হিসেবে আখ্যায়িত করে। এতে প্রত্যক্ষভাবে স্বাধীনতার কথা বলা না হলেও এই ৬ দফা কর্মসূচি বাঙালিদের **independence**-এর মন্ত্রে গভীরভাবে উজ্জীবিত করে। এটি ছিল বাঙালি জাতির মুক্তির charter।"
+    },
+    "list": [
+        {
+            "word": "population",
+            "phonetic": "ˌpɒpjuˈleɪʃən",
+            "word_native_transliteration": {
+                "bn": "পপুলেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👥",
+            "meaning": "All the inhabitants of a particular place; the number of people living in a country or region.",
+            "example_sentence": "The population supported autonomy.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য পপুলেশন সাপোর্টেড অটোনমি।"
+            },
+            "position": 1,
+            "synonyms": "people, residents, inhabitants, citizens, community",
+            "antonyms": "emigration, isolation, depopulation, exodus, abandonment",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জনসংখ্যা",
+                    "word_transliteration": "jonoshongkha",
+                    "example_sentence_translation": "জনসংখ্যা স্বায়ত্তশাসন সমর্থন করেছিল।",
+                    "example_sentence_transliteration": "Jonoshongkha shayottoshashot shomorthon korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "discriminatory",
+            "phonetic": "dɪˈskrɪmɪnətɔːri",
+            "word_native_transliteration": {
+                "bn": "ডিসক্রিমিনেটরি"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚖️",
+            "meaning": "Making or showing an unfair or prejudicial distinction between different categories of people or things.",
+            "example_sentence": "Discriminatory policies triggered protests.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিসক্রিমিনেটরি পলিসিস ট্রিগারড প্রোটেস্টস।"
+            },
+            "position": 2,
+            "synonyms": "prejudiced, biased, unfair, partial, bigoted",
+            "antonyms": "impartial, unbiased, fair, equal, just",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৈষম্যমূলক",
+                    "word_transliteration": "boishommomulok",
+                    "example_sentence_translation": "বৈষম্যমূলক নীতিগুলো প্রতিবাদ সৃষ্টি করেছিল।",
+                    "example_sentence_transliteration": "Boishommomulok nitigulo protibad srishti korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "autonomy",
+            "phonetic": "ɔːˈtɒnəmi",
+            "word_native_transliteration": {
+                "bn": "অটোনমি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏛️",
+            "meaning": "The right or condition of self-government; freedom from external control or influence.",
+            "example_sentence": "Autonomy was a primary demand.",
+            "example_sentence_native_transliteration": {
+                "bn": "অটোনমি ওয়াজ এ প্রাইমারি ডিম্যান্ড।"
+            },
+            "position": 3,
+            "synonyms": "independence, sovereignty, self-rule, self-determination, freedom",
+            "antonyms": "dependence, subordination, control, subjugation, domination",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বায়ত্তশাসন",
+                    "word_transliteration": "shayottoshashot",
+                    "example_sentence_translation": "স্বায়ত্তশাসন একটি প্রধান দাবি ছিল।",
+                    "example_sentence_transliteration": "Shayottoshashot ekti prodhan dabi chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "rights",
+            "phonetic": "raɪts",
+            "word_native_transliteration": {
+                "bn": "রাইটস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "A moral or legal entitlement to have or obtain something or to act in a certain way.",
+            "example_sentence": "The rights of people were prioritized.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রাইটস অফ পিপল ওয়্যার প্রাইওরিটাইজড।"
+            },
+            "position": 4,
+            "synonyms": "freedoms, privileges, entitlements, liberties, prerogatives",
+            "antonyms": "restrictions, limitations, prohibitions, constraints, duties",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অধিকার",
+                    "word_transliteration": "odhikar",
+                    "example_sentence_translation": "জনগণের অধিকারকে অগ্রাধিকার দেওয়া হয়েছিল।",
+                    "example_sentence_transliteration": "Jonogoner odhikarke ogradhikar deoya hoyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "government",
+            "phonetic": "ˈɡʌvəmənt",
+            "word_native_transliteration": {
+                "bn": "গভর্নমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏛️",
+            "meaning": "The governing body of a nation, state, or community; the system by which a state or community is governed.",
+            "example_sentence": "The government rejected the demands.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গভর্নমেন্ট রিজেক্টেড দ্য ডিম্যান্ডস।"
+            },
+            "position": 5,
+            "synonyms": "administration, regime, authority, state, ruling body",
+            "antonyms": "anarchy, disorder, chaos, lawlessness, revolution",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সরকার",
+                    "word_transliteration": "shorkar",
+                    "example_sentence_translation": "সরকার দাবিগুলো প্রত্যাখ্যান করেছিল।",
+                    "example_sentence_transliteration": "Shorkar dabigulo prottyakhyan korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "suffrage",
+            "phonetic": "ˈsʌfrɪdʒ",
+            "word_native_transliteration": {
+                "bn": "সাফ্রেজ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🗳️",
+            "meaning": "The right to vote in political elections; the principle of political representation.",
+            "example_sentence": "Universal suffrage was a key demand.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইউনিভার্সাল সাফ্রেজ ওয়াজ এ কী ডিম্যান্ড।"
+            },
+            "position": 6,
+            "synonyms": "voting rights, franchise, ballot, electoral rights, democratic participation",
+            "antonyms": "disenfranchisement, exclusion, denial, prohibition, restriction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভোটাধিকার",
+                    "word_transliteration": "bhotadhikar",
+                    "example_sentence_translation": "সার্বজনীন ভোটাধিকার একটি প্রধান দাবি ছিল।",
+                    "example_sentence_transliteration": "Sharbojonio bhotadhikar ekti prodhan dabi chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "defense",
+            "phonetic": "dɪˈfens",
+            "word_native_transliteration": {
+                "bn": "ডিফেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛡️",
+            "meaning": "The action of defending from or resisting attack; protection from harm or danger.",
+            "example_sentence": "Defense was one of the central subjects.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিফেন্স ওয়াজ ওয়ান অফ দ্য সেন্ট্রাল সাবজেক্টস।"
+            },
+            "position": 7,
+            "synonyms": "protection, security, safeguarding, shield, fortification",
+            "antonyms": "attack, vulnerability, offense, assault, aggression",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিরক্ষা",
+                    "word_transliteration": "protiroksha",
+                    "example_sentence_translation": "প্রতিরক্ষা ছিল কেন্দ্রীয় বিষয়গুলোর একটি।",
+                    "example_sentence_transliteration": "Protiroksha chhilo kendriyo bishoygulor ekti.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "currency",
+            "phonetic": "ˈkʌrənsi",
+            "word_native_transliteration": {
+                "bn": "কারেন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💱",
+            "meaning": "A system of money in general use in a particular country; the fact or quality of being generally accepted or in use.",
+            "example_sentence": "Dual currency systems were proposed.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডুয়াল কারেন্সি সিস্টেমস ওয়্যার প্রোপোজড।"
+            },
+            "position": 8,
+            "synonyms": "money, cash, legal tender, coinage, banknotes",
+            "antonyms": "barter, commodities, trade, exchange, non-monetary",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মুদ্রা",
+                    "word_transliteration": "mudra",
+                    "example_sentence_translation": "দ্বৈত মুদ্রা ব্যবস্থা প্রস্তাবিত হয়েছিল।",
+                    "example_sentence_transliteration": "Dwoito mudra bebostha prostabito hoyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "authority",
+            "phonetic": "ɔːˈθɒrəti",
+            "word_native_transliteration": {
+                "bn": "অথরিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👑",
+            "meaning": "The power or right to give orders, make decisions, and enforce obedience; a person or organization having power or control.",
+            "example_sentence": "Regional authority was emphasized.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিজিওনাল অথরিটি ওয়াজ এমফাসাইজড।"
+            },
+            "position": 9,
+            "synonyms": "control, power, command, jurisdiction, dominion",
+            "antonyms": "weakness, inability, powerlessness, submission, subordination",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্ষমতা",
+                    "word_transliteration": "kshomota",
+                    "example_sentence_translation": "আঞ্চলিক ক্ষমতার উপর জোর দেওয়া হয়েছিল।",
+                    "example_sentence_transliteration": "Ancholik kshomotar upor jor deoya hoyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ownership",
+            "phonetic": "ˈəʊnəʃɪp",
+            "word_native_transliteration": {
+                "bn": "ওনারশিপ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏠",
+            "meaning": "The act, state, or right of possessing something; legal title to something.",
+            "example_sentence": "Ownership of resources was crucial.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওনারশিপ অফ রিসোর্সেস ওয়াজ ক্রুশিয়াল।"
+            },
+            "position": 10,
+            "synonyms": "possession, tenure, proprietorship, title, holding",
+            "antonyms": "dispossession, borrowing, renting, leasing, tenancy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মালিকানা",
+                    "word_transliteration": "malikana",
+                    "example_sentence_translation": "সম্পদের মালিকানা অত্যন্ত গুরুত্বপূর্ণ ছিল।",
+                    "example_sentence_transliteration": "Shompoder malikana ottyonto guruttopurno chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "economic",
+            "phonetic": "ˌiːkəˈnɒmɪk",
+            "word_native_transliteration": {
+                "bn": "ইকোনমিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📈",
+            "meaning": "Relating to economics or the economy; justified in terms of profitability.",
+            "example_sentence": "Economic independence was highlighted.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইকোনমিক ইন্ডিপেন্ডেন্স ওয়াজ হাইলাইটেড।"
+            },
+            "position": 11,
+            "synonyms": "financial, fiscal, monetary, commercial, trade-related",
+            "antonyms": "uneconomic, unprofitable, wasteful, inefficient, costly",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অর্থনৈতিক",
+                    "word_transliteration": "orthnoitik",
+                    "example_sentence_translation": "অর্থনৈতিক স্বাধীনতার উপর জোর দেওয়া হয়েছিল।",
+                    "example_sentence_transliteration": "Orthnoitik shadhinotar upor jor deoya hoyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "political",
+            "phonetic": "pəˈlɪtɪkəl",
+            "word_native_transliteration": {
+                "bn": "পলিটিকাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🏛️",
+            "meaning": "Relating to the government or public affairs of a country; relating to politics or political parties.",
+            "example_sentence": "The political agenda included autonomy.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য পলিটিকাল এজেন্ডা ইনক্লুডেড অটোনমি।"
+            },
+            "position": 12,
+            "synonyms": "administrative, civic, governmental, public, state-related",
+            "antonyms": "apolitical, nonpolitical, private, personal, non-governmental",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রাজনৈতিক",
+                    "word_transliteration": "rajnoitik",
+                    "example_sentence_translation": "রাজনৈতিক এজেন্ডায় স্বায়ত্তশাসন অন্তর্ভুক্ত ছিল।",
+                    "example_sentence_transliteration": "Rajnoitik ejenday shayottoshashot ontorbhukto chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "independence",
+            "phonetic": "ˌɪndɪˈpendəns",
+            "word_native_transliteration": {
+                "bn": "ইন্ডিপেন্ডেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🗽",
+            "meaning": "The fact or state of being independent; freedom from outside control; not being subject to another's authority.",
+            "example_sentence": "Independence inspired the movement.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইন্ডিপেন্ডেন্স ইনস্পায়ারড দ্য মুভমেন্ট।"
+            },
+            "position": 13,
+            "synonyms": "freedom, liberation, sovereignty, autonomy, self-rule",
+            "antonyms": "subjection, dependence, subordination, control, domination",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বাধীনতা",
+                    "word_transliteration": "shadhinota",
+                    "example_sentence_translation": "স্বাধীনতা আন্দোলনকে অনুপ্রাণিত করেছিল।",
+                    "example_sentence_transliteration": "Shadhinota andolonke onupranito korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

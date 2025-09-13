@@ -1,0 +1,364 @@
+{
+    "position": 31,
+    "title_translation": {
+        "en": "The Bay of Bengal Could Become Fishless, Warn Researchers",
+        "bn": "বঙ্গোপসাগর মাছশূন্য হতে পারে, আশঙ্কা গবেষকদের"
+    },
+    "content_translation": {
+        "en": "Despite success in **marine** fish production and hilsa conservation in sweetwater, researchers are cautioning that the **abundance** of **marine** fish in the Bay of Bengal is decreasing and some **aquatic species** are on the verge of becoming **extinct**. There are **apprehensions** that if unregulated **exploitation** and indiscriminate **harvesting** are not stopped, the Bay of Bengal could become fishless in the future. Scientists are conducting this **evaluation** through **marine** fisheries research and surveys.\n\nBangladesh has no accurate **estimation** of fish stock in the sea, and no **limitation** has been determined for how much **sustainable** fishing can be done. This is because extensive surveys and investigations were suspended for a long time. The **assessment** has resumed after the **procurement** of the new vessel R.V. Meenssandhani in 2016.\n\nThis survey is conducted in the continental shelf area at depths of 10-200 meters in the sea.\n\nAfter analyzing the data from the past three years, a report on **marine** fish has been sent to the government's higher authorities. Principal Scientific Officer of the **Marine** Fisheries Survey Management Unit of the Fisheries Directorate, Md. Sharif Uddin, said, \"Our vessel-based research was completely stopped after 2000. It has been re-**initiated** through the Bangladesh **Marine** Fisheries Capacity Building project.\"",
+        "bn": "মিঠা পানির মাছ উৎপাদনে এবং ইলিশ রক্ষায় সফলতা থাকলেও বঙ্গোপসাগরে **marine** মাছের **abundance** কমছে এবং কিছু কিছু **aquatic species** অনেকটা **extinct** হতে চলেছে বলে **caution** করছেন researchers। **Unregulated exploitation** এবং **indiscriminate harvesting** বন্ধ না হলে ভবিষ্যতে Bay of Bengal মৎস্য শূন্য হয়ে যেতে পারে বলেও **apprehension** করা হচ্ছে। **Marine fisheries research** এবং survey-এর মাধ্যমে এই **evaluation** করছেন scientists।\n\nবাংলাদেশের সাগরে মাছের stock-এর কোনো accurate **estimation** নেই এবং কতটা **sustainable fishing** করা যাবে তারও **limitation** নির্ধারিত নেই। কারণ extensive survey এবং investigation দীর্ঘদিন স্থগিত ছিল। ২০১৬ সালে নতুন vessel আর. ভি মীন সন্ধানী **procurement** করার পর থেকে **assessment** পুনরায় শুরু হয়েছে।\n\nসমুদ্রের ১০-২০০ মিটার depth পর্যন্ত continental shelf এলাকায় এই survey পরিচালিত হয়।\n\nগত তিন বছরের তথ্য-উপাত্ত analysis করে সামুদ্রিক মাছ নিয়ে একটি রিপোর্ট সরকারের higher authorities-এর কাছে পাঠানো হয়েছে। Fisheries Directorate-এর **Marine** Fisheries Survey Management Unit-এর প্রধান বৈজ্ঞানিক কর্মকর্তা মো. শরিফ উদ্দীন বলেন, \"২০০০ সালের পর থেকে আমাদের vessel-based গবেষণা পুরোপুরি বন্ধ ছিল। Bangladesh **Marine** Fisheries Capacity Building project এর মাধ্যমে এটি পুনরায় **initiated** হয়েছে।\""
+    },
+    "list": [
+        {
+            "word": "marine",
+            "phonetic": "məˈriːn",
+            "word_native_transliteration": {
+                "bn": "মেরিন"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌊",
+            "meaning": "Of, relating to, or characteristic of the sea; living or growing in the sea.",
+            "example_sentence": "Marine ecosystems are highly sensitive to human activity.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেরিন ইকোসিস্টেমস আর হাইলি সেনসিটিভ টু হিউম্যান অ্যাকটিভিটি।"
+            },
+            "position": 1,
+            "synonyms": "oceanic, maritime, aquatic, nautical, seafaring",
+            "antonyms": "land-based, inland, terrestrial, continental, freshwater",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সামুদ্রিক",
+                    "word_transliteration": "samudrik",
+                    "example_sentence_translation": "সামুদ্রিক বাস্তুতন্ত্র মানুষের কার্যকলাপের জন্য অত্যন্ত সংবেদনশীল।",
+                    "example_sentence_transliteration": "Samudrik bastutantra manusher karjokalafer jonno ottyonto shongbedonshil.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "abundance",
+            "phonetic": "əˈbʌndəns",
+            "word_native_transliteration": {
+                "bn": "আবানডেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌾",
+            "meaning": "A very large quantity of something; plentifulness.",
+            "example_sentence": "There is an abundance of resources in sustainable regions.",
+            "example_sentence_native_transliteration": {
+                "bn": "দেয়ার ইজ আন আবানডেন্স অফ রিসোর্সেস ইন সাসটেইনেবল রিজিয়নস।"
+            },
+            "position": 2,
+            "synonyms": "plenty, wealth, profusion, bounty, richness",
+            "antonyms": "scarcity, lack, shortage, dearth, deficiency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রাচুর্য",
+                    "word_transliteration": "prachurjo",
+                    "example_sentence_translation": "টেকসই অঞ্চলে প্রাচুর্য দেখা যায়।",
+                    "example_sentence_transliteration": "Teksoi onchole prachurjo dekha jay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "aquatic",
+            "phonetic": "əˈkwætɪk",
+            "word_native_transliteration": {
+                "bn": "আকোয়াটিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🐟",
+            "meaning": "Growing or living in or near water; of or relating to water.",
+            "example_sentence": "Aquatic species are being endangered by pollution.",
+            "example_sentence_native_transliteration": {
+                "bn": "আকোয়াটিক স্পিসিজ আর বিইং এনডেঞ্জারড বাই পলিউশন।"
+            },
+            "position": 3,
+            "synonyms": "waterborne, marine, aqueous, water-dwelling, hydrophytic",
+            "antonyms": "terrestrial, land-based, aerial, dry-land, non-aquatic",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জলজ",
+                    "word_transliteration": "joloj",
+                    "example_sentence_translation": "দূষণের কারণে জলজ প্রাণী বিলুপ্তির মুখে।",
+                    "example_sentence_transliteration": "Dushoner karone joloj prani bilupter mukhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "extinct",
+            "phonetic": "ɪkˈstɪŋkt",
+            "word_native_transliteration": {
+                "bn": "এক্সটিঙ্কট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🦕",
+            "meaning": "No longer in existence; having died out completely.",
+            "example_sentence": "Some species are becoming extinct due to overfishing.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাম স্পিসিজ আর বিকামিং এক্সটিঙ্কট ডিউ টু ওভারফিশিং।"
+            },
+            "position": 4,
+            "synonyms": "endangered, obsolete, vanished, perished, eliminated",
+            "antonyms": "existing, surviving, thriving, flourishing, abundant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিলুপ্ত",
+                    "word_transliteration": "bilupto",
+                    "example_sentence_translation": "অতিরিক্ত মাছ ধরার ফলে কিছু প্রজাতি বিলুপ্ত হচ্ছে।",
+                    "example_sentence_transliteration": "Otirikto mach dhorar fole kichu projati bilupto hocche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "caution",
+            "phonetic": "ˈkɔːʃən",
+            "word_native_transliteration": {
+                "bn": "কশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚠️",
+            "meaning": "Care taken to avoid danger or mistakes; a warning or piece of advice.",
+            "example_sentence": "Researchers issued a caution regarding unsustainable fishing.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিসার্চারস ইস্যুড এ কশন রিগার্ডিং আনসাসটেইনেবল ফিশিং।"
+            },
+            "position": 5,
+            "synonyms": "warning, prudence, vigilance, carefulness, alertness",
+            "antonyms": "neglect, carelessness, recklessness, indifference, heedlessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সতর্কতা",
+                    "word_transliteration": "shotorkota",
+                    "example_sentence_translation": "গবেষকরা অসামঞ্জস্যপূর্ণ মাছ ধরার বিষয়ে সতর্কতা জারি করেছেন।",
+                    "example_sentence_transliteration": "Gobeshokra oshamongjoshopurno mach dhorar bishoe shotorkota jari korechen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "exploitation",
+            "phonetic": "ˌeksplɔɪˈteɪʃən",
+            "word_native_transliteration": {
+                "bn": "এক্সপ্লয়টেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⛏️",
+            "meaning": "The action of making use of and benefiting from resources, often in an unfair or selfish way.",
+            "example_sentence": "Exploitation of marine resources has led to significant damage.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সপ্লয়টেশন অফ মেরিন রিসোর্সেস হ্যাজ লেড টু সিগনিফিক্যান্ট ড্যামেজ।"
+            },
+            "position": 6,
+            "synonyms": "utilization, overuse, abuse, manipulation, extraction",
+            "antonyms": "preservation, conservation, protection, safeguarding, maintenance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শোষণ",
+                    "word_transliteration": "shoshon",
+                    "example_sentence_translation": "সামুদ্রিক সম্পদের শোষণ উল্লেখযোগ্য ক্ষতি ডেকে এনেছে।",
+                    "example_sentence_transliteration": "Samudrik shompoder shoshon ullekhjoggo khoti deke eneche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "harvesting",
+            "phonetic": "ˈhɑːrvɪstɪŋ",
+            "word_native_transliteration": {
+                "bn": "হার্ভেস্টিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎣",
+            "meaning": "The process of gathering a ripe crop from the fields or collecting natural resources.",
+            "example_sentence": "Unregulated harvesting affects the biodiversity of oceans.",
+            "example_sentence_native_transliteration": {
+                "bn": "আনরেগুলেটেড হার্ভেস্টিং অ্যাফেক্টস দ্য বায়োডাইভারসিটি অফ ওশানস।"
+            },
+            "position": 7,
+            "synonyms": "collection, gathering, reaping, extraction, procurement",
+            "antonyms": "neglecting, abandoning, preserving, conserving, protecting",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আহরণ",
+                    "word_transliteration": "ahoron",
+                    "example_sentence_translation": "অনিয়ন্ত্রিত আহরণ সাগরের জীববৈচিত্র্যকে প্রভাবিত করে।",
+                    "example_sentence_transliteration": "Oniyontrito ahoron shagorer jibboichitrotyoke probhabito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "apprehension",
+            "phonetic": "ˌæprɪˈhɛnʃən",
+            "word_native_transliteration": {
+                "bn": "অ্যাপ্রিহেনশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "😰",
+            "meaning": "Anxiety or fear that something bad or unpleasant will happen.",
+            "example_sentence": "There is an apprehension about the depletion of fish stocks.",
+            "example_sentence_native_transliteration": {
+                "bn": "দেয়ার ইজ অ্যান অ্যাপ্রিহেনশন অ্যাবাউট দ্য ডিপ্লিশন অফ ফিশ স্টকস।"
+            },
+            "position": 8,
+            "synonyms": "anxiety, fear, worry, concern, uneasiness",
+            "antonyms": "confidence, certainty, assurance, boldness, fearlessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আশঙ্কা",
+                    "word_transliteration": "ashonka",
+                    "example_sentence_translation": "মাছের মজুদ কমে যাওয়ার বিষয়ে আশঙ্কা রয়েছে।",
+                    "example_sentence_transliteration": "Macher mojud kome jawar bishoe ashonka royeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "evaluation",
+            "phonetic": "ɪˌvæljuˈeɪʃən",
+            "word_native_transliteration": {
+                "bn": "ইভালুয়েশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "The making of a judgment about the amount, number, or value of something; assessment.",
+            "example_sentence": "Accurate evaluation helps determine resource sustainability.",
+            "example_sentence_native_transliteration": {
+                "bn": "আকিউরেট ইভালুয়েশন হেল্পস ডিটারমাইন রিসোর্স সাসটেইনেবিলিটি।"
+            },
+            "position": 9,
+            "synonyms": "assessment, appraisal, analysis, examination, review",
+            "antonyms": "ignorance, overlooking, neglect, disregard, dismissal",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মূল্যায়ন",
+                    "word_transliteration": "mullayon",
+                    "example_sentence_translation": "সঠিক মূল্যায়ন সম্পদের টেকসইত্ব নির্ধারণে সহায়তা করে।",
+                    "example_sentence_transliteration": "Shothik mullayon shompoder teksoitto nidhaarone shahajtya kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sustainable",
+            "phonetic": "səˈsteɪnəbəl",
+            "word_native_transliteration": {
+                "bn": "সাসটেইনেবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "♻️",
+            "meaning": "Able to be maintained at a certain rate or level without depleting natural resources.",
+            "example_sentence": "Sustainable practices ensure future resource availability.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাসটেইনেবল প্র্যাকটিসেস ইনশিউর ফিউচার রিসোর্স অ্যাভেলিবিলিটি।"
+            },
+            "position": 10,
+            "synonyms": "viable, durable, maintainable, renewable, eco-friendly",
+            "antonyms": "unsustainable, unviable, destructive, depleting, harmful",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "টেকসই",
+                    "word_transliteration": "teksoi",
+                    "example_sentence_translation": "টেকসই পদ্ধতি ভবিষ্যৎ সম্পদের প্রাপ্যতা নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Teksoi poddhoti bhobishshot shompoder praptyota nishchito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "limitation",
+            "phonetic": "ˌlɪmɪˈteɪʃən",
+            "word_native_transliteration": {
+                "bn": "লিমিটেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚧",
+            "meaning": "A limiting rule or circumstance; a restriction on the size or amount of something permissible.",
+            "example_sentence": "Limitation in data affects policy-making decisions.",
+            "example_sentence_native_transliteration": {
+                "bn": "লিমিটেশন ইন ডেটা অ্যাফেক্টস পলিসি-মেকিং ডিসিশন্স।"
+            },
+            "position": 11,
+            "synonyms": "restriction, constraint, boundary, barrier, impediment",
+            "antonyms": "freedom, expansion, unlimited access, boundlessness, liberty",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সীমাবদ্ধতা",
+                    "word_transliteration": "shimaboddhota",
+                    "example_sentence_translation": "ডেটার সীমাবদ্ধতা নীতি নির্ধারণী সিদ্ধান্তকে প্রভাবিত করে।",
+                    "example_sentence_transliteration": "Detar shimaboddhota niti nirdhaaroni shiddhantoke probhabito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "procurement",
+            "phonetic": "prəˈkjʊrmənt",
+            "word_native_transliteration": {
+                "bn": "প্রকিউরমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛒",
+            "meaning": "The action of obtaining or procuring something, especially for official purposes.",
+            "example_sentence": "The procurement of modern equipment has improved research accuracy.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রকিউরমেন্ট অফ মডার্ন ইকুইপমেন্ট হ্যাজ ইমপ্রুভড রিসার্চ অ্যাকিউরেসি।"
+            },
+            "position": 12,
+            "synonyms": "acquisition, purchase, obtaining, securing, sourcing",
+            "antonyms": "sale, disposal, relinquishment, abandonment, loss",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্রয়",
+                    "word_transliteration": "kroy",
+                    "example_sentence_translation": "আধুনিক সরঞ্জামের ক্রয় গবেষণার নির্ভুলতা বাড়িয়েছে।",
+                    "example_sentence_transliteration": "Adhunik shornjamer kroy gobeshnar nirbhulota bariyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "initiated",
+            "phonetic": "ɪˈnɪʃɪeɪtɪd",
+            "word_native_transliteration": {
+                "bn": "ইনিশিয়েটেড"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🚀",
+            "meaning": "Caused a process or action to begin; started something.",
+            "example_sentence": "The project was initiated to enhance marine biodiversity.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রজেক্ট ওয়াজ ইনিশিয়েটেড টু এনহ্যান্স মেরিন বায়োডাইভারসিটি।"
+            },
+            "position": 13,
+            "synonyms": "commenced, launched, started, begun, established",
+            "antonyms": "terminated, halted, ended, concluded, finished",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শুরু করা",
+                    "word_transliteration": "shuru kora",
+                    "example_sentence_translation": "প্রকল্পটি সামুদ্রিক জীববৈচিত্র্য বাড়ানোর জন্য শুরু করা হয়েছিল।",
+                    "example_sentence_transliteration": "Prokolpoti samudrik jibboichittro baranoar jonno shuru kora hoyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

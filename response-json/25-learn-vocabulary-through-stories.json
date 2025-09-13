@@ -1,0 +1,580 @@
+{
+    "position": 25,
+    "title_translation": {
+        "en": "Space Dining Revolution: The First Culinary Space Restaurant",
+        "bn": "মহাকাশ ভোজন বিপ্লব: প্রথম culinary মহাকাশ রেস্তোরাঁ"
+    },
+    "content_translation": {
+        "en": "The imagination of establishing the first **culinary** restaurant in space will open new **frontiers** in the future **tourism industry**. The US organization 'SpaceVIP' has undertaken an **endeavor** to start **levitating** restaurants in the **stratosphere**. This restaurant will operate through a special **aerostatic structure**, which will be located approximately 100,000 feet above the Earth's surface.\n\nSix **participants** can take part in each journey, where the cost per person will be approximately $500,000. Guests will enjoy their food while enjoying **astronomical** views. This menu will be prepared by world-renowned **chefs**, who are skilled in making **avant-garde** food.\n\nThis **venture** is expected to become **operational** in 2025. It will bring **revolutionary** change to space tourism and initiate luxurious space **ventures**. It will be considered a **groundbreaking landmark** from **technological**, **societal**, and **monetary** perspectives.",
+        "bn": "মহাকাশে প্রথম **culinary** স্থাপনার পরিকল্পনা ভবিষ্যতের **tourism industry**-এ নতুন **frontiers** উন্মোচন করবে। যুক্তরাষ্ট্রের 'স্পেসভিআইপি' প্রতিষ্ঠান **stratosphere**-এ **levitating** স্থাপনা চালু করার **endeavor** নিয়েছে। এই স্থাপনাটি বিশেষ **aerostatic structure**-এর মাধ্যমে পরিচালিত হবে, যা ভূপৃষ্ঠ থেকে প্রায় ১ লাখ ফুট উচ্চতায় অবস্থান করবে।\n\nপ্রতিটি যাত্রায় ছয়জন **participants** অংশ নিতে পারবেন, যেখানে জনপ্রতি খরচ হবে প্রায় ৫ লাখ ডলার। অতিথিরা **astronomical** দৃশ্য উপভোগ করতে করতে তাদের খাবার উপভোগ করবেন। এই মেনু প্রস্তুত করবেন বিশ্বখ্যাত **chef**, যিনি **avant-garde** খাবার তৈরিতে দক্ষ।\n\nএই উদ্যোগ ২০২৫ সালে **operational** হবে বলে আশা করা হচ্ছে। মহাকাশ পর্যটনে এটি **revolutionary** পরিবর্তন আনবে এবং বিলাসবহুল মহাকাশ **ventures**-এর সূচনা করবে। এটি প্রযুক্তিগত, **societal**, এবং **monetary** দৃষ্টিকোণ থেকে একটি **groundbreaking landmark** হিসেবে বিবেচিত হবে।"
+    },
+    "list": [
+        {
+            "word": "culinary",
+            "phonetic": "ˈkʌl.ɪ.nər.i",
+            "word_native_transliteration": {
+                "bn": "কুলিনারি"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "👨‍🍳",
+            "meaning": "Related to cooking or the preparation of food, especially in a sophisticated or professional manner.",
+            "example_sentence": "Culinary advancements enhance the dining experience.",
+            "example_sentence_native_transliteration": {
+                "bn": "কুলিনারি অ্যাডভান্সমেন্টস এনহান্স দ্য ডাইনিং এক্সপেরিয়েন্স।"
+            },
+            "position": 1,
+            "synonyms": "gastronomic, cooking",
+            "antonyms": "inedible, non-culinary",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রান্না সংক্রান্ত",
+                    "word_transliteration": "ranna shongkranto",
+                    "example_sentence_translation": "রান্নার অগ্রগতি খাবারের অভিজ্ঞতাকে উন্নত করে।",
+                    "example_sentence_transliteration": "Rannar ogroghoti khabarer oviggotatake unnoto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "tourism",
+            "phonetic": "ˈtʊə.rɪ.zəm",
+            "word_native_transliteration": {
+                "bn": "ট্যুরিজম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏖️",
+            "meaning": "The commercial organization and operation of vacations and visits to places of interest.",
+            "example_sentence": "Tourism drives economic growth in many countries.",
+            "example_sentence_native_transliteration": {
+                "bn": "ট্যুরিজম ড্রাইভস ইকোনমিক গ্রোথ ইন মেনি কান্ট্রিজ।"
+            },
+            "position": 2,
+            "synonyms": "travel, sightseeing",
+            "antonyms": "inactivity, sedentary",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পর্যটন",
+                    "word_transliteration": "porjoton",
+                    "example_sentence_translation": "পর্যটন অনেক দেশের অর্থনৈতিক বৃদ্ধি চালায়।",
+                    "example_sentence_transliteration": "Porjoton onek desher orthonaitik briddhi chalay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "industry",
+            "phonetic": "ˈɪn.də.stri",
+            "word_native_transliteration": {
+                "bn": "ইন্ডাস্ট্রি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏭",
+            "meaning": "Economic activity concerned with the processing of raw materials and manufacture of goods in factories.",
+            "example_sentence": "The industry focuses on luxury experiences.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইন্ডাস্ট্রি ফোকাসেস অন লাক্সারি এক্সপেরিয়েন্সেস।"
+            },
+            "position": 3,
+            "synonyms": "sector, trade",
+            "antonyms": "unemployment, idleness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শিল্প",
+                    "word_transliteration": "shilpo",
+                    "example_sentence_translation": "শিল্প বিলাসবহুল অভিজ্ঞতার উপর মনোযোগ দেয়।",
+                    "example_sentence_transliteration": "Shilpo bilasbohul oviggotar upor monojog dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "frontiers",
+            "phonetic": "ˈfrʌn.tɪərz",
+            "word_native_transliteration": {
+                "bn": "ফ্রন্টিয়ার্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌐",
+            "meaning": "The extreme limit of settled land beyond which lies wilderness; the limits of knowledge or achievement in a particular field.",
+            "example_sentence": "The project pushes the frontiers of space exploration.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রজেক্ট পুশেস দ্য ফ্রন্টিয়ার্স অব স্পেস এক্সপ্লোরেশন।"
+            },
+            "position": 4,
+            "synonyms": "boundaries, extremes",
+            "antonyms": "interiors, limits",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নতুন ক্ষেত্র",
+                    "word_transliteration": "notun khetro",
+                    "example_sentence_translation": "প্রকল্পটি মহাকাশ অনুসন্ধানের নতুন ক্ষেত্র উন্মোচন করে।",
+                    "example_sentence_transliteration": "Prokolpoti mohakash onushandhaner notun khetro unmocon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "stratosphere",
+            "phonetic": "ˈstræt.ə.sfɪər",
+            "word_native_transliteration": {
+                "bn": "স্ট্রাটোস্ফিয়ার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌌",
+            "meaning": "The layer of the earth's atmosphere above the troposphere, extending to about 50 km above the earth's surface.",
+            "example_sentence": "The stratosphere provides a unique environment.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্ট্রাটোস্ফিয়ার প্রোভাইডস এ ইউনিক এনভায়রনমেন্ট।"
+            },
+            "position": 5,
+            "synonyms": "atmospheric layer",
+            "antonyms": "ground, surface",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বায়ুমণ্ডলের স্তর",
+                    "word_transliteration": "bayumondoler stor",
+                    "example_sentence_translation": "স্ট্রাটোস্ফিয়ার একটি অনন্য পরিবেশ প্রদান করে।",
+                    "example_sentence_transliteration": "Stratosphere ekti onnotoo poribesh prodan kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "levitating",
+            "phonetic": "ˈlev.ɪ.teɪ.tɪŋ",
+            "word_native_transliteration": {
+                "bn": "লেভিটেটিং"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🪐",
+            "meaning": "Rising and hovering in the air, especially as a result of supernatural or magical power.",
+            "example_sentence": "The levitating structure is an engineering marvel.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য লেভিটেটিং স্ট্রাকচার ইজ অ্যান ইঞ্জিনিয়ারিং মার্ভেল।"
+            },
+            "position": 6,
+            "synonyms": "hovering, floating",
+            "antonyms": "dropping, falling",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভাসমান",
+                    "word_transliteration": "bhasman",
+                    "example_sentence_translation": "ভাসমান কাঠামোটি একটি প্রকৌশল বিস্ময়।",
+                    "example_sentence_transliteration": "Bhasman kathamoti ekti prokoshol bishmoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "endeavor",
+            "phonetic": "ɪnˈdev.ər",
+            "word_native_transliteration": {
+                "bn": "এনডেভার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚀",
+            "meaning": "An attempt to achieve a goal; a serious determined effort.",
+            "example_sentence": "The endeavor to innovate space tourism is ambitious.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এনডেভার টু ইনোভেট স্পেস ট্যুরিজম ইজ অ্যাম্বিশাস।"
+            },
+            "position": 7,
+            "synonyms": "effort, attempt",
+            "antonyms": "neglect, inaction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রচেষ্টা",
+                    "word_transliteration": "procheshta",
+                    "example_sentence_translation": "মহাকাশ পর্যটনে উদ্ভাবনের প্রচেষ্টা উচ্চাভিলাষী।",
+                    "example_sentence_transliteration": "Mohakash porjotone udbhaboner procheshta uchchabilashi.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "aerostatic",
+            "phonetic": "ˌeə.rəʊˈstæt.ɪk",
+            "word_native_transliteration": {
+                "bn": "এরোস্ট্যাটিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎈",
+            "meaning": "Relating to or involving gases (especially air) in equilibrium and the equilibrium of balloons or aircraft under the influence of such gases.",
+            "example_sentence": "Aerostatic designs ensure stability at high altitudes.",
+            "example_sentence_native_transliteration": {
+                "bn": "এরোস্ট্যাটিক ডিজাইনস এনশিওর স্ট্যাবিলিটি অ্যাট হাই অল্টিটিউডস।"
+            },
+            "position": 8,
+            "synonyms": "buoyant, airborne",
+            "antonyms": "grounded, fixed",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বায়ু সম্পর্কিত",
+                    "word_transliteration": "bayu shomporkito",
+                    "example_sentence_translation": "এরোস্ট্যাটিক ডিজাইন উচ্চ উচ্চতায় স্থায়িত্ব নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Aerostatic design uccho uccchotay sthayitto nishchito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "structure",
+            "phonetic": "ˈstrʌk.tʃər",
+            "word_native_transliteration": {
+                "bn": "স্ট্রাকচার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏗️",
+            "meaning": "The arrangement of and relations between the parts or elements of something complex.",
+            "example_sentence": "The structure is designed for safety and functionality.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্ট্রাকচার ইজ ডিজাইনড ফর সেফটি অ্যান্ড ফাঙ্কশনালিটি।"
+            },
+            "position": 9,
+            "synonyms": "framework, formation",
+            "antonyms": "disarray, chaos",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কাঠামো",
+                    "word_transliteration": "kathamo",
+                    "example_sentence_translation": "কাঠামোটি নিরাপত্তা এবং কার্যকারিতার জন্য ডিজাইন করা হয়েছে।",
+                    "example_sentence_transliteration": "Kathamoti nirapotta ebong karjokarittar jonno design kora hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "participants",
+            "phonetic": "pɑːˈtɪs.ɪ.pənts",
+            "word_native_transliteration": {
+                "bn": "পার্টিসিপ্যান্টস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👥",
+            "meaning": "People who take part in something; those involved in an activity or event.",
+            "example_sentence": "Participants will enjoy breathtaking views.",
+            "example_sentence_native_transliteration": {
+                "bn": "পার্টিসিপ্যান্টস উইল এনজয় ব্রেথটেকিং ভিউজ।"
+            },
+            "position": 10,
+            "synonyms": "attendees, contributors",
+            "antonyms": "observers, spectators",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অংশগ্রহণকারী",
+                    "word_transliteration": "ongshogrohonkari",
+                    "example_sentence_translation": "অংশগ্রহণকারীরা দৃষ্টিনন্দন দৃশ্য উপভোগ করবেন।",
+                    "example_sentence_transliteration": "Ongshogrohonkarira drishtinondo drishyo upobhog korben.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "astronomical",
+            "phonetic": "ˌæs.trəˈnɒm.ɪ.kəl",
+            "word_native_transliteration": {
+                "bn": "অ্যাস্ট্রোনমিক্যাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔭",
+            "meaning": "Relating to astronomy; extremely large in amount or extent.",
+            "example_sentence": "The astronomical price reflects its exclusivity.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যাস্ট্রোনমিক্যাল প্রাইস রিফ্লেক্টস ইটস এক্সক্লুসিভিটি।"
+            },
+            "position": 11,
+            "synonyms": "cosmic, stellar",
+            "antonyms": "insignificant, terrestrial",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জ্যোতির্বিদ্যাগত",
+                    "word_transliteration": "jotirbidhyagoto",
+                    "example_sentence_translation": "অ্যাস্ট্রোনমিক্যাল মূল্য এর অনন্যতা প্রতিফলিত করে।",
+                    "example_sentence_transliteration": "Astronomical mulyo er onnonyota protipholito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "chef",
+            "phonetic": "ʃef",
+            "word_native_transliteration": {
+                "bn": "শেফ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👨‍🍳",
+            "meaning": "A professional cook, especially the chief cook in a restaurant or hotel.",
+            "example_sentence": "The chef specializes in avant-garde dishes.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য শেফ স্পেশালাইজেস ইন অ্যাভান্ট-গার্ড ডিশেস।"
+            },
+            "position": 12,
+            "synonyms": "culinary artist, cook",
+            "antonyms": "amateur, beginner",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রধান রাঁধুনি",
+                    "word_transliteration": "prodhan radhuni",
+                    "example_sentence_translation": "শেফ আধুনিক খাবারে বিশেষজ্ঞ।",
+                    "example_sentence_transliteration": "Chef adhunik khabare bisheshoggo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "avant-garde",
+            "phonetic": "ˌæv.ɒ̃ˈɡɑːd",
+            "word_native_transliteration": {
+                "bn": "অ্যাভান্ট-গার্ড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎨",
+            "meaning": "New and experimental; characterized by departure from or rejection of accepted standards.",
+            "example_sentence": "Avant-garde designs redefine the dining experience.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাভান্ট-গার্ড ডিজাইনস রিডিফাইন দ্য ডাইনিং এক্সপেরিয়েন্স।"
+            },
+            "position": 13,
+            "synonyms": "innovative, radical",
+            "antonyms": "conventional, conservative",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অগ্রণী",
+                    "word_transliteration": "ogroni",
+                    "example_sentence_translation": "অ্যাভান্ট-গার্ড ডিজাইন খাবারের অভিজ্ঞতাকে পুনর্নির্ধারণ করে।",
+                    "example_sentence_transliteration": "Avant-garde design khabarer oviggotatake punornirdhaaron kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "operational",
+            "phonetic": "ˌɒp.ərˈeɪ.ʃən.əl",
+            "word_native_transliteration": {
+                "bn": "অপারেশনাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚙️",
+            "meaning": "In working order; ready for use.",
+            "example_sentence": "The space project will be operational by 2025.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্পেস প্রজেক্ট উইল বি অপারেশনাল বাই ২০২৫।"
+            },
+            "position": 14,
+            "synonyms": "functional, active",
+            "antonyms": "inoperative, dormant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কার্যকর",
+                    "word_transliteration": "karjokor",
+                    "example_sentence_translation": "মহাকাশ প্রকল্প ২০২৫ সালের মধ্যে কার্যকর হবে।",
+                    "example_sentence_transliteration": "Mohakash prokolpo 2025 saler moddhe karjokor hobe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "revolutionary",
+            "phonetic": "ˌrev.əˈluː.ʃən.ər.i",
+            "word_native_transliteration": {
+                "bn": "রেভলিউশনারি"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔄",
+            "meaning": "Involving or causing a complete or dramatic change.",
+            "example_sentence": "Revolutionary ideas are reshaping the industry.",
+            "example_sentence_native_transliteration": {
+                "bn": "রেভলিউশনারি আইডিয়াস আর রিশেপিং দ্য ইন্ডাস্ট্রি।"
+            },
+            "position": 15,
+            "synonyms": "transformative, pioneering",
+            "antonyms": "traditional, conservative",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিপ্লবী",
+                    "word_transliteration": "bipllobi",
+                    "example_sentence_translation": "বিপ্লবী ধারণাগুলো শিল্পকে পুনর্গঠিত করছে।",
+                    "example_sentence_transliteration": "Bipllobi dharonagulo shilpoke punorgothito korche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ventures",
+            "phonetic": "ˈven.tʃərz",
+            "word_native_transliteration": {
+                "bn": "ভেঞ্চারস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚀",
+            "meaning": "Business enterprises or undertakings, especially risky ones.",
+            "example_sentence": "Luxury ventures in space attract wealthy clients.",
+            "example_sentence_native_transliteration": {
+                "bn": "লাক্সারি ভেঞ্চারস ইন স্পেস অ্যাট্র্যাক্ট ওয়েলদি ক্লায়েন্টস।"
+            },
+            "position": 16,
+            "synonyms": "enterprises, initiatives",
+            "antonyms": "failures, withdrawals",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্যোগ",
+                    "word_transliteration": "uddog",
+                    "example_sentence_translation": "মহাকাশে বিলাসবহুল উদ্যোগ ধনী গ্রাহকদের আকর্ষণ করে।",
+                    "example_sentence_transliteration": "Mohakashe bilasbohul uddog dhoni grahokder akorshon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "technological",
+            "phonetic": "ˌtek.nəˈlɒdʒ.ɪ.kəl",
+            "word_native_transliteration": {
+                "bn": "টেকনোলজিক্যাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💻",
+            "meaning": "Relating to or involving technology, especially scientific technology.",
+            "example_sentence": "Technological advancements enable futuristic projects.",
+            "example_sentence_native_transliteration": {
+                "bn": "টেকনোলজিক্যাল অ্যাডভান্সমেন্টস এনেবল ফিউচারিস্টিক প্রজেক্টস।"
+            },
+            "position": 17,
+            "synonyms": "innovative, mechanical",
+            "antonyms": "manual, analog",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রযুক্তিগত",
+                    "word_transliteration": "projuktikgoto",
+                    "example_sentence_translation": "প্রযুক্তিগত অগ্রগতি ভবিষ্যতমুখী প্রকল্পগুলোকে সক্ষম করে।",
+                    "example_sentence_transliteration": "Projuktikgoto ogroghoti bhobishyotmukhi prokolpoguloke shokkhom kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "societal",
+            "phonetic": "səˈsaɪ.ə.təl",
+            "word_native_transliteration": {
+                "bn": "সোসাইটাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🏛️",
+            "meaning": "Relating to society or social relationships.",
+            "example_sentence": "Societal benefits of space tourism are under debate.",
+            "example_sentence_native_transliteration": {
+                "bn": "সোসাইটাল বেনিফিটস অব স্পেস ট্যুরিজম আর আন্ডার ডিবেট।"
+            },
+            "position": 18,
+            "synonyms": "communal, cultural",
+            "antonyms": "individualistic, private",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সামাজিক",
+                    "word_transliteration": "shamajik",
+                    "example_sentence_translation": "মহাকাশ পর্যটনের সামাজিক সুবিধা নিয়ে বিতর্ক রয়েছে।",
+                    "example_sentence_transliteration": "Mohakash porjotoner shamajik shubidha niye bitorko royeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "monetary",
+            "phonetic": "ˈmɒn.ɪ.tri",
+            "word_native_transliteration": {
+                "bn": "মনেটারি"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💰",
+            "meaning": "Relating to money or currency.",
+            "example_sentence": "The monetary implications are significant for investors.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য মনেটারি ইমপ্লিকেশনস আর সিগনিফিকেন্ট ফর ইনভেস্টরস।"
+            },
+            "position": 19,
+            "synonyms": "financial, fiscal",
+            "antonyms": "gratuitous, nonmonetary",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আর্থিক",
+                    "word_transliteration": "arthik",
+                    "example_sentence_translation": "বিনিয়োগকারীদের জন্য আর্থিক প্রভাব গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Biniyogkarider jonno arthik prabhab gurutbopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "groundbreaking",
+            "phonetic": "ˈɡraʊndˌbreɪ.kɪŋ",
+            "word_native_transliteration": {
+                "bn": "গ্রাউন্ডব্রেকিং"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚡",
+            "meaning": "Introducing new ideas or methods; innovative or pioneering.",
+            "example_sentence": "Groundbreaking advancements redefine innovation.",
+            "example_sentence_native_transliteration": {
+                "bn": "গ্রাউন্ডব্রেকিং অ্যাডভান্সমেন্টস রিডিফাইন ইনোভেশন।"
+            },
+            "position": 20,
+            "synonyms": "innovative, pioneering",
+            "antonyms": "ordinary, routine",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "যুগান্তকারী",
+                    "word_transliteration": "jugantokari",
+                    "example_sentence_translation": "যুগান্তকারী অগ্রগতি উদ্ভাবনকে পুনর্নির্ধারণ করে।",
+                    "example_sentence_transliteration": "Jugantokari ogroghoti udbhabnoke punornirdhaaron kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "landmark",
+            "phonetic": "ˈlænd.mɑːk",
+            "word_native_transliteration": {
+                "bn": "ল্যান্ডমার্ক"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏛️",
+            "meaning": "An object or feature of a landscape or town that is easily seen and recognized from a distance; an important stage or turning point.",
+            "example_sentence": "The space restaurant is a landmark in innovation.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্পেস রেস্তোরাঁ ইজ এ ল্যান্ডমার্ক ইন ইনোভেশন।"
+            },
+            "position": 21,
+            "synonyms": "milestone, breakthrough",
+            "antonyms": "negligibility, insignificance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মাইলফলক",
+                    "word_transliteration": "mailfolo",
+                    "example_sentence_translation": "মহাকাশ রেস্তোরাঁ উদ্ভাবনে একটি মাইলফলক।",
+                    "example_sentence_transliteration": "Mohakash restora udbhabne ekti mailfolo.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}
