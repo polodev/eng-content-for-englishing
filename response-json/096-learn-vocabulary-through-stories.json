@@ -1,0 +1,526 @@
+{
+    "position": 96,
+    "title_translation": {
+        "en": "Effective Communication in Parenting Today",
+        "bn": "আধুনিক যুগে পিতা-মাতার Effective Communication"
+    },
+    "content_translation": {
+        "en": "In today's modern era, **effective communication** is extremely important for parents. If **articulation** with children is not clear, **dissonance** is created, which has a negative impact on relationships. An **empathetic** parent uses **discernment** to understand their child's feelings, so that **reciprocity** is maintained and **synchrony** is created with the child. **Affirmation** and **reinforcement** play a supportive role in building children's self-confidence. Without proper **attunement**, **comprehension** between child and parent can decrease. When taught through **heuristic** methods, children's **perspicacity** increases and they learn to think logically. Therefore, maintaining **veracity**, discussion should be done with **mediative** skills, so that there is **resonance** in the relationship. If children are treated **equitably**, they will acquire a more **altruistic** mentality and **congruence** will be maintained in the family.",
+        "bn": "আধুনিক যুগে **effective communication** বাবা-মায়ের জন্য অত্যন্ত গুরুত্বপূর্ণ। সন্তানদের সাথে **articulation** স্পষ্ট না হলে **dissonance** তৈরি হয়, যা সম্পর্কের উপর নেতিবাচক প্রভাব ফেলে। একজন **empathetic** অভিভাবক তার সন্তানের অনুভূতি বোঝার জন্য **discernment** ব্যবহার করেন, যাতে **reciprocity** বজায় থাকে এবং সন্তানের সাথে **synchrony** তৈরি হয়। **Affirmation** ও **reinforcement** শিশুর আত্মবিশ্বাস গঠনে সহায়ক ভূমিকা পালন করে। সঠিক **attunement** না থাকলে সন্তান ও অভিভাবকের মধ্যে **comprehension** কমে যেতে পারে। **Heuristic** পদ্ধতিতে শেখানো হলে শিশুদের মধ্যে **perspicacity** বৃদ্ধি পায় এবং তারা যুক্তিসঙ্গত চিন্তা করতে শেখে। তাই **veracity** বজায় রেখে, **mediative** কৌশলে আলোচনা করা উচিত, যাতে সম্পর্কের মধ্যে **resonance** থাকে। সন্তানদের সাথে **equitable** আচরণ করলে তারা আরও **altruistic** মানসিকতা অর্জন করবে এবং পরিবারে **congruence** বজায় থাকবে।"
+    },
+    "list": [
+        {
+            "word": "effective communication",
+            "phonetic": "/ɪˈfɛk.tɪv kəˌmjuː.nɪˈkeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ইফেক্টিভ কমিউনিকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💬",
+            "meaning": "Clear and meaningful exchange of information that achieves its intended purpose.",
+            "example_sentence": "Effective communication is key to strong relationships.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইফেক্টিভ কমিউনিকেশন ইজ কি টু স্ট্রং রিলেশনশিপস।"
+            },
+            "position": 1,
+            "synonyms": "clarity, expression, transmission",
+            "antonyms": "miscommunication, confusion, misinterpretation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কার্যকর যোগাযোগ",
+                    "word_transliteration": "karyokor jogajog",
+                    "example_sentence_translation": "কার্যকর যোগাযোগ শক্তিশালী সম্পর্কের চাবিকাঠি।",
+                    "example_sentence_transliteration": "Karyokor jogajog shoktiShali somporker chabikathi.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "articulation",
+            "phonetic": "/ɑːrˌtɪk.jʊˈleɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "আর্টিকুলেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🗣️",
+            "meaning": "Clear and distinct speech or expression of ideas.",
+            "example_sentence": "His articulation of complex ideas is impressive.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ আর্টিকুলেশন অব কমপ্লেক্স আইডিয়াজ ইজ ইমপ্রেসিভ।"
+            },
+            "position": 2,
+            "synonyms": "expression, enunciation, pronunciation",
+            "antonyms": "mumble, incoherence, ambiguity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্পষ্টভাবে কথা বলা",
+                    "word_transliteration": "sposhtoVabe kotha bola",
+                    "example_sentence_translation": "জটিল ধারণাগুলোর স্পষ্ট প্রকাশ সত্যিই চিত্তাকর্ষক।",
+                    "example_sentence_transliteration": "Jotil dharonagulor sposhto prokash sottyi chhittakorshok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dissonance",
+            "phonetic": "/ˈdɪs.ə.nəns/",
+            "word_native_transliteration": {
+                "bn": "ডিসোন্যান্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "Disagreement, lack of harmony, conflict between ideas or beliefs.",
+            "example_sentence": "The cultural dissonance created misunderstandings.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কালচারাল ডিসোন্যান্স ক্রিয়েটেড মিসআন্ডারস্ট্যান্ডিংস।"
+            },
+            "position": 3,
+            "synonyms": "discord, conflict, disagreement",
+            "antonyms": "harmony, agreement, unity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মতবিরোধ",
+                    "word_transliteration": "motobiroDh",
+                    "example_sentence_translation": "সাংস্কৃতিক মতবিরোধ বিভ্রান্তি সৃষ্টি করেছিল।",
+                    "example_sentence_transliteration": "Sanskritik motobiroDh biVranti srishti korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "empathetic",
+            "phonetic": "/ˌɛm.pəˈθɛ.tɪk/",
+            "word_native_transliteration": {
+                "bn": "এমপ্যাথেটিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🤗",
+            "meaning": "Showing ability to understand and share feelings of others.",
+            "example_sentence": "She was empathetic towards her friend's struggles.",
+            "example_sentence_native_transliteration": {
+                "bn": "শী ওয়াজ এমপ্যাথেটিক টুওয়ার্ডস হার ফ্রেন্ডস স্ট্রাগলস।"
+            },
+            "position": 4,
+            "synonyms": "compassionate, understanding, considerate",
+            "antonyms": "apathetic, indifferent, uncaring",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহানুভূতিশীল",
+                    "word_transliteration": "sohanuVutishil",
+                    "example_sentence_translation": "তিনি তার বন্ধুর সংগ্রামের প্রতি সহানুভূতিশীল ছিলেন।",
+                    "example_sentence_transliteration": "Tini tar bonDhur songramer proti sohanuVutishil chhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "discernment",
+            "phonetic": "/dɪˈsɜːrn.mənt/",
+            "word_native_transliteration": {
+                "bn": "ডিসার্নমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔍",
+            "meaning": "Ability to judge well, keen insight and understanding.",
+            "example_sentence": "His discernment in decision-making is remarkable.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ডিসার্নমেন্ট ইন ডিসিশন-মেকিং ইজ রিমার্কেবল।"
+            },
+            "position": 5,
+            "synonyms": "insight, perception, awareness",
+            "antonyms": "ignorance, naivety, misjudgment",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিচক্ষণতা",
+                    "word_transliteration": "bichokkhonota",
+                    "example_sentence_translation": "তার সিদ্ধান্ত গ্রহণের বিচক্ষণতা প্রশংসনীয়।",
+                    "example_sentence_transliteration": "Tar sidDhanto grohoner bichokkhonota proshongsoniy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "reciprocity",
+            "phonetic": "/ˌrɛs.ɪˈprɒs.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "রেসিপ্রসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "Mutual exchange, give and take in relationships.",
+            "example_sentence": "The reciprocity in their friendship was admirable.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রেসিপ্রসিটি ইন দেয়ার ফ্রেন্ডশিপ ওয়াজ অ্যাডমিরেবল।"
+            },
+            "position": 6,
+            "synonyms": "mutuality, exchange, give-and-take",
+            "antonyms": "selfishness, unilateralism, one-sidedness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পারস্পরিক বিনিময়",
+                    "word_transliteration": "parsporik binimoy",
+                    "example_sentence_translation": "তাদের বন্ধুত্বে পারস্পরিক বিনিময় প্রশংসনীয় ছিল।",
+                    "example_sentence_transliteration": "Tader bonDhuttwe parsporik binimoy proshongsoniy chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "synchrony",
+            "phonetic": "/ˈsɪŋ.krə.ni/",
+            "word_native_transliteration": {
+                "bn": "সিঙ্ক্রোনি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎭",
+            "meaning": "Coordination in time, harmony in action or movement.",
+            "example_sentence": "Their dance performance showed perfect synchrony.",
+            "example_sentence_native_transliteration": {
+                "bn": "দেয়ার ড্যান্স পারফরম্যান্স শোড পারফেক্ট সিঙ্ক্রোনি।"
+            },
+            "position": 7,
+            "synonyms": "coordination, harmony, alignment",
+            "antonyms": "mismatch, discord, asynchrony",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সামঞ্জস্যপূর্ণ সময়ানুবর্তিতা",
+                    "word_transliteration": "samonjoshshopurno somoyanuVortita",
+                    "example_sentence_translation": "তাদের নৃত্য পরিবেশন নিখুঁত সামঞ্জস্যতা প্রদর্শন করেছিল।",
+                    "example_sentence_transliteration": "Tader nritto poribeshon nikhunto samonjoshshota prodorshon korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "affirmation",
+            "phonetic": "/ˌæf.ɚˈmeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "অ্যাফারমেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✅",
+            "meaning": "Positive statement, confirmation, or encouragement that builds confidence.",
+            "example_sentence": "Daily affirmations can boost self-confidence.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডেইলি অ্যাফারমেশনস ক্যান বুস্ট সেলফ-কনফিডেন্স।"
+            },
+            "position": 8,
+            "synonyms": "validation, confirmation, encouragement",
+            "antonyms": "negation, rejection, denial",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ইতিবাচক স্বীকৃতি",
+                    "word_transliteration": "itibachok sVikrito",
+                    "example_sentence_translation": "প্রতিদিনের ইতিবাচক স্বীকৃতি আত্মবিশ্বাস বাড়াতে পারে।",
+                    "example_sentence_transliteration": "Protidiner itibachok sVikrito attobisvas barRate pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "reinforcement",
+            "phonetic": "/ˌriː.ɪnˈfɔːrs.mənt/",
+            "word_native_transliteration": {
+                "bn": "রিইনফোর্সমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "Strengthening or supporting something, especially behavior or learning.",
+            "example_sentence": "Positive reinforcement helps in learning.",
+            "example_sentence_native_transliteration": {
+                "bn": "পজিটিভ রিইনফোর্সমেন্ট হেল্পস ইন লার্নিং।"
+            },
+            "position": 9,
+            "synonyms": "strengthening, support, encouragement",
+            "antonyms": "weakening, undermining, erosion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শক্তিশালী করা",
+                    "word_transliteration": "shoktiShali kora",
+                    "example_sentence_translation": "ইতিবাচক শক্তিবৃদ্ধি শেখার ক্ষেত্রে সহায়ক।",
+                    "example_sentence_transliteration": "Itibachok shokti briddhi shekhar khetre sohayok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "attunement",
+            "phonetic": "/əˈtjuːn.mənt/",
+            "word_native_transliteration": {
+                "bn": "অ্যাটিউনমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎵",
+            "meaning": "Being in harmony or responsive to someone's emotional state.",
+            "example_sentence": "Attunement to emotions improves relationships.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাটিউনমেন্ট টু ইমোশনস ইমপ্রুভস রিলেশনশিপস।"
+            },
+            "position": 10,
+            "synonyms": "alignment, adaptation, sensitivity",
+            "antonyms": "disconnection, insensitivity, misalignment",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "খাপ খাওয়ানো",
+                    "word_transliteration": "khap khaOano",
+                    "example_sentence_translation": "অনুভূতির সাথে খাপ খাওয়ানো সম্পর্ক উন্নত করে।",
+                    "example_sentence_transliteration": "OnuVutir sathe khap khaOano somporko unnoto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "comprehension",
+            "phonetic": "/ˌkɒm.prɪˈhɛn.ʃən/",
+            "word_native_transliteration": {
+                "bn": "কমপ্রিহেনশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧠",
+            "meaning": "Understanding, ability to grasp meaning or significance.",
+            "example_sentence": "His comprehension of complex theories is remarkable.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ কমপ্রিহেনশন অব কমপ্লেক্স থিয়োরিজ ইজ রিমার্কেবল।"
+            },
+            "position": 11,
+            "synonyms": "understanding, perception, cognition",
+            "antonyms": "misinterpretation, confusion, ignorance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনুধাবন",
+                    "word_transliteration": "anuDhaBon",
+                    "example_sentence_translation": "জটিল তত্ত্ব বোঝার তার ক্ষমতা প্রশংসনীয়।",
+                    "example_sentence_transliteration": "Jotil tottbo bhoJhar tar khomota proshongsoniy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "heuristic",
+            "phonetic": "/hjuˈrɪs.tɪk/",
+            "word_native_transliteration": {
+                "bn": "হিউরিস্টিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔬",
+            "meaning": "Problem-solving approach using practical methods and learning from experience.",
+            "example_sentence": "A heuristic approach helps students develop critical thinking.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ হিউরিস্টিক অ্যাপ্রোচ হেল্পস স্টুডেন্টস ডেভেলপ ক্রিটিক্যাল থিংকিং।"
+            },
+            "position": 12,
+            "synonyms": "exploratory, investigative, problem-solving",
+            "antonyms": "prescriptive, rigid, conclusive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরীক্ষামূলক সমস্যা সমাধান পদ্ধতি",
+                    "word_transliteration": "porikhamulok somossha somadhaN poddhhoti",
+                    "example_sentence_translation": "একটি অনুসন্ধানমূলক পদ্ধতি শিক্ষার্থীদের সমালোচনামূলক চিন্তাভাবনা বিকাশে সহায়তা করে।",
+                    "example_sentence_transliteration": "Ekti onusondhanmulok poddhhoti shikkhharthider somalocanamulok chintaVabna bikashe sohayota kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "perspicacity",
+            "phonetic": "/ˌpɜː.spɪˈkæs.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "পার্সপিকাসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👁️",
+            "meaning": "Sharp insight, keen understanding and discernment.",
+            "example_sentence": "Her perspicacity in business decisions led to success.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার পার্সপিকাসিটি ইন বিজনেস ডিসিশনস লেড টু সাক্সেস।"
+            },
+            "position": 13,
+            "synonyms": "insight, acumen, discernment",
+            "antonyms": "shortsightedness, naivety, misjudgment",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অন্তর্দৃষ্টি",
+                    "word_transliteration": "antordrishti",
+                    "example_sentence_translation": "ব্যবসায়িক সিদ্ধান্তে তার তীক্ষ্ণ অন্তর্দৃষ্টি সাফল্য এনেছে।",
+                    "example_sentence_transliteration": "Byabsayik sidDhante tar tikkhno antordrishti safollyo aneche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "veracity",
+            "phonetic": "/vəˈræs.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "ভেরাসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✨",
+            "meaning": "Truthfulness, accuracy and reliability in statements.",
+            "example_sentence": "The journalist's veracity was questioned.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য জার্নালিস্টস ভেরাসিটি ওয়াজ কোয়েশচনড।"
+            },
+            "position": 14,
+            "synonyms": "truthfulness, accuracy, authenticity",
+            "antonyms": "falsity, deception, misinformation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সত্যবাদিতা",
+                    "word_transliteration": "sottobadita",
+                    "example_sentence_translation": "সাংবাদিকের সত্যবাদিতা প্রশ্নবিদ্ধ হয়েছিল।",
+                    "example_sentence_transliteration": "Sangbadiker sottobadita proshnobiddho hoyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "mediative",
+            "phonetic": "/ˈmiː.di.eɪ.tɪv/",
+            "word_native_transliteration": {
+                "bn": "মিডিয়েটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🤝",
+            "meaning": "Related to mediation, helping to resolve conflicts through diplomatic means.",
+            "example_sentence": "His mediative skills helped resolve the conflict.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ মিডিয়েটিভ স্কিলস হেল্পড রিজলভ দ্য কনফ্লিক্ট।"
+            },
+            "position": 15,
+            "synonyms": "conciliatory, intervening, diplomatic",
+            "antonyms": "confrontational, provocative, aggressive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মধ্যস্থতা সংক্রান্ত",
+                    "word_transliteration": "moddhyosthota songkranto",
+                    "example_sentence_translation": "তার মধ্যস্থতা দক্ষতা বিরোধ সমাধানে সহায়ক হয়েছিল।",
+                    "example_sentence_transliteration": "Tar moddhyosthota dokkhota birodh somaDhane sohayok hoyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "resonance",
+            "phonetic": "/ˈrɛz.ə.nəns/",
+            "word_native_transliteration": {
+                "bn": "রেজোন্যান্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📢",
+            "meaning": "Deep emotional connection, echo or reverberation of ideas or feelings.",
+            "example_sentence": "The speech had a deep emotional resonance.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্পিচ হ্যাড এ ডিপ ইমোশনাল রেজোন্যান্স।"
+            },
+            "position": 16,
+            "synonyms": "echo, reverberation, impact",
+            "antonyms": "dissonance, mismatch, insignificance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিধ্বনি",
+                    "word_transliteration": "protidhboni",
+                    "example_sentence_translation": "বক্তৃতাটি গভীর আবেগপূর্ণ প্রতিধ্বনি সৃষ্টি করেছিল।",
+                    "example_sentence_transliteration": "Boktritati gobhir abegpurno protidhboni srishti korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "equitable",
+            "phonetic": "/ˈɛk.wɪ.tə.bəl/",
+            "word_native_transliteration": {
+                "bn": "ইকুইটেবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚖️",
+            "meaning": "Fair and just, treating everyone with equal consideration.",
+            "example_sentence": "The policy ensures an equitable distribution of resources.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য পলিসি এনশিওরস অ্যান ইকুইটেবল ডিস্ট্রিবিউশন অব রিসোর্সেস।"
+            },
+            "position": 17,
+            "synonyms": "fair, just, impartial",
+            "antonyms": "unfair, biased, partial",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ন্যায়সঙ্গত",
+                    "word_transliteration": "nyayoshongoto",
+                    "example_sentence_translation": "নীতিটি সম্পদের ন্যায়সঙ্গত বণ্টন নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Nititi sompoder nyayoshongoto bonton nishchito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "altruistic",
+            "phonetic": "/ˌæl.truˈɪs.tɪk/",
+            "word_native_transliteration": {
+                "bn": "অ্যালট্রুয়িস্টিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "❤️",
+            "meaning": "Selfless, showing concern for others' welfare without self-interest.",
+            "example_sentence": "His altruistic nature led him to help the needy.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ অ্যালট্রুয়িস্টিক নেচার লেড হিম টু হেল্প দ্য নিডি।"
+            },
+            "position": 18,
+            "synonyms": "selfless, charitable, benevolent",
+            "antonyms": "selfish, egoistic, self-centered",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিঃস্বার্থ",
+                    "word_transliteration": "nihsartho",
+                    "example_sentence_translation": "তার পরোপকারী স্বভাব তাকে দরিদ্রদের সহায়তা করতে উদ্বুদ্ধ করেছিল।",
+                    "example_sentence_transliteration": "Tar poropokarI sVabhaB take doridrodr sohayota korte udbuddho korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "congruence",
+            "phonetic": "/ˈkɒŋ.ɡru.əns/",
+            "word_native_transliteration": {
+                "bn": "কংগ্রুয়েন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "Harmony, compatibility and agreement between different elements.",
+            "example_sentence": "The congruence between their ideas made collaboration easy.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কংগ্রুয়েন্স বিটুইন দেয়ার আইডিয়াজ মেড কোলাবোরেশন ইজি।"
+            },
+            "position": 19,
+            "synonyms": "compatibility, agreement, harmony",
+            "antonyms": "incongruence, discrepancy, mismatch",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সামঞ্জস্য",
+                    "word_transliteration": "samonjoshsho",
+                    "example_sentence_translation": "তাদের ধারণাগুলোর সামঞ্জস্য সহযোগিতা সহজ করেছে।",
+                    "example_sentence_transliteration": "Tader dharonagulor samonjoshsho sohojogita sohoj koreche.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

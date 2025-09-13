@@ -1,0 +1,337 @@
+{
+    "position": 100,
+    "title_translation": {
+        "en": "Effects of Processed Foods on Health",
+        "bn": "স্বাস্থ্যের উপর প্রক্রিয়াজাত খাদ্যের প্রভাব"
+    },
+    "content_translation": {
+        "en": "Many people have become accustomed to eating **processed foods** today, but very few know their harmful effects. Regular consumption of foods containing **preservatives** and **synthetic** ingredients slows down the body's **metabolism**, leading to increased **obesity** and **hypertension**.\n\nThese foods often contain **carcinogenic** ingredients that increase the risk of cancer. Moreover, when the **endocrine** system's balance is disrupted, **appetite** becomes uncontrolled. As a result, controlling hunger becomes difficult, creating **digestive** and **gastrointestinal** problems in the body.\n\nExcessive **adulteration** in food can create **nutritional** deficiencies in the body because it lacks essential vitamins and minerals. When **cholesterol** levels rise, the risk of heart disease increases, and **inflammatory** reactions become severe.\n\nTherefore, it is necessary to change **culinary** habits to stay healthy and eat nutritious food instead of **exorbitant** fast food. Otherwise, the body's **deterioration** process may accelerate rapidly, which will become a threat to long-term health.",
+        "bn": "আজকাল অনেকেই **processed foods** খেয়ে অভ্যস্ত হয়ে গেছেন, কিন্তু খুব কম মানুষই জানেন এর ক্ষতিকর প্রভাব। নিয়মিত **preservative** ও **synthetic** উপাদানযুক্ত খাবার খেলে শরীরের **metabolism** ধীর হয়ে যায়, ফলে **obesity** এবং **hypertension** বাড়তে থাকে।\n\nএইসব খাবারের মধ্যে অনেক সময় **carcinogenic** উপাদান থাকে, যা ক্যানসারের ঝুঁকি বৃদ্ধি করে। এছাড়া, **endocrine** সিস্টেমের ভারসাম্য নষ্ট হয়ে গেলে **appetite** অনিয়ন্ত্রিত হয়ে যায়। ফলে ক্ষুধা নিয়ন্ত্রণ করা কঠিন হয়ে পড়ে, যা শরীরের **digestive** ও **gastrointestinal** সমস্যা তৈরি করে।\n\nঅতিরিক্ত **adulteration** যুক্ত খাবার শরীরের **nutritional** ঘাটতি তৈরি করতে পারে, কারণ এতে প্রয়োজনীয় ভিটামিন ও খনিজ থাকে না। **Cholesterol** মাত্রা বেড়ে গেলে হৃদরোগের ঝুঁকি বাড়ে এবং **inflammatory** প্রতিক্রিয়াগুলো তীব্র হয়।\n\nতাই সুস্থ থাকার জন্য **culinary** অভ্যাস পরিবর্তন করা দরকার এবং **exorbitant** ফাস্ট ফুডের পরিবর্তে পুষ্টিকর খাবার খাওয়া উচিত। অন্যথায়, শরীরে **deterioration** প্রক্রিয়া দ্রুতগতিতে চলতে পারে, যা দীর্ঘমেয়াদে সুস্থতার জন্য হুমকি হয়ে দাঁড়াবে।"
+    },
+    "list": [
+        {
+            "word": "processed foods",
+            "phonetic": "ˈprɑː.sest fuːdz",
+            "word_native_transliteration": {
+                "bn": "প্রসেসড ফুডস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🥫",
+            "meaning": "Foods that have been altered from their natural state through various methods such as canning, freezing, refrigeration, dehydration and aseptic processing.",
+            "example_sentence": "Excessive consumption of processed foods leads to health issues.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সেসিভ কনজাম্পশন অব প্রসেসড ফুডস লিডস টু হেলথ ইস্যুজ।"
+            },
+            "position": 1,
+            "synonyms": "packaged foods, fast food, artificial food",
+            "antonyms": "fresh foods, organic foods, natural food",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রক্রিয়াজাত খাদ্য",
+                    "word_transliteration": "prokriyajat khadyo",
+                    "example_sentence_translation": "অতিরিক্ত প্রক্রিয়াজাত খাদ্য গ্রহণ স্বাস্থ্যের জন্য ক্ষতিকর।",
+                    "example_sentence_transliteration": "Otirikto prokriyajat khadyo grohon swasther jonno khotikar.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "preservative",
+            "phonetic": "prɪˈzɝː.və.tɪv",
+            "word_native_transliteration": {
+                "bn": "প্রিজারভেটিভ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧪",
+            "meaning": "A chemical substance that prevents decay, fermentation, or other natural processes that cause food deterioration.",
+            "example_sentence": "Artificial preservatives are harmful to health.",
+            "example_sentence_native_transliteration": {
+                "bn": "আর্টিফিশিয়াল প্রিজারভেটিভস আর হার্মফুল টু হেলথ।"
+            },
+            "position": 2,
+            "synonyms": "additive, stabilizer, antioxidant",
+            "antonyms": "fresh ingredients, natural food, spoilage",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংরক্ষণকারী পদার্থ",
+                    "word_transliteration": "songroksshonkari podartho",
+                    "example_sentence_translation": "কৃত্রিম সংরক্ষণকারী পদার্থ স্বাস্থ্যের জন্য ক্ষতিকর।",
+                    "example_sentence_transliteration": "Krittim songroksshonkari podartho swasther jonno khotikar.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "synthetic",
+            "phonetic": "sɪnˈθet̬.ɪk",
+            "word_native_transliteration": {
+                "bn": "সিনথেটিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚗️",
+            "meaning": "Made by chemical synthesis, especially to imitate a natural product; artificial.",
+            "example_sentence": "Synthetic chemicals are used in processed foods.",
+            "example_sentence_native_transliteration": {
+                "bn": "সিনথেটিক কেমিক্যালস আর ইউজড ইন প্রসেসড ফুডস।"
+            },
+            "position": 3,
+            "synonyms": "artificial, man-made, fabricated",
+            "antonyms": "natural, organic, genuine",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কৃত্রিম",
+                    "word_transliteration": "krittim",
+                    "example_sentence_translation": "প্রক্রিয়াজাত খাদ্যে কৃত্রিম রাসায়নিক ব্যবহৃত হয়।",
+                    "example_sentence_transliteration": "Prokriyajat khadye krittim rasayonik byabhritto hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "metabolism",
+            "phonetic": "məˈtæb.əl.ɪ.zəm",
+            "word_native_transliteration": {
+                "bn": "মেটাবলিজম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "The chemical processes that occur within a living organism in order to maintain life.",
+            "example_sentence": "Exercise boosts metabolism and burns calories.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সারসাইজ বুস্টস মেটাবলিজম এন্ড বার্নস ক্যালোরিজ।"
+            },
+            "position": 4,
+            "synonyms": "digestion, catabolism, biochemical process",
+            "antonyms": "stagnation, imbalance, dysfunction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিপাক প্রক্রিয়া",
+                    "word_transliteration": "bipak prokriya",
+                    "example_sentence_translation": "ব্যায়াম বিপাকক্রিয়া বৃদ্ধি করে এবং ক্যালোরি পোড়ায়।",
+                    "example_sentence_transliteration": "Byayam bipakkriya briddhi kore ebong calorie poray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "obesity",
+            "phonetic": "oʊˈbiː.sə.t̬i",
+            "word_native_transliteration": {
+                "bn": "ওবেসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "The condition of being grossly fat or overweight.",
+            "example_sentence": "Obesity increases the risk of diabetes and heart disease.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওবেসিটি ইনক্রিজেস দ্য রিস্ক অব ডায়াবেটিস এন্ড হার্ট ডিজিজ।"
+            },
+            "position": 5,
+            "synonyms": "overweight, corpulence, excess fat",
+            "antonyms": "fitness, slimness, underweight",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্থূলতা",
+                    "word_transliteration": "sthulota",
+                    "example_sentence_translation": "স্থূলতা ডায়াবেটিস ও হৃদরোগের ঝুঁকি বাড়ায়।",
+                    "example_sentence_transliteration": "Sthulota diabetes o hridroger jhunki baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "hypertension",
+            "phonetic": "ˌhaɪ.pɚˈten.ʃən",
+            "word_native_transliteration": {
+                "bn": "হাইপারটেনশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💔",
+            "meaning": "Abnormally high blood pressure.",
+            "example_sentence": "High sodium intake leads to hypertension.",
+            "example_sentence_native_transliteration": {
+                "bn": "হাই সোডিয়াম ইনটেক লিডস টু হাইপারটেনশন।"
+            },
+            "position": 6,
+            "synonyms": "high blood pressure, tension, cardiovascular stress",
+            "antonyms": "hypotension, low blood pressure, relaxation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উচ্চ রক্তচাপ",
+                    "word_transliteration": "uccho roktochap",
+                    "example_sentence_translation": "অতিরিক্ত সোডিয়াম গ্রহণ উচ্চ রক্তচাপের কারণ হতে পারে।",
+                    "example_sentence_transliteration": "Otirikto sodium grohon uccho roktochaper karon hote pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "carcinogenic",
+            "phonetic": "ˌkɑːr.sɪ.nəˈdʒen.ɪk",
+            "word_native_transliteration": {
+                "bn": "কার্সিনোজেনিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "☠️",
+            "meaning": "Having the potential to cause cancer in living tissue.",
+            "example_sentence": "Processed meat contains carcinogenic compounds.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রসেসড মিট কনটেইনস কার্সিনোজেনিক কম্পাউন্ডস।"
+            },
+            "position": 7,
+            "synonyms": "cancer-causing, toxic, malignant",
+            "antonyms": "non-toxic, harmless, benign",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্যানসার সৃষ্টি করে এমন",
+                    "word_transliteration": "cancer srishti kore emon",
+                    "example_sentence_translation": "প্রক্রিয়াজাত মাংসে ক্যানসার সৃষ্টিকারী যৌগ থাকে।",
+                    "example_sentence_transliteration": "Prokriyajat mangse cancer srishtikari joug thake.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "endocrine",
+            "phonetic": "ˈen.də.krɪn",
+            "word_native_transliteration": {
+                "bn": "এন্ডোক্রিন"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧬",
+            "meaning": "Relating to or denoting glands that secrete hormones directly into the blood.",
+            "example_sentence": "The endocrine system regulates metabolism and growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এন্ডোক্রিন সিস্টেম রেগুলেটস মেটাবলিজম এন্ড গ্রোথ।"
+            },
+            "position": 8,
+            "synonyms": "hormonal, glandular, physiological",
+            "antonyms": "non-hormonal, exocrine, external secretion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অন্তঃক্ষরা",
+                    "word_transliteration": "onthokhora",
+                    "example_sentence_translation": "এন্ডোক্রিন সিস্টেম বিপাক ও বৃদ্ধি নিয়ন্ত্রণ করে।",
+                    "example_sentence_transliteration": "Endocrine system bipak o briddhi niyontron kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "appetite",
+            "phonetic": "ˈæp.ə.taɪt",
+            "word_native_transliteration": {
+                "bn": "অ্যাপেটাইট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🍽️",
+            "meaning": "A natural desire to satisfy a bodily need, especially for food.",
+            "example_sentence": "Junk food increases appetite unnaturally.",
+            "example_sentence_native_transliteration": {
+                "bn": "জাঙ্ক ফুড ইনক্রিজেস অ্যাপেটাইট আননেচারালি।"
+            },
+            "position": 9,
+            "synonyms": "hunger, craving, desire for food",
+            "antonyms": "fullness, loss of appetite, satiety",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্ষুধা",
+                    "word_transliteration": "khudha",
+                    "example_sentence_translation": "জাঙ্ক ফুড অনিয়ন্ত্রিতভাবে ক্ষুধা বাড়ায়।",
+                    "example_sentence_transliteration": "Junk food oniyontritobhabe khudha baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "digestive",
+            "phonetic": "daɪˈdʒes.tɪv",
+            "word_native_transliteration": {
+                "bn": "ডাইজেস্টিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🦠",
+            "meaning": "Relating to the digestion of food.",
+            "example_sentence": "Digestive enzymes help break down food.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডাইজেস্টিভ এনজাইমস হেল্প ব্রেক ডাউন ফুড।"
+            },
+            "position": 10,
+            "synonyms": "stomach-related, absorptive, gastric",
+            "antonyms": "indigestible, constipating, inhibitory",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিপাকসংক্রান্ত",
+                    "word_transliteration": "poripakshongkranto",
+                    "example_sentence_translation": "পরিপাক এনজাইম খাদ্য ভাঙতে সহায়তা করে।",
+                    "example_sentence_transliteration": "Poripak enzyme khadyo bhangte sahayota kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "gastrointestinal",
+            "phonetic": "ˌɡæs.troʊ.ɪnˈtes.tɪ.nəl",
+            "word_native_transliteration": {
+                "bn": "গ্যাস্ট্রোইনটেস্টাইনাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🫃",
+            "meaning": "Relating to the stomach and intestines.",
+            "example_sentence": "Spicy food can cause gastrointestinal issues.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্পাইসি ফুড ক্যান কজ গ্যাস্ট্রোইনটেস্টাইনাল ইস্যুজ।"
+            },
+            "position": 11,
+            "synonyms": "stomach-related, digestive, abdominal",
+            "antonyms": "non-digestive, unrelated to stomach, non-intestinal",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পাকস্থলী ও অন্ত্র সম্পর্কিত",
+                    "word_transliteration": "pakstholee o ontro shomporkit",
+                    "example_sentence_translation": "ঝাল খাবার পাকস্থলী সংক্রান্ত সমস্যা সৃষ্টি করতে পারে।",
+                    "example_sentence_transliteration": "Jhal khabar pakstholee shongkranto shomoshya srishti korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "adulteration",
+            "phonetic": "əˌdʌl.təˈreɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "অ্যাডাল্টারেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚫",
+            "meaning": "The action of making something poorer in quality by the addition of another substance.",
+            "example_sentence": "Adulteration of food is a serious health risk.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাডাল্টারেশন অব ফুড ইজ এ সিরিয়াস হেলথ রিস্ক।"
+            },
+            "position": 12,
+            "synonyms": "contamination, impurity, tainting",
+            "antonyms": "purity, authenticity, freshness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভেজাল",
+                    "word_transliteration": "bhejal",
+                    "example_sentence_translation": "খাদ্যে ভেজাল স্বাস্থ্যের জন্য মারাত্মক ক্ষতিকর।",
+                    "example_sentence_transliteration": "Khadye bhejal swasther jonno maratmok khotikar.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,580 @@
+{
+    "position": 95,
+    "title_translation": {
+        "en": "E-commerce Trends Shaping the Future",
+        "bn": "ভবিষ্যৎ গঠনকারী ই-কমার্স ট্রেন্ড"
+    },
+    "content_translation": {
+        "en": "Current **e-commerce** is undergoing dramatic transformations. **Automation**, **personalization**, and **integration** are now the key drivers of business progress. Customers want **seamless** shopping experiences where **facilitation** and **optimization** are ensured.\n\n**Cryptocurrency** payment systems are bringing **disruptive** changes, accelerating **monetization** and transactions. **Diversification** and new **logistics** strategies are creating new opportunities in business.\n\nDue to market **proliferation**, determining **benchmarking** and **efficacy** is essential for businesses. Through **augmentation** technology, **sophistication** is increasing, further enhancing customer experiences.\n\nHowever, a **dichotomy** is being created where some technologies are **immutable** while others are constantly changing. To create **resonance**, businesses must consider **viability** and prepare themselves for the future.",
+        "bn": "বর্তমান সময়ের **e-commerce** খাত ব্যাপক পরিবর্তনের মধ্য দিয়ে যাচ্ছে। **Automation**, **personalization**, এবং **integration** এখন ব্যবসার অগ্রগতির মূল চাবিকাঠি। গ্রাহকরা চায় **seamless** কেনাকাটার অভিজ্ঞতা, যেখানে **facilitation** ও **optimization** নিশ্চিত করা হয়।\n\n**Cryptocurrency** পেমেন্ট সিস্টেমে **disruptive** পরিবর্তন আনছে, যা **monetization** ও লেনদেনের গতি বাড়াচ্ছে। **Diversification** ও নতুন **logistics** কৌশল ব্যবসায় নতুন সুযোগ তৈরি করছে।\n\nবাজারে **proliferation** বাড়ার কারণে, **benchmarking** ও **efficacy** নির্ধারণ করা ব্যবসার জন্য অপরিহার্য। **Augmentation** প্রযুক্তির মাধ্যমে **sophistication** বৃদ্ধি পাচ্ছে, যা গ্রাহকদের অভিজ্ঞতাকে আরও উন্নত করছে।\n\nতবে, **dichotomy** তৈরি হচ্ছে, যেখানে কিছু প্রযুক্তি **immutable**, আবার কিছু প্রতিনিয়ত পরিবর্তিত হচ্ছে। **Resonance** তৈরির জন্য, ব্যবসাগুলোকে **viability** বিবেচনা করতে হবে এবং ভবিষ্যতের জন্য নিজেদের প্রস্তুত করতে হবে।"
+    },
+    "list": [
+        {
+            "word": "e-commerce",
+            "phonetic": "ˈiːˌkɒm.ɜːrs",
+            "word_native_transliteration": {
+                "bn": "ই-কমার্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛒",
+            "meaning": "The process of buying and selling goods or services through the internet.",
+            "example_sentence": "E-commerce has revolutionized the way people shop.",
+            "example_sentence_native_transliteration": {
+                "bn": "ই-কমার্স হ্যাজ রেভোলিউশনাইজড দ্য ওয়ে পিপল শপ।"
+            },
+            "position": 1,
+            "synonyms": "online shopping, digital marketplace, electronic trade",
+            "antonyms": "traditional commerce, offline business, brick-and-mortar store",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনলাইন বাণিজ্য",
+                    "word_transliteration": "online banijyo",
+                    "example_sentence_translation": "অনলাইন বাণিজ্য মানুষের কেনাকাটার পদ্ধতিকে বদলে দিয়েছে।",
+                    "example_sentence_transliteration": "Online banijyo manusher kenakatar poddhoti ke bodle diyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "automation",
+            "phonetic": "ˌɔː.təˈmeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "অটোমেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤖",
+            "meaning": "Replacing manual work with machines or software.",
+            "example_sentence": "Automation increases efficiency and reduces errors in production.",
+            "example_sentence_native_transliteration": {
+                "bn": "অটোমেশন ইনক্রিসেস এফিশিয়েন্সি অ্যান্ড রিডিউসেস এররস ইন প্রোডাকশন।"
+            },
+            "position": 2,
+            "synonyms": "mechanization, robotics, AI integration",
+            "antonyms": "manual operation, human labor, handcrafted",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বয়ংক্রিয়করণ",
+                    "word_transliteration": "shoyongkriyokoron",
+                    "example_sentence_translation": "স্বয়ংক্রিয়করণ উৎপাদনে দক্ষতা বৃদ্ধি করে এবং ভুল কমায়।",
+                    "example_sentence_transliteration": "Shoyongkriyokoron utpadone dokkhota briddhi kore ebong bhul komay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "personalization",
+            "phonetic": "ˌpɜː.sən.ə.laɪˈzeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "পার্সোনালাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👤",
+            "meaning": "Customizing services or products according to user preferences.",
+            "example_sentence": "Online stores use personalization to improve customer experience.",
+            "example_sentence_native_transliteration": {
+                "bn": "অনলাইন স্টোরস ইউজ পার্সোনালাইজেশন টু ইমপ্রুভ কাস্টমার এক্সপেরিয়েন্স।"
+            },
+            "position": 3,
+            "synonyms": "customization, tailoring, individualization",
+            "antonyms": "standardization, uniformity, generalization",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ব্যক্তিগতকরণ",
+                    "word_transliteration": "bektigatokoron",
+                    "example_sentence_translation": "অনলাইন স্টোর ব্যবহারকারীর অভিজ্ঞতা উন্নত করতে ব্যক্তিগতকরণ ব্যবহার করে।",
+                    "example_sentence_transliteration": "Online store beboharkariir obhiggota unnoto korte bektigatokoron bebohaar kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "integration",
+            "phonetic": "ˌɪn.tɪˈɡreɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ইন্টিগ্রেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔗",
+            "meaning": "Combining different systems, components or services together.",
+            "example_sentence": "The integration of AI in e-commerce enhances customer service.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইন্টিগ্রেশন অফ এআই ইন ই-কমার্স এনহ্যান্সেস কাস্টমার সার্ভিস।"
+            },
+            "position": 4,
+            "synonyms": "unification, merging, incorporation",
+            "antonyms": "segregation, disconnection, fragmentation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সমন্বয় বা সংযুক্তকরণ",
+                    "word_transliteration": "shomonnoy ba shongjuktokoron",
+                    "example_sentence_translation": "ই-কমার্সে এআই-এর সমন্বয় গ্রাহক পরিষেবা উন্নত করে।",
+                    "example_sentence_transliteration": "E-commerce e AI er shomonnoy grahok porisheba unnoto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "seamless",
+            "phonetic": "ˈsiːm.ləs",
+            "word_native_transliteration": {
+                "bn": "সিমলেস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "✨",
+            "meaning": "A process or service that works without any interruption.",
+            "example_sentence": "A seamless checkout process improves user satisfaction.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ সিমলেস চেকআউট প্রসেস ইমপ্রুভস ইউজার স্যাটিসফ্যাকশন।"
+            },
+            "position": 5,
+            "synonyms": "smooth, effortless, flawless",
+            "antonyms": "disruptive, complicated, inefficient",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সুবিধাজনক ও বাধাহীন",
+                    "word_transliteration": "shubidhajonok o badhaheen",
+                    "example_sentence_translation": "একটি বাধাহীন চেকআউট প্রক্রিয়া ব্যবহারকারীর সন্তুষ্টি বাড়ায়।",
+                    "example_sentence_transliteration": "Ekti badhaheen checkout prokriya bebaharkarir shontushti baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "facilitation",
+            "phonetic": "fəˌsɪl.ɪˈteɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ফ্যাসিলিটেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛠️",
+            "meaning": "Making any work or process easy and effective.",
+            "example_sentence": "Payment gateways ensure the facilitation of online transactions.",
+            "example_sentence_native_transliteration": {
+                "bn": "পেমেন্ট গেটওয়েজ এনশিওর দ্য ফ্যাসিলিটেশন অফ অনলাইন ট্র্যানজেকশনস।"
+            },
+            "position": 6,
+            "synonyms": "assistance, aid, simplification",
+            "antonyms": "hindrance, complication, obstruction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহজীকরণ",
+                    "word_transliteration": "shohojeekoron",
+                    "example_sentence_translation": "পেমেন্ট গেটওয়ে অনলাইন লেনদেনের সহজীকরণ নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Payment gateway online lendener shohojeekoron nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "optimization",
+            "phonetic": "ˌɒp.tɪ.maɪˈzeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "অপটিমাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "Improving processes to increase performance and efficiency.",
+            "example_sentence": "SEO optimization helps websites rank higher on search engines.",
+            "example_sentence_native_transliteration": {
+                "bn": "এসইও অপটিমাইজেশন হেলপস ওয়েবসাইটস র‌্যাংক হায়ার অন সার্চ ইঞ্জিনস।"
+            },
+            "position": 7,
+            "synonyms": "enhancement, refinement, maximization",
+            "antonyms": "inefficiency, wastefulness, suboptimization",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সর্বোত্তমকরণ",
+                    "word_transliteration": "shorbottomkoron",
+                    "example_sentence_translation": "এসইও সর্বোত্তমকরণ ওয়েবসাইটকে সার্চ ইঞ্জিনে উচ্চতর স্থান পেতে সহায়তা করে।",
+                    "example_sentence_transliteration": "SEO shorbottomkoron website ke search engine e uchchotor sthan pete shohayota kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cryptocurrency",
+            "phonetic": "ˈkrɪp.toʊˌkɝː.ən.si",
+            "word_native_transliteration": {
+                "bn": "ক্রিপ্টোকারেন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "₿",
+            "meaning": "Decentralized digital currency operated using blockchain technology.",
+            "example_sentence": "Bitcoin is the most popular cryptocurrency in the market.",
+            "example_sentence_native_transliteration": {
+                "bn": "বিটকয়েন ইজ দ্য মোস্ট পপুলার ক্রিপ্টোকারেন্সি ইন দ্য মার্কেট।"
+            },
+            "position": 8,
+            "synonyms": "digital currency, blockchain-based money, virtual money",
+            "antonyms": "fiat currency, traditional money, physical cash",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ডিজিটাল মুদ্রা",
+                    "word_transliteration": "digital mudra",
+                    "example_sentence_translation": "বিটকয়েন বাজারে সবচেয়ে জনপ্রিয় ডিজিটাল মুদ্রা।",
+                    "example_sentence_transliteration": "Bitcoin bajare shobcheye jonopriyo digital mudra.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "disruptive",
+            "phonetic": "dɪsˈrʌp.tɪv",
+            "word_native_transliteration": {
+                "bn": "ডিসরাপটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💥",
+            "meaning": "Something that brings major changes to the existing market or industry.",
+            "example_sentence": "E-commerce has been disruptive to traditional retail businesses.",
+            "example_sentence_native_transliteration": {
+                "bn": "ই-কমার্স হ্যাজ বিন ডিসরাপটিভ টু ট্র্যাডিশনাল রিটেইল বিজনেসেস।"
+            },
+            "position": 9,
+            "synonyms": "innovative, transformative, game-changing",
+            "antonyms": "stabilizing, conventional, predictable",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিপ্লবী বা প্রচলিত ব্যবস্থার পরিবর্তনকারী",
+                    "word_transliteration": "biplobi ba procholito bebosthar poribortônkari",
+                    "example_sentence_translation": "ই-কমার্স প্রচলিত খুচরা ব্যবসার ক্ষেত্রে বিপ্লব ঘটিয়েছে।",
+                    "example_sentence_transliteration": "E-commerce procholito khuchra beboshar khetre biplov ghotiyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "monetization",
+            "phonetic": "ˌmʌn.ɪ.taɪˈzeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "মনিটাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💰",
+            "meaning": "Converting an asset or service into a way of earning money.",
+            "example_sentence": "YouTube allows content creators to earn money through monetization.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইউটিউব অ্যালাউজ কনটেন্ট ক্রিয়েটরস টু আর্ন মানি থ্রু মনিটাইজেশন।"
+            },
+            "position": 10,
+            "synonyms": "revenue generation, commercialization, profitability",
+            "antonyms": "non-commercialization, free access, unprofitability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আর্থিকীকরণ বা মুনাফায় রূপান্তর",
+                    "word_transliteration": "arthokeekôron ba munafay rupantor",
+                    "example_sentence_translation": "ইউটিউব কনটেন্ট নির্মাতাদের অর্থ উপার্জনের সুযোগ দেয় অর্থায়ন প্রক্রিয়ার মাধ্যমে।",
+                    "example_sentence_transliteration": "YouTube content nirmotader ortho uparjoner sujog dey orthayôn prokriyar madhome.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "diversification",
+            "phonetic": "daɪˌvɜː.sɪ.fɪˈkeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ডাইভার্সিফিকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌐",
+            "meaning": "Strategy of investing or expanding income in different sectors.",
+            "example_sentence": "Companies adopt diversification strategies to reduce risk.",
+            "example_sentence_native_transliteration": {
+                "bn": "কোম্পানিজ অ্যাডপ্ট ডাইভার্সিফিকেশন স্ট্র্যাটেজিজ টু রিডিউস রিস্ক।"
+            },
+            "position": 11,
+            "synonyms": "expansion, variation, differentiation",
+            "antonyms": "specialization, uniformity, narrow focus",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৈচিত্র্যকরণ",
+                    "word_transliteration": "boichitryokôron",
+                    "example_sentence_translation": "সংস্থাগুলি ঝুঁকি কমাতে বৈচিত্র্যকরণ কৌশল গ্রহণ করে।",
+                    "example_sentence_transliteration": "Sôngsthaguli jhuki komate boichitryokôron kousol grohon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "logistics",
+            "phonetic": "ləˈdʒɪs.tɪks",
+            "word_native_transliteration": {
+                "bn": "লজিস্টিকস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚚",
+            "meaning": "The process of providing goods, information, and organizations at the right time and place.",
+            "example_sentence": "Efficient logistics is crucial for e-commerce businesses.",
+            "example_sentence_native_transliteration": {
+                "bn": "এফিশিয়েন্ট লজিস্টিকস ইজ ক্রুশিয়াল ফর ই-কমার্স বিজনেসেস।"
+            },
+            "position": 12,
+            "synonyms": "supply chain, coordination, operations management",
+            "antonyms": "disorganization, inefficiency, mismanagement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিবহন ও সরবরাহ ব্যবস্থাপনা",
+                    "word_transliteration": "poribohon o shorboraho bebosthapona",
+                    "example_sentence_translation": "দক্ষ পরিবহন ও সরবরাহ ব্যবস্থাপনা ই-কমার্স ব্যবসার জন্য অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Dokkhô poribohon o shorboraho bebosthapona e-commerce beboshar jonno otyonto gurutbopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "proliferation",
+            "phonetic": "prəˌlɪf.əˈreɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "প্রোলিফারেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "Something spreading or growing rapidly and extensively.",
+            "example_sentence": "The proliferation of smartphones has changed communication.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রোলিফারেশন অফ স্মার্টফোনস হ্যাজ চেঞ্জড কমিউনিকেশন।"
+            },
+            "position": 13,
+            "synonyms": "expansion, multiplication, spread",
+            "antonyms": "decline, reduction, contraction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্রুত বিস্তার বা বৃদ্ধি",
+                    "word_transliteration": "druto bistar ba briddhi",
+                    "example_sentence_translation": "স্মার্টফোনের দ্রুত বিস্তার যোগাযোগ ব্যবস্থাকে বদলে দিয়েছে।",
+                    "example_sentence_transliteration": "Smartphone er druto bistar jogajog bebosthake bodle diyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "benchmarking",
+            "phonetic": "ˈbɛntʃˌmɑːr.kɪŋ",
+            "word_native_transliteration": {
+                "bn": "বেঞ্চমার্কিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "Comparing with a specific industry or competitor to set the best standards.",
+            "example_sentence": "Companies use benchmarking to assess their performance.",
+            "example_sentence_native_transliteration": {
+                "bn": "কোম্পানিজ ইউজ বেঞ্চমার্কিং টু অ্যাসেস দেয়ার পারফরমেন্স।"
+            },
+            "position": 14,
+            "synonyms": "standardization, evaluation, performance comparison",
+            "antonyms": "inconsistency, guesswork, non-comparison",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মানদণ্ড নির্ধারণ ও তুলনামূলক বিশ্লেষণ",
+                    "word_transliteration": "mandondo nirdharon o tulonamulok bishleshan",
+                    "example_sentence_translation": "কোম্পানিগুলো তাদের কার্যক্ষমতা মূল্যায়নে মানদণ্ড নির্ধারণ কৌশল ব্যবহার করে।",
+                    "example_sentence_transliteration": "Companigulo tader karjokkhomota mulyayône mandondo nirdharon kousol bebohaar kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "efficacy",
+            "phonetic": "ˈɛf.ɪ.kə.si",
+            "word_native_transliteration": {
+                "bn": "এফিকেসি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✅",
+            "meaning": "The degree of being effective in achieving specific goals.",
+            "example_sentence": "The efficacy of a new drug must be tested before approval.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এফিকেসি অফ এ নিউ ড্রাগ মাস্ট বি টেস্টেড বিফোর অ্যাপ্রুভাল।"
+            },
+            "position": 15,
+            "synonyms": "effectiveness, success, performance",
+            "antonyms": "inefficiency, failure, weakness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কার্যকারিতা বা দক্ষতা",
+                    "word_transliteration": "karjokarita ba dokkhota",
+                    "example_sentence_translation": "একটি নতুন ওষুধের কার্যকারিতা অনুমোদনের আগে পরীক্ষা করা আবশ্যক।",
+                    "example_sentence_transliteration": "Ekti notun oshudher karjokarita onumodoner age porikkhôa kora aboshhôk.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "augmentation",
+            "phonetic": "ˌɔːɡ.menˈteɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "অগমেন্টেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "Increasing quantity, power or performance.",
+            "example_sentence": "The company invested in the augmentation of its workforce.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি ইনভেস্টেড ইন দ্য অগমেন্টেশন অফ ইটস ওয়ার্কফোর্স।"
+            },
+            "position": 16,
+            "synonyms": "expansion, enhancement, amplification",
+            "antonyms": "reduction, decrease, shrinkage",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৃদ্ধি বা বর্ধন",
+                    "word_transliteration": "briddhi ba bordhon",
+                    "example_sentence_translation": "কোম্পানিটি তার জনবল বৃদ্ধিতে বিনিয়োগ করেছে।",
+                    "example_sentence_transliteration": "Companiti tar jonôbol briddhite biniyog koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sophistication",
+            "phonetic": "səˌfɪs.tɪˈkeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "সফিস্টিকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎭",
+            "meaning": "High level of complexity or refinement.",
+            "example_sentence": "The sophistication of modern AI technology is remarkable.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সফিস্টিকেশন অফ মডার্ন এআই টেকনোলজি ইজ রিমার্কেবল।"
+            },
+            "position": 17,
+            "synonyms": "refinement, elegance, complexity",
+            "antonyms": "simplicity, crudeness, basic",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উন্নততা বা সূক্ষ্মতা",
+                    "word_transliteration": "unnotota ba shukhhmota",
+                    "example_sentence_translation": "আধুনিক কৃত্রিম বুদ্ধিমত্তার উন্নততা আশ্চর্যজনক।",
+                    "example_sentence_transliteration": "Adhunik krittim buddhimottar unnotota ashchoryojonok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dichotomy",
+            "phonetic": "daɪˈkɒt.ə.mi",
+            "word_native_transliteration": {
+                "bn": "ডাইকটমি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "Division between two opposite parts or concepts.",
+            "example_sentence": "The dichotomy between work and life balance is challenging.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডাইকটমি বিটউইন ওয়ার্ক অ্যান্ড লাইফ ব্যালান্স ইজ চ্যালেঞ্জিং।"
+            },
+            "position": 18,
+            "synonyms": "division, contrast, dualism",
+            "antonyms": "unity, harmony, agreement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্বৈততা বা দ্বন্দ্ব",
+                    "word_transliteration": "dboitota ba dbonddo",
+                    "example_sentence_translation": "কর্মজীবন এবং ব্যক্তিগত জীবনের মধ্যে দ্বৈততা একটি চ্যালেঞ্জ।",
+                    "example_sentence_transliteration": "Kormojibon ebong bektigoto jiboner moddhe dboitota ekti challenge.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "immutable",
+            "phonetic": "ɪˈmjuː.tə.bəl",
+            "word_native_transliteration": {
+                "bn": "ইমিউটেবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔒",
+            "meaning": "Something that never changes or cannot be transformed.",
+            "example_sentence": "Blockchain technology is based on immutable records.",
+            "example_sentence_native_transliteration": {
+                "bn": "ব্লকচেইন টেকনোলজি ইজ বেসড অন ইমিউটেবল রেকর্ডস।"
+            },
+            "position": 19,
+            "synonyms": "unchangeable, permanent, fixed",
+            "antonyms": "changeable, flexible, alterable",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অপরিবর্তনীয়",
+                    "word_transliteration": "oporibortoniyo",
+                    "example_sentence_translation": "ব্লকচেইন প্রযুক্তি অপরিবর্তনীয় তথ্যের উপর ভিত্তি করে গঠিত।",
+                    "example_sentence_transliteration": "Blockchain projukti oporibortoniyo tothyer upor bhitti kore gothito.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "resonance",
+            "phonetic": "ˈrɛz.ə.nəns",
+            "word_native_transliteration": {
+                "bn": "রেজোনেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔊",
+            "meaning": "Echo of sound, idea or feeling or deep reaction.",
+            "example_sentence": "The speaker's message had strong resonance with the audience.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্পিকারস মেসেজ হ্যাড স্ট্রং রেজোনেন্স উইথ দ্য অডিয়েন্স।"
+            },
+            "position": 20,
+            "synonyms": "vibration, impact, relevance",
+            "antonyms": "dissonance, weakness, flatness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গভীর প্রভাব বা প্রতিধ্বনি",
+                    "word_transliteration": "gobhir prôbhab ba protidhboni",
+                    "example_sentence_translation": "বক্তার বার্তাটি শ্রোতাদের মধ্যে গভীর প্রতিধ্বনি তৈরি করেছিল।",
+                    "example_sentence_transliteration": "Boktar bartati shrotader moddhe gobhir protidhboni teyri korechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "viability",
+            "phonetic": "ˌvaɪ.əˈbɪl.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "ভায়াবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✔️",
+            "meaning": "The possibility of something being successfully implemented or practical.",
+            "example_sentence": "The viability of the project depends on funding.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ভায়াবিলিটি অফ দ্য প্রজেক্ট ডিপেন্ডস অন ফান্ডিং।"
+            },
+            "position": 21,
+            "synonyms": "feasibility, sustainability, practicality",
+            "antonyms": "impracticality, unsustainability, infeasibility",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "টেকসইতা বা সম্ভাব্যতা",
+                    "word_transliteration": "teksoita ba shombhabbyota",
+                    "example_sentence_translation": "প্রকল্পটির সম্ভাব্যতা তহবিলের উপর নির্ভর করে।",
+                    "example_sentence_transliteration": "Prokolpotir shombhabbyota tohobiler upor nirbhor kore.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

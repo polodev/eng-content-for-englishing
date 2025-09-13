@@ -1,0 +1,580 @@
+{
+    "position": 97,
+    "title_translation": {
+        "en": "Effective Marketing for Small Businesses",
+        "bn": "ছোট ব্যবসার জন্য কার্যকর মার্কেটিং"
+    },
+    "content_translation": {
+        "en": "**Marketing** is an essential component for the success of a small business. By utilizing proper **branding** techniques and ensuring a strong **value proposition**, businesses can capture the attention of customers.\n\nFirst, it is important to identify the business **niche**. Understanding the market's **demographics** and **psychographics** can enable **market penetration**. A strong **aesthetic** and brand recognition help build **credibility**. Using proper **engagement** techniques makes **customer retention** easier.\n\nLeveraging social media **influencers** for **dissemination** is possible. This way, alongside attracting customers, the **conversion** rate also increases. To ensure business **scalability**, determining **monetization** models and **acquisition** strategies is essential. Success depends on proper **differentiation** and maintaining **cognizance** of market changes.\n\nPlanned marketing strategies ensure business **proliferation** and bring long-term success.",
+        "bn": "একটি ছোট ব্যবসার সফলতার জন্য **marketing** একটি অপরিহার্য উপাদান। সঠিক **branding** কৌশল ব্যবহার করে এবং **value proposition** নিশ্চিত করে, ব্যবসাগুলো গ্রাহকদের দৃষ্টি আকর্ষণ করতে পারে।\n\nপ্রথমত, ব্যবসার **niche** চিহ্নিত করা গুরুত্বপূর্ণ। বাজারের **demographics** এবং **psychographics** বুঝে **market penetration** করা যেতে পারে। একটি শক্তিশালী **aesthetic** এবং ব্র্যান্ড পরিচিতি **credibility** বাড়াতে সাহায্য করে। সঠিক **engagement** কৌশল ব্যবহার করলে **customer retention** সহজ হয়। সোশ্যাল মিডিয়া **influencer**-দের **leverage** করে **dissemination** বাড়ানো সম্ভব। এভাবে গ্রাহকদের আকৃষ্ট করার পাশাপাশি **conversion** হারও বাড়ে। ব্যবসার **scalability** নিশ্চিত করতে হলে, **monetization** মডেল এবং **acquisition** কৌশল নির্ধারণ করা জরুরি। সফলতা নির্ভর করে সঠিক **differentiation** এবং বাজারের পরিবর্তনের প্রতি **cognizance** রাখার ওপর। পরিকল্পিত **marketing** কৌশল ব্যবসার **proliferation** নিশ্চিত করে এবং দীর্ঘমেয়াদে সাফল্য এনে দেয়।"
+    },
+    "list": [
+        {
+            "word": "Marketing",
+            "phonetic": "/ˈmɑː.kɪ.tɪŋ/",
+            "word_native_transliteration": {
+                "bn": "মার্কেটিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "The activity, set of institutions, and processes for creating, communicating, delivering, and exchanging offerings that have value for customers, clients, partners, and society at large.",
+            "example_sentence": "Digital marketing has transformed business strategies.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিজিটাল মার্কেটিং হ্যাজ ট্রান্সফরমড বিজনেস স্ট্র্যাটেজিস।"
+            },
+            "position": 1,
+            "synonyms": "Promotion, Advertising, Merchandising",
+            "antonyms": "Ignorance, Inactivity, Neglect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিপণন, বাজারজাতকরণ, প্রচার",
+                    "word_transliteration": "biponon, bazarjatkoron, prochar",
+                    "example_sentence_translation": "ডিজিটাল মার্কেটিং ব্যবসায়িক কৌশলে বিপ্লব এনেছে।",
+                    "example_sentence_transliteration": "Digital marketing byabosayik koushale biplob eneche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Branding",
+            "phonetic": "/ˈbræn.dɪŋ/",
+            "word_native_transliteration": {
+                "bn": "ব্র্যান্ডিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The process involved in creating a unique name and image for a product in the consumers' mind, mainly through advertising campaigns with a consistent theme.",
+            "example_sentence": "Strong branding helps build customer trust.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্ট্রং ব্র্যান্ডিং হেল্পস বিল্ড কাস্টমার ট্রাস্ট।"
+            },
+            "position": 2,
+            "synonyms": "Positioning, Identity, Recognition",
+            "antonyms": "Generic, Unbranded, Obscurity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ব্র্যান্ড পরিচিতি, ব্র্যান্ডিং প্রক্রিয়া, প্রতিষ্ঠানের স্বকীয়তা",
+                    "word_transliteration": "brand porichiti, branding prokriya, protishthaner shokkiyota",
+                    "example_sentence_translation": "শক্তিশালী ব্র্যান্ডিং গ্রাহকের আস্থা তৈরি করে।",
+                    "example_sentence_transliteration": "Shokishali branding grahokder astha toiri kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Value Proposition",
+            "phonetic": "/ˈvæl.juː ˌprɒ.pəˈzɪʃ.ən/",
+            "word_native_transliteration": {
+                "bn": "ভ্যালু প্রোপোজিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💎",
+            "meaning": "A business or marketing statement that summarizes why a consumer should buy a product or use a service.",
+            "example_sentence": "A strong value proposition attracts more buyers.",
+            "example_sentence_native_transliteration": {
+                "bn": "আ স্ট্রং ভ্যালু প্রোপোজিশন অ্যাট্র্যাক্টস মোর বায়ারস।"
+            },
+            "position": 3,
+            "synonyms": "Unique Offer, Benefit, Competitive Advantage",
+            "antonyms": "Worthlessness, Insignificance, Weakness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মান প্রতিশ্রুতি, গ্রাহকের জন্য বিশেষ সুবিধা, মূল আকর্ষণ",
+                    "word_transliteration": "man protishhruti, grahokder jonyo bishesh subidhha, mul akorshon",
+                    "example_sentence_translation": "শক্তিশালী ভ্যালু প্রোপোজিশন বেশি ক্রেতাকে আকর্ষণ করে।",
+                    "example_sentence_transliteration": "Shokishali value proposition beshi kretake akorshon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Niche",
+            "phonetic": "/niːʃ/",
+            "word_native_transliteration": {
+                "bn": "নিশ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "A specialized segment of the market for a particular kind of product or service.",
+            "example_sentence": "Finding the right niche is key to a successful business.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফাইন্ডিং দ্য রাইট নিশ ইজ কি টু আ সাকসেসফুল বিজনেস।"
+            },
+            "position": 4,
+            "synonyms": "Segment, Specialty, Focus Area",
+            "antonyms": "General Market, Broad Industry, Undifferentiated",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নির্দিষ্ট বাজার, বিশেষায়িত ক্ষেত্র, লক্ষ্য বাজার",
+                    "word_transliteration": "nirdishto bajar, bisheshayito khettro, lokhho bajar",
+                    "example_sentence_translation": "সঠিক নিশ খুঁজে পাওয়া সফল ব্যবসার মূল চাবিকাঠি।",
+                    "example_sentence_transliteration": "Sothik nish khunje paoya shofoler mul chabikathi.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Demographics",
+            "phonetic": "/ˌdɛm.əˈɡræf.ɪks/",
+            "word_native_transliteration": {
+                "bn": "ডেমোগ্রাফিক্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "Statistical data relating to the population and particular groups within it.",
+            "example_sentence": "Demographics help in targeted advertising.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডেমোগ্রাফিক্স হেল্প ইন টার্গেটেড অ্যাডভার্টাইজিং।"
+            },
+            "position": 5,
+            "synonyms": "Population Data, Statistics, Audience Insights",
+            "antonyms": "Indeterminate, Undefined, Unstructured",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জনসংখ্যার বৈশিষ্ট্য, বাজার বিশ্লেষণের উপাদান",
+                    "word_transliteration": "jonoshongkhar boishishtho, bajar bishleshanr upadhan",
+                    "example_sentence_translation": "ডেমোগ্রাফিক্স লক্ষ্যভিত্তিক বিজ্ঞাপনে সহায়তা করে।",
+                    "example_sentence_transliteration": "Demographics lokkhobhittik bigggane shahayta kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Psychographics",
+            "phonetic": "/ˌsaɪ.kəʊˈɡræf.ɪks/",
+            "word_native_transliteration": {
+                "bn": "সাইকোগ্রাফিক্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧠",
+            "meaning": "The study and classification of people according to their attitudes, aspirations, and other psychological criteria.",
+            "example_sentence": "Psychographics reveal consumer buying motives.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাইকোগ্রাফিক্স রিভিল কনজিউমার বায়িং মোটিভস।"
+            },
+            "position": 6,
+            "synonyms": "Consumer Behavior, Lifestyle Analysis, Interests",
+            "antonyms": "Surface-level Analysis, Lack of Insights, Random Targeting",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মানসিক ও আচরণগত বিশ্লেষণ, গ্রাহকের জীবনধারা বিশ্লেষণ",
+                    "word_transliteration": "manoshik o achoronogoto bishleshn, grahokder jibonodhara bishleshon",
+                    "example_sentence_translation": "সাইকোগ্রাফিক্স গ্রাহকদের কেনার কারণ উদঘাটন করে।",
+                    "example_sentence_transliteration": "Psychographics grahokder kenar karon udghaton kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Market Penetration",
+            "phonetic": "/ˈmɑː.kɪt ˌpen.ɪˈtreɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "মার্কেট পেনিট্রেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "A measure of the amount of sales or adoption of a product or service compared to the total theoretical market for that product or service.",
+            "example_sentence": "High market penetration ensures competitive dominance.",
+            "example_sentence_native_transliteration": {
+                "bn": "হাই মার্কেট পেনিট্রেশন এনশিউরস কমপেটিটিভ ডমিনান্স।"
+            },
+            "position": 7,
+            "synonyms": "Market Expansion, Business Growth, Sales Boost",
+            "antonyms": "Market Withdrawal, Decline, Stagnation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাজার দখল হার, প্রতিযোগিতামূলক অংশগ্রহণ",
+                    "word_transliteration": "bajar dokhol har, protijogitamulok angshgrohan",
+                    "example_sentence_translation": "উচ্চ মার্কেট পেনিট্রেশন প্রতিযোগিতামূলক আধিপত্য নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Uccho market penetration protijogitamulok adhioptto nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Aesthetic",
+            "phonetic": "/esˈθet.ɪk/",
+            "word_native_transliteration": {
+                "bn": "এস্থেটিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎨",
+            "meaning": "Concerned with beauty or the appreciation of beauty.",
+            "example_sentence": "Good aesthetic design enhances product appeal.",
+            "example_sentence_native_transliteration": {
+                "bn": "গুড এস্থেটিক ডিজাইন এনহান্স প্রোডাক্ট অ্যাপিল।"
+            },
+            "position": 8,
+            "synonyms": "Artistic, Elegant, Stylish",
+            "antonyms": "Unattractive, Unappealing, Inelegant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নান্দনিক, শৈল্পিক, সৌন্দর্যমূলক",
+                    "word_transliteration": "nandanik, shoilpik, shoundroyomulok",
+                    "example_sentence_translation": "ভালো এস্থেটিক ডিজাইন পণ্যের আকর্ষণ বাড়ায়।",
+                    "example_sentence_transliteration": "Bhalo aesthetic design ponyar akorshon baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Credibility",
+            "phonetic": "/ˌkrɛ.dɪˈbɪl.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "ক্রেডিবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏆",
+            "meaning": "The quality of being trusted and believed in.",
+            "example_sentence": "Brand credibility impacts customer loyalty.",
+            "example_sentence_native_transliteration": {
+                "bn": "ব্র্যান্ড ক্রেডিবিলিটি ইমপ্যাক্টস কাস্টমার লয়ালটি।"
+            },
+            "position": 9,
+            "synonyms": "Trustworthiness, Integrity, Authenticity",
+            "antonyms": "Distrust, Doubt, Unreliability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিশ্বাসযোগ্যতা, গ্রহণযোগ্যতা, নির্ভরযোগ্যতা",
+                    "word_transliteration": "bishashojogota, grohonojogota, nirvorjogota",
+                    "example_sentence_translation": "ব্র্যান্ডের ক্রেডিবিলিটি গ্রাহকের আনুগত্যে প্রভাব ফেলে।",
+                    "example_sentence_transliteration": "Brander credibility grahokder anugottyo prabhab phele.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Engagement",
+            "phonetic": "/ɪnˈɡeɪdʒ.mənt/",
+            "word_native_transliteration": {
+                "bn": "এনগেজমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "The action of engaging or being engaged; involvement.",
+            "example_sentence": "Social media engagement is vital for brand growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "সোশ্যাল মিডিয়া এনগেজমেন্ট ইজ ভাইটাল ফর ব্র্যান্ড গ্রোথ।"
+            },
+            "position": 10,
+            "synonyms": "Interaction, Involvement, Participation",
+            "antonyms": "Disconnection, Disengagement, Detachment",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অংশগ্রহণ, সংযোগ, মিথস্ক্রিয়া",
+                    "word_transliteration": "angshgrohan, shongjog, mithoskriya",
+                    "example_sentence_translation": "সামাজিক মাধ্যম এনগেজমেন্ট ব্র্যান্ড বৃদ্ধির জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Shamajik madhom engagement brand bruddhir jonyo oporiharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Customer Retention",
+            "phonetic": "/ˈkʌs.tə.mər rɪˈten.ʃən/",
+            "word_native_transliteration": {
+                "bn": "কাস্টমার রিটেনশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The ability of a company or product to retain its customers over some specified period.",
+            "example_sentence": "High customer retention increases business sustainability.",
+            "example_sentence_native_transliteration": {
+                "bn": "হাই কাস্টমার রিটেনশন ইনক্রিসেস বিজনেস সাস্টেইনেবিলিটি।"
+            },
+            "position": 11,
+            "synonyms": "Client Loyalty, Customer Satisfaction, Brand Stickiness",
+            "antonyms": "Customer Loss, Churn Rate, Client Drop",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গ্রাহক ধরে রাখা, গ্রাহক আনুগত্য বৃদ্ধি",
+                    "word_transliteration": "grahok dhore rakha, grahok anugotto briddhi",
+                    "example_sentence_translation": "উচ্চ কাস্টমার রিটেনশন ব্যবসার স্থায়িত্ব বৃদ্ধি করে।",
+                    "example_sentence_transliteration": "Uccho customer retention byaboshar sthaitto briddhi kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Influencer",
+            "phonetic": "/ˈɪn.flu.ən.sər/",
+            "word_native_transliteration": {
+                "bn": "ইনফ্লুয়েন্সার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👑",
+            "meaning": "A person with the ability to influence potential buyers of a product or service by promoting or recommending the items on social media.",
+            "example_sentence": "Social media influencers shape consumer preferences.",
+            "example_sentence_native_transliteration": {
+                "bn": "সোশ্যাল মিডিয়া ইনফ্লুয়েন্সারস শেপ কনজিউমার প্রিফারেন্সেস।"
+            },
+            "position": 12,
+            "synonyms": "Promoter, Advocate, Endorser",
+            "antonyms": "Follower, Spectator, Passive Consumer",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রভাবক, মতামত গঠনকারী, ট্রেন্ড সেটার",
+                    "word_transliteration": "probhabik, motamot gohonokari, trend setter",
+                    "example_sentence_translation": "সোশ্যাল মিডিয়া ইনফ্লুয়েন্সাররা গ্রাহকের পছন্দ নির্ধারণে ভূমিকা রাখে।",
+                    "example_sentence_transliteration": "Social media influencer grahokder pochhond nirdhone bhumika rakhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Leverage",
+            "phonetic": "/ˈlev.ər.ɪdʒ/",
+            "word_native_transliteration": {
+                "bn": "লেভারেজ"
+            },
+            "parts_of_speech": "noun/verb",
+            "emoji": "⚡",
+            "meaning": "Use (something) to maximum advantage.",
+            "example_sentence": "Businesses leverage data to enhance customer experience.",
+            "example_sentence_native_transliteration": {
+                "bn": "বিজনেসেস লেভারেজ ডেটা টু এনহান্স কাস্টমার এক্সপেরিয়েন্স।"
+            },
+            "position": 13,
+            "synonyms": "Advantage, Utilization, Influence",
+            "antonyms": "Weakness, Powerlessness, Incompetence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রভাব, সুবিধা গ্রহণ, উত্তোলন শক্তি",
+                    "word_transliteration": "probhab, subidha grohon, uttholon shokti",
+                    "example_sentence_translation": "ব্যবসাগুলো গ্রাহকের অভিজ্ঞতা উন্নত করতে লেভারেজ করে।",
+                    "example_sentence_transliteration": "Byaboshagulo grahokder ovigata unnoto korote leverage kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Dissemination",
+            "phonetic": "/dɪˌsem.ɪˈneɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ডিসেমিনেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📡",
+            "meaning": "The action or fact of spreading something, especially information, widely.",
+            "example_sentence": "Dissemination of knowledge is vital for innovation.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিসেমিনেশন অফ নলেজ ইজ ভাইটাল ফর ইনোভেশন।"
+            },
+            "position": 14,
+            "synonyms": "Circulation, Distribution, Propagation",
+            "antonyms": "Withholding, Concealment, Suppression",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রচার, বিস্তার, সম্প্রচার",
+                    "word_transliteration": "prochar, bistar, shomprochar",
+                    "example_sentence_translation": "নতুনত্বের জন্য জ্ঞানের ডিসেমিনেশন অপরিহার্য।",
+                    "example_sentence_transliteration": "Notuntter jonyo gyaner dissemination oporiharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Conversion",
+            "phonetic": "/kənˈvɜː.ʃən/",
+            "word_native_transliteration": {
+                "bn": "কনভার্শন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The process of changing or causing something to change from one form to another.",
+            "example_sentence": "High website conversion rates indicate effective marketing.",
+            "example_sentence_native_transliteration": {
+                "bn": "হাই ওয়েবসাইট কনভার্শন রেটস ইন্ডিকেট এফেক্টিভ মার্কেটিং।"
+            },
+            "position": 15,
+            "synonyms": "Transformation, Adaptation, Alteration",
+            "antonyms": "Retention, Constancy, Stagnation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রূপান্তর, পরিবর্তন, রূপবিন্যাস",
+                    "word_transliteration": "rupantor, poriboron, rupbinash",
+                    "example_sentence_translation": "উচ্চ কনভার্শন হার কার্যকর মার্কেটিং নির্দেশ করে।",
+                    "example_sentence_transliteration": "Uccho conversion har karjokor marketing nirdesh kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Scalability",
+            "phonetic": "/ˌskeɪ.ləˈbɪl.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "স্কেলেবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "The capacity to be changed in size or scale.",
+            "example_sentence": "The scalability of a business determines long-term success.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্কেলেবিলিটি অফ আ বিজনেস ডিটারমিনস লং-টার্ম সাকসেস।"
+            },
+            "position": 16,
+            "synonyms": "Expandability, Growth Capacity, Adaptability",
+            "antonyms": "Rigidity, Fixed Scope, Limitation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সম্প্রসারণ ক্ষমতা, বৃদ্ধি সম্ভাবনা, অভিযোজন ক্ষমতা",
+                    "word_transliteration": "shomprosharon khomota, briddhi shombhabona, obhijojon khomota",
+                    "example_sentence_translation": "ব্যবসার স্কেলেবিলিটি দীর্ঘমেয়াদী সাফল্য নির্ধারণ করে।",
+                    "example_sentence_transliteration": "Byaboshar scalability dirghmeyadi shafollyo nirdoron kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Monetization",
+            "phonetic": "/ˌmʌn.ɪ.taɪˈzeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "মনিটাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💰",
+            "meaning": "The process of converting or establishing something into legal tender or a source of income.",
+            "example_sentence": "Content creators use multiple monetization methods.",
+            "example_sentence_native_transliteration": {
+                "bn": "কনটেন্ট ক্রিয়েটরস ইউজ মাল্টিপল মনিটাইজেশন মেথডস।"
+            },
+            "position": 17,
+            "synonyms": "Revenue Generation, Commercialization, Profitability",
+            "antonyms": "Unprofitability, Non-earning, Free Access",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অর্থায়ন, লাভে রূপান্তর, মুনাফার সৃষ্টি",
+                    "word_transliteration": "orthayon, labhe rupantor, munafar srishti",
+                    "example_sentence_translation": "কনটেন্ট নির্মাতারা বিভিন্ন মনিটাইজেশন পদ্ধতি ব্যবহার করেন।",
+                    "example_sentence_transliteration": "Content nirmatara bibhinno monetization poddoti byabohar koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Acquisition",
+            "phonetic": "/ˌæk.wɪˈzɪʃ.ən/",
+            "word_native_transliteration": {
+                "bn": "অ্যাকুইজিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "An asset or object bought or obtained, typically by a library or museum.",
+            "example_sentence": "The company's acquisition strategy boosted growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানিজ অ্যাকুইজিশন স্ট্র্যাটেজি বুস্টেড গ্রোথ।"
+            },
+            "position": 18,
+            "synonyms": "Attainment, Procurement, Possession",
+            "antonyms": "Loss, Disposal, Surrender",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অধিগ্রহণ, অর্জন, সংগ্রহ",
+                    "word_transliteration": "odhigrohon, orjon, shonggroho",
+                    "example_sentence_translation": "কোম্পানির অ্যাকুইজিশন কৌশল প্রবৃদ্ধি বাড়িয়েছে।",
+                    "example_sentence_transliteration": "Companir acquisition kousol probridhi bariyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Differentiation",
+            "phonetic": "/ˌdɪf.ə.ren.ʃiˈeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ডিফারেনশিয়েশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌟",
+            "meaning": "The action or process of differentiating or distinguishing between two or more things or people.",
+            "example_sentence": "Strong differentiation sets brands apart from competitors.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্ট্রং ডিফারেনশিয়েশন সেটস ব্র্যান্ডস অ্যাপার্ট ফ্রম কমপেটিটরস।"
+            },
+            "position": 19,
+            "synonyms": "Distinction, Uniqueness, Segmentation",
+            "antonyms": "Homogenization, Standardization, Uniformity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পার্থক্য, স্বতন্ত্রতা, বিশেষীকরণ",
+                    "word_transliteration": "porthokko, shotontrata, bisheshikoron",
+                    "example_sentence_translation": "শক্তিশালী ডিফারেনশিয়েশন ব্র্যান্ডকে প্রতিযোগীদের থেকে আলাদা করে।",
+                    "example_sentence_transliteration": "Shokishali differentiation brandke protijogider theke alada kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Cognizance",
+            "phonetic": "/ˈkɒɡ.nɪ.zəns/",
+            "word_native_transliteration": {
+                "bn": "কগনিজ্যান্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧠",
+            "meaning": "Knowledge or awareness.",
+            "example_sentence": "Cognizance of market trends is crucial for growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "কগনিজ্যান্স অফ মার্কেট ট্রেন্ডস ইজ ক্রুশিয়াল ফর গ্রোথ।"
+            },
+            "position": 20,
+            "synonyms": "Awareness, Perception, Recognition",
+            "antonyms": "Ignorance, Unawareness, Obliviousness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উপলব্ধি, সচেতনতা, জ্ঞান",
+                    "word_transliteration": "upolobdhi, sochetonota, gyan",
+                    "example_sentence_translation": "বাজার প্রবণতার কগনিজ্যান্স প্রবৃদ্ধির জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Bajar probonatar cognizance probriddhir jonyo oporiharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Proliferation",
+            "phonetic": "/prəˌlɪf.ərˈeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "প্রোলিফারেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚀",
+            "meaning": "Rapid increase in the number or amount of something.",
+            "example_sentence": "The proliferation of digital platforms transformed communication.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রোলিফারেশন অফ ডিজিটাল প্ল্যাটফর্মস ট্রান্সফরমড কমিউনিকেশন।"
+            },
+            "position": 21,
+            "synonyms": "Expansion, Multiplication, Escalation",
+            "antonyms": "Decline, Reduction, Diminution",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্রুত বৃদ্ধি, বিস্তার, সম্প্রসারণ",
+                    "word_transliteration": "druto briddhi, bistar, shomprosharon",
+                    "example_sentence_translation": "ডিজিটাল প্ল্যাটফর্মের প্রোলিফারেশন যোগাযোগের ধরণ বদলে দিয়েছে।",
+                    "example_sentence_transliteration": "Digital platformer proliferation jogajogr dhoron bodle diyeche.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

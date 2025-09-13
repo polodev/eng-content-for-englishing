@@ -1,0 +1,429 @@
+{
+    "position": 99,
+    "title_translation": {
+        "en": "Effective Strategies for Time Management",
+        "bn": "সময় ব্যবস্থাপনার কার্যকর কৌশল"
+    },
+    "content_translation": {
+        "en": "Time management is a **quintessential** skill that brings success to our personal and professional lives. Those who use their time with **adroit** and **diligence** always stay one step ahead.\n\nFirst, we need to be **pragmatic** and create **meticulous** plans. Many people can't maintain balance between **disparate** tasks, which leads to wasted time. Therefore, tasks need to be **juxtaposed** to identify which ones are more important.\n\nAn effective technique is to work with **finesse** and **scrupulous** attention. This ensures the **viability** of tasks and makes it easier to **expedite** by eliminating unnecessary work. In time management, the **incumbent** matter is having specific **acumen** for each task.\n\nFinally, it's necessary to **synergize** and **elucidate** the plans. By adopting the right techniques, time management improves and every aspect of life becomes more **augmented**.",
+        "bn": "সময় ব্যবস্থাপনা হলো একটি **quintessential** দক্ষতা, যা আমাদের ব্যক্তিগত এবং পেশাগত জীবনে সাফল্য এনে দেয়। যারা **adroit** এবং **diligence** সহকারে তাদের সময় ব্যবহার করতে পারে, তারা সবসময় একধাপ এগিয়ে থাকে।\n\nপ্রথমত, আমাদের **pragmatic** হতে হবে এবং **meticulous** পরিকল্পনা তৈরি করতে হবে। অনেকেই **disparate** কাজের মধ্যে ভারসাম রাখতে পারে না, যার ফলে সময় নষ্ট হয়। তাই, কাজগুলো **juxtapose** করে কোনটি বেশি গুরুত্বপূর্ণ তা চিহ্নিত করতে হবে।\n\nএকটি কার্যকর কৌশল হলো **finesse** এবং **scrupulous** মনোযোগ দিয়ে কাজ করা। এতে কাজের **viability** নিশ্চিত হয় এবং অপ্রয়োজনীয় কাজ বাদ দিয়ে **expedite** করা সহজ হয়। সময় ব্যবস্থাপনায় **incumbent** বিষয় হলো, প্রতিটি কাজের নির্দিষ্ট **acumen** থাকা।\n\nসবশেষে, **synergize** করা এবং পরিকল্পনাগুলোর **elucidate** করা প্রয়োজন। সঠিক কৌশল অবলম্বন করলে সময় ব্যবস্থাপনা উন্নত হয় এবং জীবনের প্রতিটি দিক আরও **augmented** হয়।"
+    },
+    "list": [
+        {
+            "word": "quintessential",
+            "phonetic": "ˌkwɪn.tɪˈsen.ʃəl",
+            "word_native_transliteration": {
+                "bn": "কুইনটিসেনশিয়াল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⭐",
+            "meaning": "representing the most perfect or typical example of a quality or class.",
+            "example_sentence": "The artist's work is the quintessential example of modernism.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য আর্টিস্ট'স ওয়ার্ক ইজ দ্য কুইনটিসেনশিয়াল এক্সাম্পল অব মডার্নিজম।"
+            },
+            "position": 1,
+            "synonyms": "exemplary, archetypal",
+            "antonyms": "atypical, uncharacteristic",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সারমর্মিক, আদর্শ উদাহরণ, উৎকৃষ্ট নমুনা",
+                    "word_transliteration": "sharomormik, adorsho udaharon, utkristo nomuna",
+                    "example_sentence_translation": "শিল্পীর কাজ আধুনিকতাবাদের কুইনটিসেনশিয়াল উদাহরণ।",
+                    "example_sentence_transliteration": "Shilpir kaj adhunikotabader quintessential udaharon."
+                }
+            ]
+        },
+        {
+            "word": "adroit",
+            "phonetic": "əˈdrɔɪt",
+            "word_native_transliteration": {
+                "bn": "অ্যাড্রয়েট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎯",
+            "meaning": "clever or skillful in using the hands or mind.",
+            "example_sentence": "She is adroit at solving complex problems.",
+            "example_sentence_native_transliteration": {
+                "bn": "শী ইজ অ্যাড্রয়েট অ্যাট সলভিং কমপ্লেক্স প্রবলেমস।"
+            },
+            "position": 2,
+            "synonyms": "skillful, proficient",
+            "antonyms": "clumsy, inept",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষ, চতুর, চালাক",
+                    "word_transliteration": "dokkho, chatur, chalak",
+                    "example_sentence_translation": "সে জটিল সমস্যা সমাধানে অ্যাড্রয়েট।",
+                    "example_sentence_transliteration": "She jotil shomoshya samadhane adroit."
+                }
+            ]
+        },
+        {
+            "word": "diligence",
+            "phonetic": "ˈdɪl.ɪ.dʒəns",
+            "word_native_transliteration": {
+                "bn": "ডিলিজেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "careful and persistent work or effort.",
+            "example_sentence": "His diligence led to his promotion.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ডিলিজেন্স লেড টু হিজ প্রোমোশন।"
+            },
+            "position": 3,
+            "synonyms": "perseverance, industriousness",
+            "antonyms": "negligence, laziness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিশ্রম, অধ্যবসায়, সতর্কতা",
+                    "word_transliteration": "porishrom, adhyoboshay, shotorkota",
+                    "example_sentence_translation": "তার ডিলিজেন্স তাকে পদোন্নতি এনে দিয়েছে।",
+                    "example_sentence_transliteration": "Tar diligence take podonnoti ene diyeche."
+                }
+            ]
+        },
+        {
+            "word": "pragmatic",
+            "phonetic": "præɡˈmæt.ɪk",
+            "word_native_transliteration": {
+                "bn": "প্র্যাগম্যাটিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎯",
+            "meaning": "dealing with things sensibly and realistically in a way that is based on practical rather than idealistic considerations.",
+            "example_sentence": "A pragmatic approach helps in decision-making.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ প্র্যাগম্যাটিক অ্যাপ্রোচ হেল্পস ইন ডিসিশন-মেকিং।"
+            },
+            "position": 4,
+            "synonyms": "sensible, logical",
+            "antonyms": "idealistic, impractical",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাস্তববাদী, ব্যবহারিক, ফলপ্রসূ",
+                    "word_transliteration": "bastobobadi, byboharik, pholproshu",
+                    "example_sentence_translation": "একটি প্র্যাগম্যাটিক দৃষ্টিভঙ্গি সিদ্ধান্ত গ্রহণে সহায়ক।",
+                    "example_sentence_transliteration": "Ekti pragmatic drishtibhongi siddhanto grohone shohayok."
+                }
+            ]
+        },
+        {
+            "word": "meticulous",
+            "phonetic": "məˈtɪk.jə.ləs",
+            "word_native_transliteration": {
+                "bn": "মেটিকিউলাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔍",
+            "meaning": "showing great attention to detail; very careful and precise.",
+            "example_sentence": "His meticulous planning ensured the project's success.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ মেটিকিউলাস প্ল্যানিং এনশিওর্ড দ্য প্রজেক্টস সাক্সেস।"
+            },
+            "position": 5,
+            "synonyms": "precise, thorough",
+            "antonyms": "careless, inaccurate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অত্যন্ত যত্নশীল, নিখুঁত, সূক্ষ্মদর্শী",
+                    "word_transliteration": "otyonto yotonshil, nikhunto, shukkhodarshi",
+                    "example_sentence_translation": "তার মেটিকিউলাস পরিকল্পনা প্রকল্পের সফলতা নিশ্চিত করেছে।",
+                    "example_sentence_transliteration": "Tar meticulous porikolpona prokolper shofolota nishchito koreche."
+                }
+            ]
+        },
+        {
+            "word": "disparate",
+            "phonetic": "ˈdɪs.pər.ət",
+            "word_native_transliteration": {
+                "bn": "ডিসপারেট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔀",
+            "meaning": "containing elements very different from one another.",
+            "example_sentence": "Their opinions were disparate, leading to debates.",
+            "example_sentence_native_transliteration": {
+                "bn": "দেয়ার ওপিনিয়নস ওয়্যার ডিসপারেট, লিডিং টু ডিবেটস।"
+            },
+            "position": 6,
+            "synonyms": "contrasting, divergent",
+            "antonyms": "similar, uniform",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সম্পূর্ণ ভিন্ন, অসামঞ্জস্যপূর্ণ",
+                    "word_transliteration": "shompurno bhinno, oshamongjoshopurno",
+                    "example_sentence_translation": "তাদের মতামত ডিসপারেট, যা বিতর্কের সৃষ্টি করেছিল।",
+                    "example_sentence_transliteration": "Tader motamot disparate, ja bitorker srishti korechhilo."
+                }
+            ]
+        },
+        {
+            "word": "juxtapose",
+            "phonetic": "ˈdʒʌk.stə.pəʊz",
+            "word_native_transliteration": {
+                "bn": "জাক্সটাপোজ"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⚖️",
+            "meaning": "place or deal with close together for contrasting effect.",
+            "example_sentence": "The artist juxtaposed modern and classical styles.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য আর্টিস্ট জাক্সটাপোজড মডার্ন অ্যান্ড ক্ল্যাসিক্যাল স্টাইলস।"
+            },
+            "position": 7,
+            "synonyms": "compare, contrast",
+            "antonyms": "separate, divide",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পাশাপাশি স্থাপন করা, তুলনামূলক বিশ্লেষণ করা",
+                    "word_transliteration": "pashapashi sthapon kora, tulonamulok bishleshan kora",
+                    "example_sentence_translation": "শিল্পী আধুনিক ও শাস্ত্রীয় শৈলীর মধ্যে জাক্সটাপোজ করেছেন।",
+                    "example_sentence_transliteration": "Shilpi adhunik o shastriya shailir moddhe juxtapose korechhento."
+                }
+            ]
+        },
+        {
+            "word": "finesse",
+            "phonetic": "fɪˈnes",
+            "word_native_transliteration": {
+                "bn": "ফিনেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✨",
+            "meaning": "impressive delicacy and skill.",
+            "example_sentence": "She handled the negotiation with finesse.",
+            "example_sentence_native_transliteration": {
+                "bn": "শী হ্যান্ডেলড দ্য নেগোশিয়েশন উইথ ফিনেস।"
+            },
+            "position": 8,
+            "synonyms": "elegance, dexterity",
+            "antonyms": "clumsiness, ineptness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সূক্ষ্মতা, কৌশল, দক্ষতা",
+                    "word_transliteration": "shukkhmota, koushl, dokkhota",
+                    "example_sentence_translation": "তিনি আলোচনাটি ফিনেস দিয়ে পরিচালনা করেছেন।",
+                    "example_sentence_transliterati "Tini alochonati finesse diye porichalona korechhentni."
+                }
+            ]
+        },
+        {
+            "word": "scrupulous",
+            "phonetic": "ˈskruː.pjə.ləs",
+            "word_native_transliteration": {
+                "bn": "স্ক্রুপিউলাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎯",
+            "meaning": "diligent, thorough, and extremely attentive to details.",
+            "example_sentence": "He is a scrupulous journalist who reports the truth.",
+            "example_sentence_native_transliteration": {
+                "bn": "হী ইজ এ স্ক্রুপিউলাস জার্নালিস্ট হু রিপোর্টস দ্য ট্রুথ।"
+            },
+            "position": 9,
+            "synonyms": "conscientious, ethical",
+            "antonyms": "corrupt, dishonest",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নীতিনিষ্ঠ, সতর্ক, যথাযথভাবে বিবেচনাশীল",
+                    "word_transliteration": "nitonishto, shotorko, yathayathbhabe bibechonashil",
+                    "example_sentence_translation": "তিনি একজন স্ক্রুপিউলাস সাংবাদিক, যিনি সত্য প্রকাশ করেন।",
+                    "example_sentence_transliteration": "Tini ekjon scrupulous shangbadik, yini shottyo prokash koren."
+                }
+            ]
+        },
+        {
+            "word": "viability",
+            "phonetic": "ˌvaɪ.əˈbɪl.ə.ti",
+            "word_native_transliteration": {
+                "bn": "ভায়াবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✅",
+            "meaning": "ability to work successfully.",
+            "example_sentence": "The viability of the business depends on market demand.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ভায়াবিলিটি অব দ্য বিজনেস ডিপেন্ডস অন মার্কেট ডিমান্ড।"
+            },
+            "position": 10,
+            "synonyms": "feasibility, practicality",
+            "antonyms": "impossibility, unlikelihood",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "টিকে থাকার সম্ভাবনা, সফল হওয়ার ক্ষমতা",
+                    "word_transliteration": "tike thakar shombhabona, shofol hwar kkhomota",
+                    "example_sentence_translation": "ব্যবসার ভায়াবিলিটি বাজার চাহিদার উপর নির্ভর করে।",
+                    "example_sentence_transliteration": "Bybosar viability bajar chahidar upor nirbhor kore."
+                }
+            ]
+        },
+        {
+            "word": "expedite",
+            "phonetic": "ˈek.spə.daɪt",
+            "word_native_transliteration": {
+                "bn": "এক্সপেডাইট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🚀",
+            "meaning": "make (an action or process) happen sooner or be accomplished more quickly.",
+            "example_sentence": "The manager decided to expedite the approval process.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ম্যানেজার ডিসাইডেড টু এক্সপেডাইট দ্য অ্যাপ্রুভাল প্রসেস।"
+            },
+            "position": 11,
+            "synonyms": "accelerate, hasten",
+            "antonyms": "delay, hinder",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্রুততর করা, কার্যকরী করা, ত্বরান্বিত করা",
+                    "word_transliteration": "drutattor kora, karjokori kora, tworanbit kora",
+                    "example_sentence_translation": "ব্যবস্থাপক অনুমোদন প্রক্রিয়াটি এক্সপেডাইট করার সিদ্ধান্ত নিলেন।",
+                    "example_sentence_transliteration": "Bybasthapok onumodon prokriyati expedite korar siddhanto nilen."
+                }
+            ]
+        },
+        {
+            "word": "incumbent",
+            "phonetic": "ɪnˈkʌm.bənt",
+            "word_native_transliteration": {
+                "bn": "ইনকামবেন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📋",
+            "meaning": "necessary for (someone) as a duty or responsibility.",
+            "example_sentence": "It is incumbent upon all citizens to obey the law.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইট ইজ ইনকামবেন্ট আপন অল সিটিজেনস টু ওবে দ্য ল।"
+            },
+            "position": 12,
+            "synonyms": "obligatory, essential",
+            "antonyms": "optional, unnecessary",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দায়িত্বশীল, প্রয়োজনীয়, বর্তমান পদধারী",
+                    "word_transliteration": "dayittoshil, proyojoniye, bortoman poddhari",
+                    "example_sentence_translation": "আইন মেনে চলা সকল নাগরিকের ইনকামবেন্ট দায়িত্ব।",
+                    "example_sentence_transliteration": "Ain mene chola shokol nagoriker incumbent dayitto."
+                }
+            ]
+        },
+        {
+            "word": "acumen",
+            "phonetic": "ˈæk.jʊ.mən",
+            "word_native_transliteration": {
+                "bn": "অ্যাকুমেন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧠",
+            "meaning": "the ability to make good judgments and quick decisions.",
+            "example_sentence": "His business acumen helped the company grow.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ বিজনেস অ্যাকুমেন হেল্পড দ্য কোম্পানি গ্রো।"
+            },
+            "position": 13,
+            "synonyms": "insight, sharpness",
+            "antonyms": "ignorance, ineptitude",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রখর বুদ্ধিমত্তা, অন্তর্দৃষ্টি, দূরদর্শিতা",
+                    "word_transliteration": "prokhor buddhimotta, antordristi, durdorshita",
+                    "example_sentence_translation": "তার ব্যবসায়িক অ্যাকুমেন কোম্পানির বৃদ্ধি নিশ্চিত করেছে।",
+                    "example_sentence_transliteration": "Tar bybasayik acumen companir briddhi nishchito koreche."
+                }
+            ]
+        },
+        {
+            "word": "synergize",
+            "phonetic": "ˈsɪn.ɚ.dʒaɪz",
+            "word_native_transliteration": {
+                "bn": "সিনারজাইজ"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🤝",
+            "meaning": "combine in such a way as to enhance effectiveness.",
+            "example_sentence": "The departments must synergize to improve efficiency.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডিপার্টমেন্টস মাস্ট সিনারজাইজ টু ইমপ্রুভ এফিশিয়েন্সি।"
+            },
+            "position": 14,
+            "synonyms": "cooperate, integrate",
+            "antonyms": "isolate, divide",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একত্রিত করে উন্নত করা, যৌথভাবে কাজ করা",
+                    "word_transliteration": "ektrito kore unnoto kora, youthbhabe kaj kora",
+                    "example_sentence_translation": "দক্ষতা বৃদ্ধির জন্য বিভাগগুলোকে সিনারজাইজ করতে হবে।",
+                    "example_sentence_transliteration": "Dokkhota briddhir jonno bibhaguloke synergize korte hobe."
+                }
+            ]
+        },
+        {
+            "word": "elucidate",
+            "phonetic": "ɪˈluː.sɪ.deɪt",
+            "word_native_transliteration": {
+                "bn": "ইলুসিডেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "💡",
+            "meaning": "make (something) clear; explain.",
+            "example_sentence": "The professor elucidated the theory with simple examples.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রফেসর ইলুসিডেটেড দ্য থিওরি উইথ সিম্পল এক্সাম্পলস।"
+            },
+            "position": 15,
+            "synonyms": "explain, clarify",
+            "antonyms": "confuse, obscure",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ব্যাখ্যা করা, পরিষ্কারভাবে বোঝানো, বিশদ ব্যাখ্যা করা",
+                    "word_transliteration": "byakhya kora, porishkarbhabe bojhano, bishod byakhya kora",
+                    "example_sentence_translation": "অধ্যাপক সহজ উদাহরণের মাধ্যমে তত্ত্বটি ইলুসিডেট করলেন।",
+                    "example_sentence_transliteration": "Adhyapok shohoj udahoroner madhyme tottobi elucidate korlen."
+                }
+            ]
+        },
+        {
+            "word": "augmented",
+            "phonetic": "ɔːɡˈmen.tɪd",
+            "word_native_transliteration": {
+                "bn": "অগমেন্টেড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📈",
+            "meaning": "having been made greater in size or value.",
+            "example_sentence": "The new software provided augmented reality features.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিউ সফটওয়্যার প্রোভাইডেড অগমেন্টেড রিয়ালিটি ফিচার্স।"
+            },
+            "position": 16,
+            "synonyms": "enhanced, amplified",
+            "antonyms": "reduced, diminished",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বর্ধিত, উন্নত, প্রসারিত",
+                    "word_transliteration": "broddhito, unnoto, prosharito",
+                    "example_sentence_translation": "নতুন সফটওয়্যার অগমেন্টেড বাস্তবতার বৈশিষ্ট্য সরবরাহ করে।",
+                    "example_sentence_transliteration": "Notun software augmented bastbotar boishishtyo shorboraho kore."
+                }
+            ]
+        }
+    ]
+}
