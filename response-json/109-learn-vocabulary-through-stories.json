@@ -1,0 +1,499 @@
+{
+    "position": 109,
+    "title_translation": {
+        "en": "Grit: The Power of Passion",
+        "bn": "Grit: The Power of Passion"
+    },
+    "content_translation": {
+        "en": "The key to success in life is not just talent, but **grit**. It is a quality formed by **perseverance** and **fervor**. If someone truly wants to achieve something, they must maintain **unyielding** mentality.\n\nMany people spend their lives with **complacency**, because they feel comfortable in **mediocrity**. But for those who want to be true **epitome**, **doggedness** and **diligence** are essential.\n\nIn most cases, the journey is not easy. Various **conundrum** test our patience, where without **scrupulous** planning, there is a possibility of failure. Still, **obstinate** belief and **indomitable** mentality move people forward.\n\nA successful person realizes dreams not with **bravado**, but with **austerity** and **pertinacity**. Therefore, the power of **grit** must be understood, because it transforms a person into a **quintessential** individual and gives proper direction in life according to their **proclivity**.",
+        "bn": "জীবনে সাফল্যের মূল চাবিকাঠি শুধু প্রতিভা নয়, বরং **grit**। এটি এমন একটি গুণ, যা **perseverance** এবং **fervor** দ্বারা গঠিত হয়। কেউ যদি সত্যিকারের অর্থে কিছু অর্জন করতে চায়, তবে তাকে **unyielding** মানসিকতা রাখতে হবে।\n\nঅনেকে **complacency** নিয়ে জীবন কাটায়, কারণ তারা **mediocrity**-তে স্বাচ্ছন্দ্য বোধ করে। কিন্তু যারা সত্যিকারের **epitome** হতে চায়, তাদের জন্য **doggedness** এবং **diligence** অপরিহার্য।\n\nবেশিরভাগ ক্ষেত্রে, পথচলা সহজ নয়। বিভিন্ন **conundrum** আমাদের ধৈর্য পরীক্ষা নেয়, যেখানে **scrupulous** পরিকল্পনা না থাকলে ব্যর্থতার সম্ভাবনা থাকে। তবুও, **obstinate** বিশ্বাস ও **indomitable** মানসিকতা মানুষকে সামনে এগিয়ে নেয়।\n\nএকজন সফল মানুষ **bravado** দিয়ে নয়, বরং **austerity** এবং **pertinacity** দিয়ে স্বপ্ন বাস্তবায়ন করে। তাই, **grit**-এর শক্তি বুঝতে হবে, কারণ এটি মানুষকে **quintessential** ব্যক্তিত্বে পরিণত করে এবং তার **proclivity** অনুযায়ী জীবনের সঠিক দিকনির্দেশনা দেয়।"
+    },
+    "list": [
+        {
+            "word": "grit",
+            "phonetic": "ɡrɪt",
+            "word_native_transliteration": {
+                "bn": "গ্রিট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "Long-term determination and perseverance in the face of hardship and challenges.",
+            "example_sentence": "His grit and hard work led him to success.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ গ্রিট অ্যান্ড হার্ড ওয়ার্ক লেড হিম টু সাকসেস।"
+            },
+            "position": 1,
+            "synonyms": "Courage, Resilience, Determination",
+            "antonyms": "Weakness, Timidity, Indecision",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অবিচল সংকল্প বা মানসিক দৃঢ়তা",
+                    "word_transliteration": "obichal shongkolpo ba manoshik driddhota",
+                    "example_sentence_translation": "তার অবিচল সংকল্প ও কঠোর পরিশ্রম তাকে সাফল্যের দিকে নিয়ে গেছে।",
+                    "example_sentence_transliteration": "Tar obichal shongkolpo o kothor porishrom take shafolyer dike niye gecche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "perseverance",
+            "phonetic": "ˌpɜː.sɪˈvɪə.rəns",
+            "word_native_transliteration": {
+                "bn": "পার্সিভারেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The ability to continue working hard and being patient for a long time.",
+            "example_sentence": "His perseverance helped him achieve his dreams.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ পার্সিভারেন্স হেল্পড হিম অ্যাচিভ হিজ ড্রিমস।"
+            },
+            "position": 2,
+            "synonyms": "Persistence, Determination, Endurance",
+            "antonyms": "Laziness, Weakness, Giving up",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অধ্যবসায় বা টিকে থাকার ক্ষমতা",
+                    "word_transliteration": "adhyoboshay ba tike thakar khomota",
+                    "example_sentence_translation": "তার অধ্যবসায় তাকে স্বপ্ন পূরণে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Tar adhyoboshay take shopno purone shahajyo korecche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fervor",
+            "phonetic": "ˈfɜːr.vɚ",
+            "word_native_transliteration": {
+                "bn": "ফার্ভর"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔥",
+            "meaning": "Strong passion or enthusiasm for something.",
+            "example_sentence": "He spoke with great fervor about his vision for the company.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি স্পোক উইথ গ্রেট ফার্ভর অ্যাবাউট হিজ ভিশন ফর দ্য কোম্পানি।"
+            },
+            "position": 3,
+            "synonyms": "Passion, Zeal, Enthusiasm",
+            "antonyms": "Apathy, Indifference, Lethargy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্দীপনা বা গভীর আবেগ",
+                    "word_transliteration": "uddipona ba gobhir abeg",
+                    "example_sentence_translation": "তিনি কোম্পানির ভবিষ্যৎ সম্পর্কে গভীর উদ্দীপনার সাথে কথা বলেছিলেন।",
+                    "example_sentence_transliteration": "Tini company'r bhobishyot shomporke gobhir uddipona'r shathe kotha bolechhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "unyielding",
+            "phonetic": "ʌnˈjiːl.dɪŋ",
+            "word_native_transliteration": {
+                "bn": "আনইয়েল্ডিং"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🪨",
+            "meaning": "Not easily broken or giving in to pressure.",
+            "example_sentence": "Her unyielding determination helped her overcome all challenges.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার আনইয়েল্ডিং ডিটারমিনেশন হেল্পড হার ওভারকাম অল চ্যালেঞ্জেস।"
+            },
+            "position": 4,
+            "synonyms": "Stubborn, Determined, Firm",
+            "antonyms": "Flexible, Compliant, Submissive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনমনীয় বা দৃঢ় প্রতিজ্ঞ",
+                    "word_transliteration": "onmoneeyo ba dridh protiggo",
+                    "example_sentence_translation": "তার অনমনীয় সংকল্প তাকে সব চ্যালেঞ্জ অতিক্রম করতে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Tar onmoneeyo shongkolpo take shob challenge otikrom korte shahajyo korecche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "complacency",
+            "phonetic": "kəmˈpleɪ.sən.si",
+            "word_native_transliteration": {
+                "bn": "কমপ্লেসেন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "😴",
+            "meaning": "Excessive self-satisfaction with one's achievements that can hinder progress.",
+            "example_sentence": "His complacency led to a decline in his performance.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ কমপ্লেসেন্সি লেড টু এ ডিক্লাইন ইন হিজ পারফরমেন্স।"
+            },
+            "position": 5,
+            "synonyms": "Self-satisfaction, Contentment, Smugness",
+            "antonyms": "Ambition, Dissatisfaction, Motivation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আত্মতুষ্টি বা অতিরিক্ত আত্মবিশ্বাস",
+                    "word_transliteration": "attotushti ba otirikto attobishshash",
+                    "example_sentence_translation": "তার আত্মতুষ্টি তার পারফরমেন্সের অবনতি ঘটিয়েছে।",
+                    "example_sentence_transliteration": "Tar attotushti tar performance'er obonoti ghatiyecche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "mediocrity",
+            "phonetic": "ˌmiː.diˈɒk.rə.ti",
+            "word_native_transliteration": {
+                "bn": "মিডিওক্রিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "Being average or ordinary, not particularly good.",
+            "example_sentence": "He refused to settle for mediocrity and aimed for greatness.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি রিফিউজড টু সেটেল ফর মিডিওক্রিটি অ্যান্ড এইমড ফর গ্রেটনেস।"
+            },
+            "position": 6,
+            "synonyms": "Averageness, Inferiority, Ordinariness",
+            "antonyms": "Excellence, Superiority, Distinction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গড়পরতা বা সাধারণ মান",
+                    "word_transliteration": "goporotaa ba shadharôn man",
+                    "example_sentence_translation": "তিনি গড় মানের সঙ্গে আপস না করে উৎকর্ষ অর্জনের চেষ্টা করেন।",
+                    "example_sentence_transliteration": "Tini goṛ maner shonge aposh na kore utkorso orjoner cheshta koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "epitome",
+            "phonetic": "ɪˈpɪt.ə.mi",
+            "word_native_transliteration": {
+                "bn": "এপিটোমি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👑",
+            "meaning": "A perfect example or embodiment of something.",
+            "example_sentence": "She is the epitome of professionalism.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি ইজ দ্য এপিটোমি অব প্রফেশনালিজম।"
+            },
+            "position": 7,
+            "synonyms": "Embodiment, Model, Quintessence",
+            "antonyms": "Antithesis, Opposite, Imperfection",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সর্বোৎকৃষ্ট উদাহরণ বা নির্যাস",
+                    "word_transliteration": "shorbootkrishto udahoron ba niryash",
+                    "example_sentence_translation": "তিনি পেশাদারিত্বের সর্বোৎকৃষ্ট উদাহরণ।",
+                    "example_sentence_transliteration": "Tini peshadaritter shorbootkrishto udahoron.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "doggedness",
+            "phonetic": "ˈdɒɡ.ɪd.nəs",
+            "word_native_transliteration": {
+                "bn": "ডগেডনেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🐕",
+            "meaning": "Stubborn persistence in achieving something without giving up.",
+            "example_sentence": "His doggedness in pursuing his goals was inspiring.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ডগেডনেস ইন পারসিউয়িং হিজ গোলস ওয়াজ ইন্সপায়ারিং।"
+            },
+            "position": 8,
+            "synonyms": "Stubbornness, Determination, Perseverance",
+            "antonyms": "Indecisiveness, Weakness, Surrender",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জেদ বা কঠোর অধ্যবসায়",
+                    "word_transliteration": "jed ba kothor adhyoboshay",
+                    "example_sentence_translation": "তার লক্ষ্য অর্জনে জেদ তাকে অনুপ্রাণিত করেছিল।",
+                    "example_sentence_transliteration": "Tar lokkhyo orjone jed take onupraniito korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "diligence",
+            "phonetic": "ˈdɪl.ɪ.dʒəns",
+            "word_native_transliteration": {
+                "bn": "ডিলিজেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📚",
+            "meaning": "Hard work with patience and concentration.",
+            "example_sentence": "Her diligence in her studies paid off with top grades.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার ডিলিজেন্স ইন হার স্টাডিজ পেইড অফ উইথ টপ গ্রেডস।"
+            },
+            "position": 9,
+            "synonyms": "Hard work, Effort, Commitment",
+            "antonyms": "Laziness, Carelessness, Negligence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিশ্রম বা অধ্যবসায়",
+                    "word_transliteration": "porishrom ba adhyoboshay",
+                    "example_sentence_translation": "তার পড়াশোনার প্রতি পরিশ্রম ভালো ফলাফল এনেছে।",
+                    "example_sentence_transliteration": "Tar porashona'r proti porishrom bhalo folafoal enecche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "conundrum",
+            "phonetic": "kəˈnʌn.drəm",
+            "word_native_transliteration": {
+                "bn": "কোনান্ড্রাম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤔",
+            "meaning": "A complex problem that has no easy solution.",
+            "example_sentence": "The ethical conundrum puzzled the researchers.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এথিক্যাল কোনান্ড্রাম পাজেলড দ্য রিসার্চারস।"
+            },
+            "position": 10,
+            "synonyms": "Puzzle, Dilemma, Enigma",
+            "antonyms": "Solution, Clarity, Simplicity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জটিল সমস্যা বা ধাঁধা",
+                    "word_transliteration": "jotil shomoshya ba dhadha",
+                    "example_sentence_translation": "নৈতিক জটিল সমস্যাটি গবেষকদের বিভ্রান্ত করেছে।",
+                    "example_sentence_transliteration": "Noitik jotil shomoshyati gobeshokder bibhranto korecche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "scrupulous",
+            "phonetic": "ˈskruː.pjʊ.ləs",
+            "word_native_transliteration": {
+                "bn": "স্ক্রুপুলাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔍",
+            "meaning": "Extremely careful and ethical in doing the right thing.",
+            "example_sentence": "A scrupulous lawyer never compromises on ethics.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ স্ক্রুপুলাস লয়ার নেভার কমপ্রোমাইজেস অন এথিক্স।"
+            },
+            "position": 11,
+            "synonyms": "Meticulous, Honest, Conscientious",
+            "antonyms": "Careless, Corrupt, Negligent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অত্যন্ত সতর্ক ও নৈতিকভাবে সৎ",
+                    "word_transliteration": "ottonto shotorko o noitikbhabe shot",
+                    "example_sentence_translation": "একজন সতর্ক আইনজীবী কখনো নৈতিকতার সাথে আপস করেন না।",
+                    "example_sentence_transliteration": "Ekjon shotorko ainjibi kokhono noitikotar shathe aposh koren na.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "obstinate",
+            "phonetic": "ˈɒb.stɪ.nət",
+            "word_native_transliteration": {
+                "bn": "অবস্টিনেট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🙅",
+            "meaning": "Refusing to change one's mind or accept others' advice easily.",
+            "example_sentence": "He remained obstinate despite the logical arguments.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি রিমেইনড অবস্টিনেট ডেসপাইট দ্য লজিক্যাল আর্গুমেন্টস।"
+            },
+            "position": 12,
+            "synonyms": "Stubborn, Headstrong, Inflexible",
+            "antonyms": "Compliant, Flexible, Agreeable",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একগুঁয়ে বা জেদি",
+                    "word_transliteration": "ekguye ba jedi",
+                    "example_sentence_translation": "যুক্তিপূর্ণ যুক্তি সত্ত্বেও তিনি একগুঁয়ে রয়ে গেলেন।",
+                    "example_sentence_transliteration": "Juktipurno jukti shottweo tini ekguye roye gelen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "indomitable",
+            "phonetic": "ɪnˈdɒm.ɪ.tə.bəl",
+            "word_native_transliteration": {
+                "bn": "ইনডমিটেবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🦾",
+            "meaning": "A spirit or strength that cannot be easily defeated.",
+            "example_sentence": "Her indomitable spirit helped her overcome all obstacles.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার ইনডমিটেবল স্পিরিট হেল্পড হার ওভারকাম অল অবস্টাকলস।"
+            },
+            "position": 13,
+            "synonyms": "Unconquerable, Unyielding, Resilient",
+            "antonyms": "Weak, Defeated, Surrendering",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অপরাজেয় বা দমন করা কঠিন",
+                    "word_transliteration": "oporajeyo ba domon kora kothin",
+                    "example_sentence_translation": "তার অপরাজেয় মনোবল তাকে সব বাধা অতিক্রম করতে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Tar oporajeyo monobol take shob badha otikrom korte shahajyo korecche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "bravado",
+            "phonetic": "brəˈvɑː.dəʊ",
+            "word_native_transliteration": {
+                "bn": "ব্রাভাডো"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎭",
+            "meaning": "Show of courage or confidence that is not real.",
+            "example_sentence": "His bravado masked his nervousness before the performance.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ব্রাভাডো মাস্কড হিজ নার্ভাসনেস বিফোর দ্য পারফরমেন্স।"
+            },
+            "position": 14,
+            "synonyms": "Swagger, Boldness, Showmanship",
+            "antonyms": "Modesty, Fear, Cowardice",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দেখানো সাহস বা অযথা দম্ভ",
+                    "word_transliteration": "dekhano shahosh ba oyotha dombho",
+                    "example_sentence_translation": "তার দম্ভ অভিনয়ের আগে তার নার্ভাসনেস ঢেকে রেখেছিল।",
+                    "example_sentence_transliteration": "Tar dombho obhinoyer age tar nervousness dheke rekhechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "austerity",
+            "phonetic": "ɔːˈstɛr.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "অস্টেরিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "Simple and disciplined lifestyle, avoiding luxury.",
+            "example_sentence": "The government implemented austerity measures to reduce expenses.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গভর্নমেন্ট ইমপ্লিমেন্টেড অস্টেরিটি মেজারস টু রিডিউস এক্সপেন্সেস।"
+            },
+            "position": 15,
+            "synonyms": "Simplicity, Frugality, Severity",
+            "antonyms": "Extravagance, Luxury, Indulgence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংযম বা কঠোর জীবনযাপন",
+                    "word_transliteration": "shongyom ba kothor jibonyapon",
+                    "example_sentence_translation": "সরকার ব্যয় কমাতে সংযম নীতি গ্রহণ করেছিল।",
+                    "example_sentence_transliteration": "Shorkar byoy komate shongyom neeti grohon korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pertinacity",
+            "phonetic": "ˌpɜː.tɪˈnæs.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "পার্টিনাসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "Firm determination and persistence in achieving something.",
+            "example_sentence": "His pertinacity in achieving his goals was inspiring.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ পার্টিনাসিটি ইন অ্যাচিভিং হিজ গোলস ওয়াজ ইন্সপায়ারিং।"
+            },
+            "position": 16,
+            "synonyms": "Determination, Tenacity, Stubbornness",
+            "antonyms": "Indecision, Weakness, Hesitation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দৃঢ় সংকল্প বা অবিচলতা",
+                    "word_transliteration": "dridh shongkolpo ba obicholota",
+                    "example_sentence_translation": "তার লক্ষ্য অর্জনে দৃঢ় সংকল্প অনুপ্রেরণামূলক ছিল।",
+                    "example_sentence_transliteration": "Tar lokkhyo orjone dridh shongkolpo onupreronaamulok chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "quintessential",
+            "phonetic": "ˌkwɪn.tɪˈsɛn.ʃəl",
+            "word_native_transliteration": {
+                "bn": "কুইনটেসেনশ্যাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💎",
+            "meaning": "The most perfect or typical example of something.",
+            "example_sentence": "He is the quintessential example of a great leader.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি ইজ দ্য কুইনটেসেনশ্যাল এক্সাম্পল অব এ গ্রেট লিডার।"
+            },
+            "position": 17,
+            "synonyms": "Ideal, Classic, Perfect Example",
+            "antonyms": "Atypical, Uncharacteristic, Imperfect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সর্বোৎকৃষ্ট বা নিখুঁত উদাহরণ",
+                    "word_transliteration": "shorbootkrishto ba nikhunto udahoron",
+                    "example_sentence_translation": "তিনি একজন দুর্দান্ত নেতার সর্বোৎকৃষ্ট উদাহরণ।",
+                    "example_sentence_transliteration": "Tini ekjon durdanto netar shorbootkrishto udahoron.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "proclivity",
+            "phonetic": "prəˈklɪv.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "প্রোক্লিভিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧭",
+            "meaning": "A natural tendency or inclination toward a particular behavior.",
+            "example_sentence": "He has a proclivity for taking risks in business.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি হ্যাজ এ প্রোক্লিভিটি ফর টেকিং রিস্কস ইন বিজনেস।"
+            },
+            "position": 18,
+            "synonyms": "Tendency, Inclination, Predisposition",
+            "antonyms": "Aversion, Dislike, Reluctance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রবণতা বা স্বাভাবিক ঝোঁক",
+                    "word_transliteration": "probonota ba shabhabhik jhok",
+                    "example_sentence_translation": "ব্যবসায় ঝুঁকি নেওয়ার প্রতি তার প্রবণতা রয়েছে।",
+                    "example_sentence_transliteration": "Byoboshay jhuki neowar proti tar probonota royecche.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

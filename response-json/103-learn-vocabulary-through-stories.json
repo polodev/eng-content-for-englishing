@@ -1,0 +1,580 @@
+{
+    "position": 103,
+    "title_translation": {
+        "en": "Essential Wardrobe Pieces for Everyone",
+        "bn": "প্রত্যেকের জন্য প্রয়োজনীয় পোশাক"
+    },
+    "content_translation": {
+        "en": "For a perfect wardrobe collection, **versatility** and **sophistication** are extremely important. A **timeless** simple shirt or **tailored** blazer is always necessary. Such clothing has **exquisite** **refinement** and **subtlety** that makes you **impeccable** at any event. A good **sartorial** blazer will help you present yourself in a classy, **pragmatic** and **aesthetic** way. This is a garment that will bring **cohesion** to different occasions and express your **flair**. The clothing should have an **idiosyncratic** style that reflects your personality. Your clothing **investment**, such as a leather jacket that will last for a long time due to **resilience** and **inexhaustible** qualities, is an important choice. Finally, an **exemplary** wardrobe collection will provide you with **opulence** and **ambience**, which will increase others' respect for you.",
+        "bn": "একটি পরিপূর্ণ পোশাক সংগ্রহের জন্য **versatility** এবং **sophistication** অত্যন্ত গুরুত্বপূর্ণ। একটি **timeless** সাদা শার্ট বা **tailored** ব্লেজার সবসময় প্রয়োজনীয়। এ ধরনের পোশাকের মধ্যে **exquisite** **refinement** এবং **subtlety** রয়েছে যা কোনো অনুষ্ঠানে আপনাকে **impeccable** করে তোলে। একটি ভালো **sartorial** ব্লেজার আপনাকে ক্লাসি, **pragmatic** এবং **aesthetic**ভাবে উপস্থাপন করতে সহায়তা করবে। এটি এমন একটি পোশাক, যা বিভিন্ন সুযোগে **cohesion** আনবে এবং আপনার **flair** প্রকাশ করবে। পোশাকের মধ্যে একটি **idiosyncratic** শৈলী থাকা উচিত, যা আপনার ব্যক্তিত্বের প্রতিফলন ঘটায়। আপনার পোশাকের **investment** করা, যেমন একটি চামড়ার জ্যাকেট, যা **resilience** এবং **inexhaustible** গুণাবলীর কারণে দীর্ঘদিন ধরে চলবে, এটি একটি গুরুত্বপূর্ণ পছন্দ। সবশেষে, একটি **exemplary** পোশাক সংগ্রহ আপনাকে **opulence** এবং **ambience** প্রদান করবে, যা আপনার প্রতি অন্যদের শ্রদ্ধা বৃদ্ধি করবে।"
+    },
+    "list": [
+        {
+            "word": "versatility",
+            "phonetic": "ˌvɜːsəˈtɪləti",
+            "word_native_transliteration": {
+                "bn": "ভার্সাটিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The ability to adapt or be adapted to many different functions or activities.",
+            "example_sentence": "Her versatility allowed her to excel in various artistic disciplines.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার ভার্সাটিলিটি অ্যালাউড হার টু এক্সেল ইন ভেরিয়াস আর্টিস্টিক ডিসিপ্লিনস।"
+            },
+            "position": 1,
+            "synonyms": "flexibility, adaptability",
+            "antonyms": "rigidity, inflexibility",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বহুমুখিতা",
+                    "word_transliteration": "bohumukhi-ta",
+                    "example_sentence_translation": "তার বহুমুখিতা তাকে বিভিন্ন শিল্পে শ্রেষ্ঠত্ব অর্জন করতে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Tar bohumukhi-ta take bivhinno shilpe shreshthottyo orjon korte sahajyo koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sophistication",
+            "phonetic": "səˌfɪstɪˈkeɪʃən",
+            "word_native_transliteration": {
+                "bn": "সোফিস্টিকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✨",
+            "meaning": "The quality of being sophisticated; having great knowledge or experience.",
+            "example_sentence": "The sophistication of the design impressed everyone at the exhibition.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সোফিস্টিকেশন অব দ্য ডিজাইন ইমপ্রেসড এভরিওয়ান অ্যাট দ্য এক্সিবিশন।"
+            },
+            "position": 2,
+            "synonyms": "elegance, refinement",
+            "antonyms": "simplicity, crudeness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিশীলিততা",
+                    "word_transliteration": "porishilita-ta",
+                    "example_sentence_translation": "ডিজাইনটির পরিশীলিততা প্রদর্শনীতে সবাইকে মুগ্ধ করেছে।",
+                    "example_sentence_transliteration": "Designtir porishilita-ta prodorshonitee sobaikee mugdho koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "timeless",
+            "phonetic": "ˈtaɪmləs",
+            "word_native_transliteration": {
+                "bn": "টাইমলেস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "♾️",
+            "meaning": "Not affected by the passage of time or changes in fashion.",
+            "example_sentence": "The timeless beauty of the painting has captivated art lovers for generations.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য টাইমলেস বিউটি অব দ্য পেইন্টিং হ্যাজ ক্যাপটিভেটেড আর্ট লাভারস ফর জেনারেশনস।"
+            },
+            "position": 3,
+            "synonyms": "eternal, everlasting",
+            "antonyms": "temporary, fleeting",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চিরকালীন",
+                    "word_transliteration": "chirokalin",
+                    "example_sentence_translation": "চিত্রকর্মের চিরকালীন সৌন্দর্য প্রজন্মের পর প্রজন্ম শিল্পপ্রেমীদের মুগ্ধ করেছে।",
+                    "example_sentence_transliteration": "Chitrokormer chirokalin soundhorryo projonmer por projonmo shilpopremider mugdho koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "tailored",
+            "phonetic": "ˈteɪləd",
+            "word_native_transliteration": {
+                "bn": "টেইলর্ড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "✂️",
+            "meaning": "Made or adapted for a particular purpose or person.",
+            "example_sentence": "He wore a tailored suit that complemented his physique perfectly.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি ওয়র এ টেইলর্ড স্যুট দ্যাট কমপ্লিমেন্টেড হিজ ফিজিক পারফেক্টলি।"
+            },
+            "position": 4,
+            "synonyms": "customized, personalized",
+            "antonyms": "generic, standardized",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিশেষভাবে তৈরি",
+                    "word_transliteration": "bisheshbhabey toiri",
+                    "example_sentence_translation": "সে একটি বিশেষভাবে তৈরি স্যুট পরেছিল যা তার শারীরিক গঠনের সাথে নিখুঁতভাবে মিলছিল।",
+                    "example_sentence_transliteration": "She ekti bisheshbhabey toiri suit porechilo ja tar sharirik gothoner shathe nikhuntobhabey milchilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "blazer",
+            "phonetic": "ˈbleɪzə",
+            "word_native_transliteration": {
+                "bn": "ব্লেজার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧥",
+            "meaning": "A coloured jacket worn by members of a club, team, or school as part of a uniform.",
+            "example_sentence": "He looked sharp in his navy blue blazer at the event.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি লুকড শার্প ইন হিজ নেভি ব্লু ব্লেজার অ্যাট দ্য ইভেন্ট।"
+            },
+            "position": 5,
+            "synonyms": "jacket, coat",
+            "antonyms": "casual wear, informal attire",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ব্লেজার",
+                    "word_transliteration": "blazer",
+                    "example_sentence_translation": "সে অনুষ্ঠানে নেভি ব্লু ব্লেজারে সোজা সুজি দেখাচ্ছিল।",
+                    "example_sentence_transliteration": "She onusthane nevy blue blazarey soja suji dekhacchilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "exquisite",
+            "phonetic": "ɪkˈskwɪzɪt",
+            "word_native_transliteration": {
+                "bn": "এক্সকুইজিট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💎",
+            "meaning": "Extremely beautiful and delicate.",
+            "example_sentence": "The exquisite craftsmanship of the watch made it a collector's item.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এক্সকুইজিট ক্র্যাফ্টসম্যানশিপ অব দ্য ওয়াচ মেড ইট এ কালেক্টরস আইটেম।"
+            },
+            "position": 6,
+            "synonyms": "elegant, delicate",
+            "antonyms": "crude, rough",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অত্যন্ত সুন্দর",
+                    "word_transliteration": "otttyonto sundor",
+                    "example_sentence_translation": "ঘড়িটির চমৎকার কারুশিল্প এটিকে সংগ্রাহকের আইটেমে পরিণত করেছে।",
+                    "example_sentence_transliteration": "Ghorir chotkar karushilpo etikee shongrahokker aiteme porinoto koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "refinement",
+            "phonetic": "rɪˈfaɪnmənt",
+            "word_native_transliteration": {
+                "bn": "রিফাইনমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎨",
+            "meaning": "The process of removing impurities or unwanted elements from a substance.",
+            "example_sentence": "His manners showed a refinement that made him stand out in any crowd.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ম্যানারস শোড এ রিফাইনমেন্ট দ্যাট মেড হিম স্ট্যান্ড আউট ইন এনি ক্রাউড।"
+            },
+            "position": 7,
+            "synonyms": "improvement, elegance",
+            "antonyms": "crudeness, coarseness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিশীলন",
+                    "word_transliteration": "porishilon",
+                    "example_sentence_translation": "তার আচরণে একটি পরিশীলন ছিল যা তাকে যেকোনো জনসমুদ্রে আলাদা করে তুলেছিল।",
+                    "example_sentence_transliteration": "Tar achorone ekti porishilon chilo ja take jekono jonoshomuddrey alada korey tuleechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "subtlety",
+            "phonetic": "ˈsʌtlti",
+            "word_native_transliteration": {
+                "bn": "সাবটেলটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔍",
+            "meaning": "The quality or state of being subtle.",
+            "example_sentence": "The subtlety of her argument won over the most skeptical audience.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সাবটেলটি অব হার আর্গুমেন্ট ওয়ন ওভার দ্য মোস্ট স্কেপটিক্যাল অডিয়েন্স।"
+            },
+            "position": 8,
+            "synonyms": "delicacy, fineness",
+            "antonyms": "coarseness, bluntness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সূক্ষ্মতা",
+                    "word_transliteration": "sookshmo-ta",
+                    "example_sentence_translation": "তার যুক্তির সূক্ষ্মতা সবচেয়ে সংশয়বাদী শ্রোতাদেরও মুগ্ধ করেছে।",
+                    "example_sentence_transliteration": "Tar juktir sookshmo-ta shobcheye shongshoyobadi shrotadereo mugdho koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "impeccable",
+            "phonetic": "ɪmˈpɛkəbl",
+            "word_native_transliteration": {
+                "bn": "ইমপেকেবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "✅",
+            "meaning": "In accordance with the highest standards; faultless.",
+            "example_sentence": "His impeccable taste in fashion was admired by all his peers.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ইমপেকেবল টেস্ট ইন ফ্যাশন ওয়াজ অ্যাডমায়ার্ড বাই অল হিজ পিয়ারস।"
+            },
+            "position": 9,
+            "synonyms": "flawless, perfect",
+            "antonyms": "flawed, defective",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিখুঁত",
+                    "word_transliteration": "nikhunto",
+                    "example_sentence_translation": "ফ্যাশনে তার নিখুঁত রুচি সকল সহকর্মী দ্বারা প্রশংসিত হয়েছিল।",
+                    "example_sentence_transliteration": "Fashione tar nikhunto ruchi shokol shohokormmi dwara proshongshito hoyechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sartorial",
+            "phonetic": "sɑːˈtɔːrɪəl",
+            "word_native_transliteration": {
+                "bn": "সারটোরিয়াল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "👔",
+            "meaning": "Of or relating to clothing or style or manner of dress.",
+            "example_sentence": "His sartorial choices were always on trend and admired.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ সারটোরিয়াল চয়েসেস ওয়্যার অলওয়েজ অন ট্রেন্ড অ্যান্ড অ্যাডমায়ার্ড।"
+            },
+            "position": 10,
+            "synonyms": "fashionable, stylish",
+            "antonyms": "unfashionable, outdated",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পোশাক সম্পর্কিত",
+                    "word_transliteration": "poshak shomporkkito",
+                    "example_sentence_translation": "তার পোশাকের পছন্দ সবসময় আধুনিক ছিল এবং প্রশংসিত ছিল।",
+                    "example_sentence_transliteration": "Tar poshakey pochondo shobshomoy adhunik chilo ebong proshongshito chilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pragmatic",
+            "phonetic": "præɡˈmætɪk",
+            "word_native_transliteration": {
+                "bn": "প্রাগম্যাটিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎯",
+            "meaning": "Dealing with things sensibly and realistically in a way that is based on practical rather than idealistic considerations.",
+            "example_sentence": "She took a pragmatic approach to problem-solving, focusing on feasible solutions.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি টুক এ প্রাগম্যাটিক অ্যাপ্রোচ টু প্রবলেম সলভিং, ফোকাসিং অন ফিজিবল সলিউশনস।"
+            },
+            "position": 11,
+            "synonyms": "practical, realistic",
+            "antonyms": "idealistic, impractical",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাস্তববাদী",
+                    "word_transliteration": "bastobabadi",
+                    "example_sentence_translation": "সে সমস্যা সমাধানে একটি বাস্তববাদী পদ্ধতি নিয়েছিল, বাস্তবসম্মত সমাধানগুলির প্রতি মনোযোগ কেন্দ্রীভূত করেছিল।",
+                    "example_sentence_transliteration": "She shomoshya shomadhane ekti bastobabadi poddhoti niyechilo, bastobshommoto shomadhangulir proti monojog kendribhuto korechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "aesthetic",
+            "phonetic": "æsˈθɛtɪk",
+            "word_native_transliteration": {
+                "bn": "অ্যাস্থেটিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎨",
+            "meaning": "Concerned with beauty or the appreciation of beauty.",
+            "example_sentence": "The aesthetic beauty of the landscape was breathtaking.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যাস্থেটিক বিউটি অব দ্য ল্যান্ডস্কেপ ওয়াজ ব্রেথটেকিং।"
+            },
+            "position": 12,
+            "synonyms": "artistic, beautiful",
+            "antonyms": "unattractive, plain",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সৌন্দর্য সম্পর্কিত",
+                    "word_transliteration": "soundhorryo shomporkkito",
+                    "example_sentence_translation": "প্রাকৃতিক দৃশ্যের সৌন্দর্য চমকপ্রদ ছিল।",
+                    "example_sentence_transliteration": "Prakritik drishyer soundhorryo chomokprod chilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cohesion",
+            "phonetic": "kəʊˈhiːʒən",
+            "word_native_transliteration": {
+                "bn": "কোহেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "The action or fact of forming a united whole.",
+            "example_sentence": "Team cohesion is essential for achieving success in any collaborative project.",
+            "example_sentence_native_transliteration": {
+                "bn": "টিম কোহেশন ইজ এসেনশিয়াল ফর অ্যাচিভিং সাক্সেস ইন এনি কোলাবোরেটিভ প্রজেক্ট।"
+            },
+            "position": 13,
+            "synonyms": "unity, solidarity",
+            "antonyms": "disunity, fragmentation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একতা",
+                    "word_transliteration": "ekota",
+                    "example_sentence_translation": "যেকোনো সহযোগিতামূলক প্রকল্পে সাফল্য অর্জনের জন্য দলগত সংহতি অপরিহার্য।",
+                    "example_sentence_transliteration": "Jekono shohojogitamulok prokolpe shafollo orjoner jonno dolgoto shonghoti oporoharjyo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "flair",
+            "phonetic": "flɛər",
+            "word_native_transliteration": {
+                "bn": "ফ্লেয়ার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⭐",
+            "meaning": "A natural ability to do something well.",
+            "example_sentence": "She has a flair for design, always creating visually stunning work.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি হ্যাজ এ ফ্লেয়ার ফর ডিজাইন, অলওয়েজ ক্রিয়েটিং ভিজুয়ালি স্টানিং ওয়ার্ক।"
+            },
+            "position": 14,
+            "synonyms": "talent, style",
+            "antonyms": "clumsiness, inelegance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিশেষ ক্ষমতা",
+                    "word_transliteration": "bishesh khomota",
+                    "example_sentence_translation": "তার ডিজাইনের প্রতি বিশেষ ক্ষমতা রয়েছে, সবসময় চমৎকারভাবে দৃশ্যমান কাজ তৈরি করে।",
+                    "example_sentence_transliteration": "Tar designey proti bishesh khomota royeche, shobshomoy chotkarabhabe drishyoman kaj toiri korey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "idiosyncratic",
+            "phonetic": "ˌɪdiəsɪnˈkrætɪk",
+            "word_native_transliteration": {
+                "bn": "আইডিওসিঙক্র্যাটিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎭",
+            "meaning": "Relating to idiosyncrasy; peculiar or individual.",
+            "example_sentence": "His idiosyncratic behavior set him apart from his colleagues.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ আইডিওসিঙক্র্যাটিক বিহেভিয়ার সেট হিম অ্যাপার্ট ফ্রম হিজ কলিগস।"
+            },
+            "position": 15,
+            "synonyms": "unique, eccentric",
+            "antonyms": "conventional, typical",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ব্যক্তিগত বৈশিষ্ট্য সম্পন্ন",
+                    "word_transliteration": "bekttigoto boishishtyo shompno",
+                    "example_sentence_translation": "তার অদ্ভুত আচরণ তাকে সহকর্মীদের থেকে আলাদা করে দিয়েছিল।",
+                    "example_sentence_transliteration": "Tar odbhut achron take shohokormider theke alada korey diyechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "investment",
+            "phonetic": "ɪnˈvɛstmənt",
+            "word_native_transliteration": {
+                "bn": "ইনভেস্টমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💰",
+            "meaning": "The action or process of investing money for profit or material result.",
+            "example_sentence": "The company is looking for investment opportunities in emerging markets.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি ইজ লুকিং ফর ইনভেস্টমেন্ট অপর্চুনিটিজ ইন ইমার্জিং মার্কেটস।"
+            },
+            "position": 16,
+            "synonyms": "capital, contribution",
+            "antonyms": "disinvestment, withdrawal",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিনিয়োগ",
+                    "word_transliteration": "biniyog",
+                    "example_sentence_translation": "কোম্পানি উদীয়মান বাজারগুলিতে বিনিয়োগের সুযোগ খুঁজছে।",
+                    "example_sentence_transliteration": "Company udiyoman bazargulitey biniyogey sujog khunjeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "resilience",
+            "phonetic": "rɪˈzɪlɪəns",
+            "word_native_transliteration": {
+                "bn": "রেজিলিয়েন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "The ability to recover quickly from difficulties; toughness.",
+            "example_sentence": "The resilience of the community was evident during the crisis.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রেজিলিয়েন্স অব দ্য কমিউনিটি ওয়াজ ইভিডেন্ট ডিউরিং দ্য ক্রাইসিস।"
+            },
+            "position": 17,
+            "synonyms": "toughness, durability",
+            "antonyms": "fragility, weakness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্থিতিস্থাপকতা",
+                    "word_transliteration": "stithisthapokta",
+                    "example_sentence_translation": "সংকটের সময় সম্প্রদায়ের স্থিতিস্থাপকতা স্পষ্ট ছিল।",
+                    "example_sentence_transliteration": "Shongoktey shomoy shomprodayey stithisthapokta sposhto chilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "inexhaustible",
+            "phonetic": "ɪnɪɡˈzɔːstɪbəl",
+            "word_native_transliteration": {
+                "bn": "ইনেক্সস্টিবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔋",
+            "meaning": "Unable to be used up or worn out; limitless.",
+            "example_sentence": "His inexhaustible energy allowed him to work tirelessly on his projects.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ইনেক্সস্টিবল এনার্জি অ্যালাউড হিম টু ওয়ার্ক টায়ারলেসলি অন হিজ প্রজেক্টস।"
+            },
+            "position": 18,
+            "synonyms": "unlimited, boundless",
+            "antonyms": "limited, exhaustible",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অশেষ",
+                    "word_transliteration": "oshesh",
+                    "example_sentence_translation": "তার অশেষ শক্তি তাকে তার প্রকল্পগুলিতে অবিরাম কাজ করতে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Tar oshesh shokti take tar prokolgulitey obiram kaj kortey shahajyo koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "exemplary",
+            "phonetic": "ɪɡˈzɛmpləri",
+            "word_native_transliteration": {
+                "bn": "এক্সেমপ্লারি"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌟",
+            "meaning": "Serving as a desirable model; representing the best of its kind.",
+            "example_sentence": "She was praised for her exemplary work ethic and dedication.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি ওয়াজ প্রেইজড ফর হার এক্সেমপ্লারি ওয়ার্ক এথিক অ্যান্ড ডেডিকেশন।"
+            },
+            "position": 19,
+            "synonyms": "model, perfect",
+            "antonyms": "deficient, substandard",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আদর্শ",
+                    "word_transliteration": "adorsho",
+                    "example_sentence_translation": "তার আদর্শ কাজের নীতি এবং নিবেদনের জন্য তাকে প্রশংসিত করা হয়েছিল।",
+                    "example_sentence_transliteration": "Tar adorsho kajey niti ebong nibednoy jonno take proshongshito kora hoyechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "opulence",
+            "phonetic": "ˈɒpjʊləns",
+            "word_native_transliteration": {
+                "bn": "অপুলেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👑",
+            "meaning": "Great wealth or luxuriousness.",
+            "example_sentence": "The opulence of the mansion was evident in its ornate furnishings.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অপুলেন্স অব দ্য ম্যানশন ওয়াজ ইভিডেন্ট ইন ইটস অর্নেট ফার্নিশিংস।"
+            },
+            "position": 20,
+            "synonyms": "luxury, wealth",
+            "antonyms": "poverty, deprivation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৈভব",
+                    "word_transliteration": "boibhob",
+                    "example_sentence_translation": "মঞ্জিলের বৈভব তার অলংকৃত আসবাবপত্রে স্পষ্ট ছিল।",
+                    "example_sentence_transliteration": "Monjiley boibhob tar olongkrito ashbabpotrey sposhto chilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ambience",
+            "phonetic": "ˈæmbɪəns",
+            "word_native_transliteration": {
+                "bn": "এমবিয়েন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌅",
+            "meaning": "The character and atmosphere of a place.",
+            "example_sentence": "The restaurant's ambience was relaxed and inviting, perfect for a casual dinner.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রেস্তোরাঁর এমবিয়েন্স ওয়াজ রিল্যাক্সড অ্যান্ড ইনভাইটিং, পারফেক্ট ফর এ ক্যাজুয়াল ডিনার।"
+            },
+            "position": 21,
+            "synonyms": "atmosphere, mood",
+            "antonyms": "dullness, tension",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিবেশ",
+                    "word_transliteration": "poribesh",
+                    "example_sentence_translation": "রেস্তোরাঁর পরিবেশ আরামদায়ক এবং আমন্ত্রণমূলক ছিল, একটি সাধারণ ডিনারের জন্য আদর্শ।",
+                    "example_sentence_transliteration": "Restorar poribesh aramadayok ebong amontronmulok chilo, ekti shadharon dinarey jonno adorsho.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

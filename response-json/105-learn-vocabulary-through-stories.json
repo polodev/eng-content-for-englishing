@@ -1,0 +1,364 @@
+{
+    "position": 105,
+    "title_translation": {
+        "en": "Famous Scientists and Their Discoveries",
+        "bn": "বিখ্যাত বিজ্ঞানী এবং তাদের আবিষ্কার"
+    },
+    "content_translation": {
+        "en": "Throughout the history of science, many **pioneering** scientists have made discoveries that have advanced human civilization. Isaac Newton's theory of gravity was an **axiomatic** truth that formed the foundation of physics. Albert Einstein's **ingenious** theory of relativity provided a new perspective on the universe. Through his research, scientists were able to **extrapolate** the dynamics of the universe.\n\nMarie Curie, who discovered **radioactivity**, left an **indelible** impact on medical and energy research. Her research **corroborated** that some basic elements can naturally decay.\n\nWhen Galileo Galilei observed space through a telescope, he created a **conundrum** - does the Earth revolve around the Sun? His research **annihilated** old concepts and **elucidated** new truths.\n\nScientists have **bequeathed** their research for future generations, so that new research and **coalesced** information can benefit humanity.",
+        "bn": "বিজ্ঞানের ইতিহাসে অনেক **pioneering** বিজ্ঞানী এমন কিছু আবিষ্কার করেছেন যা মানব সভ্যতাকে এগিয়ে নিয়ে গেছে। Isaac Newton এর মাধ্যাকর্ষণ তত্ত্ব ছিল এক **axiomatic** সত্য, যা পদার্থবিজ্ঞানের ভিত্তি তৈরি করেছে। Albert Einstein এর **ingenious** theory of relativity বিশ্ব সম্পর্কে নতুন দৃষ্টিভঙ্গি দিয়েছে। তার গবেষণার মাধ্যমে বিজ্ঞানীরা মহাবিশ্বের গতি-প্রকৃতি **extrapolate** করতে পেরেছেন।\n\nMarie Curie, যিনি **radioactivity** আবিষ্কার করেন, তার কাজ চিকিৎসা ও শক্তি গবেষণায় এক **indelible** প্রভাব ফেলেছে। তার গবেষণা **corroborate** করেছে যে, কিছু মৌলিক পদার্থ স্বাভাবিকভাবে বিকীর্ণ হতে পারে।\n\nGalileo Galilei যখন দূরদূবীক্ষণ দিয়ে মহাকাশ পর্যবেক্ষণ করেন, তখন তিনি এক **conundrum** সৃষ্টি করেন—পৃথিবী কি সূর্যের চারদিকে ঘোরে? তার গবেষণা পুরো ধারণাকে **annihilate** করে নতুন সত্য **elucidate** করে।\n\nবিজ্ঞানীরা তাদের গবেষণা ভবিষ্যৎ প্রজন্মের জন্য **bequeath** করেছেন, যাতে নতুন গবেষণা এবং **coalesce** হওয়া তথ্য মানুষের কল্যাণে কাজে আসে।"
+    },
+    "list": [
+        {
+            "word": "pioneering",
+            "phonetic": "ˌpaɪəˈnɪər.ɪŋ",
+            "word_native_transliteration": {
+                "bn": "পাইওনিয়ারিং"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🚀",
+            "meaning": "Being the first to develop or apply a new method, area of knowledge, or activity; innovative.",
+            "example_sentence": "Pioneering discoveries have changed science forever.",
+            "example_sentence_native_transliteration": {
+                "bn": "পাইওনিয়ারিং ডিসকাভারিজ হ্যাভ চেইঞ্জড সাইয়েন্স ফরএভার।"
+            },
+            "position": 1,
+            "synonyms": "innovative, groundbreaking, revolutionary",
+            "antonyms": "conventional, traditional, obsolete",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অগ্রগামী",
+                    "word_transliteration": "ogrogami",
+                    "example_sentence_translation": "পাইওনিয়ারিং আবিষ্কারগুলো বিজ্ঞানকে চিরতরে বদলে দিয়েছে।",
+                    "example_sentence_transliteration": "Pioneering abishkargulo bijganke chirotore bodle diyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "scientist",
+            "phonetic": "ˈsaɪən.tɪst",
+            "word_native_transliteration": {
+                "bn": "সায়েন্টিস্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔬",
+            "meaning": "A person who is studying or has expert knowledge of one or more of the natural or physical sciences.",
+            "example_sentence": "Marie Curie was a scientist who won two Nobel Prizes.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেরি কুরি ওয়াজ এ সায়েন্টিস্ট হু ওয়ন টু নোবেল প্রাইজেস।"
+            },
+            "position": 2,
+            "synonyms": "researcher, inventor, scholar",
+            "antonyms": "layman, amateur, non-expert",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিজ্ঞানী",
+                    "word_transliteration": "biggani",
+                    "example_sentence_translation": "মেরি কুরি এমন একজন সায়েন্টিস্ট যিনি দুইটি নোবেল পুরস্কার জিতেছিলেন।",
+                    "example_sentence_transliteration": "Marie Curie emon ekjon scientist jini duiti Nobel puroshkar jitechilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "axiomatic",
+            "phonetic": "ˌæk.si.əˈmæt.ɪk",
+            "word_native_transliteration": {
+                "bn": "অ্যাক্সিওম্যাটিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "✅",
+            "meaning": "Self-evidently true; obvious and requiring no proof.",
+            "example_sentence": "The idea that the Earth orbits the Sun is axiomatic.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য আইডিয়া দ্যাট দ্য আর্থ অরবিটস দ্য সান ইজ অ্যাক্সিওম্যাটিক।"
+            },
+            "position": 3,
+            "synonyms": "self-evident, undeniable, indisputable",
+            "antonyms": "questionable, debatable, uncertain",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বতঃসিদ্ধ",
+                    "word_transliteration": "shotoshiddho",
+                    "example_sentence_translation": "পৃথিবী সূর্যের চারপাশে ঘোরে—এই বিষয়টি অ্যাক্সিওম্যাটিক।",
+                    "example_sentence_transliteration": "Prithibi shurjer charpishe ghore—ei bishoyta axiomatic.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ingenious",
+            "phonetic": "ɪnˈdʒiː.ni.əs",
+            "word_native_transliteration": {
+                "bn": "ইঞ্জিনিয়াস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💡",
+            "meaning": "Showing inventiveness and skill; clever, original, and inventive.",
+            "example_sentence": "His ingenious ideas transformed modern physics.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ইঞ্জিনিয়াস আইডিয়াজ ট্রান্সফরমড মডার্ন ফিজিক্স।"
+            },
+            "position": 4,
+            "synonyms": "creative, clever, brilliant",
+            "antonyms": "unimaginative, uninventive, ordinary",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সৃজনশীল",
+                    "word_transliteration": "srijonshil",
+                    "example_sentence_translation": "তার ইঞ্জিনিয়াস আইডিয়াগুলো আধুনিক পদার্থবিজ্ঞানকে রূপান্তরিত করেছে।",
+                    "example_sentence_transliteration": "Tar ingenious idea gulo adhunik podarthobijganke rupantorito koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "extrapolate",
+            "phonetic": "ɪkˈstræp.ə.leɪt",
+            "word_native_transliteration": {
+                "bn": "এক্সট্রাপোলেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📈",
+            "meaning": "Extend the application of a method or conclusion to an unknown situation by assuming that existing trends will continue.",
+            "example_sentence": "Scientists extrapolate climate data to predict future trends.",
+            "example_sentence_native_transliteration": {
+                "bn": "সায়েন্টিস্টস এক্সট্রাপোলেট ক্লাইমেট ডেটা টু প্রিডিক্ট ফিউচার ট্রেন্ডস।"
+            },
+            "position": 5,
+            "synonyms": "infer, predict, estimate",
+            "antonyms": "misinterpret, miscalculate, distort",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পূর্বানুমান করা",
+                    "word_transliteration": "purbanuman kora",
+                    "example_sentence_translation": "বিজ্ঞানীরা ভবিষ্যৎ আবহাওয়ার পূর্বভাস দিতে এক্সট্রাপোলেট করেন।",
+                    "example_sentence_transliteration": "Bigganiira bhobishyot abohaowar purbhabash dite extrapolate koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "radioactivity",
+            "phonetic": "ˌreɪ.di.oʊ.ækˈtɪv.ə.ti",
+            "word_native_transliteration": {
+                "bn": "রেডিওঅ্যাকটিভিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "☢️",
+            "meaning": "The emission of ionizing radiation or particles caused by the spontaneous disintegration of atomic nuclei.",
+            "example_sentence": "Radioactivity is used in medical treatments like cancer therapy.",
+            "example_sentence_native_transliteration": {
+                "bn": "রেডিওঅ্যাকটিভিটি ইজ ইউজড ইন মেডিক্যাল ট্রিটমেন্টস লাইক ক্যান্সার থেরাপি।"
+            },
+            "position": 6,
+            "synonyms": "radiation, emission, nuclear decay",
+            "antonyms": "stability, inertness, non-reactivity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "তেজস্ক্রিয়তা",
+                    "word_transliteration": "tejoshkriyota",
+                    "example_sentence_translation": "রেডিওঅ্যাকটিভিটি ক্যান্সার চিকিৎসার মতো চিকিৎসা পদ্ধতিতে ব্যবহৃত হয়।",
+                    "example_sentence_transliteration": "Radioactivity cancer chikitshar moto chikitsa poddhoti te bybohruto hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "indelible",
+            "phonetic": "ɪnˈdel.ə.bəl",
+            "word_native_transliteration": {
+                "bn": "ইনডেলিবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🖊️",
+            "meaning": "Making marks that cannot be removed; impossible to forget or remove.",
+            "example_sentence": "Her speech left an indelible mark on the audience.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার স্পিচ লেফট অ্যান ইনডেলিবল মার্ক অন দ্য অডিয়েন্স।"
+            },
+            "position": 7,
+            "synonyms": "permanent, unforgettable, irremovable",
+            "antonyms": "temporary, erasable, fleeting",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অমোচনীয়",
+                    "word_transliteration": "omochoniyo",
+                    "example_sentence_translation": "তার বক্তব্য শ্রোতাদের মনে ইনডেলিবল প্রভাব ফেলেছে।",
+                    "example_sentence_transliteration": "Tar boktobyo shrotader mone indelible probhab feleche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "corroborate",
+            "phonetic": "kəˈrɒb.ə.reɪt",
+            "word_native_transliteration": {
+                "bn": "করবরেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "✔️",
+            "meaning": "Confirm or give support to a statement, theory, or finding.",
+            "example_sentence": "The witness corroborated the defendant's testimony.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য উইটনেস করবরেটেড দ্য ডিফেন্ডেন্টস টেস্টিমনি।"
+            },
+            "position": 8,
+            "synonyms": "confirm, validate, authenticate",
+            "antonyms": "contradict, refute, disprove",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিশ্চিত করা",
+                    "word_transliteration": "nishchito kora",
+                    "example_sentence_translation": "সাক্ষী অভিযুক্তের বক্তব্য করবরেট করেছেন।",
+                    "example_sentence_transliteration": "Shakshi obhijukter boktobyo corroborate korechen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "conundrum",
+            "phonetic": "kəˈnʌn.drəm",
+            "word_native_transliteration": {
+                "bn": "কানানড্রাম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤔",
+            "meaning": "A confusing and difficult problem or question; a riddle whose answer is or involves a pun.",
+            "example_sentence": "Scientists face the conundrum of finding clean energy sources.",
+            "example_sentence_native_transliteration": {
+                "bn": "সায়েন্টিস্টস ফেস দ্য কানানড্রাম অফ ফাইন্ডিং ক্লিন এনার্জি সোর্সেস।"
+            },
+            "position": 9,
+            "synonyms": "puzzle, enigma, dilemma",
+            "antonyms": "solution, answer, clarity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ধাঁধা",
+                    "word_transliteration": "dhadha",
+                    "example_sentence_translation": "বিজ্ঞানীরা নবায়নযোগ্য শক্তির উৎস খুঁজতে কানানড্রামের সম্মুখীন হন।",
+                    "example_sentence_transliteration": "Bigganiira nobayonjoggo shoktir utosh khujte conundrum er sommukhin hon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "annihilate",
+            "phonetic": "əˈnaɪ.ə.leɪt",
+            "word_native_transliteration": {
+                "bn": "অ্যানাইহিলেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "💥",
+            "meaning": "Destroy utterly; obliterate; reduce to nothing.",
+            "example_sentence": "The explosion annihilated the entire village.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এক্সপ্লোশন অ্যানাইহিলেটেড দ্য এনটায়ার ভিলেজ।"
+            },
+            "position": 10,
+            "synonyms": "destroy, obliterate, eradicate",
+            "antonyms": "preserve, protect, safeguard",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ধ্বংস করা",
+                    "word_transliteration": "dhongso kora",
+                    "example_sentence_translation": "বিস্ফোরণটি পুরো গ্রামকে অ্যানাইহিলেট করে দিল।",
+                    "example_sentence_transliteration": "Bishforonti puro gramke annihilate kore dilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "elucidate",
+            "phonetic": "ɪˈluː.sɪ.deɪt",
+            "word_native_transliteration": {
+                "bn": "ইলুসিডেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "💡",
+            "meaning": "Make something clear; explain in detail.",
+            "example_sentence": "The professor elucidated the complex physics theory.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রফেসর ইলুসিডেটেড দ্য কমপ্লেক্স ফিজিক্স থিওরি।"
+            },
+            "position": 11,
+            "synonyms": "explain, clarify, illuminate",
+            "antonyms": "obscure, confuse, muddle",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ব্যাখ্যা করা",
+                    "word_transliteration": "byakhya kora",
+                    "example_sentence_translation": "অধ্যাপক জটিল পদার্থবিজ্ঞানের তত্ত্ব ইলুসিডেট করলেন।",
+                    "example_sentence_transliteration": "Odhyapok jotil podarthobigganer tottho elucidate korlen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "bequeath",
+            "phonetic": "bɪˈkwiːð",
+            "word_native_transliteration": {
+                "bn": "বিকুইথ"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🎁",
+            "meaning": "Leave something to someone in a will; pass down or hand down to the next generation.",
+            "example_sentence": "The scientist bequeathed his research papers to the university.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সায়েন্টিস্ট বিকুইদড হিজ রিসার্চ পেপারস টু দ্য ইউনিভার্সিটি।"
+            },
+            "position": 12,
+            "synonyms": "bestow, pass down, will",
+            "antonyms": "withhold, retain, keep",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উত্তরাধিকারসূত্রে দেওয়া",
+                    "word_transliteration": "uttaradhikarshutre deowa",
+                    "example_sentence_translation": "বিজ্ঞানী তার গবেষণা পত্র বিশ্ববিদ্যালয়ের জন্য বিকুইথ করে গেছেন।",
+                    "example_sentence_transliteration": "Biggani tar gobeshona potro bishbobidyaloyer jonno bequeath kore gechen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "coalesce",
+            "phonetic": "ˌkəʊ.əˈles",
+            "word_native_transliteration": {
+                "bn": "কোঅ্যালেস"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🤝",
+            "meaning": "Come together and form one mass or whole; unite to form one organization or group.",
+            "example_sentence": "The different theories coalesced into one unified idea.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডিফারেন্ট থিওরিজ কোঅ্যালেসড ইনটু ওয়ান ইউনিফাইড আইডিয়া।"
+            },
+            "position": 13,
+            "synonyms": "merge, unite, fuse",
+            "antonyms": "separate, divide, disperse",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একত্রিত হওয়া",
+                    "word_transliteration": "ektrito howa",
+                    "example_sentence_translation": "বিভিন্ন তত্ত্ব একত্রিত হয়ে একটি কোঅ্যালেসড ধারণায় পরিণত হলো।",
+                    "example_sentence_transliteration": "Bibhinno tottho ektrito hoye ekti coalesced dharonay porinoto holo.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

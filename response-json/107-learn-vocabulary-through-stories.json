@@ -1,0 +1,580 @@
+{
+    "position": 107,
+    "title_translation": {
+        "en": "Future Trends in Digital Economies",
+        "bn": "ডিজিটাল অর্থনীতির ভবিষ্যৎ"
+    },
+    "content_translation": {
+        "en": "The future of digital economy will be driven by **futuristic** and **revolutionary** technology, where **blockchain** and **cryptocurrency** will work as **catalyst**. The **convergence** of these technologies will create new business opportunities, and **synergy** working together will unlock new possibilities.\n\nDigital platforms will become **ubiquitous**, facilitating economic flow through **interconnectivity** and **streamlining**. However, as a result of **divergence** and **saturation**, more **technological** knowledge will be required for new concepts and markets.\n\n**Resilience** and **adaptability** are very important because the rapid **proliferation** of digital economy will continue. Through new methods, proper use of **sophistication** and **pervasive** technology will **transcend** economic changes.\n\nThus, digital economy will not only change the current business situation, but will lead us towards a **multifaceted** development.",
+        "bn": "ডিজিটাল অর্থনীতির ভবিষ্যৎ **futuristic** এবং **revolutionary** প্রযুক্তি দ্বারা চালিত হবে, যেখানে **blockchain** এবং **cryptocurrency** **catalyst** হিসেবে কাজ করবে। এই প্রযুক্তিগুলোর **convergence** ব্যবসার নতুন সুযোগ তৈরি করবে, এবং **synergy** একত্রে কাজ করার মাধ্যমে নতুন সম্ভাবনার উন্মোচন করবে।\n\nডিজিটাল প্ল্যাটফর্মগুলো **ubiquitous** হয়ে উঠবে, যা **interconnectivity** এবং **streamlining** এর মাধ্যমে অর্থনৈতিক প্রবাহকে সহজতর করবে। তবে, **divergence** এবং **saturation** এর ফলে নতুন ধারণা এবং বাজারের জন্য আরও বেশি **technological** জ্ঞান প্রয়োজন হবে।\n\n**Resilience** এবং **adaptability** থাকা খুবই গুরুত্বপূর্ণ, কারণ ডিজিটাল অর্থনীতির দ্রুত **proliferation** অব্যাহত থাকবে। নতুন পদ্ধতির মাধ্যমে **sophistication** এবং **pervasive** প্রযুক্তির সঠিক ব্যবহারে অর্থনৈতিক পরিবর্তনগুলো **transcend** করবে।\n\nএভাবে, ডিজিটাল অর্থনীতি শুধুমাত্র বর্তমান ব্যবসার অবস্থা পরিবর্তন করবে না, বরং একটি **multifaceted** উন্নতির দিকে আমাদের পরিচালিত করবে।"
+    },
+    "list": [
+        {
+            "word": "futuristic",
+            "phonetic": "/ˌfjuːtʃəˈrɪstɪk/",
+            "word_native_transliteration": {
+                "bn": "ফিউচারিস্টিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🚀",
+            "meaning": "Having or involving very modern technology or design that is advanced beyond what is currently available",
+            "example_sentence": "Futuristic technologies are transforming industries worldwide.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফিউচারিস্টিক টেকনোলজিজ আর ট্রানসফর্মিং ইন্ডাস্ট্রিজ ওয়ার্ল্ডওয়াইড।"
+            },
+            "position": 1,
+            "synonyms": "forward-looking, cutting-edge, advanced, modern, innovative, progressive",
+            "antonyms": "outdated, old-fashioned, traditional, primitive, backward, antiquated",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভবিষ্যতবাদী",
+                    "word_transliteration": "bhobishyotobadi",
+                    "example_sentence_translation": "ভবিষ্যতবাদী প্রযুক্তিগুলি বিশ্বব্যাপী শিল্পগুলোকে রূপান্তরিত করছে।",
+                    "example_sentence_transliteration": "Bhobishyotobadi proyuktiguli bishwobbyapi shilpoguloke rupantoritο korche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "revolutionary",
+            "phonetic": "/ˌrɛvəˈluːʃəneri/",
+            "word_native_transliteration": {
+                "bn": "রেভলিউশনারি"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💫",
+            "meaning": "Involving or causing a complete or dramatic change",
+            "example_sentence": "Revolutionary advancements in AI are shaping the future.",
+            "example_sentence_native_transliteration": {
+                "bn": "রেভলিউশনারি অ্যাডভান্সমেন্টস ইন এআই আর শেপিং দ্য ফিউচার।"
+            },
+            "position": 2,
+            "synonyms": "groundbreaking, innovative, radical, transformative, pioneering, game-changing",
+            "antonyms": "conventional, traditional, conservative, orthodox, standard, ordinary",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিপ্লবী",
+                    "word_transliteration": "biplobī",
+                    "example_sentence_translation": "এআই-এ বিপ্লবী অগ্রগতি ভবিষ্যৎ গঠন করছে।",
+                    "example_sentence_transliteration": "AI-e biplobī ogrοgοti bhobishyot gothon korche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "technology",
+            "phonetic": "/tɛkˈnɒlədʒi/",
+            "word_native_transliteration": {
+                "bn": "টেকনোলজি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💻",
+            "meaning": "The application of scientific knowledge for practical purposes, especially in industry",
+            "example_sentence": "Technology plays a crucial role in modernizing industries.",
+            "example_sentence_native_transliteration": {
+                "bn": "টেকনোলজি প্লেজ এ ক্রুশিয়াল রোল ইন মর্ডানাইজিং ইন্ডাস্ট্রিজ।"
+            },
+            "position": 3,
+            "synonyms": "engineering, innovation, science, advancement, system, technique",
+            "antonyms": "obsolescence, antiquity, primitiveness, backwardness, tradition, manual",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রযুক্তি",
+                    "word_transliteration": "proyukti",
+                    "example_sentence_translation": "প্রযুক্তি আধুনিকায়নকারী শিল্পে একটি গুরুত্বপূর্ণ ভূমিকা পালন করে।",
+                    "example_sentence_transliteration": "Proyukti adhunikayn kari shilpe ekti gurutbopurn bhumika palon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "blockchain",
+            "phonetic": "/ˈblɒkˌtʃeɪn/",
+            "word_native_transliteration": {
+                "bn": "ব্লকচেইন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⛓️",
+            "meaning": "A system of recording information in a way that makes it difficult or impossible to change, hack, or cheat the system",
+            "example_sentence": "Blockchain technology ensures transparency in financial transactions.",
+            "example_sentence_native_transliteration": {
+                "bn": "ব্লকচেইন টেকনোলজি এনশিওরস ট্রানস্পারেন্সি ইন ফিনান্সিয়াল ট্রানজেকশনস।"
+            },
+            "position": 4,
+            "synonyms": "distributed ledger, decentralized database, digital ledger, chain network",
+            "antonyms": "centralized system, closed system, traditional database, single-source",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ব্লকচেইন",
+                    "word_transliteration": "blοkchain",
+                    "example_sentence_translation": "ব্লকচেইন প্রযুক্তি আর্থিক লেনদেনে স্বচ্ছতা নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Blοkchain proyukti arthik lendene shocchota nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cryptocurrency",
+            "phonetic": "/ˌkrɪptəˈkʌrənsɪ/",
+            "word_native_transliteration": {
+                "bn": "ক্রিপ্টোকারেন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "₿",
+            "meaning": "A digital currency in which transactions are verified and records maintained by a decentralized system",
+            "example_sentence": "Cryptocurrencies are revolutionizing the financial landscape.",
+            "example_sentence_native_transliteration": {
+                "bn": "ক্রিপ্টোকারেন্সিজ আর রেভলিউশনাইজিং দ্য ফিনান্সিয়াল ল্যান্ডস্কেপ।"
+            },
+            "position": 5,
+            "synonyms": "digital currency, virtual money, crypto, digital asset, blockchain currency",
+            "antonyms": "traditional currency, fiat money, physical currency, conventional money",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ডিজিটাল মুদ্রা",
+                    "word_transliteration": "digital mudra",
+                    "example_sentence_translation": "ক্রিপ্টোকারেন্সি আর্থিক পরিমণ্ডলকে বিপ্লবিত করছে।",
+                    "example_sentence_transliteration": "Cryptocurrency arthik porimondolke biplobito korche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "catalyst",
+            "phonetic": "/ˈkætəlɪst/",
+            "word_native_transliteration": {
+                "bn": "ক্যাটালিস্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚗️",
+            "meaning": "A person or thing that precipitates an event or change",
+            "example_sentence": "The new policy acted as a catalyst for economic growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিউ পলিসি অ্যাক্টেড অ্যাজ এ ক্যাটালিস্ট ফর ইকোনমিক গ্রোথ।"
+            },
+            "position": 6,
+            "synonyms": "stimulus, trigger, accelerator, promoter, activator, facilitator",
+            "antonyms": "hindrance, obstacle, barrier, impediment, deterrent, inhibitor",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উত্তেজক",
+                    "word_transliteration": "uttejok",
+                    "example_sentence_translation": "নতুন নীতি আর্থিক প্রবৃদ্ধির জন্য একটি উত্তেজক হিসেবে কাজ করেছে।",
+                    "example_sentence_transliteration": "Notun niti arthik probriddhi r jonno ekti uttejok hisebe kaj koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "convergence",
+            "phonetic": "/kənˈvɜːdʒəns/",
+            "word_native_transliteration": {
+                "bn": "কনভার্জেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The process or state of converging; a coming together from different directions",
+            "example_sentence": "The convergence of new technologies is shaping the future of business.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কনভার্জেন্স অব নিউ টেকনোলজিজ ইজ শেপিং দ্য ফিউচার অব বিজনেস।"
+            },
+            "position": 7,
+            "synonyms": "unification, merging, integration, coalescence, confluence, synthesis",
+            "antonyms": "divergence, separation, division, dispersal, split, diverging",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একীকরণ",
+                    "word_transliteration": "ekikoron",
+                    "example_sentence_translation": "নতুন প্রযুক্তির একীকরণ ব্যবসার ভবিষ্যৎ গঠন করছে।",
+                    "example_sentence_transliteration": "Notun proyukti r ekikoron byobshar bhobishyot gothon korche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "synergy",
+            "phonetic": "/ˈsɪnədʒi/",
+            "word_native_transliteration": {
+                "bn": "সিনার্জি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "The interaction or cooperation of two or more organizations, substances, or other agents to produce a combined effect greater than the sum of their separate effects",
+            "example_sentence": "Synergy between departments enhances organizational efficiency.",
+            "example_sentence_native_transliteration": {
+                "bn": "সিনার্জি বিটুইন ডিপার্টমেন্টস এনহান্সেস অর্গানাইজেশনাল এফিশিয়েন্সি।"
+            },
+            "position": 8,
+            "synonyms": "collaboration, cooperation, teamwork, partnership, unity, coordination",
+            "antonyms": "disconnection, conflict, discord, opposition, competition, antagonism",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহযোগিতা",
+                    "word_transliteration": "shohojogita",
+                    "example_sentence_translation": "বিভাগগুলোর মধ্যে সহযোগিতা সাংগঠনিক দক্ষতা বৃদ্ধি করে।",
+                    "example_sentence_transliteration": "Bিbhaggulor modhye shohojogita shorganik dokkhota briddhi kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "interconnectivity",
+            "phonetic": "/ˌɪntəkəˈnɛktɪvɪti/",
+            "word_native_transliteration": {
+                "bn": "ইন্টারকনেকটিভিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌐",
+            "meaning": "The state of being interconnected or the degree of connectivity between components",
+            "example_sentence": "The rise of interconnectivity has transformed global communication.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রাইজ অব ইন্টারকনেকটিভিটি হ্যাজ ট্রানসফর্মড গ্লোবাল কমিউনিকেশন।"
+            },
+            "position": 9,
+            "synonyms": "connectivity, linkage, networking, integration, connection, interdependence",
+            "antonyms": "isolation, disconnection, separation, independence, autonomy, segregation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আন্তঃসংযোগ",
+                    "word_transliteration": "antahshongjog",
+                    "example_sentence_translation": "আন্তঃসংযোগের উত্থান বৈশ্বিক যোগাযোগকে রূপান্তরিত করেছে।",
+                    "example_sentence_transliteration": "Antahshongjoger utthan boishwik jogajogke rupantorito koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "streamlining",
+            "phonetic": "/ˈstriːmlaɪnɪŋ/",
+            "word_native_transliteration": {
+                "bn": "স্ট্রিমলাইনিং"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⚡",
+            "meaning": "The process of making an organization or system more efficient by simplifying or eliminating unnecessary steps",
+            "example_sentence": "Streamlining processes can significantly reduce operational costs.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্ট্রিমলাইনিং প্রসেসেস ক্যান সিগনিফিক্যান্টলি রিডিউস অপারেশনাল কস্টস।"
+            },
+            "position": 10,
+            "synonyms": "simplify, rationalize, optimize, modernize, improve, refine",
+            "antonyms": "complicate, overwhelm, burden, encumber, obstruct, hinder",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সরলীকরণ",
+                    "word_transliteration": "shorolikoron",
+                    "example_sentence_translation": "প্রক্রিয়াগুলিকে সরলীকরণ করা কার্যকরী খরচ উল্লেখযোগ্যভাবে কমাতে পারে।",
+                    "example_sentence_transliteration": "Prokriyagul ke shorolikoron kora karyokori khoroch ullekhjoggobjhabe kamate pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "divergence",
+            "phonetic": "/daɪˈvɜːdʒəns/",
+            "word_native_transliteration": {
+                "bn": "ডাইভার্জেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "↗️",
+            "meaning": "The process or state of diverging; a difference or disagreement",
+            "example_sentence": "Divergence of opinions led to intense debate.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডাইভার্জেন্স অব অপিনিয়নস লেড টু ইন্টেন্স ডিবেট।"
+            },
+            "position": 11,
+            "synonyms": "difference, variation, deviation, disagreement, discord, disparity",
+            "antonyms": "convergence, similarity, agreement, unity, consensus, harmony",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিচ্যুতি",
+                    "word_transliteration": "bichhyuti",
+                    "example_sentence_translation": "মতভেদের বিচ্যুতি তীব্র বিতর্কের সৃষ্টি করেছে।",
+                    "example_sentence_transliteration": "Motobheder bichhyuti tibro bitorker srishti koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "saturation",
+            "phonetic": "/ˌsætʃəˈreɪʃən/",
+            "word_native_transliteration": {
+                "bn": "স্যাচুরেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💧",
+            "meaning": "The state or process that occurs when no more of something can be absorbed, combined with, or added",
+            "example_sentence": "Market saturation limits the potential for growth in certain industries.",
+            "example_sentence_native_transliteration": {
+                "bn": "মার্কেট স্যাচুরেশন লিমিটস দ্য পটেনশিয়াল ফর গ্রোথ ইন সার্টেইন ইন্ডাস্ট্রিজ।"
+            },
+            "position": 12,
+            "synonyms": "fullness, completion, maximum, peak, limit, capacity",
+            "antonyms": "depletion, emptiness, shortage, scarcity, deficiency, void",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পূর্ণতা",
+                    "word_transliteration": "purnota",
+                    "example_sentence_translation": "বাজারের পূর্ণতা কিছু শিল্পে বৃদ্ধির সম্ভাবনা সীমিত করে।",
+                    "example_sentence_transliteration": "Bajarer purnota kichhu shilpe bruddhir shombhabona shimito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "technological",
+            "phonetic": "/ˌtɛknəˈlɒdʒɪkəl/",
+            "word_native_transliteration": {
+                "bn": "টেকনোলজিক্যাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔬",
+            "meaning": "Relating to or involving technology",
+            "example_sentence": "Technological advancements have revolutionized communication.",
+            "example_sentence_native_transliteration": {
+                "bn": "টেকনোলজিক্যাল অ্যাডভান্সমেন্টস হ্যাভ রেভলিউশনাইজড কমিউনিকেশন।"
+            },
+            "position": 13,
+            "synonyms": "scientific, engineering, technical, advanced, modern, digital",
+            "antonyms": "non-technical, manual, primitive, analog, traditional, basic",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রযুক্তিগত",
+                    "word_transliteration": "proyuktigoto",
+                    "example_sentence_translation": "প্রযুক্তিগত অগ্রগতি যোগাযোগে বিপ্লব ঘটিয়েছে।",
+                    "example_sentence_transliteration": "Proyuktigoto ogrogoti jogajoge biplob ghatiyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "knowledge",
+            "phonetic": "/ˈnɒlɪdʒ/",
+            "word_native_transliteration": {
+                "bn": "নলেজ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧠",
+            "meaning": "Facts, information, and skills acquired through experience or education",
+            "example_sentence": "Knowledge of the market is essential for business success.",
+            "example_sentence_native_transliteration": {
+                "bn": "নলেজ অব দ্য মার্কেট ইজ এসেনশিয়াল ফর বিজনেস সাকসেস।"
+            },
+            "position": 14,
+            "synonyms": "wisdom, understanding, information, learning, expertise, awareness",
+            "antonyms": "ignorance, unawareness, confusion, misunderstanding, stupidity, illiteracy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জ্ঞান",
+                    "word_transliteration": "gyan",
+                    "example_sentence_translation": "বাজারের জ্ঞান ব্যবসায়িক সফলতার জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Bajarer gyan byobshayik shofolotar jonno oporiharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "resilience",
+            "phonetic": "/rɪˈzɪlɪəns/",
+            "word_native_transliteration": {
+                "bn": "রেজিলিয়েন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "The ability to recover quickly from difficulties; mental or emotional strength in facing adversity",
+            "example_sentence": "Resilience is a key trait in overcoming setbacks.",
+            "example_sentence_native_transliteration": {
+                "bn": "রেজিলিয়েন্স ইজ এ কি ট্রেইট ইন ওভারকামিং সেটব্যাকস।"
+            },
+            "position": 15,
+            "synonyms": "toughness, endurance, strength, fortitude, perseverance, durability",
+            "antonyms": "fragility, weakness, vulnerability, brittleness, delicacy, frailty",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্থিতিস্থাপকতা",
+                    "word_transliteration": "stithisthapokota",
+                    "example_sentence_translation": "স্থিতিস্থাপকতা হলো বিপত্তি কাটিয়ে ওঠার জন্য একটি প্রধান গুণ।",
+                    "example_sentence_transliteration": "Stithisthapokota holo bipotti katiey othar jonno ekti prodhan gun.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "adaptability",
+            "phonetic": "/əˌdæptəˈbɪləti/",
+            "word_native_transliteration": {
+                "bn": "অ্যাডাপটেবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The quality of being able to adjust to new conditions or circumstances",
+            "example_sentence": "Adaptability to changing environments is crucial in business.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাডাপটেবিলিটি টু চেঞ্জিং এনভায়রনমেন্টস ইজ ক্রুশিয়াল ইন বিজনেস।"
+            },
+            "position": 16,
+            "synonyms": "flexibility, versatility, adjustability, responsiveness, malleability, plasticity",
+            "antonyms": "rigidity, inflexibility, stubbornness, immobility, fixedness, obstinacy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অভিযোজনক্ষমতা",
+                    "word_transliteration": "abhijojOn kshamota",
+                    "example_sentence_translation": "পরিবর্তনশীল পরিবেশের সঙ্গে অভিযোজনক্ষমতা ব্যবসায়ে অপরিহার্য।",
+                    "example_sentence_transliteration": "Poribortoshil poriber shonge abhijojon kshomota byobshaye oporiharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "proliferation",
+            "phonetic": "/prəˌlɪfəˈreɪʃən/",
+            "word_native_transliteration": {
+                "bn": "প্রোলিফারেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "Rapid increase in the number or amount of something",
+            "example_sentence": "The proliferation of digital technology has transformed industries.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রোলিফারেশন অব ডিজিটাল টেকনোলজি হ্যাজ ট্রানসফর্মড ইন্ডাস্ট্রিজ।"
+            },
+            "position": 17,
+            "synonyms": "expansion, increase, growth, spread, multiplication, escalation",
+            "antonyms": "decline, reduction, decrease, contraction, diminishment, shrinkage",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিস্তার",
+                    "word_transliteration": "bishar",
+                    "example_sentence_translation": "ডিজিটাল প্রযুক্তির বিস্তার শিল্পগুলোকে রূপান্তরিত করেছে।",
+                    "example_sentence_transliteration": "Digital proyuktir bishar shilpoguloke rupantorito koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sophistication",
+            "phonetic": "/səˌfɪstɪˈkeɪʃən/",
+            "word_native_transliteration": {
+                "bn": "সোফিস্টিকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎩",
+            "meaning": "The quality of being sophisticated; great knowledge or experience",
+            "example_sentence": "The sophistication of modern technology offers numerous benefits.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সোফিস্টিকেশন অব মডার্ন টেকনোলজি অফার্স নিউমেরাস বেনিফিটস।"
+            },
+            "position": 18,
+            "synonyms": "refinement, elegance, complexity, advancement, polish, cultivation",
+            "antonyms": "simplicity, crudeness, naivety, primitiveness, roughness, artlessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জটিলতা",
+                    "word_transliteration": "jotilota",
+                    "example_sentence_translation": "আধুনিক প্রযুক্তির পরিশীলিততা অনেক সুবিধা প্রদান করে।",
+                    "example_sentence_transliteration": "Adhunik proyuktir porishilitota onek shubidha prodan kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pervasive",
+            "phonetic": "/pərˈveɪsɪv/",
+            "word_native_transliteration": {
+                "bn": "পারভেইসিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌊",
+            "meaning": "Existing in or spreading through every part of something",
+            "example_sentence": "Pervasive technology has become a fundamental part of daily life.",
+            "example_sentence_native_transliteration": {
+                "bn": "পারভেইসিভ টেকনোলজি হ্যাজ বিকাম এ ফান্ডামেন্টাল পার্ট অব ডেইলি লাইফ।"
+            },
+            "position": 19,
+            "synonyms": "widespread, universal, omnipresent, prevalent, extensive, comprehensive",
+            "antonyms": "limited, restricted, confined, localized, narrow, specific",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সর্বব্যাপী",
+                    "word_transliteration": "shorbobyapi",
+                    "example_sentence_translation": "সর্বব্যাপী প্রযুক্তি দৈনন্দিন জীবনের একটি মৌলিক অংশ হয়ে উঠেছে।",
+                    "example_sentence_transliteration": "Shorbobyapi proyukti doinondin jiboner ekti moulik ongsho hoye utheche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "transcend",
+            "phonetic": "/trænˈsɛnd/",
+            "word_native_transliteration": {
+                "bn": "ট্রানসেন্ড"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🚀",
+            "meaning": "To go beyond the range or limits of something",
+            "example_sentence": "True success transcends personal gain and contributes to the greater good.",
+            "example_sentence_native_transliteration": {
+                "bn": "ট্রু সাকসেস ট্রানসেন্ডস পার্সোনাল গেইন অ্যান্ড কন্ট্রিবিউটস টু দ্য গ্রেটার গুড।"
+            },
+            "position": 20,
+            "synonyms": "surpass, exceed, overcome, rise above, go beyond, outstrip",
+            "antonyms": "languish, fail, fall short, succumb, remain within, stay below",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতীত করা",
+                    "word_transliteration": "atit kora",
+                    "example_sentence_translation": "সত্যিকারের সফলতা ব্যক্তিগত লাভের চেয়ে অনেক উপরে উঠে বৃহত্তর কল্যাণে অবদান রাখে।",
+                    "example_sentence_transliteration": "Shottikarrer shofolota byoktigoto laber cheye onek upore uthe brihotto koljaner obdan rakhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "multifaceted",
+            "phonetic": "/ˌmʌltɪˈfæsɪtɪd/",
+            "word_native_transliteration": {
+                "bn": "মাল্টিফ্যাসেটেড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💎",
+            "meaning": "Having many different aspects or features",
+            "example_sentence": "The multifaceted approach to the problem resulted in innovative solutions.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য মাল্টিফ্যাসেটেড অ্যাপ্রোচ টু দ্য প্রবলেম রেজাল্টেড ইন ইনোভেটিভ সলিউশনস।"
+            },
+            "position": 21,
+            "synonyms": "complex, varied, diverse, comprehensive, versatile, multiple",
+            "antonyms": "simple, one-dimensional, uniform, basic, straightforward, singular",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বহুস্তরীয়",
+                    "word_transliteration": "bohustoriyo",
+                    "example_sentence_translation": "সমস্যাটির বহুমুখী পদ্ধতি উদ্ভাবনী সমাধান এনেদিয়েছে।",
+                    "example_sentence_transliteration": "Shomoshhyatir bohomukhi poddhoti udddhaboni shomadhan enediyeche.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

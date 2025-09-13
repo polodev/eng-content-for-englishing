@@ -1,0 +1,553 @@
+{
+    "position": 102,
+    "title_translation": {
+        "en": "Essential Life Skills for Success",
+        "bn": "সফলতার জন্য প্রয়োজনীয় জীবন দক্ষতা"
+    },
+    "content_translation": {
+        "en": "To succeed in life, it is extremely important to acquire some **essential life skills**. Being **adept** means not only acquiring skills but also increasing the **efficacy** of applying them. To face tough **adversity**, it is necessary to have **resilience** and **fortitude**. A **judicious** perspective is needed to make the right decisions, which is developed through **cognition** and **metacognition**. **Pragmatic** thinking helps us find practical solutions. When a person shows **tenacity** and **perseverance**, they can overcome any obstacle. Long-term success is not possible without **diligence** and **self-reliance**. **Ingenuity** is needed for creative thinking, which increases our **versatility**. Being **sagacious** means not only gaining experience but also applying it with **proficiency**. Therefore, if you have **dexterity**, **conscientiousness**, and the ability to deal with **ambiguity**, you can achieve true success in life.",
+        "bn": "জীবনে সফল হওয়ার জন্য কিছু **essential life skills** অর্জন করা অত্যন্ত গুরুত্বপূর্ণ। **Adept** হওয়া মানে শুধু দক্ষতা অর্জন নয়, বরং তা প্রয়োগ করার **efficacy** বাড়ানো। কঠিন **adversity** মোকাবিলা করার জন্য **resilience** এবং **fortitude** থাকা জরুরি। সঠিক সিদ্ধান্ত নিতে **judicious** দৃষ্টিভঙ্গি প্রয়োজন, যা **cognition** এবং **metacognition** দ্বারা বিকশিত হয়। **Pragmatic** চিন্তাভাবনা আমাদের বাস্তবিক সমাধান খুঁজতে সাহায্য করে। একজন ব্যক্তি যখন **tenacity** এবং **perseverance** দেখায়, তখন সে যেকোনো বাধা জয় করতে পারে। **Diligence** ও **self-reliance** ছাড়া দীর্ঘমেয়াদী সফলতা সম্ভব নয়। উদ্ভাবনী চিন্তার জন্য **ingenuity** প্রয়োজন, যা আমাদের **versatility** বাড়িয়ে দেয়। **Sagacious** হওয়া মানে শুধু অভিজ্ঞতা অর্জন নয়, বরং তা **proficiency** দিয়ে প্রয়োগ করা। সুতরাং, **dexterity**, **conscientiousness**, এবং **ambiguity** মোকাবিলার দক্ষতা থাকলে, জীবনে সত্যিকারের সফলতা অর্জন সম্ভব।"
+    },
+    "list": [
+        {
+            "word": "adept",
+            "phonetic": "əˈdɛpt",
+            "word_native_transliteration": {
+                "bn": "এডেপ্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🏆",
+            "meaning": "Having a natural ability or skill; very skilled or proficient at something.",
+            "example_sentence": "He is adept at solving complex problems.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি ইজ এডেপ্ট অ্যাট সল্ভিং কমপ্লেক্স প্রবলেমস।"
+            },
+            "position": 1,
+            "synonyms": "proficient, skilled, masterful",
+            "antonyms": "inept, unskilled, incompetent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষ",
+                    "word_transliteration": "dokkhho",
+                    "example_sentence_translation": "সে জটিল সমস্যা সমাধানে দক্ষ।",
+                    "example_sentence_transliteration": "Se jotil shomoshya shomadhane dokkhho.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "efficacy",
+            "phonetic": "ˈɛf.ɪ.kə.si",
+            "word_native_transliteration": {
+                "bn": "এফিকেসি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "The ability to produce a desired or intended result; effectiveness.",
+            "example_sentence": "The efficacy of the new medicine was proven in trials.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এফিকেসি অব দ্য নিউ মেডিসিন ওয়াজ প্রুভেন ইন ট্রায়ালস।"
+            },
+            "position": 2,
+            "synonyms": "effectiveness, productivity, competence",
+            "antonyms": "ineffectiveness, inefficiency, failure",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কার্যকারিতা",
+                    "word_transliteration": "karjokaritta",
+                    "example_sentence_translation": "নতুন ওষুধের কার্যকারিতা পরীক্ষায় প্রমাণিত হয়েছে।",
+                    "example_sentence_transliteration": "Notun osudher karjokaritta porikkhay promanito hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "adversity",
+            "phonetic": "ədˈvɜː.sɪ.ti",
+            "word_native_transliteration": {
+                "bn": "অ্যাডভার্সিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⛈️",
+            "meaning": "Difficulties; misfortune; a difficult or unpleasant situation.",
+            "example_sentence": "He remained strong in the face of adversity.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি রিমেইন্ড স্ট্রং ইন দ্য ফেস অব অ্যাডভার্সিটি।"
+            },
+            "position": 3,
+            "synonyms": "hardship, misfortune, struggle",
+            "antonyms": "prosperity, fortune, success",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিকূলতা",
+                    "word_transliteration": "protikulota",
+                    "example_sentence_translation": "সে প্রতিকূলতার মধ্যেও দৃঢ় ছিল।",
+                    "example_sentence_transliteration": "Se protikultaro moddhoyo drirrho chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "resilience",
+            "phonetic": "rɪˈzɪl.jəns",
+            "word_native_transliteration": {
+                "bn": "রেজিলিয়েন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌱",
+            "meaning": "The capacity to recover quickly from difficulties; toughness.",
+            "example_sentence": "Her resilience helped her recover from failure.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার রেজিলিয়েন্স হেল্পড হার রিকভার ফ্রম ফেইলিউর।"
+            },
+            "position": 4,
+            "synonyms": "toughness, endurance, adaptability",
+            "antonyms": "fragility, weakness, vulnerability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দৃঢ়তা",
+                    "word_transliteration": "drirrhhota",
+                    "example_sentence_translation": "তার দৃঢ়তা তাকে ব্যর্থতা থেকে পুনরুদ্ধার করতে সহায়তা করেছে।",
+                    "example_sentence_transliteration": "Tar drirrhhota take byorthhota theke punoruddhar korte shohayota koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fortitude",
+            "phonetic": "ˈfɔː.tɪ.tjuːd",
+            "word_native_transliteration": {
+                "bn": "ফর্টিটিউড"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛡️",
+            "meaning": "Courage in pain or adversity; mental strength in facing difficulty.",
+            "example_sentence": "He showed great fortitude during the crisis.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি শোড গ্রেট ফর্টিটিউড ডিউরিং দ্য ক্রাইসিস।"
+            },
+            "position": 5,
+            "synonyms": "courage, bravery, perseverance",
+            "antonyms": "cowardice, weakness, timidity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সাহস",
+                    "word_transliteration": "shahos",
+                    "example_sentence_translation": "সে সংকটের সময় অসাধারণ সাহস দেখিয়েছে।",
+                    "example_sentence_transliteration": "Se shongkoter shomoy oshadadron shahos dekhiyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "judicious",
+            "phonetic": "dʒuːˈdɪʃ.əs",
+            "word_native_transliteration": {
+                "bn": "জুডিশিয়াস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚖️",
+            "meaning": "Having, showing, or done with good judgment or sense; wise and careful.",
+            "example_sentence": "A judicious decision can prevent future problems.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ জুডিশিয়াস ডিসিশন ক্যান প্রিভেন্ট ফিউচার প্রবলেমস।"
+            },
+            "position": 6,
+            "synonyms": "wise, thoughtful, prudent",
+            "antonyms": "foolish, reckless, unwise",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিচক্ষণ",
+                    "word_transliteration": "bichokkhon",
+                    "example_sentence_translation": "একটি বিচক্ষণ সিদ্ধান্ত ভবিষ্যতের সমস্যাগুলি প্রতিরোধ করতে পারে।",
+                    "example_sentence_transliteration": "Ekti bichokkhon siddhanto bhobishyoter shomoshyaguli protirodh korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cognition",
+            "phonetic": "kɒɡˈnɪʃ.ən",
+            "word_native_transliteration": {
+                "bn": "কগনিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧠",
+            "meaning": "The mental action or process of acquiring knowledge and understanding through thought, experience, and the senses.",
+            "example_sentence": "Cognition plays a key role in learning.",
+            "example_sentence_native_transliteration": {
+                "bn": "কগনিশন প্লেজ এ কি রোল ইন লার্নিং।"
+            },
+            "position": 7,
+            "synonyms": "awareness, perception, understanding",
+            "antonyms": "ignorance, unawareness, misunderstanding",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চিন্তা",
+                    "word_transliteration": "chinta",
+                    "example_sentence_translation": "চিন্তাশক্তি শেখার ক্ষেত্রে গুরুত্বপূর্ণ ভূমিকা পালন করে।",
+                    "example_sentence_transliteration": "Chintashokti shekhar kshettre guruttopurno bhumika palon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "metacognition",
+            "phonetic": "ˌmɛt.ə.kɒɡˈnɪʃ.ən",
+            "word_native_transliteration": {
+                "bn": "মেটাকগনিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤔",
+            "meaning": "Awareness and understanding of one's own thought processes; thinking about thinking.",
+            "example_sentence": "Metacognition helps improve problem-solving skills.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেটাকগনিশন হেল্পস ইমপ্রুভ প্রবলেম-সল্ভিং স্কিলস।"
+            },
+            "position": 8,
+            "synonyms": "self-awareness, reflection, critical thinking",
+            "antonyms": "naivety, unawareness, thoughtlessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আত্ম-চিন্তা",
+                    "word_transliteration": "atto-chinta",
+                    "example_sentence_translation": "আত্ম-চিন্তা সমস্যা সমাধানের দক্ষতা উন্নত করতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Atto-chinta shomoshya shomadhaner dokkhota unnoto korte shohayyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pragmatic",
+            "phonetic": "præɡˈmæt.ɪk",
+            "word_native_transliteration": {
+                "bn": "প্র্যাগম্যাটিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔧",
+            "meaning": "Dealing with things sensibly and realistically in a way that is based on practical rather than idealistic considerations.",
+            "example_sentence": "A pragmatic approach is essential for problem-solving.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ প্র্যাগম্যাটিক অ্যাপ্রোচ ইজ এসেন্সিয়াল ফর প্রবলেম-সল্ভিং।"
+            },
+            "position": 9,
+            "synonyms": "practical, sensible, rational",
+            "antonyms": "idealistic, impractical, unrealistic",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাস্তববাদী",
+                    "word_transliteration": "bashtobbadi",
+                    "example_sentence_translation": "সমস্যা সমাধানের জন্য বাস্তববাদী দৃষ্টিভঙ্গি অত্যাবশ্যক।",
+                    "example_sentence_transliteration": "Shomoshya shomadhaner jonno bashtobbadi drishtibhongi ottyaboshyok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "tenacity",
+            "phonetic": "tɪˈnæs.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "টেনাসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "The quality or fact of being able to grip something firmly; persistence.",
+            "example_sentence": "His tenacity led him to achieve his dreams.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ টেনাসিটি লেড হিম টু অ্যাচিভ হিজ ড্রিমস।"
+            },
+            "position": 10,
+            "synonyms": "determination, persistence, endurance",
+            "antonyms": "weakness, indecision, hesitation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দৃঢ়তা",
+                    "word_transliteration": "drirrhhota",
+                    "example_sentence_translation": "তার দৃঢ়সংকল্প তাকে স্বপ্ন পূরণ করতে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Tar drirrho shonkolpo take shopno puron korte shohayyo koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "perseverance",
+            "phonetic": "ˌpɜː.sɪˈvɪə.rəns",
+            "word_native_transliteration": {
+                "bn": "পার্সিভিয়ারেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "Persistence in doing something despite difficulty or delay in achieving success.",
+            "example_sentence": "Perseverance is the key to success.",
+            "example_sentence_native_transliteration": {
+                "bn": "পার্সিভিয়ারেন্স ইজ দ্য কি টু সাকসেস।"
+            },
+            "position": 11,
+            "synonyms": "persistence, dedication, endurance",
+            "antonyms": "laziness, apathy, indifference",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অধ্যবসায়",
+                    "word_transliteration": "addhoboshay",
+                    "example_sentence_translation": "অধ্যবসায় সাফল্যের চাবিকাঠি।",
+                    "example_sentence_transliteration": "Addhoboshay shafoller chabikathi.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "diligence",
+            "phonetic": "ˈdɪl.ɪ.dʒəns",
+            "word_native_transliteration": {
+                "bn": "ডিলিজেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📚",
+            "meaning": "Careful and persistent work or effort; the quality of working carefully and with effort.",
+            "example_sentence": "His diligence earned him a promotion.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ডিলিজেন্স আর্নড হিম এ প্রোমোশন।"
+            },
+            "position": 12,
+            "synonyms": "hard work, attentiveness, industriousness",
+            "antonyms": "carelessness, negligence, idleness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিশ্রম",
+                    "word_transliteration": "porishrom",
+                    "example_sentence_translation": "তার পরিশ্রম তাকে পদোন্নতি এনে দিয়েছে।",
+                    "example_sentence_transliteration": "Tar porishrom take podonnoti ene diyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "self-reliance",
+            "phonetic": "sɛlf rɪˈlaɪ.əns",
+            "word_native_transliteration": {
+                "bn": "সেলফ-রিলায়েন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧭",
+            "meaning": "Reliance on one's own powers and resources rather than those of others; independence.",
+            "example_sentence": "Self-reliance helps build confidence.",
+            "example_sentence_native_transliteration": {
+                "bn": "সেলফ-রিলায়েন্স হেল্পস বিল্ড কনফিডেন্স।"
+            },
+            "position": 13,
+            "synonyms": "independence, autonomy, self-sufficiency",
+            "antonyms": "dependence, helplessness, reliance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আত্মনির্ভরতা",
+                    "word_transliteration": "attonirvorota",
+                    "example_sentence_translation": "আত্মনির্ভরতা আত্মবিশ্বাস গড়ে তুলতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Attonirvorota attobishas gorre tulte shohayyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ingenuity",
+            "phonetic": "ˌɪn.dʒəˈnjuː.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "ইনজেনুইটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💡",
+            "meaning": "The quality of being clever, original, and inventive; skill or cleverness in devising or combining.",
+            "example_sentence": "His ingenuity led to a groundbreaking invention.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ইনজেনুইটি লেড টু এ গ্রাউন্ডব্রেকিং ইনভেনশন।"
+            },
+            "position": 14,
+            "synonyms": "creativity, inventiveness, resourcefulness",
+            "antonyms": "ineptitude, unimaginativeness, mediocrity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সৃজনশীলতা",
+                    "word_transliteration": "srijonshilota",
+                    "example_sentence_translation": "তার সৃজনশীলতা একটি যুগান্তকারী আবিষ্কার এনে দিয়েছে।",
+                    "example_sentence_transliteration": "Tar srijonshilota ekti jugantokari abishkar ene diyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "versatility",
+            "phonetic": "ˌvɜː.səˈtɪl.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "ভার্সাটিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎭",
+            "meaning": "Ability to adapt or be adapted to many different functions or activities; having many different skills.",
+            "example_sentence": "His versatility made him successful in multiple fields.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ভার্সাটিলিটি মেড হিম সাকসেসফুল ইন মাল্টিপল ফিল্ডস।"
+            },
+            "position": 15,
+            "synonyms": "adaptability, flexibility, resourcefulness",
+            "antonyms": "rigidity, inflexibility, stagnation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বহুমুখিতা",
+                    "word_transliteration": "bohumukhita",
+                    "example_sentence_translation": "তার বহুমুখিতা তাকে বিভিন্ন ক্ষেত্রে সফল করেছে।",
+                    "example_sentence_transliteration": "Tar bohumukhita take bhinno kshettre shofol koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sagacious",
+            "phonetic": "səˈɡeɪ.ʃəs",
+            "word_native_transliteration": {
+                "bn": "সাগেশাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🦉",
+            "meaning": "Having or showing keen mental discernment and good judgment; wise.",
+            "example_sentence": "The sagacious leader guided the nation wisely.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সাগেশাস লিডার গাইডেড দ্য নেশন ওয়াইজলি।"
+            },
+            "position": 16,
+            "synonyms": "wise, insightful, intelligent",
+            "antonyms": "foolish, short-sighted, unwise",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রজ্ঞাময়",
+                    "word_transliteration": "proggyamoy",
+                    "example_sentence_translation": "প্রজ্ঞাময় নেতা দেশকে জ্ঞানীভাবে পরিচালিত করেছেন।",
+                    "example_sentence_transliteration": "Proggyamoy neta deshke gyanibhabe poriochalito korechen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "proficiency",
+            "phonetic": "prəˈfɪʃ.ən.si",
+            "word_native_transliteration": {
+                "bn": "প্রোফিসিয়েন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎖️",
+            "meaning": "A high degree of competence or skill; expertise.",
+            "example_sentence": "He demonstrated high proficiency in mathematics.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি ডেমনস্ট্রেটেড হাই প্রোফিসিয়েন্সি ইন ম্যাথমেটিকস।"
+            },
+            "position": 17,
+            "synonyms": "competence, expertise, mastery",
+            "antonyms": "incompetence, inefficiency, ineptness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষতা",
+                    "word_transliteration": "dokkhota",
+                    "example_sentence_translation": "সে গণিতে উচ্চ পর্যায়ের দক্ষতা প্রদর্শন করেছে।",
+                    "example_sentence_transliteration": "Se gonite uccho porjayer dokkhota prodorshon koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dexterity",
+            "phonetic": "dɛkˈstɛr.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "ডেক্সটেরিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤹",
+            "meaning": "Skill in performing tasks, especially with the hands; adroitness.",
+            "example_sentence": "His dexterity in playing the violin impressed everyone.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ডেক্সটেরিটি ইন প্লেইং দ্য ভায়োলিন ইমপ্রেসড এভরিওয়ান।"
+            },
+            "position": 18,
+            "synonyms": "agility, skillfulness, proficiency",
+            "antonyms": "clumsiness, ineptitude, awkwardness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চাতুর্য",
+                    "word_transliteration": "chaturjo",
+                    "example_sentence_translation": "ভায়োলিন বাজানোয় তার পারদর্শিতা সবাইকে মুগ্ধ করেছে।",
+                    "example_sentence_transliteration": "Violin bajanoy tar parodorshita shobaikee mugdho koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "conscientiousness",
+            "phonetic": "ˌkɒn.ʃiˈen.ʃəs.nəs",
+            "word_native_transliteration": {
+                "bn": "কনশিয়েনশাসনেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📋",
+            "meaning": "The quality of wishing to do one's work or duty well and thoroughly; diligence.",
+            "example_sentence": "Her conscientiousness in work led to a well-organized project.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার কনশিয়েনশাসনেস ইন ওয়ার্ক লেড টু এ ওয়েল-অর্গানাইজড প্রোজেক্ট।"
+            },
+            "position": 19,
+            "synonyms": "diligence, meticulousness, attentiveness",
+            "antonyms": "carelessness, negligence, irresponsibility",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দায়িত্ববোধ",
+                    "word_transliteration": "dayittobodh",
+                    "example_sentence_translation": "তার দায়িত্ববোধ কাজটিকে সুসংগঠিত করেছে।",
+                    "example_sentence_transliteration": "Tar dayittobodh kajtike shushonggothito koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ambiguity",
+            "phonetic": "ˌæm.bɪˈɡjuː.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "অ্যাম্বিগুইটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "❓",
+            "meaning": "The quality of being open to more than one interpretation; inexactness.",
+            "example_sentence": "The ambiguity in his statement caused confusion.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যাম্বিগুইটি ইন হিজ স্টেটমেন্ট কজড কনফিউশন।"
+            },
+            "position": 20,
+            "synonyms": "vagueness, obscurity, uncertainty",
+            "antonyms": "clarity, precision, transparency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অস্পষ্টতা",
+                    "word_transliteration": "oshposhtota",
+                    "example_sentence_translation": "তার বক্তব্যের অস্পষ্টতা বিভ্রান্তি তৈরি করেছিল।",
+                    "example_sentence_transliteration": "Tar boktobyer oshposhtota bibhranti toiri korechilo.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,499 @@
+{
+    "position": 104,
+    "title_translation": {
+        "en": "Exercises to Boost Long-Term Memory",
+        "bn": "Long-term memory উন্নত করার ব্যায়াম"
+    },
+    "content_translation": {
+        "en": "**Long-term memory** improvement requires enhancing our **neuroplasticity**. To increase the brain's **assimilation** capacity, some effective **mnemonics** methods can be useful, which make **recollection** easier. Learning something new every day increases the brain's **dexterity** and creates **engram**, which helps in information **consolidation**. Research has shown that regular exercise can enhance **cognizance** and **retrieval** skills. For **efficacious** results, **schematic** reading habits can be practiced, which improve our **proficiency**. Additionally, meditation and good sleep can **facilitate** memory **sustenance**. Learning new languages can create **innate** strength in the brain and can be helpful in memory enhancement. If we can properly **imbue** information, we can easily **extrapolate** new things.",
+        "bn": "**Long-term memory** উন্নত করার জন্য আমাদের **neuroplasticity** বাড়ানো প্রয়োজন। মস্তিষ্কের **assimilation** ক্ষমতা বাড়াতে কিছু কার্যকরী **mnemonics** পদ্ধতি কাজে আসতে পারে, যা **recollection** সহজ করে তোলে। প্রতিদিন নতুন কিছু শেখা মস্তিষ্কের **dexterity** বাড়ায় এবং **engram** তৈরি করে, যা তথ্য **consolidation** করতে সাহায্য করে। গবেষণায় দেখা গেছে, নিয়মিত ব্যায়াম **cognizance** এবং **retrieval** দক্ষতা বাড়াতে পারে। **Efficacious** ফলাফলের জন্য, **schematic** পড়াশোনার অভ্যাস করা যেতে পারে, যা আমাদের **proficiency** বাড়ায়। এছাড়া, মেডিটেশন এবং ভালো ঘুম **facilitate** করতে পারে স্মৃতির **sustenance**। নতুন ভাষা শেখা মস্তিষ্কে **innate** শক্তি তৈরি করতে পারে এবং মেমোরি বৃদ্ধিতে সহায়ক হতে পারে। যদি আমরা তথ্যকে ভালোভাবে **imbue** করতে পারি, তাহলে সহজেই আমরা নতুন জিনিস **extrapolate** করতে পারব।"
+    },
+    "list": [
+        {
+            "word": "Long-term memory",
+            "phonetic": "ˈlɒŋ tɜːm ˈmɛm.ər.i",
+            "word_native_transliteration": {
+                "bn": "লং-টার্ম মেমোরি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧠",
+            "meaning": "Such memory that remains stored in the brain for a long time",
+            "example_sentence": "Repeated practice helps transfer information into long-term memory.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিপিটেড প্র্যাকটিস হেল্পস ট্র্যান্সফার ইনফরমেশন ইনটু লং-টার্ম মেমোরি।"
+            },
+            "position": 1,
+            "synonyms": "Retentive Memory, Permanent Storage, Lasting Recall",
+            "antonyms": "Short-term Memory, Forgetfulness, Amnesia",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দীর্ঘমেয়াদী স্মৃতি",
+                    "word_transliteration": "dirghomeyadi smriti",
+                    "example_sentence_translation": "নিয়মিত অনুশীলন তথ্যকে দীর্ঘমেয়াদী স্মৃতিতে স্থানান্তর করতে সহায়তা করে।",
+                    "example_sentence_transliteration": "Niyomit onushilon tothyoke dirghomeyadi smritite sthananthor korte shohayota kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Neuroplasticity",
+            "phonetic": "ˌnjʊə.rəʊ.plæˈstɪs.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "নিউরোপ্লাস্টিসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The brain's ability to form new connections and change",
+            "example_sentence": "Learning new skills enhances neuroplasticity in the brain.",
+            "example_sentence_native_transliteration": {
+                "bn": "লার্নিং নিউ স্কিলস এনহান্সেস নিউরোপ্লাস্টিসিটি ইন দ্য ব্রেইন।"
+            },
+            "position": 2,
+            "synonyms": "Brain Adaptability, Neural Flexibility, Cognitive Rewiring",
+            "antonyms": "Neural Rigidity, Fixed Brain Structure, Mental Stagnation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্নায়ু পরিবর্তনশীলতা বা মস্তিষ্কের অভিযোজন ক্ষমতা",
+                    "word_transliteration": "snayu poribortonsheelota ba mostishker obhijojon khomota",
+                    "example_sentence_translation": "নতুন দক্ষতা শেখা মস্তিষ্কের স্নায়ু পরিবর্তনশীলতা বৃদ্ধি করে।",
+                    "example_sentence_transliteration": "Notun dokkhota shekha mostishker snayu poribortonsheelota briddhi kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Assimilation",
+            "phonetic": "əˌsɪm.ɪˈleɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "এসিমিলেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "Connecting new information with existing knowledge",
+            "example_sentence": "Proper assimilation of knowledge leads to effective learning.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোপার এসিমিলেশন অব নলেজ লিডস টু এফেক্টিভ লার্নিং।"
+            },
+            "position": 3,
+            "synonyms": "Integration, Absorption, Incorporation",
+            "antonyms": "Rejection, Separation, Isolation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গ্রহণযোগ্যতা বা আত্মস্থকরণ",
+                    "word_transliteration": "grohonjoggota ba atmosthokoron",
+                    "example_sentence_translation": "সঠিক আত্মস্থকরণ শেখার কার্যকারিতা বৃদ্ধি করে।",
+                    "example_sentence_transliteration": "Sothik atmosthokoron shekhar karjokarrita briddhi kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Mnemonics",
+            "phonetic": "nɪˈmɒn.ɪks",
+            "word_native_transliteration": {
+                "bn": "নিমনিক্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧩",
+            "meaning": "Using words, sentences or methods for easy memorization",
+            "example_sentence": "Using mnemonics helps students remember complex formulas.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইউজিং নিমনিক্স হেল্পস স্টুডেন্টস রিমেম্বার কমপ্লেক্স ফর্মুলাস।"
+            },
+            "position": 4,
+            "synonyms": "Memory Aid, Recall Technique, Memorization Trick",
+            "antonyms": "Forgetfulness, Amnesia, Ignorance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্মরণশক্তি বৃদ্ধির কৌশল",
+                    "word_transliteration": "smoronsokti briddhir koushol",
+                    "example_sentence_translation": "স্মরণশক্তি বৃদ্ধির কৌশল ব্যবহার শিক্ষার্থীদের কঠিন সূত্র মনে রাখতে সহায়ক।",
+                    "example_sentence_transliteration": "Smoronsokti briddhir koushol bebohar shikkharthider kothin sutro mone rakhte shohayok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Recollection",
+            "phonetic": "ˌrɛk.əˈlɛk.ʃən",
+            "word_native_transliteration": {
+                "bn": "রেকলেকশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💭",
+            "meaning": "Remembering past events or information",
+            "example_sentence": "His recollection of childhood memories was vivid.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ রেকলেকশন অব চাইল্ডহুড মেমোরিজ ওয়াজ ভিভিড।"
+            },
+            "position": 5,
+            "synonyms": "Recall, Remembrance, Retrieval",
+            "antonyms": "Forgetfulness, Oblivion, Amnesia",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্মরণ বা পুনরুদ্ধার করা",
+                    "word_transliteration": "smoron ba punruddhar kora",
+                    "example_sentence_translation": "তার শৈশবের স্মৃতিচারণ ছিল স্পষ্ট।",
+                    "example_sentence_transliteration": "Tar shoishober smriticharon chhilo sposhto.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Dexterity",
+            "phonetic": "dɛkˈstɛr.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "ডেক্সটেরিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The ability to work quickly and skillfully with hands or mind",
+            "example_sentence": "A surgeon needs high dexterity for precision work.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ সার্জন নিডস হাই ডেক্সটেরিটি ফর প্রিসিশন ওয়ার্ক।"
+            },
+            "position": 6,
+            "synonyms": "Agility, Skillfulness, Nimbleness",
+            "antonyms": "Clumsiness, Incompetence, Ineptitude",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষতা বা চাতুর্য",
+                    "word_transliteration": "dokkhota ba chaturjo",
+                    "example_sentence_translation": "একজন সার্জনের জন্য নির্ভুল কাজের দক্ষতা অপরিহার্য।",
+                    "example_sentence_transliteration": "Ekjon sarjoner jonno nirbhul kajer dokkhota opriharyyo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Engram",
+            "phonetic": "ˈɛn.ɡræm",
+            "word_native_transliteration": {
+                "bn": "এনগ্রাম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🗃️",
+            "meaning": "Physical signs or patterns in the brain for memory storage and retrieval",
+            "example_sentence": "Scientists study engrams to understand how memories are stored.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাইএন্টিস্টস স্টাডি এনগ্রামস টু আন্ডারস্ট্যান্ড হাও মেমোরিজ আর স্টোর্ড।"
+            },
+            "position": 7,
+            "synonyms": "Memory Trace, Neural Imprint, Brain Encoding",
+            "antonyms": "Memory Loss, Forgetfulness, Erasure",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্নায়ু কোষে সংরক্ষিত স্মৃতির ছাপ",
+                    "word_transliteration": "snayu koshe shorokkito smritir chhap",
+                    "example_sentence_translation": "বিজ্ঞানীরা স্মৃতি কীভাবে সংরক্ষিত হয় তা বুঝতে এনগ্রাম নিয়ে গবেষণা করেন।",
+                    "example_sentence_transliteration": "Biggyanira smriti kibhabe shorokkito hoy ta bujhte engram niye gobeshona koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Consolidation",
+            "phonetic": "kənˌsɒl.ɪˈdeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "কনসলিডেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔐",
+            "meaning": "The process of converting newly learned information into long-term memory",
+            "example_sentence": "Sleep plays a key role in memory consolidation.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্লিপ প্লেজ এ কি রোল ইন মেমোরি কনসলিডেশন।"
+            },
+            "position": 8,
+            "synonyms": "Strengthening, Stabilization, Reinforcement",
+            "antonyms": "Forgetting, Weakening, Dissolution",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্মৃতির স্থায়িত্ব বা সংহতকরণ",
+                    "word_transliteration": "smritir sthayitto ba songhotokoron",
+                    "example_sentence_translation": "ঘুম স্মৃতির সংহতকরণে গুরুত্বপূর্ণ ভূমিকা রাখে।",
+                    "example_sentence_transliteration": "Ghum smritir songhotokorone guruttopurno bhumika rakhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Cognizance",
+            "phonetic": "ˈkɒɡ.nɪ.zəns",
+            "word_native_transliteration": {
+                "bn": "কগনিজেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The ability to understand or be aware of something",
+            "example_sentence": "His cognizance of the situation helped in making the right decision.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ কগনিজেন্স অব দ্য সিচুয়েশন হেল্পড ইন মেকিং দ্য রাইট ডিসিশন।"
+            },
+            "position": 9,
+            "synonyms": "Awareness, Perception, Recognition",
+            "antonyms": "Ignorance, Unawareness, Oblivion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জ্ঞাত হওয়া বা সচেতনতা",
+                    "word_transliteration": "ggyato howa ba sochetnota",
+                    "example_sentence_translation": "পরিস্থিতি সম্পর্কে তার সচেতনতা সঠিক সিদ্ধান্ত নিতে সহায়তা করেছিল।",
+                    "example_sentence_transliteration": "Poristhiti somporke tar sochetnota sothik siddhanto nite shohayota korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Retrieval",
+            "phonetic": "rɪˈtriː.vəl",
+            "word_native_transliteration": {
+                "bn": "রিট্রিভাল"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔍",
+            "meaning": "Recovering stored information or memory",
+            "example_sentence": "Memory retrieval improves with regular practice.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেমোরি রিট্রিভাল ইমপ্রুভস উইথ রেগুলার প্র্যাকটিস।"
+            },
+            "position": 10,
+            "synonyms": "Recovery, Recall, Recollection",
+            "antonyms": "Loss, Forgetting, Misplacement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুনরুদ্ধার বা ফিরে পাওয়া",
+                    "word_transliteration": "punruddhar ba fire paowa",
+                    "example_sentence_translation": "নিয়মিত অনুশীলনে স্মৃতির পুনরুদ্ধার ক্ষমতা উন্নত হয়।",
+                    "example_sentence_transliteration": "Niyomit onushilone smritir punruddhar khomota unnoto hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Efficacious",
+            "phonetic": "ˌɛf.ɪˈkeɪ.ʃəs",
+            "word_native_transliteration": {
+                "bn": "এফিকেসিয়াস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "✅",
+            "meaning": "Effective for a specific purpose",
+            "example_sentence": "This medicine is highly efficacious in treating headaches.",
+            "example_sentence_native_transliteration": {
+                "bn": "দিস মেডিসিন ইজ হাইলি এফিকেসিয়াস ইন ট্রিটিং হেডেকস।"
+            },
+            "position": 11,
+            "synonyms": "Effective, Productive, Efficient",
+            "antonyms": "Ineffective, Useless, Inefficient",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কার্যকর বা সফল",
+                    "word_transliteration": "karjokor ba sofol",
+                    "example_sentence_translation": "এই ওষুধ মাথাব্যথা নিরাময়ে অত্যন্ত কার্যকর।",
+                    "example_sentence_transliteration": "Ei osudh mathabytha niramoye ottyonto karjokor.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Schematic",
+            "phonetic": "skiˈmæt.ɪk",
+            "word_native_transliteration": {
+                "bn": "স্কিম্যাটিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📋",
+            "meaning": "Presenting some framework or concept briefly",
+            "example_sentence": "The engineer provided a schematic diagram of the project.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইঞ্জিনিয়ার প্রোভাইডেড এ স্কিম্যাটিক ডায়াগ্রাম অব দ্য প্রোজেক্ট।"
+            },
+            "position": 12,
+            "synonyms": "Diagrammatic, Structural, Organized",
+            "antonyms": "Disorganized, Unstructured, Random",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিকল্পিত বা চিত্রিত",
+                    "word_transliteration": "porikolpito ba chitrito",
+                    "example_sentence_translation": "প্রকৌশলী প্রকল্পের একটি পরিকল্পিত চিত্র সরবরাহ করেছিলেন।",
+                    "example_sentence_transliteration": "Prokousholi prokolper ekti porikolpito chitro shorboraho korechhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Proficiency",
+            "phonetic": "prəˈfɪʃ.ən.si",
+            "word_native_transliteration": {
+                "bn": "প্রোফিসিয়েন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏆",
+            "meaning": "Skill or experience in some work",
+            "example_sentence": "His proficiency in programming helped him secure a good job.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ প্রোফিসিয়েন্সি ইন প্রোগ্রামিং হেল্পড হিম সিকিউর এ গুড জব।"
+            },
+            "position": 13,
+            "synonyms": "Expertise, Mastery, Competence",
+            "antonyms": "Incompetence, Ineptitude, Weakness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষতা বা পারদর্শিতা",
+                    "word_transliteration": "dokkhota ba pardarshita",
+                    "example_sentence_translation": "প্রোগ্রামিংয়ে তার দক্ষতা তাকে একটি ভালো চাকরি পেতে সহায়তা করেছে।",
+                    "example_sentence_transliteration": "Programmingye tar dokkhota take ekti bhalo chakri pete shohayota korechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Facilitate",
+            "phonetic": "fəˈsɪl.ɪ.teɪt",
+            "word_native_transliteration": {
+                "bn": "ফ্যাসিলিটেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🤝",
+            "meaning": "Making a task or process easier",
+            "example_sentence": "Good communication skills facilitate teamwork.",
+            "example_sentence_native_transliteration": {
+                "bn": "গুড কমিউনিকেশন স্কিলস ফ্যাসিলিটেট টিমওয়ার্ক।"
+            },
+            "position": 14,
+            "synonyms": "Assist, Simplify, Aid",
+            "antonyms": "Hinder, Obstruct, Complicate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহজতর করা বা সহায়তা করা",
+                    "word_transliteration": "sohojtor kora ba shohayota kora",
+                    "example_sentence_translation": "ভালো যোগাযোগ দক্ষতা দলগত কাজ সহজ করে।",
+                    "example_sentence_transliteration": "Bhalo jogajog dokkhota dologoto kaj sohoj kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Sustenance",
+            "phonetic": "ˈsʌs.tɪ.nəns",
+            "word_native_transliteration": {
+                "bn": "সাস্টিনেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🍎",
+            "meaning": "Food or support necessary for sustaining life",
+            "example_sentence": "Water is essential for human sustenance.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওয়াটার ইজ এসেনশিয়াল ফর হিউম্যান সাস্টিনেন্স।"
+            },
+            "position": 15,
+            "synonyms": "Nourishment, Support, Livelihood",
+            "antonyms": "Starvation, Deprivation, Weakness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জীবিকা বা পুষ্টি",
+                    "word_transliteration": "jibika ba pushti",
+                    "example_sentence_translation": "মানুষের জীবিকারক্ষার জন্য পানি অপরিহার্য।",
+                    "example_sentence_transliteration": "Manusher jibikarkkhhar jonno pani opriharyyo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Innate",
+            "phonetic": "ɪˈneɪt",
+            "word_native_transliteration": {
+                "bn": "ইনেট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌱",
+            "meaning": "Existing from birth or natural",
+            "example_sentence": "She has an innate talent for music.",
+            "example_sentence_native_transliteration": {
+                "bn": "শী হ্যাজ অ্যান ইনেট ট্যালেন্ট ফর মিউজিক।"
+            },
+            "position": 16,
+            "synonyms": "Inborn, Natural, Inherent",
+            "antonyms": "Acquired, Learned, Artificial",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জন্মগত বা স্বাভাবিক",
+                    "word_transliteration": "jonmogoto ba shabhabik",
+                    "example_sentence_translation": "তার সঙ্গীতের প্রতি জন্মগত প্রতিভা রয়েছে।",
+                    "example_sentence_transliteration": "Tar songiter proti jonmogoto protibha royechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Imbue",
+            "phonetic": "ɪmˈbjuː",
+            "word_native_transliteration": {
+                "bn": "ইমবিউ"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "💡",
+            "meaning": "Mixing some idea or feeling deeply into someone's mind",
+            "example_sentence": "The teacher tried to imbue students with a love for learning.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য টিচার ট্রাইড টু ইমবিউ স্টুডেন্টস উইথ এ লাভ ফর লার্নিং।"
+            },
+            "position": 17,
+            "synonyms": "Inspire, Instill, Inculcate",
+            "antonyms": "Remove, Drain, Extract",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মিশ্রিত করা বা গভীরভাবে প্রভাবিত করা",
+                    "word_transliteration": "mishrito kora ba gobhirbhabe prabhavito kora",
+                    "example_sentence_translation": "শিক্ষক শিক্ষার্থীদের মনে শেখার প্রতি ভালোবাসা জাগানোর চেষ্টা করেছিলেন।",
+                    "example_sentence_transliteration": "Shikkhok shikkharthider mone shekhar proti bhalobasha jagganor cheshta korechhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Extrapolate",
+            "phonetic": "ɪkˈstræp.ə.leɪt",
+            "word_native_transliteration": {
+                "bn": "এক্সট্রাপোলেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔮",
+            "meaning": "Making future estimates based on existing information",
+            "example_sentence": "Scientists extrapolate climate changes based on past data.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাইএন্টিস্টস এক্সট্রাপোলেট ক্লাইমেট চেঞ্জেস বেসড অন পাস্ট ডাটা।"
+            },
+            "position": 18,
+            "synonyms": "Predict, Infer, Deduce",
+            "antonyms": "Misinterpret, Miscalculate, Guess",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনুমান বা পূর্বাভাস করা",
+                    "word_transliteration": "onuman ba purbabhas kora",
+                    "example_sentence_translation": "বিজ্ঞানীরা অতীত তথ্যের উপর ভিত্তি করে জলবায়ু পরিবর্তনের পূর্বাভাস দেন।",
+                    "example_sentence_transliteration": "Biggyanira otit tothyer upor bhitti kore jolbayu poribortoner purbabhas den.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

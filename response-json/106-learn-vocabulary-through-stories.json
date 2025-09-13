@@ -1,0 +1,499 @@
+{
+    "position": 106,
+    "title_translation": {
+        "en": "Future of Brain-Training Wearable Devices",
+        "bn": "Future of Brain-Training Wearable Devices"
+    },
+    "content_translation": {
+        "en": "With the advancement of technology, **brain-training** **wearable devices** can play a **revolutionary** role in enhancing our **cognition**. Modern research has shown that these devices are capable of improving brain **dexterity** through enhancing **neuroplasticity**. Scientists believe that **augmenting** the brain will develop human **innate** thinking power. Through **paradigm** shift, this technology can enhance human **cerebral** capacity in the future. However, what its **implication** might be is not yet fully understood. Experts **extrapolate** that this will cause **proliferation** rather than **diminution**, which will improve human **cognition**. This is not called **ergonomic**, but rather will give **quantifiable** results through **synchronizing**. Therefore, in the future, **brain-training** **wearable devices** will create a new **convergence** to enhance human mental skills.",
+        "bn": "প্রযুক্তির উন্নতির সাথে সাথে **brain-training** **wearable devices** আমাদের **cognition** বাড়ানোর জন্য এক **revolutionary** ভূমিকা রাখতে পারে। আধুনিক গবেষণায় দেখা গেছে যে, **neuroplasticity** বাড়ানোর মাধ্যমে এই ডিভাইসগুলো মস্তিষ্কের **dexterity** উন্নত করতে সক্ষম। বিজ্ঞানীরা মনে করছেন, মস্তিষ্কের **augmentation** করা গেলে মানুষের **innate** চিন্তাশক্তির বিকাশ ঘটবে। **Paradigm** পরিবর্তনের মাধ্যমে ভবিষ্যতে এই প্রযুক্তি মানুষের **cerebral** কার্যক্ষমতা বাড়িয়ে তুলতে পারে। তবে, এর **implication** কী হতে পারে, সেটি এখনো সম্পূর্ণভাবে বোঝা যায়নি। বিশেষজ্ঞরা **extrapolate** করছেন যে, এর মাধ্যমে **diminution** না হয়ে বরং **proliferation** ঘটবে, যা মানুষের **cognition** উন্নত করবে। এটিকে বল **ergonomic** নয়, বরং **synchronize** করার মাধ্যমে **quantifiable** ফলাফল দেবে। তাই, ভবিষ্যতে **brain-training** **wearable devices** মানুষের মানসিক দক্ষতা বাড়ানোর এক নতুন **convergence** তৈরি করবে।"
+    },
+    "list": [
+        {
+            "word": "brain-training",
+            "phonetic": "breɪn ˈtreɪ.nɪŋ",
+            "word_native_transliteration": {
+                "bn": "ব্রেইন-ট্রেইনিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧠",
+            "meaning": "Mental exercises designed to improve cognitive functions, memory retention, and overall brain performance.",
+            "example_sentence": "Regular brain-training can improve memory retention.",
+            "example_sentence_native_transliteration": {
+                "bn": "রেগুলার ব্রেইন-ট্রেইনিং ক্যান ইমপ্রুভ মেমোরি রিটেনশন।"
+            },
+            "position": 1,
+            "synonyms": "cognitive exercise, mental stimulation, neural enhancement",
+            "antonyms": "mental decline, cognitive deterioration, brain fog",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মস্তিষ্কের দক্ষতা বৃদ্ধি",
+                    "word_transliteration": "mostishshker dokkhoṭa briddhi",
+                    "example_sentence_translation": "নিয়মিত ব্রেইন-ট্রেইনিং স্মৃতিশক্তি বৃদ্ধিতে সহায়তা করে।",
+                    "example_sentence_transliteration": "Niyomito brain-training smritiṣokti briddhite shahayṭa kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "wearable devices",
+            "phonetic": "ˈweə.rə.bəl dɪˈvaɪ.sɪz",
+            "word_native_transliteration": {
+                "bn": "ওয়্যারেবল ডিভাইসেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⌚",
+            "meaning": "Electronic devices that can be worn on the body, typically incorporating smart technology for monitoring health or providing information.",
+            "example_sentence": "Wearable devices help monitor heart rate and physical activity.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওয়্যারেবল ডিভাইসেস হেল্প মনিটর হার্ট রেট অ্যান্ড ফিজিক্যাল অ্যাক্টিভিটি।"
+            },
+            "position": 2,
+            "synonyms": "smart gadgets, fitness trackers, AI wearables",
+            "antonyms": "non-portable devices, static technology, outdated tools",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিধানযোগ্য প্রযুক্তি",
+                    "word_transliteration": "poridhanyogyo proyukti",
+                    "example_sentence_translation": "ওয়্যারেবল ডিভাইসেস হৃদস্পন্দন এবং শারীরিক কার্যক্রম পর্যবেক্ষণে সহায়ক।",
+                    "example_sentence_transliteration": "Wearable devices hridṣpondon ebong ṣaririko karyokrom poryobekkhone ṣahayko.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cognition",
+            "phonetic": "kɒɡˈnɪʃ.ən",
+            "word_native_transliteration": {
+                "bn": "কগনিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤔",
+            "meaning": "The mental processes involved in gaining knowledge and comprehension, including thinking, knowing, remembering, and problem-solving.",
+            "example_sentence": "Proper sleep improves cognition and decision-making skills.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রপার স্লিপ ইমপ্রুভস কগনিশন অ্যান্ড ডিসিশন-মেকিং স্কিলস।"
+            },
+            "position": 3,
+            "synonyms": "perception, awareness, comprehension",
+            "antonyms": "ignorance, unawareness, confusion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বুদ্ধিবৃত্তিক কার্যক্রম",
+                    "word_transliteration": "buddhibrittiko karyokrom",
+                    "example_sentence_translation": "পর্যাপ্ত ঘুম কগনিশন এবং সিদ্ধান্ত গ্রহণের দক্ষতা বাড়ায়।",
+                    "example_sentence_transliteration": "Poryapto ghum cognition ebong siddhanto grohoner dokkhoṭa baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "revolutionary",
+            "phonetic": "ˌrev.əˈluː.ʃən.ər.i",
+            "word_native_transliteration": {
+                "bn": "রেভল্যুশনারি"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚡",
+            "meaning": "Involving or causing a complete or dramatic change; radically new or innovative.",
+            "example_sentence": "The discovery of electricity was a revolutionary breakthrough.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডিসকভারি অব ইলেকট্রিসিটি ওয়াস এ রেভল্যুশনারি ব্রেকথ্রু।"
+            },
+            "position": 4,
+            "synonyms": "groundbreaking, transformative, pioneering",
+            "antonyms": "conventional, traditional, outdated",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিপ্লবাত্মক",
+                    "word_transliteration": "biplobaṭmok",
+                    "example_sentence_translation": "বিদ্যুতের আবিষ্কার ছিল একটি রেভল্যুশনারি উদ্ভাবন।",
+                    "example_sentence_transliteration": "Bidyuter abiṣkar chhilo ekoṭi revolutionary udbhabon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "neuroplasticity",
+            "phonetic": "ˌnjʊə.rəʊ.plæˈstɪs.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "নিউরোপ্লাস্টিসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The brain's ability to reorganize itself by forming new neural connections throughout life, allowing adaptation and learning.",
+            "example_sentence": "Neuroplasticity allows the brain to adapt and learn new skills.",
+            "example_sentence_native_transliteration": {
+                "bn": "নিউরোপ্লাস্টিসিটি অ্যালাউস দ্য ব্রেইন টু অ্যাডাপ্ট অ্যান্ড লার্ন নিউ স্কিলস।"
+            },
+            "position": 5,
+            "synonyms": "brain adaptability, neural flexibility, cognitive remodeling",
+            "antonyms": "mental rigidity, cognitive stagnation, fixed brain patterns",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মস্তিষ্কের অভিযোজন ক্ষমতা",
+                    "word_transliteration": "mostishshker obhiyojon khomota",
+                    "example_sentence_translation": "নিউরোপ্লাস্টিসিটি মস্তিষ্ককে নতুন দক্ষতা অর্জনে সহায়তা করে।",
+                    "example_sentence_transliteration": "Neuroplasticity mostishshkoke noto dokkhoṭa orjone ṣahayṭa kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dexterity",
+            "phonetic": "dekˈster.ə.ti",
+            "word_native_transliteration": {
+                "bn": "ডেক্সটারিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤲",
+            "meaning": "Skill in performing tasks, especially with the hands; mental agility and quickness.",
+            "example_sentence": "A surgeon must have exceptional dexterity in hand movements.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ সার্জন মাস্ট হ্যাভ এক্সসেপশনাল ডেক্সটারিটি ইন হ্যান্ড মুভমেন্টস।"
+            },
+            "position": 6,
+            "synonyms": "agility, skillfulness, precision",
+            "antonyms": "clumsiness, ineptitude, incompetence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "হাতের নিপুণতা",
+                    "word_transliteration": "hater nipunota",
+                    "example_sentence_translation": "একজন সার্জনের হাতে চমৎকার ডেক্সটারিটি থাকা আবশ্যক।",
+                    "example_sentence_transliteration": "Ekjon surgeon-er hate comṭkar dexterity thaka abosṣok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "augmentation",
+            "phonetic": "ˌɔːɡ.menˈteɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "অগমেন্টেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "The action of making or becoming greater in size, extent, or quantity; enhancement or improvement.",
+            "example_sentence": "AI-driven augmentation is improving productivity in industries.",
+            "example_sentence_native_transliteration": {
+                "bn": "এআই-ড্রিভেন অগমেন্টেশন ইজ ইমপ্রুভিং প্রোডাক্টিভিটি ইন ইন্ডাস্ট্রিস।"
+            },
+            "position": 7,
+            "synonyms": "enhancement, expansion, amplification",
+            "antonyms": "reduction, decline, diminishment",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৃদ্ধি",
+                    "word_transliteration": "briddhi",
+                    "example_sentence_translation": "কৃত্রিম বুদ্ধিমত্তা ভিত্তিক অগমেন্টেশন শিল্প খাতে উৎপাদনশীলতা বৃদ্ধি করছে।",
+                    "example_sentence_transliteration": "Kritrim buddhimotta bhittik augmentation ṣilpo khate utpadonṣilota briddhi korcche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "innate",
+            "phonetic": "ɪˈneɪt",
+            "word_native_transliteration": {
+                "bn": "ইনেইট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌱",
+            "meaning": "Existing from birth; inborn; natural rather than learned.",
+            "example_sentence": "Some people have an innate talent for music.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাম পিপল হ্যাভ অ্যান ইনেইট ট্যালেন্ট ফর মিউজিক।"
+            },
+            "position": 8,
+            "synonyms": "inherent, instinctive, natural",
+            "antonyms": "acquired, learned, artificial",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জন্মগত",
+                    "word_transliteration": "jonmogoto",
+                    "example_sentence_translation": "কিছু মানুষের ইনেইট সংগীত প্রতিভা থাকে।",
+                    "example_sentence_transliteration": "Kichhu manusher innate ṣongit protibha thake.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "paradigm",
+            "phonetic": "ˈpær.ə.daɪm",
+            "word_native_transliteration": {
+                "bn": "প্যারাডাইম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "A typical example or pattern of something; a model or framework for understanding or approaching something.",
+            "example_sentence": "The paradigm of education is changing with digital technology.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্যারাডাইম অব এডুকেশন ইজ চেঞ্জিং উইথ ডিজিটাল টেকনোলজি।"
+            },
+            "position": 9,
+            "synonyms": "framework, prototype, exemplar",
+            "antonyms": "anomaly, unconventionality, atypicality",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আদর্শ মডেল",
+                    "word_transliteration": "adorṣo model",
+                    "example_sentence_translation": "ডিজিটাল প্রযুক্তির কারণে শিক্ষার প্যারাডাইম পরিবর্তিত হচ্ছে।",
+                    "example_sentence_transliteration": "Digital proyuktir karone ṣikkhar paradigm poribortiṭo hocche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cerebral",
+            "phonetic": "ˈser.ə.brəl",
+            "word_native_transliteration": {
+                "bn": "সেরিব্রাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧠",
+            "meaning": "Relating to the brain; intellectual rather than emotional or physical.",
+            "example_sentence": "Chess is a highly cerebral game requiring deep strategy.",
+            "example_sentence_native_transliteration": {
+                "bn": "চেস ইজ এ হাইলি সেরিব্রাল গেম রিকোয়ারিং ডিপ স্ট্র্যাটেজি।"
+            },
+            "position": 10,
+            "synonyms": "intellectual, rational, analytical",
+            "antonyms": "unintellectual, unthinking, emotional",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মস্তিষ্কসংক্রান্ত",
+                    "word_transliteration": "mostishshkoṣongkranto",
+                    "example_sentence_translation": "দাবা একটি অত্যন্ত সেরিব্রাল খেলা যা গভীর কৌশল প্রয়োজন।",
+                    "example_sentence_transliteration": "Daba ekoṭi ottyonto cerebral khela ja gobhir kousol proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "implication",
+            "phonetic": "ˌɪm.plɪˈkeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ইমপ্লিকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔍",
+            "meaning": "A conclusion that can be drawn from something although it is not explicitly stated; a likely consequence.",
+            "example_sentence": "The implication of climate change is severe.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইমপ্লিকেশন অব ক্লাইমেট চেঞ্জ ইজ সিভিয়ার।"
+            },
+            "position": 11,
+            "synonyms": "consequence, inference, ramification",
+            "antonyms": "misinterpretation, insignificance, exclusion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রভাব",
+                    "word_transliteration": "probhab",
+                    "example_sentence_translation": "জলবায়ু পরিবর্তনের ইমপ্লিকেশন মারাত্মক।",
+                    "example_sentence_transliteration": "Jolbayu poribortonер implication maratmok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "extrapolate",
+            "phonetic": "ɪkˈstræp.ə.leɪt",
+            "word_native_transliteration": {
+                "bn": "এক্সট্রাপোলেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📊",
+            "meaning": "To estimate or conclude something by extending or projecting known information.",
+            "example_sentence": "Scientists extrapolate future trends from current data.",
+            "example_sentence_native_transliteration": {
+                "bn": "সায়েন্টিস্টস এক্সট্রাপোলেট ফিউচার ট্রেন্ডস ফ্রম কারেন্ট ডেটা।"
+            },
+            "position": 12,
+            "synonyms": "infer, predict, deduce",
+            "antonyms": "miscalculate, misconstrue, misinterpret",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনুমান করা",
+                    "word_transliteration": "onuman kora",
+                    "example_sentence_translation": "বিজ্ঞানীরা বর্তমান ডেটা থেকে ভবিষ্যৎ প্রবণতা এক্সট্রাপোলেট করেন।",
+                    "example_sentence_transliteration": "Biggyanira bortoman data theke bhobishyot probonota extrapolate koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "diminution",
+            "phonetic": "ˌdɪm.ɪˈnjuː.ʃən",
+            "word_native_transliteration": {
+                "bn": "ডিমিনিউশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📉",
+            "meaning": "A reduction in the size, extent, or importance of something; decrease.",
+            "example_sentence": "There has been a diminution in air pollution.",
+            "example_sentence_native_transliteration": {
+                "bn": "দেয়ার হ্যাজ বিন এ ডিমিনিউশন ইন এয়ার পলিউশন।"
+            },
+            "position": 13,
+            "synonyms": "reduction, decline, contraction",
+            "antonyms": "expansion, growth, escalation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "হ্রাস",
+                    "word_transliteration": "hraṣ",
+                    "example_sentence_translation": "বায়ু দূষণে ডিমিনিউশন ঘটেছে।",
+                    "example_sentence_transliteration": "Bayu dushone diminution ghotecche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "proliferation",
+            "phonetic": "prəˌlɪf.əˈreɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "প্রোলিফারেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "Rapid increase in the number or amount of something; multiplication or spread.",
+            "example_sentence": "The proliferation of AI is transforming industries.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রোলিফারেশন অব এআই ইজ ট্রান্সফর্মিং ইন্ডাস্ট্রিস।"
+            },
+            "position": 14,
+            "synonyms": "expansion, multiplication, escalation",
+            "antonyms": "reduction, diminution, contraction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্রুত বৃদ্ধি",
+                    "word_transliteration": "druto briddhi",
+                    "example_sentence_translation": "কৃত্রিম বুদ্ধিমত্তার প্রোলিফারেশন শিল্পখাতে পরিবর্তন আনছে।",
+                    "example_sentence_transliteration": "Kritrim buddhimottar proliferation ṣilpokhate poriborton ancche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ergonomic",
+            "phonetic": "ˌɜː.ɡəˈnɒm.ɪk",
+            "word_native_transliteration": {
+                "bn": "এরগোনমিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💺",
+            "meaning": "Designed for efficiency and comfort in the working environment; user-friendly and reducing strain.",
+            "example_sentence": "The chair has an ergonomic design for better posture.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য চেয়ার হ্যাজ অ্যান এরগোনমিক ডিজাইন ফর বেটার পসচার।"
+            },
+            "position": 15,
+            "synonyms": "comfortable, functional, user-friendly",
+            "antonyms": "inefficient, uncomfortable, inconvenient",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আরামদায়ক নকশা",
+                    "word_transliteration": "aramodayok nokṣa",
+                    "example_sentence_translation": "চেয়ারটি সঠিক দেহভঙ্গির জন্য এরগোনমিক ডিজাইন করা হয়েছে।",
+                    "example_sentence_transliteration": "Cheyaroṭi ṣothik dehobhongir jonno ergonomic design kora hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "synchronize",
+            "phonetic": "ˈsɪŋ.krə.naɪz",
+            "word_native_transliteration": {
+                "bn": "সিঙ্ক্রোনাইজ"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔄",
+            "meaning": "To coordinate in time; to cause to occur or operate at the same time or rate.",
+            "example_sentence": "The dancers need to synchronize their movements.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ড্যানসার্স নিড টু সিঙ্ক্রোনাইজ দেয়ার মুভমেন্টস।"
+            },
+            "position": 16,
+            "synonyms": "coordinate, align, harmonize",
+            "antonyms": "mismatch, disorganize, desynchronize",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একসঙ্গে কাজ করা",
+                    "word_transliteration": "ekoṣonge kaj kora",
+                    "example_sentence_translation": "নৃত্যশিল্পীদের তাদের গতিবিধি সিঙ্ক্রোনাইজ করতে হবে।",
+                    "example_sentence_transliteration": "Nrityoṣilpider tader gotibidhi synchronize korte hobe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "quantifiable",
+            "phonetic": "ˈkwɒn.tɪ.faɪ.ə.bəl",
+            "word_native_transliteration": {
+                "bn": "কোয়ান্টিফায়েবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📏",
+            "meaning": "Able to be expressed or measured as a quantity; capable of being counted or calculated.",
+            "example_sentence": "The impact of the project is quantifiable.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইমপ্যাক্ট অব দ্য প্রজেক্ট ইজ কোয়ান্টিফায়েবল।"
+            },
+            "position": 17,
+            "synonyms": "measurable, countable, assessable",
+            "antonyms": "unmeasurable, indeterminate, abstract",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিমাপযোগ্য",
+                    "word_transliteration": "porimapyogyo",
+                    "example_sentence_translation": "প্রকল্পের প্রভাব কোয়ান্টিফায়েবল।",
+                    "example_sentence_transliteration": "Prokolper probhab quantifiable.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "convergence",
+            "phonetic": "kənˈvɜː.dʒəns",
+            "word_native_transliteration": {
+                "bn": "কনভারজেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔀",
+            "meaning": "The process of coming together from different directions to meet at a common point; unification or integration.",
+            "example_sentence": "The convergence of technologies is revolutionizing industries.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কনভারজেন্স অব টেকনোলজিস ইজ রেভোলিউশনাইজিং ইন্ডাস্ট্রিস।"
+            },
+            "position": 18,
+            "synonyms": "unification, integration, merging",
+            "antonyms": "divergence, separation, deviation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মিলন",
+                    "word_transliteration": "milon",
+                    "example_sentence_translation": "প্রযুক্তির কনভারজেন্স শিল্পখাতে বিপ্লব ঘটাচ্ছে।",
+                    "example_sentence_transliteration": "Proyuktir convergence ṣilpokhate biplob ghota cche.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}
