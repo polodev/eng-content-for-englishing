@@ -1,0 +1,418 @@
+{
+    "position": 77,
+    "title_translation": {
+        "en": "Best Techniques for Effective Memorization",
+        "bn": "কার্যকর স্মৃতিচারণের সেরা কৌশল"
+    },
+    "content_translation": {
+        "en": "**Memorization** is an important skill that can **transcend** memory power when practiced correctly. First, using **mnemonics** makes information easier to remember. This aids in **cerebral** functions, which helps increase **acumen**.\n\nOn the other hand, **cogitation** and **concentration** are needed so that you can **inundate** your mind towards specific subjects. Regular **deliberation** and repetition ensure long-term **retention**.\n\nThe **saturation** process, where you **delineate** information piece by piece in small parts, makes remembering information easier in this way.\n\nDepending on **perception**, it is possible to increase your memory skills.\n\nHowever, at some point you need to understand your own **metacognition**, because proper preservation of memory is not possible without your thinking and **scrutiny**.",
+        "bn": "**Memorization** একটি গুরুত্বপূর্ণ দক্ষতা যা সঠিকভাবে অনুশীলন করলে স্মৃতি শক্তি **transcend** করতে পারে। প্রথমত, **mnemonics** ব্যবহার করে তথ্য সহজে মনে রাখা যায়। এটি **cerebral** কর্মকাণ্ডে সহায়তা করে, যা **acumen** বৃদ্ধিতে সহায়ক।\n\nঅন্যদিকে, **cogitation** এবং **concentration** প্রয়োজন যাতে আপনি আপনার মনকে নির্দিষ্ট বিষয়ের প্রতি **inundate** করতে পারেন। নিয়মিত **deliberation** এবং পুনরাবৃত্তি করলে দীর্ঘস্থায়ী **retention** নিশ্চিত করা যায়।\n\n**Saturation** প্রক্রিয়া, যেখানে আপনি একে একে ছোট ছোট অংশে তথ্যকে **delineate** করে মনে রাখেন, এইভাবে তথ্য মনে রাখা সহজ হয়ে যায়।\n\n**Perception** এর ওপর নির্ভর করে, আপনার স্মৃতির দক্ষতা বাড়ানো সম্ভব।\n\nতবে, একসময় আপনাকে নিজের **metacognition** বুঝতে হবে, কেননা আপনার চিন্তাভাবনা ও **scrutiny** ছাড়া স্মৃতির সঠিকভাবে সংরক্ষণ সম্ভব নয়।"
+    },
+    "list": [
+        {
+            "word": "memorization",
+            "phonetic": "ˌmɛməraɪˈzeɪʃən",
+            "word_native_transliteration": {
+                "bn": "মেমোরাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧠",
+            "meaning": "The process of learning or committing something to memory",
+            "example_sentence": "Memorization of important information is crucial for exams.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেমোরাইজেশন অফ ইমপর্ট্যান্ট ইনফরমেশন ইজ ক্রুশিয়াল ফর এগজামস।"
+            },
+            "position": 1,
+            "synonyms": "recall, retention",
+            "antonyms": "forgetting, amnesia",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্মৃতিচারণ",
+                    "word_transliteration": "smriticharaon",
+                    "example_sentence_translation": "গুরুত্বপূর্ণ তথ্যের স্মৃতিচারণ পরীক্ষার জন্য গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Gurutbopurno tothyer smriticharaon porikhar jonyo gurutbopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "transcend",
+            "phonetic": "trænˈsɛnd",
+            "word_native_transliteration": {
+                "bn": "ট্রান্সসেন্ড"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⬆️",
+            "meaning": "To go beyond the limits of something; to surpass or exceed",
+            "example_sentence": "His effort to transcend traditional methods was commendable.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ এফোর্ট টু ট্রান্সসেন্ড ট্র্যাডিশনাল মেথডস ওয়াজ কমেন্ডেবল।"
+            },
+            "position": 2,
+            "synonyms": "surpass, exceed",
+            "antonyms": "fall short, languish",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতীত করা, অতিক্রম করা",
+                    "word_transliteration": "otito kora, otikrom kora",
+                    "example_sentence_translation": "প্রচলিত পদ্ধতিগুলি অতিক্রম করার তার প্রচেষ্টা প্রশংসনীয় ছিল।",
+                    "example_sentence_transliteration": "Procholit poddhotigulio otikrom korar tar procheshta proshongshoniyo chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "mnemonics",
+            "phonetic": "nɪˈmɒnɪks",
+            "word_native_transliteration": {
+                "bn": "ম্নিমনিক্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧩",
+            "meaning": "A technique to aid memory; a device such as a pattern of letters, ideas, or associations",
+            "example_sentence": "Mnemonics help in remembering complex concepts easily.",
+            "example_sentence_native_transliteration": {
+                "bn": "ম্নিমনিক্স হেল্প ইন রিমেম্বারিং কমপ্লেক্স কনসেপ্টস ইজিলি।"
+            },
+            "position": 3,
+            "synonyms": "memory aids, memory tricks",
+            "antonyms": "forgetfulness, inattention",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্মৃতিপথ, স্মরণশক্তি উন্নয়ন পদ্ধতি",
+                    "word_transliteration": "smritipoth, smoronshokti unnoyon poddhoti",
+                    "example_sentence_translation": "ম্নিমনিক্স জটিল ধারণাগুলি সহজে স্মরণ করতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Mnemonics jotil dharonagulio shohoje smoron korte shahajyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cerebral",
+            "phonetic": "ˈsɛrɪbrəl",
+            "word_native_transliteration": {
+                "bn": "সেরেব্রাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧠",
+            "meaning": "Of or relating to the brain or the intellect; intellectual rather than emotional",
+            "example_sentence": "He showed a cerebral approach to solving complex problems.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি শোড এ সেরেব্রাল অ্যাপ্রোচ টু সলভিং কমপ্লেক্স প্রবলেমস।"
+            },
+            "position": 4,
+            "synonyms": "brainy, intellectual",
+            "antonyms": "simple, unintelligent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মস্তিষ্ক-সংক্রান্ত",
+                    "word_transliteration": "mostishko-shongkranto",
+                    "example_sentence_translation": "সে জটিল সমস্যাগুলি সমাধানের জন্য একটি মস্তিষ্ক-সংক্রান্ত দৃষ্টিভঙ্গি দেখিয়েছিল।",
+                    "example_sentence_transliteration": "She jotil shomoshyagulio somadaner jonyo ekti mostishko-shongkranto drishtibhongi dekhiyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "acumen",
+            "phonetic": "ˈækjʊmən",
+            "word_native_transliteration": {
+                "bn": "একিউমেন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💡",
+            "meaning": "The ability to make good judgments and quick decisions, typically in a particular domain",
+            "example_sentence": "Her business acumen helped her lead the company to success.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার বিজনেস একিউমেন হেল্পড হার লিড দ্য কোম্পানি টু সাকসেস।"
+            },
+            "position": 5,
+            "synonyms": "insight, shrewdness",
+            "antonyms": "ignorance, stupidity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষতা, বুদ্ধিমত্তা",
+                    "word_transliteration": "dokkhota, buddhimotta",
+                    "example_sentence_translation": "তার ব্যবসায়িক দক্ষতা তাকে কোম্পানিটি সাফল্যের দিকে নিয়ে গেছে।",
+                    "example_sentence_transliteration": "Tar byabshayik dokkhota take kompaniti shafoler dike niye gechhey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cogitation",
+            "phonetic": "ˌkɒdʒɪˈteɪʃən",
+            "word_native_transliteration": {
+                "bn": "কোজিটেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤔",
+            "meaning": "The action of thinking deeply about something; contemplation",
+            "example_sentence": "After much cogitation, he made the final decision.",
+            "example_sentence_native_transliteration": {
+                "bn": "আফটার মাচ কোজিটেশন, হি মেড দ্য ফাইনাল ডিসিশন।"
+            },
+            "position": 6,
+            "synonyms": "thought, reflection",
+            "antonyms": "indifference, disregard",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চিন্তা, চিন্তাভাবনা",
+                    "word_transliteration": "chinta, chintabhabona",
+                    "example_sentence_translation": "অনেক চিন্তাভাবনার পর, সে চূড়ান্ত সিদ্ধান্ত নেয়।",
+                    "example_sentence_transliteration": "Onek chintabhabonar por, she chuddanto shiddhanto ney.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "concentration",
+            "phonetic": "ˌkɒnsənˈtreɪʃən",
+            "word_native_transliteration": {
+                "bn": "কনসেন্ট্রেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The action or power of focusing one's attention or mental effort on a particular object or activity",
+            "example_sentence": "Concentration is key to mastering any skill.",
+            "example_sentence_native_transliteration": {
+                "bn": "কনসেন্ট্রেশন ইজ কি টু মাস্টারিং এনি স্কিল।"
+            },
+            "position": 7,
+            "synonyms": "focus, attention",
+            "antonyms": "distraction, divertedness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মনোযোগ",
+                    "word_transliteration": "monojog",
+                    "example_sentence_translation": "যেকোনো দক্ষতা অর্জনের জন্য মনোযোগ অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Jekono dokkhota orjoner jonyo monojog ottyonto gurutbopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "inundate",
+            "phonetic": "ˈɪnʌndeɪt",
+            "word_native_transliteration": {
+                "bn": "ইনান্ডেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🌊",
+            "meaning": "To flood; overwhelm someone or something with things or people to be dealt with",
+            "example_sentence": "The company was inundated with requests after the advertisement.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি ওয়াজ ইনান্ডেটেড উইথ রিকোয়েস্টস আফটার দ্য অ্যাডভার্টাইজমেন্ট।"
+            },
+            "position": 8,
+            "synonyms": "overwhelm, flood",
+            "antonyms": "drain, empty",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্লাবিত করা, অগণিত কিছু পাঠানো",
+                    "word_transliteration": "plabito kora, ogonito kichu pathano",
+                    "example_sentence_translation": "বিজ্ঞাপনটির পরে কোম্পানিটি অনুরোধে প্লাবিত হয়েছিল।",
+                    "example_sentence_transliteration": "Biggapantir pore kompaniti onurodhe plabito hoyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "deliberation",
+            "phonetic": "dɪˌlɪbəˈreɪʃən",
+            "word_native_transliteration": {
+                "bn": "ডিলিবেরেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "Long and careful consideration or discussion",
+            "example_sentence": "The deliberation over the new policy took several hours.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডিলিবেরেশন ওভার দ্য নিউ পলিসি টুক সেভেরাল আওয়ারস।"
+            },
+            "position": 9,
+            "synonyms": "discussion, consideration",
+            "antonyms": "haste, impulsiveness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মনোযোগী আলোচনা",
+                    "word_transliteration": "monojogi alochona",
+                    "example_sentence_translation": "নতুন নীতির উপর আলোচনা করতে কয়েক ঘণ্টা সময় লেগেছিল।",
+                    "example_sentence_transliteration": "Notun nitir upor alochona korte koyekh ghonta shomoy legechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "retention",
+            "phonetic": "rɪˈtɛnʃən",
+            "word_native_transliteration": {
+                "bn": "রিটেনশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💾",
+            "meaning": "The continued possession, use, or control of something",
+            "example_sentence": "The retention of information is essential for academic success.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রিটেনশন অফ ইনফরমেশন ইজ এসেনশিয়াল ফর একাডেমিক সাকসেস।"
+            },
+            "position": 10,
+            "synonyms": "memory, storage",
+            "antonyms": "forgetfulness, loss",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ধারণ, রাখা",
+                    "word_transliteration": "dharaon, rakha",
+                    "example_sentence_translation": "তথ্যের ধারণ একাডেমিক সাফল্যের জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Tothyer dharaon akademik shafoler jonyo oporiharro.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "saturation",
+            "phonetic": "ˌsætʃəˈreɪʃən",
+            "word_native_transliteration": {
+                "bn": "স্যাচুরেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💯",
+            "meaning": "The state of being saturated; the degree or extent to which something is dissolved or absorbed",
+            "example_sentence": "The saturation of the market with similar products reduced sales.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্যাচুরেশন অফ দ্য মার্কেট উইথ সিমিলার প্রোডাক্টস রিডিউসড সেলস।"
+            },
+            "position": 11,
+            "synonyms": "overload, maximum",
+            "antonyms": "emptiness, insufficiency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পূর্ণতা, সম্পূর্ণতা",
+                    "word_transliteration": "purnota, shompurnota",
+                    "example_sentence_translation": "একই ধরনের পণ্যসমূহের বাজারে পূর্ণতার কারণে বিক্রয় কমে গেছে।",
+                    "example_sentence_transliteration": "Ekoi dhoroner ponnyoshomuher bajare purnotar karone bikroy kome gechhey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "delineate",
+            "phonetic": "dɪˈlɪnieɪt",
+            "word_native_transliteration": {
+                "bn": "ডেলিনিয়েট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📝",
+            "meaning": "To describe or portray something precisely",
+            "example_sentence": "The artist delineated the scene in intricate detail.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য আর্টিস্ট ডেলিনিয়েটেড দ্য সিন ইন ইনট্রিকেট ডিটেইল।"
+            },
+            "position": 12,
+            "synonyms": "describe, outline",
+            "antonyms": "obscure, confuse",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিশদভাবে বর্ণনা করা",
+                    "word_transliteration": "bishodbhabe bornona kora",
+                    "example_sentence_translation": "শিল্পীটি দৃশ্যটি সূক্ষ্ম বিশদে বর্ণনা করেছিলেন।",
+                    "example_sentence_transliteration": "Shilpiti drishyoti shukkho bishode bornona korechhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "perception",
+            "phonetic": "pərˈsɛpʃən",
+            "word_native_transliteration": {
+                "bn": "পারসেপশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👁️",
+            "meaning": "The ability to see, hear, or become aware of something through the senses",
+            "example_sentence": "Our perception of the situation was shaped by our prior experiences.",
+            "example_sentence_native_transliteration": {
+                "bn": "আওয়ার পারসেপশন অফ দ্য সিচুয়েশন ওয়াজ শেইপড বাই আওয়ার প্রাইওর এক্সপেরিয়েন্সেস।"
+            },
+            "position": 13,
+            "synonyms": "awareness, insight",
+            "antonyms": "misunderstanding, confusion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উপলব্ধি, দৃষ্টিভঙ্গি",
+                    "word_transliteration": "upalabdhi, drishtibhongi",
+                    "example_sentence_translation": "পরিস্থিতির প্রতি আমাদের দৃষ্টিভঙ্গি আমাদের পূর্ব অভিজ্ঞতায় গঠিত হয়েছিল।",
+                    "example_sentence_transliteration": "Poristhitir proti amader drishtibhongi amader purbo obhiggotay gothito hoyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "metacognition",
+            "phonetic": "ˌmɛtəkɒɡˈnɪʃən",
+            "word_native_transliteration": {
+                "bn": "মেটাকগনিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "Awareness and understanding of one's own thought processes",
+            "example_sentence": "Metacognition enhances problem-solving abilities.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেটাকগনিশন এনহান্সেস প্রবলেম-সলভিং অ্যাবিলিটিজ।"
+            },
+            "position": 14,
+            "synonyms": "self-awareness, reflection",
+            "antonyms": "ignorance, unawareness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চিন্তা সম্পর্কে চিন্তা করা",
+                    "word_transliteration": "chinta shomporke chinta kora",
+                    "example_sentence_translation": "মেটাকগনিশন সমস্যা সমাধানের ক্ষমতা উন্নত করে।",
+                    "example_sentence_transliteration": "Metacognition shomoshya shomadaner khomota unnoto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "scrutiny",
+            "phonetic": "ˈskruːtɪni",
+            "word_native_transliteration": {
+                "bn": "স্ক্রুটিনি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔍",
+            "meaning": "Critical observation or examination",
+            "example_sentence": "The new law is under scrutiny by the legislative body.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিউ ল ইজ আন্ডার স্ক্রুটিনি বাই দ্য লেজিসলেটিভ বডি।"
+            },
+            "position": 15,
+            "synonyms": "examination, inspection",
+            "antonyms": "indifference, neglect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিস্তারিত পর্যালোচনা",
+                    "word_transliteration": "bistarito porjalochona",
+                    "example_sentence_translation": "নতুন আইনটি আইনসভা দ্বারা বিস্তারিত পর্যালোচনা করা হচ্ছে।",
+                    "example_sentence_transliteration": "Notun ainuti ainshabha dwara bistarito porjalochona kora hochhhey.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

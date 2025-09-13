@@ -54,9 +54,9 @@ for pdf_file in "$PDF_FOLDER"/*.pdf; do
         > "$individual_prompt_file"
         
         # Read the prompt template and customize it for current PDF
-        sed -e "s|001-learn-vocabulary-through-stories|$pdf_basename|g" \
-            -e "s|/Users/polodev/sites/eng-content/learn_vocabulary_through_stories/001-learn-vocabulary-through-stories.pdf|$pdf_file|g" \
-            -e "s|response-json/001-learn-vocabulary-through-stories.json|response-json/$pdf_basename.json|g" \
+        sed -e "s|01-learn-vocabulary-through-stories|$pdf_basename|g" \
+            -e "s|/Users/polodev/sites/eng-content/learn_vocabulary_through_stories/01-learn-vocabulary-through-stories.pdf|$pdf_file|g" \
+            -e "s|response-json/01-learn-vocabulary-through-stories.json|response-json/$pdf_basename.json|g" \
             "$PROMPT_TEMPLATE_FILE" > "$individual_prompt_file"
         
         echo "Created prompt file: $individual_prompt_file"

@@ -1,0 +1,445 @@
+{
+    "position": 71,
+    "title_translation": {
+        "en": "A Tale of Two Cities",
+        "bn": "A Tale of Two Cities"
+    },
+    "content_translation": {
+        "en": "**A Tale of Two Cities** is Charles Dickens' **greatest triumph**, based on **sacrifice** and **salvation**. This **timeless story** written against the backdrop of the **French Revolution** touches readers' hearts. The novel highlights the dual nature of the relationship between London and Paris cities.\n\nThe story shows the **parallel journey** of the lives of **protagonist** Charles Darnay and **hero** Sydney Carton. Sydney Carton's **self-sacrifice** is one of the most emotional moments of the story. Carton's famous line—\"It is a far, far better thing that I do, than I have ever done\"—remains etched in readers' minds. This **iconic line** is the ultimate example of courage and sacrifice.\n\nAmong the story's **themes** are love, **redemption**, and **revolutionary justice**. Reflections of class **conflict**, **violence**, and social **inequality** are evident. Dickens brings the story to life through his **symbolism** and **narrative style**.\n\nThis **timeless masterpiece** not only deals with **historical context** but also compels us to think about **human nature** and **moral values**. As the ultimate example of **sacrifice**, the character Sydney Carton remains one of **literature's** most influential **heroes**.",
+        "bn": "\"**A Tale of Two Cities**\" চার্লস ডিকেন্সের **greatest triumph**, যা **sacrifice** এবং **salvation** এর উপর ভিত্তি করে লেখা। **French Revolution**-এর পটভূমিতে লেখা এই **timeless story** পাঠকদের মন ছুঁয়ে যায়। উপন্যাসটি London এবং Paris শহরের মধ্যে সম্পর্কের দ্বৈত প্রকৃতি তুলে ধরে।\n\nগল্পের **protagonist** Charles Darnay এবং **hero** Sydney Carton এর জীবন দুটির **parallel journey** দেখানো হয়েছে। Sydney Carton-এর **self-sacrifice** গল্পের অন্যতম আবেগঘন মুহূর্ত। Carton's famous line—\"It is a far, far better thing that I do, than I have ever done\"—পাঠকদের মনে গেঁথে থাকে। এই **iconic line** সাহসিকতা এবং ত্যাগের চূড়ান্ত উদাহরণ।\n\nগল্পের **themes**-গুলোর মধ্যে love, **redemption**, এবং **revolutionary justice** প্রধান। Class **conflict**, **violence**, এবং social **inequality** এর প্রতিফলন দেখা যায়। ডিকেন্স তার **symbolism** এবং **narrative style** এর মাধ্যমে গল্পকে জীবন্ত করে তোলেন।\n\nএই **timeless masterpiece** শুধুমাত্র **historical context** নয়, বরং **human nature** এবং **moral values** নিয়েও আমাদের ভাবতে বাধ্য করে। **Sacrifice**-এর চূড়ান্ত উদাহরণ হিসেবে Sydney Carton চরিত্রটি আজও **literature**-এর অন্যতম প্রভাবশালী **hero**।"
+    },
+    "list": [
+        {
+            "word": "sacrifice",
+            "phonetic": "ˈsækrɪfaɪs",
+            "word_native_transliteration": {
+                "bn": "স্যাক্রিফাইস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🙏",
+            "meaning": "The act of giving up something valued for the sake of something else regarded as more important or worthy.",
+            "example_sentence": "Sacrifice is a central theme of the story.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্যাক্রিফাইস ইজ আ সেন্ট্রাল থিম অফ দ্য স্টোরি।"
+            },
+            "position": 1,
+            "synonyms": "offering, surrender, giving up, devotion, selflessness, martyrdom",
+            "antonyms": "selfishness, greed, self-interest, preservation, keeping, hoarding",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ত্যাগ",
+                    "word_transliteration": "tyag",
+                    "example_sentence_translation": "ত্যাগ গল্পের একটি প্রধান থিম।",
+                    "example_sentence_transliteration": "Tyag golper ekti prodhan thim.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "salvation",
+            "phonetic": "sælˈveɪʃən",
+            "word_native_transliteration": {
+                "bn": "স্যালভেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⛪",
+            "meaning": "Deliverance from sin and its consequences, believed by Christians to be brought about by faith in Christ.",
+            "example_sentence": "The story revolves around the theme of salvation.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্টোরি রিভলভস অ্যারাউন্ড দ্য থিম অফ স্যালভেশন।"
+            },
+            "position": 2,
+            "synonyms": "deliverance, redemption, rescue, liberation, release, freedom",
+            "antonyms": "damnation, despair, condemnation, perdition, ruin, destruction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মুক্তি",
+                    "word_transliteration": "mukti",
+                    "example_sentence_translation": "গল্পটি মুক্তির থিমকে ঘিরে আবর্তিত হয়।",
+                    "example_sentence_transliteration": "Golpoti muktir thimke ghire abortito hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "triumph",
+            "phonetic": "ˈtraɪəmf",
+            "word_native_transliteration": {
+                "bn": "ট্রায়াম্ফ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏆",
+            "meaning": "A great victory or achievement.",
+            "example_sentence": "The novel is considered one of Dickens' greatest triumphs.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নভেল ইজ কনসিডার্ড ওয়ান অফ ডিকেন্স' গ্রেটেস্ট ট্রায়াম্ফস।"
+            },
+            "position": 3,
+            "synonyms": "victory, success, conquest, achievement, accomplishment, win",
+            "antonyms": "defeat, failure, loss, setback, disappointment, catastrophe",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিজয়",
+                    "word_transliteration": "bijoy",
+                    "example_sentence_translation": "এই উপন্যাসটি ডিকেন্সের অন্যতম বৃহত্তম বিজয় হিসেবে বিবেচিত।",
+                    "example_sentence_transliteration": "Ei uponnyasoti Dickenser onnyotom brihotom bijoy hisebe bibechito.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "iconic",
+            "phonetic": "aɪˈkɒnɪk",
+            "word_native_transliteration": {
+                "bn": "আইকনিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⭐",
+            "meaning": "Very famous or popular, especially being considered to represent particular opinions or a particular time.",
+            "example_sentence": "The line \"It was the best of times...\" is iconic.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য লাইন \"ইট ওয়াজ দ্য বেস্ট অফ টাইমস...\" ইজ আইকনিক।"
+            },
+            "position": 4,
+            "synonyms": "legendary, classic, famous, memorable, emblematic, representative",
+            "antonyms": "unremarkable, forgettable, ordinary, insignificant, unknown, obscure",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতীকী",
+                    "word_transliteration": "protiki",
+                    "example_sentence_translation": "\"এটি ছিল সর্বশ্রেষ্ঠ সময়...\" লাইনটি প্রতীকী।",
+                    "example_sentence_transliteration": "\"Eti chhilo sorboshreshtho somoy...\" lainti protiki.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "redemption",
+            "phonetic": "rɪˈdɛmpʃən",
+            "word_native_transliteration": {
+                "bn": "রিডেম্পশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🙌",
+            "meaning": "The action of saving or being saved from sin, error, or evil.",
+            "example_sentence": "The story highlights the theme of redemption.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্টোরি হাইলাইটস দ্য থিম অফ রিডেম্পশন।"
+            },
+            "position": 5,
+            "synonyms": "salvation, deliverance, rescue, recovery, reclamation, atonement",
+            "antonyms": "condemnation, punishment, damnation, perdition, guilt, sin",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মুক্তি",
+                    "word_transliteration": "mukti",
+                    "example_sentence_translation": "গল্পটি মুক্তির থিমটিকে তুলে ধরে।",
+                    "example_sentence_transliteration": "Golpoti muktir thimtike tule dhore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "protagonist",
+            "phonetic": "prəˈtæɡənɪst",
+            "word_native_transliteration": {
+                "bn": "প্রোটাগনিস্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎭",
+            "meaning": "The leading character or one of the major characters in a drama, movie, novel, or other fictional text.",
+            "example_sentence": "Charles Darnay is one of the protagonists of the story.",
+            "example_sentence_native_transliteration": {
+                "bn": "চার্লস ডারনে ইজ ওয়ান অফ দ্য প্রোটাগনিস্টস অফ দ্য স্টোরি।"
+            },
+            "position": 6,
+            "synonyms": "main character, leading character, principal character, central character, hero, heroine",
+            "antonyms": "antagonist, villain, opponent, enemy, adversary, rival",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রধান চরিত্র",
+                    "word_transliteration": "prodhan chorito",
+                    "example_sentence_translation": "চার্লস ডারনে গল্পের প্রধান চরিত্রগুলোর একজন।",
+                    "example_sentence_transliteration": "Charles Darne golper prodhan choritrogulor ekjon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "hero",
+            "phonetic": "ˈhɪrəʊ",
+            "word_native_transliteration": {
+                "bn": "হিরো"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🦸",
+            "meaning": "A person who is admired or idealized for courage, outstanding achievements, or noble qualities.",
+            "example_sentence": "Sydney Carton becomes the ultimate hero through his sacrifice.",
+            "example_sentence_native_transliteration": {
+                "bn": "সিডনি কার্টন বিকমস দ্য আলটিমেট হিরো থ্রু হিজ স্যাক্রিফাইস।"
+            },
+            "position": 7,
+            "synonyms": "champion, brave person, courageous person, protagonist, idol, legend",
+            "antonyms": "villain, opponent, coward, enemy, antagonist, adversary",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নায়ক",
+                    "word_transliteration": "nayok",
+                    "example_sentence_translation": "সিডনি কার্টন তার ত্যাগের মাধ্যমে চূড়ান্ত নায়কে পরিণত হয়।",
+                    "example_sentence_transliteration": "Sidney Carton tar tyager madhyome churanto nayoke porinoto hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "character development",
+            "phonetic": "ˈkærɪktər dɪˈvɛləpmənt",
+            "word_native_transliteration": {
+                "bn": "ক্যারেক্টার ডেভেলপমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "The process of creating a believable character in fiction by giving the character depth and personality.",
+            "example_sentence": "The character development of Sydney Carton is profound.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ক্যারেক্টার ডেভেলপমেন্ট অফ সিডনি কার্টন ইজ প্রফাউন্ড।"
+            },
+            "position": 8,
+            "synonyms": "character growth, character evolution, character progression, personality development",
+            "antonyms": "character stagnation, flatness, one-dimensional character, static character",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চরিত্র বিকাশ",
+                    "word_transliteration": "chorito bikash",
+                    "example_sentence_translation": "সিডনি কার্টনের চরিত্র বিকাশ গভীর।",
+                    "example_sentence_transliteration": "Sidney Cartoner chorito bikash gobhir.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "narrative style",
+            "phonetic": "ˈnærətɪv staɪl",
+            "word_native_transliteration": {
+                "bn": "ন্যারেটিভ স্টাইল"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📝",
+            "meaning": "The way in which a story is told, including the point of view and the voice of the narrator.",
+            "example_sentence": "Dickens' narrative style is engaging and emotional.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিকেন্স' ন্যারেটিভ স্টাইল ইজ এনগেজিং অ্যান্ড ইমোশনাল।"
+            },
+            "position": 9,
+            "synonyms": "storytelling technique, writing style, narrative technique, literary style",
+            "antonyms": "disjointed storytelling, incoherent narrative, poor writing style",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আখ্যান শৈলী",
+                    "word_transliteration": "akhyan shoili",
+                    "example_sentence_translation": "ডিকেন্সের আখ্যান শৈলী আকর্ষণীয় এবং আবেগপূর্ণ।",
+                    "example_sentence_transliteration": "Dickenser akhyan shoili akorshoniyo ebong abegpurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "symbolism",
+            "phonetic": "ˈsɪmbəlɪzəm",
+            "word_native_transliteration": {
+                "bn": "সিম্বলিজম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔣",
+            "meaning": "The use of symbols to represent ideas or qualities.",
+            "example_sentence": "The use of symbolism in the novel is masterful.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইউজ অফ সিম্বলিজম ইন দ্য নভেল ইজ মাস্টারফুল।"
+            },
+            "position": 10,
+            "synonyms": "metaphor, allegory, representation, imagery, figurative language",
+            "antonyms": "literalism, directness, plain language, straightforwardness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতীকী অর্থ",
+                    "word_transliteration": "protiki ortho",
+                    "example_sentence_translation": "উপন্যাসে প্রতীকী অর্থের ব্যবহার নিপুণ।",
+                    "example_sentence_transliteration": "Uponnyase protiki orthher byabohar nipun.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "plot",
+            "phonetic": "plɒt",
+            "word_native_transliteration": {
+                "bn": "প্লট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📖",
+            "meaning": "The main story of a piece of writing, or the series of events that happen in it.",
+            "example_sentence": "The plot of A Tale of Two Cities is intense and gripping.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্লট অফ আ টেল অফ টু সিটিজ ইজ ইনটেন্স অ্যান্ড গ্রিপিং।"
+            },
+            "position": 11,
+            "synonyms": "storyline, narrative, story, sequence of events, framework",
+            "antonyms": "chaos, disorder, confusion, randomness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কাহিনী",
+                    "word_transliteration": "kahini",
+                    "example_sentence_translation": "\"A Tale of Two Cities\"-এর কাহিনী তীব্র এবং মনোমুগ্ধকর।",
+                    "example_sentence_transliteration": "\"A Tale of Two Cities\"-er kahini tibro ebong monomugdhkor.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "theme",
+            "phonetic": "θiːm",
+            "word_native_transliteration": {
+                "bn": "থিম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💡",
+            "meaning": "The subject of a talk, a piece of writing, a person's thoughts, or an exhibition; a topic.",
+            "example_sentence": "Sacrifice and redemption are major themes in the story.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্যাক্রিফাইস অ্যান্ড রিডেম্পশন আর মেজর থিমস ইন দ্য স্টোরি।"
+            },
+            "position": 12,
+            "synonyms": "subject, topic, motif, idea, central idea, message",
+            "antonyms": "randomness, insignificance, irrelevance, chaos",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মূল বিষয়",
+                    "word_transliteration": "mul bishoy",
+                    "example_sentence_translation": "ত্যাগ এবং মুক্তি গল্পের প্রধান বিষয়।",
+                    "example_sentence_transliteration": "Tyag ebong mukti golper prodhan bishoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "revolution",
+            "phonetic": "ˌrɛvəˈluːʃən",
+            "word_native_transliteration": {
+                "bn": "রেভোলিউশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚔️",
+            "meaning": "A forcible overthrow of a government or social order, in favor of a new system.",
+            "example_sentence": "The story is set during the French Revolution.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্টোরি ইজ সেট ডিউরিং দ্য ফ্রেঞ্চ রেভোলিউশন।"
+            },
+            "position": 13,
+            "synonyms": "uprising, revolt, rebellion, coup, insurrection, overthrow",
+            "antonyms": "stability, peace, order, status quo, continuity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিপ্লব",
+                    "word_transliteration": "biplob",
+                    "example_sentence_translation": "গল্পটি ফরাসি বিপ্লবের সময়কাল নিয়ে গঠিত।",
+                    "example_sentence_transliteration": "Golpoti Forashi biplober somoykal niye gothito.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "injustice",
+            "phonetic": "ɪnˈdʒʌstɪs",
+            "word_native_transliteration": {
+                "bn": "ইনজাস্টিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "Lack of fairness or justice; the practice of being unjust or unfair.",
+            "example_sentence": "The story portrays the injustices faced by the common people.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্টোরি পোর্ট্রেস দ্য ইনজাস্টিসেস ফেসড বাই দ্য কমন পিপল।"
+            },
+            "position": 14,
+            "synonyms": "unfairness, inequity, wrongdoing, oppression, discrimination, bias",
+            "antonyms": "justice, fairness, equity, righteousness, impartiality",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অন্যায়",
+                    "word_transliteration": "onnyay",
+                    "example_sentence_translation": "গল্পটি সাধারণ মানুষের মুখোমুখি হওয়া অন্যায়কে চিত্রিত করে।",
+                    "example_sentence_transliteration": "Golpoti sadharon manusher mukhomukhi howa onnyayke chitrito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "inequality",
+            "phonetic": "ˌɪnɪˈkwɒlɪti",
+            "word_native_transliteration": {
+                "bn": "ইনইকুয়ালিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "Difference in size, degree, circumstances, etc.; lack of equality.",
+            "example_sentence": "The theme of inequality is prominent throughout the story.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য থিম অফ ইনইকুয়ালিটি ইজ প্রমিনেন্ট থ্রাউট দ্য স্টোরি।"
+            },
+            "position": 15,
+            "synonyms": "disparity, imbalance, unfairness, discrimination, bias, prejudice",
+            "antonyms": "equality, fairness, balance, uniformity, parity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৈষম্য",
+                    "word_transliteration": "boishomyo",
+                    "example_sentence_translation": "গল্পের পুরো অংশ জুড়ে বৈষম্যের থিমটি স্পষ্ট।",
+                    "example_sentence_transliteration": "Golper puro ongsho jure boishomyer thimti sposhto.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "justice",
+            "phonetic": "ˈdʒʌstɪs",
+            "word_native_transliteration": {
+                "bn": "জাস্টিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "Just behavior or treatment; the quality of being fair and reasonable.",
+            "example_sentence": "Justice is sought by the oppressed characters in the story.",
+            "example_sentence_native_transliteration": {
+                "bn": "জাস্টিস ইজ সট বাই দ্য অপ্রেসড ক্যারেক্টারস ইন দ্য স্টোরি।"
+            },
+            "position": 16,
+            "synonyms": "fairness, equity, righteousness, impartiality, lawfulness, morality",
+            "antonyms": "injustice, unfairness, bias, prejudice, discrimination, oppression",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ন্যায়বিচার",
+                    "word_transliteration": "nyaybichar",
+                    "example_sentence_translation": "গল্পের অত্যাচারিত চরিত্ররা ন্যায়বিচার খোঁজেন।",
+                    "example_sentence_transliteration": "Golper ottyacharito choritro nyaybichar khojen.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,364 @@
+{
+    "position": 75,
+    "title_translation": {
+        "en": "Balancing Work and Family Life",
+        "bn": "কাজ এবং পারিবারিক জীবনের ভারসাম্য"
+    },
+    "content_translation": {
+        "en": "In today's fast-paced life, **work-life balance** has become a major **conundrum**. Maintaining **equilibrium** between family and career is difficult for many.\n\nMany times, the **exorbitant** pressure of work does not allow time for family, which creates **divergence** in relationships. Again, those who give more importance to family see **impediment** in their career.\n\nTo solve this problem, we need to properly **juxtapose** work and family. Planned time management is necessary to **alleviate**.\n\nIf we can properly **assimilate** our time and **mitigate** unnecessary pressure, then this can be a **plausible** solution.\n\nUnderstanding the importance of family relationships and being responsible towards work - **intertwining** these two is the **epitome** of successful work-life balance.",
+        "bn": "আজকের দ্রুতগতির জীবনে **work-life balance** একটি বড় **conundrum** হয়ে দাঁড়িয়েছে। পরিবার এবং ক্যারিয়ারের মধ্যে **equilibrium** বজায় রাখা অনেকের জন্যই কঠিন।\n\nঅনেক সময়, কাজের **exorbitant** চাপ পরিবারকে সময় দিতে দেয় না, যা সম্পর্কের মধ্যে **divergence** সৃষ্টি করে। আবার, যারা পরিবারকেই বেশি গুরুত্ব দেয়, তাদের ক্যারিয়ারে **impediment** দেখা দেয়।\n\nএই সমস্যার সমাধান খুঁজতে হলে আমাদের কাজ এবং পরিবারের মধ্যে সঠিকভাবে **juxtapose** করতে হবে। **Alleviate** করার জন্য পরিকল্পিত সময় ব্যবস্থাপনা জরুরি।\n\nযদি আমরা আমাদের সময়কে সঠিকভাবে **assimilate** করতে পারি এবং অপ্রয়োজনীয় চাপ **mitigate** করতে পারি, তবে এটি একটি **plausible** সমাধান হতে পারে।\n\nপারিবারিক সম্পর্কের গুরুত্ব বোঝা এবং কাজের প্রতি দায়িত্বশীল থাকা—এই দুইকে **intertwine** করাই হলো সফল work-life balance-এর **epitome**।"
+    },
+    "list": [
+        {
+            "word": "work-life balance",
+            "phonetic": "/ˈwɜːrk laɪf ˈbæl.əns/",
+            "word_native_transliteration": {
+                "bn": "ওয়ার্ক লাইফ ব্যালেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "The equilibrium between personal and professional life, ensuring neither dominates at the expense of the other.",
+            "example_sentence": "Achieving work-life balance reduces stress and improves productivity.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাচিভিং ওয়ার্ক-লাইফ ব্যালেন্স রিডিউসেস স্ট্রেস অ্যান্ড ইমপ্রুভস প্রোডাক্টিভিটি।"
+            },
+            "position": 1,
+            "synonyms": "harmony, stability, well-being",
+            "antonyms": "imbalance, overwork, neglect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কাজ ও ব্যক্তিগত জীবনের ভারসাম্য",
+                    "word_transliteration": "kaj o bektigoto jiboner bharoshammyo",
+                    "example_sentence_translation": "কাজ ও ব্যক্তিগত জীবনের ভারসাম্য বজায় রাখা চাপ কমায় এবং উৎপাদনশীলতা বৃদ্ধি করে।",
+                    "example_sentence_transliteration": "Kaj o bektigoto jiboner bharoshammyo bajay rakha chap komay ebong utpadonsheelota briddhi kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "conundrum",
+            "phonetic": "/kəˈnʌn.drəm/",
+            "word_native_transliteration": {
+                "bn": "কোনান্ড্রাম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤔",
+            "meaning": "A confusing and difficult problem or question that is hard to solve or understand.",
+            "example_sentence": "The economic crisis is a conundrum for policymakers.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইকোনমিক ক্রাইসিস ইজ এ কোনান্ড্রাম ফর পলিসিমেকারস।"
+            },
+            "position": 2,
+            "synonyms": "puzzle, dilemma, predicament",
+            "antonyms": "solution, clarity, simplicity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দুর্বোধ্য সমস্যা বা ধাঁধা",
+                    "word_transliteration": "durbodhyo shomoshya ba dhadha",
+                    "example_sentence_translation": "অর্থনৈতিক সংকট নীতিনির্ধারকদের জন্য একটি দুর্বোধ্য সমস্যা।",
+                    "example_sentence_transliteration": "Orthonaitik shongkot nitinirdharkoder jonno ekti durbodhyo shomoshya.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "equilibrium",
+            "phonetic": "/ˌiː.kwɪˈlɪb.ri.əm/",
+            "word_native_transliteration": {
+                "bn": "ইকুইলিব্রিয়াম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "A state of physical balance or stability in physical, mental, or economic conditions.",
+            "example_sentence": "The market reached an equilibrium between supply and demand.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য মার্কেট রিচড অ্যান ইকুইলিব্রিয়াম বিটুইন সাপ্লাই অ্যান্ড ডিমান্ড।"
+            },
+            "position": 3,
+            "synonyms": "balance, stability, steadiness",
+            "antonyms": "imbalance, instability, disequilibrium",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সমতা বা ভারসাম্য",
+                    "word_transliteration": "shomota ba bharoshammyo",
+                    "example_sentence_translation": "বাজারে সরবরাহ ও চাহিদার মধ্যে ভারসাম্য সৃষ্টি হয়েছে।",
+                    "example_sentence_transliteration": "Bajare shorboraho o chahidar moddhe bharoshammyo srishti hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "exorbitant",
+            "phonetic": "/ɪɡˈzɔːr.bɪ.tənt/",
+            "word_native_transliteration": {
+                "bn": "এগজর্বিটেন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💰",
+            "meaning": "Unreasonably high in price or cost; excessive.",
+            "example_sentence": "The hotel charged an exorbitant price for a basic room.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য হোটেল চার্জড অ্যান এগজর্বিটেন্ট প্রাইস ফর এ বেসিক রুম।"
+            },
+            "position": 4,
+            "synonyms": "excessive, overpriced, outrageous",
+            "antonyms": "reasonable, affordable, moderate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতিরিক্ত ব্যয়বহুল",
+                    "word_transliteration": "otirikto byoyobohul",
+                    "example_sentence_translation": "হোটেলটি একটি সাধারণ কক্ষের জন্য অত্যধিক মূল্য নির্ধারণ করেছিল।",
+                    "example_sentence_transliteration": "Hotelti ekti shadharon kokkher jonno ottodhik mulyo nirdharon korechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "divergence",
+            "phonetic": "/daɪˈvɜː.dʒəns/",
+            "word_native_transliteration": {
+                "bn": "ডাইভার্জেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "↗️",
+            "meaning": "The process or state of diverging; a difference or deviation between two or more things.",
+            "example_sentence": "The divergence in their opinions led to a heated debate.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডাইভার্জেন্স ইন দেয়ার ওপিনিয়নস লেড টু এ হিটেড ডিবেট।"
+            },
+            "position": 5,
+            "synonyms": "deviation, separation, disparity",
+            "antonyms": "convergence, agreement, similarity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিচ্ছিন্নতা বা ভিন্নমত",
+                    "word_transliteration": "bicchinnota ba bhinnomot",
+                    "example_sentence_translation": "তাদের মতপার্থক্যের কারণে উত্তপ্ত বিতর্ক সৃষ্টি হয়।",
+                    "example_sentence_transliteration": "Tader motoparthokker karone uttop্to bitorko srishti hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "impediment",
+            "phonetic": "/ɪmˈpɛd.ɪ.mənt/",
+            "word_native_transliteration": {
+                "bn": "ইমপেডিমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚫",
+            "meaning": "A hindrance or obstruction in doing something; something that prevents progress.",
+            "example_sentence": "Lack of funds is a major impediment to the project.",
+            "example_sentence_native_transliteration": {
+                "bn": "ল্যাক অফ ফান্ডস ইজ এ মেজর ইমপেডিমেন্ট টু দ্য প্রজেক্ট।"
+            },
+            "position": 6,
+            "synonyms": "obstacle, hindrance, barrier",
+            "antonyms": "aid, assistance, facilitation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিবন্ধকতা বা বাধা",
+                    "word_transliteration": "protibandhokota ba badha",
+                    "example_sentence_translation": "তহবিলের অভাব প্রকল্পের জন্য একটি বড় বাধা।",
+                    "example_sentence_transliteration": "Tohobiler ovab prokolper jonno ekti boro badha.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "juxtapose",
+            "phonetic": "/ˈdʒʌk.stə.poʊz/",
+            "word_native_transliteration": {
+                "bn": "জাক্সটাপোজ"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔄",
+            "meaning": "To place two different things close together to show how they are different or similar.",
+            "example_sentence": "The artist juxtaposed traditional and modern elements in his painting.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য আর্টিস্ট জাক্সটাপোজড ট্র্যাডিশনাল অ্যান্ড মডার্ন এলিমেন্টস ইন হিজ পেইন্টিং।"
+            },
+            "position": 7,
+            "synonyms": "compare, contrast, align",
+            "antonyms": "separate, disconnect, isolate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পারস্পরিক তুলনার জন্য পাশাপাশি রাখা",
+                    "word_transliteration": "parosprik tulnar jonno pashapashi rakha",
+                    "example_sentence_translation": "শিল্পী তার চিত্রকর্মে ঐতিহ্যবাহী ও আধুনিক উপাদান পাশাপাশি রেখেছেন।",
+                    "example_sentence_transliteration": "Shilpi tar chitrokormo aitihyobahi o adhunik upodan pashapashi rekhechen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "alleviate",
+            "phonetic": "/əˈliː.vi.eɪt/",
+            "word_native_transliteration": {
+                "bn": "অ্যালিভিয়েট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "😌",
+            "meaning": "To make suffering, deficiency, or a problem less severe; to relieve or ease.",
+            "example_sentence": "Meditation can alleviate stress and improve focus.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেডিটেশন ক্যান অ্যালিভিয়েট স্ট্রেস অ্যান্ড ইমপ্রুভ ফোকাস।"
+            },
+            "position": 8,
+            "synonyms": "reduce, relieve, mitigate",
+            "antonyms": "aggravate, worsen, intensify",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রশমিত করা বা লাঘব করা",
+                    "word_transliteration": "proshomito kora ba laghob kora",
+                    "example_sentence_translation": "ধ্যান চাপ কমাতে এবং মনোযোগ বৃদ্ধি করতে সহায়ক।",
+                    "example_sentence_transliteration": "Dhyan chap komate ebong monoyog briddhi korte shohayok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "assimilate",
+            "phonetic": "/əˈsɪm.ɪ.leɪt/",
+            "word_native_transliteration": {
+                "bn": "অ্যাসিমিলেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🧠",
+            "meaning": "To take in and understand fully; to absorb and integrate into one's knowledge or culture.",
+            "example_sentence": "Immigrants often struggle to assimilate into a new culture.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইমিগ্রেন্টস অফেন স্ট্রাগল টু অ্যাসিমিলেট ইনটু এ নিউ কালচার।"
+            },
+            "position": 9,
+            "synonyms": "integrate, absorb, adapt",
+            "antonyms": "reject, isolate, exclude",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আত্মীকরণ বা গ্রহণ করা",
+                    "word_transliteration": "attmikoron ba grohan kora",
+                    "example_sentence_translation": "অভিবাসীরা প্রায়ই নতুন সংস্কৃতির সাথে খাপ খাওয়াতে সংগ্রাম করে।",
+                    "example_sentence_transliteration": "Ovibasira prayoi notun shongskriti shate khap khaoyate sho ngram kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "mitigate",
+            "phonetic": "/ˈmɪt.ɪ.ɡeɪt/",
+            "word_native_transliteration": {
+                "bn": "মিটিগেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📉",
+            "meaning": "To make less severe, serious, or painful; to lessen the severity of damage or harm.",
+            "example_sentence": "Proper planning can mitigate financial risks.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রপার প্ল্যানিং ক্যান মিটিগেট ফিনান্সিয়াল রিস্কস।"
+            },
+            "position": 10,
+            "synonyms": "alleviate, reduce, lessen",
+            "antonyms": "aggravate, intensify, exacerbate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রশমিত করা বা কমানো",
+                    "word_transliteration": "proshomito kora ba komano",
+                    "example_sentence_translation": "সঠিক পরিকল্পনা আর্থিক ঝুঁকি প্রশমিত করতে পারে।",
+                    "example_sentence_transliteration": "Shothik porikolpona arthik jhuki proshomito korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "plausible",
+            "phonetic": "/ˈplɔː.zə.bəl/",
+            "word_native_transliteration": {
+                "bn": "প্লজিবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "✅",
+            "meaning": "Seeming reasonable or probable; credible or believable.",
+            "example_sentence": "His excuse seemed plausible, but I had my doubts.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ এক্সকিউজ সিমড প্লজিবল, বাট আই হ্যাড মাই ডাউটস।"
+            },
+            "position": 11,
+            "synonyms": "reasonable, credible, believable",
+            "antonyms": "implausible, unbelievable, irrational",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিশ্বাসযোগ্য বা গ্রহণযোগ্য",
+                    "word_transliteration": "bishashyoggo ba grohonyoggo",
+                    "example_sentence_translation": "তার অজুহাত বিশ্বাসযোগ্য মনে হলো, তবে আমার সন্দেহ ছিল।",
+                    "example_sentence_transliteration": "Tar ojuhat bishashyoggo mone hollo, tobe amar shondeho chilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "intertwine",
+            "phonetic": "/ˌɪn.tɚˈtwaɪn/",
+            "word_native_transliteration": {
+                "bn": "ইন্টারট্বাইন"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🤝",
+            "meaning": "To connect or link closely; to twist together or combine closely.",
+            "example_sentence": "Their lives became intertwined through years of friendship.",
+            "example_sentence_native_transliteration": {
+                "bn": "দেয়ার লাইভস বিকেম ইন্টারট্বাইনড থ্রু ইয়ারস অফ ফ্রেন্ডশিপ।"
+            },
+            "position": 12,
+            "synonyms": "connect, entangle, weave",
+            "antonyms": "separate, disconnect, untangle",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরস্পরের সাথে জড়িয়ে যাওয়া বা সংযুক্ত হওয়া",
+                    "word_transliteration": "porosporer shathe joriye jaoya ba shongjukto hooya",
+                    "example_sentence_translation": "বহু বছরের বন্ধুত্বের ফলে তাদের জীবন পরস্পরের সাথে জড়িয়ে গিয়েছিল।",
+                    "example_sentence_transliteration": "Bohu bochorer bondhuttver fole tader jibon porosporer shathe joriye giyechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "epitome",
+            "phonetic": "/ɪˈpɪt.ə.mi/",
+            "word_native_transliteration": {
+                "bn": "এপিটমি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👑",
+            "meaning": "A perfect example of a particular quality or type; the best representation of something.",
+            "example_sentence": "She is the epitome of grace and kindness.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি ইজ দ্য এপিটমি অফ গ্রেস অ্যান্ড কাইন্ডনেস।"
+            },
+            "position": 13,
+            "synonyms": "embodiment, essence, ideal",
+            "antonyms": "imperfection, antithesis, opposite",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উৎকৃষ্ট উদাহরণ বা প্রতীক",
+                    "word_transliteration": "utkrisht udaharon ba protik",
+                    "example_sentence_translation": "তিনি সৌন্দর্য ও দয়ার উৎকৃষ্ট উদাহরণ।",
+                    "example_sentence_transliteration": "Tini shoundryo o doyar utkrisht udaharon.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

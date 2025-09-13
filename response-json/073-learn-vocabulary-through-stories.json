@@ -1,0 +1,445 @@
+{
+    "position": 73,
+    "title_translation": {
+        "en": "As a Man Thinketh",
+        "bn": "মানুষ যেমন চিন্তা করে"
+    },
+    "content_translation": {
+        "en": "The stream of thought of a person determines their future. Without **cognizance** and **discernment**, a person cannot create their own **manifestation**.\n\nMany people think that **inequity** is the main obstacle in their life, but in reality, this is only a **paradox**. The reality is that the **efficacy** and **fortitude** of our thoughts determine our destiny.\n\nA person who practices **introspection** develops **acumen**, which helps them maintain **rectitude**. Life is a **dichotomy**, where **ephemeral** things become obstacles in the path of achieving **transcendence**.\n\nTherefore, if one learns to think **omnipotent** thoughts and embraces **metamorphosis**, they can recreate themselves anew. A truly **sagacious** person knows that thought is power, and the proper application of this power will shape their future.",
+        "bn": "একজন মানুষের চিন্তাধারা তার ভবিষ্যৎ নির্ধারণ করে। **Cognizance** এবং **discernment** ছাড়া, একজন ব্যক্তি নিজের **manifestation** তৈরি করতে পারে না।\n\nঅনেকে মনে করেন, **inequity** তাদের জীবনের প্রধান বাধা, কিন্তু প্রকৃতপক্ষে, এটি কেবল **paradox**। বাস্তবতা হলো, আমাদের চিন্তার **efficacy** এবং **fortitude** আমাদের নিয়তি নির্ধারণ করে।\n\nযে ব্যক্তি **introspection** চর্চা করে, তার মধ্যে **acumen** গড়ে ওঠে, যা তাকে **rectitude** বজায় রাখতে সাহায্য করে। জীবন এক **dichotomy**, যেখানে **ephemeral** বিষয়গুলো **transcendence** অর্জনের পথে বাধা হয়ে দাঁড়ায়।\n\nঅতএব, যদি কেউ **omnipotent** চিন্তা করতে শেখে এবং **metamorphosis** গ্রহণ করে, তবে সে নিজেকে নতুনভাবে তৈরি করতে পারবে। সত্যিকারের **sagacious** ব্যক্তি জানে যে চিন্তাই শক্তি এবং এই শক্তির সঠিক প্রয়োগই তার ভবিষ্যৎ গড়ে দেবে।"
+    },
+    "list": [
+        {
+            "word": "cognizance",
+            "phonetic": "/ˈkɒɡ.nɪ.zəns/",
+            "word_native_transliteration": {
+                "bn": "কগনিজান্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧠",
+            "meaning": "Awareness, knowledge, or understanding of something; conscious perception.",
+            "example_sentence": "The judge took cognizance of the new evidence.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য জাজ টুক কগনিজান্স অভ দ্য নিউ এভিডেন্স।"
+            },
+            "position": 1,
+            "synonyms": "awareness, perception, understanding",
+            "antonyms": "ignorance, unawareness, oblivion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সচেতনতা",
+                    "word_transliteration": "sochetonta",
+                    "example_sentence_translation": "বিচারক নতুন প্রমাণের ব্যাপারে সচেতনতা নিলেন।",
+                    "example_sentence_transliteration": "Bicharok notun promaner byapare sochetonta nilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "discernment",
+            "phonetic": "/dɪˈsɜːn.mənt/",
+            "word_native_transliteration": {
+                "bn": "ডিসার্নমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔍",
+            "meaning": "The ability to judge well or understand something correctly; keen insight.",
+            "example_sentence": "His discernment in business decisions made him successful.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ডিসার্নমেন্ট ইন বিজনেস ডিসিশনস মেইড হিম সাকসেসফুল।"
+            },
+            "position": 2,
+            "synonyms": "insight, perception, judgment",
+            "antonyms": "ignorance, indiscretion, foolishness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিচক্ষণতা",
+                    "word_transliteration": "bichokkhonota",
+                    "example_sentence_translation": "ব্যবসায়িক সিদ্ধান্ত নেওয়ার তার বিচক্ষণতা তাকে সফল করেছে।",
+                    "example_sentence_transliteration": "Byabasayik siddhanto neowar tar bichokkhonota take sofol koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "manifestation",
+            "phonetic": "/ˌmæn.ɪ.fɛsˈteɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ম্যানিফেস্টেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✨",
+            "meaning": "A visible form or expression of an idea, concept, or feeling; the action of displaying or showing.",
+            "example_sentence": "His generosity was a manifestation of his kind nature.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ জেনেরসিটি ওয়াজ এ ম্যানিফেস্টেশন অভ হিজ কাইন্ড নেচার।"
+            },
+            "position": 3,
+            "synonyms": "expression, display, demonstration",
+            "antonyms": "concealment, obscurity, disguise",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রকাশ",
+                    "word_transliteration": "prokash",
+                    "example_sentence_translation": "তার উদারতা তার দয়ালু প্রকৃতির প্রতিফলন ছিল।",
+                    "example_sentence_transliteration": "Tar udarota tar doyalu prokritir protipholon chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "inequity",
+            "phonetic": "/ɪnˈɛk.wɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "ইনইকুইটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "Lack of fairness or justice; unequal distribution or treatment.",
+            "example_sentence": "Social inequity continues to be a global issue.",
+            "example_sentence_native_transliteration": {
+                "bn": "সোশাল ইনইকুইটি কন্টিনিউজ টু বি এ গ্লোবাল ইস্যু।"
+            },
+            "position": 4,
+            "synonyms": "unfairness, discrimination, bias",
+            "antonyms": "equity, fairness, impartiality",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অন্যায়তা",
+                    "word_transliteration": "onyayota",
+                    "example_sentence_translation": "সামাজিক বৈষম্য এখনও একটি বৈশ্বিক সমস্যা।",
+                    "example_sentence_transliteration": "Samajik boishomyo ekhono ekti boishbik somossa.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "paradox",
+            "phonetic": "/ˈpær.ə.dɒks/",
+            "word_native_transliteration": {
+                "bn": "প্যারাডক্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "A seemingly contradictory statement or situation that may be true; an apparent inconsistency.",
+            "example_sentence": "The paradox of freedom is that it requires rules.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্যারাডক্স অভ ফ্রিডম ইজ দ্যাট ইট রিকোয়ায়ার্স রুলস।"
+            },
+            "position": 5,
+            "synonyms": "contradiction, irony, inconsistency",
+            "antonyms": "consistency, harmony, agreement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৈপরীত্য",
+                    "word_transliteration": "boiporito",
+                    "example_sentence_translation": "স্বাধীনতার বৈপরীত্য হলো এটি নিয়মের প্রয়োজনীয়তা সৃষ্টি করে।",
+                    "example_sentence_transliteration": "Shadhinotar boiporito holo eti niyomer proyojoniyota srishti kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "efficacy",
+            "phonetic": "/ˈɛf.ɪ.kə.si/",
+            "word_native_transliteration": {
+                "bn": "এফিকেসি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "The ability to produce a desired or intended result; effectiveness.",
+            "example_sentence": "The efficacy of the vaccine has been proven in trials.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এফিকেসি অভ দ্য ভ্যাকসিন হ্যাজ বিন প্রুভেন ইন ট্রায়ালস।"
+            },
+            "position": 6,
+            "synonyms": "effectiveness, efficiency, success",
+            "antonyms": "inefficacy, failure, uselessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কার্যকারিতা",
+                    "word_transliteration": "karjokarita",
+                    "example_sentence_translation": "এই টিকার কার্যকারিতা পরীক্ষায় প্রমাণিত হয়েছে।",
+                    "example_sentence_transliteration": "Ei tikar karjokarita porikkhay promanioto hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fortitude",
+            "phonetic": "/ˈfɔːr.tɪ.tjuːd/",
+            "word_native_transliteration": {
+                "bn": "ফর্টিটিউড"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛡️",
+            "meaning": "Courage in pain or adversity; mental and emotional strength in facing difficulty.",
+            "example_sentence": "She faced adversity with great fortitude.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি ফেসড অ্যাডভার্সিটি উইথ গ্রেট ফর্টিটিউড।"
+            },
+            "position": 7,
+            "synonyms": "courage, resilience, endurance",
+            "antonyms": "weakness, cowardice, fear",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মানসিক শক্তি",
+                    "word_transliteration": "manoshik shokti",
+                    "example_sentence_translation": "তিনি প্রতিকূলতাকে অসাধারণ মানসিক শক্তির সাথে মোকাবিলা করেছেন।",
+                    "example_sentence_transliteration": "Tini protikultake oshadharon manoshik shoktir sathe mokabila korechen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "introspection",
+            "phonetic": "/ˌɪn.trəˈspek.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ইনট্রোস্পেকশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🪞",
+            "meaning": "The examination or observation of one's own mental and emotional processes; self-reflection.",
+            "example_sentence": "Through introspection, she gained insight into her emotions.",
+            "example_sentence_native_transliteration": {
+                "bn": "থ্রু ইনট্রোস্পেকশন, শি গেইনড ইনসাইট ইনটু হার ইমোশনস।"
+            },
+            "position": 8,
+            "synonyms": "reflection, self-examination, contemplation",
+            "antonyms": "extrospection, distraction, negligence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আত্মজিজ্ঞাসা",
+                    "word_transliteration": "attojiggyasha",
+                    "example_sentence_translation": "আত্মজিজ্ঞাসার মাধ্যমে তিনি তার অনুভূতি সম্পর্কে গভীর উপলব্ধি লাভ করেন।",
+                    "example_sentence_transliteration": "Attojiggyashar madhome tini tar onubhuti shomporke gobhir upolabdhi labh koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "acumen",
+            "phonetic": "/ˈæk.jʊ.mən/",
+            "word_native_transliteration": {
+                "bn": "অ্যাকুমেন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The ability to make good judgments and quick decisions; keenness and depth of perception.",
+            "example_sentence": "His business acumen helped the company grow rapidly.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ বিজনেস অ্যাকুমেন হেল্পড দ্য কোম্পানি গ্রো র্যাপিডলি।"
+            },
+            "position": 9,
+            "synonyms": "sharpness, insight, shrewdness",
+            "antonyms": "ignorance, ineptitude, foolishness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিচারশক্তি",
+                    "word_transliteration": "bicharshokti",
+                    "example_sentence_translation": "তার ব্যবসায়িক বিচক্ষণতা কোম্পানির দ্রুত উন্নতিতে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Tar byabasayik bichokkhonota kompanir druto unnotite sahajjo koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "rectitude",
+            "phonetic": "/ˈrɛk.tɪ.tjuːd/",
+            "word_native_transliteration": {
+                "bn": "রেকটিটিউড"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "Morally correct behavior or thinking; righteousness and integrity.",
+            "example_sentence": "His rectitude earned him respect in society.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ রেকটিটিউড আর্নড হিম রিস্পেক্ট ইন সোসাইটি।"
+            },
+            "position": 10,
+            "synonyms": "integrity, righteousness, morality",
+            "antonyms": "corruption, dishonesty, immorality",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নৈতিকতা",
+                    "word_transliteration": "noitikota",
+                    "example_sentence_translation": "তার নৈতিকতা তাকে সমাজে সম্মান এনে দিয়েছে।",
+                    "example_sentence_transliteration": "Tar noitikota take somaje shomman ene diyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dichotomy",
+            "phonetic": "/daɪˈkɒt.ə.mi/",
+            "word_native_transliteration": {
+                "bn": "ডাইকটমি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "A division or contrast between two things that are or are represented as being opposed or entirely different.",
+            "example_sentence": "The dichotomy between tradition and modernity is evident.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডাইকটমি বিটুইন ট্রেডিশন অ্যান্ড মডার্নিটি ইজ এভিডেন্ট।"
+            },
+            "position": 11,
+            "synonyms": "division, contrast, duality",
+            "antonyms": "unity, similarity, agreement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৈপরীত্য",
+                    "word_transliteration": "boiporito",
+                    "example_sentence_translation": "প্রথা ও আধুনিকতার মধ্যে বৈপরীত্য স্পষ্ট।",
+                    "example_sentence_transliteration": "Protha o adhunikottar moddhe boiporito sposhto.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ephemeral",
+            "phonetic": "/ɪˈfɛm.ər.əl/",
+            "word_native_transliteration": {
+                "bn": "এফিমেরাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌸",
+            "meaning": "Lasting for a very short time; temporary or transitory.",
+            "example_sentence": "The beauty of cherry blossoms is ephemeral.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য বিউটি অভ চেরি ব্লসমস ইজ এফিমেরাল।"
+            },
+            "position": 12,
+            "synonyms": "short-lived, transient, fleeting",
+            "antonyms": "permanent, lasting, enduring",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বল্পস্থায়ী",
+                    "word_transliteration": "sholposthayee",
+                    "example_sentence_translation": "চেরি ফুলের সৌন্দর্য স্বল্পস্থায়ী।",
+                    "example_sentence_transliteration": "Cheri phuler soundrjo sholposthayee.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "transcendence",
+            "phonetic": "/trænˈsɛnd.əns/",
+            "word_native_transliteration": {
+                "bn": "ট্রান্সেনডেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌟",
+            "meaning": "The state of going beyond normal or physical human limitations; spiritual or mystical elevation.",
+            "example_sentence": "Meditation leads to a state of transcendence beyond worldly concerns.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেডিটেশন লিডস টু এ স্টেট অভ ট্রান্সেনডেন্স বিয়ন্ড ওয়ার্ল্ডলি কনসার্নস।"
+            },
+            "position": 13,
+            "synonyms": "superiority, supremacy, elevation",
+            "antonyms": "limitation, confinement, inferiority",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতিক্রম",
+                    "word_transliteration": "otikrom",
+                    "example_sentence_translation": "ধ্যান পার্থিব চিন্তার ঊর্ধ্বে একটি অবস্থায় নিয়ে যায়।",
+                    "example_sentence_transliteration": "Dhyan parthib chintar urdhbe ekti obosthay niye jay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "omnipotent",
+            "phonetic": "/ɒmˈnɪp.ə.tənt/",
+            "word_native_transliteration": {
+                "bn": "অমনিপোটেন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚡",
+            "meaning": "Having unlimited power; able to do anything; all-powerful.",
+            "example_sentence": "In many religions, God is considered omnipotent.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইন মেনি রিলিজিয়নস, গড ইজ কনসিডারড অমনিপোটেন্ট।"
+            },
+            "position": 14,
+            "synonyms": "almighty, all-powerful, supreme",
+            "antonyms": "powerless, weak, limited",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সর্বশক্তিমান",
+                    "word_transliteration": "sorboshektiman",
+                    "example_sentence_translation": "অনেক ধর্মে, ঈশ্বরকে সর্বশক্তিমান হিসেবে বিবেচনা করা হয়।",
+                    "example_sentence_transliteration": "Onek dhorme, ishborke sorboshektiman hisebe bibechona kora hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "metamorphosis",
+            "phonetic": "/ˌmɛt.əˈmɔːr.fə.sɪs/",
+            "word_native_transliteration": {
+                "bn": "মেটামরফোসিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🦋",
+            "meaning": "A complete change of form, structure, or substance; transformation.",
+            "example_sentence": "The metamorphosis of a caterpillar into a butterfly is fascinating.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য মেটামরফোসিস অভ এ ক্যাটারপিলার ইনটু এ বাটারফ্লাই ইজ ফ্যাসিনেটিং।"
+            },
+            "position": 15,
+            "synonyms": "transformation, evolution, conversion",
+            "antonyms": "stagnation, constancy, sameness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিবর্তন",
+                    "word_transliteration": "poriborton",
+                    "example_sentence_translation": "একটি শুঁয়োপোকার প্রজাপতিতে রূপান্তর বিস্ময়কর।",
+                    "example_sentence_transliteration": "Ekti shunyopokar projapotite rupantor bishmoykr.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sagacious",
+            "phonetic": "/səˈɡeɪ.ʃəs/",
+            "word_native_transliteration": {
+                "bn": "স্যাগেশাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🦉",
+            "meaning": "Having or showing keen mental discernment and good judgment; wise.",
+            "example_sentence": "His sagacious leadership saved the company from failure.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ স্যাগেশাস লিডারশিপ সেইভড দ্য কোম্পানি ফ্রম ফেইলিওর।"
+            },
+            "position": 16,
+            "synonyms": "wise, insightful, perceptive",
+            "antonyms": "foolish, shortsighted, unwise",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিচক্ষণ",
+                    "word_transliteration": "bichokkhon",
+                    "example_sentence_translation": "তার বিচক্ষণ নেতৃত্ব কোম্পানিকে ব্যর্থতা থেকে রক্ষা করেছে।",
+                    "example_sentence_transliteration": "Tar bichokkhon netrito kompanike byrththota theke rokkha koreche.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

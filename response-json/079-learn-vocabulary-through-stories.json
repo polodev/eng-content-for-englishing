@@ -1,0 +1,553 @@
+{
+    "position": 79,
+    "title_translation": {
+        "en": "Breathing Techniques for Instant Calmness",
+        "bn": "তাৎক্ষণিক শান্তির জন্য শ্বাস-প্রশ্বাসের কৌশল"
+    },
+    "content_translation": {
+        "en": "Breathing control is a powerful method that helps reduce **anxiety** and restore **composure**. When we use proper **breathing techniques**, our **neurological** system becomes calm and **equilibrium** returns. When we take deep **exhalation**, it helps the body **decompress** and tension **dissipates**. Increased **oxygenation** helps **invigorate** our brain and gives the mind more **serenity**. Through proper **modulation**, we can slow down breathing and normalize **physiological** processes. This creates **resonance**, which brings peace to our body and mind.\n\nThese breathing techniques not only **alleviate** mental stress, but also increase our **vigilance** and help maintain focus. Therefore, with proper **regulation** and **mindfulness** practice, we can easily **rejuvenate** ourselves and maintain a lasting **pacify** state.",
+        "bn": "শ্বাস-প্রশ্বাস নিয়ন্ত্রণ একটি শক্তিশালী উপায় যা **anxiety** কমিয়ে **composure** ফিরিয়ে আনতে সাহায্য করে। সঠিক **breathing techniques** ব্যবহার করলে আমাদের **neurological** সিস্টেম শান্ত হয় এবং **equilibrium** ফিরে আসে। যখন আমরা গভীর **exhalation** করি, তখন এটি শরীরকে **decompress** করতে সাহায্য করে এবং চাপ **dissipate** হয়। **Oxygenation** বাড়িয়ে এটি আমাদের মস্তিষ্ককে **invigorate** করে এবং মনকে আরও **serenity** দেয়। সঠিক **modulation**-এর মাধ্যমে আমরা শ্বাসকে ধীর করে **physiological** প্রক্রিয়াকে স্বাভাবিক করতে পারি। এটি **resonance** তৈরি করে, যা আমাদের শরীর ও মনে প্রশান্তি আনে।\n\nএই শ্বাস-প্রশ্বাস কৌশলগুলো শুধু মানসিক চাপ **alleviate** করে না, বরং আমাদের **vigilance** বাড়িয়ে মনোযোগ ধরে রাখতে সাহায্য করে। তাই, সঠিক **regulation** এবং **mindfulness** চর্চা করলে আমরা সহজেই নিজেদের **rejuvenate** করতে পারি এবং দীর্ঘস্থায়ী **pacify** অবস্থা বজায় রাখতে পারি।"
+    },
+    "list": [
+        {
+            "word": "anxiety",
+            "phonetic": "/æŋˈzaɪ.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "অ্যাংজাইয়েটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "😰",
+            "meaning": "A feeling of worry, nervousness, or unease about something with an uncertain outcome.",
+            "example_sentence": "Meditation helps reduce anxiety and stress.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেডিটেশন হেল্পস রিডিউস অ্যাংজাইয়েটি অ্যান্ড স্ট্রেস।"
+            },
+            "position": 1,
+            "synonyms": "stress, nervousness, worry",
+            "antonyms": "calmness, relaxation, confidence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্বেগ বা দুশ্চিন্তা",
+                    "word_transliteration": "udweg ba dushchinta",
+                    "example_sentence_translation": "ধ্যান উদ্বেগ এবং চাপ কমাতে সহায়তা করে।",
+                    "example_sentence_transliteration": "Dhyan udweg ebong chap kamate sahayota kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "composure",
+            "phonetic": "/kəmˈpəʊ.ʒər/",
+            "word_native_transliteration": {
+                "bn": "কম্পোজার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧘",
+            "meaning": "The state or feeling of being calm and in control of oneself.",
+            "example_sentence": "She maintained her composure during the interview.",
+            "example_sentence_native_transliteration": {
+                "bn": "শী মেইনটেইনড হার কম্পোজার ডিউরিং দ্য ইন্টারভিউ।"
+            },
+            "position": 2,
+            "synonyms": "calmness, serenity, poise",
+            "antonyms": "agitation, anxiety, distress",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শান্ত মনোভাব বা আত্মসংযম",
+                    "word_transliteration": "shanto monobhab ba attomshongom",
+                    "example_sentence_translation": "তিনি সাক্ষাৎকারের সময় তার আত্মসংযম বজায় রেখেছিলেন।",
+                    "example_sentence_transliteration": "Tini sakkhatkarer shomoy tar attomshongom bojay rekhechhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "breathing techniques",
+            "phonetic": "/ˈbriː.ðɪŋ tɛkˌniːks/",
+            "word_native_transliteration": {
+                "bn": "ব্রিদিং টেকনিক্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🫁",
+            "meaning": "Methods of controlling breathing to achieve relaxation and improve health.",
+            "example_sentence": "Breathing techniques help in reducing stress and anxiety.",
+            "example_sentence_native_transliteration": {
+                "bn": "ব্রিদিং টেকনিক্স হেল্প ইন রিডিউসিং স্ট্রেস অ্যান্ড অ্যাংজাইয়েটি।"
+            },
+            "position": 3,
+            "synonyms": "respiratory exercises, deep breathing, controlled breathing",
+            "antonyms": "shallow breathing, hyperventilation, unregulated breathing",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শ্বাস-প্রশ্বাসের কৌশল",
+                    "word_transliteration": "shash-proshwasher koushal",
+                    "example_sentence_translation": "শ্বাস-প্রশ্বাসের কৌশল চাপ ও উদ্বেগ কমাতে সহায়ক।",
+                    "example_sentence_transliteration": "Shash-proshwasher koushal chap o udweg kamate sahayok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "neurological",
+            "phonetic": "/ˌnjʊə.rəˈlɒdʒ.ɪ.kəl/",
+            "word_native_transliteration": {
+                "bn": "নিউরোলজিক্যাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧠",
+            "meaning": "Relating to the anatomy, functions, and organic disorders of nerves and the nervous system.",
+            "example_sentence": "Meditation has positive neurological effects on mental health.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেডিটেশন হ্যাজ পজিটিভ নিউরোলজিক্যাল ইফেক্টস অন মেন্টাল হেলথ।"
+            },
+            "position": 4,
+            "synonyms": "neural, brain-related, cognitive",
+            "antonyms": "non-neurological, peripheral, unrelated to brain",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্নায়ুবৈজ্ঞানিক বা স্নায়ুসম্পর্কিত",
+                    "word_transliteration": "snayubaiggyanik ba snayushomporkito",
+                    "example_sentence_translation": "ধ্যান মানসিক স্বাস্থ্যের উপর ইতিবাচক স্নায়ুবৈজ্ঞানিক প্রভাব ফেলে।",
+                    "example_sentence_transliteration": "Dhyan manoshik swasther upor itibachok snayubaiggyanik prabhab phele.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "equilibrium",
+            "phonetic": "/ˌiː.kwɪˈlɪb.ri.əm/",
+            "word_native_transliteration": {
+                "bn": "ইকুইলিব্রিয়াম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "A state in which opposing forces or influences are balanced.",
+            "example_sentence": "Yoga helps in achieving mental equilibrium.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইয়োগা হেল্পস ইন অ্যাচিভিং মেন্টাল ইকুইলিব্রিয়াম।"
+            },
+            "position": 5,
+            "synonyms": "balance, stability, steadiness",
+            "antonyms": "imbalance, instability, disproportion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভারসাম্য বা স্থিতিশীলতা",
+                    "word_transliteration": "bharoshamo ba stitishilota",
+                    "example_sentence_translation": "যোগ মানসিক ভারসাম্য অর্জনে সহায়তা করে।",
+                    "example_sentence_transliteration": "Jog manoshik bharoshamo orjone sahayota kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "exhalation",
+            "phonetic": "/ˌɛks.həˈleɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "এক্সহালেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💨",
+            "meaning": "The action of breathing out.",
+            "example_sentence": "Slow exhalation calms the nervous system.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্লো এক্সহালেশন ক্যালমস দ্য নার্ভাস সিস্টেম।"
+            },
+            "position": 6,
+            "synonyms": "breath out, expiration, release",
+            "antonyms": "inhalation, inspiration, breathing in",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিঃশ্বাস ত্যাগ বা শ্বাস ছাড়ার প্রক্রিয়া",
+                    "word_transliteration": "nihshwash tyag ba shwash chharar prokriya",
+                    "example_sentence_translation": "ধীর নিঃশ্বাস ত্যাগ স্নায়ুতন্ত্রকে শান্ত করে।",
+                    "example_sentence_transliteration": "Dhir nihshwash tyag snayutontroke shanto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "decompress",
+            "phonetic": "/ˌdiː.kəmˈprɛs/",
+            "word_native_transliteration": {
+                "bn": "ডিকমপ্রেস"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "😌",
+            "meaning": "To relax and recover from stress or pressure.",
+            "example_sentence": "Taking deep breaths helps to decompress after a stressful day.",
+            "example_sentence_native_transliteration": {
+                "bn": "টেকিং ডিপ ব্রেথস হেল্পস টু ডিকমপ্রেস আফটার এ স্ট্রেসফুল ডে।"
+            },
+            "position": 7,
+            "synonyms": "relax, unwind, destress",
+            "antonyms": "tense up, compress, strain",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চাপমুক্ত করা বা শিথিল হওয়া",
+                    "word_transliteration": "chapmukto kora ba shithil howa",
+                    "example_sentence_translation": "গভীর শ্বাস নেওয়া একটি চাপপূর্ণ দিনের পর শিথিল হতে সহায়ক।",
+                    "example_sentence_transliteration": "Gobhir shwash neowa ekti chappurno diner por shithil hote sahayok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dissipate",
+            "phonetic": "/ˈdɪs.ɪ.peɪt/",
+            "word_native_transliteration": {
+                "bn": "ডিসিপেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🌬️",
+            "meaning": "To disappear or cause to disappear gradually.",
+            "example_sentence": "The tension in the room slowly dissipated.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য টেনশন ইন দ্য রুম স্লোলি ডিসিপেটেড।"
+            },
+            "position": 8,
+            "synonyms": "disperse, fade, vanish",
+            "antonyms": "accumulate, intensify, gather",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অদৃশ্য হয়ে যাওয়া বা হ্রাস পাওয়া",
+                    "word_transliteration": "adrishyo hoye jaowa ba hrash paowa",
+                    "example_sentence_translation": "ঘরের চাপ ধীরে ধীরে কমে গেল।",
+                    "example_sentence_transliteration": "Ghorer chap dhire dhire kome gelo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "oxygenation",
+            "phonetic": "/ˌɒk.sɪ.dʒɪˈneɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "অক্সিজেনেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🫁",
+            "meaning": "The process of supplying or treating with oxygen.",
+            "example_sentence": "Deep breathing exercises improve oxygenation of the body.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিপ ব্রিদিং এক্সারসাইজেস ইমপ্রুভ অক্সিজেনেশন অব দ্য বডি।"
+            },
+            "position": 9,
+            "synonyms": "aeration, oxygen supply, respiration",
+            "antonyms": "hypoxia, deoxygenation, suffocation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অক্সিজেন সরবরাহ বা সংবহন",
+                    "word_transliteration": "oxygen shorborahho ba shongbohhon",
+                    "example_sentence_translation": "গভীর শ্বাস-প্রশ্বাস ব্যায়াম শরীরের অক্সিজেন সরবরাহ উন্নত করে।",
+                    "example_sentence_transliteration": "Gobhir shwash-proshwash byayam shorirer oxygen shorborahho unnoto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "invigorate",
+            "phonetic": "/ɪnˈvɪɡ.ər.eɪt/",
+            "word_native_transliteration": {
+                "bn": "ইনভিগরেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⚡",
+            "meaning": "To give strength or energy to someone or something.",
+            "example_sentence": "A morning walk can invigorate both body and mind.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ মর্নিং ওয়াক ক্যান ইনভিগরেট বোথ বডি অ্যান্ড মাইন্ড।"
+            },
+            "position": 10,
+            "synonyms": "energize, refresh, stimulate",
+            "antonyms": "weaken, drain, exhaust",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সতেজ বা শক্তিশালী করা",
+                    "word_transliteration": "shotej ba shokitshali kora",
+                    "example_sentence_translation": "সকালের হাঁটা শরীর ও মনকে সতেজ করতে পারে।",
+                    "example_sentence_transliteration": "Shokaler hanta shorir o monoke shotej korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "serenity",
+            "phonetic": "/səˈrɛn.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "সেরেনিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🕊️",
+            "meaning": "The state of being calm, peaceful, and untroubled.",
+            "example_sentence": "Meditation helps in achieving inner serenity.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেডিটেশন হেল্পস ইন অ্যাচিভিং ইনার সেরেনিটি।"
+            },
+            "position": 11,
+            "synonyms": "calmness, tranquility, peace",
+            "antonyms": "anxiety, agitation, chaos",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শান্তি বা প্রশান্তি",
+                    "word_transliteration": "shanti ba proshanti",
+                    "example_sentence_translation": "ধ্যান অভ্যন্তরীণ প্রশান্তি অর্জনে সহায়ক।",
+                    "example_sentence_transliteration": "Dhyan abhyontorin proshanti orjone sahayok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "modulation",
+            "phonetic": "/ˌmɒd.jʊˈleɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "মডুলেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎛️",
+            "meaning": "The process of varying or controlling something.",
+            "example_sentence": "Proper modulation of voice enhances communication skills.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রপার মডুলেশন অব ভয়েস এনহান্সেস কমিউনিকেশন স্কিলস।"
+            },
+            "position": 12,
+            "synonyms": "adjustment, variation, control",
+            "antonyms": "monotony, inflexibility, uniformity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সুর বা স্বরের পরিবর্তন",
+                    "word_transliteration": "shur ba shworer poriborton",
+                    "example_sentence_translation": "সঠিক স্বর পরিবর্তন যোগাযোগ দক্ষতা উন্নত করে।",
+                    "example_sentence_transliteration": "Shothik shwor poriborton jogajog dokkhota unnoto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "physiological",
+            "phonetic": "/ˌfɪz.i.əˈlɒdʒ.ɪ.kəl/",
+            "word_native_transliteration": {
+                "bn": "ফিজিওলজিক্যাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔬",
+            "meaning": "Relating to bodily functions and activities.",
+            "example_sentence": "Exercise improves physiological functions of the body.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সারসাইজ ইমপ্রুভস ফিজিওলজিক্যাল ফাংশনস অব দ্য বডি।"
+            },
+            "position": 13,
+            "synonyms": "bodily, biological, physical",
+            "antonyms": "psychological, mental, abstract",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শারীরবৃত্তীয় বা শারীরিক কার্যক্রম সম্পর্কিত",
+                    "word_transliteration": "sharirbrittio ba sharirik karjokrom shomporkito",
+                    "example_sentence_translation": "ব্যায়াম শরীরের শারীরবৃত্তীয় কার্যক্রম উন্নত করে।",
+                    "example_sentence_transliteration": "Byayam shorirer sharirbrittio karjokrom unnoto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "resonance",
+            "phonetic": "/ˈrɛz.ə.nəns/",
+            "word_native_transliteration": {
+                "bn": "রেজোন্যান্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎵",
+            "meaning": "A deep, reverberating sound or a quality of evoking response.",
+            "example_sentence": "His speech had a deep resonance with the audience.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ স্পিচ হ্যাড এ ডিপ রেজোন্যান্স উইথ দ্য অডিয়েন্স।"
+            },
+            "position": 14,
+            "synonyms": "echo, vibration, significance",
+            "antonyms": "dissonance, discord, silence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিধ্বনি বা গভীর প্রভাব",
+                    "word_transliteration": "protidhoni ba gobhir prabhab",
+                    "example_sentence_translation": "তার বক্তৃতা শ্রোতাদের উপর গভীর প্রভাব ফেলেছিল।",
+                    "example_sentence_transliteration": "Tar boktrita shrotader upor gobhir prabhab phelechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "alleviate",
+            "phonetic": "/əˈliː.vi.eɪt/",
+            "word_native_transliteration": {
+                "bn": "অ্যালিভিয়েট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "💊",
+            "meaning": "To make suffering, deficiency, or a problem less severe.",
+            "example_sentence": "Meditation helps alleviate stress and anxiety.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেডিটেশন হেল্পস অ্যালিভিয়েট স্ট্রেস অ্যান্ড অ্যাংজাইয়েটি।"
+            },
+            "position": 15,
+            "synonyms": "relieve, reduce, ease",
+            "antonyms": "aggravate, intensify, worsen",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উপশম করা বা কমানো",
+                    "word_transliteration": "uposhom kora ba kamano",
+                    "example_sentence_translation": "ধ্যান চাপ ও উদ্বেগ কমাতে সহায়ক।",
+                    "example_sentence_transliteration": "Dhyan chap o udweg kamate sahayok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "vigilance",
+            "phonetic": "/ˈvɪdʒ.ɪ.ləns/",
+            "word_native_transliteration": {
+                "bn": "ভিজিল্যান্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👁️",
+            "meaning": "The action or state of keeping careful watch for possible danger or difficulties.",
+            "example_sentence": "Constant vigilance is required in cybersecurity.",
+            "example_sentence_native_transliteration": {
+                "bn": "কনস্ট্যান্ট ভিজিল্যান্স ইজ রিকোয়ার্ড ইন সাইবারসিকিউরিটি।"
+            },
+            "position": 16,
+            "synonyms": "alertness, watchfulness, awareness",
+            "antonyms": "carelessness, negligence, inattention",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সতর্কতা বা সজাগ থাকা",
+                    "word_transliteration": "shotorkota ba shojag thaka",
+                    "example_sentence_translation": "সাইবার নিরাপত্তায় স্থায়ী সতর্কতা অপরিহার্য।",
+                    "example_sentence_transliteration": "Cyber niraptottay sthayi shotorkota oporiharyyo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "regulation",
+            "phonetic": "/ˌrɛɡ.jʊˈleɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "রেগুলেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📋",
+            "meaning": "A rule or directive made and maintained by an authority.",
+            "example_sentence": "Government regulation ensures fair business practices.",
+            "example_sentence_native_transliteration": {
+                "bn": "গভর্নমেন্ট রেগুলেশন এনশুরস ফেয়ার বিজনেস প্র্যাকটিসেস।"
+            },
+            "position": 17,
+            "synonyms": "control, rule, management",
+            "antonyms": "disorder, deregulation, lawlessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিয়ন্ত্রণ বা বিধিনিষেধ",
+                    "word_transliteration": "niyontron ba bidhinishedh",
+                    "example_sentence_translation": "সরকারি নিয়ন্ত্রণ ন্যায়সঙ্গত ব্যবসায়িক অনুশীলন নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Shorkari niyontron nyayshongoto byabshaik onushilon nishchito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "mindfulness",
+            "phonetic": "/ˈmaɪnd.fʊl.nəs/",
+            "word_native_transliteration": {
+                "bn": "মাইন্ডফুলনেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧘‍♂️",
+            "meaning": "The basic human ability to be fully present, aware of where we are and what we're doing.",
+            "example_sentence": "Mindfulness practices improve focus and emotional balance.",
+            "example_sentence_native_transliteration": {
+                "bn": "মাইন্ডফুলনেস প্র্যাকটিসেস ইমপ্রুভ ফোকাস অ্যান্ড ইমোশনাল ব্যালেন্স।"
+            },
+            "position": 18,
+            "synonyms": "awareness, presence, attentiveness",
+            "antonyms": "absent-mindedness, distraction, carelessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সচেতনতা বা মনোযোগী থাকা",
+                    "word_transliteration": "shochetonota ba monojogi thaka",
+                    "example_sentence_translation": "মনোযোগী থাকার অনুশীলন মনোযোগ ও আবেগের ভারসাম্য উন্নত করে।",
+                    "example_sentence_transliteration": "Monojogi thakar onushilon monojog o abeger bharoshamo unnoto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "rejuvenate",
+            "phonetic": "/rɪˈdʒuː.vɪ.neɪt/",
+            "word_native_transliteration": {
+                "bn": "রিজুভেনেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🌱",
+            "meaning": "To make or feel young, healthy, or energetic again.",
+            "example_sentence": "A vacation can rejuvenate the mind and body.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ ভ্যাকেশন ক্যান রিজুভেনেট দ্য মাইন্ড অ্যান্ড বডি।"
+            },
+            "position": 19,
+            "synonyms": "revitalize, refresh, renew",
+            "antonyms": "exhaust, weaken, drain",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুনরুজ্জীবিত করা বা তরতাজা করা",
+                    "word_transliteration": "punorujibioto kora ba tortaja kora",
+                    "example_sentence_translation": "একটি ছুটি মন ও শরীরকে পুনরুজ্জীবিত করতে পারে।",
+                    "example_sentence_transliteration": "Ekti chhuti mon o shorirke punorujibioto korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pacify",
+            "phonetic": "/ˈpæs.ɪ.faɪ/",
+            "word_native_transliteration": {
+                "bn": "প্যাসিফাই"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🕊️",
+            "meaning": "To quell the anger, agitation, or excitement of someone.",
+            "example_sentence": "The mother tried to pacify her crying child.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য মাদার ট্রাইড টু প্যাসিফাই হার ক্রাইং চাইল্ড।"
+            },
+            "position": 20,
+            "synonyms": "calm, soothe, appease",
+            "antonyms": "agitate, provoke, enrage",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শান্ত করা বা প্রশমিত করা",
+                    "word_transliteration": "shanto kora ba proshomito kora",
+                    "example_sentence_translation": "মা তার কাঁদতে থাকা শিশুকে শান্ত করার চেষ্টা করলেন।",
+                    "example_sentence_transliteration": "Ma tar kadte thaka shishuke shanto korar cheshta korlen.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

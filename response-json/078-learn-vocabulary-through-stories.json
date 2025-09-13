@@ -1,0 +1,418 @@
+{
+    "position": 78,
+    "title_translation": {
+        "en": "Best Techniques for Strengthening Memory",
+        "bn": "স্মৃতিশক্তি বাড়ানোর সেরা কৌশল"
+    },
+    "content_translation": {
+        "en": "To improve memory, we can apply certain **efficacious** techniques and become more **adept**. Research shows that improving **neuroplasticity** can keep the brain more active.\n\nFirst, regular **retrieval** practice makes memory stronger. When we **recapitulate** old information, it becomes more deeply **consolidated**.\n\nSecond, when learning new information, **synthesizing** it with **analogous** concepts helps the brain easily **assimilate** it. This improves the brain's **cognizant** state.\n\nThird, **meticulous** planning and **delineating** organized information makes it easier to remember. Additionally, meditation and adequate sleep can **bolster** brain functionality.\n\nFinally, **prolific** reading and learning new skills **engender** memory capacity, which is essential for personal and professional development.",
+        "bn": "স্মৃতি শক্তি বা ড়া নো র জন্য কি ছু **efficacious** কৌ শল প্রয়ো গ করলে আমরা আরও **adept** হয়ে উঠতে পা রি । গবে ষণা বলছে , **neuroplasticity** উন্নত করা র মা ধ্য মে মস্তি ষ্ককে আরও সক্রি য় রা খা সম্ভব।\n\nপ্রথমত, নি য়মি ত **retrieval** প্র্যা কটিস করলে স্মৃতি আরও শক্তি শা লী হয়। যখন আমরা পুরনো তথ্য **recapitulate** করি , তখন তা আরও গভী রে **consolidate** হয়।\n\nদ্বি তী য়ত, নতুন তথ্য শে খা র সময় তা **analogous** কো নো ধা রণা র সঙ্গে **synthesize** করলে মস্তি ষ্ক সহজে ই তা **assimilate** করতে পা রে । এটি মস্তি ষ্কে র **cognizant** অবস্থা কে আরও উন্নত করে ।\n\nতৃতী য়ত, **meticulous** পরি কল্পনা র মা ধ্য মে পড়া শো না করা এবং **delineate** করা তথ্য কে সং গঠিত করলে মনে রা খা সহজ হয়। এছা ড়া , মে ডি টে শন এবং পর্যা প্ত ঘুম **bolster** করতে পা রে মস্তি ষ্কে র কা র্যকা রি তা ।\n\nসবশে ষে , **prolific** পা ঠ্য পা ঠন এবং নতুন দক্ষতা শে খা **engender** করে স্মৃতি র ধা রা লো ক্ষমতা , যা ব্য ক্তি গত এবং পে শা গত উন্নতি র জন্য অপরি হা র্য।"
+    },
+    "list": [
+        {
+            "word": "efficacious",
+            "phonetic": "/ˌɛf.ɪˈkeɪ.ʃəs/",
+            "word_native_transliteration": {
+                "bn": "এফিকেশাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "✅",
+            "meaning": "Successful in producing a desired or intended result; effective.",
+            "example_sentence": "The vaccine proved highly efficacious in preventing infections.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ভ্যাকসিন প্রুভড হাইলি এফিকেশাস ইন প্রিভেন্টিং ইনফেকশনস।"
+            },
+            "position": 1,
+            "synonyms": "effective, potent, successful",
+            "antonyms": "ineffective, inefficient, futile",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কার্যকর",
+                    "word_transliteration": "karjokor",
+                    "example_sentence_translation": "টিকাটি সংক্রমণ প্রতিরোধে অত্যন্ত এফিকেশাস প্রমাণিত হয়েছে।",
+                    "example_sentence_transliteration": "Tikati songkromon protiroddhe otyonto efikeyshas promanito hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "adept",
+            "phonetic": "/əˈdɛpt/",
+            "word_native_transliteration": {
+                "bn": "অ্যাডেপ্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎯",
+            "meaning": "Very skilled or proficient at something.",
+            "example_sentence": "She is adept at solving complex mathematical problems.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি ইজ অ্যাডেপ্ট অ্যাট সলভিং কমপ্লেক্স ম্যাথেমেটিক্যাল প্রবলেমস।"
+            },
+            "position": 2,
+            "synonyms": "skillful, proficient, masterful",
+            "antonyms": "inept, incompetent, clumsy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষ",
+                    "word_transliteration": "dokkhyo",
+                    "example_sentence_translation": "তিনি জটিল গাণিতিক সমস্যা সমাধানে অ্যাডেপ্ট।",
+                    "example_sentence_transliteration": "Tini jotil ganitik somossha somadhane adept.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "neuroplasticity",
+            "phonetic": "/ˌnjʊə.roʊ.plæˈstɪs.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "নিউরোপ্লাস্টিসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧠",
+            "meaning": "The brain's ability to reorganize itself by forming new neural connections throughout life.",
+            "example_sentence": "Neuroplasticity allows the brain to rewire itself after an injury.",
+            "example_sentence_native_transliteration": {
+                "bn": "নিউরোপ্লাস্টিসিটি অ্যালাউস দ্য ব্রেইন টু রিওয়্যার ইটসেল্ফ আফটার অ্যান ইনজুরি।"
+            },
+            "position": 3,
+            "synonyms": "brain adaptability, cognitive flexibility, neural regeneration",
+            "antonyms": "rigidity, stagnation, fixedness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মস্তিষ্কের অভিযোজন ক্ষমতা",
+                    "word_transliteration": "mostishker ovijogon khomota",
+                    "example_sentence_translation": "নিউরোপ্লাস্টিসিটি মস্তিষ্ককে আঘাতের পর পুনর্গঠন করতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Neuroplasticity mostishkoke aghhater por purnorgothon korte shahajjo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "retrieval",
+            "phonetic": "/rɪˈtriː.vəl/",
+            "word_native_transliteration": {
+                "bn": "রিট্রিভাল"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The process of getting something back, especially from storage or memory.",
+            "example_sentence": "The brain's retrieval system helps recall past experiences.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ব্রেইনস রিট্রিভাল সিস্টেম হেল্পস রিকল পাস্ট এক্সপেরিয়েন্সেস।"
+            },
+            "position": 4,
+            "synonyms": "recovery, recollection, restoration",
+            "antonyms": "loss, forgetfulness, misplacement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুনরুদ্ধার",
+                    "word_transliteration": "punoruddhar",
+                    "example_sentence_translation": "মস্তিষ্কের রিট্রিভাল ব্যবস্থা অতীত অভিজ্ঞতা স্মরণে সাহায্য করে।",
+                    "example_sentence_transliteration": "Mostishker retrieval bebostha otin oviggyota smorone sahajjo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "recapitulate",
+            "phonetic": "/ˌriː.kəˈpɪtʃ.ə.leɪt/",
+            "word_native_transliteration": {
+                "bn": "রিক্যাপিটুলেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📝",
+            "meaning": "To summarize and state again the main points of something.",
+            "example_sentence": "The teacher asked the student to recapitulate the lesson.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য টিচার আস্কড দ্য স্টুডেন্ট টু রিক্যাপিটুলেট দ্য লেসন।"
+            },
+            "position": 5,
+            "synonyms": "summarize, restate, review",
+            "antonyms": "expand, elaborate, lengthen",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংক্ষেপে পুনরুল্লেখ করা",
+                    "word_transliteration": "songkhepe punorulle kh kora",
+                    "example_sentence_translation": "শিক্ষক শিক্ষার্থীকে পাঠটি সংক্ষেপে রিক্যাপিটুলেট করতে বললেন।",
+                    "example_sentence_transliteration": "Shikkhok shikharthike pathti songkhepe recapitulate korte bollen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "consolidate",
+            "phonetic": "/kənˈsɒl.ɪ.deɪt/",
+            "word_native_transliteration": {
+                "bn": "কনসলিডেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "💪",
+            "meaning": "To combine things in order to make them more effective or easier to handle.",
+            "example_sentence": "The company aims to consolidate its market position.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি এইমস টু কনসলিডেট ইটস মার্কেট পজিশন।"
+            },
+            "position": 6,
+            "synonyms": "strengthen, integrate, merge",
+            "antonyms": "weaken, fragment, disperse",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একত্রিত করা",
+                    "word_transliteration": "ektrito kora",
+                    "example_sentence_translation": "কোম্পানিটি তাদের বাজার অবস্থান কনসলিডেট করতে চায়।",
+                    "example_sentence_transliteration": "Companiti tader bajar obosthan consolidate korte chay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "analogous",
+            "phonetic": "/əˈnæl.ə.ɡəs/",
+            "word_native_transliteration": {
+                "bn": "অ্যানালগাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔗",
+            "meaning": "Comparable in certain respects, typically in a way that makes clearer the nature of things being compared.",
+            "example_sentence": "The human brain is analogous to a supercomputer.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য হিউম্যান ব্রেইন ইজ অ্যানালগাস টু এ সুপারকম্পিউটার।"
+            },
+            "position": 7,
+            "synonyms": "comparable, equivalent, parallel",
+            "antonyms": "dissimilar, contrasting, unrelated",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সদৃশ",
+                    "word_transliteration": "shodrish",
+                    "example_sentence_translation": "মানব মস্তিষ্ক একটি সুপারকম্পিউটারের সাথে অ্যানালগাস।",
+                    "example_sentence_transliteration": "Manob mostishk ekti supercomputarer sathe analogous.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "synthesize",
+            "phonetic": "/ˈsɪn.θə.saɪz/",
+            "word_native_transliteration": {
+                "bn": "সিন্থেসাইজ"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔬",
+            "meaning": "To combine a number of things into a coherent whole.",
+            "example_sentence": "Scientists synthesize new compounds for medical research.",
+            "example_sentence_native_transliteration": {
+                "bn": "সায়েন্টিস্টস সিন্থেসাইজ নিউ কোম্পাউন্ডস ফর মেডিক্যাল রিসার্চ।"
+            },
+            "position": 8,
+            "synonyms": "combine, integrate, fuse",
+            "antonyms": "separate, divide, fragment",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একত্রিত করা",
+                    "word_transliteration": "ektrito kora",
+                    "example_sentence_translation": "বিজ্ঞানীরা চিকিৎসা গবেষণার জন্য নতুন যৌগ সিন্থেসাইজ করেন।",
+                    "example_sentence_transliteration": "Biggyanira chikitsa gobeshnar jonno notun joog synthesize koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "assimilate",
+            "phonetic": "/əˈsɪm.ɪ.leɪt/",
+            "word_native_transliteration": {
+                "bn": "অ্যাসিমিলেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🧩",
+            "meaning": "To take in and understand fully; to absorb and integrate.",
+            "example_sentence": "Immigrants must assimilate into the local culture.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইমিগ্রান্টস মাস্ট অ্যাসিমিলেট ইনটু দ্য লোক্যাল কালচার।"
+            },
+            "position": 9,
+            "synonyms": "absorb, internalize, incorporate",
+            "antonyms": "reject, exclude, separate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শোষণ করা",
+                    "word_transliteration": "shoshon kora",
+                    "example_sentence_translation": "অভিবাসীদের স্থানীয় সংস্কৃতির সাথে অ্যাসিমিলেট করা উচিত।",
+                    "example_sentence_transliteration": "Ovibashider sthanio sangsritir sathe assimilate kora uchit.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cognizant",
+            "phonetic": "/ˈkɒɡ.nɪ.zənt/",
+            "word_native_transliteration": {
+                "bn": "কগনিজ্যান্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "👁️",
+            "meaning": "Having knowledge or being aware of something.",
+            "example_sentence": "He was cognizant of the risks before starting the project.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি ওয়াজ কগনিজ্যান্ট অফ দ্য রিস্কস বিফোর স্টার্টিং দ্য প্রজেক্ট।"
+            },
+            "position": 10,
+            "synonyms": "aware, mindful, perceptive",
+            "antonyms": "oblivious, unaware, ignorant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সচেতন",
+                    "word_transliteration": "shocheton",
+                    "example_sentence_translation": "তিনি প্রকল্প শুরুর আগে ঝুঁকিগুলো সম্পর্কে কগনিজ্যান্ট ছিলেন।",
+                    "example_sentence_transliteration": "Tini prokolpo shurur age jhunkigulo shomporke cognizant chhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "meticulous",
+            "phonetic": "/məˈtɪk.jə.ləs/",
+            "word_native_transliteration": {
+                "bn": "মেটিক্যুলাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔍",
+            "meaning": "Showing great attention to detail; very careful and precise.",
+            "example_sentence": "She is meticulous in her research work.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি ইজ মেটিক্যুলাস ইন হার রিসার্চ ওয়ার্ক।"
+            },
+            "position": 11,
+            "synonyms": "precise, diligent, painstaking",
+            "antonyms": "careless, negligent, reckless",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতি সতর্ক",
+                    "word_transliteration": "oti shotorko",
+                    "example_sentence_translation": "তিনি গবেষণার কাজে অত্যন্ত মেটিক্যুলাস।",
+                    "example_sentence_transliteration": "Tini gobeshnar kaje otyonto meticulous.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "delineate",
+            "phonetic": "/dɪˈlɪn.i.eɪt/",
+            "word_native_transliteration": {
+                "bn": "ডিলিনিয়েট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📐",
+            "meaning": "To describe or portray something precisely; to indicate the exact position of a border or boundary.",
+            "example_sentence": "The architect delineated the structure of the new building.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য আর্কিটেক্ট ডিলিনিয়েটেড দ্য স্ট্রাকচার অফ দ্য নিউ বিল্ডিং।"
+            },
+            "position": 12,
+            "synonyms": "describe, outline, depict",
+            "antonyms": "distort, obscure, confuse",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চিত্রিত করা",
+                    "word_transliteration": "chitrito kora",
+                    "example_sentence_translation": "স্থপতিটি নতুন ভবনের কাঠামো ডিলিনিয়েট করেছেন।",
+                    "example_sentence_transliteration": "Sthopotiti notun bhoboner kathamo delineate korechhen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "bolster",
+            "phonetic": "/ˈbəʊl.stər/",
+            "word_native_transliteration": {
+                "bn": "বোলস্টার"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⬆️",
+            "meaning": "To support or strengthen; to prop up.",
+            "example_sentence": "The new policy aims to bolster economic growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিউ পলিসি এইমস টু বোলস্টার ইকোনমিক গ্রোথ।"
+            },
+            "position": 13,
+            "synonyms": "strengthen, support, reinforce",
+            "antonyms": "undermine, weaken, diminish",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শক্তিশালী করা",
+                    "word_transliteration": "shokti shali kora",
+                    "example_sentence_translation": "নতুন নীতিটি অর্থনৈতিক প্রবৃদ্ধিকে বোলস্টার করার লক্ষ্য রাখে।",
+                    "example_sentence_transliteration": "Notun nititi orthonaitik probriddhike bolster korar lokhyo rakhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "prolific",
+            "phonetic": "/prəˈlɪf.ɪk/",
+            "word_native_transliteration": {
+                "bn": "প্রোলিফিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📚",
+            "meaning": "Present in large numbers or quantities; plentiful; producing many works, results, or offspring.",
+            "example_sentence": "The author is prolific, having written over 30 books.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অথর ইজ প্রোলিফিক, হ্যাভিং রিটেন ওভার ৩০ বুকস।"
+            },
+            "position": 14,
+            "synonyms": "productive, fertile, abundant",
+            "antonyms": "barren, unproductive, sterile",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ফলপ্রসূ",
+                    "word_transliteration": "folproshu",
+                    "example_sentence_translation": "লেখক অত্যন্ত প্রোলিফিক, ৩০টির বেশি বই লিখেছেন।",
+                    "example_sentence_transliteration": "Lekhok otyonto prolific, 30ti-r beshi boi likhechen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "engender",
+            "phonetic": "/ɪnˈdʒen.dər/",
+            "word_native_transliteration": {
+                "bn": "ইঞ্জেন্ডার"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "✨",
+            "meaning": "To cause or give rise to a feeling, situation, or condition.",
+            "example_sentence": "The speech engendered hope among the people.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্পিচ ইঞ্জেন্ডারড হোপ অ্যামং দ্য পিপল।"
+            },
+            "position": 15,
+            "synonyms": "generate, induce, cause",
+            "antonyms": "suppress, halt, dissuade",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সৃষ্টি করা",
+                    "word_transliteration": "srishti kora",
+                    "example_sentence_translation": "বক্তৃতাটি মানুষের মধ্যে আশা ইঞ্জেন্ডার করল।",
+                    "example_sentence_transliteration": "Boktritati manusher moddhe asha engender korol.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

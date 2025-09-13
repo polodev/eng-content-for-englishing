@@ -1,0 +1,634 @@
+{
+    "position": 72,
+    "title_translation": {
+        "en": "Advancements in Public Transport Infrastructure",
+        "bn": "Advancements in Public Transport Infrastructure"
+    },
+    "content_translation": {
+        "en": "The **metamorphosis** that has occurred in global **public transport infrastructure** is not just a technological change, but a **catalyst** for the **transcendence** of entire cities and their citizens' lifestyles. It creates **synergy** between different transport systems, such as buses, trains and metros, maintaining **cohesion** and making transport systems more **efficient** and beneficial.\n\nThe **ubiquity** of technology and widespread **burgeoning** of sustainable **innovation** have solved the **dysfunctional** transport problems of cities. However, this development may create **ambiguity** because the technological **interdependency** between cities has increased.\n\nAs it spreads in an **ineffable** way, it will help reduce the **dichotomy** and **redundancy** of cities. However, if its negative effects **exacerbate**, it can create **pernicious** environmental consequences.\n\nNow, starting from **inception**, through **sublime** imagination and **confluence**, cities are rushing towards a new era where **vitality** and progress will reign together.",
+        "bn": "বিশ্বব্যাপী **public transport infrastructure**-এ যে **metamorphosis** ঘটেছে, তা শুধু একটি প্রযুক্তিগত পরিবর্তন নয়, বরং পুরো নগরী ও তার জনগণের জীবনধারা **transcendence** ঘটানোর একটি **catalyst**। এটি **synergy** সৃষ্টি করছে বিভিন্ন পরিবহন ব্যবস্থার মধ্যে, যেমন বাস, ট্রেন এবং মেট্রো, যাতে **cohesion** বজায় থাকে এবং পরিবহন ব্যবস্থা আরও দক্ষ এবং উপকারী হয়ে ওঠে।\n\nপ্রযুক্তির **ubiquity** এবং টেকসই **innovation** এ ব্যাপক **burgeoning** তৈরি করেছে, যা শহরের **dysfunctional** পরিবহন সমস্যাগুলোর সমাধান করেছে। কিন্তু, এই উন্নয়ন **ambiguity** সৃষ্টি করতে পারে, কারণ শহরগুলোর মধ্যে এই প্রযুক্তি **interdependency** বাড়িয়ে দিয়েছে।\n\nযত দ্রুত এটি **ineffable** ভাবে প্রসারিত হচ্ছে, তত দ্রুত শহরের **dichotomy** এবং **redundancy** কমাতে সাহায্য করবে। তবে, এর নেতিবাচক প্রভাব যদি **exacerbate** হয়, তবে এটি পরিবেশে **pernicious** পরিণতি সৃষ্টি করতে পারে।\n\nএখন, **inception** থেকে শুরু করে, **sublime** পরিকল্পনা এবং **confluence** দ্বারা শহরগুলি একটি নতুন যুগের দিকে ধাবিত হচ্ছে, যেখানে **vitality** এবং উন্নতি একসাথে বিরাজ করবে।"
+    },
+    "list": [
+        {
+            "word": "public transport",
+            "phonetic": "ˈpʌblɪk træns ˈpɔːt",
+            "word_native_transliteration": {
+                "bn": "পাবলিক ট্রান্সপোর্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚌",
+            "meaning": "Transportation systems available for use by the general public, typically including buses, trains, and metros.",
+            "example_sentence": "Public transport systems are essential for reducing traffic congestion.",
+            "example_sentence_native_transliteration": {
+                "bn": "পাবলিক ট্রান্সপোর্ট সিস্টেমস আর এসেনশিয়াল ফর রিডিউসিং ট্রাফিক কনজেশন।"
+            },
+            "position": 1,
+            "synonyms": "mass transit, commuter transport",
+            "antonyms": "private transport, personal vehicle",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গণপরিবহন",
+                    "word_transliteration": "gonporibohon",
+                    "example_sentence_translation": "গণপরিবহন ব্যবস্থা ট্রাফিক জট কমাতে অপরিহার্য।",
+                    "example_sentence_transliteration": "Gonporibohon bebostha traffic jot komate aporiharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "infrastructure",
+            "phonetic": "ˈɪnfrəstrʌktʃər",
+            "word_native_transliteration": {
+                "bn": "ইনফ্রাস্ট্রাকচার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏗️",
+            "meaning": "The basic physical and organizational structures and facilities needed for the operation of a society or enterprise.",
+            "example_sentence": "The government is investing heavily in infrastructure development.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গভর্নমেন্ট ইজ ইনভেস্টিং হেভিলি ইন ইনফ্রাস্ট্রাকচার ডেভেলপমেন্ট।"
+            },
+            "position": 2,
+            "synonyms": "framework, foundation",
+            "antonyms": "disorganization, collapse",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অবকাঠামো",
+                    "word_transliteration": "obokathamo",
+                    "example_sentence_translation": "সরকার অবকাঠামো উন্নয়নে ব্যাপক বিনিয়োগ করছে।",
+                    "example_sentence_transliteration": "Sorkar obokathamo unnoyone byapok biniyog korchhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "metamorphosis",
+            "phonetic": "ˌmɛtə ˈmɔːfəsɪs",
+            "word_native_transliteration": {
+                "bn": "মেটামর্ফোসিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🦋",
+            "meaning": "A change of the form or nature of a thing or person into a completely different one, by natural or supernatural means.",
+            "example_sentence": "The company's metamorphosis from a small startup to a global leader was remarkable.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানিজ মেটামর্ফোসিস ফ্রম এ স্মল স্টার্টআপ টু এ গ্লোবাল লিডার ওয়াজ রিমার্কেবল।"
+            },
+            "position": 3,
+            "synonyms": "transformation, change",
+            "antonyms": "stagnation, standstill",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রূপান্তর, পরিবর্তন",
+                    "word_transliteration": "rupantor, poriborton",
+                    "example_sentence_translation": "কোম্পানিটির রূপান্তর ছোট স্টার্টআপ থেকে একটি বৈশ্বিক নেতায় পরিণত হওয়া চমকপ্রদ ছিল।",
+                    "example_sentence_transliteration": "Kompanir rupantor chhoto startup theke ekti boishwik netay porinoto howa chokoprod chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "transcendence",
+            "phonetic": "trænˈsɛndəns",
+            "word_native_transliteration": {
+                "bn": "ট্রানসেন্ডেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⬆️",
+            "meaning": "Existence or experience beyond the normal or physical level.",
+            "example_sentence": "The artist's work was a symbol of transcendence in creativity.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য আর্টিস্টস ওয়ার্ক ওয়াজ এ সিম্বল অব ট্রানসেন্ডেন্স ইন ক্রিয়েটিভিটি।"
+            },
+            "position": 4,
+            "synonyms": "surpassing, elevation",
+            "antonyms": "subjugation, inferiority",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতিক্রম, শীর্ষে পৌঁছানো",
+                    "word_transliteration": "otikrom, shirshe pounhchano",
+                    "example_sentence_translation": "শিল্পীর কাজ সৃজনশীলতায় অতিক্রমের প্রতীক ছিল।",
+                    "example_sentence_transliteration": "Shilpir kaj srijonshilotay otikromer protik chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "catalyst",
+            "phonetic": "ˈkætəlɪst",
+            "word_native_transliteration": {
+                "bn": "ক্যাটালিস্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "A person or thing that precipitates an event or change.",
+            "example_sentence": "His speech acted as a catalyst for change in the community.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ স্পিচ অ্যাক্টেড অ্যাজ এ ক্যাটালিস্ট ফর চেইঞ্জ ইন দ্য কমিউনিটি।"
+            },
+            "position": 5,
+            "synonyms": "stimulus, trigger",
+            "antonyms": "obstacle, hindrance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্দীপক, প্রেরণা",
+                    "word_transliteration": "uddipok, prerona",
+                    "example_sentence_translation": "তার বক্তৃতা কমিউনিটিতে পরিবর্তনের উদ্দীপক হিসেবে কাজ করেছে।",
+                    "example_sentence_transliteration": "Tar boktrita komiunitite poribortonrer uddipok hisebe kaj koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "synergy",
+            "phonetic": "ˈsɪnədʒi",
+            "word_native_transliteration": {
+                "bn": "সিনার্জি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "The interaction or cooperation of two or more organizations, substances, or other agents to produce a combined effect greater than the sum of their separate effects.",
+            "example_sentence": "The synergy between the two companies led to a successful partnership.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সিনার্জি বিটুইন দ্য টু কোম্পানিজ লেড টু এ সাকসেসফুল পার্টনারশিপ।"
+            },
+            "position": 6,
+            "synonyms": "cooperation, harmony",
+            "antonyms": "disagreement, discord",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহযোগিতা, মিল",
+                    "word_transliteration": "shohyogita, mil",
+                    "example_sentence_translation": "দুই কোম্পানির মধ্যে সহযোগিতা সফল অংশীদারিত্বের দিকে নিয়ে গেছে।",
+                    "example_sentence_transliteration": "Dui kompanir moddhe shohyogita shofol ongshidaritwer dike niye geche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cohesion",
+            "phonetic": "koʊˈhiːʒən",
+            "word_native_transliteration": {
+                "bn": "কোহিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔗",
+            "meaning": "The action or fact of forming a united whole.",
+            "example_sentence": "The cohesion of the team was crucial for completing the project on time.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোহিশন অব দ্য টিম ওয়াজ ক্রুসিয়াল ফর কমপ্লিটিং দ্য প্রোজেক্ট অন টাইম।"
+            },
+            "position": 7,
+            "synonyms": "unity, solidarity",
+            "antonyms": "fragmentation, disintegration",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একতা, সংহতি",
+                    "word_transliteration": "ekota, shonghoti",
+                    "example_sentence_translation": "দলের একতা প্রকল্পটি সময়মতো সম্পন্ন করার জন্য গুরুত্বপূর্ণ ছিল।",
+                    "example_sentence_transliteration": "Doler ekota prokolpoti shomoyomoto shomponno korar jonno guruttopurno chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "efficiency",
+            "phonetic": "ɪˈfɪʃənsi",
+            "word_native_transliteration": {
+                "bn": "এফিসিয়েন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚙️",
+            "meaning": "The state or quality of being efficient.",
+            "example_sentence": "The new system improved the efficiency of the manufacturing process.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিউ সিস্টেম ইমপ্রুভড দ্য এফিসিয়েন্সি অব দ্য ম্যানুফ্যাকচারিং প্রসেস।"
+            },
+            "position": 8,
+            "synonyms": "productivity, competence",
+            "antonyms": "inefficiency, wastefulness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষতা",
+                    "word_transliteration": "dokkhota",
+                    "example_sentence_translation": "নতুন সিস্টেমটি উৎপাদন প্রক্রিয়ার দক্ষতা উন্নত করেছে।",
+                    "example_sentence_transliteration": "Notun systemti utpadon prokiyar dokkhota unnoto koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ubiquity",
+            "phonetic": "juːˈbɪkwɪti",
+            "word_native_transliteration": {
+                "bn": "ইউবিকুইটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌐",
+            "meaning": "The fact of appearing everywhere or of being very common.",
+            "example_sentence": "The ubiquity of smartphones has transformed communication.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইউবিকুইটি অব স্মার্টফোনস হ্যাজ ট্রান্সফর্মড কমিউনিকেশন।"
+            },
+            "position": 9,
+            "synonyms": "omnipresence, all-encompassing",
+            "antonyms": "rarity, scarcity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সর্বব্যাপী উপস্থিতি",
+                    "word_transliteration": "shorbobyapi uposhthiti",
+                    "example_sentence_translation": "স্মার্টফোনের সর্বব্যাপী উপস্থিতি যোগাযোগের রূপান্তর ঘটিয়েছে।",
+                    "example_sentence_transliteration": "Smartphoner shorbobyapi uposhthiti yogayoger rupantor ghotiyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "innovation",
+            "phonetic": "ˌɪnəˈveɪʃən",
+            "word_native_transliteration": {
+                "bn": "ইনোভেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💡",
+            "meaning": "The action or process of innovating.",
+            "example_sentence": "The company's innovation in product design set them apart from competitors.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানিজ ইনোভেশন ইন প্রোডাক্ট ডিজাইন সেট দেম অ্যাপার্ট ফ্রম কমপিটিটরস।"
+            },
+            "position": 10,
+            "synonyms": "invention, creation",
+            "antonyms": "imitation, stagnation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্ভাবন, নতুনত্ব",
+                    "word_transliteration": "udbhabon, notu,nottyo",
+                    "example_sentence_translation": "প্রোডাক্ট ডিজাইনে কোম্পানির উদ্ভাবন তাদের প্রতিদ্বন্দ্বীদের থেকে আলাদা করেছে।",
+                    "example_sentence_transliteration": "Product designe kompanir udbhabon tader protiddondiider theke alada koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "burgeoning",
+            "phonetic": "ˈbɜːdʒənɪŋ",
+            "word_native_transliteration": {
+                "bn": "বর্জনিং"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📈",
+            "meaning": "Beginning to grow or increase rapidly; flourishing.",
+            "example_sentence": "The burgeoning tech industry has attracted many investors.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য বর্জনিং টেক ইন্ডাস্ট্রি হ্যাজ অ্যাট্র্যাক্টেড মেনি ইনভেস্টরস।"
+            },
+            "position": 11,
+            "synonyms": "expanding, flourishing",
+            "antonyms": "declining, shrinking",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্রুত বৃদ্ধি হওয়া",
+                    "word_transliteration": "druto briddhi howa",
+                    "example_sentence_translation": "দ্রুত বৃদ্ধি পাচ্ছে এমন প্রযুক্তি শিল্প অনেক বিনিয়োগকারীকে আকর্ষণ করেছে।",
+                    "example_sentence_transliteration": "Druto briddhi pachhe emon projukti shilpo onek biniyogkarike akorshon koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dysfunctional",
+            "phonetic": "dɪsˈfʌŋkʃənl",
+            "word_native_transliteration": {
+                "bn": "ডিসফাংশনাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔧",
+            "meaning": "Not operating normally or properly.",
+            "example_sentence": "The dysfunctional system led to numerous delays and errors.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডিসফাংশনাল সিস্টেম লেড টু নিউমেরাস ডিলেজ অ্যান্ড এররস।"
+            },
+            "position": 12,
+            "synonyms": "malfunctioning, broken",
+            "antonyms": "functional, efficient",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অকার্যকর, অস্বাভাবিক",
+                    "word_transliteration": "okarjyokor, oshbhabik",
+                    "example_sentence_translation": "অকার্যকর সিস্টেমটি বহু বিলম্ব এবং ত্রুটি সৃষ্টি করেছিল।",
+                    "example_sentence_transliteration": "Okarjyokor systemti bohu bilombo ebong truti srishti korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ambiguity",
+            "phonetic": "ˌæmbɪˈɡjuːɪti",
+            "word_native_transliteration": {
+                "bn": "এম্বিগুয়িটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "❓",
+            "meaning": "The quality of being open to more than one interpretation; inexactness.",
+            "example_sentence": "The ambiguity of the statement caused confusion among the team.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এম্বিগুয়িটি অব দ্য স্টেটমেন্ট কজড কনফিউশন অ্যামং দ্য টিম।"
+            },
+            "position": 13,
+            "synonyms": "uncertainty, vagueness",
+            "antonyms": "clarity, certainty",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অস্পষ্টতা, দ্ব্যর্থতা",
+                    "word_transliteration": "oshposhtota, dorthoto",
+                    "example_sentence_translation": "বক্তব্যের অস্পষ্টতা দলের মধ্যে বিভ্রান্তি সৃষ্টি করেছিল।",
+                    "example_sentence_transliteration": "Boktobbyer oshposhtota doler moddhe bibhranti srishti korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "interdependency",
+            "phonetic": "ˌɪntədɪˈpɛndənsi",
+            "word_native_transliteration": {
+                "bn": "ইন্টারডিপেন্ডেন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The dependence of two or more people or things on each other.",
+            "example_sentence": "The interdependency of the countries led to greater cooperation.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইন্টারডিপেন্ডেন্সি অব দ্য কান্ট্রিজ লেড টু গ্রেটার কুপারেশন।"
+            },
+            "position": 14,
+            "synonyms": "mutual dependence, reciprocity",
+            "antonyms": "independence, autonomy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরস্পরের উপর নির্ভরশীলতা",
+                    "word_transliteration": "porosporer upor nirvorshilota",
+                    "example_sentence_translation": "দেশগুলির পরস্পরের উপর নির্ভরশীলতা আরও বেশি সহযোগিতা সৃষ্টি করেছিল।",
+                    "example_sentence_transliteration": "Deshgulir porosporer upor nirvorshilota aro beshi shohyogita srishti korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ineffable",
+            "phonetic": "ɪˈnɛfəbl",
+            "word_native_transliteration": {
+                "bn": "ইনেফেবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "✨",
+            "meaning": "Too great or extreme to be expressed or described in words.",
+            "example_sentence": "The beauty of the landscape was ineffable.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য বিউটি অব দ্য ল্যান্ডস্কেপ ওয়াজ ইনেফেবল।"
+            },
+            "position": 15,
+            "synonyms": "indescribable, inexpressible",
+            "antonyms": "expressible, definable",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রকাশাতীত, বর্ণনাতীত",
+                    "word_transliteration": "prokashatit, bornnatit",
+                    "example_sentence_translation": "প্রাকৃতিক দৃশ্যের সৌন্দর্য বর্ণনাতীত ছিল।",
+                    "example_sentence_transliteration": "Prakritik drishyer shoundrjo bornnatit chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dichotomy",
+            "phonetic": "daɪˈkɒtəmi",
+            "word_native_transliteration": {
+                "bn": "ডাইকটমি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "A division or contrast between two things that are or are represented as being opposed or entirely different.",
+            "example_sentence": "The dichotomy between tradition and modernity is often debated.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডাইকটমি বিটুইন ট্রেডিশন অ্যান্ড মডার্নিটি ইজ অফেন ডিবেটেড।"
+            },
+            "position": 16,
+            "synonyms": "division, split",
+            "antonyms": "unity, integration",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্বিধা, দ্বৈততা",
+                    "word_transliteration": "dwidha, doittota",
+                    "example_sentence_translation": "প্রথা এবং আধুনিকতার মধ্যে দ্বিধা প্রায়শই আলোচনা হয়।",
+                    "example_sentence_transliteration": "Protha ebong adhunikatar moddhe dwidha prayshoi alochona hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "redundancy",
+            "phonetic": "rɪˈdʌndənsi",
+            "word_native_transliteration": {
+                "bn": "রিডান্ডেন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The state of being not or no longer needed or useful; superfluousness.",
+            "example_sentence": "The redundancy in the company's workforce led to many layoffs.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রিডান্ডেন্সি ইন দ্য কোম্পানিজ ওয়ার্কফোর্স লেড টু মেনি লে-অফস।"
+            },
+            "position": 17,
+            "synonyms": "superfluity, repetition",
+            "antonyms": "necessity, requirement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতিরিক্ততা, অপ্রয়োজনীয়তা",
+                    "word_transliteration": "otirikto,tta, oproyojniyota",
+                    "example_sentence_translation": "কোম্পানির কর্মী সংখ্যায় অতিরিক্ততা বহু কর্মী ছাঁটাইয়ের কারণ হয়ে দাঁড়িয়েছিল।",
+                    "example_sentence_transliteration": "Kompanir kormi shongkhyay otirikto,tta bohu kormi chhataiyer karon hoye dariyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "exacerbate",
+            "phonetic": "ɪɡˈzæsərbeɪt",
+            "word_native_transliteration": {
+                "bn": "এক্সাসারবেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⬆️",
+            "meaning": "Make (a problem, bad situation, or negative feeling) worse.",
+            "example_sentence": "The pollution in the city only exacerbates the health problems.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য পলিউশন ইন দ্য সিটি অনলি এক্সাসারবেটস দ্য হেলথ প্রবলেমস।"
+            },
+            "position": 18,
+            "synonyms": "worsen, aggravate",
+            "antonyms": "alleviate, ease",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আরও খারাপ করা, তীব্র করা",
+                    "word_transliteration": "aro kharap kora, tibro kora",
+                    "example_sentence_translation": "শহরের দূষণ কেবল স্বাস্থ্য সমস্যাগুলিকে আরও খারাপ করে তোলে।",
+                    "example_sentence_transliteration": "Shohorer dushon kebol swasthyo shomoshyaguloke aro kharap kore tole.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pernicious",
+            "phonetic": "pərˈnɪʃəs",
+            "word_native_transliteration": {
+                "bn": "পারনিশাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "☠️",
+            "meaning": "Having a harmful effect, especially in a gradual or subtle way.",
+            "example_sentence": "The pernicious effects of smoking are well-documented.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য পারনিশাস এফেক্টস অব স্মোকিং আর ওয়েল-ডকুমেন্টেড।"
+            },
+            "position": 19,
+            "synonyms": "harmful, dangerous",
+            "antonyms": "beneficial, positive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্ষতিকর, বিপজ্জনক",
+                    "word_transliteration": "kkhotikar, bipojonok",
+                    "example_sentence_translation": "ধূমপানের ক্ষতিকর প্রভাবগুলি সুস্পষ্টভাবে নথিভুক্ত।",
+                    "example_sentence_transliteration": "Dhumpoaner khotikar probhabguli sushposhtobhabe nothivukto.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "inception",
+            "phonetic": "ɪnˈsɛpʃən",
+            "word_native_transliteration": {
+                "bn": "ইনসেপশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌅",
+            "meaning": "The establishment or starting point of an institution or activity.",
+            "example_sentence": "The inception of the company marked a new era in the industry.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইনসেপশন অব দ্য কোম্পানি মার্কড এ নিউ এরা ইন দ্য ইন্ডাস্ট্রি।"
+            },
+            "position": 20,
+            "synonyms": "beginning, origin",
+            "antonyms": "conclusion, end",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শুরু, সূচনা",
+                    "word_transliteration": "shuru, shuchona",
+                    "example_sentence_translation": "কোম্পানির সূচনা শিল্পে একটি নতুন যুগের সূচনা করেছিল।",
+                    "example_sentence_transliteration": "Kompanir shuchona shilpe ekti notun juge shuchona korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sublime",
+            "phonetic": "səˈblaɪm",
+            "word_native_transliteration": {
+                "bn": "সাবলাইম"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎨",
+            "meaning": "Of such excellence, grandeur, or beauty as to inspire great admiration or awe.",
+            "example_sentence": "The sublime beauty of the mountain landscape took my breath away.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সাবলাইম বিউটি অব দ্য মাউন্টেন ল্যান্ডস্কেপ টুক মাই ব্রেথ অ্যাওয়ে।"
+            },
+            "position": 21,
+            "synonyms": "magnificent, majestic",
+            "antonyms": "mediocre, ordinary",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মহান, অভূতপূর্ব",
+                    "word_transliteration": "mohan, avhutpurbo",
+                    "example_sentence_translation": "পর্বতের দৃশ্যের মহান সৌন্দর্য আমাকে মুগ্ধ করেছিল।",
+                    "example_sentence_transliteration": "Porvotter drishyer mohan shoundrjo amake mugdho korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "confluence",
+            "phonetic": "ˈkɒnfluəns",
+            "word_native_transliteration": {
+                "bn": "কনফ্লুয়েন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌊",
+            "meaning": "An act or process of merging.",
+            "example_sentence": "The confluence of ideas from different cultures created a rich discussion.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কনফ্লুয়েন্স অব আইডিয়াজ ফ্রম ডিফেরেন্ট কালচারস ক্রিয়েটেড এ রিচ ডিসকাশন।"
+            },
+            "position": 22,
+            "synonyms": "junction, meeting",
+            "antonyms": "separation, divergence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মিলনস্থল, সংযোগ",
+                    "word_transliteration": "milonstol, shongjog",
+                    "example_sentence_translation": "বিভিন্ন সংস্কৃতির ধারণার মিলনস্থলে একটি সমৃদ্ধ আলোচনা তৈরি হয়েছে।",
+                    "example_sentence_transliteration": "Bivinn songskitir dharonar milonostole ekti shomriddho alochona tiri hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "vitality",
+            "phonetic": "vaɪˈtæləti",
+            "word_native_transliteration": {
+                "bn": "ভিটালিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "The state of being strong and active; energy.",
+            "example_sentence": "The vitality of the team helped them succeed in the competition.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ভিটালিটি অব দ্য টিম হেল্পড দেম সাক্সিড ইন দ্য কমপিটিশন।"
+            },
+            "position": 23,
+            "synonyms": "energy, vigour",
+            "antonyms": "weakness, lethargy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জীবনীশক্তি, শক্তি",
+                    "word_transliteration": "jibonishokti, shokti",
+                    "example_sentence_translation": "দলের জীবনীশক্তি তাদের প্রতিযোগিতায় সাফল্য অর্জন করতে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Doler jibonishokti tader protijogitoye shafoljo orjon korte shahayjo koreche.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

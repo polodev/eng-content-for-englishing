@@ -1,0 +1,472 @@
+{
+    "position": 74,
+    "title_translation": {
+        "en": "Atomic Habits",
+        "bn": "Atomic Habits"
+    },
+    "content_translation": {
+        "en": "**Atomic habits** are extremely **indispensable** for success in life. Small habits together bring about **exponential** transformation. However, people often feel a **conundrum** - which habits are important and which should be avoided? To create a **nascent** habit, we need to have **tenacity** and **perseverance**. It is natural to **oscillate** when forming new habits, because change is not always easy. But if there is **meticulous** planning, then it becomes **immutable**.\n\nThe **dichotomy** is that we want immediate results, but habits are not **ephemeral** - they have to be built step by step. It is **axiomatic** that changing habits is difficult, but once you **acclimate**, it becomes natural.\n\nBy **juxtaposition** of the right habits, it is possible to improve our lives. Small changes eventually become **salient** and **consummate** our lives.",
+        "bn": "জীবনে সফলতার জন্য **atomic habits** অত্যন্ত **indispensable**। ছোট ছোট অভ্যাসগুলো একসাথে মিলে **exponential** পরিবর্তন নিয়ে আসে। তবে, মানুষ অনেক সময় **conundrum** অনুভব করে —কোন অভ্যাস গুরুত্বপূর্ণ এবং কোনটা এড়িয়ে চলা উচিত? একটি **nascent** অভ্যাস তৈরি করতে হলে আমাদের **tenacity** এবং **perseverance** থাকতে হবে। নতুন অভ্যাস গঠনের সময় **oscillate** করা স্বাভাবিক, কারণ পরিবর্তন সবসময় সহজ হয় না। কিন্তু যদি **meticulous** পরিকল্পনা থাকে, তাহলে এটি **immutable** হয়ে যায়।\n\n**Dichotomy** হলো, আমরা তাৎক্ষণিক ফলাফল চাই, কিন্তু অভ্যাসগুলো **ephemeral** নয়—তাদের ধাপে ধাপে গড়ে তুলতে হয়। **Axiomatic** বিষয় হলো, অভ্যাস পরিবর্তন করা কঠিন, কিন্তু একবার **acclimate** হয়ে গেলে, এটি স্বাভাবিক হয়ে যায়।\n\nসঠিক অভ্যাসগুলো **juxtaposition** করে আমাদের জীবনকে আরও উন্নত করা সম্ভব। ছোট পরিবর্তনগুলোই একদিন **salient** হয়ে উঠে এবং আমাদের জীবনকে **consummate** করে তোলে।"
+    },
+    "list": [
+        {
+            "word": "atomic habits",
+            "phonetic": "/əˈtɒm.ɪk ˈhæb.ɪts/",
+            "word_native_transliteration": {
+                "bn": "এটমিক হ্যাবিটস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚛️",
+            "meaning": "Small but powerful habits that can bring big changes over time",
+            "example_sentence": "Developing atomic habits leads to long-term success.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডেভেলপিং এটমিক হ্যাবিটস লিডস টু লং-টার্ম সাকসেস।"
+            },
+            "position": 1,
+            "synonyms": "Small Routines, Micro Habits, Incremental Changes",
+            "antonyms": "Bad Habits, Irregularity, Negligence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্ষুদ্র কিন্তু শক্তিশালী অভ্যাস",
+                    "word_transliteration": "kshudro kintu shokti shali ovbhash",
+                    "example_sentence_translation": "ক্ষুদ্র কিন্তু শক্তিশালী অভ্যাস গড়ে তোলা দীর্ঘমেয়াদে সাফল্য নিয়ে আসে।",
+                    "example_sentence_transliteration": "Kshudro kintu shokti shali ovbhash gore tola dirgho meyade shafolyo niye ashe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "indispensable",
+            "phonetic": "/ˌɪn.dɪˈspen.sə.bəl/",
+            "word_native_transliteration": {
+                "bn": "ইন্ডিসপেনসেবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔑",
+            "meaning": "Absolutely necessary, essential",
+            "example_sentence": "Water is indispensable for human survival.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওয়াটার ইজ ইন্ডিসপেনসেবল ফর হিউম্যান সারভাইভাল।"
+            },
+            "position": 2,
+            "synonyms": "Essential, Crucial, Necessary",
+            "antonyms": "Dispensable, Optional, Unimportant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অপরিহার্য বা অত্যাবশ্যক",
+                    "word_transliteration": "oporhharyo ba otyabshyok",
+                    "example_sentence_translation": "মানুষের বেঁচে থাকার জন্য পানি অপরিহার্য।",
+                    "example_sentence_transliteration": "Manusher beche thakar jonno pani oporhharyo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "exponential",
+            "phonetic": "/ˌɛk.spəˈnɛn.ʃəl/",
+            "word_native_transliteration": {
+                "bn": "এক্সপোনেনশিয়াল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📈",
+            "meaning": "Rapid growth or expansion at an increasing rate",
+            "example_sentence": "Technology is advancing at an exponential rate.",
+            "example_sentence_native_transliteration": {
+                "bn": "টেকনোলজি ইজ অ্যাডভান্সিং অ্যাট অ্যান এক্সপোনেনশিয়াল রেট।"
+            },
+            "position": 3,
+            "synonyms": "Rapid, Accelerated, Explosive",
+            "antonyms": "Gradual, Slow, Linear",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ব্যাপক বৃদ্ধি বা দ্রুত সম্প্রসারণ",
+                    "word_transliteration": "byapok briddhi ba druto shomprosharon",
+                    "example_sentence_translation": "প্রযুক্তি অত্যন্ত দ্রুতগতিতে এগিয়ে যাচ্ছে।",
+                    "example_sentence_transliteration": "Projukti ottyonto drutogatite egiye jachchhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "conundrum",
+            "phonetic": "/kəˈnʌn.drəm/",
+            "word_native_transliteration": {
+                "bn": "কনানড্রাম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤔",
+            "meaning": "A complex problem or puzzle without an easy solution",
+            "example_sentence": "The ethical conundrum puzzled the researchers.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এথিক্যাল কনানড্রাম পাজলড দ্য রিসার্চারস।"
+            },
+            "position": 4,
+            "synonyms": "Puzzle, Dilemma, Enigma",
+            "antonyms": "Solution, Clarity, Simplicity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জটিল সমস্যা বা ধাঁধা",
+                    "word_transliteration": "jotil shomoshya ba dhadha",
+                    "example_sentence_translation": "নৈতিক জটিল সমস্যাটি গবেষকদের বিভ্রান্ত করেছে।",
+                    "example_sentence_transliteration": "Noitik jotil shomoshyati gobeshokder bibhranto koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "nascent",
+            "phonetic": "/ˈnæs.ənt/",
+            "word_native_transliteration": {
+                "bn": "ন্যাসেন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌱",
+            "meaning": "Emerging, developing, or in the early stages of formation",
+            "example_sentence": "The nascent technology is revolutionizing industries.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ন্যাসেন্ট টেকনোলজি ইজ রেভোলিউশোনাইজিং ইন্ডাস্ট্রিজ।"
+            },
+            "position": 5,
+            "synonyms": "Emerging, Developing, Growing",
+            "antonyms": "Established, Mature, Declining",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদীয়মান বা বিকাশমান",
+                    "word_transliteration": "udiyoman ba bikashman",
+                    "example_sentence_translation": "উদীয়মান প্রযুক্তি শিল্পকে বদলে দিচ্ছে।",
+                    "example_sentence_transliteration": "Udiyoman projukti shilpoke bodle dichhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "tenacity",
+            "phonetic": "/təˈnæs.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "টেনাসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "Determination, persistence, and the quality of not giving up",
+            "example_sentence": "His tenacity in solving problems led to his success.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ টেনাসিটি ইন সলভিং প্রবলেমস লেড টু হিজ সাকসেস।"
+            },
+            "position": 6,
+            "synonyms": "Determination, Persistence, Resilience",
+            "antonyms": "Indecision, Weakness, Hesitation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দৃঢ় সংকল্প বা স্থিরতা",
+                    "word_transliteration": "dhridho shongkolpo ba sthirata",
+                    "example_sentence_translation": "সমস্যা সমাধানে তার দৃঢ় সংকল্প তাকে সাফল্যের পথে নিয়ে গেছে।",
+                    "example_sentence_transliteration": "Shomoshya shomadhane tar dhridho shongkolpo take shafoller pothe niye geche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "perseverance",
+            "phonetic": "/ˌpɜː.sɪˈvɪə.rəns/",
+            "word_native_transliteration": {
+                "bn": "পার্সিভিয়ারেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏃‍♂️",
+            "meaning": "Persistence in doing something despite difficulty or delay in achieving success",
+            "example_sentence": "His perseverance helped him achieve his dreams.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ পার্সিভিয়ারেন্স হেল্পড হিম অ্যাচিভ হিজ ড্রিমস।"
+            },
+            "position": 7,
+            "synonyms": "Persistence, Determination, Endurance",
+            "antonyms": "Laziness, Weakness, Giving up",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অধ্যবসায় বা টিকে থাকার ক্ষমতা",
+                    "word_transliteration": "oddhyoboshay ba tike thakar khomota",
+                    "example_sentence_translation": "তার অধ্যবসায় তাকে স্বপ্ন পূরণে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Tar oddhyoboshay take shopno purone shahajyo koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "oscillate",
+            "phonetic": "/ˈɒs.ɪ.leɪt/",
+            "word_native_transliteration": {
+                "bn": "অসিলেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⚖️",
+            "meaning": "To swing or move back and forth between two points or states",
+            "example_sentence": "The stock market tends to oscillate during uncertain times.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্টক মার্কেট টেন্ডস টু অসিলেট ডিউরিং আনসার্টেন টাইমস।"
+            },
+            "position": 8,
+            "synonyms": "Swing, Fluctuate, Waver",
+            "antonyms": "Stabilize, Remain Steady, Fixate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দুলতে থাকা বা দ্বিধাগ্রস্ত হওয়া",
+                    "word_transliteration": "dulte thaka ba dwidhagrostho howa",
+                    "example_sentence_translation": "অবিশ্বাসী সময়ে শেয়ারবাজার ওঠানামা করতে থাকে।",
+                    "example_sentence_transliteration": "Obishwashi shomoy sheyarbajaar othanaama korte thake.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "meticulous",
+            "phonetic": "/məˈtɪk.jə.ləs/",
+            "word_native_transliteration": {
+                "bn": "মেটিকুলাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔍",
+            "meaning": "Extremely careful and precise in attention to detail",
+            "example_sentence": "A meticulous researcher checks every detail before publishing.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ মেটিকুলাস রিসার্চার চেকস এভরি ডিটেইল বিফোর পাবলিশিং।"
+            },
+            "position": 9,
+            "synonyms": "Precise, Thorough, Detail-oriented",
+            "antonyms": "Careless, Inaccurate, Negligent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অত্যন্ত যত্নবান বা নিখুঁতভাবে কাজ করা",
+                    "word_transliteration": "ottyonto jotnoban ba nikhutobhabe kaj kora",
+                    "example_sentence_translation": "একজন নিখুঁত গবেষক প্রকাশের আগে প্রতিটি বিশদ পরীক্ষা করেন।",
+                    "example_sentence_transliteration": "Ekjon nikhuto gobeshok prokasher agey protiti bishod poriksha koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "immutable",
+            "phonetic": "/ɪˈmjuː.tə.bəl/",
+            "word_native_transliteration": {
+                "bn": "ইমিউটেবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🗿",
+            "meaning": "Unchangeable, permanent, or fixed",
+            "example_sentence": "The laws of physics are considered immutable.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য লজ অব ফিজিক্স আর কনসিডার্ড ইমিউটেবল।"
+            },
+            "position": 10,
+            "synonyms": "Unchangeable, Permanent, Fixed",
+            "antonyms": "Flexible, Alterable, Malleable",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অপরিবর্তনীয় বা স্থায়ী",
+                    "word_transliteration": "oporibortoneeyo ba sthayi",
+                    "example_sentence_translation": "পদার্থবিদ্যার নিয়মগুলো অপরিবর্তনীয় বলে বিবেচিত হয়।",
+                    "example_sentence_transliteration": "Podarthobiddyar niomgulo oporibortoneeyo bole bibechito hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dichotomy",
+            "phonetic": "/daɪˈkɒt.ə.mi/",
+            "word_native_transliteration": {
+                "bn": "ডাইকোটমি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "A clear division or contrast between two opposing things",
+            "example_sentence": "There is a clear dichotomy between theory and practice.",
+            "example_sentence_native_transliteration": {
+                "bn": "দেয়ার ইজ এ ক্লিয়ার ডাইকোটমি বিটুইন থিওরি অ্যান্ড প্র্যাকটিস।"
+            },
+            "position": 11,
+            "synonyms": "Division, Contrast, Duality",
+            "antonyms": "Unity, Similarity, Agreement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৈপরীত্য বা দ্বৈততা",
+                    "word_transliteration": "boiporitto ba doittota",
+                    "example_sentence_translation": "তত্ত্ব ও বাস্তবতার মধ্যে একটি স্পষ্ট বৈপরীত্য রয়েছে।",
+                    "example_sentence_transliteration": "Tottyo o bashtobotar moddhe ekti sposhto boiporitto royeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ephemeral",
+            "phonetic": "/ɪˈfɛm.ər.əl/",
+            "word_native_transliteration": {
+                "bn": "এফেমেরাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌸",
+            "meaning": "Lasting for a very short time, transient",
+            "example_sentence": "The beauty of cherry blossoms is ephemeral.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য বিউটি অব চেরি ব্লসমস ইজ এফেমেরাল।"
+            },
+            "position": 12,
+            "synonyms": "Short-lived, Transient, Fleeting",
+            "antonyms": "Permanent, Lasting, Enduring",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অস্থায়ী বা স্বল্পস্থায়ী",
+                    "word_transliteration": "osthayi ba shwolpo sthayi",
+                    "example_sentence_translation": "চেরি ফুলের সৌন্দর্য ক্ষণস্থায়ী।",
+                    "example_sentence_transliteration": "Cheri fuler shoundryo kkhono sthayi.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "axiomatic",
+            "phonetic": "/ˌæk.si.əˈmæt.ɪk/",
+            "word_native_transliteration": {
+                "bn": "অ্যাক্সিওম্যাটিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "✅",
+            "meaning": "Self-evident, obviously true without need for proof",
+            "example_sentence": "It is axiomatic that hard work leads to success.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইট ইজ অ্যাক্সিওম্যাটিক দ্যাট হার্ড ওয়ার্ক লিডস টু সাকসেস।"
+            },
+            "position": 13,
+            "synonyms": "Self-evident, Undeniable, Obvious",
+            "antonyms": "Debatable, Controversial, Uncertain",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বতঃসিদ্ধ বা স্বাভাবিক সত্য",
+                    "word_transliteration": "shotohshiddho ba shabhabik shotto",
+                    "example_sentence_translation": "এটি স্বতঃসিদ্ধ যে কঠোর পরিশ্রম সাফল্য আনে।",
+                    "example_sentence_transliteration": "Eti shotohshiddho je kothor porishrom shafolyo aane.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "acclimate",
+            "phonetic": "/ˈæk.lɪ.meɪt/",
+            "word_native_transliteration": {
+                "bn": "অ্যাক্লিমেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🏔️",
+            "meaning": "To adapt or become accustomed to a new environment or situation",
+            "example_sentence": "It takes time to acclimate to a new climate.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইট টেকস টাইম টু অ্যাক্লিমেট টু এ নিউ ক্লাইমেট।"
+            },
+            "position": 14,
+            "synonyms": "Adapt, Adjust, Accommodate",
+            "antonyms": "Resist, Struggle, Disorient",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিবেশের সাথে খাপ খাওয়ানো",
+                    "word_transliteration": "poribesh-er shathe khap khaoyano",
+                    "example_sentence_translation": "একটি নতুন জলবায়ুর সাথে মানিয়ে নিতে সময় লাগে।",
+                    "example_sentence_transliteration": "Ekti notun jolbayur shathe maniye nite shomoy lage.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "juxtaposition",
+            "phonetic": "/ˌdʒʌk.stə.pəˈzɪʃ.ən/",
+            "word_native_transliteration": {
+                "bn": "জাক্সটাপজিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔗",
+            "meaning": "The placement of two things side by side for comparison or contrast",
+            "example_sentence": "The juxtaposition of old and modern buildings is striking.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য জাক্সটাপজিশন অব ওল্ড অ্যান্ড মডার্ন বিল্ডিংস ইজ স্ট্রাইকিং।"
+            },
+            "position": 15,
+            "synonyms": "Comparison, Contrast, Adjacency",
+            "antonyms": "Separation, Isolation, Disconnection",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একসাথে রাখা বা তুলনামূলকভাবে রাখা",
+                    "word_transliteration": "ekshathe rakha ba tulonaulokbhabe rakha",
+                    "example_sentence_translation": "পুরনো ও আধুনিক ভবনের পাশাপাশি অবস্থান চোখে পড়ার মতো।",
+                    "example_sentence_transliteration": "Purono o adhunik bhoboner pashapashi obosthan chokhe porar moto.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "salient",
+            "phonetic": "/ˈseɪ.li.ənt/",
+            "word_native_transliteration": {
+                "bn": "সেইলিয়েন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⭐",
+            "meaning": "Most important, prominent, or noticeable",
+            "example_sentence": "The report highlighted the salient points of the discussion.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রিপোর্ট হাইলাইটেড দ্য সেইলিয়েন্ট পয়েন্টস অব দ্য ডিসকাশন।"
+            },
+            "position": 16,
+            "synonyms": "Prominent, Noticeable, Significant",
+            "antonyms": "Insignificant, Unimportant, Subtle",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গুরুত্বপূর্ণ বা সুস্পষ্ট",
+                    "word_transliteration": "gurutwopurno ba shusposhto",
+                    "example_sentence_translation": "প্রতিবেদনটি আলোচনার গুরুত্বপূর্ণ বিষয়গুলো তুলে ধরেছে।",
+                    "example_sentence_transliteration": "Protibedanti alochonaar gurutwopurno bishoygulo tule dhoreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "consummate",
+            "phonetic": "/ˈkɒn.sə.mət/",
+            "word_native_transliteration": {
+                "bn": "কনসামেট"
+            },
+            "parts_of_speech": "adjective/verb",
+            "emoji": "🎯",
+            "meaning": "To complete or perfect something with great skill",
+            "example_sentence": "He is a consummate artist with years of experience.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি ইজ এ কনসামেট আর্টিস্ট উইথ ইয়ারস অব এক্সপেরিয়েন্স।"
+            },
+            "position": 17,
+            "synonyms": "Perfect, Skilled, Accomplished",
+            "antonyms": "Incomplete, Unfinished, Inept",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পূর্ণতা অর্জন করা বা নিখুঁত করা",
+                    "word_transliteration": "purnota orjon kora ba nikhuto kora",
+                    "example_sentence_translation": "তিনি বহু বছরের অভিজ্ঞতাসম্পন্ন একজন নিখুঁত শিল্পী।",
+                    "example_sentence_transliteration": "Tini bohu bochhorer ovijhyota shomponno ekjon nikhuto shilpi.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,526 @@
+{
+    "position": 80,
+    "title_translation": {
+        "en": "Building a Strong Freelance Portfolio",
+        "bn": "ফ্রিল্যান্সিং এর ক্ষেত্রে একটি শক্তিশালী portfolio তৈরি করা"
+    },
+    "content_translation": {
+        "en": "Building a strong **portfolio** in freelancing is crucial. You need to establish your **branding** and **identity** so that clients can easily recognize you. A successful freelance **portfolio** not only helps you showcase your **expertise**, but also increases your **reputation** and **visibility**.\n\nYour work should have **consistency** and **finesse** to increase **engagement** with clients. To create **differentiation**, **personalize** your work. **Networking** and good **testimonials** make you more trustworthy.\n\nFurthermore, to ensure **sustainability**, you need to maintain the quality of your work and your **value proposition**. **Clientele** advice and testimonials of your work make your portfolio even stronger.\n\nTo properly highlight **transparency** and **workmanship**, properly **showcase** your work in your portfolio.",
+        "bn": "**ফ্রিল্যান্সিং** এর ক্ষেত্রে একটি শক্তিশালী **portfolio** তৈরি করা গুরুত্বপূর্ণ। আপনার **branding** এবং **identity** প্রতিষ্ঠা করতে হবে, যাতে ক্লায়েন্টরা সহজেই আপনাকে চিনতে পারে। একটি সফল freelance **portfolio** আপনাকে কেবল **expertise** প্রদর্শন করতে সাহায্য করে না, বরং এটি আপনার **reputation** এবং **visibility** বৃদ্ধি করে।\n\nআপনার কাজের মধ্যে **consistency** এবং **finesse** থাকা উচিত, যাতে ক্লায়েন্টদের মধ্যে **engagement** বৃদ্ধি পায়। **Differentiation** তৈরি করতে, নিজের কাজের **personalization** করুন। **Networking** এবং ভালো **testimonials** আপনাকে আরও বিশ্বাসযোগ্য করে তোলে।\n\nএছাড়া, **sustainability** নিশ্চিত করতে, কাজের মান এবং আপনার **value proposition** মেনে চলতে হবে। **Clientele** এর পরামর্শ এবং আপনার কাজের সংশাপত্র আপনার পোর্টফোলিওকে আরও শক্তিশালী করে তোলে।\n\n**Transparency** এবং **workmanship** সঠিকভাবে তুলে ধরতে, আপনার পোর্টফোলিওতে সঠিকভাবে কাজের **showcase** করুন।"
+    },
+    "list": [
+        {
+            "word": "portfolio",
+            "phonetic": "/ˈpɔːt.fəʊ.li.əʊ/",
+            "word_native_transliteration": {
+                "bn": "পোর্টফোলিও"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📁",
+            "meaning": "A collection of work or samples demonstrating skills and expertise.",
+            "example_sentence": "His portfolio showcased his diverse range of skills.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ পোর্টফোলিও শোকেসড হিজ ডাইভার্স রেঞ্জ অব স্কিলস।"
+            },
+            "position": 1,
+            "synonyms": "collection, compilation, assemblage",
+            "antonyms": "disorganization, chaos",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কাজের সংগ্রহ, নিদর্শন বা কাজের তালিকা",
+                    "word_transliteration": "kajer shongroho, nidarshon ba kajer talika",
+                    "example_sentence_translation": "তার পোর্টফোলিও তার দক্ষতার বিভিন্ন ক্ষেত্র প্রদর্শন করেছে।",
+                    "example_sentence_transliteration": "Tar portfolio tar dokkhatar bibhinno kkhetre prodarshon koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "branding",
+            "phonetic": "/ˈbrændɪŋ/",
+            "word_native_transliteration": {
+                "bn": "ব্র্যান্ডিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏷️",
+            "meaning": "The process of creating and promoting a brand or company identity.",
+            "example_sentence": "Effective branding is key to building customer loyalty.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইফেক্টিভ ব্র্যান্ডিং ইজ কি টু বিল্ডিং কাস্টমার লয়্যালটি।"
+            },
+            "position": 2,
+            "synonyms": "marketing, identity, promotion",
+            "antonyms": "unbranding, disassociation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একটি কোম্পানি বা ব্যক্তির ব্র্যান্ড তৈরি এবং প্রবর্তন প্রক্রিয়া",
+                    "word_transliteration": "ekti company ba byektir brand toiri ebong proborton prokriya",
+                    "example_sentence_translation": "কার্যকর ব্র্যান্ডিং গ্রাহকদের বিশ্বস্ততা তৈরি করার জন্য গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Karjokor branding grahokder bishshostota toiri korar jonno guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "identity",
+            "phonetic": "/aɪˈdɛntɪti/",
+            "word_native_transliteration": {
+                "bn": "আইডেন্টিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🆔",
+            "meaning": "The essence, character, or distinguishing features of a person or organization.",
+            "example_sentence": "The company's identity is reflected in its logo.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানিজ আইডেন্টিটি ইজ রিফ্লেক্টেড ইন ইটস লোগো।"
+            },
+            "position": 3,
+            "synonyms": "character, essence, nature",
+            "antonyms": "ambiguity, uncertainty",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সত্ত্বা, পরিচয়, কোনো ব্যক্তি বা প্রতিষ্ঠানের বিশেষত্ব",
+                    "word_transliteration": "shottwa, porichoy, kono byekti ba protishthaner bisheshotto",
+                    "example_sentence_translation": "কোম্পানির পরিচয় তার লোগোতে প্রতিফলিত হয়।",
+                    "example_sentence_transliteration": "Companir porichoy tar logote protipholito hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "expertise",
+            "phonetic": "/ˌɛkspɜːˈtiːz/",
+            "word_native_transliteration": {
+                "bn": "এক্সপার্টিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💼",
+            "meaning": "Expert knowledge or skill in a particular area.",
+            "example_sentence": "His expertise in graphic design is widely recognized.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ এক্সপার্টিস ইন গ্রাফিক ডিজাইন ইজ ওয়াইডলি রেকগনাইজড।"
+            },
+            "position": 4,
+            "synonyms": "skill, proficiency, competence",
+            "antonyms": "incompetence, ignorance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিশেষজ্ঞ জ্ঞান বা দক্ষতা",
+                    "word_transliteration": "bisheshoggo gyan ba dokkhota",
+                    "example_sentence_translation": "গ্রাফিক ডিজাইনে তার বিশেষজ্ঞতা ব্যাপকভাবে স্বীকৃত।",
+                    "example_sentence_transliteration": "Graphic designey tar bisheshoggnota byapokbhabe shikrito.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "reputation",
+            "phonetic": "/ˌrɛp.jʊˈteɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "রেপুটেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⭐",
+            "meaning": "The opinion generally held about someone or something; fame or prestige.",
+            "example_sentence": "A good reputation is essential for business success.",
+            "example_sentence_native_transliteration": {
+                "bn": "আ গুড রেপুটেশন ইজ এসেন্সিয়াল ফর বিজনেস সাক্সেস।"
+            },
+            "position": 5,
+            "synonyms": "prestige, honor, standing",
+            "antonyms": "disrepute, infamy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "খ্যাতি, স্বীকৃতি, মর্যাদা",
+                    "word_transliteration": "khyati, shikroti, morjada",
+                    "example_sentence_translation": "একটি ভালো খ্যাতি ব্যবসায়িক সফলতার জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Ekti bhalo khyati byabshayik shofolothar jonno aporiharju.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "visibility",
+            "phonetic": "/ˌvɪz.ɪˈbɪlɪti/",
+            "word_native_transliteration": {
+                "bn": "ভিজিবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👁️",
+            "meaning": "The state of being able to see or be seen; exposure or prominence.",
+            "example_sentence": "Increased visibility on social media can help businesses grow.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনক্রিজড ভিজিবিলিটি অন সোশ্যাল মিডিয়া ক্যান হেল্প বিজনেসেস গ্রো।"
+            },
+            "position": 6,
+            "synonyms": "exposure, sight, prominence",
+            "antonyms": "obscurity, invisibility",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দৃশ্যদৃশ্যমানতা, দেখা যাওয়া",
+                    "word_transliteration": "drishyodrishmanta, dekha yaowa",
+                    "example_sentence_translation": "সোশ্যাল মিডিয়াতে দৃশ্যদৃশ্যমানতা বাড়ানো ব্যবসা বৃদ্ধিতে সাহায্য করতে পারে।",
+                    "example_sentence_transliteration": "Social mediayte drisyodrishyomanota barano byabsha briddhite shahajyo korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "consistency",
+            "phonetic": "/kənˈsɪstənsi/",
+            "word_native_transliteration": {
+                "bn": "কনসিস্টেন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "The quality of always behaving or performing in a similar way; uniformity.",
+            "example_sentence": "Consistency in quality is key to customer satisfaction.",
+            "example_sentence_native_transliteration": {
+                "bn": "কনসিস্টেন্সি ইন কোয়ালিটি ইজ কি টু কাস্টমার স্যাটিসফ্যাকশন।"
+            },
+            "position": 7,
+            "synonyms": "uniformity, stability, regularity",
+            "antonyms": "inconsistency, irregularity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সামঞ্জস্য, একরূপতা, ধারাবাহিকতা",
+                    "word_transliteration": "shamongshsho, ekrupota, dharabahikota",
+                    "example_sentence_translation": "গুণগত সামঞ্জস্য গ্রাহক সন্তুষ্টির জন্য মূল বিষয়।",
+                    "example_sentence_transliteration": "Gungoto shamongshsho grahok shontushtir jonno mul bishoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "finesse",
+            "phonetic": "/fɪˈnɛs/",
+            "word_native_transliteration": {
+                "bn": "ফিনেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✨",
+            "meaning": "Subtlety and skill; refinement and delicacy in performance or artistry.",
+            "example_sentence": "The artist painted with great finesse.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য আর্টিস্ট পেইন্টেড উইথ গ্রেট ফিনেস।"
+            },
+            "position": 8,
+            "synonyms": "skill, refinement, elegance",
+            "antonyms": "clumsiness, ineptness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সূক্ষ্মতা, দক্ষতা, নিপুণতা",
+                    "word_transliteration": "shukkhmota, dokkhota, nipunota",
+                    "example_sentence_translation": "শিল্পী অত্যন্ত সূক্ষ্মতার সাথে ছবি এঁকেছিলেন।",
+                    "example_sentence_transliteration": "Shilpi ottyonto shukkhmothar shathe chhobhi enkechhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "engagement",
+            "phonetic": "/ɪnˈɡeɪdʒ.mənt/",
+            "word_native_transliteration": {
+                "bn": "এনগেজমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "The action of engaging or being engaged; participation or involvement.",
+            "example_sentence": "Social media engagement helps brands connect with their audience.",
+            "example_sentence_native_transliteration": {
+                "bn": "সোশ্যাল মিডিয়া এনগেজমেন্ট হেল্পস ব্র্যান্ডস কানেক্ট উইথ দেয়ার অডিয়েন্স।"
+            },
+            "position": 9,
+            "synonyms": "involvement, participation, interaction",
+            "antonyms": "disengagement, apathy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অংশগ্রহণ, যুক্ত হওয়া",
+                    "word_transliteration": "ongshogrohon, jukto howa",
+                    "example_sentence_translation": "সোশ্যাল মিডিয়াতে এনগেজমেন্ট ব্র্যান্ডগুলিকে তাদের দর্শকদের সাথে সংযোগ করতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Social mediayte engagement brandgulike tader dorshokder shathe shongjog korte shahajyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "differentiation",
+            "phonetic": "/ˌdɪfəˈrɛnʃɪˈeɪʃən/",
+            "word_native_transliteration": {
+                "bn": "ডিফারেনশিয়েশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The action or process of differentiating or distinguishing between things.",
+            "example_sentence": "Differentiation from competitors can create a unique market position.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিফারেনশিয়েশন ফ্রম কম্পিটিটর্স ক্যান ক্রিয়েট এ ইউনিক মার্কেট পজিশন।"
+            },
+            "position": 10,
+            "synonyms": "distinction, contrast, separation",
+            "antonyms": "similarity, uniformity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পার্থক্য করা, আলাদা করা",
+                    "word_transliteration": "parthokyo kora, alada kora",
+                    "example_sentence_translation": "প্রতিযোগীদের থেকে পার্থক্য একটি অনন্য বাজার অবস্থান তৈরি করতে পারে।",
+                    "example_sentence_transliteration": "Protiyogider theke parthokyo ekti ononno bajar obosthan toiri korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "personalization",
+            "phonetic": "/ˌpɜːsəˈnælɪzeɪʃən/",
+            "word_native_transliteration": {
+                "bn": "পার্সোনালাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎨",
+            "meaning": "The action of making something personal or individual; customization.",
+            "example_sentence": "Personalization in marketing improves customer engagement.",
+            "example_sentence_native_transliteration": {
+                "bn": "পার্সোনালাইজেশন ইন মার্কেটিং ইমপ্রুভস কাস্টমার এনগেজমেন্ট।"
+            },
+            "position": 11,
+            "synonyms": "customization, individualization, tailoring",
+            "antonyms": "standardization, uniformity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ব্যক্তিগতকরণ, বিশেষভাবে তৈরি বা উপযোগী করা",
+                    "word_transliteration": "byektigatkoron, bisheshshabhe toiri ba upojogi kora",
+                    "example_sentence_translation": "মার্কেটিংয়ে ব্যক্তিগতকরণ গ্রাহক এনগেজমেন্ট উন্নত করে।",
+                    "example_sentence_transliteration": "Marketingey byektigatkoron grahok engagement unnoto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "networking",
+            "phonetic": "/ˈnɛtˌwɜːkɪŋ/",
+            "word_native_transliteration": {
+                "bn": "নেটওয়ার্কিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔗",
+            "meaning": "The action of establishing connections and relationships, especially for career or business purposes.",
+            "example_sentence": "Networking is important for career development.",
+            "example_sentence_native_transliteration": {
+                "bn": "নেটওয়ার্কিং ইজ ইম্পর্ট্যান্ট ফর ক্যারিয়ার ডেভেলপমেন্ট।"
+            },
+            "position": 12,
+            "synonyms": "interaction, connection, relationship-building",
+            "antonyms": "isolation, seclusion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "যোগাযোগ স্থাপন, পেশাদার সম্পর্ক তৈরি করা",
+                    "word_transliteration": "jogajog sthapono, peshadar shomporko toiri kora",
+                    "example_sentence_translation": "নেটওয়ার্কিং পেশাগত উন্নয়নের জন্য গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Networking peshagoto unnoyoner jonno guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "testimonials",
+            "phonetic": "/ˌtɛstɪˈməʊnɪəlz/",
+            "word_native_transliteration": {
+                "bn": "টেস্টিমোনিয়াল"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📝",
+            "meaning": "Written or spoken statements of praise or recommendation from clients or customers.",
+            "example_sentence": "Positive testimonials can enhance a company's reputation.",
+            "example_sentence_native_transliteration": {
+                "bn": "পজিটিভ টেস্টিমোনিয়াল ক্যান এনহান্স এ কোম্পানিজ রেপুটেশন।"
+            },
+            "position": 13,
+            "synonyms": "recommendation, reference, endorsement",
+            "antonyms": "criticism, condemnation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রশংসাপত্র, অভিজ্ঞতার বিবরণ",
+                    "word_transliteration": "proshongshapotra, obhiggotar biboron",
+                    "example_sentence_translation": "ইতিবাচক টেস্টিমোনিয়ালগুলি একটি কোম্পানির খ্যাতি বাড়াতে সাহায্য করতে পারে।",
+                    "example_sentence_transliteration": "Itibachok testimonialgulik ekti companir khyati barate shahajyo korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sustainability",
+            "phonetic": "/səˌsteɪnəˈbɪləti/",
+            "word_native_transliteration": {
+                "bn": "সাস্টেইনেবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌱",
+            "meaning": "The ability to be maintained at a certain rate or level; environmental responsibility.",
+            "example_sentence": "Sustainability is crucial for the future of our planet.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাস্টেইনেবিলিটি ইজ ক্রুশিয়াল ফর দ্য ফিউচার অব আওয়ার প্ল্যানেট।"
+            },
+            "position": 14,
+            "synonyms": "durability, viability, longevity",
+            "antonyms": "unsustainability, fragility",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "টেকসইতা, পরিবেশগত ভারসাম্য বজায় রাখা",
+                    "word_transliteration": "tekshoita, poribeshgoto bharshammyo bojay rakha",
+                    "example_sentence_translation": "আমাদের পৃথিবীর ভবিষ্যতের জন্য সাস্টেইনেবিলিটি অপরিহার্য।",
+                    "example_sentence_transliteration": "Amadr prithibir bhabishshoter jonno sustainability aporiharju.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "value proposition",
+            "phonetic": "/ˈvæljuː ˌprɒpəˈzɪʃən/",
+            "word_native_transliteration": {
+                "bn": "ভ্যালু প্রোপোজিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💎",
+            "meaning": "A statement that explains the unique benefits or value that a product or service offers to customers.",
+            "example_sentence": "A clear value proposition attracts more customers.",
+            "example_sentence_native_transliteration": {
+                "bn": "আ ক্লিয়ার ভ্যালু প্রোপোজিশন অ্যাট্রাক্টস মোর কাস্টমারস।"
+            },
+            "position": 15,
+            "synonyms": "offering, benefit, advantage",
+            "antonyms": "disadvantage, drawback",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাজারে কোনও পণ্যের বা পরিষেবার মূল উপকারিতা",
+                    "word_transliteration": "bajare kono ponyer ba porisher bakar mul upokarita",
+                    "example_sentence_translation": "স্পষ্ট ভ্যালু প্রোপোজিশন আরও গ্রাহক আকর্ষণ করে।",
+                    "example_sentence_transliteration": "Sposhto value proposition aro grahok akorshon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "clientele",
+            "phonetic": "/ˈklaɪəntɛl/",
+            "word_native_transliteration": {
+                "bn": "ক্লায়েন্টেল"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👥",
+            "meaning": "The clients or customers of a professional person or business.",
+            "example_sentence": "The salon's clientele includes many high-profile individuals.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্যালনস ক্লায়েন্টেল ইনক্লুডস মেনি হাই-প্রোফাইল ইন্ডিভিজুয়ালস।"
+            },
+            "position": 16,
+            "synonyms": "customers, patrons, clients",
+            "antonyms": "competitors, rivals",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গ্রাহক, সেবাগ্রহীতা",
+                    "word_transliteration": "grahok, shebagrahita",
+                    "example_sentence_translation": "সেলুনের ক্লায়েন্টদের মধ্যে অনেক উচ্চ-প্রোফাইল ব্যক্তি রয়েছেন।",
+                    "example_sentence_transliteration": "Seluner clientder moddhe onek uchcho-profile byekti royechen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "transparency",
+            "phonetic": "/trænˈspærənsi/",
+            "word_native_transliteration": {
+                "bn": "ট্রান্সপারেন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔍",
+            "meaning": "The quality of being open, honest, and straightforward; clarity.",
+            "example_sentence": "Transparency in business builds trust with customers.",
+            "example_sentence_native_transliteration": {
+                "bn": "ট্রান্সপারেন্সি ইন বিজনেস বিল্ডস ট্রাস্ট উইথ কাস্টমারস।"
+            },
+            "position": 17,
+            "synonyms": "openness, clarity, honesty",
+            "antonyms": "obscurity, ambiguity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বচ্ছতা, প্রকাশ্যতা, স্পষ্টতা",
+                    "word_transliteration": "shochhota, prokashyota, sposhttota",
+                    "example_sentence_translation": "ব্যবসায়ে স্বচ্ছতা গ্রাহকদের সাথে বিশ্বাস তৈরি করে।",
+                    "example_sentence_transliteration": "Byabshaye shochhota grahokder shathe bishash toiri kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "workmanship",
+            "phonetic": "/ˈwɜːkmənʃɪp/",
+            "word_native_transliteration": {
+                "bn": "ওয়ার্কম্যানশিপ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔨",
+            "meaning": "The skill with which something is made or the quality of something made.",
+            "example_sentence": "The workmanship of the handmade furniture was impeccable.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ওয়ার্কম্যানশিপ অব দ্য হ্যান্ডমেড ফার্নিচার ওয়াজ ইমপেকেবল।"
+            },
+            "position": 18,
+            "synonyms": "craftsmanship, skill, artistry",
+            "antonyms": "sloppiness, carelessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কাজের মান, দক্ষতা, নির্মাণের গুণগত মান",
+                    "word_transliteration": "kajer man, dokkhota, nirmanor gungoto man",
+                    "example_sentence_translation": "হ্যান্ডমেড আসবাবপত্রের কাজের মান ছিল নিখুঁত।",
+                    "example_sentence_transliteration": "Handmade ashbabpotrer kajer man chhilo nikkhuto.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "showcase",
+            "phonetic": "/ˈʃəʊ.keɪs/",
+            "word_native_transliteration": {
+                "bn": "শোকেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🖼️",
+            "meaning": "A display case or exhibition; to present something in an attractive or favorable way.",
+            "example_sentence": "The exhibition showcased the artist's best works.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এক্সিবিশন শোকেসড দ্য আর্টিস্টস বেস্ট ওয়ার্কস।"
+            },
+            "position": 19,
+            "synonyms": "display, exhibition, presentation",
+            "antonyms": "concealment, hiding",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রদর্শনী, প্রদর্শনের জন্য একটি স্থান বা জায়গা",
+                    "word_transliteration": "prodarshoni, prodarshoner jonno ekti sthan ba jayga",
+                    "example_sentence_translation": "প্রদর্শনীটি শিল্পীর সেরা কাজগুলো প্রদর্শন করেছিল।",
+                    "example_sentence_transliteration": "Prodarshoniti shilpir shera kajgulo prodarshon korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}
