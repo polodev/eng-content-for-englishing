@@ -1,0 +1,499 @@
+{
+    "position": 119,
+    "title_translation": {
+        "en": "How Focus Tracking Boosts Productivity",
+        "bn": "কীভাবে ফোকাস ট্র্যাকিং উৎপাদনশীলতা বাড়ায়"
+    },
+    "content_translation": {
+        "en": "**Focus tracking** is a technique that helps overcome **procrastination** and boosts performance. When someone follows a **meticulous** plan, their **efficacy** becomes much higher. Our attention often **dissipates**, which creates **impediments** in our work. But with **focus tracking**, we can make **quantifiable** use of time and **scrutinize** the progress of each task. Through a successful **focus tracking** system, **cognizance** increases and we can **delineate** our goals. In this process, **vigilance** and **perseverance** play important roles, because it **reinforces** our self-control power. For those who want to increase **adroitness** and **acumen** in their daily work, **focus tracking** is an **indispensable** tool. It increases our **coalescence** and makes work **assimilation** easier and improves efficiency.",
+        "bn": "**Focus tracking** হলো এমন একটি কৌশল, যা **procrastination** দূর করতে সাহায্য করে এবং কর্মক্ষমতা বাড়ায়। যখন কেউ **meticulous** পরিকল্পনা অনুসরণ করে, তখন তার **efficacy** অনেক বেশি হয়। আমাদের মনোযোগ অনেক সময় **dissipate** হয়ে যায়, যা আমাদের কাজে **impediment** সৃষ্টি করে। কিন্তু **focus tracking** করলে, আমরা সময়ের **quantifiable** ব্যবহার করতে পারি এবং প্রতিটি কাজের অগ্রগতি **scrutiny** করতে পারি। একটি সফল **focus tracking** পদ্ধতির মাধ্যমে **cognizance** বাড়ে এবং আমরা আমাদের লক্ষ্য **delineate** করতে পারি। এই প্রক্রিয়ায় **vigilance** এবং **perseverance** গুরুত্বপূর্ণ ভূমিকা রাখে, কারণ এটি আমাদের আত্মনিয়ন্ত্রণ শক্তি **reinforce** করে। যারা প্রতিদিনের কাজে **adroitness** এবং **acumen** বাড়াতে চান, তাদের জন্য **focus tracking** একটি **indispensable** উপায়। এটি আমাদের **coalescence** বাড়িয়ে কাজের **assimilation** সহজ করে এবং কর্মদক্ষতা বৃদ্ধি করে।"
+    },
+    "list": [
+        {
+            "word": "focus tracking",
+            "phonetic": "/ˈfoʊ.kəs ˈtræk.ɪŋ/",
+            "word_native_transliteration": {
+                "bn": "ফোকাস ট্র্যাকিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "A technique of monitoring and maintaining attention on specific tasks or goals.",
+            "example_sentence": "Proper focus tracking improves productivity.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রপার ফোকাস ট্র্যাকিং ইমপ্রুভস প্রোডাক্টিভিটি।"
+            },
+            "position": 1,
+            "synonyms": "attention monitoring, concentration management, cognitive tracking",
+            "antonyms": "distraction, inattention, neglect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মনোযোগ ধরে রাখা, লক্ষ্য নির্ধারণ",
+                    "word_transliteration": "monojog dhore rakha, lokkhyo nirdharon",
+                    "example_sentence_translation": "সঠিক ফোকাস ট্র্যাকিং উৎপাদনশীলতা বৃদ্ধি করে।",
+                    "example_sentence_transliteration": "Shothik focus tracking utpadonshhilota briddhi kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "procrastination",
+            "phonetic": "/prəʊˌkræs.tɪˈneɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "প্রোক্রাস্টিনেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⏰",
+            "meaning": "The act of delaying or postponing tasks or activities.",
+            "example_sentence": "Procrastination is the enemy of success.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোক্রাস্টিনেশন ইজ দ্য এনিমি অফ সাকসেস।"
+            },
+            "position": 2,
+            "synonyms": "postponement, hesitation, delay",
+            "antonyms": "punctuality, promptness, diligence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিলম্ব করা, কাজ ফেলে রাখা",
+                    "word_transliteration": "bilambo kora, kaj fele rakha",
+                    "example_sentence_translation": "প্রোক্রাস্টিনেশন সফলতার শত্রু।",
+                    "example_sentence_transliteration": "Procrastination shoflotar shotru.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "meticulous",
+            "phonetic": "/məˈtɪk.jə.ləs/",
+            "word_native_transliteration": {
+                "bn": "মেটিকুলাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔍",
+            "meaning": "Showing great attention to detail; very careful and precise.",
+            "example_sentence": "He is meticulous about his research work.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি ইজ মেটিকুলাস অ্যাবাউট হিজ রিসার্চ ওয়ার্ক।"
+            },
+            "position": 3,
+            "synonyms": "detail-oriented, precise, thorough",
+            "antonyms": "careless, negligent, inattentive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতি সতর্ক, নিখুঁতভাবে কাজ করা",
+                    "word_transliteration": "oti shotorko, nikhunotbhabe kaj kora",
+                    "example_sentence_translation": "তিনি তার গবেষণা কাজে মেটিকুলাস।",
+                    "example_sentence_transliteration": "Tini tar gobeshona kaje meticulous.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "efficacy",
+            "phonetic": "/ˈef.ɪ.kə.si/",
+            "word_native_transliteration": {
+                "bn": "এফিকেসি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "The ability to produce a desired or intended result; effectiveness.",
+            "example_sentence": "The efficacy of the vaccine is proven.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এফিকেসি অফ দ্য ভ্যাকসিন ইজ প্রুভেন।"
+            },
+            "position": 4,
+            "synonyms": "effectiveness, efficiency, competence",
+            "antonyms": "ineffectiveness, failure, weakness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কার্যকারিতা, দক্ষতা",
+                    "word_transliteration": "karjokkarota, dokkhota",
+                    "example_sentence_translation": "টিকার এফিকেসি প্রমাণিত হয়েছে।",
+                    "example_sentence_transliteration": "Tikar efficacy promanito hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dissipate",
+            "phonetic": "/ˈdɪs.ɪ.peɪt/",
+            "word_native_transliteration": {
+                "bn": "ডিসিপেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "💨",
+            "meaning": "To waste or spend frivolously; to disappear or disperse gradually.",
+            "example_sentence": "His energy dissipated due to excessive stress.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ এনার্জি ডিসিপেটেড ডিউ টু এক্সসেসিভ স্ট্রেস।"
+            },
+            "position": 5,
+            "synonyms": "disperse, scatter, waste",
+            "antonyms": "accumulate, gather, preserve",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অপচয় করা, ধীরে ধীরে হ্রাস পাওয়া",
+                    "word_transliteration": "opochoy kora, dhire dhire hrash paowa",
+                    "example_sentence_translation": "অতিরিক্ত চাপের কারণে তার শক্তি ডিসিপেট হয়ে গেছে।",
+                    "example_sentence_transliteration": "Otirikto chaper karone tar shokti dissipate hoye geche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "impediment",
+            "phonetic": "/ɪmˈped.ɪ.mənt/",
+            "word_native_transliteration": {
+                "bn": "ইমপেডিমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚧",
+            "meaning": "A hindrance or obstruction in doing something.",
+            "example_sentence": "Financial issues were a major impediment to the project.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফাইনানসিয়াল ইস্যুজ ওয়ার এ মেজর ইমপেডিমেন্ট টু দ্য প্রজেক্ট।"
+            },
+            "position": 6,
+            "synonyms": "hindrance, obstruction, barrier",
+            "antonyms": "aid, assistance, facilitation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাধা, প্রতিবন্ধকতা",
+                    "word_transliteration": "badha, protibondhokota",
+                    "example_sentence_translation": "আর্থিক সমস্যা প্রকল্পের একটি বড় ইমপেডিমেন্ট ছিল।",
+                    "example_sentence_transliteration": "Arthik shomoshya prokkolper ekti boro impediment chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "quantifiable",
+            "phonetic": "/ˈkwɒn.tɪ.faɪ.ə.bəl/",
+            "word_native_transliteration": {
+                "bn": "কোয়ান্টিফায়েবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📊",
+            "meaning": "Able to be expressed or measured as a quantity.",
+            "example_sentence": "The impact of climate change is quantifiable through data analysis.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইমপ্যাক্ট অফ ক্লাইমেট চেঞ্জ ইজ কোয়ান্টিফায়েবল থ্রু ডেটা অ্যানালাইসিস।"
+            },
+            "position": 7,
+            "synonyms": "measurable, assessable, calculable",
+            "antonyms": "unmeasurable, indeterminate, incalculable",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিমাণগতভাবে নির্ধারণযোগ্য",
+                    "word_transliteration": "porimangatobhabe nirdharon joggo",
+                    "example_sentence_translation": "জলবায়ু পরিবর্তনের প্রভাব কোয়ান্টিফায়েবল ডেটা বিশ্লেষণের মাধ্যমে নির্ধারণযোগ্য।",
+                    "example_sentence_transliteration": "Jolobayu poriborton er probhab quantifiable data bishshleshoner madhdhome nirdharon joggo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "scrutiny",
+            "phonetic": "/ˈskruː.tɪ.ni/",
+            "word_native_transliteration": {
+                "bn": "স্ক্রুটিনি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔎",
+            "meaning": "Critical observation or examination; detailed investigation.",
+            "example_sentence": "The policy is under strict scrutiny.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য পলিসি ইজ আন্ডার স্ট্রিক্ট স্ক্রুটিনি।"
+            },
+            "position": 8,
+            "synonyms": "inspection, examination, analysis",
+            "antonyms": "neglect, ignorance, oversight",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিবিড় পর্যালোচনা, তদন্ত",
+                    "word_transliteration": "nibir porjalocha, todonbo",
+                    "example_sentence_translation": "নীতিটি কঠোর স্ক্রুটিনির মধ্যে রয়েছে।",
+                    "example_sentence_transliteration": "Nititi kothor scrutiny er moddhe royeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cognizance",
+            "phonetic": "/ˈkɒɡ.nɪ.zəns/",
+            "word_native_transliteration": {
+                "bn": "কগনিজেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧠",
+            "meaning": "Knowledge or awareness; perception or becoming aware of a fact or situation.",
+            "example_sentence": "He took full cognizance of the legal issues.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি টুক ফুল কগনিজেন্স অফ দ্য লিগ্যাল ইস্যুজ।"
+            },
+            "position": 9,
+            "synonyms": "awareness, perception, recognition",
+            "antonyms": "unawareness, ignorance, disregard",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সচেতনতা, জ্ঞান",
+                    "word_transliteration": "shochetonota, gyan",
+                    "example_sentence_translation": "তিনি আইনগত বিষয়গুলোর সম্পূর্ণ কগনিজেন্স নিয়েছিলেন।",
+                    "example_sentence_transliteration": "Tini ainogoto bishoyguolor shompurno cognizance niyechhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "delineate",
+            "phonetic": "/dɪˈlɪn.i.eɪt/",
+            "word_native_transliteration": {
+                "bn": "ডিলিনিয়েট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📝",
+            "meaning": "To describe or portray something precisely; to indicate the exact position of a boundary or border.",
+            "example_sentence": "The report clearly delineates the future plans.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রিপোর্ট ক্লিয়ারলি ডিলিনিয়েটস দ্য ফিউচার প্ল্যানস।"
+            },
+            "position": 10,
+            "synonyms": "depict, outline, describe",
+            "antonyms": "obscure, distort, misrepresent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিস্তারিতভাবে ব্যাখ্যা করা, চিত্রিত করা",
+                    "word_transliteration": "bistaritobhabe byakhya kora, chitrito kora",
+                    "example_sentence_translation": "প্রতিবেদনটি ভবিষ্যৎ পরিকল্পনাগুলো সুস্পষ্টভাবে ডিলিনিয়েট করেছে।",
+                    "example_sentence_transliteration": "Protibedoni bhobishhyot porikalponagulo shushposhobhabe delineate koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "vigilance",
+            "phonetic": "/ˈvɪdʒ.ɪ.ləns/",
+            "word_native_transliteration": {
+                "bn": "ভিজিল্যান্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👁️",
+            "meaning": "The action or state of keeping careful watch for possible danger or difficulties.",
+            "example_sentence": "Constant vigilance is required in cybersecurity.",
+            "example_sentence_native_transliteration": {
+                "bn": "কনস্ট্যান্ট ভিজিল্যান্স ইজ রিকোয়ার্ড ইন সাইবার সিকিউরিটি।"
+            },
+            "position": 11,
+            "synonyms": "alertness, caution, watchfulness",
+            "antonyms": "negligence, carelessness, inattentiveness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সতর্কতা, নজরদারি",
+                    "word_transliteration": "shotorkota, nojordari",
+                    "example_sentence_translation": "সাইবার নিরাপত্তায় সর্বদা ভিজিল্যান্স প্রয়োজন।",
+                    "example_sentence_transliteration": "Cyber niraptotay shorboda vigilance proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "perseverance",
+            "phonetic": "/ˌpɜː.sɪˈvɪə.rəns/",
+            "word_native_transliteration": {
+                "bn": "পারসেভিয়ারেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "Persistence in doing something despite difficulty or delay in achieving success.",
+            "example_sentence": "Her perseverance led her to success.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার পারসেভিয়ারেন্স লেড হার টু সাকসেস।"
+            },
+            "position": 12,
+            "synonyms": "persistence, determination, tenacity",
+            "antonyms": "apathy, weakness, indifference",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অধ্যবসায়, দৃঢ়তা",
+                    "word_transliteration": "oddhoboshay, dridhota",
+                    "example_sentence_translation": "তার পারসেভিয়ারেন্স তাকে সফলতার দিকে নিয়ে গেছে।",
+                    "example_sentence_transliteration": "Tar perseverance take shoflotar dike niye geche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "reinforce",
+            "phonetic": "/ˌriː.ɪnˈfɔːs/",
+            "word_native_transliteration": {
+                "bn": "রিইনফোর্স"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔧",
+            "meaning": "To strengthen or support something, especially with additional material.",
+            "example_sentence": "Teachers should reinforce positive behavior in students.",
+            "example_sentence_native_transliteration": {
+                "bn": "টিচারস শুড রিইনফোর্স পজিটিভ বিহেভিয়র ইন স্টুডেন্টস।"
+            },
+            "position": 13,
+            "synonyms": "strengthen, bolster, support",
+            "antonyms": "weaken, undermine, diminish",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শক্তিশালী করা, দৃঢ় করা",
+                    "word_transliteration": "shoktishali kora, dridho kora",
+                    "example_sentence_translation": "শিক্ষকদের উচিত শিক্ষার্থীদের ইতিবাচক আচরণ রিইনফোর্স করা।",
+                    "example_sentence_transliteration": "Shikkhokder uchit shikkharthider itibachok achron reinforce kora.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "adroitness",
+            "phonetic": "/əˈdrɔɪt.nəs/",
+            "word_native_transliteration": {
+                "bn": "অ্যাড্রয়টনেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎨",
+            "meaning": "Cleverness or skill, especially in using the hands or mind.",
+            "example_sentence": "His adroitness in negotiations impressed the board.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ অ্যাড্রয়টনেস ইন নেগোসিয়েশনস ইমপ্রেসড দ্য বোর্ড।"
+            },
+            "position": 14,
+            "synonyms": "skillfulness, dexterity, expertise",
+            "antonyms": "ineptitude, clumsiness, incompetence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষতা, চাতুর্য",
+                    "word_transliteration": "dokkhota, chaturjo",
+                    "example_sentence_translation": "আলোচনায় তার অ্যাড্রয়টনেস বোর্ডকে মুগ্ধ করেছে।",
+                    "example_sentence_transliteration": "Alochonay tar adroitness boardke mugdho koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "acumen",
+            "phonetic": "/ˈæk.jʊ.mən/",
+            "word_native_transliteration": {
+                "bn": "অ্যাকিউমেন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The ability to make good judgments and quick decisions, typically in a particular domain.",
+            "example_sentence": "His business acumen helped expand the company.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ বিজনেস অ্যাকিউমেন হেল্পড এক্সপান্ড দ্য কোম্পানি।"
+            },
+            "position": 15,
+            "synonyms": "insight, sharpness, intelligence",
+            "antonyms": "stupidity, foolishness, naivety",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "তীক্ষ্ণ অন্তর্দৃষ্টি, বুদ্ধিদীপ্ততা",
+                    "word_transliteration": "tikkhsno ontordrishti, buddhidiptota",
+                    "example_sentence_translation": "তার ব্যবসায়িক অ্যাকিউমেন কোম্পানিকে প্রসারিত করতে সহায়তা করেছে।",
+                    "example_sentence_transliteration": "Tar bebshayik acumen companike prosarito korte shohayota koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "indispensable",
+            "phonetic": "/ˌɪn.dɪˈspen.sə.bəl/",
+            "word_native_transliteration": {
+                "bn": "ইনডিস্পেনসেবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚡",
+            "meaning": "Absolutely necessary; too important to be without.",
+            "example_sentence": "Water is indispensable for survival.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওয়াটার ইজ ইনডিস্পেনসেবল ফর সারভাইভাল।"
+            },
+            "position": 16,
+            "synonyms": "essential, crucial, vital",
+            "antonyms": "dispensable, optional, unnecessary",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অপরিহার্য, অত্যাবশ্যক",
+                    "word_transliteration": "oporihardo, ottyaboshhok",
+                    "example_sentence_translation": "জীবনধারণের জন্য পানি ইনডিস্পেনসেবল।",
+                    "example_sentence_transliteration": "Jibondharoner jonno pani indispensable.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "coalescence",
+            "phonetic": "/ˌkəʊ.əˈles.əns/",
+            "word_native_transliteration": {
+                "bn": "কোঅলেসেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔗",
+            "meaning": "The process of coming together to form one mass or whole.",
+            "example_sentence": "The coalescence of different cultures creates diversity.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোঅলেসেন্স অফ ডিফারেন্ট কালচারস ক্রিয়েটস ডাইভার্সিটি।"
+            },
+            "position": 17,
+            "synonyms": "union, fusion, integration",
+            "antonyms": "separation, division, fragmentation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংযুক্তি, একত্রিত হওয়া",
+                    "word_transliteration": "shongjukti, ektrito howa",
+                    "example_sentence_translation": "বিভিন্ন সংস্কৃতির কোঅলেসেন্স বৈচিত্র্য সৃষ্টি করে।",
+                    "example_sentence_transliteration": "Bibhinno shonskkritir coalescence boichitto srishti kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "assimilation",
+            "phonetic": "/əˌsɪm.ɪˈleɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "অ্যাসিমিলেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The process of taking in and fully understanding information or ideas; the process of becoming similar to something.",
+            "example_sentence": "His assimilation into the new culture was smooth.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ অ্যাসিমিলেশন ইনটু দ্য নিউ কালচার ওয়াজ স্মুথ।"
+            },
+            "position": 18,
+            "synonyms": "absorption, integration, adaptation",
+            "antonyms": "rejection, isolation, exclusion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আত্মীকরণ, অভিযোজন",
+                    "word_transliteration": "atmikoron, obhijojon",
+                    "example_sentence_translation": "নতুন সংস্কৃতির সঙ্গে তার অ্যাসিমিলেশন সহজ হয়েছে।",
+                    "example_sentence_transliteration": "Notun shonskkritir shonge tar assimilation sohoj hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

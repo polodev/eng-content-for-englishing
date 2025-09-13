@@ -1,0 +1,472 @@
+{
+    "position": 110,
+    "title_translation": {
+        "en": "Healthy Eating Habits for Longevity",
+        "bn": "দীর্ঘায়ুর জন্য স্বাস্থ্যকর খাদ্যাভ্যাস"
+    },
+    "content_translation": {
+        "en": "For healthy and long life, **healthy eating habits** are extremely important. Without proper **nourishment**, the body slowly begins to **deteriorate** and the risk of various diseases increases.\n\nA **holistic** diet increases our body's **fortification** and helps **invigorate** mental health. Maintaining balance of various **constituents**, such as vitamins, proteins and minerals keeps the body healthy and **bolster** disease resistance.\n\nUnhealthy eating habits have **deleterious** effects, which can **impede** the body's natural functionality. Excessive processed foods have **pernicious** effects on our body and risk **culminate** in diseases.\n\nTherefore, including adequate vegetables, proteins and hydrating foods in the diet **revitalize** the body and **augment** energy levels. Through proper nutrition we can ensure **sustenance** of our health and be able to **mitigate** longevity.",
+        "bn": "সুস্থ ও দীর্ঘ জীবনযাপনের জন্য **healthy eating habits** অত্যন্ত গুরুত্বপূর্ণ। সঠিক **nourishment** না পেলে শরীর ধীরে ধীরে **deteriorate** করতে পারে এবং বিভিন্ন রোগের ঝুঁকি বাড়তে পারে।\n\nএকটি **holistic** ডায়েট আমাদের শরীরের **fortification** বৃদ্ধি করে এবং মানসিক স্বাস্থ্য **invigorate** করতে সাহায্য করে। বিভিন্ন **constituents**, যেমন ভিটামিন, প্রোটিন এবং মিনারেলসের ভারসাম্য বজায় রাখলে শরীর সুস্থ থাকে এবং রোগ প্রতিরোধ ক্ষমতা **bolster** হয়।\n\nঅস্বাস্থ্যকর খাদ্যাভ্যাস **deleterious** প্রভাব ফেলে, যা শরীরের স্বাভাবিক কার্যকারিতা **impede** করতে পারে। অতিরিক্ত প্রক্রিয়াজাত খাবার আমাদের দেহে **pernicious** প্রভাব ফেলে এবং রোগের ঝুঁকি **culminate** করে।\n\nতাই, খাদ্য তালিকায় পর্যাপ্ত সবজি, প্রোটিন এবং হাইড্রেটিং খাবার অন্তর্ভুক্ত করলে শরীর **revitalize** হয় এবং এনার্জি লেভেল **augment** হয়। সঠিক পুষ্টির মাধ্যমে আমরা আমাদের স্বাস্থ্যের **sustenance** নিশ্চিত করতে পারি এবং দীর্ঘায়ু **mitigate** করতে সক্ষম হই।"
+    },
+    "list": [
+        {
+            "word": "healthy",
+            "phonetic": "/ˈhɛl.θi/",
+            "word_native_transliteration": {
+                "bn": "হেলদি"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🏃‍♂️",
+            "meaning": "Good physical and mental condition, free from disease or illness.",
+            "example_sentence": "Regular exercise and a balanced diet keep the body healthy.",
+            "example_sentence_native_transliteration": {
+                "bn": "রেগুলার এক্সারসাইজ অ্যান্ড এ ব্যালেন্সড ডায়েট কিপ দ্য বডি হেলদি।"
+            },
+            "position": 1,
+            "synonyms": "Fit, Well, Strong",
+            "antonyms": "Unhealthy, Sick, Weak",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সুস্থ বা স্বাস্থ্যকর",
+                    "word_transliteration": "shustho ba shasthyokor",
+                    "example_sentence_translation": "নিয়মিত ব্যায়াম ও সুষম খাদ্য শরীরকে সুস্থ রাখে।",
+                    "example_sentence_transliteration": "Niyomito byayam o shushom khadyo shorirke shustho rakhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "eating habits",
+            "phonetic": "/ˈiː.tɪŋ ˈhæb.ɪts/",
+            "word_native_transliteration": {
+                "bn": "ইটিং হ্যাবিটস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🍽️",
+            "meaning": "A person's usual pattern and preferences in food consumption.",
+            "example_sentence": "Developing good eating habits leads to better health.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডেভেলপিং গুড ইটিং হ্যাবিটস লিডস টু বেটার হেলথ।"
+            },
+            "position": 2,
+            "synonyms": "Dietary Patterns, Food Choices, Nutrition Habits",
+            "antonyms": "Malnutrition, Unbalanced Diet, Poor Eating",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "খাদ্যাভ্যাস",
+                    "word_transliteration": "khadyabhyash",
+                    "example_sentence_translation": "ভালো খাদ্যাভ্যাস গড়ে তোলা স্বাস্থ্য উন্নত করে।",
+                    "example_sentence_transliteration": "Bhalo khadyabhyash gore tola shasthyo unnoto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "nourishment",
+            "phonetic": "/ˈnʌr.ɪʃ.mənt/",
+            "word_native_transliteration": {
+                "bn": "নরিশমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🥗",
+            "meaning": "Food and nutrients necessary for the body's growth and development.",
+            "example_sentence": "Proper nourishment is essential for child development.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রপার নরিশমেন্ট ইজ এসেনশিয়াল ফর চাইল্ড ডেভেলপমেন্ট।"
+            },
+            "position": 3,
+            "synonyms": "Nutrition, Sustenance, Food",
+            "antonyms": "Malnutrition, Starvation, Deprivation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুষ্টি",
+                    "word_transliteration": "pushti",
+                    "example_sentence_translation": "শিশুর বিকাশের জন্য সঠিক পুষ্টি অপরিহার্য।",
+                    "example_sentence_transliteration": "Shishur bikaisher jonyo shothik pushti oporiharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "deteriorate",
+            "phonetic": "/dɪˈtɪə.ri.ə.reɪt/",
+            "word_native_transliteration": {
+                "bn": "ডিটেরিওরেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📉",
+            "meaning": "To become progressively worse in physical, mental or environmental condition.",
+            "example_sentence": "Poor diet can deteriorate overall health.",
+            "example_sentence_native_transliteration": {
+                "bn": "পুওর ডায়েট ক্যান ডিটেরিওরেট ওভারঅল হেলথ।"
+            },
+            "position": 4,
+            "synonyms": "Decline, Degrade, Weaken",
+            "antonyms": "Improve, Strengthen, Enhance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অবনতি হওয়া",
+                    "word_transliteration": "obonoti howa",
+                    "example_sentence_translation": "খারাপ খাদ্যাভ্যাস সামগ্রিক স্বাস্থ্যের অবনতি ঘটাতে পারে।",
+                    "example_sentence_transliteration": "Kharap khadyabhyash shamogriq shasthyer obonoti ghatate pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "holistic",
+            "phonetic": "/hoʊˈlɪs.tɪk/",
+            "word_native_transliteration": {
+                "bn": "হোলিস্টিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌍",
+            "meaning": "Understanding or analyzing something through a comprehensive, integrated whole perspective.",
+            "example_sentence": "A holistic approach to health considers both body and mind.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ হোলিস্টিক অ্যাপ্রোচ টু হেলথ কনসিডারস বোথ বডি অ্যান্ড মাইন্ড।"
+            },
+            "position": 5,
+            "synonyms": "Comprehensive, Integrated, Whole",
+            "antonyms": "Fragmented, Partial, Incomplete",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সামগ্রিক বা পূর্ণাঙ্গ",
+                    "word_transliteration": "shamogriq ba purnanghyo",
+                    "example_sentence_translation": "স্বাস্থ্যের জন্য একটি সামগ্রিক দৃষ্টিভঙ্গি শরীর ও মন উভয়কে বিবেচনা করে।",
+                    "example_sentence_transliteration": "Shasthyer jonyo ekti shamogriq dristibhongi shorir o mon ubhoykay bibechona kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fortification",
+            "phonetic": "/ˌfɔːr.tɪ.fɪˈkeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ফর্টিফিকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛡️",
+            "meaning": "Strengthening or enriching food or body to make it more powerful.",
+            "example_sentence": "The fortification of food with vitamins helps prevent malnutrition.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফর্টিফিকেশন অফ ফুড উইথ ভিটামিনস হেল্পস প্রিভেন্ট ম্যালনিউট্রিশন।"
+            },
+            "position": 6,
+            "synonyms": "Strengthening, Enrichment, Reinforcement",
+            "antonyms": "Weakening, Depletion, Reduction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শক্তিবৃদ্ধি বা পুষ্টি সংযোজন",
+                    "word_transliteration": "shoktibriddhi ba pushti shonggojon",
+                    "example_sentence_translation": "খাদ্যে ভিটামিন সংযোজন অপুষ্টি প্রতিরোধে সাহায্য করে।",
+                    "example_sentence_transliteration": "Khadye vitamin shonggojon opushti protirodhe shahajyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "invigorate",
+            "phonetic": "/ɪnˈvɪɡ.ə.reɪt/",
+            "word_native_transliteration": {
+                "bn": "ইনভিগোরেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⚡",
+            "meaning": "To increase energy, vigor or life force.",
+            "example_sentence": "Morning walks invigorate the body and mind.",
+            "example_sentence_native_transliteration": {
+                "bn": "মর্নিং ওয়াকস ইনভিগোরেট দ্য বডি অ্যান্ড মাইন্ড।"
+            },
+            "position": 7,
+            "synonyms": "Energize, Refresh, Strengthen",
+            "antonyms": "Weaken, Exhaust, Drain",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উজ্জীবিত করা",
+                    "word_transliteration": "ujjibito kora",
+                    "example_sentence_translation": "সকালের হাঁটাহাঁটি শরীর ও মনকে উজ্জীবিত করে।",
+                    "example_sentence_transliteration": "Shokaler hatahangi shorir o monke ujjibito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "constituents",
+            "phonetic": "/kənˈstɪtʃ.u.ənts/",
+            "word_native_transliteration": {
+                "bn": "কনস্টিটিউয়েন্টস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧩",
+            "meaning": "Components or elements used to create something.",
+            "example_sentence": "Proteins and vitamins are essential constituents of a healthy diet.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোটিনস অ্যান্ড ভিটামিনস আর এসেনশিয়াল কনস্টিটিউয়েন্টস অফ এ হেলদি ডায়েট।"
+            },
+            "position": 8,
+            "synonyms": "Components, Elements, Ingredients",
+            "antonyms": "Whole, Unitary, Non-composite",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উপাদান বা গঠন উপকরণ",
+                    "word_transliteration": "upadan ba gorthon upokoron",
+                    "example_sentence_translation": "প্রোটিন ও ভিটামিন স্বাস্থ্যকর খাদ্যের অপরিহার্য উপাদান।",
+                    "example_sentence_transliteration": "Protein o vitamin shasthyokor khadyer oporiharjo upadan.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "bolster",
+            "phonetic": "/ˈboʊl.stər/",
+            "word_native_transliteration": {
+                "bn": "বোলস্টার"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "💪",
+            "meaning": "To support, strengthen or reinforce something to make it better.",
+            "example_sentence": "Regular training bolsters confidence and skills.",
+            "example_sentence_native_transliteration": {
+                "bn": "রেগুলার ট্রেনিং বোলস্টারস কনফিডেন্স অ্যান্ড স্কিলস।"
+            },
+            "position": 9,
+            "synonyms": "Support, Strengthen, Reinforce",
+            "antonyms": "Weaken, Undermine, Discourage",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শক্তিশালী বা সহায়তা প্রদান করা",
+                    "word_transliteration": "shoktishali ba shahayta prodan kora",
+                    "example_sentence_translation": "নিয়মিত প্রশিক্ষণ আত্মবিশ্বাস ও দক্ষতা শক্তিশালী করে।",
+                    "example_sentence_transliteration": "Niyomito proshikkhon attobissash o dokhota shoktishali kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "deleterious",
+            "phonetic": "/ˌdɛl.ɪˈtɪə.ri.əs/",
+            "word_native_transliteration": {
+                "bn": "ডেলিটেরিয়াস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "☠️",
+            "meaning": "Causing physical or mental harm or damage.",
+            "example_sentence": "Smoking has deleterious effects on health.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্মোকিং হ্যাজ ডেলিটেরিয়াস ইফেক্টস অন হেলথ।"
+            },
+            "position": 10,
+            "synonyms": "Harmful, Detrimental, Adverse",
+            "antonyms": "Beneficial, Helpful, Harmless",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্ষতিকর",
+                    "word_transliteration": "khotikar",
+                    "example_sentence_translation": "ধূমপান স্বাস্থ্যের জন্য ক্ষতিকর প্রভাব ফেলে।",
+                    "example_sentence_transliteration": "Dhumopan shasthyer jonyo khotikar prabhab phele.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "impede",
+            "phonetic": "/ɪmˈpiːd/",
+            "word_native_transliteration": {
+                "bn": "ইমপিড"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🚧",
+            "meaning": "To obstruct or hinder the progress or development of something.",
+            "example_sentence": "Lack of funds can impede business growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "ল্যাক অফ ফান্ডস ক্যান ইমপিড বিজনেস গ্রোথ।"
+            },
+            "position": 11,
+            "synonyms": "Obstruct, Delay, Hinder",
+            "antonyms": "Facilitate, Assist, Promote",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিবন্ধকতা সৃষ্টি করা",
+                    "word_transliteration": "protibondhokata srishti kora",
+                    "example_sentence_translation": "তহবিলের অভাব ব্যবসার বৃদ্ধিকে বাধাগ্রস্ত করতে পারে।",
+                    "example_sentence_transliteration": "Tohobiler obhab byobashar briddhike badhagrostho korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pernicious",
+            "phonetic": "/pərˈnɪʃ.əs/",
+            "word_native_transliteration": {
+                "bn": "পার্নিশিয়াস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚠️",
+            "meaning": "Gradually but seriously harmful or damaging.",
+            "example_sentence": "Misinformation can have pernicious effects on society.",
+            "example_sentence_native_transliteration": {
+                "bn": "মিসইনফরমেশন ক্যান হ্যাভ পার্নিশিয়াস ইফেক্টস অন সোসাইটি।"
+            },
+            "position": 12,
+            "synonyms": "Destructive, Malicious, Harmful",
+            "antonyms": "Innocuous, Harmless, Safe",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মারাত্মক ক্ষতিকর",
+                    "word_transliteration": "maratmok khotikar",
+                    "example_sentence_translation": "ভুল তথ্য সমাজের ওপর মারাত্মক ক্ষতিকর প্রভাব ফেলতে পারে।",
+                    "example_sentence_transliteration": "Bhul tothyo shomager upor maratmok khotikar prabhab phelte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "culminate",
+            "phonetic": "/ˈkʌl.mɪ.neɪt/",
+            "word_native_transliteration": {
+                "bn": "কালমিনেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🎯",
+            "meaning": "To reach the final or climactic stage of a process or activity.",
+            "example_sentence": "Years of hard work culminated in his success.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইয়ার্স অফ হার্ড ওয়ার্ক কালমিনেটেড ইন হিজ সাকসেস।"
+            },
+            "position": 13,
+            "synonyms": "Conclude, Reach, Peak",
+            "antonyms": "Begin, Start, Initiate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চূড়ান্ত পরিণতি হওয়া",
+                    "word_transliteration": "chudanto porinoti howa",
+                    "example_sentence_translation": "বহু বছরের কঠোর পরিশ্রম তার সফলতার চূড়ান্ত পরিণতি ঘটায়।",
+                    "example_sentence_transliteration": "Bohu bochorer kothor porishrom tar shoflotar chudanto porinoti ghatay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "revitalize",
+            "phonetic": "/ˌriːˈvaɪ.t̬əl.aɪz/",
+            "word_native_transliteration": {
+                "bn": "রিভাইটালাইজ"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🌱",
+            "meaning": "To restore energy and effectiveness to something.",
+            "example_sentence": "The new policies aim to revitalize the economy.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিউ পলিসিজ এইম টু রিভাইটালাইজ দ্য ইকোনমি।"
+            },
+            "position": 14,
+            "synonyms": "Renew, Restore, Refresh",
+            "antonyms": "Deplete, Weaken, Exhaust",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুনরুজ্জীবিত করা",
+                    "word_transliteration": "punorujjibito kora",
+                    "example_sentence_translation": "নতুন নীতিগুলি অর্থনীতিকে পুনরুজ্জীবিত করার লক্ষ্যে কাজ করছে।",
+                    "example_sentence_transliteration": "Notun nitiguli orthonithike punorujjibito korar lokkhye kaj korche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "augment",
+            "phonetic": "/ɔːɡˈmɛnt/",
+            "word_native_transliteration": {
+                "bn": "অগমেন্ট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📈",
+            "meaning": "To increase or strengthen something.",
+            "example_sentence": "The company plans to augment its workforce.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি প্ল্যানস টু অগমেন্ট ইটস ওয়ার্কফোর্স।"
+            },
+            "position": 15,
+            "synonyms": "Increase, Enhance, Expand",
+            "antonyms": "Decrease, Reduce, Diminish",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৃদ্ধি করা",
+                    "word_transliteration": "briddhi kora",
+                    "example_sentence_translation": "কোম্পানিটি তার জনবল বৃদ্ধি করার পরিকল্পনা করছে।",
+                    "example_sentence_transliteration": "Kompaniti tar jonbol briddhi korar porikalpona korche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sustenance",
+            "phonetic": "/ˈsʌs.tə.nəns/",
+            "word_native_transliteration": {
+                "bn": "সাস্টেনেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🍞",
+            "meaning": "Food, water and other essentials necessary for survival.",
+            "example_sentence": "Clean water is essential for human sustenance.",
+            "example_sentence_native_transliteration": {
+                "bn": "ক্লিন ওয়াটার ইজ এসেনশিয়াল ফর হিউমান সাস্টেনেন্স।"
+            },
+            "position": 16,
+            "synonyms": "Support, Maintenance, Livelihood",
+            "antonyms": "Deprivation, Starvation, Exhaustion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জীবনধারণের উপাদান",
+                    "word_transliteration": "jibondharoner upadan",
+                    "example_sentence_translation": "পরিষ্কার পানি মানুষের জীবনধারণের জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Porishkar pani manusher jibondharoner jonyo oporiharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "mitigate",
+            "phonetic": "/ˈmɪt.ɪ.ɡeɪt/",
+            "word_native_transliteration": {
+                "bn": "মিটিগেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🛠️",
+            "meaning": "To reduce the severity or intensity of damage or problems.",
+            "example_sentence": "Proper planning can mitigate financial risks.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রপার প্ল্যানিং ক্যান মিটিগেট ফাইনান্সিয়াল রিস্কস।"
+            },
+            "position": 17,
+            "synonyms": "Alleviate, Reduce, Lessen",
+            "antonyms": "Aggravate, Exacerbate, Intensify",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রশমিত করা",
+                    "word_transliteration": "proshomito kora",
+                    "example_sentence_translation": "সঠিক পরিকল্পনা আর্থিক ঝুঁকি প্রশমিত করতে পারে।",
+                    "example_sentence_transliteration": "Shothik porikalpona arthik jhuki proshomito korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

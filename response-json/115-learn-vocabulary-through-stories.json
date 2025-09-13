@@ -1,0 +1,553 @@
+{
+    "position": 115,
+    "title_translation": {
+        "en": "How ChatGPT Processes Human Language",
+        "bn": "কীভাবে ChatGPT মানুষের ভাষা প্রক্রিয়া করে"
+    },
+    "content_translation": {
+        "en": "Through an **algorithmic** **model**, ChatGPT acquires the ability to understand human language. It gathers information from vast **corpus** and conducts **probabilistic** analysis to understand the **semantic** meaning of each word.\n\nIn the first step, text is divided into smaller parts using **tokenization** methods. Then sentence structure is analyzed through **parsing** and **morphological** analysis. Sentences are formed naturally while maintaining **syntax** and **cohesion**.\n\nSince there is much **ambiguity** in language, the **disambiguation** process helps determine the correct meaning. **Contextual** relationships are understood using **inference**.\n\nFinally, ChatGPT generates answers through **retrieval** and **optimization** methods. Its **linguistic** analysis skills and **comprehension** abilities make it more effective.",
+        "bn": "একটি **algorithmic** মডেলের মাধ্যমে ChatGPT মানুষের ভাষা বোঝার ক্ষমতা অর্জন করে। এটি বিশাল **corpus** থেকে তথ্য সংগ্রহ করে এবং প্রতিটি শব্দের **semantic** অর্থ বোঝার জন্য **probabilistic** বিশ্লেষণ চালায়।\n\nপ্রথম ধাপে, **tokenization** পদ্ধতি ব্যবহার করে বাক্যকে ছোট ছোট অংশে বিভক্ত করা হয়। এরপর **parsing** এবং **morphological** বিশ্লেষণের মাধ্যমে বাক্যের গঠন বিশ্লেষণ করা হয়। **Syntax** ও **cohesion** বজায় রেখে বাক্যকে স্বাভাবিকভাবে গঠন করা হয়।\n\nযেহেতু ভাষায় অনেক **ambiguity** থাকে, তাই **disambiguation** প্রক্রিয়া সাহায্য করে সঠিক অর্থ নির্ধারণ করতে। **Inference** ব্যবহার করে **contextual** সম্পর্ক বোঝার চেষ্টা করা হয়।\n\nসবশেষে, **retrieval** এবং **optimization** পদ্ধতির মাধ্যমে ChatGPT উত্তর তৈরি করে। এর **linguistic** বিশ্লেষণ দক্ষতা ও **comprehension** ক্ষমতা এটিকে আরও কার্যকর করে তোলে।"
+    },
+    "list": [
+        {
+            "word": "algorithmic",
+            "phonetic": "ˌæl.ɡəˈrɪð.mɪk",
+            "word_native_transliteration": {
+                "bn": "অ্যালগরিদমিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🤖",
+            "meaning": "Based on or using algorithms; relating to computational procedures and systematic methods.",
+            "example_sentence": "Algorithmic trading is widely used in financial markets.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যালগরিদমিক ট্রেডিং ইজ ওয়াইডলি ইউজড ইন ফাইন্যানশাল মার্কেটস।"
+            },
+            "position": 1,
+            "synonyms": "computational, programmatic, automated",
+            "antonyms": "manual, intuitive, non-systematic",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অ্যালগরিদম-ভিত্তিক",
+                    "word_transliteration": "algorithmic",
+                    "example_sentence_translation": "আর্থিক বাজারে অ্যালগরিদমিক ট্রেডিং ব্যাপকভাবে ব্যবহৃত হয়।",
+                    "example_sentence_transliteration": "Arthik bazare algorithmic trading byapokbhabe byabohrito hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "model",
+            "phonetic": "ˈmɒd.əl",
+            "word_native_transliteration": {
+                "bn": "মডেল"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏗️",
+            "meaning": "A framework, prototype, or simulation used to represent or understand a system or process.",
+            "example_sentence": "Scientists use a model to simulate climate change.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাইয়েনটিস্টস ইউজ এ মডেল টু সিমুলেট ক্লাইমেট চেইঞ্জ।"
+            },
+            "position": 2,
+            "synonyms": "framework, prototype, simulation",
+            "antonyms": "disorganization, chaos, dysfunction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কাঠামো",
+                    "word_transliteration": "model",
+                    "example_sentence_translation": "বিজ্ঞানীরা জলবায়ু পরিবর্তন অনুকরণ করতে একটি মডেল ব্যবহার করেন।",
+                    "example_sentence_transliteration": "Bigganira jolbayu poribortoni onukoron korte ekti model byabohar koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ChatGPT",
+            "phonetic": "ˈtʃæt.dʒiː.piː.tiː",
+            "word_native_transliteration": {
+                "bn": "চ্যাটজিপিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤖",
+            "meaning": "A language-based artificial intelligence model designed for conversational interactions.",
+            "example_sentence": "ChatGPT helps users generate human-like text efficiently.",
+            "example_sentence_native_transliteration": {
+                "bn": "চ্যাটজিপিটি হেল্পস ইউজারস জেনারেট হিউম্যান-লাইক টেক্সট এফিশিয়েন্টলি।"
+            },
+            "position": 3,
+            "synonyms": "AI chatbot, conversational model, virtual assistant",
+            "antonyms": "human interaction, non-AI, traditional chat",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একটি ভাষা-ভিত্তিক কৃত্রিম বুদ্ধিমত্তা মডেল",
+                    "word_transliteration": "ChatGPT",
+                    "example_sentence_translation": "চ্যাটজিপিটি ব্যবহারকারীদের মানবসদৃশ লেখা তৈরিতে সহায়তা করে।",
+                    "example_sentence_transliteration": "ChatGPT byaboharkaridera manabosodrisho lekha toirite sahayota kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "corpus",
+            "phonetic": "ˈkɔː.pəs",
+            "word_native_transliteration": {
+                "bn": "করপাস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📚",
+            "meaning": "A large collection of linguistic data used for language analysis and research.",
+            "example_sentence": "Linguists use a corpus to analyze language patterns.",
+            "example_sentence_native_transliteration": {
+                "bn": "লিঙ্গুইস্টস ইউজ এ করপাস টু অ্যানালাইজ ল্যাঙ্গুয়েজ প্যাটার্নস।"
+            },
+            "position": 4,
+            "synonyms": "database, compilation, collection",
+            "antonyms": "fragment, selection, partial data",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভাষাতাত্ত্বিক তথ্যের বিশাল সংগ্রহ",
+                    "word_transliteration": "corpus",
+                    "example_sentence_translation": "ভাষাতাত্ত্বিকরা ভাষার ধরণ বিশ্লেষণের জন্য করপাস ব্যবহার করেন।",
+                    "example_sentence_transliteration": "Bhashatattbikora bhashar doron bishshleshoner jonno corpus byabohar koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "semantic",
+            "phonetic": "sɪˈmæn.tɪk",
+            "word_native_transliteration": {
+                "bn": "সেম্যান্টিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧠",
+            "meaning": "Related to meaning in language; concerning the interpretation of words and sentences.",
+            "example_sentence": "AI models use semantic analysis to understand context.",
+            "example_sentence_native_transliteration": {
+                "bn": "এআই মডেলস ইউজ সেম্যান্টিক অ্যানালাইসিস টু আন্ডারস্ট্যান্ড কনটেক্সট।"
+            },
+            "position": 5,
+            "synonyms": "meaning-based, interpretive, conceptual",
+            "antonyms": "nonsensical, meaningless, incoherent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভাষার অর্থসংক্রান্ত",
+                    "word_transliteration": "semantic",
+                    "example_sentence_translation": "এআই মডেলগুলি প্রেক্ষিত বুঝতে সেম্যান্টিক বিশ্লেষণ ব্যবহার করে।",
+                    "example_sentence_transliteration": "AI modelguli prekkhit bujhte semantic bishshleshon byabohar kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "probabilistic",
+            "phonetic": "ˌprɒb.ə.bɪˈlɪs.tɪk",
+            "word_native_transliteration": {
+                "bn": "প্রোবাবিলিস্টিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎲",
+            "meaning": "Based on probability; involving chance or statistical likelihood.",
+            "example_sentence": "The model follows a probabilistic approach to predictions.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য মডেল ফলোজ এ প্রোবাবিলিস্টিক অ্যাপ্রোচ টু প্রেডিকশনস।"
+            },
+            "position": 6,
+            "synonyms": "stochastic, predictive, statistical",
+            "antonyms": "deterministic, definite, fixed",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সম্ভাবনার ভিত্তিতে গণনা করা",
+                    "word_transliteration": "probabilistic",
+                    "example_sentence_translation": "মডেলটি পূর্বাভাস দিতে প্রোবাবিলিস্টিক পদ্ধতি অনুসরণ করে।",
+                    "example_sentence_transliteration": "Modelti purbabhas dite probabilistic poddhoti onushoron kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "analysis",
+            "phonetic": "əˈnæl.ə.sɪs",
+            "word_native_transliteration": {
+                "bn": "অ্যানালাইসিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔍",
+            "meaning": "Detailed examination and evaluation of data or information to understand its components and relationships.",
+            "example_sentence": "Data analysis is crucial for machine learning models.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডেটা অ্যানালাইসিস ইজ ক্রুশিয়াল ফর মেশিন লার্নিং মডেলস।"
+            },
+            "position": 7,
+            "synonyms": "examination, evaluation, dissection",
+            "antonyms": "assumption, guesswork, unsystematic review",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিশ্লেষণ",
+                    "word_transliteration": "analysis",
+                    "example_sentence_translation": "মেশিন লার্নিং মডেলের জন্য তথ্য অ্যানালাইসিস অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Machine learning modeler jonno tothyo analysis ottyonto gurutbopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "tokenization",
+            "phonetic": "ˌtoʊ.kə.nɪˈzeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "টোকেনাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✂️",
+            "meaning": "The process of breaking text into smaller units like words, phrases, or symbols for analysis.",
+            "example_sentence": "NLP uses tokenization to break text into smaller units.",
+            "example_sentence_native_transliteration": {
+                "bn": "এনএলপি ইউজেস টোকেনাইজেশন টু ব্রেক টেক্সট ইনটু স্মলার ইউনিটস।"
+            },
+            "position": 8,
+            "synonyms": "segmentation, fragmentation, parsing",
+            "antonyms": "aggregation, whole text, non-division",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শব্দ বা বাক্যকে ছোট ছোট অংশে বিভক্তকরণ",
+                    "word_transliteration": "tokenization",
+                    "example_sentence_translation": "এনএলপি পাঠকে ছোট অংশে বিভক্ত করতে টোকেনাইজেশন ব্যবহার করে।",
+                    "example_sentence_transliteration": "NLP pathke chhoto ongse bibhokto korte tokenization byabohar kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "parsing",
+            "phonetic": "ˈpɑː.sɪŋ",
+            "word_native_transliteration": {
+                "bn": "পার্সিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔧",
+            "meaning": "The process of analyzing sentence structure to understand grammatical relationships.",
+            "example_sentence": "The AI model performs parsing to understand syntax.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এআই মডেল পারফর্মস পার্সিং টু আন্ডারস্ট্যান্ড সিনট্যাক্স।"
+            },
+            "position": 9,
+            "synonyms": "syntax analysis, decomposition, interpretation",
+            "antonyms": "merging, combining, generalization",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাক্য বিশ্লেষণ বা গঠন নির্ধারণ",
+                    "word_transliteration": "parsing",
+                    "example_sentence_translation": "এআই মডেলটি সিনট্যাক্স বুঝতে পার্সিং করে।",
+                    "example_sentence_transliteration": "AI modelti syntax bujhte parsing kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "morphological",
+            "phonetic": "ˌmɔː.fəˈlɒdʒ.ɪ.kəl",
+            "word_native_transliteration": {
+                "bn": "মর্ফোলজিকাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧩",
+            "meaning": "Related to the structure and formation of words; concerning morphology in linguistics.",
+            "example_sentence": "Morphological analysis helps AI understand word structures.",
+            "example_sentence_native_transliteration": {
+                "bn": "মর্ফোলজিকাল অ্যানালাইসিস হেল্পস এআই আন্ডারস্ট্যান্ড ওয়ার্ড স্ট্রাকচারস।"
+            },
+            "position": 10,
+            "synonyms": "structural, form-based, linguistic",
+            "antonyms": "unstructured, non-linguistic, undefined",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শব্দগঠন ও পরিবর্তনের বিশ্লেষণ",
+                    "word_transliteration": "morphological",
+                    "example_sentence_translation": "মর্ফোলজিকাল বিশ্লেষণ এআইকে শব্দের গঠন বুঝতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Morphological bishshleshon AIke shobder gothon bujhte sahayyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "syntax",
+            "phonetic": "ˈsɪn.tæks",
+            "word_native_transliteration": {
+                "bn": "সিনট্যাক্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📝",
+            "meaning": "The arrangement of words and phrases to create well-formed sentences in a language.",
+            "example_sentence": "Programming languages follow strict syntax rules.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোগ্রামিং ল্যাঙ্গুয়েজেস ফলো স্ট্রিক্ট সিনট্যাক্স রুলস।"
+            },
+            "position": 11,
+            "synonyms": "structure, grammar, composition",
+            "antonyms": "chaos, disorganization, unstructured",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাক্য গঠনের নিয়ম",
+                    "word_transliteration": "syntax",
+                    "example_sentence_translation": "প্রোগ্রামিং ভাষাগুলো কঠোর সিনট্যাক্স নিয়ম অনুসরণ করে।",
+                    "example_sentence_transliteration": "Programming bhasagulo kothor syntax niyom onushoron kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cohesion",
+            "phonetic": "kəʊˈhiː.ʒən",
+            "word_native_transliteration": {
+                "bn": "কোহিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔗",
+            "meaning": "The quality of forming a unified whole; logical connection and consistency.",
+            "example_sentence": "Good writing ensures logical cohesion between ideas.",
+            "example_sentence_native_transliteration": {
+                "bn": "গুড রাইটিং এনশুরস লজিকাল কোহিশন বিটুইন আইডিয়াস।"
+            },
+            "position": 12,
+            "synonyms": "unity, connection, coherence",
+            "antonyms": "disunity, fragmentation, incoherence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংযুক্তি",
+                    "word_transliteration": "cohesion",
+                    "example_sentence_translation": "ভালো লেখায় চিন্তাগুলোর মধ্যে কোহিশন নিশ্চিত করা হয়।",
+                    "example_sentence_transliteration": "Bhalo lekhay chintagulose moddhe cohesion nishchit kora hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ambiguity",
+            "phonetic": "ˌæm.bɪˈɡjuː.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "অ্যাম্বিগুইটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "❓",
+            "meaning": "The quality of being open to more than one interpretation; uncertainty of meaning.",
+            "example_sentence": "Legal documents should avoid ambiguity.",
+            "example_sentence_native_transliteration": {
+                "bn": "লিগ্যাল ডকুমেন্টস শুড অ্যাভয়েড অ্যাম্বিগুইটি।"
+            },
+            "position": 13,
+            "synonyms": "uncertainty, vagueness, obscurity",
+            "antonyms": "clarity, explicitness, precision",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্ব্যর্থতা",
+                    "word_transliteration": "ambiguity",
+                    "example_sentence_translation": "আইনি নথিতে অ্যাম্বিগুইটি এড়ানো উচিত।",
+                    "example_sentence_transliteration": "Aini nothite ambiguity erano uchit.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "disambiguation",
+            "phonetic": "ˌdɪs.æmˌbɪɡ.juˈeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ডিসঅ্যাম্বিগুয়েশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔍",
+            "meaning": "The removal of ambiguity by making something clear and unambiguous.",
+            "example_sentence": "The AI system applies disambiguation to refine text understanding.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এআই সিস্টেম অ্যাপ্লাইজ ডিসঅ্যাম্বিগুয়েশন টু রিফাইন টেক্সট আন্ডারস্ট্যান্ডিং।"
+            },
+            "position": 14,
+            "synonyms": "clarification, interpretation, specification",
+            "antonyms": "ambiguation, confusion, misinterpretation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্ব্যর্থতা নিরসন",
+                    "word_transliteration": "disambiguation",
+                    "example_sentence_translation": "এআই সিস্টেম পাঠ বোঝার জন্য ডিসঅ্যাম্বিগুয়েশন প্রয়োগ করে।",
+                    "example_sentence_transliteration": "AI system path bojhar jonno disambiguation proyog kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "inference",
+            "phonetic": "ˈɪn.fər.əns",
+            "word_native_transliteration": {
+                "bn": "ইনফারেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤔",
+            "meaning": "A conclusion reached on the basis of evidence and reasoning; logical deduction.",
+            "example_sentence": "Scientists make inferences based on experimental data.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাইয়েনটিস্টস মেক ইনফারেন্সেস বেসড অন এক্সপেরিমেন্টাল ডেটা।"
+            },
+            "position": 15,
+            "synonyms": "deduction, conclusion, reasoning",
+            "antonyms": "misjudgment, guesswork, incorrect assumption",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনুমান",
+                    "word_transliteration": "inference",
+                    "example_sentence_translation": "বিজ্ঞানীরা পরীক্ষামূলক তথ্যের ভিত্তিতে ইনফারেন্স করেন।",
+                    "example_sentence_transliteration": "Bigganira porikhamulok tothyer bhittite inference koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "contextual",
+            "phonetic": "kɒnˈtek.stju.əl",
+            "word_native_transliteration": {
+                "bn": "কনটেক্সচুয়াল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌐",
+            "meaning": "Depending on or relating to the circumstances or setting; context-dependent.",
+            "example_sentence": "Contextual meaning changes depending on usage.",
+            "example_sentence_native_transliteration": {
+                "bn": "কনটেক্সচুয়াল মিনিং চেঞ্জেস ডিপেন্ডিং অন ইউসেজ।"
+            },
+            "position": 16,
+            "synonyms": "situational, referential, circumstantial",
+            "antonyms": "decontextualized, isolated, irrelevant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রেক্ষিতভিত্তিক",
+                    "word_transliteration": "contextual",
+                    "example_sentence_translation": "ব্যবহারের উপর ভিত্তি করে কনটেক্সচুয়াল অর্থ পরিবর্তিত হয়।",
+                    "example_sentence_transliteration": "Byaboharer upor bhitti kore contextual artho poribortito hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "retrieval",
+            "phonetic": "rɪˈtriː.vəl",
+            "word_native_transliteration": {
+                "bn": "রিট্রিভাল"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The process of getting or bringing something back; recovery of stored information.",
+            "example_sentence": "AI-based search engines ensure fast retrieval of data.",
+            "example_sentence_native_transliteration": {
+                "bn": "এআই-বেসড সার্চ ইঞ্জিনস এনশুর ফাস্ট রিট্রিভাল অফ ডেটা।"
+            },
+            "position": 17,
+            "synonyms": "recovery, recollection, extraction",
+            "antonyms": "loss, forgetfulness, misplacement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুনরুদ্ধার",
+                    "word_transliteration": "retrieval",
+                    "example_sentence_translation": "এআই-ভিত্তিক সার্চ ইঞ্জিন দ্রুত রিট্রিভাল নিশ্চিত করে।",
+                    "example_sentence_transliteration": "AI-bhittik search engine druto retrieval nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "optimization",
+            "phonetic": "ˌɒp.tɪ.maɪˈzeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "অপ্টিমাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "The action of making the best or most effective use of resources or situations.",
+            "example_sentence": "Website optimization improves user experience.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওয়েবসাইট অপ্টিমাইজেশন ইমপ্রুভস ইউজার এক্সপেরিয়েন্স।"
+            },
+            "position": 18,
+            "synonyms": "enhancement, refinement, maximization",
+            "antonyms": "inefficiency, waste, underperformance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সর্বোচ্চ দক্ষতা অর্জন",
+                    "word_transliteration": "optimization",
+                    "example_sentence_translation": "ওয়েবসাইট অপ্টিমাইজেশন ব্যবহারকারীর অভিজ্ঞতা উন্নত করে।",
+                    "example_sentence_transliteration": "Website optimization byaboharkariir obhiggota unnoto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "linguistic",
+            "phonetic": "lɪŋˈɡwɪs.tɪk",
+            "word_native_transliteration": {
+                "bn": "লিঙ্গুইস্টিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🗣️",
+            "meaning": "Related to language or linguistics; concerning the scientific study of language.",
+            "example_sentence": "The AI model learns from linguistic patterns.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এআই মডেল লার্নস ফ্রম লিঙ্গুইস্টিক প্যাটার্নস।"
+            },
+            "position": 19,
+            "synonyms": "philological, lexical, verbal",
+            "antonyms": "non-verbal, mathematical, non-linguistic",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভাষাতাত্ত্বিক",
+                    "word_transliteration": "linguistic",
+                    "example_sentence_translation": "এআই মডেল লিঙ্গুইস্টিক প্যাটার্ন থেকে শেখে।",
+                    "example_sentence_transliteration": "AI model linguistic pattern theke shekhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "comprehension",
+            "phonetic": "ˌkɒm.prɪˈhen.ʃən",
+            "word_native_transliteration": {
+                "bn": "কমপ্রিহেনশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💡",
+            "meaning": "The ability to understand something; the capacity to perceive and grasp meaning.",
+            "example_sentence": "Reading comprehension is crucial for language learning.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিডিং কমপ্রিহেনশন ইজ ক্রুশিয়াল ফর ল্যাঙ্গুয়েজ লার্নিং।"
+            },
+            "position": 20,
+            "synonyms": "understanding, interpretation, perception",
+            "antonyms": "misunderstanding, confusion, misinterpretation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বোঝার ক্ষমতা",
+                    "word_transliteration": "comprehension",
+                    "example_sentence_translation": "ভাষা শেখার জন্য পাঠ কমপ্রিহেনশন অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Bhasha shekhar jonno path comprehension ottyonto gurutbopurno.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

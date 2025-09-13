@@ -1,0 +1,526 @@
+{
+    "position": 111,
+    "title_translation": {
+        "en": "Healthy Lifestyle Habits for Longevity",
+        "bn": "সুস্থ জীবনযাত্রা দীর্ঘায়ু নিশ্চিত করতে"
+    },
+    "content_translation": {
+        "en": "A healthy lifestyle is extremely **conducive** to ensuring longevity. Proper **nourishment**, regular exercise, and mental peace **invigorate** our lives and improve **cardiovascular** health. **Sedentary** lifestyles are **detrimental** to health, as they increase the risk of obesity, high blood pressure, and heart disease. Therefore, an active lifestyle helps us maintain **equilibrium** and protects us from long-term **impediments**. To ensure **holistic** health, we must **mitigate** mental stress and get adequate sleep, which increases **neuroplasticity** and keeps the brain functional. Additionally, we should avoid **exorbitant** food habits, as they change the body's **predisposition** and increase disease **susceptibility**. Building healthy habits requires **diligence**, which **rejuvenates** the body and promotes positive **proliferation**. Through healthy living, we can **augment** our health and **bolster** longevity.",
+        "bn": "সুস্থ জীবনযাত্রা দীর্ঘায়ু নিশ্চিত করতে অত্যন্ত **conducive**। সঠিক **nourishment**, নিয়মিত ব্যায়াম এবং মানসিক প্রশান্তি আমাদের জীবনকে **invigorate** করে এবং **cardiovascular** স্বাস্থ্যের উন্নতি ঘটায়। **Sedentary** জীবনধারা স্বাস্থ্যের জন্য **detrimental**, কারণ এটি স্থূলতা, উচ্চ রক্তচাপ এবং হৃদরোগের ঝুঁকি বাড়ায়। তাই সক্রিয় জীবনযাপন আমাদের **equilibrium** বজায় রাখতে সাহায্য করে এবং দীর্ঘমেয়াদে **impediment** সৃষ্টি করা থেকে রক্ষা করে। **Holistic** স্বাস্থ্য নিশ্চিত করতে **mitigate** করতে হবে মানসিক চাপ এবং পর্যাপ্ত ঘুম নিতে হবে, যা **neuroplasticity** বাড়ায় এবং মস্তিষ্ককে কর্মক্ষম রাখে। পাশাপাশি, অতিরিক্ত **exorbitant** খাদ্যাভ্যাস এড়িয়ে চলা উচিত, কারণ এটি দেহের **predisposition** পরিবর্তন করে রোগের **susceptibility** বাড়ায়। সুস্থ অভ্যাস গড়ে তুলতে **diligence** প্রয়োজন, যা শরীরকে **rejuvenate** করে এবং ইতিবাচক **proliferation** ঘটায়। সুস্থ জীবনযাত্রার মাধ্যমে আমরা নিজেদের স্বাস্থ্যকে **augment** করতে পারি এবং দীর্ঘায়ু **bolster** করতে পারি।"
+    },
+    "list": [
+        {
+            "word": "conducive",
+            "phonetic": "/kənˈdjuː.sɪv/",
+            "word_native_transliteration": {
+                "bn": "কনডুসিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "✅",
+            "meaning": "Making a certain situation or outcome likely or possible; contributing to or helping to bring about.",
+            "example_sentence": "A quiet environment is conducive to studying.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ কোয়াইট এনভাইরনমেন্ট ইজ কনডুসিভ টু স্টাডিইং।"
+            },
+            "position": 1,
+            "synonyms": "favorable, advantageous, beneficial",
+            "antonyms": "unfavorable, obstructive, detrimental",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহায়ক",
+                    "word_transliteration": "shahayok",
+                    "example_sentence_translation": "নিরিবিলি পরিবেশ পড়াশোনার জন্য সহায়ক।",
+                    "example_sentence_transliteration": "Niribili poribesh porashonhar jonno shahayok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "nourishment",
+            "phonetic": "/ˈnʌr.ɪʃ.mənt/",
+            "word_native_transliteration": {
+                "bn": "নরিশমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🍎",
+            "meaning": "The food or other substances necessary for growth, health, and good condition.",
+            "example_sentence": "Proper nourishment is essential for child development.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোপার নরিশমেন্ট ইজ এসেনশিয়াল ফর চাইল্ড ডেভেলপমেন্ট।"
+            },
+            "position": 2,
+            "synonyms": "nutrition, sustenance, food",
+            "antonyms": "starvation, malnourishment, deficiency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুষ্টি",
+                    "word_transliteration": "pushti",
+                    "example_sentence_translation": "শিশুর বিকাশের জন্য সঠিক পুষ্টি অত্যন্ত জরুরি।",
+                    "example_sentence_transliteration": "Shishur bikasher jonno shothik pushti ottyonto joruri.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "invigorate",
+            "phonetic": "/ɪnˈvɪɡ.ər.eɪt/",
+            "word_native_transliteration": {
+                "bn": "ইনভিগরেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⚡",
+            "meaning": "To give strength or energy to; to make more vigorous.",
+            "example_sentence": "A morning workout invigorates the body and mind.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ মর্নিং ওয়ার্কআউট ইনভিগরেটস দ্য বডি এন্ড মাইন্ড।"
+            },
+            "position": 3,
+            "synonyms": "energize, revitalize, stimulate",
+            "antonyms": "weaken, drain, exhaust",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উজ্জীবিত করা",
+                    "word_transliteration": "ujjibito kora",
+                    "example_sentence_translation": "সকালের ব্যায়াম শরীর ও মনকে উজ্জীবিত করে।",
+                    "example_sentence_transliteration": "Sokaler byayam shorir o monke ujjibito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cardiovascular",
+            "phonetic": "/ˌkɑː.di.əʊˈvæs.kjʊ.lər/",
+            "word_native_transliteration": {
+                "bn": "কার্ডিওভাসকুলার"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "❤️",
+            "meaning": "Relating to the heart and blood vessels.",
+            "example_sentence": "Regular exercise improves cardiovascular health.",
+            "example_sentence_native_transliteration": {
+                "bn": "রেগুলার এক্সারসাইজ ইমপ্রুভস কার্ডিওভাসকুলার হেলথ।"
+            },
+            "position": 4,
+            "synonyms": "circulatory, heart-related, blood flow",
+            "antonyms": "non-cardiac, peripheral, external",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "হৃদযন্ত্র ও রক্তসংবহনসংক্রান্ত",
+                    "word_transliteration": "hridyontro o roktoshongbohonshongkranto",
+                    "example_sentence_translation": "নিয়মিত ব্যায়াম হৃদযন্ত্রের স্বাস্থ্যের উন্নতি ঘটায়।",
+                    "example_sentence_transliteration": "Niyomito byayam hridyontrer swasther unnoti ghatay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sedentary",
+            "phonetic": "/ˈsed.ən.tər.i/",
+            "word_native_transliteration": {
+                "bn": "সেডেন্টারি"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🪑",
+            "meaning": "Involving much sitting and little physical activity.",
+            "example_sentence": "A sedentary lifestyle can lead to obesity and heart disease.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ সেডেন্টারি লাইফস্টাইল ক্যান লিড টু ওবেসিটি এন্ড হার্ট ডিজিজ।"
+            },
+            "position": 5,
+            "synonyms": "inactive, stationary, desk-bound",
+            "antonyms": "active, mobile, energetic",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অলস",
+                    "word_transliteration": "olosh",
+                    "example_sentence_translation": "অলস জীবনযাপন স্থূলতা ও হৃদরোগের কারণ হতে পারে।",
+                    "example_sentence_transliteration": "Olosh jibonjapan sthulota o hridroger karon hote pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "detrimental",
+            "phonetic": "/ˌdet.rɪˈmen.təl/",
+            "word_native_transliteration": {
+                "bn": "ডেট্রিমেন্টাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚠️",
+            "meaning": "Tending to cause harm; damaging or harmful.",
+            "example_sentence": "Smoking is detrimental to health.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্মোকিং ইজ ডেট্রিমেন্টাল টু হেলথ।"
+            },
+            "position": 6,
+            "synonyms": "harmful, damaging, adverse",
+            "antonyms": "beneficial, helpful, advantageous",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্ষতিকর",
+                    "word_transliteration": "kkhotikar",
+                    "example_sentence_translation": "ধূমপান স্বাস্থ্যের জন্য ক্ষতিকর।",
+                    "example_sentence_transliteration": "Dhumopan swasther jonno kkhotikar.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "equilibrium",
+            "phonetic": "/ˌiː.kwɪˈlɪb.ri.əm/",
+            "word_native_transliteration": {
+                "bn": "ইকুইলিব্রিয়াম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "A state in which opposing forces or influences are balanced.",
+            "example_sentence": "The economy must maintain equilibrium to prevent a crisis.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইকোনমি মাস্ট মেইনটেইন ইকুইলিব্রিয়াম টু প্রিভেন্ট এ ক্রাইসিস।"
+            },
+            "position": 7,
+            "synonyms": "balance, stability, harmony",
+            "antonyms": "imbalance, instability, disequilibrium",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভারসাম্য",
+                    "word_transliteration": "bharsamyo",
+                    "example_sentence_translation": "একটি সংকট এড়াতে অর্থনীতির ভারসাম্য বজায় রাখা আবশ্যক।",
+                    "example_sentence_transliteration": "Ekti shongkot edate orthoneetir bharsamyo bojay rakha aboshyok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "impediment",
+            "phonetic": "/ɪmˈped.ɪ.mənt/",
+            "word_native_transliteration": {
+                "bn": "ইমপেডিমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚧",
+            "meaning": "A hindrance or obstruction in doing something.",
+            "example_sentence": "Lack of education is a major impediment to social progress.",
+            "example_sentence_native_transliteration": {
+                "bn": "ল্যাক অব এডুকেশন ইজ এ মেজর ইমপেডিমেন্ট টু সোশ্যাল প্রোগ্রেস।"
+            },
+            "position": 8,
+            "synonyms": "obstruction, barrier, hindrance",
+            "antonyms": "aid, assistance, facilitation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিবন্ধকতা",
+                    "word_transliteration": "protibandhokota",
+                    "example_sentence_translation": "শিক্ষার অভাব সামাজিক অগ্রগতির একটি প্রধান প্রতিবন্ধকতা।",
+                    "example_sentence_transliteration": "Shikkhar obhab shamajik ogrogtir ekti prodhan protibandhokota.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "holistic",
+            "phonetic": "/həʊˈlɪs.tɪk/",
+            "word_native_transliteration": {
+                "bn": "হোলিস্টিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌐",
+            "meaning": "Considering the whole of something or someone and not just a part.",
+            "example_sentence": "Holistic health care considers both mind and body.",
+            "example_sentence_native_transliteration": {
+                "bn": "হোলিস্টিক হেলথ কেয়ার কনসিডারস বোথ মাইন্ড এন্ড বডি।"
+            },
+            "position": 9,
+            "synonyms": "comprehensive, all-encompassing, integrated",
+            "antonyms": "partial, fragmented, narrow",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সামগ্রিক",
+                    "word_transliteration": "shamogrik",
+                    "example_sentence_translation": "সামগ্রিক স্বাস্থ্য সেবা শরীর ও মন উভয়কেই বিবেচনায় নেয়।",
+                    "example_sentence_transliteration": "Shamogrik swasthyo sheba shorir o mon ubhoykei bibechonay ney.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "mitigate",
+            "phonetic": "/ˈmɪt.ɪ.ɡeɪt/",
+            "word_native_transliteration": {
+                "bn": "মিটিগেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🛡️",
+            "meaning": "To make less severe, serious, or painful.",
+            "example_sentence": "Measures were taken to mitigate the effects of climate change.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেজারস ওয়্যার টেকেন টু মিটিগেট দ্য ইফেক্টস অব ক্লাইমেট চেঞ্জ।"
+            },
+            "position": 10,
+            "synonyms": "alleviate, reduce, diminish",
+            "antonyms": "intensify, aggravate, worsen",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রশমিত করা",
+                    "word_transliteration": "proshomito kora",
+                    "example_sentence_translation": "জলবায়ু পরিবর্তনের প্রভাব কমানোর জন্য ব্যবস্থা নেওয়া হয়েছে।",
+                    "example_sentence_transliteration": "Jolbayu poribortonero prabhab komanor jonno bybostha neoya hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "neuroplasticity",
+            "phonetic": "/ˌnjʊə.rəʊ.plæsˈtɪs.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "নিউরোপ্লাস্টিসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧠",
+            "meaning": "The ability of the brain to form and reorganize synaptic connections, especially in response to learning or experience.",
+            "example_sentence": "Neuroplasticity allows the brain to adapt and learn new skills.",
+            "example_sentence_native_transliteration": {
+                "bn": "নিউরোপ্লাস্টিসিটি অ্যালাউস দ্য ব্রেইন টু অ্যাডাপ্ট এন্ড লার্ন নিউ স্কিলস।"
+            },
+            "position": 11,
+            "synonyms": "brain adaptability, neural flexibility, cognitive modification",
+            "antonyms": "rigidity, fixation, inflexibility",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মস্তিষ্কের অভিযোজন ক্ষমতা",
+                    "word_transliteration": "mostishker obhijojon khomota",
+                    "example_sentence_translation": "নিউরোপ্লাস্টিসিটি মস্তিষ্ককে অভিযোজিত হতে ও নতুন দক্ষতা শিখতে সাহায্যতা করে।",
+                    "example_sentence_transliteration": "Neuroplasticity mostishkoke obhijojito hote o notun dokkhota shikhte sahayota kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "exorbitant",
+            "phonetic": "/ɪɡˈzɔː.bɪ.tənt/",
+            "word_native_transliteration": {
+                "bn": "এক্সঅর্বিট্যান্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💰",
+            "meaning": "Unreasonably high in price or amount.",
+            "example_sentence": "The hotel charged an exorbitant amount for a one-night stay.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য হোটেল চার্জড অ্যান এক্সঅর্বিট্যান্ট অ্যামাউন্ট ফর এ ওয়ান-নাইট স্টে।"
+            },
+            "position": 12,
+            "synonyms": "excessive, outrageous, overpriced",
+            "antonyms": "reasonable, moderate, affordable",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অত্যধিক",
+                    "word_transliteration": "ottyodhik",
+                    "example_sentence_translation": "হোটেলটি এক রাতের থাকার জন্য অত্যধিক মূল্য নির্ধারণ করেছিল।",
+                    "example_sentence_transliteration": "Hotelti ek rater thakar jonno ottyodhik mulyo nirdharon koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "predisposition",
+            "phonetic": "/ˌpriː.dɪs.pəˈzɪʃ.ən/",
+            "word_native_transliteration": {
+                "bn": "প্রিডিসপজিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧬",
+            "meaning": "A liability or tendency to suffer from a particular condition, hold a particular attitude, or act in a particular way.",
+            "example_sentence": "A family history of diabetes increases a predisposition to the disease.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ ফ্যামিলি হিস্টরি অব ডায়াবেটিস ইনক্রিজেস এ প্রিডিসপজিশন টু দ্য ডিজিজ।"
+            },
+            "position": 13,
+            "synonyms": "inclination, propensity, susceptibility",
+            "antonyms": "resistance, immunity, aversion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পূর্বপ্রবণতা",
+                    "word_transliteration": "purboprobonota",
+                    "example_sentence_translation": "ডায়াবেটিসের পারিবারিক ইতিহাস থাকলে এ রোগের পূর্বপ্রবণতা বৃদ্ধি পায়।",
+                    "example_sentence_transliteration": "Diabetiser paribarik itihas thakle e roger purboprobonota briddhi pay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "susceptibility",
+            "phonetic": "/səˌsep.təˈbɪl.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "সাসেপটিবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛡️",
+            "meaning": "The state or fact of being likely or liable to be influenced or harmed by a particular thing.",
+            "example_sentence": "Lack of sleep increases susceptibility to illnesses.",
+            "example_sentence_native_transliteration": {
+                "bn": "ল্যাক অব স্লিপ ইনক্রিজেস সাসেপটিবিলিটি টু ইলনেসেস।"
+            },
+            "position": 14,
+            "synonyms": "vulnerability, sensitivity, receptivity",
+            "antonyms": "immunity, resistance, protection",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংবেদনশীলতা",
+                    "word_transliteration": "shongbedonshilota",
+                    "example_sentence_translation": "ঘুমের অভাব রোগের প্রতি সংবেদনশীলতা বৃদ্ধি করে।",
+                    "example_sentence_transliteration": "Ghumer obhab roger proti shongbedonshilota briddhi kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "diligence",
+            "phonetic": "/ˈdɪl.ɪ.dʒəns/",
+            "word_native_transliteration": {
+                "bn": "ডিলিজেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "Careful and persistent work or effort.",
+            "example_sentence": "His diligence in studying led to outstanding results.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ডিলিজেন্স ইন স্টাডিইং লেড টু আউটস্ট্যান্ডিং রিজাল্টস।"
+            },
+            "position": 15,
+            "synonyms": "perseverance, hard work, meticulousness",
+            "antonyms": "laziness, negligence, carelessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অধ্যবসায়",
+                    "word_transliteration": "odhyoboshay",
+                    "example_sentence_translation": "তার অধ্যবসায়ের কারণে অসাধারণ ফলাফল এসেছে।",
+                    "example_sentence_transliteration": "Tar odhyoboshayer karone oshadharon pholaphol esheche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "rejuvenate",
+            "phonetic": "/rɪˈdʒuː.vən.eɪt/",
+            "word_native_transliteration": {
+                "bn": "রিজুভেনেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🌱",
+            "meaning": "To make or feel young, healthy, or energetic again.",
+            "example_sentence": "A vacation helps to rejuvenate both body and mind.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ ভেকেশন হেল্পস টু রিজুভেনেট বোথ বডি এন্ড মাইন্ড।"
+            },
+            "position": 16,
+            "synonyms": "revitalize, refresh, renew",
+            "antonyms": "exhaust, deplete, drain",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুনরুজ্জীবিত করা",
+                    "word_transliteration": "punorujjibito kora",
+                    "example_sentence_translation": "একটি ছুটি শরীর ও মনকে পুনরুজ্জীবিত করতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Ekti chhuti shorir o monke punorujjibito korte sahayyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "proliferation",
+            "phonetic": "/prəˌlɪf.ərˈeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "প্রোলিফারেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "Rapid increase in the number or amount of something.",
+            "example_sentence": "The proliferation of smartphones has transformed communication.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রোলিফারেশন অব স্মার্টফোনস হ্যাজ ট্রান্সফর্মড কমিউনিকেশন।"
+            },
+            "position": 17,
+            "synonyms": "expansion, growth, multiplication",
+            "antonyms": "decline, reduction, contraction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্রুত বৃদ্ধি",
+                    "word_transliteration": "druto briddhi",
+                    "example_sentence_translation": "স্মার্টফোনের ব্যাপক বিস্তার যোগাযোগ ব্যবস্থাকে বদলে দিয়েছে।",
+                    "example_sentence_transliteration": "Smartphoner byapok bishar jogajog bybosthake bodle diyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "augment",
+            "phonetic": "/ɔːɡˈment/",
+            "word_native_transliteration": {
+                "bn": "অগমেন্ট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⬆️",
+            "meaning": "To make greater by adding to it; increase.",
+            "example_sentence": "The company plans to augment its workforce next year.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি প্ল্যানস টু অগমেন্ট ইটস ওয়ার্কফোর্স নেক্সট ইয়ার।"
+            },
+            "position": 18,
+            "synonyms": "enhance, amplify, expand",
+            "antonyms": "decrease, lessen, diminish",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৃদ্ধি করা",
+                    "word_transliteration": "briddhi kora",
+                    "example_sentence_translation": "কোম্পানিটি আগামী বছর তার কর্মী সংখ্যা বাড়ানোর পরিকল্পনা করছে।",
+                    "example_sentence_transliteration": "Kompaniti agami bochor tar kormi shongkhya barnanor porikolpona korche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "bolster",
+            "phonetic": "/ˈbəʊl.stər/",
+            "word_native_transliteration": {
+                "bn": "বোলস্টার"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "💪",
+            "meaning": "To support or strengthen; to prop up.",
+            "example_sentence": "The government aims to bolster economic growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গভর্নমেন্ট এইমস টু বোলস্টার ইকোনমিক গ্রোথ।"
+            },
+            "position": 19,
+            "synonyms": "strengthen, support, reinforce",
+            "antonyms": "weaken, undermine, deplete",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শক্তিশালী করা",
+                    "word_transliteration": "shaktishali kora",
+                    "example_sentence_translation": "সরকার অর্থনৈতিক প্রবৃদ্ধিকে শক্তিশালী করতে চায়।",
+                    "example_sentence_transliteration": "Shorkar orthonoehtik probriddhike shaktishali korte chay.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

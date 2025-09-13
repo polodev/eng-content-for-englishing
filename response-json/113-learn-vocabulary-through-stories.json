@@ -1,0 +1,526 @@
+{
+    "position": 113,
+    "title_translation": {
+        "en": "How Afforestation Helps Restore Ecosystems",
+        "bn": "How Afforestation Helps Restore Ecosystems"
+    },
+    "content_translation": {
+        "en": "**Afforestation** and **reforestation** are essential for nature's **restoration**. Through **forestation**, land **degradation** can be reduced because trees increase soil **absorption** and prevent **soil erosion**.\n\nFurthermore, trees perform **carbon sequestration**, which is crucial for **climate regulation**. Through trees, **oxygen production** increases, which is essential for living beings.\n\nTo maintain natural balance, trees help protect **biodiversity** and create **wildlife corridors**, creating opportunities for different species to live. Trees' **photosynthesis** process adds nutrients to the environment, maintaining **ecological balance**.\n\nAdditionally, trees become associated with **indigenous** species, ensuring their **symbiotic** environment, which ensures biodiversity and **sustainable** use of natural resources. Through **land restoration**, **vegetation** increases, which improves the entire **ecosystem services**.",
+        "bn": "**Afforestation** এবং **reforestation** প্রকৃতির পুনঃস্থাপনায় অপরিহার্য। **Forestation** এর মাধ্যমে ভূমি **degradation** কমানো সম্ভব, কারণ গাছপালা মাটি **absorption** বাড়িয়ে **soil erosion** রোধ করে।\n\nএছাড়া, গাছপালা **carbon sequestration** করে, যা **climate regulation** এর জন্য গুরুত্বপূর্ণ। গাছের মাধ্যমে **oxygen production** বৃদ্ধি পায়, যা জীবজগতের জন্য অপরিহার্য।\n\nপ্রাকৃতিক ভারসাম্য বজায় রাখতে, গাছপালা **biodiversity** রক্ষা করতে সাহায্য করে, এবং **wildlife corridors** তৈরি করে বিভিন্ন প্রজাতির জন্য বাসস্থানের সুযোগ সৃষ্টি করে। গাছপালার **photosynthesis** প্রক্রিয়া পরিবেশে পুষ্টি যোগায়, যা **ecological balance** বজায় রাখে।\n\nএছাড়া, গাছপালা **indigenous** প্রজাতির সাথে সম্পর্কিত হয়ে তাদের **symbiotic** পরিবেশ নিশ্চিত করে, যা জীববৈচিত্র্য এবং প্রাকৃতিক সম্পদের **টেকসই** ব্যবহার নিশ্চিত করে। **Land restoration** এর মাধ্যমে **vegetation** বৃদ্ধি পায়, যা পুরো **ecosystem services** এর উন্নতি ঘটায়।"
+    },
+    "list": [
+        {
+            "word": "afforestation",
+            "phonetic": "ˌæfɔːˈreɪʃən",
+            "word_native_transliteration": {
+                "bn": "অ্যাফোরেস্টেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌳",
+            "meaning": "The process of establishing a forest, especially on land that was not recently forested.",
+            "example_sentence": "Afforestation is essential to combat climate change.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাফোরেস্টেশন ইজ এসেনশিয়াল টু কম্ব্যাট ক্লাইমেট চেঞ্জ।"
+            },
+            "position": 1,
+            "synonyms": "tree planting, reforestation",
+            "antonyms": "deforestation, desertification",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বনায়ন",
+                    "word_transliteration": "bonayjon",
+                    "example_sentence_translation": "বনায়ন জলবায়ু পরিবর্তনের বিরুদ্ধে লড়াইয়ের জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Bonayjon jolbayu poribortoner biruddhe loraier jonno oporiharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "reforestation",
+            "phonetic": "ˌriːfɔːˈreɪʃən",
+            "word_native_transliteration": {
+                "bn": "রিফোরেস্টেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌲",
+            "meaning": "The natural or intentional restocking of existing forests and woodlands that have been depleted.",
+            "example_sentence": "Reforestation efforts are crucial to restoring ecosystems.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিফোরেস্টেশন এফর্টস আর ক্রুশিয়াল টু রেস্টোরিং ইকোসিস্টেমস।"
+            },
+            "position": 2,
+            "synonyms": "replanting, regrowth",
+            "antonyms": "deforestation, destruction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বন পুনঃপ্রতিষ্ঠা",
+                    "word_transliteration": "bon punohprotishtha",
+                    "example_sentence_translation": "বন পুনঃপ্রতিষ্ঠার প্রচেষ্টা বাস্তুতন্ত্র পুনঃস্থাপন করার জন্য অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Bon punohprotishtha'r procheshta bastutontro punohsthaponer jonno ottyonto gurutbopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "restoration",
+            "phonetic": "ˌrɛstəˈreɪʃən",
+            "word_native_transliteration": {
+                "bn": "রেস্টোরেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The process of returning something to its former condition.",
+            "example_sentence": "The restoration of the forest began after decades of neglect.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রেস্টোরেশন অব দ্য ফরেস্ট বিগান আফটার ডেকেডস অব নেগলেক্ট।"
+            },
+            "position": 3,
+            "synonyms": "renewal, repair",
+            "antonyms": "destruction, ruin",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুনরুদ্ধার",
+                    "word_transliteration": "punoruddhar",
+                    "example_sentence_translation": "দীর্ঘ সময় অবহেলার পর বন পুনরুদ্ধার শুরু হয়েছিল।",
+                    "example_sentence_transliteration": "Dirgho somoy obohelar por bon punoruddhar shuru hoyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "degradation",
+            "phonetic": "ˌdɛɡrəˈdeɪʃən",
+            "word_native_transliteration": {
+                "bn": "ডিগ্রেডেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📉",
+            "meaning": "The condition or process of degrading or being degraded.",
+            "example_sentence": "Soil degradation due to overuse is a growing issue.",
+            "example_sentence_native_transliteration": {
+                "bn": "সয়েল ডিগ্রেডেশন ডিউ টু ওভারইউজ ইজ এ গ্রোইং ইস্যু।"
+            },
+            "position": 4,
+            "synonyms": "decline, deterioration",
+            "antonyms": "improvement, restoration",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অবক্ষয়",
+                    "word_transliteration": "obokkhoy",
+                    "example_sentence_translation": "অতিরিক্ত ব্যবহারজনিত মাটির অবক্ষয় একটি বাড়তি সমস্যা।",
+                    "example_sentence_transliteration": "Otirikto byboharjonito matir obokkhoy ekti barti shomoshya.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "absorption",
+            "phonetic": "əbˈsɔːrpʃən",
+            "word_native_transliteration": {
+                "bn": "অ্যাবসর্পশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💧",
+            "meaning": "The process by which one thing absorbs or is absorbed by another.",
+            "example_sentence": "Trees play a significant role in the absorption of carbon dioxide.",
+            "example_sentence_native_transliteration": {
+                "bn": "ট্রিস প্লে এ সিগনিফিকেন্ট রোল ইন দ্য অ্যাবসর্পশন অব কার্বন ডাইঅক্সাইড।"
+            },
+            "position": 5,
+            "synonyms": "assimilation, intake",
+            "antonyms": "emission, exhalation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শোষণ",
+                    "word_transliteration": "shoshon",
+                    "example_sentence_translation": "গাছগুলি কার্বন ডাইঅক্সাইড শোষণে গুরুত্বপূর্ণ ভূমিকা পালন করে।",
+                    "example_sentence_transliteration": "Gachhguli carbon dioxide shoshone gurutbopurno bhumika palon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "soil erosion",
+            "phonetic": "sɔɪl ɪˈrəʊʒən",
+            "word_native_transliteration": {
+                "bn": "সয়েল ইরোশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏔️",
+            "meaning": "The wearing away of topsoil by water, wind, or other natural forces.",
+            "example_sentence": "Soil erosion can lead to the loss of fertile land.",
+            "example_sentence_native_transliteration": {
+                "bn": "সয়েল ইরোশন ক্যান লিড টু দ্য লস অব ফার্টাইল ল্যান্ড।"
+            },
+            "position": 6,
+            "synonyms": "soil degradation, soil loss",
+            "antonyms": "soil preservation, soil formation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মাটির ক্ষয়",
+                    "word_transliteration": "matir kkhoy",
+                    "example_sentence_translation": "মাটির ক্ষয় উর্বর জমির ক্ষতি করতে পারে।",
+                    "example_sentence_transliteration": "Matir kkhoy urbor jomir kkhoti korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "carbon sequestration",
+            "phonetic": "ˈkɑːbən sɪˈkwɛstreɪʃən",
+            "word_native_transliteration": {
+                "bn": "কার্বন সিক্যুয়েস্ট্রেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌿",
+            "meaning": "The process of storing carbon in a carbon pool.",
+            "example_sentence": "Forests contribute to carbon sequestration by storing CO2.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফরেস্টস কন্ট্রিবিউট টু কার্বন সিক্যুয়েস্ট্রেশন বাই স্টোরিং সিও টু।"
+            },
+            "position": 7,
+            "synonyms": "carbon storage, carbon capture",
+            "antonyms": "carbon release, carbon emission",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কার্বন সঞ্চয়",
+                    "word_transliteration": "carbon shonchoy",
+                    "example_sentence_translation": "বনগুলি CO2 সঞ্চয় করে কার্বন সিক্যুয়েস্ট্রেশনে অবদান রাখে।",
+                    "example_sentence_transliteration": "Bonguli CO2 shonchoy kore carbon sequestration-e obdan rakhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "climate regulation",
+            "phonetic": "ˈklaɪmət ˌrɛɡjʊˈleɪʃən",
+            "word_native_transliteration": {
+                "bn": "ক্লাইমেট রেগুলেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌡️",
+            "meaning": "The moderation of climate conditions through natural or artificial processes.",
+            "example_sentence": "Forests help in climate regulation by stabilizing local temperatures.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফরেস্টস হেল্প ইন ক্লাইমেট রেগুলেশন বাই স্ট্যাবিলাইজিং লোকাল টেম্পারেচারস।"
+            },
+            "position": 8,
+            "synonyms": "climate control, climate moderation",
+            "antonyms": "climate disturbance, climate chaos",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জলবায়ু নিয়ন্ত্রণ",
+                    "word_transliteration": "jolbayu niyontron",
+                    "example_sentence_translation": "বনগুলি স্থানীয় তাপমাত্রা স্থিতিশীল করে জলবায়ু নিয়ন্ত্রণে সাহায্য করে।",
+                    "example_sentence_transliteration": "Bonguli sthanio tapmatra stitishil kore jolbayu niyontrone shahayyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "oxygen production",
+            "phonetic": "ˈɒksɪdʒən prəˈdʌkʃən",
+            "word_native_transliteration": {
+                "bn": "অক্সিজেন প্রোডাকশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💨",
+            "meaning": "The process of generating oxygen through photosynthesis or other means.",
+            "example_sentence": "Plants are vital for oxygen production and the maintenance of life.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্ল্যান্টস আর ভাইটাল ফর অক্সিজেন প্রোডাকশন অ্যান্ড দ্য মেইনটেনেন্স অব লাইফ।"
+            },
+            "position": 9,
+            "synonyms": "oxygen generation, oxygen creation",
+            "antonyms": "oxygen depletion, oxygen loss",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অক্সিজেন উৎপাদন",
+                    "word_transliteration": "oxygen utpadon",
+                    "example_sentence_translation": "গাছপালা অক্সিজেন উৎপাদনের জন্য এবং জীবন রক্ষার জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Gachhpala oxygen utpadoner jonno ebong jibon rokkhkhar jonno oporiharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "biodiversity",
+            "phonetic": "ˌbaɪəʊdaɪˈvɜːsɪti",
+            "word_native_transliteration": {
+                "bn": "বায়োডাইভার্সিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🦋",
+            "meaning": "The variety of life in the world or in a particular habitat or ecosystem.",
+            "example_sentence": "Biodiversity is crucial for maintaining healthy ecosystems.",
+            "example_sentence_native_transliteration": {
+                "bn": "বায়োডাইভার্সিটি ইজ ক্রুশিয়াল ফর মেইনটেইনিং হেলদি ইকোসিস্টেমস।"
+            },
+            "position": 10,
+            "synonyms": "ecological diversity, biological variety",
+            "antonyms": "monoculture, uniformity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জীববৈচিত্র্য",
+                    "word_transliteration": "jiboboichitro",
+                    "example_sentence_translation": "জীববৈচিত্র্য সুস্থ বাস্তুতন্ত্র বজায় রাখার জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Jiboboichitro shustho bastutontro bojay rakhar jonno oporiharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "wildlife corridors",
+            "phonetic": "ˈwaɪldlaɪf ˈkɔːrɪdɔːrz",
+            "word_native_transliteration": {
+                "bn": "ওয়াইল্ডলাইফ করিডোরস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🦌",
+            "meaning": "Areas of habitat connecting wildlife populations separated by human activities or structures.",
+            "example_sentence": "Wildlife corridors connect fragmented habitats, enabling species migration.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওয়াইল্ডলাইফ করিডোরস কানেক্ট ফ্র্যাগমেন্টেড হ্যাবিটেটস, এনেবলিং স্পিসিজ মাইগ্রেশন।"
+            },
+            "position": 11,
+            "synonyms": "animal passage, migration routes",
+            "antonyms": "habitat fragmentation, habitat destruction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বন্যপ্রাণী পথ",
+                    "word_transliteration": "bonnopranipath",
+                    "example_sentence_translation": "বন্যপ্রাণী পথগুলি খণ্ডিত বাসস্থানের সংযোগ ঘটায়, প্রজাতির অভিবাসন সম্ভব করে।",
+                    "example_sentence_transliteration": "Bonnopranipath guli khondito bassthanr shongyog ghotay, projatir obhibashon shombhob kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "photosynthesis",
+            "phonetic": "ˌfəʊtəʊˈsɪnθəsɪs",
+            "word_native_transliteration": {
+                "bn": "ফটোসিনথেসিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "☀️",
+            "meaning": "The process by which green plants use sunlight to synthesize foods from carbon dioxide and water.",
+            "example_sentence": "Photosynthesis allows plants to convert sunlight into energy.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফটোসিনথেসিস অ্যালাউজ প্ল্যান্টস টু কনভার্ট সানলাইট ইনটু এনার্জি।"
+            },
+            "position": 12,
+            "synonyms": "photosynthetic process, solar energy conversion",
+            "antonyms": "decomposition, respiration",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সবুজকণিকায় খাদ্য উৎপাদন",
+                    "word_transliteration": "shobujkonikay khaddo utpadon",
+                    "example_sentence_translation": "ফটোসিনথেসিস গাছগুলিকে সূর্যের আলোকে শক্তিতে রূপান্তর করতে সহায়ক।",
+                    "example_sentence_transliteration": "Photosynthesis gachhguli-ke surjer aloke shokti-te rupantorkorte shohayk.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ecological balance",
+            "phonetic": "ˌiːkəˈlɒdʒɪkəl ˈbæləns",
+            "word_native_transliteration": {
+                "bn": "ইকোলজিক্যাল ব্যালেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "A state of dynamic equilibrium within a community of organisms.",
+            "example_sentence": "Maintaining ecological balance is essential for a sustainable planet.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেইনটেইনিং ইকোলজিক্যাল ব্যালেন্স ইজ এসেনশিয়াল ফর এ সাস্টেইনেবল প্ল্যানেট।"
+            },
+            "position": 13,
+            "synonyms": "ecological stability, environmental equilibrium",
+            "antonyms": "ecological imbalance, environmental disturbance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিবেশগত ভারসাম্য",
+                    "word_transliteration": "poribeshgoto bharshamy",
+                    "example_sentence_translation": "পরিবেশগত ভারসাম্য বজায় রাখা একটি টেকসই গ্রহের জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Poribeshgoto bharshamy bojay rakha ekti tekshoi groher jonno oporiharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "indigenous",
+            "phonetic": "ɪnˈdɪdʒɪnəs",
+            "word_native_transliteration": {
+                "bn": "ইনডিজেনাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🏡",
+            "meaning": "Originating or occurring naturally in a particular place; native.",
+            "example_sentence": "Indigenous plants are well adapted to the local environment.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনডিজেনাস প্ল্যান্টস আর ওয়েল অ্যাডাপটেড টু দ্য লোকাল এনভায়রনমেন্ট।"
+            },
+            "position": 14,
+            "synonyms": "native, local",
+            "antonyms": "non-native, foreign",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দেশীয়",
+                    "word_transliteration": "deshiyo",
+                    "example_sentence_translation": "দেশীয় গাছপালা স্থানীয় পরিবেশের সাথে ভালভাবে খাপ খায়।",
+                    "example_sentence_transliteration": "Deshiyo gachhpala sthanio poribesh-er shathe valbhabe khap khay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "symbiotic",
+            "phonetic": "ˌsɪmbɪˈɒtɪk",
+            "word_native_transliteration": {
+                "bn": "সিম্বায়োটিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🤝",
+            "meaning": "Involving interaction between two different organisms living in close physical association.",
+            "example_sentence": "The relationship between the bee and the flower is symbiotic.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রিলেশনশিপ বিটুইন দ্য বী অ্যান্ড দ্য ফ্লাওয়ার ইজ সিম্বায়োটিক।"
+            },
+            "position": 15,
+            "synonyms": "mutualistic, cooperative",
+            "antonyms": "parasitic, harmful",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরস্পর উপকারী",
+                    "word_transliteration": "poroshor upokari",
+                    "example_sentence_translation": "মধুমক্ষী এবং ফুলের সম্পর্ক পরস্পর উপকারী।",
+                    "example_sentence_transliteration": "Modhumokhi ebong fuler shomporko poroshor upokari.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "diversity",
+            "phonetic": "daɪˈvɜːsɪti",
+            "word_native_transliteration": {
+                "bn": "ডাইভার্সিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌈",
+            "meaning": "The state of being diverse; variety.",
+            "example_sentence": "Biodiversity promotes ecosystem stability and resilience.",
+            "example_sentence_native_transliteration": {
+                "bn": "বায়োডাইভার্সিটি প্রোমোটস ইকোসিস্টেম স্ট্যাবিলিটি অ্যান্ড রেসিলিয়েন্স।"
+            },
+            "position": 16,
+            "synonyms": "variety, heterogeneity",
+            "antonyms": "uniformity, sameness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৈচিত্র্য",
+                    "word_transliteration": "boichitro",
+                    "example_sentence_translation": "জীববৈচিত্র্য বাস্তুতন্ত্রের স্থিতিশীলতা এবং স্থিতিস্থাপকতা উন্নীত করে।",
+                    "example_sentence_transliteration": "Jiboboichitro bastutontrer stitishilota ebong stitishthapokota unito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sustainable",
+            "phonetic": "səˈsteɪnəbl",
+            "word_native_transliteration": {
+                "bn": "সাস্টেইনেবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "♻️",
+            "meaning": "Able to be maintained at a certain rate or level.",
+            "example_sentence": "Sustainable practices help in maintaining ecological health.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাস্টেইনেবল প্র্যাকটিসেস হেল্প ইন মেইনটেইনিং ইকোলজিক্যাল হেলথ।"
+            },
+            "position": 17,
+            "synonyms": "renewable, viable",
+            "antonyms": "unsustainable, depleting",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "টেকসই",
+                    "word_transliteration": "tekshoi",
+                    "example_sentence_translation": "টেকসই অভ্যাস বাস্তুতন্ত্রের স্বাস্থ্য বজায় রাখতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Tekshoi obhyash bastutontrer shashtho bojay rakhte shahayyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "vegetation",
+            "phonetic": "ˌvɛdʒɪˈteɪʃən",
+            "word_native_transliteration": {
+                "bn": "ভেজিটেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌱",
+            "meaning": "Plants considered collectively, especially those found in a particular region.",
+            "example_sentence": "The forest was dense with a wide variety of vegetation.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফরেস্ট ওয়াজ ডেন্স উইথ এ ওয়াইড ভেরাইটি অব ভেজিটেশন।"
+            },
+            "position": 18,
+            "synonyms": "plant life, flora",
+            "antonyms": "barren land, desolate terrain",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্ভিদ",
+                    "word_transliteration": "udbhid",
+                    "example_sentence_translation": "বনটি বিভিন্ন ধরনের গাছপালায় ঘন ছিল।",
+                    "example_sentence_transliteration": "Bonti bibhinno dhoroner gachhpalay ghon chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ecosystem services",
+            "phonetic": "ˈiːkəʊˌsɪstəm ˈsɜːvɪsɪz",
+            "word_native_transliteration": {
+                "bn": "ইকোসিস্টেম সার্ভিসেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌍",
+            "meaning": "The benefits people obtain from ecosystems.",
+            "example_sentence": "Forests provide valuable ecosystem services, such as purifying air and water.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফরেস্টস প্রোভাইড ভ্যালুয়েবল ইকোসিস্টেম সার্ভিসেস, সাচ অ্যাজ পিউরিফাইং এয়ার অ্যান্ড ওয়াটার।"
+            },
+            "position": 19,
+            "synonyms": "environmental services, ecological benefits",
+            "antonyms": "destruction, damage",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাস্তুতন্ত্র সেবা",
+                    "word_transliteration": "bastutontro seba",
+                    "example_sentence_translation": "বনগুলি গুরুত্বপূর্ণ বাস্তুতন্ত্র সেবা প্রদান করে, যেমন বায়ু এবং জল পরিশোধন।",
+                    "example_sentence_transliteration": "Bonguli gurutbopurno bastutontro seba prodan kore, jemon bayu ebong jol porishodhon.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

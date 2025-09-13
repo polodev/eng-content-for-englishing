@@ -1,0 +1,499 @@
+{
+    "position": 118,
+    "title_translation": {
+        "en": "How Farmers Can Improve Crop Yield",
+        "bn": "কৃষকরা কি ভা বে ফসলে র উৎপা দন বৃদ্ধি করতে পা রে ন"
+    },
+    "content_translation": {
+        "en": "Farmers can use **agronomy** and modern farming techniques for **yield optimization** of their crops. **Intercropping** methods help maintain soil health and reduce the **detrimental** effects of **monoculture**.\n\nBy improving **microclimate** and **photosynthetic efficiency**, it's possible to enhance crop quality. However, applying **sustainable agriculture** is essential to eliminate **nutrient deficiency** and maintain soil fertility.\n\nAdditionally, creating a good environment for crops is necessary to manage **transpiration** and remove **pollutants**. By avoiding **overexploitation** and focusing on **rejuvenation** and soil **fallow** conditions, farmers can achieve more effective yields.\n\nUsing more **biodegradable** materials and controlling **zooplankton** can make agricultural production **environment-friendly**, which will increase **vitality**.",
+        "bn": "কৃষকরা তা দে র ফসলে র **yield optimization** জন্য **agronomy** এবং আধুনি ক চা ষ পদ্ধতি র ব্য বহা র করতে পা রে ন। **Intercropping** পদ্ধতি মা টির স্বা স্থ্য বজা য় রা খতে সা হা য্য করে এবং **monoculture**-এর **detrimental** প্রভা ব কমা য়।\n\n**Microclimate** এবং **photosynthetic efficiency** উন্নত করা র মা ধ্য মে ফসলে র গুণমা ন বৃদ্ধি করা সম্ভব। তবে , **nutrient deficiency** দূর করতে এবং মা টির উর্বরতা বজা য় রা খতে **sustainable agriculture** প্রয়ো গ করা অপরি হা র্য।\n\nএছা ড়া , **transpiration** এবং **pollutants** দূর করতে ফসলে র ভা লো পরি বে শ তৈ রি করা জরু রি । **Overexploitation** এড়ি য়ে , কৃষকরা যদি **rejuvenation** এবং মা টির **fallow** অবস্থা র প্রতি নজর দে ন, তবে তা রা আরও কা র্যকর ফলন পে তে পা রবে ন।\n\nঅধি ক **biodegradable** উপা দা ন ব্য বহা র এবং **zooplankton** নি য়ন্ত্রণে র মা ধ্য মে কৃষি উৎপা দন **environment-friendly** করা সম্ভব, যা **vitality** বা ড়ি য়ে তুলবে ।"
+    },
+    "list": [
+        {
+            "word": "yield optimization",
+            "phonetic": "/jiːld ˌɒptɪmaɪˈzeɪʃən/",
+            "word_native_transliteration": {
+                "bn": "ইয়ে ল্ড অপটিমা ইজে শন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "The process of maximizing the productivity or efficiency of crop production through various agricultural techniques and practices.",
+            "example_sentence": "Yield optimization techniques can significantly improve crop production.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইয়ে ল্ড অপটিমা ইজে শন টেকনি ক্স কি য়া ন সি গনি ফি কি য়া ন্টলি ইমপ্রুভ ক্রপ প্রোডাকশন।"
+            },
+            "position": 1,
+            "synonyms": "crop enhancement, productivity improvement",
+            "antonyms": "yield reduction, crop failure",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উৎপা দন বৃদ্ধি",
+                    "word_transliteration": "utpadon bridhi",
+                    "example_sentence_translation": "উৎপা দন বৃদ্ধি কৌ শলগুলি ফসল উৎপা দন উল্লে খযো গ্য ভা বে উন্নত করতে পা রে ।",
+                    "example_sentence_transliteration": "Utpadon bridhi kousholguli foshol utpadon ullekhojoggyo bhabe unnoto korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "agronomy",
+            "phonetic": "/əˈɡrɒnəmi/",
+            "word_native_transliteration": {
+                "bn": "অ্যা গ্রো নমি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌾",
+            "meaning": "The science and practice of soil management and crop production, focusing on the principles of plant and soil science to optimize agricultural productivity.",
+            "example_sentence": "Agronomy focuses on soil management and crop production.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যা গ্রো নমি ফো কা সেস অন সয়েল ম্যা নেজমে ন্ট অ্যা ন্ড ক্রপ প্রোডাকশন।"
+            },
+            "position": 2,
+            "synonyms": "crop science, agricultural science",
+            "antonyms": "N/A",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কৃষি বি জ্ঞা ন",
+                    "word_transliteration": "krishi biggyan",
+                    "example_sentence_translation": "কৃষি বি জ্ঞা ন মা টির ব্য বস্থা পনা এবং ফসল উৎপা দনে র উপর গুরু ত্ব দে য়।",
+                    "example_sentence_transliteration": "Krishi biggyan matir byabosthapona ebong foshol utpadoner upor gurutbo deyo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "intercropping",
+            "phonetic": "/ˈɪntəˌkrɒpɪŋ/",
+            "word_native_transliteration": {
+                "bn": "ইন্টা রক্রপিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌱",
+            "meaning": "The agricultural practice of cultivating two or more crops simultaneously in the same field to maximize land use efficiency and improve soil health.",
+            "example_sentence": "Intercropping can help improve soil fertility and pest control.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইন্টা রক্রপিং কি য়া ন হে ল্প ইমপ্রুভ সয়েল ফার্টিলি টি অ্যা ন্ড পে স্ট কন্ট্রো ল।"
+            },
+            "position": 3,
+            "synonyms": "companion planting, mixed cropping",
+            "antonyms": "monoculture, single-crop farming",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আন্তঃ বী জা য়ন",
+                    "word_transliteration": "antah bijayion",
+                    "example_sentence_translation": "আন্তঃ বী জা য়ন মা টি উর্বরতা এবং কী টপতঙ্গ নি য়ন্ত্রণে সা হা য্য করতে পা রে ।",
+                    "example_sentence_transliteration": "Antah bijayion mati urboritaa ebong kitopotongo niyontrrone sahayyo korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "monoculture",
+            "phonetic": "/ˈmɒnəʊˌkʌltʃər/",
+            "word_native_transliteration": {
+                "bn": "মনো কা লচা র"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌾",
+            "meaning": "The agricultural practice of growing only one type of crop over a large area and for many consecutive years, which can lead to increased vulnerability to pests and diseases.",
+            "example_sentence": "Monoculture can lead to soil depletion and increased pest vulnerability.",
+            "example_sentence_native_transliteration": {
+                "bn": "মনো কা লচা র কি য়া ন লি ড টু সয়েল ডি প্লি শন অ্যা ন্ড ইনক্রি জড পে স্ট ভা লনে রে বি লি টি।"
+            },
+            "position": 4,
+            "synonyms": "single-crop farming, uniform agriculture",
+            "antonyms": "intercropping, polyculture",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একজা তী য় চা ষ",
+                    "word_transliteration": "ekjatiyo chash",
+                    "example_sentence_translation": "একজা তী য় চা ষ মা টি শো ষণ এবং কী টপতঙ্গে র প্রতি সং বে দনশী লতা বা ড়া তে পা রে ।",
+                    "example_sentence_transliteration": "Ekjatiyo chash mati shoshon ebong kitopotonger proti shongbedonshilota barate pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "detrimental",
+            "phonetic": "/ˌdɛtrɪˈmɛntəl/",
+            "word_native_transliteration": {
+                "bn": "ডে ট্রিমে ন্টা ল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚠️",
+            "meaning": "Causing harm or damage; tending to obstruct or harm progress or development.",
+            "example_sentence": "Excessive pesticide use can have detrimental effects on the environment.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সে সি ভ পে স্টি সা ইড ইউজ কি য়া ন হি য়াভ ডে ট্রিমে ন্টা ল ইফে ক্টস অন দ্য এনভা য়রনমে ন্ট।"
+            },
+            "position": 5,
+            "synonyms": "harmful, damaging",
+            "antonyms": "beneficial, positive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্ষতি কর",
+                    "word_transliteration": "khotikor",
+                    "example_sentence_translation": "অতি রি ক্ত কী টনা শক ব্য বহা রে র পরি বে শে ক্ষতি কর প্রভা ব পড়তে পা রে ।",
+                    "example_sentence_transliteration": "Otirikto kitonashok byaboharer poribeshey khotikor prabhab porte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "microclimate",
+            "phonetic": "/ˈmaɪkrəʊˌklaɪmæt/",
+            "word_native_transliteration": {
+                "bn": "মা ইক্রো ক্লা ইমে ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌤️",
+            "meaning": "The climate of a small, specific area that may differ from the general climate of the surrounding region, often influenced by local factors like terrain, vegetation, or buildings.",
+            "example_sentence": "A microclimate can have a significant impact on plant growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ মা ইক্রো ক্লা ইমে ট কি য়া ন হি য়াভ এ সি গনি ফি কি য়া ন্ট ইমপি য়া ক্ট অন প্লা ন্ট গ্রো থ।"
+            },
+            "position": 6,
+            "synonyms": "local climate, small-scale climate",
+            "antonyms": "general climate, macroclimate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্থা নী য় জলবা য়ু",
+                    "word_transliteration": "sthaniyio jolbayiu",
+                    "example_sentence_translation": "একটি স্থা নী য় জলবা য়ু গা ছপা লা র বৃদ্ধি তে উল্লে খযো গ্য প্রভা ব ফে লতে পা রে ।",
+                    "example_sentence_transliteration": "Ekti sthaniyio jolbayiu gachhpalar bridhitey ullekhojoggyo prabhab felte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "photosynthetic efficiency",
+            "phonetic": "/ˌfəʊtəʊˈsɪnθɛtɪk ɪˈfɪʃənsi/",
+            "word_native_transliteration": {
+                "bn": "ফটো সি নথে টিক এফি সি য়ে ন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌞",
+            "meaning": "The measure of how effectively plants convert light energy into chemical energy through the process of photosynthesis, directly affecting plant growth and crop yield.",
+            "example_sentence": "Improving photosynthetic efficiency can increase crop yields.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইমপ্রুভিং ফটো সি নথে টিক এফি সি য়ে ন্সি কি য়া ন ইনক্রি জ ক্রপ ইয়ে ল্ডস।"
+            },
+            "position": 7,
+            "synonyms": "solar efficiency, photosynthesis rate",
+            "antonyms": "inefficiency, low productivity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "খা দ্য উৎপা দন দক্ষতা",
+                    "word_transliteration": "khadyo utpadon dokkhota",
+                    "example_sentence_translation": "ফটো সি নথে টিক দক্ষতা উন্নত করা ফসল উৎপা দন বৃদ্ধি করতে পা রে ।",
+                    "example_sentence_transliteration": "Photo synthetic dokkhota unnoto kora foshol utpadon bridhi korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "nutrient deficiency",
+            "phonetic": "/ˈnjuːtrɪənt dɪˈfɪʃənsi/",
+            "word_native_transliteration": {
+                "bn": "নি উট্রিয়ে ন্ট ডি ফি সি য়ে ন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🩺",
+            "meaning": "A lack of essential nutrients required for healthy plant growth, which can result in poor crop development, reduced yields, and increased susceptibility to diseases.",
+            "example_sentence": "Nutrient deficiency in the soil can reduce crop productivity.",
+            "example_sentence_native_transliteration": {
+                "bn": "নি উট্রিয়ে ন্ট ডি ফি সি য়ে ন্সি ইন দ্য সয়েল কি য়া ন রি ডি উস ক্রপ প্রোডাকটি ভি টি।"
+            },
+            "position": 8,
+            "synonyms": "malnutrition, deficit",
+            "antonyms": "nutrient abundance, nourishment",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুষ্টির অভা ব",
+                    "word_transliteration": "pushtir obhab",
+                    "example_sentence_translation": "মা টিতে পুষ্টির অভা ব ফসল উৎপা দন কমি য়ে দি তে পা রে ।",
+                    "example_sentence_transliteration": "Matite pushtir obhab foshol utpadon komiye dite pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sustainable agriculture",
+            "phonetic": "/səˈsteɪnəbl ˈæɡrɪkʌltʃər/",
+            "word_native_transliteration": {
+                "bn": "সা সটে ইনে বল এগ্রি কা লচা র"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌿",
+            "meaning": "Farming practices that meet current food needs while preserving environmental resources and maintaining the ability to produce food for future generations through ecologically sound methods.",
+            "example_sentence": "Sustainable agriculture practices protect the environment while ensuring food security.",
+            "example_sentence_native_transliteration": {
+                "bn": "সা সটে ইনে বল এগ্রি কা লচা র প্রা কটি সেস প্রো টে ক্ট দ্য এনভা য়রনমে ন্ট হোয়া ইল এনশি ওরিং ফুড সি কি উরি টি।"
+            },
+            "position": 9,
+            "synonyms": "eco-friendly farming, responsible agriculture",
+            "antonyms": "conventional farming, destructive farming",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "টে কসই কৃষি",
+                    "word_transliteration": "teksoi krishi",
+                    "example_sentence_translation": "টে কসই কৃষি চর্চা গুলি পরি বে শ রক্ষা করতে সা হা য্য করে এবং খা দ্য নি রা পত্তা নি শ্চি ত করে ।",
+                    "example_sentence_transliteration": "Teksoi krishi chorccha guli poribesh rokkhaa korte sahayyo kore ebong khadyo nirapotta nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "transpiration",
+            "phonetic": "/ˌtrænsˈpɪəreɪʃən/",
+            "word_native_transliteration": {
+                "bn": "ট্রা ন্সপি রে শন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💨",
+            "meaning": "The process by which plants lose water through their leaves, which plays a crucial role in plant cooling, nutrient transport, and the water cycle.",
+            "example_sentence": "Transpiration plays a key role in the water cycle and plant growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "ট্রা ন্সপি রে শন প্লে জ এ কি রো ল ইন দ্য ওয়া টা র সা ইকে ল অ্যা ন্ড প্লা ন্ট গ্রো থ।"
+            },
+            "position": 10,
+            "synonyms": "evaporation, water loss",
+            "antonyms": "water absorption, precipitation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্ভি দে র জল বা ষ্পী ভবন",
+                    "word_transliteration": "udbider jol bashpibhobron",
+                    "example_sentence_translation": "ট্রা ন্সপি রে শন জল চক্র এবং গা ছপা লা র বৃদ্ধি তে গুরু ত্বপূর্ণ ভূমি কা পা লন করে ।",
+                    "example_sentence_transliteration": "Transpiration jol chokkro ebong gachhpalar bridhitey gurutwopurno bhumika palon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pollutants",
+            "phonetic": "/pəˈluːtənts/",
+            "word_native_transliteration": {
+                "bn": "পলি উট্যা ন্টস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "☢️",
+            "meaning": "Harmful substances that contaminate the environment, including air, water, and soil, potentially causing damage to living organisms and ecosystems.",
+            "example_sentence": "Pollutants in the air can have harmful effects on human health.",
+            "example_sentence_native_transliteration": {
+                "bn": "পলি উট্যা ন্টস ইন দ্য এয়া র কি য়া ন হি য়াভ হা র্মফুল ইফে ক্টস অন হি উমি য়া ন হে ল্থ।"
+            },
+            "position": 11,
+            "synonyms": "contaminants, toxins",
+            "antonyms": "purifiers, cleaners",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দূষণকা রী পদা র্থ",
+                    "word_transliteration": "dushonkari podartha",
+                    "example_sentence_translation": "বা য়ুতে দূষণকা রী পদা র্থ মা নবস্বা স্থ্য র উপর ক্ষতি কর প্রভা ব ফে লতে পা রে ।",
+                    "example_sentence_transliteration": "Bayute dushonkari podartha manoswasthyor upor khotikor prabhab felte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "overexploitation",
+            "phonetic": "/ˌəʊvərɪksˌplɔɪˈteɪʃən/",
+            "word_native_transliteration": {
+                "bn": "ওভা রএক্সপ্লয়টে শন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⛏️",
+            "meaning": "The unsustainable use of natural resources at a rate that exceeds their ability to regenerate, leading to depletion and environmental degradation.",
+            "example_sentence": "Overexploitation of natural resources leads to environmental degradation.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওভা রএক্সপ্লয়টে শন অভ ন্যা চুরা ল রি সো র্সেস লি ডস টু এনভা য়রনমে ন্টা ল ডিগ্রে ডে শন।"
+            },
+            "position": 12,
+            "synonyms": "overuse, overconsumption",
+            "antonyms": "conservation, preservation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতি রি ক্ত শো ষণ",
+                    "word_transliteration": "otirikto shoshon",
+                    "example_sentence_translation": "প্রা কৃতি ক সম্পদে র অতি রি ক্ত শো ষণ পরি বে শগত অবক্ষয়ে নে তৃত্ব দে য়।",
+                    "example_sentence_transliteration": "Prakritik shompoder otirikto shoshon poribeshgoto obokkhoye netritbo deyo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "rejuvenation",
+            "phonetic": "/rɪˌdʒuːvəˈneɪʃən/",
+            "word_native_transliteration": {
+                "bn": "রি জুভে নে শন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌱",
+            "meaning": "The process of restoring something to a former better state, especially referring to renewing soil fertility or revitalizing agricultural land through various restoration practices.",
+            "example_sentence": "Rejuvenation of soil is necessary for sustainable agriculture.",
+            "example_sentence_native_transliteration": {
+                "bn": "রি জুভে নে শন অভ সয়েল ইজ নে সে সে রি ফর সা সটে ইনে বল এগ্রি কা লচা র।"
+            },
+            "position": 13,
+            "synonyms": "renewal, revitalization",
+            "antonyms": "degeneration, deterioration",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুনরু জ্জী বন",
+                    "word_transliteration": "punorujjibron",
+                    "example_sentence_translation": "টে কসই কৃষি র জন্য মা টির পুনরু জ্জী বন প্রয়ো জন।",
+                    "example_sentence_transliteration": "Teksoi krishir jonno matir punorujjibron proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fallow",
+            "phonetic": "/ˈfæl.oʊ/",
+            "word_native_transliteration": {
+                "bn": "ফ্যা লো"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌾",
+            "meaning": "Describing land that is left unplanted for a period to restore its fertility, allowing soil to recover nutrients and break pest and disease cycles.",
+            "example_sentence": "Farmers leave their fields fallow to restore soil fertility.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফা রমা রস লি ভ দে য়া র ফি ল্ডস ফ্যা লো টু রি স্টো র সয়েল ফার্টিলি টি।"
+            },
+            "position": 14,
+            "synonyms": "uncultivated, idle",
+            "antonyms": "fertile, productive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনা বা দী , খা লি",
+                    "word_transliteration": "anabadi, khali",
+                    "example_sentence_translation": "কৃষকরা তা দে র জমি অনা বা দী রে খে মা টির উর্বরতা পুনরু দ্ধা র করে ।",
+                    "example_sentence_transliteration": "Krishokra tader jomi anabadi rekhe matir urboritaa punoruddhar kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "biodegradable",
+            "phonetic": "/ˌbaɪəʊdɪˈɡreɪdəbl/",
+            "word_native_transliteration": {
+                "bn": "বা য়ো ডি গ্রে ডে বল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "♻️",
+            "meaning": "Capable of being decomposed by natural biological processes, typically by bacteria or other living organisms, without causing harm to the environment.",
+            "example_sentence": "Biodegradable materials break down naturally without harming the environment.",
+            "example_sentence_native_transliteration": {
+                "bn": "বা য়ো ডি গ্রে ডে বল মি য়া টি রি য়া লস ব্রে ক ডা উন ন্যা চুরা লি উই থা উট হা রমিং দ্য এনভা য়রনমে ন্ট।"
+            },
+            "position": 15,
+            "synonyms": "environmentally friendly, decomposable",
+            "antonyms": "non-biodegradable, synthetic",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জী বা ণু দ্বা রা গলে যা ওয়া",
+                    "word_transliteration": "jibanu dwara gole jawa",
+                    "example_sentence_translation": "বা য়ো ডি গ্রে ডেবল উপা দা নগুলি পরি বে শকে ক্ষতি না করে প্রা কৃতি কভা বে গলে যা য়।",
+                    "example_sentence_transliteration": "Biodegradable upadanguli poribeshke khoti na kore prakritikbhabe gole jay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "zooplankton",
+            "phonetic": "/ˈzuːəʊˌplæŋktən/",
+            "word_native_transliteration": {
+                "bn": "জু়ো প্লা ঙ্কটন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🦠",
+            "meaning": "Microscopic aquatic animals that drift in water bodies and form an essential part of the aquatic food chain, serving as food for fish and other marine organisms.",
+            "example_sentence": "Zooplankton plays an important role in the aquatic food chain.",
+            "example_sentence_native_transliteration": {
+                "bn": "জু়ো প্লা ঙ্কটন প্লে জ অ্যা ন ইমপো র্টা ন্ট রো ল ইন দ্য অ্যা কোয়া টিক ফুড চে ইন।"
+            },
+            "position": 16,
+            "synonyms": "aquatic animals, marine organisms",
+            "antonyms": "phytoplankton, land animals",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জলজ প্রা ণী",
+                    "word_transliteration": "joloj prani",
+                    "example_sentence_translation": "জু়ো প্লা ঙ্কটন জলজ খা দ্য শৃঙ্খলে গুরু ত্বপূর্ণ ভূমি কা পা লন করে ।",
+                    "example_sentence_transliteration": "Zooplankton joloj khadyo shrinkhle gurutwopurno bhumika palon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "environment-friendly",
+            "phonetic": "/ɪnˈvaɪrənmənt ˈfrɛndli/",
+            "word_native_transliteration": {
+                "bn": "এনভা য়রনমে ন্ট-ফ্রে ন্ডলি"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌍",
+            "meaning": "Designed or produced in a way that causes minimal harm to the environment, often using sustainable materials and processes that reduce ecological impact.",
+            "example_sentence": "Environment-friendly products are designed to reduce ecological damage.",
+            "example_sentence_native_transliteration": {
+                "bn": "এনভা য়রনমে ন্ট-ফ্রে ন্ডলি প্রো ডাকটস আর ডি জা ইন্ড টু রি ডি উস ইকো লো জি কা ল ড্যা মেজ।"
+            },
+            "position": 17,
+            "synonyms": "eco-friendly, green",
+            "antonyms": "harmful, toxic",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরি বে শবা ন্ধব",
+                    "word_transliteration": "poribeshabandho",
+                    "example_sentence_translation": "পরি বে শবা ন্ধব পণ্য গুলি পরি বে শগত ক্ষতি কমা তে ডি জা ইন করা হয়।",
+                    "example_sentence_transliteration": "Poribeshabandho ponyo guli poribeshgoto khoti komate design kora hoye.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "vitality",
+            "phonetic": "/vaɪˈtæləti/",
+            "word_native_transliteration": {
+                "bn": "ভি টা লি টি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "The state of being strong, active, and energetic; in agriculture, it refers to the overall health and vigor of plants, soil, or farming systems.",
+            "example_sentence": "The vitality of the community is evident in their collective efforts.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ভি টা লি টি অভ দ্য কমি উনি টি ইজ এভি ডে ন্ট ইন দে য়া র কো লে কটি ভ এফো র্টস।"
+            },
+            "position": 18,
+            "synonyms": "energy, vigour",
+            "antonyms": "weakness, lethargy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জী বনী শক্তি , শক্তি",
+                    "word_transliteration": "jiboni shokti, shokti",
+                    "example_sentence_translation": "সম্প্রদা য়ে র জী বনী শক্তি তা দে র যৌ থ প্রচে ষ্টা য় স্পষ্ট।",
+                    "example_sentence_transliteration": "Shompradayier jiboni shokti tader joutho procheshtar shpostho.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

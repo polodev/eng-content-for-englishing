@@ -1,0 +1,526 @@
+{
+    "position": 114,
+    "title_translation": {
+        "en": "How Autonomous Vehicles Will Change Transport",
+        "bn": "স্বায়ত্তশাসিত যানবাহন কীভাবে পরিবহন ব্যবস্থা পরিবর্তন করবে"
+    },
+    "content_translation": {
+        "en": "**Autonomous vehicles** are one of the most **disruptive** innovations of modern **automation** technology, which can bring radical changes to the **transport** system. These are operated through **algorithmic** systems, where there is no need for human **cognitive** decision-making.\n\nCurrently, traffic jams and **congestion** are one of the biggest **impediments** in cities, reducing **efficiency**. However, **autonomous vehicles** can reduce this problem through **optimization** and improvement of **logistics** systems.\n\nIt will also add a new dimension to safety. With the help of **surveillance** and **integration** technology, the number of accidents will decrease and **equilibrium** will be maintained on the roads.\n\nMoreover, it is also beneficial from an environmental perspective. By reducing fuel consumption and ensuring **ergonomic** design, this technology will make transportation more sustainable. Although there are questions about **retrofitting** and **viability**, the **proliferation** of technology will make it more **eminent**.",
+        "bn": "**Autonomous vehicles** আধুনিক **automation** প্রযুক্তির অন্যতম **disruptive** উদ্ভাবন, যা **transport** ব্যবস্থায় আমূল পরিবর্তন আনতে পারে। এগুলো **algorithmic** সিস্টেমের মাধ্যমে পরিচালিত হয়, যেখানে মানুষের **cognitive** সিদ্ধান্ত গ্রহণের প্রয়োজন হয় না।\n\nবর্তমানে, যানজট এবং **congestion** শহরের অন্যতম বড় **impediment**, যা **efficiency** কমিয়ে দেয়। তবে, **autonomous vehicles** এই সমস্যা কমিয়ে আনতে পারে **optimization** এবং **logistics** ব্যবস্থার উন্নতির মাধ্যমে।\n\nনিরাপত্তার ক্ষেত্রেও এটি নতুন মাত্রা যোগ করবে। **Surveillance** এবং **integration** প্রযুক্তির সাহায্যে দুর্ঘটনার সংখ্যা কমবে এবং রাস্তায় **equilibrium** বজায় থাকবে।\n\nএছাড়া, পরিবেশগত দিক থেকেও এটি উপকারী। জ্বালানি খরচ কমিয়ে এবং **ergonomic** ডিজাইন নিশ্চিত করে, এই প্রযুক্তি পরিবহনকে আরও টেকসই করবে। যদিও **retrofitting** এবং **viability** নিয়ে প্রশ্ন রয়েছে, তবে প্রযুক্তির **proliferation** এটি আরও **eminent** করে তুলবে।"
+    },
+    "list": [
+        {
+            "word": "autonomous vehicles",
+            "phonetic": "/ɔːˈtɒn.ə.məs ˈviː.ɪ.kəlz/",
+            "word_native_transliteration": {
+                "bn": "অটোনোমাস ভিহিকেলস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚗",
+            "meaning": "Vehicles that can operate and move without human intervention or control.",
+            "example_sentence": "Autonomous vehicles are revolutionizing the future of transport.",
+            "example_sentence_native_transliteration": {
+                "bn": "অটোনোমাস ভিহিকেলস আর রিভলিউশনাইজিং দ্য ফিউচার অফ ট্রান্সপোর্ট।"
+            },
+            "position": 1,
+            "synonyms": "Self-driving cars, Driverless vehicles, Automated transport",
+            "antonyms": "Manual Vehicles, Human-operated Cars, Conventional Vehicles",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বায়ত্তশাসিত যানবাহন",
+                    "word_transliteration": "swayottoshasito janbahanno",
+                    "example_sentence_translation": "স্বায়ত্তশাসিত যানবাহন পরিবহনের ভবিষ্যৎকে রূপান্তর করছে।",
+                    "example_sentence_transliteration": "Swayottoshasito janbahanno poribohoner bhobishyotke rupantor korchhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "automation",
+            "phonetic": "/ˌɔː.təˈmeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "অটোমেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤖",
+            "meaning": "The use of technology to perform tasks without human intervention.",
+            "example_sentence": "Automation has increased productivity in manufacturing.",
+            "example_sentence_native_transliteration": {
+                "bn": "অটোমেশন হ্যাজ ইনক্রিজড প্রোডাক্টিভিটি ইন ম্যানুফ্যাকচারিং।"
+            },
+            "position": 2,
+            "synonyms": "Mechanization, Computerization, Robotics",
+            "antonyms": "Manual Operation, Handcrafted Work, Human Labor",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বয়ংক্রিয়করণ",
+                    "word_transliteration": "swoyongkriyokoronno",
+                    "example_sentence_translation": "স্বয়ংক্রিয়করণ উৎপাদনশীলতা বৃদ্ধি করেছে।",
+                    "example_sentence_transliteration": "Swoyongkriyokoronno utpadonsheelota bridhdhi koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "disruptive",
+            "phonetic": "/dɪsˈrʌp.tɪv/",
+            "word_native_transliteration": {
+                "bn": "ডিসরাপটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💥",
+            "meaning": "Causing or tending to cause disruption; revolutionary in changing existing systems.",
+            "example_sentence": "The disruptive impact of AI is reshaping industries.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডিসরাপটিভ ইমপ্যাক্ট অফ এআই ইজ রিশেপিং ইন্ডাস্ট্রিজ।"
+            },
+            "position": 3,
+            "synonyms": "Revolutionary, Transformative, Disturbing",
+            "antonyms": "Stable, Predictable, Traditional",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাধাসৃষ্টিকারী",
+                    "word_transliteration": "badhasrishtikari",
+                    "example_sentence_translation": "কৃত্রিম বুদ্ধিমত্তার বিপ্লবী প্রভাব শিল্পগুলোকে নতুনভাবে গড়ে তুলছে।",
+                    "example_sentence_transliteration": "Kritrim buddhimottar biplovi prabhav shilpoguloke notunbhabe gore tulchhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "transport",
+            "phonetic": "/ˈtræn.spɔːrt/",
+            "word_native_transliteration": {
+                "bn": "ট্রান্সপোর্ট"
+            },
+            "parts_of_speech": "noun/verb",
+            "emoji": "🚛",
+            "meaning": "The movement of people or goods from one place to another.",
+            "example_sentence": "Efficient transport systems reduce travel time.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইফিশিয়েন্ট ট্রান্সপোর্ট সিস্টেমস রিডিউস ট্রাভেল টাইম।"
+            },
+            "position": 4,
+            "synonyms": "Transit, Conveyance, Mobility",
+            "antonyms": "Immobilization, Inactivity, Stationary",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিবহন",
+                    "word_transliteration": "poribohan",
+                    "example_sentence_translation": "দক্ষ পরিবহন ব্যবস্থা যাতায়াতের সময় কমায়।",
+                    "example_sentence_transliteration": "Dokkho poribohan bebostha jatayater shomoy komay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "algorithmic",
+            "phonetic": "/ˌæl.ɡəˈrɪð.mɪk/",
+            "word_native_transliteration": {
+                "bn": "অ্যালগরিদমিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📊",
+            "meaning": "Based on or using algorithms; relating to mathematical rules or procedures.",
+            "example_sentence": "Algorithmic processes power artificial intelligence systems.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যালগরিদমিক প্রসেসেস পাওয়ার আর্টিফিশিয়াল ইন্টেলিজেন্স সিস্টেমস।"
+            },
+            "position": 5,
+            "synonyms": "Computational, Systematic, Formula-based",
+            "antonyms": "Random, Unstructured, Arbitrary",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অ্যালগরিদম ভিত্তিক",
+                    "word_transliteration": "algorithmer bhittik",
+                    "example_sentence_translation": "অ্যালগরিদম ভিত্তিক প্রক্রিয়া কৃত্রিম বুদ্ধিমত্তা ব্যবস্থা চালিত করে।",
+                    "example_sentence_transliteration": "Algorithmer bhittik prokriya kritrim buddhimotta bebostha chalito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cognitive",
+            "phonetic": "/ˈkɒɡ.nɪ.tɪv/",
+            "word_native_transliteration": {
+                "bn": "কগনিটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧠",
+            "meaning": "Related to mental processes of perception, memory, judgment, and reasoning.",
+            "example_sentence": "Cognitive skills are crucial for problem-solving.",
+            "example_sentence_native_transliteration": {
+                "bn": "কগনিটিভ স্কিলস আর ক্রুশিয়াল ফর প্রবলেম সলভিং।"
+            },
+            "position": 6,
+            "synonyms": "Intellectual, Mental, Psychological",
+            "antonyms": "Unaware, Ignorant, Uninformed",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জ্ঞানসংক্রান্ত",
+                    "word_transliteration": "gyansongkranto",
+                    "example_sentence_translation": "সমস্যা সমাধানের জন্য জ্ঞানসংক্রান্ত দক্ষতা অপরিহার্য।",
+                    "example_sentence_transliteration": "Shomoshya somadhanenr jonno gyansongkranto dokkhota oporihharjyo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "congestion",
+            "phonetic": "/kənˈdʒes.tʃən/",
+            "word_native_transliteration": {
+                "bn": "কনজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚦",
+            "meaning": "A situation in which a place is too blocked or crowded, causing difficulties.",
+            "example_sentence": "Urban congestion leads to longer travel times.",
+            "example_sentence_native_transliteration": {
+                "bn": "আর্বান কনজেশন লিডস টু লংগার ট্রাভেল টাইমস।"
+            },
+            "position": 7,
+            "synonyms": "Traffic jam, Overcrowding, Blockage",
+            "antonyms": "Free Flow, Unclogged, Open Space",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "যানজট",
+                    "word_transliteration": "janjot",
+                    "example_sentence_translation": "নগর যানজট দীর্ঘ যাতায়াত সময়ের কারণ হয়।",
+                    "example_sentence_transliteration": "Nogor janjot dirgho jatayat shomoyenr karon hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "impediment",
+            "phonetic": "/ɪmˈpɛd.ɪ.mənt/",
+            "word_native_transliteration": {
+                "bn": "ইমপেডিমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚧",
+            "meaning": "A hindrance or obstruction in doing something.",
+            "example_sentence": "Poor infrastructure is a major impediment to development.",
+            "example_sentence_native_transliteration": {
+                "bn": "পুর ইনফ্রাস্ট্রাকচার ইজ এ মেজর ইমপেডিমেন্ট টু ডেভেলপমেন্ট।"
+            },
+            "position": 8,
+            "synonyms": "Obstacle, Hindrance, Barrier",
+            "antonyms": "Aid, Assistance, Facilitation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিবন্ধকতা",
+                    "word_transliteration": "protibondhokota",
+                    "example_sentence_translation": "দুর্বল অবকাঠামো উন্নয়নের জন্য একটি বড় প্রতিবন্ধকতা।",
+                    "example_sentence_transliteration": "Durbol obokathamo unnoyonenr jonno ekti boro protibondhokota.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "efficiency",
+            "phonetic": "/ɪˈfɪʃ.ən.si/",
+            "word_native_transliteration": {
+                "bn": "ইফিশিয়েন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "The ability to accomplish a job with a minimum expenditure of time and effort.",
+            "example_sentence": "Improving fuel efficiency reduces transportation costs.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইমপ্রুভিং ফুয়েল ইফিশিয়েন্সি রিডিউসেস ট্রান্সপোর্টেশন কস্টস।"
+            },
+            "position": 9,
+            "synonyms": "Productivity, Effectiveness, Performance",
+            "antonyms": "Inefficiency, Wastefulness, Ineffectiveness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষতা",
+                    "word_transliteration": "dokkhota",
+                    "example_sentence_translation": "জ্বালানি দক্ষতা বৃদ্ধি পরিবহন ব্যয় হ্রাস করে।",
+                    "example_sentence_transliteration": "Jwalani dokkhota bridhdhi poribohan byoy hras kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "optimization",
+            "phonetic": "/ˌɒp.tɪ.mɪˈzeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "অপটিমাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔧",
+            "meaning": "The action of making the best or most effective use of a situation or resource.",
+            "example_sentence": "The company focused on optimization of resources to maximize profits.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি ফোকাসড অন অপটিমাইজেশন অফ রিসোর্সেস টু ম্যাক্সিমাইজ প্রফিটস।"
+            },
+            "position": 10,
+            "synonyms": "Efficiency, Improvement, Refinement",
+            "antonyms": "Inefficiency, Wastefulness, Mismanagement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সর্বোচ্চ কার্যকারিতা অর্জন",
+                    "word_transliteration": "shorbochho karjokaritta orjon",
+                    "example_sentence_translation": "কোম্পানিটি মুনাফা বাড়ানোর জন্য সম্পদের সর্বোচ্চ ব্যবহার নিশ্চিত করতে মনোযোগ দিয়েছে।",
+                    "example_sentence_transliteration": "Kompaniti munafa baranonr jonno shompoder shorbochho bebohaar nishchito korte monojog diyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "logistics",
+            "phonetic": "/ləˈdʒɪs.tɪks/",
+            "word_native_transliteration": {
+                "bn": "লজিস্টিকস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📦",
+            "meaning": "The detailed coordination of a complex operation involving many people, facilities, or supplies.",
+            "example_sentence": "The company improved its logistics to speed up deliveries.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি ইমপ্রুভড ইটস লজিস্টিকস টু স্পিড আপ ডেলিভারিজ।"
+            },
+            "position": 11,
+            "synonyms": "Supply Chain, Coordination, Distribution",
+            "antonyms": "Disorganization, Mismanagement, Inefficiency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সরবরাহ ব্যবস্থাপনা",
+                    "word_transliteration": "shorboraho bebosthapna",
+                    "example_sentence_translation": "কোম্পানিটি সরবরাহ ব্যবস্থাপনা উন্নত করে ডেলিভারি দ্রুত করেছে।",
+                    "example_sentence_transliteration": "Kompaniti shorboraho bebosthapna unnoto kore delivery druto koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "surveillance",
+            "phonetic": "/sɜːˈveɪ.ləns/",
+            "word_native_transliteration": {
+                "bn": "সার্ভেইলান্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👁️",
+            "meaning": "Close observation, especially of a suspected spy or criminal.",
+            "example_sentence": "The government uses surveillance to track cyber threats.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গভর্নমেন্ট ইউজেস সার্ভেইলান্স টু ট্র্যাক সাইবার থ্রেটস।"
+            },
+            "position": 12,
+            "synonyms": "Monitoring, Observation, Supervision",
+            "antonyms": "Privacy, Neglect, Inattention",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পর্যবেক্ষণ",
+                    "word_transliteration": "porjobekshonn",
+                    "example_sentence_translation": "সরকার সাইবার হুমকি পর্যবেক্ষণের জন্য নজরদারি ব্যবহার করে।",
+                    "example_sentence_transliteration": "Shorkar cyber humki porjobekshonenr jonno nojordari bebohaar kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "integration",
+            "phonetic": "/ˌɪn.tɪˈɡreɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ইন্টিগ্রেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔗",
+            "meaning": "The process of combining or adding parts to make a unified whole.",
+            "example_sentence": "The integration of AI in education has transformed learning.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইন্টিগ্রেশন অফ এআই ইন এডুকেশন হ্যাজ ট্রান্সফরমড লার্নিং।"
+            },
+            "position": 13,
+            "synonyms": "Unification, Combination, Merging",
+            "antonyms": "Segregation, Separation, Isolation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একীভূতকরণ",
+                    "word_transliteration": "ekibhutokoronno",
+                    "example_sentence_translation": "শিক্ষায় কৃত্রিম বুদ্ধিমত্তার একীভূতকরণ শিক্ষাকে রূপান্তর করেছে।",
+                    "example_sentence_transliteration": "Shikkhay kritrim buddhimottar ekibhutokoronno shikkhake rupantor koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "equilibrium",
+            "phonetic": "/ˌiː.kwɪˈlɪb.ri.əm/",
+            "word_native_transliteration": {
+                "bn": "ইকুইলিব্রিয়াম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "A state in which opposing forces or influences are balanced.",
+            "example_sentence": "The market reached equilibrium between supply and demand.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য মার্কেট রিচড ইকুইলিব্রিয়াম বিটুইন সাপ্লাই অ্যান্ড ডিমান্ড।"
+            },
+            "position": 14,
+            "synonyms": "Balance, Stability, Steadiness",
+            "antonyms": "Imbalance, Instability, Disproportion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভারসাম্য",
+                    "word_transliteration": "bharshajyo",
+                    "example_sentence_translation": "বাজারে চাহিদা ও সরবরাহের মধ্যে ভারসাম্য প্রতিষ্ঠিত হয়েছে।",
+                    "example_sentence_transliteration": "Bajare chahida o shorbaraher moddhe bharshajyo protishthito hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ergonomic",
+            "phonetic": "/ˌɜː.ɡəˈnɒm.ɪk/",
+            "word_native_transliteration": {
+                "bn": "এরগনমিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🪑",
+            "meaning": "Designed for efficiency and comfort in the working environment.",
+            "example_sentence": "The office chairs are designed to be ergonomic.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অফিস চেয়ারস আর ডিজাইনড টু বি এরগনমিক।"
+            },
+            "position": 15,
+            "synonyms": "Comfortable, User-friendly, Efficient",
+            "antonyms": "Uncomfortable, Inefficient, Awkward",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ব্যবহারকারী-বান্ধব",
+                    "word_transliteration": "beboharkari-bandhob",
+                    "example_sentence_translation": "অফিসের চেয়ারগুলো ব্যবহারকারীদের আরামদায়কভাবে নকশা করা হয়েছে।",
+                    "example_sentence_transliteration": "Offiser cheyargulo beboharkadeer aramdayokbhabe noksha kora hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "retrofitting",
+            "phonetic": "/ˈrɛ.trəʊ.fɪt.ɪŋ/",
+            "word_native_transliteration": {
+                "bn": "রেট্রোফিটিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔧",
+            "meaning": "The addition of new technology or features to older systems.",
+            "example_sentence": "The building underwent retrofitting to meet new safety standards.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য বিল্ডিং আন্ডারওয়েন্ট রেট্রোফিটিং টু মিট নিউ সেফটি স্ট্যান্ডার্ডস।"
+            },
+            "position": 16,
+            "synonyms": "Upgrading, Modification, Renovation",
+            "antonyms": "Degradation, Deterioration, Downgrading",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুরনো কিছু উন্নত করার প্রক্রিয়া",
+                    "word_transliteration": "purono kichu unnoto korar prokriya",
+                    "example_sentence_translation": "নতুন নিরাপত্তা মান বজায় রাখতে ভবনটি আধুনিকীকরণ করা হয়েছে।",
+                    "example_sentence_transliteration": "Notun nirapotta man bojay rakhte bhobonti adhunikirkonno kora hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "viability",
+            "phonetic": "/ˌvaɪ.əˈbɪl.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "ভায়াবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✅",
+            "meaning": "Ability to work successfully; feasibility.",
+            "example_sentence": "The viability of the startup depends on market demand.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ভায়াবিলিটি অফ দ্য স্টার্টআপ ডিপেন্ডস অন মার্কেট ডিমান্ড।"
+            },
+            "position": 17,
+            "synonyms": "Feasibility, Sustainability, Practicality",
+            "antonyms": "Impracticality, Failure, Infeasibility",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কার্যকারিতা",
+                    "word_transliteration": "karjokaritta",
+                    "example_sentence_translation": "স্টার্টআপটির কার্যকারিতা বাজারের চাহিদার উপর নির্ভর করে।",
+                    "example_sentence_transliteration": "Startupotir karjokaritta bajarer chahidar upor nirbhor kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "proliferation",
+            "phonetic": "/prəˌlɪf.əˈreɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "প্রোলিফারেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "Rapid increase in the number or amount of something.",
+            "example_sentence": "The proliferation of smartphones has transformed communication.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রোলিফারেশন অফ স্মার্টফোনস হ্যাজ ট্রান্সফরমড কমিউনিকেশন।"
+            },
+            "position": 18,
+            "synonyms": "Expansion, Growth, Multiplication",
+            "antonyms": "Decline, Reduction, Contraction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্রুত বৃদ্ধি",
+                    "word_transliteration": "druto bridhdhi",
+                    "example_sentence_translation": "স্মার্টফোনের বিস্তার যোগাযোগ ব্যবস্থাকে পরিবর্তন করেছে।",
+                    "example_sentence_transliteration": "Smartphoner bistar jogajog bebosthake poriborton koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "eminent",
+            "phonetic": "/ˈɛm.ɪ.nənt/",
+            "word_native_transliteration": {
+                "bn": "এমিনেন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⭐",
+            "meaning": "Famous and respected within a particular sphere or profession.",
+            "example_sentence": "He is an eminent scientist known for groundbreaking research.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি ইজ অ্যান এমিনেন্ট সাইয়েন্টিস্ট নোন ফর গ্রাউন্ডব্রেকিং রিসার্চ।"
+            },
+            "position": 19,
+            "synonyms": "Distinguished, Renowned, Prominent",
+            "antonyms": "Unknown, Obscure, Ordinary",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিশিষ্ট",
+                    "word_transliteration": "bishishto",
+                    "example_sentence_translation": "তিনি একটি যুগান্তকারী গবেষণার জন্য প্রসিদ্ধ বিজ্ঞানী।",
+                    "example_sentence_transliteration": "Tini ekti jugantokari gobeshonnar jonno proshiddho bigyani.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

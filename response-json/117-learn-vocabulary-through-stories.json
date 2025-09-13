@@ -1,0 +1,445 @@
+{
+    "position": 117,
+    "title_translation": {
+        "en": "How Family Traditions Shape Values",
+        "bn": "পারিবারিক ঐতিহ্য কীভাবে মূল্যবোধ গঠন করে"
+    },
+    "content_translation": {
+        "en": "Family **heritage** is not just limited to culture or traditions and customs, but it plays an important role in shaping our values. The **ethos** and education learned in the family become an **intrinsic** part of our personality, which flows through to the next **progeny**.\n\nSpecially, **intergenerational** education helps maintain **cohesion** in our society. Traditional beliefs and values are **disseminated** through parents and grandparents, which creates **resonance** in the mentality of the next generation.\n\nIn many families, **pedagogy** and behavioral rules are considered **axiomatic**, which teaches **conformity** and **deference**. Again, some families encourage **egalitarian** values to be **imbibed**, where the importance of equal rights exists. Through this process, families not only **perpetuate** values, but also teach future generations morality, honesty and **fidelity**. Proper family education helps make people socially responsible and creates positive **resonance** in their behavior.",
+        "bn": "পারিবারের **heritage** শুধু সংস্কৃতি বা আচার-অনুষ্ঠানে সীমাবদ্ধ নয়, বরং এটি আমাদের মূল্যবোধ গঠনে গুরুত্বপূর্ণ ভূমিকা রাখে। পরিবারে শেখানো **ethos** এবং শিক্ষা আমাদের ব্যক্তিত্বের **intrinsic** অংশ হয়ে যায়, যা পরবর্তী **progeny**-র মধ্যেও প্রবাহিত হয়।\n\nবিশেষত, **intergenerational** শিক্ষা আমাদের সমাজের **cohesion** বজায় রাখতে সাহায্য করে। বাবা-মা ও দাদা-দাদির মাধ্যমে ঐতিহ্যগত বিশ্বাস ও মূল্যবোধ **dissemination** হয়, যা পরবর্তী প্রজন্মের মানসিকতায় **resonance** তৈরি করে।\n\nঅনেক পরিবারে **pedagogy** ও আচরণগত নিয়ম মেনে চলা **axiomatic** হিসেবে ধরা হয়, যা **conformity** এবং **deference** শেখায়। আবার কিছু পরিবার **egalitarian** মূল্যবোধ **imbibe** করতে উৎসাহিত করে, যেখানে সমানাধিকারের গুরুত্ব রয়েছে। এই প্রক্রিয়ার মাধ্যমে পরিবার শুধু মূল্যবোধ **perpetuate** করে না, বরং ভবিষ্যৎ প্রজন্মকে নৈতিকতা, সততা এবং **fidelity** শেখায়। সঠিক পারিবারিক শিক্ষা মানুষকে সামাজিকভাবে দায়িত্বশীল করতে সাহায্য করে এবং তাদের আচরণে ইতিবাচক **resonance** সৃষ্টি করে।"
+    },
+    "list": [
+        {
+            "word": "heritage",
+            "phonetic": "ˈher.ɪ.tɪdʒ",
+            "word_native_transliteration": {
+                "bn": "হেরিটেজ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏛️",
+            "meaning": "Property that is or may be inherited; an inheritance. Features belonging to the culture of a particular society.",
+            "example_sentence": "The ancient temples are part of the country's rich heritage.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এনশিয়েন্ট টেম্পলস আর পার্ট অব দ্য কান্ট্রিজ রিচ হেরিটেজ।"
+            },
+            "position": 1,
+            "synonyms": "legacy, tradition, inheritance",
+            "antonyms": "modernity, novelty, dispossession",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ঐতিহ্য, সম্পদ, উত্তরাধিকার",
+                    "word_transliteration": "oitihhyo, shompod, uttaradhikar",
+                    "example_sentence_translation": "প্রাচীন মন্দিরগুলো দেশের সমৃদ্ধ হেরিটেজের অংশ।",
+                    "example_sentence_transliteration": "Prachin mondirguloo desher shomriddho heritage-er ongsho.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ethos",
+            "phonetic": "ˈiː.θɒs",
+            "word_native_transliteration": {
+                "bn": "ইথস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "The characteristic spirit of a culture, era, or community as manifested in its beliefs and aspirations.",
+            "example_sentence": "The company's ethos is built on innovation and integrity.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানিজ ইথস ইজ বিল্ট অন ইনোভেশন এন্ড ইন্টিগ্রিটি।"
+            },
+            "position": 2,
+            "synonyms": "values, spirit, ideology",
+            "antonyms": "corruption, dishonor, unprincipled",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আদর্শ, নীতি, মূল বিশ্বাস",
+                    "word_transliteration": "adorsho, neeti, mool bishwash",
+                    "example_sentence_translation": "কোম্পানির ইথস উদ্ভাবন এবং সততার উপর ভিত্তি করে গঠিত।",
+                    "example_sentence_transliteration": "Companir ethos udbhabon ebong shottar upor bhitti kore gothito.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "intrinsic",
+            "phonetic": "ɪnˈtrɪn.zɪk",
+            "word_native_transliteration": {
+                "bn": "ইনট্রিনসিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔗",
+            "meaning": "Belonging naturally; essential. Existing as a natural or basic part of something.",
+            "example_sentence": "Creativity is an intrinsic quality of a great artist.",
+            "example_sentence_native_transliteration": {
+                "bn": "ক্রিয়েটিভিটি ইজ এন ইনট্রিনসিক কোয়ালিটি অব এ গ্রেট আর্টিস্ট।"
+            },
+            "position": 3,
+            "synonyms": "inherent, essential, innate",
+            "antonyms": "extrinsic, superficial, incidental",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বাভাবিক, অন্তর্নিহিত, সহজাত",
+                    "word_transliteration": "shvabhabik, ontornihito, shohjat",
+                    "example_sentence_translation": "সৃজনশীলতা একজন মহান শিল্পীর ইনট্রিনসিক গুণ।",
+                    "example_sentence_transliteration": "Srijonshilota ekjon mohan shilpir intrinsic gun.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "progeny",
+            "phonetic": "ˈprɒdʒ.ə.ni",
+            "word_native_transliteration": {
+                "bn": "প্রজেনি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👶",
+            "meaning": "A descendant or the descendants of a person, animal, or plant; offspring.",
+            "example_sentence": "The philosopher's teachings have influenced many generations of progeny.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফিলোসোফারস টিচিংস হ্যাভ ইনফ্লুয়েন্সড মেনি জেনারেশনস অব প্রজেনি।"
+            },
+            "position": 4,
+            "synonyms": "descendants, offspring, heirs",
+            "antonyms": "ancestors, forebears, predecessors",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বংশধর, সন্তান, উত্তরাধিকারী",
+                    "word_transliteration": "bongshoder, shontan, uttaradhikari",
+                    "example_sentence_translation": "দার্শনিকের শিক্ষা বহু প্রজন্মের প্রজেনিকে প্রভাবিত করেছে।",
+                    "example_sentence_transliteration": "Darshoniker shikkha bohu projonmer projenike probhabito koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "intergenerational",
+            "phonetic": "ˌɪn.tə.dʒen.əˈreɪ.ʃən.əl",
+            "word_native_transliteration": {
+                "bn": "ইন্টারজেনারেশনাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔗",
+            "meaning": "Existing or occurring between different generations of a family.",
+            "example_sentence": "Intergenerational wisdom ensures cultural continuity.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইন্টারজেনারেশনাল উইজডম এনশুরস কালচারাল কন্টিনিউটি।"
+            },
+            "position": 5,
+            "synonyms": "cross-generational, hereditary, ancestral",
+            "antonyms": "isolated, individual, non-heritable",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আন্তঃপ্রজন্ম, একাধিক প্রজন্ম জুড়ে",
+                    "word_transliteration": "antohprojonmo, ekadhik projonmo jure",
+                    "example_sentence_translation": "ইন্টারজেনারেশনাল জ্ঞান সাংস্কৃতিক ধারাবাহিকতা নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Intergenerational gyan sangskritik dharabahikota nishchito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cohesion",
+            "phonetic": "kəʊˈhiː.ʒən",
+            "word_native_transliteration": {
+                "bn": "কোহেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "The action or fact of forming a united whole. Unity and togetherness.",
+            "example_sentence": "Social cohesion is necessary for a peaceful society.",
+            "example_sentence_native_transliteration": {
+                "bn": "সোশ্যাল কোহেশন ইজ নেসেসারি ফর এ পিসফুল সোসাইটি।"
+            },
+            "position": 6,
+            "synonyms": "unity, bond, solidarity",
+            "antonyms": "disunity, fragmentation, division",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংহতি, ঐক্য, সংযুক্তি",
+                    "word_transliteration": "songhoti, oikkyo, sonyukti",
+                    "example_sentence_translation": "সামাজিক কোহেশন একটি শান্তিপূর্ণ সমাজের জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Shamajik cohesion ekti shantipurno shomajor jonno oporiharyyo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dissemination",
+            "phonetic": "dɪˌsem.ɪˈneɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ডিসেমিনেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📡",
+            "meaning": "The action or fact of spreading something, especially information, widely.",
+            "example_sentence": "The dissemination of knowledge is crucial for development.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডিসেমিনেশন অব নলেজ ইজ ক্রুশিয়াল ফর ডেভেলপমেন্ট।"
+            },
+            "position": 7,
+            "synonyms": "distribution, circulation, propagation",
+            "antonyms": "suppression, withholding, concealment",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রচার, বিস্তার, ছড়িয়ে দেওয়া",
+                    "word_transliteration": "prochar, bistaar, choriye deoya",
+                    "example_sentence_translation": "জ্ঞানের ডিসেমিনেশন উন্নয়নের জন্য অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Gyaner dissemination unnoynor jonno otyonto guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "resonance",
+            "phonetic": "ˈrez.ən.əns",
+            "word_native_transliteration": {
+                "bn": "রেজোন্যান্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔊",
+            "meaning": "The quality in a sound of being deep, full, and reverberating. A deep effect or influence.",
+            "example_sentence": "His speech had a strong resonance among the audience.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ স্পিচ হ্যাড এ স্ট্রং রেজোন্যান্স অ্যামং দ্য অডিয়েন্স।"
+            },
+            "position": 8,
+            "synonyms": "reverberation, echo, impact",
+            "antonyms": "dissonance, mismatch, weakness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিধ্বনি, প্রতিক্রিয়া, সংবেদনশীলতা",
+                    "word_transliteration": "protidhoni, protikria, songbedonshilota",
+                    "example_sentence_translation": "তার বক্তৃতা দর্শকদের মধ্যে গভীর রেজোন্যান্স সৃষ্টি করেছিল।",
+                    "example_sentence_transliteration": "Tar boktritta dorshokder moddhe gobhir resonance srishti korechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pedagogy",
+            "phonetic": "ˈped.ə.ɡɒdʒ.i",
+            "word_native_transliteration": {
+                "bn": "পেডাগজি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎓",
+            "meaning": "The method and practice of teaching, especially as an academic subject or theoretical concept.",
+            "example_sentence": "Modern pedagogy focuses on student-centered learning.",
+            "example_sentence_native_transliteration": {
+                "bn": "মডার্ন পেডাগজি ফোকাসেস অন স্টুডেন্ট সেন্টার্ড লার্নিং।"
+            },
+            "position": 9,
+            "synonyms": "teaching, instruction, educational method",
+            "antonyms": "misinstruction, misdirection, ignorance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শিক্ষাবিজ্ঞান, শিক্ষাদান পদ্ধতি",
+                    "word_transliteration": "shikkhavigyan, shikkhadon poddhoti",
+                    "example_sentence_translation": "আধুনিক পেডাগজি শিক্ষার্থীকেন্দ্রিক শিক্ষাদানে গুরুত্ব দেয়।",
+                    "example_sentence_transliteration": "Adhunik pedagogy shikkharthikendrik shikkhadan-e guruttwo dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "axiomatic",
+            "phonetic": "ˌæk.si.əˈmæt.ɪk",
+            "word_native_transliteration": {
+                "bn": "অ্যাক্সিওমেটিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "✅",
+            "meaning": "Self-evident or unquestionable. Obviously true and therefore not needing to be proved.",
+            "example_sentence": "It is axiomatic that hard work leads to success.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইট ইজ অ্যাক্সিওমেটিক দ্যাট হার্ড ওয়ার্ক লিডস টু সাকসেস।"
+            },
+            "position": 10,
+            "synonyms": "self-evident, indisputable, unquestionable",
+            "antonyms": "questionable, doubtful, uncertain",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বতঃসিদ্ধ, প্রতীয়মান, অসন্দেহজনক",
+                    "word_transliteration": "shotohsiddho, protiyoman, oshondehjjnok",
+                    "example_sentence_translation": "এটি অ্যাক্সিওমেটিক যে কঠোর পরিশ্রম সফলতার দিকে নিয়ে যায়।",
+                    "example_sentence_transliteration": "Eti axiomatic je kothor porishrom shofolotar dike niye jay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "conformity",
+            "phonetic": "kənˈfɔː.mə.ti",
+            "word_native_transliteration": {
+                "bn": "কনফর্মিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👥",
+            "meaning": "Compliance with standards, rules, or laws. Behavior in accordance with socially accepted conventions.",
+            "example_sentence": "Strict conformity to the rules ensures order in society.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্ট্রিক্ট কনফর্মিটি টু দ্য রুলস এনশুরস অর্ডার ইন সোসাইটি।"
+            },
+            "position": 11,
+            "synonyms": "compliance, adherence, conventionality",
+            "antonyms": "rebellion, deviation, dissent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনুগততা, সামঞ্জস্য, অনুসরণ",
+                    "word_transliteration": "anugotota, shamnjosyo, anushoron",
+                    "example_sentence_translation": "নিয়মের প্রতি কঠোর কনফর্মিটি সমাজে শৃঙ্খলা নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Niyemer proti kothor conformity shomaje shringkhola nishchito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "deference",
+            "phonetic": "ˈdef.ər.əns",
+            "word_native_transliteration": {
+                "bn": "ডেফারেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🙏",
+            "meaning": "Humble submission and respect. Polite submission and respect.",
+            "example_sentence": "The student spoke with deference to his professor.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্টুডেন্ট স্পোক উইথ ডেফারেন্স টু হিজ প্রফেসর।"
+            },
+            "position": 12,
+            "synonyms": "respect, reverence, courtesy",
+            "antonyms": "disrespect, defiance, disregard",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শ্রদ্ধা, নম্রতা, বিনয়",
+                    "word_transliteration": "shrddha, nomrota, binoy",
+                    "example_sentence_translation": "শিক্ষার্থী তার অধ্যাপকের প্রতি ডেফারেন্স সহকারে কথা বলল।",
+                    "example_sentence_transliteration": "Shikkharthi tar odhyapokr proti deference shohkare kotha bollo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "egalitarian",
+            "phonetic": "ɪˌɡæl.ɪˈteə.ri.ən",
+            "word_native_transliteration": {
+                "bn": "ইগ্যালিটারিয়ান"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚖️",
+            "meaning": "Believing in or based on the principle that all people are equal and deserve equal rights and opportunities.",
+            "example_sentence": "The new law promotes an egalitarian society.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিউ ল প্রমোটস এন ইগ্যালিটারিয়ান সোসাইটি।"
+            },
+            "position": 13,
+            "synonyms": "democratic, fair, impartial",
+            "antonyms": "elitist, hierarchical, unequal",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সাম্যের ভিত্তিতে, সমানাধিকারের প্রবক্তা",
+                    "word_transliteration": "shamyer bhittite, shomanadikarer probokta",
+                    "example_sentence_translation": "নতুন আইন একটি ইগ্যালিটারিয়ান সমাজ গঠনে সহায়তা করে।",
+                    "example_sentence_transliteration": "Notun ain ekti egalitarian shomaj gothone sahayota kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "imbibe",
+            "phonetic": "ɪmˈbaɪb",
+            "word_native_transliteration": {
+                "bn": "ইমবাইব"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🧠",
+            "meaning": "Absorb or assimilate ideas or knowledge. To drink or take in.",
+            "example_sentence": "He tried to imbibe the wisdom from his mentor.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি ট্রাইড টু ইমবাইব দ্য উইজডম ফ্রম হিজ মেন্টর।"
+            },
+            "position": 14,
+            "synonyms": "absorb, assimilate, ingest",
+            "antonyms": "reject, expel, dispel",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গ্রহণ করা, আত্মস্থ করা, শোষণ করা",
+                    "word_transliteration": "groho kora, attmostho kora, shoshon kora",
+                    "example_sentence_translation": "তিনি তার পরামর্শদাতার কাছ থেকে জ্ঞান ইমবাইব করার চেষ্টা করলেন।",
+                    "example_sentence_transliteration": "Tini tar poramersdatar kach theke gyan imbibe korar cheshta korlen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "perpetuate",
+            "phonetic": "pəˈpetʃ.u.eɪt",
+            "word_native_transliteration": {
+                "bn": "পারপেচুয়েট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔄",
+            "meaning": "Make something continue indefinitely. To preserve from extinction or oblivion.",
+            "example_sentence": "Discrimination should not be perpetuated in modern society.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিসক্রিমিনেশন শুড নট বি পারপেচুয়েটেড ইন মডার্ন সোসাইটি।"
+            },
+            "position": 15,
+            "synonyms": "sustain, maintain, prolong",
+            "antonyms": "cease, halt, terminate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চিরস্থায়ী করা, দীর্ঘস্থায়ী করা",
+                    "word_transliteration": "chirsthayi kora, dirghosthayi kora",
+                    "example_sentence_translation": "আধুনিক সমাজে বৈষম্য পারপেচুয়েট করা উচিত নয়।",
+                    "example_sentence_transliteration": "Adhunik shomaje boishomyo perpetuate kora uchit noy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fidelity",
+            "phonetic": "fɪˈdel.ə.ti",
+            "word_native_transliteration": {
+                "bn": "ফিডেলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💎",
+            "meaning": "Faithfulness to a person, cause, or belief, demonstrated by continuing loyalty and support.",
+            "example_sentence": "His fidelity to his principles was unwavering.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ফিডেলিটি টু হিজ প্রিন্সিপলস ওয়াজ আনওয়েভারিং।"
+            },
+            "position": 16,
+            "synonyms": "loyalty, devotion, faithfulness",
+            "antonyms": "betrayal, infidelity, disloyalty",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিশ্বস্ততা, নিষ্ঠা, আনুগত্য",
+                    "word_transliteration": "bishwostota, nishtha, anugotywo",
+                    "example_sentence_translation": "তার নীতির প্রতি ফিডেলিটি অটল ছিল।",
+                    "example_sentence_transliteration": "Tar neetir proti fidelity otol chilo.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

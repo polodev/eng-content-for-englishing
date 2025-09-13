@@ -1,0 +1,526 @@
+{
+    "position": 116,
+    "title_translation": {
+        "en": "How Exercise Improves Brain Function",
+        "bn": "কিভাবে ব্যায়াম মস্তিষ্কের কার্যক্ষমতা বৃদ্ধি করে"
+    },
+    "content_translation": {
+        "en": "Physical exercise is not only for maintaining bodily health, but it also improves **cognition** and **cerebral** function. Research has shown that **vigorous** exercise increases the secretion of **endorphins** in the brain, which reduces mental stress and **invigorates** the mind.\n\nRegular exercise accelerates **neurogenesis**, resulting in the formation of new **synaptic** connections. This increases memory power and learning **proficiency**. As **neuroplasticity** increases, the brain can adapt to new challenges and develop **divergent** thinking.\n\nPhysical **exertion** is not just for **holistic** health, but through the process of **optimization**, it also increases **agility** and **adeptness**. Various **stimuli** keep the brain more active and **rejuvenate** it, which increases **perseverance** and mental stability.\n\nTherefore, exercise is not just physical capability, but is essential for brain **enhancement** and skill development.",
+        "bn": "শরীরচর্চা শুধু শারীরিক সুস্থতার জন্য নয়, এটি **cognition** এবং **cerebral** কার্যক্ষমতাও উন্নত করে। গবেষণায় দেখা গেছে, **vigorous** ব্যায়াম মস্তিষ্কে **endorphins** ক্ষরণ বাড়ায়, যা মানসিক চাপ কমায় এবং মনকে **invigorate** করে।\n\nনিয়মিত ব্যায়াম **neurogenesis** ত্বরান্বিত করে, যার ফলে নতুন **synaptic** সংযোগ তৈরি হয়। এটি স্মৃতিশক্তি এবং শেখার **proficiency** বাড়ায়। **Neuroplasticity** বৃদ্ধির ফলে, মস্তিষ্ক নতুন চ্যালেঞ্জের সঙ্গে মানিয়ে নিতে পারে এবং **divergent** চিন্তাভাবনার বিকাশ ঘটে।\n\nশারীরিক **exertion** শুধু **holistic** স্বাস্থ্যের জন্য নয়, বরং এটি **optimization** প্রক্রিয়ার মাধ্যমে **agility** ও **adeptness** বাড়ায়। বিভিন্ন **stimuli** মস্তিষ্ককে আরও সক্রিয় রাখে এবং **rejuvenate** করে, যা **perseverance** ও মানসিক স্থিতিশীলতা বৃদ্ধি করে।\n\nঅতএব, ব্যায়াম শুধুমাত্র শারীরিক সক্ষমতা নয়, এটি মস্তিষ্কের **enhancement** এবং দক্ষতা বৃদ্ধির জন্য অপরিহার্য।"
+    },
+    "list": [
+        {
+            "word": "cognition",
+            "phonetic": "/kɒɡˈnɪʃ.ən/",
+            "word_native_transliteration": {
+                "bn": "কগনিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧠",
+            "meaning": "The mental process of learning, remembering, and problem-solving.",
+            "example_sentence": "Sleep is essential for proper cognition and memory retention.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্লিপ ইজ এসেনশিয়াল ফর প্রপার কগনিশন অ্যান্ড মেমোরি রিটেনশন।"
+            },
+            "position": 1,
+            "synonyms": "awareness, perception, understanding",
+            "antonyms": "ignorance, unawareness, misunderstanding",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জ্ঞান বা বুদ্ধিবৃত্তিক প্রক্রিয়া",
+                    "word_transliteration": "gyan ba buddhibrittik prokriya",
+                    "example_sentence_translation": "সঠিক জ্ঞানীয় কার্যক্রম ও স্মৃতিশক্তির জন্য ঘুম অপরিহার্য।",
+                    "example_sentence_transliteration": "Sothik gyaniyo karyokrom o smritishaktir jonno ghum oporihurjyo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cerebral",
+            "phonetic": "/ˈsɛr.ɪ.brəl/",
+            "word_native_transliteration": {
+                "bn": "সেরিব্রাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧠",
+            "meaning": "Related to brain function or deep thinking.",
+            "example_sentence": "The book is highly cerebral, requiring deep analysis.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য বুক ইজ হাইলি সেরিব্রাল, রিকোয়ারিং দিপ অ্যানালিসিস।"
+            },
+            "position": 2,
+            "synonyms": "intellectual, rational, analytical",
+            "antonyms": "emotional, instinctive, unthinking",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মস্তিষ্কসংক্রান্ত বা বুদ্ধিবৃত্তিক",
+                    "word_transliteration": "mostishkosongkranto ba buddhibrittik",
+                    "example_sentence_translation": "বইটি অত্যন্ত বুদ্ধিবৃত্তিক, যা গভীর বিশ্লেষণ প্রয়োজন।",
+                    "example_sentence_transliteration": "Boiti otyonto buddhibrittik, ja gobhir bishleshon proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "vigorous",
+            "phonetic": "/ˈvɪɡ.ər.əs/",
+            "word_native_transliteration": {
+                "bn": "ভিগারাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💪",
+            "meaning": "Characterized by high energy and vitality.",
+            "example_sentence": "Regular exercise keeps the body vigorous and healthy.",
+            "example_sentence_native_transliteration": {
+                "bn": "রেগুলার এক্সারসাইজ কিপস দ্য বডি ভিগারাস অ্যান্ড হেলদি।"
+            },
+            "position": 3,
+            "synonyms": "energetic, strong, dynamic",
+            "antonyms": "weak, feeble, lethargic",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্যমী বা শক্তিশালী",
+                    "word_transliteration": "udyomi ba shaktishali",
+                    "example_sentence_translation": "নিয়মিত ব্যায়াম শরীরকে উদ্যমী ও সুস্থ রাখে।",
+                    "example_sentence_transliteration": "Niyomito byayam shorirke udyomi o sustho rakhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "endorphins",
+            "phonetic": "/ɛnˈdɔːr.fɪnz/",
+            "word_native_transliteration": {
+                "bn": "এন্ডোরফিনস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "😊",
+            "meaning": "Chemical compounds produced by the brain that reduce pain and create feelings of happiness.",
+            "example_sentence": "Exercise releases endorphins, reducing stress and pain.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সারসাইজ রিলিজেস এন্ডোরফিনস, রিডিউসিং স্ট্রেস অ্যান্ড পেইন।"
+            },
+            "position": 4,
+            "synonyms": "feel-good hormones, neurotransmitters, pain relievers",
+            "antonyms": "stress hormones, anxiety triggers, depression-inducing chemicals",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সুখ-উদ্দীপক হরমোন",
+                    "word_transliteration": "shukh-uddipok hormon",
+                    "example_sentence_translation": "ব্যায়াম এন্ডোরফিন নিঃসরণ ঘটায়, যা চাপ ও ব্যথা কমায়।",
+                    "example_sentence_transliteration": "Byayam endorphin nihsoron ghotay, ja chap o bytha komay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "invigorate",
+            "phonetic": "/ɪnˈvɪɡ.ə.reɪt/",
+            "word_native_transliteration": {
+                "bn": "ইনভিগোরেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⚡",
+            "meaning": "To give someone or something new energy and vitality.",
+            "example_sentence": "A good night's sleep will invigorate your mind and body.",
+            "example_sentence_native_transliteration": {
+                "bn": "আ গুড নাইটস স্লিপ উইল ইনভিগোরেট ইয়োর মাইন্ড অ্যান্ড বডি।"
+            },
+            "position": 5,
+            "synonyms": "energize, refresh, stimulate",
+            "antonyms": "weaken, exhaust, drain",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্দীপিত করা বা শক্তিশালী করা",
+                    "word_transliteration": "uddipit kora ba shaktishali kora",
+                    "example_sentence_translation": "ভালো ঘুম মন ও শরীরকে উদ্দীপিত করবে।",
+                    "example_sentence_transliteration": "Bhalo ghum mon o shorirke uddipit korbe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "neurogenesis",
+            "phonetic": "/ˌnjʊə.rəʊˈdʒɛn.ɪ.sɪs/",
+            "word_native_transliteration": {
+                "bn": "নিউরোজেনেসিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧬",
+            "meaning": "The process of forming new nerve cells in the brain.",
+            "example_sentence": "Scientists are studying neurogenesis to understand brain health.",
+            "example_sentence_native_transliteration": {
+                "bn": "সায়েন্টিস্টস আর স্টাডিয়িং নিউরোজেনেসিস টু আন্ডারস্ট্যান্ড ব্রেইন হেল্থ।"
+            },
+            "position": 6,
+            "synonyms": "brain cell growth, neural formation, cognitive development",
+            "antonyms": "neural degeneration, brain atrophy, cell death",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নতুন নিউরন সৃষ্টির প্রক্রিয়া",
+                    "word_transliteration": "notun neuron srishtir prokriya",
+                    "example_sentence_translation": "বিজ্ঞানীরা মস্তিষ্কের স্বাস্থ্য বোঝার জন্য নিউরোজেনেসিস নিয়ে গবেষণা করছেন।",
+                    "example_sentence_transliteration": "Bigganira mostishker shasthyo bojhar jonno neurogenesis niye gobeshona korchhen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "synaptic",
+            "phonetic": "/sɪˈnæp.tɪk/",
+            "word_native_transliteration": {
+                "bn": "সিন্যাপটিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔗",
+            "meaning": "Related to the signal transmission process between nerve cells.",
+            "example_sentence": "Learning strengthens synaptic connections in the brain.",
+            "example_sentence_native_transliteration": {
+                "bn": "লার্নিং স্ট্রেংথেনস সিন্যাপটিক কানেকশনস ইন দ্য ব্রেইন।"
+            },
+            "position": 7,
+            "synonyms": "neural, neurochemical, transmission-related",
+            "antonyms": "non-neural, unconnected, non-functional",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্নায়বিক সংযোগ সম্পর্কিত",
+                    "word_transliteration": "snayobik songojog somporkito",
+                    "example_sentence_translation": "শেখার মাধ্যমে মস্তিষ্কের স্নায়বিক সংযোগ দৃঢ় হয়।",
+                    "example_sentence_transliteration": "Shekhar madhyome mostishker snayobik songojog dridho hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "proficiency",
+            "phonetic": "/prəˈfɪʃ.ən.si/",
+            "word_native_transliteration": {
+                "bn": "প্রোফিশিয়েন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "High level of skill in a specific task.",
+            "example_sentence": "His proficiency in coding helped him land a great job.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ প্রোফিশিয়েন্সি ইন কোডিং হেল্পড হিম ল্যান্ড আ গ্রেট জব।"
+            },
+            "position": 8,
+            "synonyms": "expertise, competence, mastery",
+            "antonyms": "incompetence, inefficiency, ineptitude",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষতা বা পারদর্শিতা",
+                    "word_transliteration": "dokkhota ba parodorshita",
+                    "example_sentence_translation": "কোডিংয়ে তার দক্ষতা তাকে একটি ভালো চাকরি পেতে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Kodingye tar dokkhota take ekti bhalo chakri pete sahajyo koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "neuroplasticity",
+            "phonetic": "/ˌnjʊə.rəʊ.plæsˈtɪ.sɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "নিউরোপ্লাস্টিসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The brain's ability to change its structure through experience or learning.",
+            "example_sentence": "Meditation enhances neuroplasticity, improving memory and focus.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেডিটেশন এনহান্সেস নিউরোপ্লাস্টিসিটি, ইমপ্রুভিং মেমোরি অ্যান্ড ফোকাস।"
+            },
+            "position": 9,
+            "synonyms": "brain adaptability, cognitive flexibility, neural rewiring",
+            "antonyms": "neural rigidity, cognitive decline, fixed brain structure",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মস্তিষ্কের অভিযোজন ক্ষমতা",
+                    "word_transliteration": "mostishker obhijojoner khomota",
+                    "example_sentence_translation": "ধ্যান নিউরোপ্লাস্টিসিটি বৃদ্ধি করে, যা স্মৃতি ও মনোযোগ উন্নত করে।",
+                    "example_sentence_transliteration": "Dhyan neuroplasticity briddhi kore, ja smriti o monojog unnoto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "divergent",
+            "phonetic": "/daɪˈvɜː.dʒənt/",
+            "word_native_transliteration": {
+                "bn": "ডাইভার্জেন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔀",
+            "meaning": "Different from normal trends or paths.",
+            "example_sentence": "Their divergent opinions led to an interesting discussion.",
+            "example_sentence_native_transliteration": {
+                "bn": "দেয়ার ডাইভার্জেন্ট ওপিনিয়নস লেড টু অ্যান ইন্টারেস্টিং ডিসকাশন।"
+            },
+            "position": 10,
+            "synonyms": "differing, contrasting, deviating",
+            "antonyms": "convergent, similar, aligned",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিচ্ছিন্ন বা ভিন্নমুখী",
+                    "word_transliteration": "bichchhinno ba bhinnomukhi",
+                    "example_sentence_translation": "তাদের ভিন্নমুখী মতামত একটি আকর্ষণীয় আলোচনা সৃষ্টি করেছিল।",
+                    "example_sentence_transliteration": "Tader bhinnomukhi motamot ekti akorshoniyo alochona srishti korechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "exertion",
+            "phonetic": "/ɪɡˈzɜːr.ʃən/",
+            "word_native_transliteration": {
+                "bn": "এক্সারশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💨",
+            "meaning": "Using energy or effort to achieve something.",
+            "example_sentence": "Excessive exertion can lead to fatigue and burnout.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সেসিভ এক্সারশন ক্যান লিড টু ফ্যাটিগ অ্যান্ড বার্নআউট।"
+            },
+            "position": 11,
+            "synonyms": "effort, strain, labor",
+            "antonyms": "relaxation, rest, inactivity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শারীরিক বা মানসিক পরিশ্রম",
+                    "word_transliteration": "sharirik ba manoshik porishrom",
+                    "example_sentence_translation": "অতিরিক্ত পরিশ্রম ক্লান্তি এবং অবসাদ সৃষ্টি করতে পারে।",
+                    "example_sentence_transliteration": "Otiriekto porishrom klanti ebong obsad srishti korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "holistic",
+            "phonetic": "/həʊˈlɪs.tɪk/",
+            "word_native_transliteration": {
+                "bn": "হলিস্টিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌍",
+            "meaning": "Considering the entire system together.",
+            "example_sentence": "A holistic approach to health includes both physical and mental well-being.",
+            "example_sentence_native_transliteration": {
+                "bn": "আ হলিস্টিক এপ্রোচ টু হেল্থ ইনক্লুডস বোথ ফিজিক্যাল অ্যান্ড মেন্টাল ওয়েল-বিং।"
+            },
+            "position": 12,
+            "synonyms": "comprehensive, integrated, all-encompassing",
+            "antonyms": "fragmented, partial, incomplete",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সমগ্রগত বা সামগ্রিক দৃষ্টিভঙ্গি",
+                    "word_transliteration": "somoggrogoto ba shamogrik drishtibhongi",
+                    "example_sentence_translation": "স্বাস্থ্যের একটি সামগ্রিক পদ্ধতি শারীরিক ও মানসিক সুস্থতাকে অন্তর্ভুক্ত করে।",
+                    "example_sentence_transliteration": "Shasthoyer ekti shamogrik poddoti sharirik o manoshik susthota ke ontorbhukto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "optimization",
+            "phonetic": "/ˌɒp.tɪ.mɪˈzeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "অপটিমাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚙️",
+            "meaning": "Achieving maximum efficiency or improvement.",
+            "example_sentence": "The company focused on optimization of resources to maximize profits.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি ফোকাসড অন অপটিমাইজেশন অব রিসোর্সেস টু ম্যাক্সিমাইজ প্রফিটস।"
+            },
+            "position": 13,
+            "synonyms": "improvement, enhancement, refinement",
+            "antonyms": "inefficiency, wastefulness, mismanagement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সর্বোচ্চ কার্যকারিতা অর্জন",
+                    "word_transliteration": "sorbochchho karyokarita orjon",
+                    "example_sentence_translation": "কোম্পানিটি মুনাফা বাড়াতে সম্পদের সর্বোচ্চ ব্যবহার নিশ্চিত করতে মনোযোগ দিয়েছে।",
+                    "example_sentence_transliteration": "Kompaniti munafa barate shompoder sorbochchho byobohar nishchito korte monojog diyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "agility",
+            "phonetic": "/əˈdʒɪl.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "এজিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤸",
+            "meaning": "Ability to work quickly and easily, both physically and mentally.",
+            "example_sentence": "Mental agility is essential for problem-solving.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেন্টাল এজিলিটি ইজ এসেনশিয়াল ফর প্রবলেম-সলভিং।"
+            },
+            "position": 14,
+            "synonyms": "nimbleness, quickness, flexibility",
+            "antonyms": "rigidity, slowness, stiffness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চটপটতা বা দ্রুত প্রতিক্রিয়া ক্ষমতা",
+                    "word_transliteration": "chotpotota ba druto protikriya khomota",
+                    "example_sentence_translation": "সমস্যা সমাধানের জন্য মানসিক চটপটতা অপরিহার্য।",
+                    "example_sentence_transliteration": "Shomoshya shomadhaner jonno manoshik chotpotota oporiharyyo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "adeptness",
+            "phonetic": "/əˈdɛpt.nəs/",
+            "word_native_transliteration": {
+                "bn": "এডেপ্টনেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏆",
+            "meaning": "Skill and dexterity in a task.",
+            "example_sentence": "His adeptness in negotiations helped close the deal successfully.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ এডেপ্টনেস ইন নেগোসিয়েশনস হেল্পড ক্লোজ দ্য ডিল সাকসেসফুলি।"
+            },
+            "position": 15,
+            "synonyms": "skillfulness, expertise, proficiency",
+            "antonyms": "incompetence, inefficiency, clumsiness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষতা বা পারদর্শিতা",
+                    "word_transliteration": "dokkhota ba parodorshita",
+                    "example_sentence_translation": "আলোচনায় তার দক্ষতা চুক্তি সফলভাবে সম্পন্ন করতে সহায়তা করেছে।",
+                    "example_sentence_transliteration": "Alochonay tar dokkhota chukthi sopholvabe shomponna korte shahayata koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "stimuli",
+            "phonetic": "/ˈstɪm.jʊ.laɪ/",
+            "word_native_transliteration": {
+                "bn": "স্টিমুলাই"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "Things that create reactions or provide motivation.",
+            "example_sentence": "Bright light and loud sounds are common stimuli for alertness.",
+            "example_sentence_native_transliteration": {
+                "bn": "ব্রাইট লাইট অ্যান্ড লাউড সাউন্ডস আর কমন স্টিমুলাই ফর অ্যালার্টনেস।"
+            },
+            "position": 16,
+            "synonyms": "triggers, incentives, impulses",
+            "antonyms": "suppressors, inhibitors, deterrents",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্দীপক বা প্রভাবক",
+                    "word_transliteration": "uddipok ba probhabbok",
+                    "example_sentence_translation": "উজ্জ্বল আলো এবং উচ্চ শব্দ সাধারণত সতর্ক থাকার জন্য উদ্দীপক হিসেবে কাজ করে।",
+                    "example_sentence_transliteration": "Ujjol alo ebong uchcho shobdo sadharonoto shotorko thakar jonno uddipok hishebe kaj kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "rejuvenate",
+            "phonetic": "/rɪˈdʒuː.və.neɪt/",
+            "word_native_transliteration": {
+                "bn": "রিজুভেনেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🌱",
+            "meaning": "To give new energy or vitality.",
+            "example_sentence": "A weekend getaway can rejuvenate your mind and body.",
+            "example_sentence_native_transliteration": {
+                "bn": "আ উইকেন্ড গেটঅ্যাওয়ে ক্যান রিজুভেনেট ইয়োর মাইন্ড অ্যান্ড বডি।"
+            },
+            "position": 17,
+            "synonyms": "revitalize, refresh, renew",
+            "antonyms": "weaken, drain, exhaust",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুনরুজ্জীবিত বা নবজীবন দান করা",
+                    "word_transliteration": "punorujjibito ba nobojibon dan kora",
+                    "example_sentence_translation": "একটি সাপ্তাহিক অবকাশ আপনার মন ও শরীরকে পুনরুজ্জীবিত করতে পারে।",
+                    "example_sentence_transliteration": "Ekti shaptahik obokash apnar mon o shorirke punorujjibito korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "perseverance",
+            "phonetic": "/ˌpɜːr.sɪˈvɪə.rəns/",
+            "word_native_transliteration": {
+                "bn": "পারসিভারেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔥",
+            "meaning": "Maintaining hard work and patience for a long time.",
+            "example_sentence": "His perseverance helped him achieve his dreams.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ পারসিভারেন্স হেল্পড হিম এচিভ হিজ ড্রিমস।"
+            },
+            "position": 18,
+            "synonyms": "persistence, determination, tenacity",
+            "antonyms": "laziness, weakness, giving up",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অবিচল অধ্যবসায়",
+                    "word_transliteration": "obichol odhyoboshay",
+                    "example_sentence_translation": "তার অধ্যবসায় তাকে স্বপ্ন পূরণে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Tar odhyoboshay take shopno purone sahajyo koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "enhancement",
+            "phonetic": "/ɪnˈhɑːns.mənt/",
+            "word_native_transliteration": {
+                "bn": "এনহান্সমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "Improving the quality, value, or effectiveness of something.",
+            "example_sentence": "The software update included significant enhancements in performance.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সফটওয়্যার আপডেট ইনক্লুডেড সিগনিফিক্যান্ট এনহান্সমেন্টস ইন পারফরম্যান্স।"
+            },
+            "position": 19,
+            "synonyms": "improvement, augmentation, boost",
+            "antonyms": "deterioration, reduction, decline",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উন্নতি বা বৃদ্ধি",
+                    "word_transliteration": "unnoti ba briddhi",
+                    "example_sentence_translation": "সফটওয়্যার আপডেটে কার্যকারিতার উল্লেখযোগ্য উন্নতি অন্তর্ভুক্ত ছিল।",
+                    "example_sentence_transliteration": "Softwayr apdet-te karyokaritar ullekhjogyo unnoti ontorbhukto chilo.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

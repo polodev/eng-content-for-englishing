@@ -1,0 +1,364 @@
+{
+    "position": 120,
+    "title_translation": {
+        "en": "Common Myths About Weight Loss",
+        "bn": "ওজন কমানো নিয়ে সাধারণ ভ্রান্ত ধারণা"
+    },
+    "content_translation": {
+        "en": "There are many **misconceptions** about weight loss that many people believe, and these affect their **regimen**. Many think that reducing **appetite** will lead to quick weight loss, but this only creates **deprivation**, which disrupts the body's **homeostasis**.\n\nA major **conundrum** is that people think eating less increases **catabolism**, resulting in weight loss. But in reality, if the body receives low calories for an extended period, it reduces the **metabolic** rate, which has the opposite effect.\n\nAnother misconception is that drinking more water acts as a **diuretic** and leads to rapid weight loss. While this may temporarily change **equilibrium**, it is not a long-term solution.\n\nCorrect information is necessary and **skepticism** is important, so that we don't create **dissonance**, but rather adopt proper ways to lose weight. We should **debunk** those false beliefs that create obstacles in the path of a healthy lifestyle.",
+        "bn": "ওজন কমানো নিয়ে অনেক **misconception** রয়েছে, যা বহু মানুষ বিশ্বাস করে এবং সেগুলো তাদের **regimen**-এ প্রভাব ফেলে। অনেকেই মনে করেন যে **appetite** কমিয়ে রাখলেই দ্রুত ওজন কমবে, কিন্তু এটি শুধুমাত্র **deprivation** তৈরি করে, যা শরীরের **homeostasis** ব্যাহত করে।\n\nএকটি বড় **conundrum** হলো, মানুষ মনে করে কম খেলে **catabolism** বেড়ে যায়, ফলে ওজন কমে। কিন্তু বাস্তবে, শরীর যদি দীর্ঘসময় কম ক্যালোরি গ্রহণ করে, তবে এটি **metabolic** হার কমিয়ে দেয়, যা বিপরীত প্রভাব ফেলে।\n\nআরেকটি ভুল ধারণা হলো, বেশি পানি পান করা **diuretic** হিসেবে কাজ করে এবং দ্রুত ওজন কমিয়ে দেয়। যদিও এটি সাময়িক **equilibrium** পরিবর্তন করতে পারে, কিন্তু এটি দীর্ঘমেয়াদী সমাধান নয়।\n\nসঠিক তথ্য জানা প্রয়োজন এবং **skepticism** থাকা জরুরি, যাতে আমরা **dissonance** তৈরি না করে, বরং ওজন কমানোর সঠিক উপায় অবলম্বন করতে পারি। **Debunk** করা উচিত সেই সব ভ্রান্ত বিশ্বাস, যা স্বাস্থ্যকর জীবনযাত্রার পথে বাধা সৃষ্টি করে।"
+    },
+    "list": [
+        {
+            "word": "misconception",
+            "phonetic": "/ˌmɪs.kənˈsep.ʃən/",
+            "word_native_transliteration": {
+                "bn": "মিসকনসেপশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤔",
+            "meaning": "A view or opinion that is incorrect based on faulty thinking or understanding.",
+            "example_sentence": "Many people have a misconception about healthy dieting.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেনি পিপল হ্যাভ এ মিসকনসেপশন অ্যাবাউট হেলদি ডাইটিং।"
+            },
+            "position": 1,
+            "synonyms": "fallacy, delusion, misinterpretation",
+            "antonyms": "understanding, clarity, truth",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভুল ধারণা, বিভ্রান্তি, অপধারণা",
+                    "word_transliteration": "bhul dharona, bibhranti, opadharana",
+                    "example_sentence_translation": "অনেকের স্বাস্থ্যকর খাদ্যাভ্যাস সম্পর্কে ভুল ধারণা রয়েছে।",
+                    "example_sentence_transliteration": "Oneker shashthokor khadyabhyas somporke bhul dharona royeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "regimen",
+            "phonetic": "/ˈredʒ.ɪ.mən/",
+            "word_native_transliteration": {
+                "bn": "রেজিমেন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📋",
+            "meaning": "A prescribed course of medical treatment, way of life, or diet for the promotion or restoration of health.",
+            "example_sentence": "A strict exercise regimen improves overall fitness.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ স্ট্রিক্ট এক্সারসাইজ রেজিমেন ইমপ্রুভস ওভারঅল ফিটনেস।"
+            },
+            "position": 2,
+            "synonyms": "routine, discipline, program",
+            "antonyms": "disorder, irregularity, neglect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নির্দিষ্ট স্বাস্থ্যবিধি, শারীরিক ও মানসিক নিয়ম, জীবনযাত্রার কাঠামো",
+                    "word_transliteration": "nirdishto shashtho bidhi, sharirik o manashik niom, jibon jatrar kathamo",
+                    "example_sentence_translation": "একটি কঠোর ব্যায়াম রেজিমেন সামগ্রিক স্বাস্থ্য উন্নত করে।",
+                    "example_sentence_transliteration": "Ekti kothor byayam rejimen shamogrik shashtho unnoto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "appetite",
+            "phonetic": "/ˈæp.ə.taɪt/",
+            "word_native_transliteration": {
+                "bn": "অ্যাপেটাইট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🍽️",
+            "meaning": "A natural desire to satisfy a bodily need, especially for food.",
+            "example_sentence": "Stress can reduce a person's appetite.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্ট্রেস ক্যান রিডিউস এ পার্সনস অ্যাপেটাইট।"
+            },
+            "position": 3,
+            "synonyms": "hunger, craving, desire",
+            "antonyms": "satiety, aversion, indifference",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্ষুধা, আগ্রহ, অভিলাষ",
+                    "word_transliteration": "khuda, agroho, abhilash",
+                    "example_sentence_translation": "চাপ মানুষের ক্ষুধা কমিয়ে দিতে পারে।",
+                    "example_sentence_transliteration": "Chap manusher khuda komiye dite pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "deprivation",
+            "phonetic": "/ˌdep.rɪˈveɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ডিপ্রাইভেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "😔",
+            "meaning": "The damaging lack of material benefits considered to be basic necessities in a society.",
+            "example_sentence": "Sleep deprivation affects cognitive function.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্লিপ ডিপ্রাইভেশন অ্যাফেক্টস কগনিটিভ ফাংশন।"
+            },
+            "position": 4,
+            "synonyms": "deficiency, scarcity, hardship",
+            "antonyms": "abundance, sufficiency, provision",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বঞ্চনা, অভাব, সীমাবদ্ধতা",
+                    "word_transliteration": "bonchona, obhab, simaboddhota",
+                    "example_sentence_translation": "ঘুমের অভাব মানসিক কার্যক্ষমতাকে প্রভাবিত করে।",
+                    "example_sentence_transliteration": "Ghumer obhab manashik karjokkhomotake probhabito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "homeostasis",
+            "phonetic": "/ˌhoʊ.mi.oʊˈsteɪ.sɪs/",
+            "word_native_transliteration": {
+                "bn": "হোমিওস্টেসিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "The tendency toward a relatively stable equilibrium between interdependent elements, especially as maintained by physiological processes.",
+            "example_sentence": "The human body maintains homeostasis through temperature regulation.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য হিউম্যান বডি মেইনটেইনস হোমিওস্টেসিস থ্রু টেম্পারেচার রেগুলেশন।"
+            },
+            "position": 5,
+            "synonyms": "equilibrium, stability, balance",
+            "antonyms": "imbalance, fluctuation, instability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দেহের অভ্যন্তরীণ ভারসাম্য, শারীরবৃত্তীয় স্থিতিশীলতা",
+                    "word_transliteration": "deher obhyontorin bharsamyo, sharirbritiyo sthitishilota",
+                    "example_sentence_translation": "মানবদেহ তাপমাত্রা নিয়ন্ত্রণের মাধ্যমে হোমিওস্টেসিস বজায় রাখে।",
+                    "example_sentence_transliteration": "Manabdeho tapmatra niyontroner madhome homioostesis bojay rakhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "conundrum",
+            "phonetic": "/kəˈnʌn.drəm/",
+            "word_native_transliteration": {
+                "bn": "কানানড্রাম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧩",
+            "meaning": "A confusing and difficult problem or question.",
+            "example_sentence": "Finding a cure for rare diseases is a scientific conundrum.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফাইন্ডিং এ কিউর ফর রেয়ার ডিজিজেস ইজ এ সাইয়েন্টিফিক কানানড্রাম।"
+            },
+            "position": 6,
+            "synonyms": "dilemma, enigma, puzzle",
+            "antonyms": "solution, certainty, clarity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জটিল সমস্যা, ধাঁধা, কঠিন প্রশ্ন",
+                    "word_transliteration": "jotil shomoshya, dhadha, kothin proshno",
+                    "example_sentence_translation": "বিরল রোগের প্রতিকার খুঁজে পাওয়া একটি বৈজ্ঞানিক জটিলতা।",
+                    "example_sentence_transliteration": "Birol roger protikar khunje paoa ekti boiggyanik jotilota.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "catabolism",
+            "phonetic": "/kəˈtæb.ə.lɪ.zəm/",
+            "word_native_transliteration": {
+                "bn": "ক্যাটাবোলিজম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The breakdown of complex molecules in living organisms to form simpler ones together with the release of energy; destructive metabolism.",
+            "example_sentence": "Catabolism plays a crucial role in cellular energy production.",
+            "example_sentence_native_transliteration": {
+                "bn": "ক্যাটাবোলিজম প্লেস এ ক্রুশিয়াল রোল ইন সেলুলার এনার্জি প্রোডাকশন।"
+            },
+            "position": 7,
+            "synonyms": "breakdown, decomposition, metabolic process",
+            "antonyms": "anabolism, synthesis, construction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিপাকীয় প্রক্রিয়ার মাধ্যমে জটিল পদার্থ ভেঙে শক্তি উৎপাদন",
+                    "word_transliteration": "bipachiyo prokriyar madhome jotil podartho bhenge shokti utpadon",
+                    "example_sentence_translation": "ক্যাটাবোলিজম কোষের শক্তি উৎপাদনে গুরুত্বপূর্ণ ভূমিকা রাখে।",
+                    "example_sentence_transliteration": "Catabolism kosher shokti utpadone gurutvopurno bhumika rakhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "metabolic",
+            "phonetic": "/ˌmet.əˈbɒl.ɪk/",
+            "word_native_transliteration": {
+                "bn": "মেটাবলিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚡",
+            "meaning": "Relating to the chemical processes that occur within a living organism in order to maintain life.",
+            "example_sentence": "Regular exercise enhances metabolic efficiency.",
+            "example_sentence_native_transliteration": {
+                "bn": "রেগুলার এক্সারসাইজ এনহান্সেস মেটাবলিক এফিশিয়েন্সি।"
+            },
+            "position": 8,
+            "synonyms": "physiological, biochemical, nutritional",
+            "antonyms": "non-metabolic, inactive, dormant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিপাকীয়, দেহের রসায়নিক পরিবর্তন সংক্রান্ত",
+                    "word_transliteration": "bipachiyo, deher roshayonik poriborton shongkranto",
+                    "example_sentence_translation": "নিয়মিত ব্যায়াম বিপাকীয় কার্যকারিতা বাড়ায়।",
+                    "example_sentence_transliteration": "Niyomito byayam bipachiyo karjokarita baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "diuretic",
+            "phonetic": "/ˌdaɪ.jʊˈret.ɪk/",
+            "word_native_transliteration": {
+                "bn": "ডাইউরেটিক"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💧",
+            "meaning": "A substance that promotes the production of urine.",
+            "example_sentence": "Coffee has a mild diuretic effect.",
+            "example_sentence_native_transliteration": {
+                "bn": "কফি হ্যাজ এ মাইল্ড ডাইউরেটিক ইফেক্ট।"
+            },
+            "position": 9,
+            "synonyms": "detoxifier, water expeller, urinary stimulant",
+            "antonyms": "water-retaining, hydrating, antidiuretic",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রস্রাব বৃদ্ধিকারী পদার্থ, মূত্রবর্ধক ঔষধ",
+                    "word_transliteration": "proshrab bridhikari podartho, mutrorbordok oshodh",
+                    "example_sentence_translation": "কফির হালকা মূত্রবর্ধক প্রভাব রয়েছে।",
+                    "example_sentence_transliteration": "Kofir halka mutrorbordok probhab royeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "equilibrium",
+            "phonetic": "/ˌiː.kwɪˈlɪb.ri.əm/",
+            "word_native_transliteration": {
+                "bn": "ইকুইলিব্রিয়াম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "A state in which opposing forces or influences are balanced.",
+            "example_sentence": "The economy is trying to regain its equilibrium after inflation.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইকনমি ইজ ট্রাইইং টু রিগেইন ইটস ইকুইলিব্রিয়াম আফটার ইনফ্লেশন।"
+            },
+            "position": 10,
+            "synonyms": "stability, balance, symmetry",
+            "antonyms": "imbalance, instability, disequilibrium",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভারসাম্য, স্থিতিশীলতা, সমতা",
+                    "word_transliteration": "bharsamyo, sthitishilota, shomota",
+                    "example_sentence_translation": "মুদ্রাস্ফীতির পর অর্থনীতি পুনরায় ভারসাম্য ফিরে পাওয়ার চেষ্টা করছে।",
+                    "example_sentence_transliteration": "Mudra sphotir por orthoniti punoray bharsamyo phire paowar chesta korche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "skepticism",
+            "phonetic": "/ˈskep.tɪ.sɪ.zəm/",
+            "word_native_transliteration": {
+                "bn": "স্কেপটিসিজম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤨",
+            "meaning": "A skeptical attitude; doubt as to the truth of something.",
+            "example_sentence": "His skepticism about new technology often makes him resistant to change.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ স্কেপটিসিজম অ্যাবাউট নিউ টেকনলজি অফটেন মেক্স হিম রেজিস্ট্যান্ট টু চেঞ্জ।"
+            },
+            "position": 11,
+            "synonyms": "doubt, cynicism, incredulity",
+            "antonyms": "certainty, belief, confidence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংশয়বাদ, অবিশ্বাস, সন্দেহপ্রবণতা",
+                    "word_transliteration": "songshoyobad, obishash, sondehoprobonota",
+                    "example_sentence_translation": "নতুন প্রযুক্তি সম্পর্কে তার সংশয়বাদ প্রায়শই তাকে পরিবর্তনের প্রতি প্রতিরোধী করে তোলে।",
+                    "example_sentence_transliteration": "Notun projukti somporke tar songshoyobad proyoshoi take poribortoner proti protirodhi kore tole.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dissonance",
+            "phonetic": "/ˈdɪs.ə.nəns/",
+            "word_native_transliteration": {
+                "bn": "ডিসোন্যান্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎵",
+            "meaning": "Lack of harmony among musical notes or a tension or clash resulting from the combination of two disharmonious elements.",
+            "example_sentence": "There was a noticeable dissonance between their opinions.",
+            "example_sentence_native_transliteration": {
+                "bn": "দেয়ার ওয়াজ এ নোটিসেবল ডিসোন্যান্স বিটুইন দেয়ার ওপিনিয়নস।"
+            },
+            "position": 12,
+            "synonyms": "discord, conflict, incongruity",
+            "antonyms": "harmony, agreement, accord",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মতানৈক্য, বৈপরীত্য, অসামঞ্জস্য",
+                    "word_transliteration": "motanoikko, boiporito, oshamongjosho",
+                    "example_sentence_translation": "তাদের মতামতের মধ্যে একটি লক্ষণীয় বৈপরীত্য ছিল।",
+                    "example_sentence_transliteration": "Tader motamoter moddhe ekti lokkhoniyo boiporito chilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "debunk",
+            "phonetic": "/ˌdiːˈbʌŋk/",
+            "word_native_transliteration": {
+                "bn": "ডিবাঙ্ক"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔍",
+            "meaning": "Expose the falseness or hollowness of (a myth, idea, or belief).",
+            "example_sentence": "Scientists debunked the myth that vaccines cause autism.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাইয়েন্টিস্টস ডিবাঙ্কড দ্য মিথ দ্যাট ভ্যাকসিনস কজ অটিজম।"
+            },
+            "position": 13,
+            "synonyms": "expose, disprove, refute",
+            "antonyms": "validate, confirm, authenticate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভুল ধারণা উন্মোচন করা, মিথ্যা প্রমাণ করা",
+                    "word_transliteration": "bhul dharona unmochon kora, mithya proman kora",
+                    "example_sentence_translation": "বিজ্ঞানীরা টিকার মাধ্যমে অটিজম হওয়ার মিথ দূর করেছেন।",
+                    "example_sentence_transliteration": "Biggyanira tikar madhome autism howar myth dur korechen.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

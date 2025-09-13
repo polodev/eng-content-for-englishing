@@ -1,0 +1,445 @@
+{
+    "position": 112,
+    "title_translation": {
+        "en": "History of the Olympic Games",
+        "bn": "অলিম্পিক গেমসের ইতিহাস"
+    },
+    "content_translation": {
+        "en": "The world's one of the largest sports competitions, the **Olympic Games**, whose **inception** was about 2700 years ago in Greece. It is not just a sports competition, but the **heritage** of sports culture and the **epitome** of human unity.\n\nIn ancient **antiquity**, this games was a medium of **veneration** to the god Zeus. The first **commencement** was in the city of Olympia, where athletes from different states demonstrated their **fortitude** and strength. Over time, it became a symbol of **dynasty** and empire.\n\nIn 1896, the **proliferation** of modern Olympics began, starting a new **epoch** worldwide. It created **prestige** for athletes and **convergence** among nations. The Olympics is still the world's **quintessential** sports competition, carrying **legacy** and **monumental** glory.",
+        "bn": "বিশ্বের অন্যতম বৃহৎ ক্রীড়া প্রতিযোগিতা **Olympic Games**, যার **inception** প্রায় ২৭০০ বছর আগে গ্রীসে হয়েছিল। এটি কেবল প্রতিযোগিতা নয়, বরং ক্রীড়া সংস্কৃতির **heritage** এবং মানবজাতির ঐক্যের **epitome**।\n\nপ্রাচীন **antiquity** যুগে, এই গেমস ছিল দেবতা জিউসের প্রতি **veneration** প্রকাশের একটি মাধ্যম। প্রথম **commencement** হয়েছিল অলিম্পিয়া শহরে, যেখানে বিভিন্ন রাজ্যের অ্যাথলিটরা নিজেদের **fortitude** এবং শক্তি প্রদর্শন করত। সময়ের সঙ্গে সঙ্গে, এটি **dynasty** ও সাম্রাজ্যের প্রতীক হয়ে ওঠে।\n\n১৮৯৬ সালে আধুনিক অলিম্পিকের **proliferation** হয়, যা বিশ্বজুড়ে এক নতুন **epoch** শুরু করে। এটি ক্রীড়াবিদদের জন্য **prestige** এবং জাতিগুলোর মধ্যে **convergence** সৃষ্টি করেছে। অলিম্পিক আজও বিশ্ব ক্রীড়ার **quintessential** প্রতিযোগিতা, যা **legacy** এবং **monumental** গৌরব বহন করে।"
+    },
+    "list": [
+        {
+            "word": "Olympic Games",
+            "phonetic": "əˈlɪm.pɪk ɡeɪmz",
+            "word_native_transliteration": {
+                "bn": "অলিম্পিক গেমস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏅",
+            "meaning": "The world's largest international sports competition held every four years, bringing together athletes from different countries to compete in various sports.",
+            "example_sentence": "The Olympic Games bring together the world's top athletes.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অলিম্পিক গেমস ব্রিং টুগেদার দ্য ওয়ার্ল্ডস টপ অ্যাথলিটস।"
+            },
+            "position": 1,
+            "synonyms": "Global Sports Event, Athletic Competition, International Games",
+            "antonyms": "Local Sports, Amateur Games, Unrecognized Competition",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অলিম্পিক গেমস বা আন্তর্জাতিক ক্রীড়া প্রতিযোগিতা",
+                    "word_transliteration": "olympic games ba antarjatik krira protijogita",
+                    "example_sentence_translation": "অলিম্পিক গেমস বিশ্বের শীর্ষ ক্রীড়াবিদদের একত্রিত করে।",
+                    "example_sentence_transliteration": "Olympic games bishwer shirshho krirabidder ektroto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "inception",
+            "phonetic": "ɪnˈsɛp.ʃən",
+            "word_native_transliteration": {
+                "bn": "ইনসেপশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌱",
+            "meaning": "The establishment or starting point of an institution or activity; the beginning.",
+            "example_sentence": "Since its inception, the company has grown rapidly.",
+            "example_sentence_native_transliteration": {
+                "bn": "সিন্স ইটস ইনসেপশন, দ্য কোম্পানি হ্যাজ গ্রোন র্যাপিডলি।"
+            },
+            "position": 2,
+            "synonyms": "Beginning, Initiation, Foundation",
+            "antonyms": "Conclusion, End, Termination",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শুরু বা সূচনা",
+                    "word_transliteration": "shuru ba shuchona",
+                    "example_sentence_translation": "এর সূচনা থেকে কোম্পানিটি দ্রুত বিকাশ লাভ করেছে।",
+                    "example_sentence_transliteration": "Er shuchona theke companiti druto bikash labh koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "heritage",
+            "phonetic": "ˈhɛr.ɪ.tɪdʒ",
+            "word_native_transliteration": {
+                "bn": "হেরিটেজ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏛️",
+            "meaning": "Property that is or may be inherited; something transmitted by or acquired from a predecessor; cultural traditions and practices that are passed down.",
+            "example_sentence": "Bangladesh has a rich cultural heritage.",
+            "example_sentence_native_transliteration": {
+                "bn": "বাংলাদেশ হ্যাজ এ রিচ কালচারাল হেরিটেজ।"
+            },
+            "position": 3,
+            "synonyms": "Legacy, Tradition, Ancestry",
+            "antonyms": "Disregard, Loss, Neglect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ঐতিহ্য বা সংস্কৃতি",
+                    "word_transliteration": "oitihyo ba sanskriti",
+                    "example_sentence_translation": "বাংলাদেশের একটি সমৃদ্ধ সাংস্কৃতিক ঐতিহ্য রয়েছে।",
+                    "example_sentence_transliteration": "Bangladesher ekti shomriddho sangskritik oitihyo royeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "epitome",
+            "phonetic": "ɪˈpɪt.ə.mi",
+            "word_native_transliteration": {
+                "bn": "এপিটোমি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⭐",
+            "meaning": "A person or thing that is a perfect example of a particular quality or type; the essence or embodiment of something.",
+            "example_sentence": "He is the epitome of dedication and hard work.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি ইজ দ্য এপিটোমি অব ডেডিকেশন অ্যান্ড হার্ড ওয়ার্ক।"
+            },
+            "position": 4,
+            "synonyms": "Embodiment, Essence, Ideal",
+            "antonyms": "Imperfection, Antithesis, Opposite",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উৎকৃষ্ট উদাহরণ বা প্রতীক",
+                    "word_transliteration": "utkrishto udaharon ba protik",
+                    "example_sentence_translation": "তিনি নিষ্ঠা ও কঠোর পরিশ্রমের উৎকৃষ্ট উদাহরণ।",
+                    "example_sentence_transliteration": "Tini nishtha o kothor porishromor utkrishto udaharon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "antiquity",
+            "phonetic": "ænˈtɪk.wə.ti",
+            "word_native_transliteration": {
+                "bn": "অ্যান্টিকুইটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏺",
+            "meaning": "The ancient past, especially the period of classical and other human civilizations before the Middle Ages.",
+            "example_sentence": "The ruins are a reminder of the city's antiquity.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রুইনস আর এ রিমাইন্ডার অব দ্য সিটিস অ্যান্টিকুইটি।"
+            },
+            "position": 5,
+            "synonyms": "Ancient Times, Classical Era, Oldness",
+            "antonyms": "Modernity, Present, Contemporary",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রাচীনত্ব বা অতীতকাল",
+                    "word_transliteration": "prachintwo ba atitkal",
+                    "example_sentence_translation": "এই ধ্বংসাবশেষ শহরের প্রাচীনত্বের স্মারক।",
+                    "example_sentence_transliteration": "Ei dhongshaboshesh shohorer prachintwoer sharok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "veneration",
+            "phonetic": "ˌvɛn.əˈreɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ভেনারেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🙏",
+            "meaning": "Great respect; reverence; the action of regarding with great respect or reverence.",
+            "example_sentence": "Many cultures show veneration for their ancestors.",
+            "example_sentence_native_transliteration": {
+                "bn": "ম্যানি কালচারস শো ভেনারেশন ফর দেয়ার অ্যান্সেস্টরস।"
+            },
+            "position": 6,
+            "synonyms": "Reverence, Admiration, Worship",
+            "antonyms": "Disrespect, Dishonor, Contempt",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শ্রদ্ধা বা গভীর সম্মান",
+                    "word_transliteration": "shroddha ba gobhir shomman",
+                    "example_sentence_translation": "অনেক সংস্কৃতিতে পূর্বপুরুষদের প্রতি শ্রদ্ধা প্রদর্শন করা হয়।",
+                    "example_sentence_transliteration": "Onek songskritite purboporushdor proti shroddha prodarshon kora hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "commencement",
+            "phonetic": "kəˈmɛns.mənt",
+            "word_native_transliteration": {
+                "bn": "কমেন্সমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚀",
+            "meaning": "The beginning of something; a ceremony at which degrees or diplomas are conferred on graduating students.",
+            "example_sentence": "The commencement ceremony marked the start of a new journey.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কমেন্সমেন্ট সেরেমনি মার্কড দ্য স্টার্ট অব এ নিউ জার্নি।"
+            },
+            "position": 7,
+            "synonyms": "Beginning, Initiation, Opening",
+            "antonyms": "Completion, Conclusion, End",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আরম্ভ বা সূচনা",
+                    "word_transliteration": "arombho ba shuchona",
+                    "example_sentence_translation": "উদ্বোধনী অনুষ্ঠান একটি নতুন যাত্রার সূচনা করল।",
+                    "example_sentence_transliteration": "Udbodhni onushthan ekti notun jatrar shuchona korol.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fortitude",
+            "phonetic": "ˈfɔːr.tɪ.tjuːd",
+            "word_native_transliteration": {
+                "bn": "ফর্টিটিউড"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "Courage in pain or adversity; mental and emotional strength in facing difficulty, adversity, danger, or temptation courageously.",
+            "example_sentence": "She showed great fortitude during the crisis.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি শোড গ্রেট ফর্টিটিউড ডিউরিং দ্য ক্রাইসিস।"
+            },
+            "position": 8,
+            "synonyms": "Resilience, Courage, Perseverance",
+            "antonyms": "Weakness, Fear, Cowardice",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অটল মনোবল বা ধৈর্য",
+                    "word_transliteration": "otol monobol ba dhoirjo",
+                    "example_sentence_translation": "তিনি সংকটের সময় অসাধারণ ধৈর্য ও সাহস দেখিয়েছেন।",
+                    "example_sentence_transliteration": "Tini songkoter shomoy oshadharon dhoirjo o shahos dekhiyechen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dynasty",
+            "phonetic": "ˈdaɪ.nə.sti",
+            "word_native_transliteration": {
+                "bn": "ডাইন্যাস্টি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👑",
+            "meaning": "A line of hereditary rulers of a country; a succession of people from the same family who play a prominent role in business, politics, or another field.",
+            "example_sentence": "The Ming dynasty ruled China for centuries.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য মিং ডাইন্যাস্টি রুলড চাইনা ফর সেঞ্চুরিজ।"
+            },
+            "position": 9,
+            "synonyms": "Lineage, Royal Family, Monarchy",
+            "antonyms": "Democracy, Anarchy, Individual Rule",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রাজবংশ বা শাসনকর্তার বংশধারা",
+                    "word_transliteration": "rajbongshho ba shashonottar bongshodhara",
+                    "example_sentence_translation": "মিং রাজবংশ শতাব্দীর পর শতাব্দী চীন শাসন করেছে।",
+                    "example_sentence_transliteration": "Ming rajbongshho shotabdir por shotabdi chin shasson koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "proliferation",
+            "phonetic": "prəˌlɪf.əˈreɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "প্রলিফারেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "Rapid increase in the number or amount of something; the rapid reproduction of a cell, part, or organism.",
+            "example_sentence": "The proliferation of technology has transformed communication.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রলিফারেশন অব টেকনোলজি হ্যাজ ট্রান্সফর্মড কমিউনিকেশন।"
+            },
+            "position": 10,
+            "synonyms": "Expansion, Growth, Multiplication",
+            "antonyms": "Decline, Reduction, Diminution",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিস্তার বা দ্রুত বৃদ্ধি",
+                    "word_transliteration": "bistar ba druto briddhi",
+                    "example_sentence_translation": "প্রযুক্তির বিস্তার যোগাযোগ ব্যবস্থাকে পরিবর্তন করেছে।",
+                    "example_sentence_transliteration": "Projuktir bistar jogajog bebsthake poriborton koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "epoch",
+            "phonetic": "ˈiː.pɒk",
+            "word_native_transliteration": {
+                "bn": "ইপক"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⏰",
+            "meaning": "A period of time in history or a person's life, typically one marked by notable events or particular characteristics.",
+            "example_sentence": "The invention of the internet marked a new epoch in human history.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইনভেনশন অব দ্য ইন্টারনেট মার্কড এ নিউ ইপক ইন হিউম্যান হিস্টরি।"
+            },
+            "position": 11,
+            "synonyms": "Era, Period, Age",
+            "antonyms": "Moment, Instant, Short-term",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "যুগ বা গুরুত্বপূর্ণ সময়কাল",
+                    "word_transliteration": "jug ba guruttopurno shomoykal",
+                    "example_sentence_translation": "ইন্টারনেটের আবিষ্কার মানব ইতিহাসে একটি নতুন যুগের সূচনা করেছে।",
+                    "example_sentence_transliteration": "Interneter abishkar manob itihase ekti notun juger shuchona koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "prestige",
+            "phonetic": "prɛsˈtiːʒ",
+            "word_native_transliteration": {
+                "bn": "প্রেস্টিজ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌟",
+            "meaning": "Widespread respect and admiration felt for someone or something on the basis of a perception of their achievements or quality.",
+            "example_sentence": "The university has gained international prestige for its research.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইউনিভার্সিটি হ্যাজ গেইনড ইন্টারন্যাশনাল প্রেস্টিজ ফর ইটস রিসার্চ।"
+            },
+            "position": 12,
+            "synonyms": "Reputation, Honor, Status",
+            "antonyms": "Disgrace, Dishonor, Insignificance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গৌরব বা সম্মান",
+                    "word_transliteration": "gourobo ba shomman",
+                    "example_sentence_translation": "গবেষণার জন্য বিশ্ববিদ্যালয়টি আন্তর্জাতিক গৌরব অর্জন করেছে।",
+                    "example_sentence_transliteration": "Gobeshnar jonno bishwobiddaloyti antarjatik gourobo orjon koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "convergence",
+            "phonetic": "kənˈvɜː.dʒəns",
+            "word_native_transliteration": {
+                "bn": "কনভার্জেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "The process or state of converging; a location where airflows or ocean currents meet, typically marked by upwelling or downwelling.",
+            "example_sentence": "The convergence of science and technology has led to innovation.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কনভার্জেন্স অব সায়েন্স অ্যান্ড টেকনোলজি হ্যাজ লেড টু ইনোভেশন।"
+            },
+            "position": 13,
+            "synonyms": "Union, Merging, Alignment",
+            "antonyms": "Divergence, Separation, Deviation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একত্রিত হওয়া বা সংযোগ",
+                    "word_transliteration": "ektrito howa ba songjog",
+                    "example_sentence_translation": "বিজ্ঞান ও প্রযুক্তির সংযোগ উদ্ভাবনের পথ সুগম করেছে।",
+                    "example_sentence_transliteration": "Biggyan o projuktir songjog udbhaboner poth shugom koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "quintessential",
+            "phonetic": "ˌkwɪn.tɪˈsɛn.ʃəl",
+            "word_native_transliteration": {
+                "bn": "কুইন্টেসেনশিয়াল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎯",
+            "meaning": "Representing the most perfect or typical example of a quality or class; of the pure and essential essence of something.",
+            "example_sentence": "He is the quintessential example of a great leader.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি ইজ দ্য কুইন্টেসেনশিয়াল এক্সাম্পল অব এ গ্রেট লিডার।"
+            },
+            "position": 14,
+            "synonyms": "Ultimate, Ideal, Perfect Example",
+            "antonyms": "Atypical, Uncharacteristic, Imperfect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অত্যাবশ্যক বা প্রকৃষ্ট উদাহরণ",
+                    "word_transliteration": "ottyaboshyok ba prokrishto udaharon",
+                    "example_sentence_translation": "তিনি একজন মহান নেতার প্রকৃষ্ট উদাহরণ।",
+                    "example_sentence_transliteration": "Tini ekjon mohan netar prokrishto udaharon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "legacy",
+            "phonetic": "ˈlɛɡ.ə.si",
+            "word_native_transliteration": {
+                "bn": "লেগ্যাসি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏆",
+            "meaning": "An amount of money or property left to someone in a will; something left or handed down by a predecessor.",
+            "example_sentence": "His contributions left a lasting legacy in the industry.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ কন্ট্রিবিউশনস লেফট এ লাস্টিং লেগ্যাসি ইন দ্য ইন্ডাস্ট্রি।"
+            },
+            "position": 15,
+            "synonyms": "Heritage, Inheritance, Contribution",
+            "antonyms": "Neglect, Loss, Abandonment",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উত্তরাধিকার বা ঐতিহ্য",
+                    "word_transliteration": "uttaradhikar ba oitihyo",
+                    "example_sentence_translation": "তার অবদান শিল্পে দীর্ঘস্থায়ী উত্তরাধিকার রেখে গেছে।",
+                    "example_sentence_transliteration": "Tar obdan shilpe dirghosthayi uttaradhikar rekhe geche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "monumental",
+            "phonetic": "ˌmɒn.jʊˈmɛn.təl",
+            "word_native_transliteration": {
+                "bn": "মনুমেন্টাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🗿",
+            "meaning": "Great in importance, extent, or size; exceptionally great; forming or serving as a monument.",
+            "example_sentence": "The discovery of electricity was a monumental achievement.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডিসকভারি অব ইলেকট্রিসিটি ওয়াজ এ মনুমেন্টাল এচিভমেন্ট।"
+            },
+            "position": 16,
+            "synonyms": "Historic, Immense, Colossal",
+            "antonyms": "Insignificant, Trivial, Unremarkable",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ঐতিহাসিকভাবে গুরুত্বপূর্ণ বা বিশাল",
+                    "word_transliteration": "oitihashikbhabe guruttopurno ba bishal",
+                    "example_sentence_translation": "বিদ্যুতের আবিষ্কার ছিল একটি ঐতিহাসিক কীর্তি।",
+                    "example_sentence_transliteration": "Bidyuter abishkar chhilo ekti oitihashik kirti.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}
