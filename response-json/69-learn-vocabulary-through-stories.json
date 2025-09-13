@@ -1,0 +1,283 @@
+{
+    "position": 69,
+    "title_translation": {
+        "en": "Ecotourism",
+        "bn": "ইকোট্যুরিজম"
+    },
+    "content_translation": {
+        "en": "**Ecotourism** is a form of tourism that focuses on preserving the **natural environment** while contributing to the development of local communities. According to The International Ecotourism Society (TIES), it is a responsible form of travel that connects **environmental conservation**, **local well-being**, and **education**.\n\nOne of Bangladesh's main **ecotourism** destinations is the **Sundarbans**, known as the world's largest **mangrove forest** and home to the **Royal Bengal Tiger**. It has been designated as a **World Heritage Site** by UNESCO. Besides the **Sundarbans**, Cox's Bazar, Inani Beach, Kuakata Beach, and Saint Martin Island are among Bangladesh's most popular **eco-tourism spots**. Saint Martin's Island features **coral reefs** and **mangrove** sanctuaries, which play a crucial role in **biodiversity conservation**.\n\nThe hill districts of Rangamati, Khagrachhari, and Bandarban are famous for their ethnic communities, **unique culture**, and **indigenous traditions**. Sajek Valley is currently one of the most popular **tourist spots**, where the presence of **adventure seekers** and **nature enthusiasts** is steadily increasing.",
+        "bn": "**Ecotourism** হলো এমন একটি ভ্রমণ ব্যবস্থা যেখানে প্রাকৃতিক পরিবেশ রক্ষার পাশাপাশি স্থানীয় সম্প্রদায়ের উন্নয়নে অবদান রাখা হয়। The International Ecotourism Society (TIES) অনুসারে, এটি এমন দায়িত্বশীল ভ্রমণ যা **environmental conservation**, **local well-being**, এবং **education**-এর সাথে সংযুক্ত।\n\nবাংলাদেশের অন্যতম প্রধান **ecotourism** গন্তব্য হলো **Sundarbans**, যা বিশ্বের বৃহত্তম **mangrove forest** এবং **Royal Bengal Tiger**-এর জন্য পরিচিত। এটি ইউনেস্কো কর্তৃক **World Heritage Site** হিসেবে মনোনীত হয়েছে। সুন্দরবনের পাশাপাশি, কক্সবাজার, ইনানি সমুদ্র সৈকত, কুয়াকাটা সমুদ্র সৈকত এবং সেন্ট মার্টিন দ্বীপ বাংলাদেশের অন্যতম জনপ্রিয় **eco-tourism spots**। Saint Martin's Island-এ রয়েছে **coral reefs** এবং ম্যানগ্রোভ আশ্রয়স্থল, যা জীববৈচিত্র্য সংরক্ষণে গুরুত্বপূর্ণ ভূমিকা পালন করে।\n\nরাঙামাটি, খাগড়াছড়ি এবং বান্দরবান পার্বত্য জেলাগুলো উপজাতি সম্প্রদায়, তাদের **unique culture** এবং **indigenous traditions**-এর জন্য বিখ্যাত। সাজেক ভ্যালি বর্তমানে অন্যতম জনপ্রিয় **tourist spot**, যেখানে **adventure seekers** এবং **nature enthusiasts** দের উপস্থিতি ক্রমশ বাড়ছে।"
+    },
+    "list": [
+        {
+            "word": "Eco-tourism",
+            "phonetic": "ˈiːkoʊˌtʊrɪzəm",
+            "word_native_transliteration": {
+                "bn": "ইকো-ট্যুরিজম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌿",
+            "meaning": "A form of tourism involving responsible travel to natural areas that conserves the environment and improves the well-being of local people.",
+            "example_sentence": "Eco-tourism promotes responsible travel to natural areas.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইকো-ট্যুরিজম প্রোমোটস রেসপনসিবল ট্রাভেল টু ন্যাচারাল এরিয়াস।"
+            },
+            "position": 1,
+            "synonyms": "sustainable tourism, responsible tourism, nature-based tourism, green tourism, conservation tourism, eco-travel",
+            "antonyms": "mass tourism, urban tourism, conventional tourism, package tourism, commercialized tourism, unsustainable tourism",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ইকোট্যুরিজম",
+                    "word_transliteration": "ecoturizm",
+                    "example_sentence_translation": "ইকোট্যুরিজম প্রাকৃতিক এলাকায় দায়িত্বশীল ভ্রমণকে উৎসাহিত করে।",
+                    "example_sentence_transliteration": "Ecoturizm prakritik elakay dayitwoshil bhromonke utsahit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Mangrove Forest",
+            "phonetic": "ˈmæŋɡroʊv ˈfɒrɪst",
+            "word_native_transliteration": {
+                "bn": "ম্যানগ্রোভ ফরেস্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌳",
+            "meaning": "A coastal forest ecosystem characterized by salt-tolerant trees and shrubs that grow in intertidal zones.",
+            "example_sentence": "Sundarbans is the world's largest mangrove forest.",
+            "example_sentence_native_transliteration": {
+                "bn": "সুন্দরবন ইজ দ্য ওয়ার্ল্ডস লার্জেস্ট ম্যানগ্রোভ ফরেস্ট।"
+            },
+            "position": 2,
+            "synonyms": "coastal forest, tidal forest, saltwater forest, estuarine forest, brackish forest, wetland forest",
+            "antonyms": "desert, arid land, dry forest, inland forest, freshwater forest, grassland",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ম্যানগ্রোভ বন",
+                    "word_transliteration": "mangrove bon",
+                    "example_sentence_translation": "সুন্দরবন বিশ্বের বৃহত্তম ম্যানগ্রোভ বন।",
+                    "example_sentence_transliteration": "Shundorbon bishwer brihottom mangrove bon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Royal Bengal Tiger",
+            "phonetic": "ˈrɔɪəl ˈbɛŋɡəl ˈtaɪɡər",
+            "word_native_transliteration": {
+                "bn": "রয়েল বেঙ্গল টাইগার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🐅",
+            "meaning": "A subspecies of tiger found primarily in India and Bangladesh, known for its distinctive orange coat with black stripes.",
+            "example_sentence": "The Royal Bengal Tiger is an iconic species of the Sundarbans.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রয়েল বেঙ্গল টাইগার ইজ অ্যান আইকনিক স্পিশিজ অফ দ্য সুন্দরবন।"
+            },
+            "position": 3,
+            "synonyms": "Bengal tiger, Indian tiger, Panthera tigris tigris, big cat, wild tiger, striped cat",
+            "antonyms": "domestic cat, small mammal, herbivore, prey animal, house pet, tame animal",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রয়েল বেঙ্গল টাইগার",
+                    "word_transliteration": "royal bengol taigar",
+                    "example_sentence_translation": "রয়েল বেঙ্গল টাইগার সুন্দরবনের একটি আইকনিক প্রজাতি।",
+                    "example_sentence_transliteration": "Royal bengol taigar shundorboner ekti aikonic projati.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "World Heritage Site",
+            "phonetic": "wɜːrld ˈhɛrɪtɪdʒ saɪt",
+            "word_native_transliteration": {
+                "bn": "ওয়ার্ল্ড হেরিটেজ সাইট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏛️",
+            "meaning": "A landmark or area selected by UNESCO for having cultural, historical, scientific or other form of significance.",
+            "example_sentence": "Sundarbans is a UNESCO World Heritage Site.",
+            "example_sentence_native_transliteration": {
+                "bn": "সুন্দরবন ইজ অ্যা ইউনেস্কো ওয়ার্ল্ড হেরিটেজ সাইট।"
+            },
+            "position": 4,
+            "synonyms": "UNESCO site, protected site, heritage monument, cultural landmark, historic site, preservation area",
+            "antonyms": "unrecognized site, local area, common place, ordinary location, unprotected area, commercial site",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিশ্ব ঐতিহ্যবাহী স্থান",
+                    "word_transliteration": "bishwo oitihyobahi sthan",
+                    "example_sentence_translation": "সুন্দরবন একটি ইউনেস্কো বিশ্ব ঐতিহ্যবাহী স্থান।",
+                    "example_sentence_transliteration": "Shundorbon ekti UNESCO bishwo oitihyobahi sthan.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Coral Reefs",
+            "phonetic": "ˈkɔːrəl ˈriːfs",
+            "word_native_transliteration": {
+                "bn": "কোরাল রিফস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🪸",
+            "meaning": "Underwater structures made from calcium carbonate secreted by corals, forming diverse marine ecosystems.",
+            "example_sentence": "Saint Martin's Island is known for its coral reefs.",
+            "example_sentence_native_transliteration": {
+                "bn": "সেন্ট মার্টিনস আইল্যান্ড ইজ নোন ফর ইটস কোরাল রিফস।"
+            },
+            "position": 5,
+            "synonyms": "coral gardens, marine ecosystem, underwater reef, living reef, barrier reef, fringing reef",
+            "antonyms": "rocky seafloor, ocean trench, deep sea, barren seabed, sandy bottom, muddy floor",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রবাল প্রাচীর",
+                    "word_transliteration": "probal prachir",
+                    "example_sentence_translation": "সেন্ট মার্টিন দ্বীপটি তার প্রবাল প্রাচীরের জন্য পরিচিত।",
+                    "example_sentence_transliteration": "Saint Martin dwipti tar probal prachirer jonno porichito.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Adventure Seekers",
+            "phonetic": "ədˈvɛnʧər ˈsiːkərz",
+            "word_native_transliteration": {
+                "bn": "অ্যাডভেঞ্চার সিকারস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧗",
+            "meaning": "People who actively look for exciting and potentially risky activities or experiences.",
+            "example_sentence": "Sajek Valley is a popular destination for adventure seekers.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাজেক ভ্যালি ইজ অ্যা পপুলার ডেস্টিনেশন ফর অ্যাডভেঞ্চার সিকারস।"
+            },
+            "position": 6,
+            "synonyms": "thrill seekers, adrenaline junkies, risk takers, explorers, adventurers, outdoor enthusiasts",
+            "antonyms": "risk avoiders, comfort seekers, homebodies, cautious people, safety-first individuals, sedentary people",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অ্যাডভেঞ্চারপ্রিয় ব্যক্তি",
+                    "word_transliteration": "adventurepriy byokti",
+                    "example_sentence_translation": "সাজেক ভ্যালি অ্যাডভেঞ্চারপ্রিয় ব্যক্তিদের জন্য একটি জনপ্রিয় গন্তব্য।",
+                    "example_sentence_transliteration": "Sajek Valley adventurepriy byoktider jonno ekti jonopriyo gontobyo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Sustainable Development",
+            "phonetic": "səˈsteɪnəbl dɪˈvɛləpmənt",
+            "word_native_transliteration": {
+                "bn": "সাস্টেইনেবল ডেভেলপমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "♻️",
+            "meaning": "Development that meets present needs without compromising the ability of future generations to meet their own needs.",
+            "example_sentence": "Eco-tourism contributes to sustainable development in local communities.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইকো-ট্যুরিজম কনট্রিবিউটস টু সাস্টেইনেবল ডেভেলপমেন্ট ইন লোকাল কমিউনিটিস।"
+            },
+            "position": 7,
+            "synonyms": "responsible development, green development, eco-friendly growth, balanced progress, long-term development, renewable progress",
+            "antonyms": "unsustainable growth, short-term growth, destructive development, exploitative progress, harmful expansion, wasteful growth",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "টেকসই উন্নয়ন",
+                    "word_transliteration": "teksoi unnyon",
+                    "example_sentence_translation": "ইকোট্যুরিজম স্থানীয় সম্প্রদায়ের টেকসই উন্নয়নে অবদান রাখে।",
+                    "example_sentence_transliteration": "Ecoturizm sthanio shomprodayer teksoi unnyone obdan rakhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Adventure",
+            "phonetic": "ədˈvɛnʧər",
+            "word_native_transliteration": {
+                "bn": "অ্যাডভেঞ্চার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏃",
+            "meaning": "An unusual and exciting experience or activity that is typically bold and sometimes risky.",
+            "example_sentence": "Adventure travel is loved by thrill-seekers.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাডভেঞ্চার ট্রাভেল ইজ লাভড বাই থ্রিল-সিকারস।"
+            },
+            "position": 8,
+            "synonyms": "excitement, thrill, expedition, quest, journey, exploration",
+            "antonyms": "routine, safety, boredom, monotony, predictability, ordinary experience",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অ্যাডভেঞ্চার",
+                    "word_transliteration": "adventure",
+                    "example_sentence_translation": "অ্যাডভেঞ্চার ভ্রমণ রোমাঞ্চপ্রিয়দের দ্বারা পছন্দ করা হয়।",
+                    "example_sentence_transliteration": "Adventure bhromon romanchopriydder dwara pochhondo kora hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Indigenous Traditions",
+            "phonetic": "ɪnˈdɪdʒɪnəs trəˈdɪʃənz",
+            "word_native_transliteration": {
+                "bn": "ইনডিজেনাস ট্র্যাডিশনস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🪶",
+            "meaning": "Cultural practices, beliefs, and customs that have been passed down through generations among native peoples.",
+            "example_sentence": "Indigenous traditions in the Chittagong Hill Tracts are unique.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনডিজেনাস ট্র্যাডিশনস ইন দ্য চিটাগং হিল ট্র্যাক্টস আর ইউনিক।"
+            },
+            "position": 9,
+            "synonyms": "native customs, tribal heritage, ancestral practices, cultural legacy, traditional ways, ethnic customs",
+            "antonyms": "modern customs, new traditions, contemporary practices, urban culture, foreign customs, imported traditions",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আদিবাসী ঐতিহ্য",
+                    "word_transliteration": "adibashi oitihyo",
+                    "example_sentence_translation": "চট্টগ্রাম পার্বত্য অঞ্চলে আদিবাসী ঐতিহ্য অনন্য।",
+                    "example_sentence_transliteration": "Chottogram parhotty onchhole adibashi oitihyo ononyo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Nature Enthusiasts",
+            "phonetic": "ˈneɪʧər ɪnˈθjuːziæsts",
+            "word_native_transliteration": {
+                "bn": "নেচার এনথুজিয়াস্টস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌺",
+            "meaning": "People who have a passionate interest in and love for the natural world and outdoor activities.",
+            "example_sentence": "Nature enthusiasts often visit Sajek Valley for its scenic beauty.",
+            "example_sentence_native_transliteration": {
+                "bn": "নেচার এনথুজিয়াস্টস অফেন ভিজিট সাজেক ভ্যালি ফর ইটস সিনিক বিউটি।"
+            },
+            "position": 10,
+            "synonyms": "nature lovers, outdoor enthusiasts, environmentalists, naturalists, eco-warriors, wildlife admirers",
+            "antonyms": "nature ignorers, urban dwellers, indoor people, city lovers, technology addicts, artificial environment preferrers",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রকৃতিপ্রেমী",
+                    "word_transliteration": "prokritipremei",
+                    "example_sentence_translation": "প্রকৃতিপ্রেমীরা প্রায়ই সাজেক ভ্যালির মনোরম সৌন্দর্য উপভোগ করতে যান।",
+                    "example_sentence_transliteration": "Prokritipremira prayoi Sajek Vallir monorom shoundoryo upobhog korte yan.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

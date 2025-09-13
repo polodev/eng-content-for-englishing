@@ -1,0 +1,526 @@
+{
+    "position": 68,
+    "title_translation": {
+        "en": "Captain-Crew Free Autonomous Container Ship",
+        "bn": "ক্যাপ্টেন-ক্রু ছাড়া স্ব-চালিত কনটেইনার জাহাজ"
+    },
+    "content_translation": {
+        "en": "**Autonomous** container ships capable of operating completely without captain and crew are now on the path to reality. A vessel named 'Yara Birkeland' is being tested experimentally in Norway's Frayre Fjord area, which is capable of **navigating** on its own. It uses **technology** to find its way.\n\nAutomated ship **technology** can bring **revolutionary** changes to the maritime transport sector. It provides environmentally friendly solutions by increasing **efficiency**, reducing **accidents**, and reducing **emissions**. However, before this **advancement** is fully implemented, **security** and **regulations** challenges must be addressed. This **innovation** will not only reduce **expenditure**, but also usher in a new era in maritime **logistics** systems. The work here will be **accelerated**, **cost-efficient**, and **resilient**, which will be considered a **milestone** for the maritime transport sector.",
+        "bn": "ক্যাপ্টেন ও ক্রু ছাড়াই সম্পূর্ণ **autonomous** কনটেইনার জাহাজ পরিচালনা এখন বাস্তবতার পথে। নরওয়ের ফ্রায়ার ফিয়র্ড এলাকায় পরীক্ষামূলকভাবে চালানো হচ্ছে 'ইয়ারা বার্কল্যান্ড' নামের একটি **vessel**, যা স্বয়ংক্রিয়ভাবে **navigate** করতে সক্ষম। এটি **technology** ব্যবহার করে পথ খুঁজে নেয়।\n\nস্বচালিত জাহাজ প্রযুক্তি সামুদ্রিক পরিবহন খাতে **revolutionary** পরিবর্তন আনতে পারে। এটি **efficiency** বৃদ্ধি, **accident** হ্রাস, এবং **emissions** কমানোর মাধ্যমে পরিবেশবান্ধব সমাধান প্রদান করে। তবে, এই **advancement** পূর্ণাঙ্গভাবে বাস্তবায়নের আগে **security** এবং **regulations** এর চ্যালেঞ্জ মোকাবিলা করতে হবে। এই **innovation** শুধুমাত্র **expenditure** কমাবে না, বরং সামুদ্রিক **logistics** ব্যবস্থায় একটি নতুন যুগের সূচনা করবে। এখানে কাজ হবে **accelerated**, **cost-efficient**, এবং **resilient**, যা সামুদ্রিক পরিবহন খাতের জন্য একটি **milestone** হিসেবে বিবেচিত হবে।"
+    },
+    "list": [
+        {
+            "word": "autonomous",
+            "phonetic": "/ɔːˈtɒn.ə.məs/",
+            "word_native_transliteration": {
+                "bn": "অটোনোমাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🤖",
+            "meaning": "Acting independently or having the freedom to do so.",
+            "example_sentence": "Autonomous systems ensure greater precision.",
+            "example_sentence_native_transliteration": {
+                "bn": "অটোনোমাস সিস্টেমস এনশিওর গ্রেটার প্রিসিশন।"
+            },
+            "position": 1,
+            "synonyms": "independent, self-governing",
+            "antonyms": "dependent, subordinate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বয়ংক্রিয়",
+                    "word_transliteration": "shoyngkriyo",
+                    "example_sentence_translation": "স্বয়ংক্রিয় সিস্টেম অধিক নির্ভুলতা নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Shoyngkriyo sistem odhik nirbhulota nishchito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "container",
+            "phonetic": "/kənˈteɪ.nər/",
+            "word_native_transliteration": {
+                "bn": "কনটেইনার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📦",
+            "meaning": "A receptacle or box used for storage or transportation.",
+            "example_sentence": "Containers are essential for logistics.",
+            "example_sentence_native_transliteration": {
+                "bn": "কনটেইনারস আর এসেনশিয়াল ফর লজিস্টিক্স।"
+            },
+            "position": 2,
+            "synonyms": "holder, receptacle",
+            "antonyms": "emptiness, vacancy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পাত্র",
+                    "word_transliteration": "patro",
+                    "example_sentence_translation": "লজিস্টিক্সে কনটেইনার অপরিহার্য।",
+                    "example_sentence_transliteration": "Logistics-e container oporhharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "vessel",
+            "phonetic": "/ˈves.əl/",
+            "word_native_transliteration": {
+                "bn": "ভেসেল"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚢",
+            "meaning": "A ship or large boat.",
+            "example_sentence": "The vessel carried critical supplies.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ভেসেল ক্যারিড ক্রিটিক্যাল সাপ্লাইস।"
+            },
+            "position": 3,
+            "synonyms": "ship, carrier",
+            "antonyms": "structure, non-vessel",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জাহাজ",
+                    "word_transliteration": "jahaj",
+                    "example_sentence_translation": "জাহাজটি গুরুত্বপূর্ণ সরবরাহ বহন করেছিল।",
+                    "example_sentence_transliteration": "Jahajti guruttopurno shorboraho bohon korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "navigate",
+            "phonetic": "/ˈnæv.ɪ.ɡeɪt/",
+            "word_native_transliteration": {
+                "bn": "ন্যাভিগেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🧭",
+            "meaning": "To plan and direct the route or course of a ship, aircraft, or other form of transport.",
+            "example_sentence": "The GPS helps navigate complex routes.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য জিপিএস হেল্পস ন্যাভিগেট কমপ্লেক্স রুটস।"
+            },
+            "position": 4,
+            "synonyms": "steer, direct",
+            "antonyms": "drift, lose",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পথ নির্ধারণ",
+                    "word_transliteration": "poth nirdharon",
+                    "example_sentence_translation": "জিপিএস জটিল রুট নির্ধারণে সহায়তা করে।",
+                    "example_sentence_transliteration": "GPS jotil rut nirdharon-e shohayota kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "technology",
+            "phonetic": "/tekˈnɒl.ə.dʒi/",
+            "word_native_transliteration": {
+                "bn": "টেকনোলজি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💻",
+            "meaning": "The application of scientific knowledge for practical purposes.",
+            "example_sentence": "Advanced technology enhances productivity.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাডভান্সড টেকনোলজি এনহান্সেস প্রোডাক্টিভিটি।"
+            },
+            "position": 5,
+            "synonyms": "innovation, machinery",
+            "antonyms": "obsolescence, antiquity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রযুক্তি",
+                    "word_transliteration": "projukti",
+                    "example_sentence_translation": "উন্নত প্রযুক্তি উৎপাদনশীলতা বাড়ায়।",
+                    "example_sentence_transliteration": "Unnoto projukti utpadonshilota baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "revolutionary",
+            "phonetic": "/ˌrev.əˈluː.ʃən.ər.i/",
+            "word_native_transliteration": {
+                "bn": "রেভোলিউশনারি"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚡",
+            "meaning": "Involving or causing a complete or dramatic change.",
+            "example_sentence": "Revolutionary ideas inspire innovation.",
+            "example_sentence_native_transliteration": {
+                "bn": "রেভোলিউশনারি আইডিয়াস ইনস্পায়ার ইনোভেশন।"
+            },
+            "position": 6,
+            "synonyms": "groundbreaking, radical",
+            "antonyms": "conventional, conservative",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিপ্লবী",
+                    "word_transliteration": "biplovi",
+                    "example_sentence_translation": "বিপ্লবী ধারণা উদ্ভাবনে প্রেরণা জোগায়।",
+                    "example_sentence_transliteration": "Biplovi dharona udbhabne preronja jogay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "efficiency",
+            "phonetic": "/ɪˈfɪʃ.ən.si/",
+            "word_native_transliteration": {
+                "bn": "এফিশিয়েন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚙️",
+            "meaning": "The state or quality of being efficient.",
+            "example_sentence": "Efficiency reduces operational costs.",
+            "example_sentence_native_transliteration": {
+                "bn": "এফিশিয়েন্সি রিডিউসেস অপারেশনাল কস্টস।"
+            },
+            "position": 7,
+            "synonyms": "productivity, effectiveness",
+            "antonyms": "inefficiency, wastefulness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষতা",
+                    "word_transliteration": "dokkhota",
+                    "example_sentence_translation": "দক্ষতা অপারেশনাল খরচ হ্রাস করে।",
+                    "example_sentence_transliteration": "Dokkhota operational khoroch hras kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "accident",
+            "phonetic": "/ˈæk.sɪ.dənt/",
+            "word_native_transliteration": {
+                "bn": "অ্যাক্সিডেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚠️",
+            "meaning": "An unfortunate incident that happens unexpectedly and unintentionally.",
+            "example_sentence": "Safety measures aim to prevent accidents.",
+            "example_sentence_native_transliteration": {
+                "bn": "সেইফটি মেজারস এইম টু প্রিভেন্ট অ্যাক্সিডেন্টস।"
+            },
+            "position": 8,
+            "synonyms": "mishap, collision",
+            "antonyms": "intention, deliberation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দুর্ঘটনা",
+                    "word_transliteration": "durghottona",
+                    "example_sentence_translation": "নিরাপত্তা ব্যবস্থা দুর্ঘটনা প্রতিরোধের লক্ষ্য রাখে।",
+                    "example_sentence_transliteration": "Nirapootta bebostha durghottona protirodher lokkhyo rakhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "emissions",
+            "phonetic": "/ɪˈmɪʃ.ənz/",
+            "word_native_transliteration": {
+                "bn": "এমিশনস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💨",
+            "meaning": "The production and discharge of something, especially gas, heat, light, or radiation.",
+            "example_sentence": "Reducing emissions protects the environment.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিডিউসিং এমিশনস প্রোটেক্টস দ্য এনভায়রনমেন্ট।"
+            },
+            "position": 9,
+            "synonyms": "discharges, pollutants",
+            "antonyms": "absorption, containment",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নির্গমন",
+                    "word_transliteration": "nirgomon",
+                    "example_sentence_translation": "নির্গমন হ্রাস পরিবেশ রক্ষা করে।",
+                    "example_sentence_transliteration": "Nirgomon hras poribesh rokkha kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "advancement",
+            "phonetic": "/ədˈvɑːns.mənt/",
+            "word_native_transliteration": {
+                "bn": "অ্যাডভান্সমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "The process of promoting or moving forward; development or improvement.",
+            "example_sentence": "Scientific advancements benefit society.",
+            "example_sentence_native_transliteration": {
+                "bn": "সায়েন্টিফিক অ্যাডভান্সমেন্টস বেনিফিট সোসাইটি।"
+            },
+            "position": 10,
+            "synonyms": "progress, development",
+            "antonyms": "stagnation, regression",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অগ্রগতি",
+                    "word_transliteration": "ogrogoti",
+                    "example_sentence_translation": "বৈজ্ঞানিক অগ্রগতি সমাজের উপকারে আসে।",
+                    "example_sentence_transliteration": "Boigganik ogrogoti shomajer upokare ashe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "security",
+            "phonetic": "/sɪˈkjʊə.rɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "সিকিউরিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔒",
+            "meaning": "The state of being free from danger or threat.",
+            "example_sentence": "Cybersecurity ensures data protection.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাইবারসিকিউরিটি এনশিওরস ডেটা প্রোটেকশন।"
+            },
+            "position": 11,
+            "synonyms": "safety, protection",
+            "antonyms": "danger, vulnerability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিরাপত্তা",
+                    "word_transliteration": "nirapootta",
+                    "example_sentence_translation": "সাইবার নিরাপত্তা ডেটার সুরক্ষা নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Cyber nirapootta data-r shurokkhya nishchito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "regulations",
+            "phonetic": "/ˌreɡ.jʊˈleɪ.ʃənz/",
+            "word_native_transliteration": {
+                "bn": "রেগুলেশনস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📋",
+            "meaning": "Rules or directives made and maintained by an authority.",
+            "example_sentence": "Strict regulations ensure fair practices.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্ট্রিক্ট রেগুলেশনস এনশিওর ফেয়ার প্র্যাক্টিসেস।"
+            },
+            "position": 12,
+            "synonyms": "rules, directives",
+            "antonyms": "chaos, disorder",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিয়মকানুন",
+                    "word_transliteration": "niyomkanun",
+                    "example_sentence_translation": "কঠোর নিয়মকানুন সুষ্ঠু প্রয়োগ নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Kothor niyomkanun shushthu proyog nishchito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "innovation",
+            "phonetic": "/ˌɪn.əˈveɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ইনোভেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💡",
+            "meaning": "The action or process of innovating; a new method, idea, or product.",
+            "example_sentence": "Innovation drives economic growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনোভেশন ড্রাইভস ইকোনমিক গ্রোথ।"
+            },
+            "position": 13,
+            "synonyms": "creativity, invention",
+            "antonyms": "stagnation, repetition",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্ভাবন",
+                    "word_transliteration": "udbhabon",
+                    "example_sentence_translation": "উদ্ভাবন অর্থনৈতিক প্রবৃদ্ধি চালিত করে।",
+                    "example_sentence_transliteration": "Udbhabon orthonnoitik probridhhi chalito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "expenditure",
+            "phonetic": "/ɪkˈspen.dɪ.tʃər/",
+            "word_native_transliteration": {
+                "bn": "এক্সপেন্ডিচার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💰",
+            "meaning": "The action of spending funds; an amount of money spent.",
+            "example_sentence": "Managing expenditure is critical for budgeting.",
+            "example_sentence_native_transliteration": {
+                "bn": "ম্যানেজিং এক্সপেন্ডিচার ইজ ক্রিটিক্যাল ফর বাজেটিং।"
+            },
+            "position": 14,
+            "synonyms": "expense, outlay",
+            "antonyms": "revenue, income",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ব্যয়",
+                    "word_transliteration": "byoy",
+                    "example_sentence_translation": "ব্যয় পরিচালনা বাজেটিংয়ের জন্য গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Byoy porichalona budgeting-er jonno guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "logistics",
+            "phonetic": "/ləˈdʒɪs.tɪks/",
+            "word_native_transliteration": {
+                "bn": "লজিস্টিক্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📦",
+            "meaning": "The detailed coordination of a complex operation involving many people, facilities, or supplies.",
+            "example_sentence": "Efficient logistics streamline operations.",
+            "example_sentence_native_transliteration": {
+                "bn": "এফিশিয়েন্ট লজিস্টিক্স স্ট্রিমলাইন অপারেশনস।"
+            },
+            "position": 15,
+            "synonyms": "coordination, management",
+            "antonyms": "disorder, disorganization",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সরবরাহব্যবস্থা",
+                    "word_transliteration": "shorboraho bebostha",
+                    "example_sentence_translation": "দক্ষ সরবরাহব্যবস্থা অপারেশন ত্বরান্বিত করে।",
+                    "example_sentence_transliteration": "Dokkho shorboraho bebostha operation tboranvito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "accelerated",
+            "phonetic": "/əkˈsel.ə.reɪ.tɪd/",
+            "word_native_transliteration": {
+                "bn": "অ্যাক্সেলারেটেড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🚀",
+            "meaning": "Happening or developing faster than usual.",
+            "example_sentence": "The project progressed at an accelerated pace.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রোজেক্ট প্রোগ্রেসড অ্যাট অ্যান অ্যাক্সেলারেটেড পেইস।"
+            },
+            "position": 16,
+            "synonyms": "hastened, quickened",
+            "antonyms": "delayed, slowed",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ত্বরান্বিত",
+                    "word_transliteration": "tboranvito",
+                    "example_sentence_translation": "প্রকল্পটি দ্রুততর গতিতে এগিয়েছে।",
+                    "example_sentence_transliteration": "Prokolpoti drutotoro gotite egiyechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cost-efficient",
+            "phonetic": "/ˌkɒst.ɪˈfɪʃ.ənt/",
+            "word_native_transliteration": {
+                "bn": "কস্ট-এফিশিয়েন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💵",
+            "meaning": "Achieving maximum productivity with minimum wasted effort or expense.",
+            "example_sentence": "Cost-efficient solutions benefit industries.",
+            "example_sentence_native_transliteration": {
+                "bn": "কস্ট-এফিশিয়েন্ট সলিউশনস বেনিফিট ইন্ডাস্ট্রিজ।"
+            },
+            "position": 17,
+            "synonyms": "economical, affordable",
+            "antonyms": "expensive, wasteful",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ব্যয়-সাশ্রয়ী",
+                    "word_transliteration": "byoy-shashroi",
+                    "example_sentence_translation": "ব্যয়-সাশ্রয়ী সমাধান শিল্পের উপকারে আসে।",
+                    "example_sentence_transliteration": "Byoy-shashroi shomadhan shilper upokare ashe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "resilient",
+            "phonetic": "/rɪˈzɪl.i.ənt/",
+            "word_native_transliteration": {
+                "bn": "রেজিলিয়েন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💪",
+            "meaning": "Able to withstand or recover quickly from difficult conditions.",
+            "example_sentence": "Resilient materials ensure durability.",
+            "example_sentence_native_transliteration": {
+                "bn": "রেজিলিয়েন্ট ম্যাটেরিয়ালস এনশিওর ডিউরেবিলিটি।"
+            },
+            "position": 18,
+            "synonyms": "robust, strong",
+            "antonyms": "fragile, weak",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্থিতিস্থাপক",
+                    "word_transliteration": "shtitishthapok",
+                    "example_sentence_translation": "স্থিতিস্থাপক উপাদান টেকসই নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Shtitishthapok upadan teksoi nishchito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "milestone",
+            "phonetic": "/ˈmaɪl.stəʊn/",
+            "word_native_transliteration": {
+                "bn": "মাইলস্টোন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏁",
+            "meaning": "An important event or stage in the development or progress of something.",
+            "example_sentence": "This achievement marks a major milestone.",
+            "example_sentence_native_transliteration": {
+                "bn": "দিস অ্যাচিভমেন্ট মার্কস এ মেজর মাইলস্টোন।"
+            },
+            "position": 19,
+            "synonyms": "landmark, achievement",
+            "antonyms": "insignificance, minor step",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মাইলফলক",
+                    "word_transliteration": "mailfol",
+                    "example_sentence_translation": "এই অর্জন একটি বড় মাইলফলক চিহ্নিত করে।",
+                    "example_sentence_transliteration": "Ei orjon ekti boro mailfol chihnito kore.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

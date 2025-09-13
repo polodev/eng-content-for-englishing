@@ -1,0 +1,391 @@
+{
+    "position": 60,
+    "title_translation": {
+        "en": "Seven Martyrs of the Border",
+        "bn": "সীমান্তের সাত শহীদ"
+    },
+    "content_translation": {
+        "en": "From the river to the other side, even a single **glance** makes the environment **gloomy**. In the **shaded area** beside the Ganeswari river is the **resting place** of seven martyrs. On July 26, 1971, these **brave warriors** were martyred in a **face-to-face battle** with Pakistani soldiers at the intersection of three roads in Nazirpur. Their **burial site** was made beside the river.\n\nAmong the freedom fighters, four were from Mymensingh, two from Netrokona, and one from Jamalpur. Among them, five Muslim martyrs have **cemented graves** side by side, and two Hindu martyrs are buried right beside them.\n\nThe joyful mood of seeing the river earlier suddenly turned into **silent reflection**. Because of them, we can roam freely, but they are so close yet so far away. How much **respect** or love we should show to express proper **gratitude** to them is difficult to understand.\n\nWe walked silently for one hour beside the burial site. The desire to see the martyrs' **graves** had been there for many days, today that desire was **fulfilled**. Again and again, one thing **echoed** in the mind—through whose **sacrifice** we have gained this independence, today I am feeling **emotional** coming near those seven fearless freedom fighters.",
+        "bn": "নদী থেকে অন্য দিকে **glance** দিতেই পরিবেশটা **gloomy** হয়ে যায়। Ganeswari river-এর পাড়ে **shaded area**-তে seven martyrs **resting place**। ১৯৭১ সালের ২৬ জুলাই, নাজিরপুর তিন রাস্তার মোড়ে Pakistani soldiers-এর সঙ্গে **face-to-face battle**-এ এই brave warriors শহীদ হন। তাঁদের **burial site** করা হয় নদীর পাড়ে।\n\nFreedom fighters-এর মধ্যে চারজন ছিলেন from Mymensingh, দুজন from Netrokona, এবং একজন from Jamalpur। তাঁদের মধ্যে five Muslim martyrs-এর **cemented graves** পাশাপাশি এবং two Hindu martyrs ঠিক পাশেই buried আছেন।\n\nএকটু আগে নদী দেখার joyful mood হঠাৎ **silent reflection**-এ পরিণত হলো। তাঁদের জন্যই আমরা freely roaming করতে পারছি, কিন্তু তাঁরা so close হয়েও এত far away। আমরা ঠিক কতটুকু **respect** বা love দেখালে তাঁদের প্রতি যথাযথ **gratitude** জানানো সম্ভব, তা বোঝা কঠিন।\n\nসমাধিস্থলের পাশে one hour চুপচাপ হাঁটলাম। শহীদদের **graves** দেখার ইচ্ছা ছিল অনেক দিন থেকে, আজ সেই ইচ্ছা **fulfilled** হলো। বারবার মনে একটা কথাই **echoed**—যাঁদের **sacrifice** এর বিনিময়ে আমরা এই independence পেয়েছি, আজ সেই সাতজন fearless freedom fighters-এর কাছে আসতে পেরে **emotional** অনুভূব করছি।"
+    },
+    "list": [
+        {
+            "word": "glance",
+            "phonetic": "ɡlæns",
+            "word_native_transliteration": {
+                "bn": "গ্ল্যান্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👀",
+            "meaning": "A quick or brief look.",
+            "example_sentence": "He glanced at the river and felt calm.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি গ্ল্যান্সড অ্যাট দ্য রিভার অ্যান্ড ফেল্ট ক্যাম।"
+            },
+            "position": 1,
+            "synonyms": "look, peek, glimpse, sight",
+            "antonyms": "stare, gaze",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দৃষ্টি দেওয়া",
+                    "word_transliteration": "drishthi deoya",
+                    "example_sentence_translation": "সে নদীর দিকে একবার তাকাল এবং শান্তি অনুভূব করল।",
+                    "example_sentence_transliteration": "Se nodir dike ekbar takal ebong shanti onubhub korol.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "gloomy",
+            "phonetic": "ˈɡluːmi",
+            "word_native_transliteration": {
+                "bn": "গ্লুমি"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌫️",
+            "meaning": "Dark or poorly lit; depressing or pessimistic.",
+            "example_sentence": "The atmosphere suddenly turned gloomy.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যাটমোস্ফিয়ার সাডেনলি টার্নড গ্লুমি।"
+            },
+            "position": 2,
+            "synonyms": "dark, dim, somber, depressing",
+            "antonyms": "bright, cheerful, sunny",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মলিন",
+                    "word_transliteration": "molin",
+                    "example_sentence_translation": "পরিবেশ হঠাৎ করে মলিন হয়ে গেল।",
+                    "example_sentence_transliteration": "Poribesh hotat kore molin hoye gelo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "shaded area",
+            "phonetic": "ˈʃeɪdɪd ˈɛəriə",
+            "word_native_transliteration": {
+                "bn": "শেইডেড এরিয়া"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌳",
+            "meaning": "An area that is protected from direct sunlight.",
+            "example_sentence": "We sat in a shaded area by the riverbank.",
+            "example_sentence_native_transliteration": {
+                "bn": "উই স্যাট ইন আ শেডেড এরিয়া বাই দ্য রিভারব্যাঙ্ক।"
+            },
+            "position": 3,
+            "synonyms": "covered area, sheltered spot, shadowy place",
+            "antonyms": "sunny area, exposed area",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ছায়াযুক্ত এলাকা",
+                    "word_transliteration": "chayajukto elaka",
+                    "example_sentence_translation": "আমরা নদীর তীরে ছায়াযুক্ত এলাকায় বসেছিলাম।",
+                    "example_sentence_transliteration": "Amra nodir tire chayajukto elakay bosechhilam.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "resting place",
+            "phonetic": "ˈrɛstɪŋ pleɪs",
+            "word_native_transliteration": {
+                "bn": "রেস্টিং প্লেইস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚰️",
+            "meaning": "A place where someone or something rests, especially a burial site.",
+            "example_sentence": "The resting place of the martyrs is near the river.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রেস্টিং প্লেইস অফ দ্য মার্টিরস ইজ নিয়ার দ্য রিভার।"
+            },
+            "position": 4,
+            "synonyms": "burial site, grave, tomb, cemetery",
+            "antonyms": "movement area, active zone",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিশ্রামের স্থান",
+                    "word_transliteration": "bishramer sthan",
+                    "example_sentence_translation": "শহীদদের বিশ্রামের স্থান নদীর কাছেই।",
+                    "example_sentence_transliteration": "Shahidder bishramer sthan nodir kachei.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "face-to-face battle",
+            "phonetic": "ˈfeɪs tə ˈfeɪs ˈbætl",
+            "word_native_transliteration": {
+                "bn": "ফেইস-টু-ফেইস ব্যাটল"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚔️",
+            "meaning": "A direct confrontation or fight between opposing forces.",
+            "example_sentence": "The warriors fought a face-to-face battle with the enemies.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ওয়ারিয়র্স ফট আ ফেইস-টু-ফেইস ব্যাটল উইথ দ্য এনিমিজ।"
+            },
+            "position": 5,
+            "synonyms": "direct combat, confrontation, head-on battle",
+            "antonyms": "negotiation, peaceful resolution",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মুখোমুখি যুদ্ধ",
+                    "word_transliteration": "mukhomukhi juddho",
+                    "example_sentence_translation": "যোদ্ধারা শত্রুদের সঙ্গে মুখোমুখি যুদ্ধ করেছিলেন।",
+                    "example_sentence_transliteration": "Joddhara shatrurer shonge mukhomukhi juddho korechhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "burial site",
+            "phonetic": "ˈbɛriəl saɪt",
+            "word_native_transliteration": {
+                "bn": "বুরিয়াল সাইট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🪦",
+            "meaning": "A place where a dead body is buried.",
+            "example_sentence": "The burial site of the martyrs was near the riverbank.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য বুরিয়াল সাইট অফ দ্য মার্টিরস ওয়াজ নিয়ার দ্য রিভারব্যাঙ্ক।"
+            },
+            "position": 6,
+            "synonyms": "graveyard, cemetery, tomb, sepulcher",
+            "antonyms": "playground, recreational area",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সমাধিস্থল",
+                    "word_transliteration": "samadhishthol",
+                    "example_sentence_translation": "শহীদদের সমাধিস্থল নদীর পাড়ের কাছে ছিল।",
+                    "example_sentence_transliteration": "Shahidder samadhishthol nodir parer kache chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cemented grave",
+            "phonetic": "sɪˈmɛntɪd ɡreɪv",
+            "word_native_transliteration": {
+                "bn": "সিমেন্টেড গ্রেইভ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🪨",
+            "meaning": "A grave that is constructed with cement for permanence.",
+            "example_sentence": "The cemented grave of the martyrs was seen near the river.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সিমেন্টেড গ্রেইভ অফ দ্য মার্টিরস ওয়াজ সিন নিয়ার দ্য রিভার।"
+            },
+            "position": 7,
+            "synonyms": "concrete tomb, permanent grave, stone grave",
+            "antonyms": "unmarked grave, temporary burial",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সিমেন্টে বাঁধানো কবর",
+                    "word_transliteration": "simente bandhano kobor",
+                    "example_sentence_translation": "শহীদদের সিমেন্টে বাঁধানো কবর নদীর কাছে দেখা যায়।",
+                    "example_sentence_transliteration": "Shahidder simente bandhano kobor nodir kache dekha jay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "reflection",
+            "phonetic": "rɪˈflɛkʃən",
+            "word_native_transliteration": {
+                "bn": "রিফ্লেকশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤔",
+            "meaning": "Serious thought or consideration about something.",
+            "example_sentence": "The reflection of the past filled his heart with sadness.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রিফ্লেকশন অফ দ্য পাস্ট ফিল্ড হিজ হার্ট উইথ স্যাডনেস।"
+            },
+            "position": 8,
+            "synonyms": "contemplation, meditation, thought, consideration",
+            "antonyms": "distraction, thoughtlessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিফলন",
+                    "word_transliteration": "protipholon",
+                    "example_sentence_translation": "অতীতের প্রতিফলন তার হৃদয়কে বিষাদে ভরিয়ে তুলল।",
+                    "example_sentence_transliteration": "Atiter protipholon tar hridoyke bishade bhoriye tullo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "respect",
+            "phonetic": "rɪˈspɛkt",
+            "word_native_transliteration": {
+                "bn": "রেসপেক্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🙏",
+            "meaning": "A feeling of deep admiration for someone or something.",
+            "example_sentence": "We should show respect to the freedom fighters.",
+            "example_sentence_native_transliteration": {
+                "bn": "উই শুড শো রেসপেক্ট টু দ্য ফ্রিডম ফাইটারস।"
+            },
+            "position": 9,
+            "synonyms": "admiration, honor, reverence, esteem",
+            "antonyms": "disrespect, contempt, disregard",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শ্রদ্ধা",
+                    "word_transliteration": "shroddha",
+                    "example_sentence_translation": "আমাদের মুক্তিযোদ্ধাদের প্রতি শ্রদ্ধা প্রদর্শন করা উচিত।",
+                    "example_sentence_transliteration": "Amader muktijoddhader proti shroddha prodarshon kora uchit.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "gratitude",
+            "phonetic": "ˈɡrætɪtjuːd",
+            "word_native_transliteration": {
+                "bn": "গ্রাটিটিউড"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🙌",
+            "meaning": "The quality of being thankful; readiness to show appreciation.",
+            "example_sentence": "Gratitude towards the martyrs is a moral duty.",
+            "example_sentence_native_transliteration": {
+                "bn": "গ্রাটিটিউড টুওয়ার্ডস দ্য মার্টিরস ইজ এ মোরাল ডিউটি।"
+            },
+            "position": 10,
+            "synonyms": "thankfulness, appreciation, gratefulness",
+            "antonyms": "ingratitude, ungratefulness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কৃতজ্ঞতা",
+                    "word_transliteration": "kritoggnota",
+                    "example_sentence_translation": "শহীদদের প্রতি কৃতজ্ঞতা প্রকাশ করা নৈতিক দায়িত্ব।",
+                    "example_sentence_transliteration": "Shahidder proti kritoggnota prokash kora noitik dayitto.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sacrifice",
+            "phonetic": "ˈsækrɪfaɪs",
+            "word_native_transliteration": {
+                "bn": "স্যাক্রিফাইস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💔",
+            "meaning": "An act of giving up something valued for the sake of something else.",
+            "example_sentence": "The country was freed due to the sacrifice of the warriors.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কান্ট্রি ওয়াজ ফ্রিড ডিউ টু দ্য স্যাক্রিফাইস অফ দ্য ওয়ারিয়র্স।"
+            },
+            "position": 11,
+            "synonyms": "offering, surrender, devotion, martyrdom",
+            "antonyms": "selfishness, greed, self-interest",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আত্মত্যাগ",
+                    "word_transliteration": "attottyag",
+                    "example_sentence_translation": "যোদ্ধাদের আত্মত্যাগের কারণে দেশটি স্বাধীন হয়েছিল।",
+                    "example_sentence_transliteration": "Joddhader attottyager karone deshti shadhin hoyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "emotional",
+            "phonetic": "ɪˈməʊʃənl",
+            "word_native_transliteration": {
+                "bn": "ইমোশনাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "😢",
+            "meaning": "Having feelings that are easily excited and openly displayed.",
+            "example_sentence": "Visiting the burial site made him emotional.",
+            "example_sentence_native_transliteration": {
+                "bn": "ভিজিটিং দ্য বুরিয়াল সাইট মেইড হিম ইমোশনাল।"
+            },
+            "position": 12,
+            "synonyms": "passionate, sensitive, feeling, heartfelt",
+            "antonyms": "unemotional, detached, cold",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আবেগপূর্ণ",
+                    "word_transliteration": "abegpurno",
+                    "example_sentence_translation": "সমাধিস্থল পরিদর্শন তাকে আবেগাপ্লুত করে তুলেছিল।",
+                    "example_sentence_transliteration": "Samadhishthol poridorshon take abegapluto kore tulechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "echoed",
+            "phonetic": "ˈɛkəʊd",
+            "word_native_transliteration": {
+                "bn": "একোড"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔊",
+            "meaning": "To repeat or resound; to be reminiscent of something.",
+            "example_sentence": "The words of gratitude echoed in his heart.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ওয়ার্ডস অফ গ্রাটিটিউড একোড ইন হিজ হার্ট।"
+            },
+            "position": 13,
+            "synonyms": "repeated, resounded, reverberated, reflected",
+            "antonyms": "silenced, muted, absorbed",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিধ্বনি হয়েছে",
+                    "word_transliteration": "protidhoni hoyeche",
+                    "example_sentence_translation": "কৃতজ্ঞতার কথা তার হৃদয়ে প্রতিধ্বনিত হয়।",
+                    "example_sentence_transliteration": "Kritoggnatar kotha tar hridoye protidhonito hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "silence",
+            "phonetic": "ˈsaɪləns",
+            "word_native_transliteration": {
+                "bn": "সাইলেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤫",
+            "meaning": "Complete absence of sound; quietness.",
+            "example_sentence": "Silence filled the air near the graves.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাইলেন্স ফিল্ড দ্য এয়ার নিয়ার দ্য গ্রেইভস।"
+            },
+            "position": 14,
+            "synonyms": "quietness, stillness, hush, peace",
+            "antonyms": "noise, sound, clamor, din",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নীরবতা",
+                    "word_transliteration": "nirobota",
+                    "example_sentence_translation": "কবরের কাছে বাতাসে নীরবতা ভর করেছিল।",
+                    "example_sentence_transliteration": "Koborer kache batase nirobota bhor korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,283 @@
+{
+    "position": 54,
+    "title_translation": {
+        "en": "The Impact of Climate Change",
+        "bn": "জলবায়ু পরিবর্তনের প্রভাব"
+    },
+    "content_translation": {
+        "en": "**Climate change** affects our **environment**, **biodiversity**, and **human society**. As a result of **climate change**, Earth is gradually warming, **weather patterns** are becoming more **extreme**, and **sea levels** are rising. These changes have a profound **impact** on nature, **wildlife**, human settlements, and society. The **impact** of **climate change** caused by humans is **widespread** and long-lasting. If we do not take appropriate **action**, the **situation** will become more **severe**. Experts call this **impact** a **climate crisis**. **Climate change** characteristics are **region-specific**. The **impact** is not the same in all regions of the earth. Most land areas have warmed faster than **oceans**. Temperatures in the **Arctic** region are rising at a much higher rate than other regions. It has multiple effects on **oceans**. These include **ocean temperature rise**, **melting ice**, and **sea level rise**. **Ocean stratification** increase, **Atlantic Meridional Overturning Circulation** (AMOC) weakness, and changes in marine currents are notable. **Ocean acidification** occurs as a result of **atmospheric** CO2 absorption.",
+        "bn": "**Climate change** আমাদের **environment**, **biodiversity**, এবং **human society**-এর উপর প্রভাব ফেলে। **Climate change**-এর ফলে Earth ক্রমশ উষ্ণ হচ্ছে, **weather patterns** আরও চরম হচ্ছে এবং **sea levels** বাড়ছে। এই পরিবর্তনগুলো nature, **wildlife**, মানব বসতি এবং সমাজের উপর গভীর **impact** ফেলে। মানুষের কারণে **climate change**-এর প্রভাব **widespread** এবং দীর্ঘস্থায়ী। যদি আমরা যথাযথ **action** না নিই, তাহলে **situation** আরও **severe** হবে। বিশেষজ্ঞরা এই প্রভাবকে **climate crisis** বলে অভিহিত করেন। **Climate change**-এর বৈশিষ্ট্য **region-specific**। পৃথিবীর সব অঞ্চলে প্রভাব সমান নয়। অধিকাংশ ভূমিভাগ **oceans**-এর তুলনায় দ্রুত উষ্ণ হয়েছে। **Arctic** অঞ্চলে তাপমাত্রা অন্যান্য অঞ্চলের তুলনায় অনেক বেশি হারে বাড়ছে। **Oceans**-এর ওপর এর বহুমুখী প্রভাব রয়েছে। এর মধ্যে আছে **ocean temperature rise**, **melting ice**, এবং **sea level rise**। **Ocean stratification** বৃদ্ধি, **Atlantic Meridional Overturning Circulation** (AMOC)-এর দুর্বলতা, এবং সামুদ্রিক স্রোতের পরিবর্তন উল্লেখযোগ্য। **Atmospheric** CO2 শোষণের ফলে **ocean acidification** ঘটছে।"
+    },
+    "list": [
+        {
+            "word": "impact",
+            "phonetic": "ˈɪmpækt",
+            "word_native_transliteration": {
+                "bn": "ইমপ্যাক্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💥",
+            "meaning": "A strong effect or influence on someone or something.",
+            "example_sentence": "Climate change has a profound impact on biodiversity.",
+            "example_sentence_native_transliteration": {
+                "bn": "ক্লাইমেট চেঞ্জ হ্যাজ অ্যা প্রোফাউন্ড ইমপ্যাক্ট অন বায়োডাইভারসিটি।"
+            },
+            "position": 1,
+            "synonyms": "effect, influence, consequence",
+            "antonyms": "neglect, insignificance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রভাব",
+                    "word_transliteration": "prabhab",
+                    "example_sentence_translation": "জলবায়ু পরিবর্তন জীববৈচিত্র্যের উপর গভীর প্রভাব ফেলে।",
+                    "example_sentence_transliteration": "Jolbayu poriborton jibboichitrer upor gobhir prabhab fele.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "warming",
+            "phonetic": "ˈwɔːrmɪŋ",
+            "word_native_transliteration": {
+                "bn": "ওয়ার্মিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌡️",
+            "meaning": "The process of becoming warmer; an increase in temperature.",
+            "example_sentence": "Global warming accelerates ice melting in polar regions.",
+            "example_sentence_native_transliteration": {
+                "bn": "গ্লোবাল ওয়ার্মিং এক্সিলারেটস আইস মেল্টিং ইন পোলার রিজিয়ন্স।"
+            },
+            "position": 2,
+            "synonyms": "heating, temperature rise",
+            "antonyms": "cooling, freezing",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উষ্ণায়ন",
+                    "word_transliteration": "ushnayon",
+                    "example_sentence_translation": "গ্লোবাল ওয়ার্মিং মেরু অঞ্চলে বরফ গলার গতি বাড়ায়।",
+                    "example_sentence_transliteration": "Global warming meru onchhole borof golar goti baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "extreme",
+            "phonetic": "ɪkˈstriːm",
+            "word_native_transliteration": {
+                "bn": "এক্সট্রিম"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚡",
+            "meaning": "Reaching a high or the highest degree; very great.",
+            "example_sentence": "Extreme weather events are more frequent due to climate change.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সট্রিম ওয়েদার ইভেন্টস আর মোর ফ্রিকোয়েন্ট ডু টু ক্লাইমেট চেঞ্জ।"
+            },
+            "position": 3,
+            "synonyms": "severe, intense, drastic",
+            "antonyms": "mild, moderate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চরম",
+                    "word_transliteration": "chorom",
+                    "example_sentence_translation": "জলবায়ু পরিবর্তনের কারণে চরম আবহাওয়ার ঘটনা বেড়ে যাচ্ছে।",
+                    "example_sentence_transliteration": "Jolbayu poribortonee karone chorom abhowar ghotona bere jachche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "widespread",
+            "phonetic": "ˈwaɪdspred",
+            "word_native_transliteration": {
+                "bn": "ওয়াইডস্প্রেড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌐",
+            "meaning": "Found or distributed over a large area or number of people.",
+            "example_sentence": "The effects of climate change are widespread across the globe.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইফেক্টস অফ ক্লাইমেট চেঞ্জ আর ওয়াইডস্প্রেড অ্যাক্রস দ্য গ্লোব।"
+            },
+            "position": 4,
+            "synonyms": "pervasive, extensive",
+            "antonyms": "limited, narrow",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ব্যাপক",
+                    "word_transliteration": "byapok",
+                    "example_sentence_translation": "জলবায়ু পরিবর্তনের প্রভাব বিশ্বব্যাপী বিস্তৃত।",
+                    "example_sentence_transliteration": "Jolbayu poribortonee prabhab bishbobapi bistrito.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "severe",
+            "phonetic": "sɪˈvɪər",
+            "word_native_transliteration": {
+                "bn": "সিভিয়ার"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚠️",
+            "meaning": "Very great; intense or extreme in degree.",
+            "example_sentence": "Without action, climate change impacts will become severe.",
+            "example_sentence_native_transliteration": {
+                "bn": "উইদাউট অ্যাকশন, ক্লাইমেট চেঞ্জ ইমপ্যাক্টস উইল বিকাম সিভিয়ার।"
+            },
+            "position": 5,
+            "synonyms": "serious, acute, critical",
+            "antonyms": "minor, trivial",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গুরুতর",
+                    "word_transliteration": "gurutor",
+                    "example_sentence_translation": "পদক্ষেপ না নিলে জলবায়ু পরিবর্তনের প্রভাব গুরুতর হবে।",
+                    "example_sentence_transliteration": "Podokkhep na nile jolbayu poribortonee prabhab gurutor hobe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "region-specific",
+            "phonetic": "ˈriːdʒən spəˈsɪfɪk",
+            "word_native_transliteration": {
+                "bn": "রিজিয়ন-স্পেসিফিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🗺️",
+            "meaning": "Relating to or characteristic of a particular region or area.",
+            "example_sentence": "Climate change impacts are region-specific.",
+            "example_sentence_native_transliteration": {
+                "bn": "ক্লাইমেট চেঞ্জ ইমপ্যাক্টস আর রিজিয়ন-স্পেসিফিক।"
+            },
+            "position": 6,
+            "synonyms": "locally unique, area-specific",
+            "antonyms": "global, universal",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অঞ্চলভিত্তিক",
+                    "word_transliteration": "oncholbhittik",
+                    "example_sentence_translation": "জলবায়ু পরিবর্তনের প্রভাব অঞ্চলভিত্তিক।",
+                    "example_sentence_transliteration": "Jolbayu poribortonee prabhab oncholbhittik.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ocean stratification",
+            "phonetic": "ˈoʊʃən ˌstrætɪfɪˈkeɪʃən",
+            "word_native_transliteration": {
+                "bn": "ওশান স্ট্রাটিফিকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌊",
+            "meaning": "The formation of layers in ocean water due to differences in density.",
+            "example_sentence": "Ocean stratification affects marine biodiversity.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওশান স্ট্রাটিফিকেশন অ্যাফেক্টস মেরিন বায়োডাইভারসিটি।"
+            },
+            "position": 7,
+            "synonyms": "layering, segmentation",
+            "antonyms": "homogenization",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মহাসাগরের স্তর বিভাজন",
+                    "word_transliteration": "mohasagorer stor bibhajon",
+                    "example_sentence_translation": "মহাসাগরের স্তর বিভাজন সামুদ্রিক জীববৈচিত্র্যে প্রভাব ফেলে।",
+                    "example_sentence_transliteration": "Mohasagorer stor bibhajon samudrik jibboichitryee prabhab fele.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ocean acidification",
+            "phonetic": "ˈoʊʃən əˌsɪdɪfɪˈkeɪʃən",
+            "word_native_transliteration": {
+                "bn": "ওশান অ্যাসিডিফিকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧪",
+            "meaning": "The ongoing decrease in the pH of the Earth's oceans, caused by the absorption of carbon dioxide from the atmosphere.",
+            "example_sentence": "Ocean acidification is caused by atmospheric CO2 absorption.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওশান অ্যাসিডিফিকেশন ইজ কজড বাই অ্যাটমোস্ফেরিক CO2 অ্যাবসর্পশন।"
+            },
+            "position": 8,
+            "synonyms": "acidic shift, pH decrease",
+            "antonyms": "alkalization",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মহাসাগরের অম্লীকরণ",
+                    "word_transliteration": "mohasagorer omlikoron",
+                    "example_sentence_translation": "বায়ুমণ্ডলীয় CO2 শোষণের কারণে মহাসাগরের অম্লীকরণ ঘটে।",
+                    "example_sentence_transliteration": "Bayumondoliy CO2 shoshonee karone mohasagorer omlikoron ghote.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "irreversible damage",
+            "phonetic": "ˌɪrɪˈvɜːrsəbl ˈdæmɪdʒ",
+            "word_native_transliteration": {
+                "bn": "ইরিভার্সিবল ড্যামেজ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💔",
+            "meaning": "Harm or injury that cannot be undone or repaired.",
+            "example_sentence": "Climate change causes irreversible damage to ecosystems.",
+            "example_sentence_native_transliteration": {
+                "bn": "ক্লাইমেট চেঞ্জ কজেস ইরিভার্সিবল ড্যামেজ টু ইকোসিস্টেমস।"
+            },
+            "position": 9,
+            "synonyms": "permanent harm, non-recoverable loss",
+            "antonyms": "temporary recovery",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অপরিবর্তনীয় ক্ষতি",
+                    "word_transliteration": "oporibortoniyo khoti",
+                    "example_sentence_translation": "জলবায়ু পরিবর্তন বাস্তুতন্ত্রের অপরিবর্তনীয় ক্ষতি ঘটায়।",
+                    "example_sentence_transliteration": "Jolbayu poriborton bastutontrer oporibortoniyo khoti ghotay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "collaboration",
+            "phonetic": "kəˌlæbəˈreɪʃən",
+            "word_native_transliteration": {
+                "bn": "কলাবোরেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "The action of working with someone to produce or create something.",
+            "example_sentence": "Global collaboration is essential to tackle climate change.",
+            "example_sentence_native_transliteration": {
+                "bn": "গ্লোবাল কলাবোরেশন ইজ এসেনশিয়াল টু ট্যাকল ক্লাইমেট চেঞ্জ।"
+            },
+            "position": 10,
+            "synonyms": "cooperation, partnership",
+            "antonyms": "competition, rivalry",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহযোগিতা",
+                    "word_transliteration": "sohojogita",
+                    "example_sentence_translation": "জলবায়ু পরিবর্তন মোকাবিলায় বৈশ্বিক সহযোগিতা অপরিহার্য।",
+                    "example_sentence_transliteration": "Jolbayu poriborton mokabilay boishbik sohojogita oporiharyyo.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

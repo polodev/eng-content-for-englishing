@@ -1,0 +1,283 @@
+{
+    "position": 62,
+    "title_translation": {
+        "en": "Environmental Movement",
+        "bn": "পরিবেশ আন্দোলন"
+    },
+    "content_translation": {
+        "en": "**World Environment Day**: Global Environmental Awareness and the History of the Movement\n\nJune 5 is celebrated worldwide as **World Environment Day**. Since 1974, this day has played a crucial role in increasing **global environmental awareness**. The first **World Environment Day** had the **theme** \"Only One Earth\", which is still **relevant** today. However, the history of the **environmental movement** began much earlier.\n\nOrigins of the Environmental Movement\n\nThe first **environmental movement** began during the **Industrial Revolution** in England in the 19th century. **Air pollution** from factories affected the health of urban populations, and the **urban middle-class** participated in the movement. As a result, the **Alkali Act** was passed in 1863, initiating **environmental law**.\n\nThe world's first **Conservation Movement** began in India. This movement spread to the United States and the **global stage**. In 1892, John Muir founded the **Sierra Club**, which aimed to attract **government attention** to **wildlife conservation** and **natural resources protection**.\n\nThe environmental movement is not limited to legislation; it plays a crucial role in increasing **public awareness**. Major **global issues** like **Climate change**, **deforestation**, and **biodiversity loss** remain at the center of today's environmental movement.",
+        "bn": "**বিশ্ব পরিবেশ দিবস**: **global environmental awareness** বাড়াতে এবং আন্দোলনের ধারা\n\n৫ জুন বিশ্বব্যাপী **World Environment Day** হিসেবে পালিত হয়। ১৯৭৪ সাল থেকে এই দিনটি **global environmental awareness** বাড়াতে গুরুত্বপূর্ণ ভূমিকা পালন করছে। প্রথম **World Environment Day**-এর **theme** ছিল \"Only One Earth\", যা আজও **relevant**। তবে পরিবেশ আন্দোলনের **history** এরও অনেক আগে শুরু হয়েছে।\n\nপরিবেশ আন্দোলনের সূচনা\n\nউনবিংশ শতাব্দীতে **England**-এ **Industrial Revolution**-এর সময় প্রথম **environmental movement** শুরু হয়। কারখানার **air pollution** শহুরে জনগণের **health**-এ প্রভাব ফেলায়, **urban middle-class** জনগণ আন্দোলনে অংশ নেন। এর ফলস্বরূপ, ১৮৬৩ সালে **Alkali Act** পাস হয় এবং **environmental law** চালু হয়।\n\nভারতে বিশ্বের প্রথম **Conservation Movement** শুরু হয়েছিল। এই **movement** মার্কিন যুক্তরাষ্ট্র এবং **global stage**-এ ছড়িয়ে পড়ে। ১৮৯২ সালে John Muir প্রতিষ্ঠা করেন **Sierra Club**, যার লক্ষ্য ছিল **wildlife conservation** এবং **natural resources protection**-এ **government attention** আকর্ষণ করা।\n\nপরিবেশ আন্দোলন শুধু আইন প্রণয়নের মধ্যে সীমাবদ্ধ নয়; এটি **public awareness** বাড়াতে গুরুত্বপূর্ণ ভূমিকা পালন করে। **Climate change**, **deforestation**, এবং **biodiversity loss** এর মতো বড় **global issues** আজকের পরিবেশ আন্দোলনের কেন্দ্রে রয়েছে।"
+    },
+    "list": [
+        {
+            "word": "World Environment Day",
+            "phonetic": "/wɜːrld ɪnˈvaɪrənmənt deɪ/",
+            "word_native_transliteration": {
+                "bn": "ওয়ার্ল্ড এনভায়রনমেন্ট ডে"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌍",
+            "meaning": "An annual global event celebrated on June 5 to raise awareness about environmental protection and encourage action for environmental conservation.",
+            "example_sentence": "World Environment Day is celebrated every year on June 5.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওয়ার্ল্ড এনভায়রনমেন্ট ডে ইজ সেলিব্রেটেড এভরি ইয়ার অন জুন ৫।"
+            },
+            "position": 1,
+            "synonyms": "Environment Day, Earth Day, Green Day, Conservation Day, Ecology Day, Nature Day",
+            "antonyms": "Non-observance, Unawareness, Environmental Neglect, Pollution Day, Destruction Day, Exploitation Day",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিশ্ব পরিবেশ দিবস",
+                    "word_transliteration": "bishho poribesh dibosh",
+                    "example_sentence_translation": "প্রতি বছর ৫ জুন বিশ্ব পরিবেশ দিবস পালিত হয়।",
+                    "example_sentence_transliteration": "Proti bochor 5 jun bishho poribesh dibosh palit hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "theme",
+            "phonetic": "/θiːm/",
+            "word_native_transliteration": {
+                "bn": "থিম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The subject or main idea of a talk, piece of writing, exhibition, etc.; a unifying idea that is a recurrent element in a literary or artistic work.",
+            "example_sentence": "The theme of the first World Environment Day was \"Only One Earth\".",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য থিম অফ দ্য ফার্স্ট ওয়ার্ল্ড এনভায়রনমেন্ট ডে ওয়াজ \"ওনলি ওয়ান আর্থ\"।"
+            },
+            "position": 2,
+            "synonyms": "subject, topic, motif, idea, concept, message",
+            "antonyms": "randomness, insignificance, irrelevance, chaos, disorder, confusion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "থিম",
+                    "word_transliteration": "thim",
+                    "example_sentence_translation": "প্রথম বিশ্ব পরিবেশ দিবসের থিম ছিল \"একটিমাত্র পৃথিবী\"।",
+                    "example_sentence_transliteration": "Prothom bishho poribesh dibosher thim chhilo \"ekti matro prithibi\".",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "global awareness",
+            "phonetic": "/ˈɡloʊbəl əˈwɛrnɪs/",
+            "word_native_transliteration": {
+                "bn": "গ্লোবাল অ্যাওয়ারনেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌐",
+            "meaning": "Worldwide consciousness and understanding of important issues that affect people globally, leading to informed action and policy changes.",
+            "example_sentence": "Global awareness of climate change is essential for policy changes.",
+            "example_sentence_native_transliteration": {
+                "bn": "গ্লোবাল অ্যাওয়ারনেস অফ ক্লাইমেট চেঞ্জ ইজ এসেনশিয়াল ফর পলিসি চেঞ্জেস।"
+            },
+            "position": 3,
+            "synonyms": "worldwide consciousness, international understanding, global recognition, universal knowledge, planetary awareness, collective consciousness",
+            "antonyms": "local unawareness, ignorance, indifference, apathy, unconsciousness, obliviousness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৈশ্বিক সচেতনতা",
+                    "word_transliteration": "boishbhik sochetonta",
+                    "example_sentence_translation": "জলবায়ু পরিবর্তন সম্পর্কে বৈশ্বিক সচেতনতা নীতিগত পরিবর্তনের জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Jolbayu poriborton shomporke boishbhik sochetonta nitigoto poribortoner jonno oporhharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Industrial Revolution",
+            "phonetic": "/ɪnˈdʌstriəl ˌrɛvəˈluːʃən/",
+            "word_native_transliteration": {
+                "bn": "ইন্ডাস্ট্রিয়াল রেভোলিউশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏭",
+            "meaning": "The rapid development of industry that occurred in Britain in the late 18th and 19th centuries, brought about by the introduction of machinery and characterized by the use of steam power and the growth of factories.",
+            "example_sentence": "The Industrial Revolution marked a shift in production processes.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইন্ডাস্ট্রিয়াল রেভোলিউশন মার্কড অ্যা শিফট ইন প্রোডাকশন প্রসেসেস।"
+            },
+            "position": 4,
+            "synonyms": "industrialization, mechanical revolution, factory system, manufacturing revolution, technological advancement, economic transformation",
+            "antonyms": "agricultural era, pre-industrial age, deindustrialization, traditional economy, manual production, craft economy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শিল্প বিপ্লব",
+                    "word_transliteration": "shilpo biplob",
+                    "example_sentence_translation": "শিল্প বিপ্লব উৎপাদন প্রক্রিয়ায় একটি পরিবর্তনের সূচনা করেছিল।",
+                    "example_sentence_transliteration": "Shilpo biplob utpadon prokroyay ekti poribortoner suchona korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "environmental movement",
+            "phonetic": "/ɪnˌvaɪrənˈmɛntəl ˈmuːvmənt/",
+            "word_native_transliteration": {
+                "bn": "এনভায়রনমেন্টাল মুভমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌱",
+            "meaning": "A social or political movement aimed at protecting the environment and promoting sustainable practices through advocacy, education, and policy changes.",
+            "example_sentence": "The environmental movement focuses on reducing pollution and protecting ecosystems.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এনভায়রনমেন্টাল মুভমেন্ট ফোকাসেস অন রিডিউসিং পলিউশন অ্যান্ড প্রটেক্টিং ইকোসিস্টেমস।"
+            },
+            "position": 5,
+            "synonyms": "conservation movement, green movement, ecological activism, environmental activism, sustainability movement, eco-movement",
+            "antonyms": "environmental neglect, indifference, exploitation, destruction, pollution advocacy, anti-environmental stance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিবেশ আন্দোলন",
+                    "word_transliteration": "poribesh andolon",
+                    "example_sentence_translation": "পরিবেশ আন্দোলন দূষণ কমানো এবং বাস্তুতন্ত্র রক্ষার উপর ফোকাস করে।",
+                    "example_sentence_transliteration": "Poribesh andolon dushon komano ebong bastutontro rokshar upor focus kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "air pollution",
+            "phonetic": "/ɛr pəˈluːʃən/",
+            "word_native_transliteration": {
+                "bn": "এয়ার পলিউশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏭",
+            "meaning": "The presence of harmful or poisonous substances in the air, typically caused by industrial processes, vehicle emissions, or other human activities.",
+            "example_sentence": "Air pollution from factories led to the first environmental movement.",
+            "example_sentence_native_transliteration": {
+                "bn": "এয়ার পলিউশন ফ্রম ফ্যাক্টরিস লেড টু দ্য ফার্স্ট এনভায়রনমেন্টাল মুভমেন্ট।"
+            },
+            "position": 6,
+            "synonyms": "atmospheric pollution, smog, toxic air, contaminated air, polluted atmosphere, airborne toxins",
+            "antonyms": "clean air, air purity, fresh air, unpolluted atmosphere, pristine air, pure atmosphere",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বায়ু দূষণ",
+                    "word_transliteration": "bayu dushon",
+                    "example_sentence_translation": "কারখানার বায়ু দূষণের কারণে প্রথম পরিবেশ আন্দোলনের সূচনা হয়।",
+                    "example_sentence_transliteration": "Karkhanaer bayu dushoner karone prothom poribesh andoloner suchona hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Alkali Act",
+            "phonetic": "/ˈæl.kə.laɪ ækt/",
+            "word_native_transliteration": {
+                "bn": "আলকালি অ্যাক্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "A British law passed in 1863 to regulate the emission of hydrochloric acid gas from alkali works, representing one of the first pieces of environmental legislation.",
+            "example_sentence": "The Alkali Act of 1863 was one of the first environmental laws.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য আলকালি অ্যাক্ট অফ ১৮৬৩ ওয়াজ ওয়ান অফ দ্য ফার্স্ট এনভায়রনমেন্টাল লস।"
+            },
+            "position": 7,
+            "synonyms": "environmental law, pollution control act, regulatory legislation, environmental regulation, industrial control law, emission control act",
+            "antonyms": "no regulation, deregulation, lawlessness, uncontrolled emission, environmental neglect, industrial freedom",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আলকালি আইন",
+                    "word_transliteration": "alkali ain",
+                    "example_sentence_translation": "১৮৬ৃ সালের আলকালি আইন ছিল প্রথম পরিবেশ আইনগুলোর একটি।",
+                    "example_sentence_transliteration": "1863 saler alkali ain chhilo prothom poribesh ainggulor ekti.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Conservation Movement",
+            "phonetic": "/ˌkɒnsərˈveɪʃən ˈmuːvmənt/",
+            "word_native_transliteration": {
+                "bn": "কনসারভেশন মুভমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🦎",
+            "meaning": "A political, environmental, and social movement that seeks to protect natural resources including plant and animal species as well as their habitat for the future.",
+            "example_sentence": "The conservation movement began in the 19th century to protect wildlife.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কনসারভেশন মুভমেন্ট বিগ্যান ইন দ্য ১৯থ সেঞ্চুরি টু প্রোটেক্ট ওয়াইল্ডলাইফ।"
+            },
+            "position": 8,
+            "synonyms": "preservation movement, wildlife protection, natural resource protection, environmental conservation, ecological preservation, nature conservation",
+            "antonyms": "exploitation, destruction, depletion, overuse, environmental degradation, resource depletion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংরক্ষণ আন্দোলন",
+                    "word_transliteration": "shongrokkhon andolon",
+                    "example_sentence_translation": "১৯শ শতাব্দীতে বন্য প্রাণী সংরক্ষণের জন্য সংরক্ষণ আন্দোলনের সূচনা হয়।",
+                    "example_sentence_transliteration": "19sh shotabdite bonno prani shongrokkhoner jonno shongrokkhon andoloner suchona hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Sierra Club",
+            "phonetic": "/siˈɛrə klʌb/",
+            "word_native_transliteration": {
+                "bn": "সিয়েরা ক্লাব"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏔️",
+            "meaning": "An American environmental organization founded in 1892 by John Muir, focused on promoting conservation of the natural environment by influencing public policy decisions.",
+            "example_sentence": "John Muir founded the Sierra Club in 1892 to protect wild areas.",
+            "example_sentence_native_transliteration": {
+                "bn": "জন মিউর ফাউন্ডেড দ্য সিয়েরা ক্লাব ইন ১৮৯২ টু প্রোটেক্ট ওয়াইল্ড এরিয়াস।"
+            },
+            "position": 9,
+            "synonyms": "environmental organization, conservation group, nature protection society, ecological club, wilderness society, green organization",
+            "antonyms": "no club, no organization, environmental destruction group, anti-conservation society, exploitation organization, industrial lobby",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সিয়েরা ক্লাব",
+                    "word_transliteration": "siyera klub",
+                    "example_sentence_translation": "জন মিউর ১৮৯২ সালে বন্য এলাকার সংরক্ষণে সিয়েরা ক্লাব প্রতিষ্ঠা করেন।",
+                    "example_sentence_transliteration": "Jon miur 1892 sale bonno elakar shongrokkhone siyera klub protishtha koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "wildlife conservation",
+            "phonetic": "/ˈwaɪld.laɪf ˌkɒnsərˈveɪʃən/",
+            "word_native_transliteration": {
+                "bn": "ওয়াইল্ডলাইফ কনসারভেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🦏",
+            "meaning": "The practice of protecting wild animal species and their habitats in order to maintain healthy wildlife species or populations and to restore, protect or enhance natural ecosystems.",
+            "example_sentence": "Wildlife conservation aims to protect endangered species.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওয়াইল্ডলাইফ কনসারভেশন অ্যাইমস টু প্রোটেক্ট ইনডেঞ্জারড স্পিশিজ।"
+            },
+            "position": 10,
+            "synonyms": "animal protection, species preservation, habitat conservation, biodiversity protection, ecological conservation, nature preservation",
+            "antonyms": "wildlife exploitation, habitat loss, species extinction, environmental destruction, poaching, deforestation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বন্য প্রাণী সংরক্ষণ",
+                    "word_transliteration": "bonno prani shongrokkhon",
+                    "example_sentence_translation": "বন্য প্রাণী সংরক্ষণ বিপন্ন প্রজাতির সুরক্ষায় কাজ করে।",
+                    "example_sentence_transliteration": "Bonno prani shongrokkhon biponno projatir shurokkhay kaj kore.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

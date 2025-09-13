@@ -1,0 +1,256 @@
+{
+    "position": 61,
+    "title_translation": {
+        "en": "Digital Literacy",
+        "bn": "ডিজিটাল সাক্ষরতা"
+    },
+    "content_translation": {
+        "en": "**Digital literacy** has emerged as an **indispensable competency** in the 21st century. It is the skill of **data creation** and **critical analysis** through digital technology. Today, students are achieving **proficiency** in digital literacy for **academic success** and **professional readiness**.\n\nTeachers are using **innovative tools** of technology in the classroom. From traditional opinion publications to **scientific documentation**, **pedagogical opportunities** have been unveiled in all these areas. Through this, technology helps create **engaging learning experiences** for students.\n\nThe **primary objective** of digital literacy is to create **multifaceted information frameworks** and ensure **efficient dissemination**. It has been identified as a new method of **computational communication**. After the previous **language, writing, and printing revolutions**, it can be considered **the fourth revolution**.\n\nThe development of the printing revolution took several centuries, but **digital technologies** and the internet have **exponentially** increased this spread. This provides a joint explanation of today's **media dominance** and economic **transformation**.",
+        "bn": "ডিজিটাল সাক্ষরতা একবিংশ শতকের **indispensable competency** হিসেবে উঠে এসেছে। এটি হল ডিজিটাল প্রযুক্তির মাধ্যমে **data creation** এবং **critical analysis** করার দক্ষতা। আজকের দিনে, শিক্ষার্থীরা **academic success** এবং **professional readiness** অর্জনের জন্য ডিজিটাল সাক্ষরতায় **proficiency** অর্জন করছে।\n\nশিক্ষকরা শ্রেণীকক্ষে প্রযুক্তির **innovative tools** ব্যবহার করছেন। ঐতিহাসিক মতামত প্রকাশ থেকে শুরু করে **scientific documentation**, এই সমস্ত ক্ষেত্রে **pedagogical opportunities** উন্মোচিত হয়েছে। এর মাধ্যমে প্রযুক্তি ছাত্রছাত্রীদের **engaging learning experiences** তৈরি করতে সহায়তা করছে।\n\nডিজিটাল সাক্ষরতার **primary objective** হল **multifaceted information frameworks** তৈরি করা এবং **efficient dissemination** নিশ্চিত করা। এটি **computational communication** এর একটি নতুন পদ্ধতি হিসাবে চিহ্নিত হয়েছে। পূর্বের **language, writing, and printing revolutions**-এর পরে, এটি **the fourth revolution** হিসেবে গণ্য হতে পারে।\n\nমুদ্রণ বিপ্লবের বিকাশে কয়েক শতাব্দী লেগেছিল, কিন্তু **digital technologies** এবং ইন্টারনেট **exponentially** এই প্রসার বাড়িয়েছে। এটি আজকের **media dominance** এবং অর্থনৈতিক **transformation** এর যৌথ ব্যাখ্যা দেয়।"
+    },
+    "list": [
+        {
+            "word": "indispensable competency",
+            "phonetic": "ˌɪndɪˈspensəbl̩ ˈkɒmpɪtənsi",
+            "word_native_transliteration": {
+                "bn": "ইন্ডিসপেনসেবল কম্পিটেন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "Essential skill or ability that cannot be done without; a crucial capability that is absolutely necessary.",
+            "example_sentence": "Digital literacy is an indispensable competency in the 21st century.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিজিটাল লিটারেসি ইজ অ্যান ইন্ডিসপেনসেবল কম্পিটেন্সি ইন দ্য ২১স্ট সেঞ্চুরি।"
+            },
+            "position": 1,
+            "synonyms": "Essential skill, Critical capability, Fundamental proficiency",
+            "antonyms": "Optional ability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অপরিহার্য দক্ষতা",
+                    "word_transliteration": "oporiharzho dokkhota",
+                    "example_sentence_translation": "একবিংশ শতাব্দীতে ডিজিটাল সাক্ষরতা একটি অপরিহার্য দক্ষতা।",
+                    "example_sentence_transliteration": "Ekbingso shotabdite digital shaakkhorata ekti oporiharzho dokkhota.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "proficiency",
+            "phonetic": "prəˈfɪʃənsi",
+            "word_native_transliteration": {
+                "bn": "প্রোফিসিয়েন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "A high degree of competence or skill; expertise in a particular area or subject.",
+            "example_sentence": "Proficiency in digital tools is critical for modern education.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোফিসিয়েন্সি ইন ডিজিটাল টুলস ইজ ক্রিটিকাল ফর মডার্ন এডুকেশন।"
+            },
+            "position": 2,
+            "synonyms": "Expertise, Mastery, Competence",
+            "antonyms": "Incompetence, Ineptitude",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষতা",
+                    "word_transliteration": "dokkhota",
+                    "example_sentence_translation": "আধুনিক শিক্ষায় ডিজিটাল টুলের দক্ষতা অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Adhunik shikkhay digital tuler dokkhota ottyonto gurutbopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "innovative tools",
+            "phonetic": "ˈɪnəveɪtɪv tuːlz",
+            "word_native_transliteration": {
+                "bn": "ইনোভেটিভ টুলস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛠️",
+            "meaning": "Creative devices or advanced technologies that introduce new methods or approaches to accomplish tasks.",
+            "example_sentence": "Teachers use innovative tools to enhance classroom learning.",
+            "example_sentence_native_transliteration": {
+                "bn": "টিচার্স ইউজ ইনোভেটিভ টুলস টু এনহ্যান্স ক্লাসরুম লার্নিং।"
+            },
+            "position": 3,
+            "synonyms": "Creative devices, Advanced technologies",
+            "antonyms": "Conventional tools",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্ভাবনী সরঞ্জাম",
+                    "word_transliteration": "udbhaboni shoranjam",
+                    "example_sentence_translation": "শিক্ষকরা শ্রেণীকক্ষের শিক্ষাকে উন্নত করতে উদ্ভাবনী সরঞ্জাম ব্যবহার করেন।",
+                    "example_sentence_transliteration": "Shikhokra shrenikkokkhher shikkhake unoto korte udbhaboni shoranjam bebohar koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "engaging learning experiences",
+            "phonetic": "ɪnˈɡeɪdʒɪŋ ˈlɜːrnɪŋ ɪkˈspɪəriənsɪz",
+            "word_native_transliteration": {
+                "bn": "এনগেজিং লার্নিং এক্সপিরিয়েন্সেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎓",
+            "meaning": "Interactive and immersive educational activities that capture students' attention and actively involve them in the learning process.",
+            "example_sentence": "Digital tools create engaging learning experiences.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিজিটাল টুলস ক্রিয়েট এনগেজিং লার্নিং এক্সপিরিয়েন্সেস।"
+            },
+            "position": 4,
+            "synonyms": "Interactive education, Immersive learning",
+            "antonyms": "Passive education",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আকর্ষণীয় শিক্ষার অভিজ্ঞতা",
+                    "word_transliteration": "akorshoniyo shikkhar ovijjota",
+                    "example_sentence_translation": "ডিজিটাল সরঞ্জাম আকর্ষণীয় শিক্ষার অভিজ্ঞতা তৈরি করে।",
+                    "example_sentence_transliteration": "Digital shoranjam akorshoniyo shikkhar ovijjota toiri kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "multifaceted information frameworks",
+            "phonetic": "ˌmʌltɪˈfæsɪtɪd ˌɪnfərˈmeɪʃən ˈfreɪmwɜːrks",
+            "word_native_transliteration": {
+                "bn": "মাল্টিফ্যাসেটেড ইনফরমেশন ফ্রেমওয়ার্কস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🗂️",
+            "meaning": "Complex, comprehensive structures for organizing and managing information that have multiple aspects or dimensions.",
+            "example_sentence": "Digital literacy involves building multifaceted information frameworks.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিজিটাল লিটারেসি ইনভলভস বিল্ডিং মাল্টিফ্যাসেটেড ইনফরমেশন ফ্রেমওয়ার্কস।"
+            },
+            "position": 5,
+            "synonyms": "Comprehensive structures, Complex systems",
+            "antonyms": "Simplistic structures",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বহুমুখী তথ্য কাঠামো",
+                    "word_transliteration": "bohumukhi tothyo kathamo",
+                    "example_sentence_translation": "ডিজিটাল সাক্ষরতা বহুমুখী তথ্য কাঠামো গঠনের উপর জোর দেয়।",
+                    "example_sentence_transliteration": "Digital shaakkhorata bohumukhi tothyo kathamo gothoner upor jor dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "computational communication",
+            "phonetic": "ˌkɒmpjʊˈteɪʃənəl kəˌmjuːnɪˈkeɪʃən",
+            "word_native_transliteration": {
+                "bn": "কম্পিউটেশনাল কমিউনিকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💻",
+            "meaning": "Digital exchange and automated interaction; the use of computational methods and systems to facilitate communication and information sharing.",
+            "example_sentence": "Computational communication is reshaping how we share information.",
+            "example_sentence_native_transliteration": {
+                "bn": "কম্পিউটেশনাল কমিউনিকেশন ইজ রিশেপিং হাউ উই শেয়ার ইনফরমেশন।"
+            },
+            "position": 6,
+            "synonyms": "Digital exchange, Automated interaction",
+            "antonyms": "Manual communication",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "যান্ত্রিক যোগাযোগ",
+                    "word_transliteration": "yantrik jogajog",
+                    "example_sentence_translation": "যান্ত্রিক যোগাযোগ আমাদের তথ্য বিনিময়ের পদ্ধতি পুনর্গঠন করছে।",
+                    "example_sentence_transliteration": "Yantrik jogajog amader tothyo binimoyer poddhoti punorgothon korche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "exponentially",
+            "phonetic": "ˌekspəˈnenʃəli",
+            "word_native_transliteration": {
+                "bn": "এক্সপোনেনশিয়ালি"
+            },
+            "parts_of_speech": "adverb",
+            "emoji": "📈",
+            "meaning": "At a rapidly increasing rate; growing or expanding very quickly and intensely.",
+            "example_sentence": "Internet adoption is growing exponentially worldwide.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইন্টারনেট অ্যাডপশন ইজ গ্রোয়িং এক্সপোনেনশিয়ালি ওয়ার্ল্ডওয়াইড।"
+            },
+            "position": 7,
+            "synonyms": "Rapidly, Intensely, Steeply",
+            "antonyms": "Gradually, Slowly",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্রুত গতিতে",
+                    "word_transliteration": "druto gotite",
+                    "example_sentence_translation": "বিশ্বব্যাপী ইন্টারনেট গ্রহণ দ্রুত বাড়ছে।",
+                    "example_sentence_transliteration": "Bishbobapi internet grohon druto barche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "media dominance",
+            "phonetic": "ˈmiːdiə ˈdɒmɪnəns",
+            "word_native_transliteration": {
+                "bn": "মিডিয়া ডমিন্যান্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📺",
+            "meaning": "The control and powerful influence that media has over communication and information distribution in society.",
+            "example_sentence": "The internet has enhanced media dominance globally.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইন্টারনেট হ্যাজ এনহ্যান্সড মিডিয়া ডমিন্যান্স গ্লোবালি।"
+            },
+            "position": 8,
+            "synonyms": "Media control, Communication power",
+            "antonyms": "Media obscurity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গণমাধ্যমের আধিপত্য",
+                    "word_transliteration": "gonmaddhomer adhipotto",
+                    "example_sentence_translation": "ইন্টারনেট বিশ্বব্যাপী গণমাধ্যমের আধিপত্য বাড়িয়েছে।",
+                    "example_sentence_transliteration": "Internet bishbobapi gonmaddhomer adhipotto bariyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "transformation",
+            "phonetic": "ˌtrænsfərˈmeɪʃən",
+            "word_native_transliteration": {
+                "bn": "ট্রান্সফরমেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "A thorough or dramatic change in form, appearance, or character; a complete alteration or evolution.",
+            "example_sentence": "Digital literacy leads to economic transformation.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিজিটাল লিটারেসি লিডস টু ইকোনমিক ট্রান্সফরমেশন।"
+            },
+            "position": 9,
+            "synonyms": "Change, Evolution, Overhaul",
+            "antonyms": "Stagnation, Preservation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রূপান্তর",
+                    "word_transliteration": "rupantor",
+                    "example_sentence_translation": "ডিজিটাল সাক্ষরতা অর্থনৈতিক রূপান্তর ঘটায়।",
+                    "example_sentence_transliteration": "Digital shaakkhorata orthonnoitik rupantor ghotay.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,661 @@
+{
+    "position": 70,
+    "title_translation": {
+        "en": "Bangladesh Victory Day",
+        "bn": "বাংলাদেশ বিজয় দিবস"
+    },
+    "content_translation": {
+        "en": "December 16, **Bangladesh Victory Day**, is a **historic** and **significant** day for the Bengali nation. After 9 months of **relentless struggle** and **sacrifice** in the liberation war of 1971, the country achieved **freedom** on this day. The **unmatched bravery** and **patriotism** of the freedom fighters gave birth to an independent Bangladesh.\n\nFrom morning, the entire country celebrates with **solemn respect** and **immense pride**. Flowers are offered with respect at the **National Martyrs' Memorial**. The President, Prime Minister, and thousands of people gather to pay **tribute** to the **freedom fighters**. **National flags** fly throughout the city, and the entire country creates a joyful atmosphere with illumination.\n\nIn schools and **colleges**, this day is celebrated through **cultural events**, songs, and poetry recitation. Dramas are performed about the **heroism**, **courage**, and **unity** of the liberation war. **Victory Day** reminds us of the **sacrifice**, **patriotism**, and **determination** with which Bangladesh achieved its **independence**. This day remains a symbol of our **collective identity** and **pride**.",
+        "bn": "১৬ই ডিসেম্বর, **Bangladesh Victory Day**, বাঙালি জাতির জন্য একটি **historic** এবং **significant** দিন। ১৯৭১ সালের মুক্তিযুদ্ধে ৯ মাসের **relentless struggle** এবং **sacrifice** এর পর এই দিনেই দেশ অর্জন করে **freedom**। মুক্তিযোদ্ধাদের **unmatched bravery** এবং **patriotism** একটি স্বাধীন বাংলাদেশের জন্ম দিয়েছিল।\n\nসকাল থেকেই পুরো দেশ **solemn respect** এবং **immense pride**-এ উদযাপন করে। **National Martyrs' Memorial**-এ ফুল দিয়ে শ্রদ্ধা জানানো হয়। রাষ্ট্রপতি, প্রধানমন্ত্রী সহ হাজারো মানুষ **freedom fighters**-দের **tribute** জানাতে উপস্থিত হন। শহরজুড়ে জাতীয় পতাকা উড়তে থাকে, আর আলোকসজ্জায় দেশজুড়ে এক আনন্দময় পরিবেশ তৈরি হয়।\n\nস্কুল এবং **colleges**-এ **cultural events**, **songs**, এবং **poetry recitation** এর মাধ্যমে এই দিনটি উদযাপন করা হয়। মুক্তিযুদ্ধের **heroism**, **courage** এবং **unity** নিয়ে নাটক পরিবেশন করা হয়। **Victory Day** reminds us of the **sacrifice**, **patriotism** এবং **determination** যা দিয়ে বাংলাদেশ অর্জন করেছে তার **independence**। এই দিনটি আমাদের **collective identity** এবং গৌরবের প্রতীক হয়ে থাকবে।"
+    },
+    "list": [
+        {
+            "word": "victory",
+            "phonetic": "ˈvɪktəri",
+            "word_native_transliteration": {
+                "bn": "ভিক্টরি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏆",
+            "meaning": "The act of defeating an enemy or opponent in a battle, game, or other competition.",
+            "example_sentence": "The victory of Bangladesh on December 16 is a moment of pride.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ভিক্টরি অফ বাংলাদেশ অন ডিসেম্বার ১৬ ইজ অ্যা মোমেন্ট অফ প্রাইড।"
+            },
+            "position": 1,
+            "synonyms": "success, triumph, conquest, achievement, win",
+            "antonyms": "defeat, loss, failure, surrender",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিজয়",
+                    "word_transliteration": "bijoy",
+                    "example_sentence_translation": "১৬ ডিসেম্বরের বিজয় আমাদের গর্ব।",
+                    "example_sentence_transliteration": "16 December-er bijoy amader gorbo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "historic",
+            "phonetic": "hɪˈstɔːrɪk",
+            "word_native_transliteration": {
+                "bn": "হিস্টোরিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📜",
+            "meaning": "Famous or significant in history, or potentially so.",
+            "example_sentence": "Victory Day is a historic moment for Bangladesh.",
+            "example_sentence_native_transliteration": {
+                "bn": "ভিক্টরি ডে ইজ অ্যা হিস্টোরিক মোমেন্ট ফর বাংলাদেশ।"
+            },
+            "position": 2,
+            "synonyms": "historical, momentous, significant, important, memorable",
+            "antonyms": "modern, ordinary, contemporary, insignificant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ঐতিহাসিক",
+                    "word_transliteration": "oitihashik",
+                    "example_sentence_translation": "বিজয় দিবস বাংলাদেশের জন্য একটি ঐতিহাসিক মুহূর্ত।",
+                    "example_sentence_transliteration": "Bijoy dibosh Bangladesh-er jonno ekti oitihashik muhurto.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "significant",
+            "phonetic": "sɪɡˈnɪfɪkənt",
+            "word_native_transliteration": {
+                "bn": "সিগনিফিক্যান্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⭐",
+            "meaning": "Sufficiently great or important to be worthy of attention; noteworthy.",
+            "example_sentence": "The victory holds significant importance for the nation.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ভিক্টরি হোল্ডস সিগনিফিক্যান্ট ইম্পর্ট্যান্স ফর দ্য নেশন।"
+            },
+            "position": 3,
+            "synonyms": "important, meaningful, considerable, notable, substantial",
+            "antonyms": "insignificant, trivial, unimportant, minor",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গুরুত্বপূর্ণ",
+                    "word_transliteration": "gurutbopurno",
+                    "example_sentence_translation": "এই বিজয় জাতির জন্য গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Ei bijoy jatir jonno gurutbopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "relentless",
+            "phonetic": "rɪˈlɛntləs",
+            "word_native_transliteration": {
+                "bn": "রিলেন্টলেস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💪",
+            "meaning": "Oppressively constant; incessant; showing no abatement of severity, intensity, strength, or pace.",
+            "example_sentence": "The freedom fighters' relentless struggle led to victory.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফ্রিডম ফাইটার্স' রিলেন্টলেস স্ট্রাগল লেড টু ভিক্টরি।"
+            },
+            "position": 4,
+            "synonyms": "persistent, unyielding, determined, continuous, unwavering",
+            "antonyms": "gentle, merciful, intermittent, yielding",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিরলস",
+                    "word_transliteration": "nirolos",
+                    "example_sentence_translation": "মুক্তিযোদ্ধাদের নিরলস সংগ্রাম বিজয় এনেছিল।",
+                    "example_sentence_transliteration": "Muktijoddhadder nirolos shongram bijoy enechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "struggle",
+            "phonetic": "ˈstrʌɡəl",
+            "word_native_transliteration": {
+                "bn": "স্ট্রাগল"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚔️",
+            "meaning": "A forceful or violent effort to get free of restraint or resist attack.",
+            "example_sentence": "The country's independence came after a long struggle.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কান্ট্রিজ ইন্ডিপেন্ডেন্স কেম আফটার অ্যা লং স্ট্রাগল।"
+            },
+            "position": 5,
+            "synonyms": "fight, battle, conflict, effort, endeavor",
+            "antonyms": "ease, success, peace, surrender",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংগ্রাম",
+                    "word_transliteration": "shongram",
+                    "example_sentence_translation": "দীর্ঘ সংগ্রামের পর দেশ স্বাধীনতা পেয়েছিল।",
+                    "example_sentence_transliteration": "Dirgho shongramer por desh shadhinota peyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sacrifice",
+            "phonetic": "ˈsækrɪˌfaɪs",
+            "word_native_transliteration": {
+                "bn": "স্যাক্রিফাইস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🙏",
+            "meaning": "An act of giving up something valued for the sake of something else regarded as more important or worthy.",
+            "example_sentence": "Their sacrifice will never be forgotten.",
+            "example_sentence_native_transliteration": {
+                "bn": "দেয়ার স্যাক্রিফাইস উইল নেভার বি ফরগটেন।"
+            },
+            "position": 6,
+            "synonyms": "offering, surrender, giving up, devotion, martyrdom",
+            "antonyms": "selfishness, gain, greed, self-interest",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আত্মত্যাগ",
+                    "word_transliteration": "atmotyag",
+                    "example_sentence_translation": "তাদের আত্মত্যাগ কখনো ভোলা যাবে না।",
+                    "example_sentence_transliteration": "Tader atmotyag kokhono bhola jabe na.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "freedom",
+            "phonetic": "ˈfriːdəm",
+            "word_native_transliteration": {
+                "bn": "ফ্রিডম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🗽",
+            "meaning": "The state of being free or at liberty rather than in confinement or under physical restraint.",
+            "example_sentence": "The victory brought freedom to Bangladesh.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ভিক্টরি ব্রট ফ্রিডম টু বাংলাদেশ।"
+            },
+            "position": 7,
+            "synonyms": "liberty, independence, emancipation, autonomy, release",
+            "antonyms": "captivity, oppression, bondage, slavery",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বাধীনতা",
+                    "word_transliteration": "shadhinota",
+                    "example_sentence_translation": "বিজয় বাংলাদেশে স্বাধীনতা এনেছিল।",
+                    "example_sentence_transliteration": "Bijoy Bangladesh-e shadhinota enechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "unmatched",
+            "phonetic": "ʌnˈmætʃt",
+            "word_native_transliteration": {
+                "bn": "আনম্যাচড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌟",
+            "meaning": "Not equaled or rivaled by any other; without equal.",
+            "example_sentence": "The freedom fighters showed unmatched bravery.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফ্রিডম ফাইটার্স শোড আনম্যাচড ব্রেভারি।"
+            },
+            "position": 8,
+            "synonyms": "unequaled, incomparable, unique, peerless, unrivaled",
+            "antonyms": "comparable, ordinary, matched, equaled",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতুলনীয়",
+                    "word_transliteration": "otuloniyo",
+                    "example_sentence_translation": "মুক্তিযোদ্ধারা অতুলনীয় সাহস দেখিয়েছিলেন।",
+                    "example_sentence_transliteration": "Muktijoddhra otuloniyo shahos dekhiyechhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "bravery",
+            "phonetic": "ˈbreɪvəri",
+            "word_native_transliteration": {
+                "bn": "ব্রেভারি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🦁",
+            "meaning": "Courageous behavior or character; the quality of being brave.",
+            "example_sentence": "The bravery of our soldiers is unforgettable.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ব্রেভারি অফ আওয়ার সোলজার্স ইজ আনফরগেটেবল।"
+            },
+            "position": 9,
+            "synonyms": "courage, valor, heroism, gallantry, fearlessness",
+            "antonyms": "cowardice, fear, timidity, weakness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সাহস",
+                    "word_transliteration": "shahos",
+                    "example_sentence_translation": "আমাদের সৈনিকদের সাহস অমলিন।",
+                    "example_sentence_transliteration": "Amader shoinikder shahos omolin.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "patriotism",
+            "phonetic": "ˈpeɪtriəˌtɪzəm",
+            "word_native_transliteration": {
+                "bn": "প্যাট্রিয়টিজম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🇧🇩",
+            "meaning": "The quality of being patriotic; devotion to and vigorous support for one's country.",
+            "example_sentence": "Victory Day reflects the patriotism of the entire nation.",
+            "example_sentence_native_transliteration": {
+                "bn": "ভিক্টরি ডে রিফ্লেক্টস দ্য প্যাট্রিয়টিজম অফ দ্য এন্টায়ার নেশন।"
+            },
+            "position": 10,
+            "synonyms": "nationalism, loyalty, devotion, allegiance, love of country",
+            "antonyms": "disloyalty, treachery, treason, betrayal",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দেশপ্রেম",
+                    "word_transliteration": "deshprem",
+                    "example_sentence_translation": "বিজয় দিবস পুরো জাতির দেশপ্রেমকে তুলে ধরে।",
+                    "example_sentence_transliteration": "Bijoy dibosh puro jatir deshpremke tule dhore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "solemn",
+            "phonetic": "ˈsɑːləm",
+            "word_native_transliteration": {
+                "bn": "সলেমন"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🙏",
+            "meaning": "Formal and dignified; characterized by deep sincerity.",
+            "example_sentence": "The day begins with a solemn ceremony at the memorial.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডে বিগিনস উইথ অ্যা সলেমন সেরিমনি অ্যাট দ্য মেমোরিয়াল।"
+            },
+            "position": 11,
+            "synonyms": "serious, grave, formal, dignified, ceremonial",
+            "antonyms": "cheerful, informal, lighthearted, casual",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গম্ভীর",
+                    "word_transliteration": "gomvir",
+                    "example_sentence_translation": "এই দিনটি স্মৃতিসৌধে গম্ভীর অনুষ্ঠানের মাধ্যমে শুরু হয়।",
+                    "example_sentence_transliteration": "Ei dinti smritishoudhe gomvir onushthan-er madhome shuru hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "respect",
+            "phonetic": "rɪˈspɛkt",
+            "word_native_transliteration": {
+                "bn": "রেসপেক্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🙏",
+            "meaning": "A feeling of deep admiration for someone or something elicited by their abilities, qualities, or achievements.",
+            "example_sentence": "The people pay respect to the martyrs.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য পিপল পে রেসপেক্ট টু দ্য মার্টিরস।"
+            },
+            "position": 12,
+            "synonyms": "admiration, esteem, regard, reverence, honor",
+            "antonyms": "disrespect, contempt, scorn, disregard",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শ্রদ্ধা",
+                    "word_transliteration": "shroddha",
+                    "example_sentence_translation": "মানুষ শহীদদের প্রতি শ্রদ্ধা নিবেদন করে।",
+                    "example_sentence_transliteration": "Manush shohidder proti shroddha nibedon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "memorial",
+            "phonetic": "məˈmɔːriəl",
+            "word_native_transliteration": {
+                "bn": "মেমোরিয়াল"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏛️",
+            "meaning": "A structure or building made to remind people of a person or event.",
+            "example_sentence": "Thousands gather at the National Memorial.",
+            "example_sentence_native_transliteration": {
+                "bn": "থাউজেন্ডস গ্যাদার অ্যাট দ্য ন্যাশনাল মেমোরিয়াল।"
+            },
+            "position": 13,
+            "synonyms": "monument, remembrance, tribute, commemoration, shrine",
+            "antonyms": "neglect, forgetfulness, oblivion, disregard",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্মৃতিসৌধ",
+                    "word_transliteration": "smritishoudh",
+                    "example_sentence_translation": "হাজারো মানুষ জাতীয় স্মৃতিসৌধে জড়ো হয়।",
+                    "example_sentence_transliteration": "Hajaro manush jatiyo smritishoudhe joro hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "tribute",
+            "phonetic": "ˈtrɪbjuːt",
+            "word_native_transliteration": {
+                "bn": "ট্রিবিউট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌹",
+            "meaning": "An act, statement, or gift that is intended to show gratitude, respect, or admiration.",
+            "example_sentence": "They paid tribute to the brave freedom fighters.",
+            "example_sentence_native_transliteration": {
+                "bn": "দে পেইড ট্রিবিউট টু দ্য ব্রেভ ফ্রিডম ফাইটার্স।"
+            },
+            "position": 14,
+            "synonyms": "homage, honor, acknowledgment, recognition, salute",
+            "antonyms": "dishonor, disrespect, insult, criticism",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শ্রদ্ধা নিবেদন",
+                    "word_transliteration": "shroddha nibedon",
+                    "example_sentence_translation": "তারা সাহসী মুক্তিযোদ্ধাদের প্রতি শ্রদ্ধা নিবেদন করেন।",
+                    "example_sentence_transliteration": "Tara shahoshi muktijoddhadder proti shroddha nibedon koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "flags",
+            "phonetic": "flæɡz",
+            "word_native_transliteration": {
+                "bn": "ফ্ল্যাগস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏴",
+            "meaning": "A piece of cloth or similar material, typically oblong or square, attachable by one edge to a pole or rope.",
+            "example_sentence": "The streets were decorated with national flags.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্ট্রিটস ওয়ার ডেকোরেটেড উইথ ন্যাশনাল ফ্ল্যাগস।"
+            },
+            "position": 15,
+            "synonyms": "banners, standards, ensigns, pennants, colors",
+            "antonyms": "emptiness, bare, plain, undecorated",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পতাকা",
+                    "word_transliteration": "potaka",
+                    "example_sentence_translation": "রাস্তাগুলো জাতীয় পতাকা দিয়ে সাজানো হয়েছিল।",
+                    "example_sentence_transliteration": "Rastagulo jatiyo potaka diye shajano hoyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cultural",
+            "phonetic": "ˈkʌltʃərəl",
+            "word_native_transliteration": {
+                "bn": "কালচারাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎭",
+            "meaning": "Relating to the arts and to intellectual achievements.",
+            "example_sentence": "Schools organize cultural programs to honor Victory Day.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্কুলস অর্গানাইজ কালচারাল প্রোগ্রামস টু অনার ভিক্টরি ডে।"
+            },
+            "position": 16,
+            "synonyms": "artistic, intellectual, civilizing, educational, social",
+            "antonyms": "unrefined, noncultural, primitive, uncultured",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সাংস্কৃতিক",
+                    "word_transliteration": "shangskritik",
+                    "example_sentence_translation": "স্কুলগুলো বিজয় দিবস উদযাপনে সাংস্কৃতিক অনুষ্ঠান আয়োজন করে।",
+                    "example_sentence_transliteration": "Schoolgulo bijoy dibosh uddapon-e shangskritik onushthan ayojon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "events",
+            "phonetic": "ɪˈvɛnts",
+            "word_native_transliteration": {
+                "bn": "ইভেন্টস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎪",
+            "meaning": "A thing that happens, especially one of importance.",
+            "example_sentence": "Several events were held across the country.",
+            "example_sentence_native_transliteration": {
+                "bn": "সেভেরাল ইভেন্টস ওয়ার হেল্ড অ্যাক্রস দ্য কান্ট্রি।"
+            },
+            "position": 17,
+            "synonyms": "occasions, happenings, incidents, activities, ceremonies",
+            "antonyms": "idleness, inactivity, stillness, quietness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনুষ্ঠান",
+                    "word_transliteration": "onushthan",
+                    "example_sentence_translation": "সারাদেশে বিভিন্ন অনুষ্ঠান অনুষ্ঠিত হয়।",
+                    "example_sentence_transliteration": "Sharadeshe bibhinno onushthan oshihito hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "heroism",
+            "phonetic": "ˈhɛroʊˌɪzəm",
+            "word_native_transliteration": {
+                "bn": "হিরোইজম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🦸",
+            "meaning": "Great bravery; the qualities or attributes of a hero.",
+            "example_sentence": "The heroism of freedom fighters inspires the nation.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য হিরোইজম অফ ফ্রিডম ফাইটার্স ইনস্পায়ার্স দ্য নেশন।"
+            },
+            "position": 18,
+            "synonyms": "bravery, valor, courage, gallantry, boldness",
+            "antonyms": "cowardice, timidity, fear, weakness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বীরত্ব",
+                    "word_transliteration": "birotbo",
+                    "example_sentence_translation": "মুক্তিযোদ্ধাদের বীরত্ব জাতিকে অনুপ্রাণিত করে।",
+                    "example_sentence_transliteration": "Muktijoddhadder birotbo jatike onupranito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "unity",
+            "phonetic": "ˈjuːnəti",
+            "word_native_transliteration": {
+                "bn": "ইউনিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "The state of being united or joined as a whole.",
+            "example_sentence": "Unity among people led to victory.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইউনিটি অ্যামং পিপল লেড টু ভিক্টরি।"
+            },
+            "position": 19,
+            "synonyms": "solidarity, harmony, togetherness, agreement, cooperation",
+            "antonyms": "division, separation, discord, disunity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ঐক্য",
+                    "word_transliteration": "oikyo",
+                    "example_sentence_translation": "মানুষের ঐক্য বিজয় এনেছিল।",
+                    "example_sentence_transliteration": "Manusher oikyo bijoy enechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "courage",
+            "phonetic": "ˈkɜːrɪdʒ",
+            "word_native_transliteration": {
+                "bn": "কারেজ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "The ability to do something that frightens one; bravery.",
+            "example_sentence": "Courage is essential in the face of challenges.",
+            "example_sentence_native_transliteration": {
+                "bn": "কারেজ ইজ এসেনশিয়াল ইন দ্য ফেস অফ চ্যালেঞ্জেস।"
+            },
+            "position": 20,
+            "synonyms": "bravery, valor, fearlessness, boldness, daring",
+            "antonyms": "fear, cowardice, timidity, weakness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সাহস",
+                    "word_transliteration": "shahos",
+                    "example_sentence_translation": "চ্যালেঞ্জ মোকাবিলায় সাহস অপরিহার্য।",
+                    "example_sentence_transliteration": "Challenge mokabilay shahos oporiharro.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "independence",
+            "phonetic": "ˌɪndɪˈpɛndəns",
+            "word_native_transliteration": {
+                "bn": "ইন্ডিপেন্ডেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🗽",
+            "meaning": "The fact or state of being independent; freedom from outside control or support.",
+            "example_sentence": "Bangladesh gained its independence on December 16.",
+            "example_sentence_native_transliteration": {
+                "bn": "বাংলাদেশ গেইনড ইটস ইন্ডিপেন্ডেন্স অন ডিসেম্বার ১৬।"
+            },
+            "position": 21,
+            "synonyms": "freedom, liberty, autonomy, sovereignty, self-rule",
+            "antonyms": "dependence, subjugation, bondage, captivity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বাধীনতা",
+                    "word_transliteration": "shadhinota",
+                    "example_sentence_translation": "১৬ ডিসেম্বর বাংলাদেশ তার স্বাধীনতা অর্জন করেছিল।",
+                    "example_sentence_transliteration": "16 December Bangladesh tar shadhinota orjon korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "collective",
+            "phonetic": "kəˈlɛktɪv",
+            "word_native_transliteration": {
+                "bn": "কালেক্টিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "👥",
+            "meaning": "Done by people acting as a group; shared by all members of a group.",
+            "example_sentence": "Victory Day represents our collective pride.",
+            "example_sentence_native_transliteration": {
+                "bn": "ভিক্টরি ডে রিপ্রেজেন্টস আওয়ার কালেক্টিভ প্রাইড।"
+            },
+            "position": 22,
+            "synonyms": "group, joint, combined, shared, united",
+            "antonyms": "individual, separate, personal, private",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সম্মিলিত",
+                    "word_transliteration": "shommilito",
+                    "example_sentence_translation": "বিজয় দিবস আমাদের সম্মিলিত গর্ব প্রকাশ করে।",
+                    "example_sentence_transliteration": "Bijoy dibosh amader shommilito gorbo prokash kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "identity",
+            "phonetic": "aɪˈdɛntɪti",
+            "word_native_transliteration": {
+                "bn": "আইডেন্টিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🪪",
+            "meaning": "The fact of being who or what a person or thing is; the characteristics determining who or what a person or thing is.",
+            "example_sentence": "The day reinforces our national identity.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডে রিইনফোর্সেস আওয়ার ন্যাশনাল আইডেন্টিটি।"
+            },
+            "position": 23,
+            "synonyms": "character, personality, individuality, uniqueness, self",
+            "antonyms": "anonymity, confusion, uncertainty, ambiguity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিচয়",
+                    "word_transliteration": "porichoy",
+                    "example_sentence_translation": "এই দিন আমাদের জাতীয় পরিচয়কে দৃঢ় করে।",
+                    "example_sentence_transliteration": "Ei din amader jatiyo porichoyke driro kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pride",
+            "phonetic": "praɪd",
+            "word_native_transliteration": {
+                "bn": "প্রাইড"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "😊",
+            "meaning": "A feeling of deep pleasure or satisfaction derived from one's own achievements or from achievements associated with one.",
+            "example_sentence": "Victory Day fills our hearts with pride.",
+            "example_sentence_native_transliteration": {
+                "bn": "ভিক্টরি ডে ফিলস আওয়ার হার্টস উইথ প্রাইড।"
+            },
+            "position": 24,
+            "synonyms": "satisfaction, honor, dignity, self-respect, joy",
+            "antonyms": "shame, humility, embarrassment, disgrace",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গর্ব",
+                    "word_transliteration": "gorbo",
+                    "example_sentence_translation": "বিজয় দিবস আমাদের গর্বে হৃদয় পূর্ণ করে।",
+                    "example_sentence_transliteration": "Bijoy dibosh amader gorbe hridoy purno kore.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

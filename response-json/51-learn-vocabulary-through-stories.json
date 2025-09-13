@@ -1,0 +1,526 @@
+{
+    "position": 51,
+    "title_translation": {
+        "en": "World's First Fault-Tolerant Quantum Computer",
+        "bn": "বিশ্বের প্রথম ত্রুটি-সহনশীল কোয়ান্টাম কম্পিউটার"
+    },
+    "content_translation": {
+        "en": "**Fault-tolerance** in quantum computing is a major **challenge**. Qubits are extremely **sensitive**, so minimizing errors is **crucial**. Recently, a company called QuEra announced the launch of the world's first fault-tolerant quantum computer, combining 256 **physical** qubits and 10 **logical** qubits. This is an important **milestone**. Australia has also taken **significant** steps toward the same goal. The country has announced its **ambition** to create the world's first fault-tolerant commercial quantum computer. **GlobalFoundries** and PsyQuantum have jointly taken **initiative** to build full-scale quantum computers. These **projects** will play important roles in the **future** development of quantum computing. The development of **fault-tolerant** quantum computers will make complex problem-solving more **reliable** and **efficient**. This will bring **revolutionary** changes to **research**, **industry**, and **science** fields.",
+        "bn": "কোয়ান্টাম কম্পিউটিংয়ে **fault-tolerance** অর্জন একটি বড় **challenge**। কিউবিটগুলো অত্যন্ত **sensitive**, তাই ত্রুটি কমিয়ে আনা অত্যন্ত **crucial**। সম্প্রতি QuEra নামক একটি প্রতিষ্ঠান ২৫৬টি **physical** qubits এবং ১০টি **logical** qubits সমন্বিত বিশ্বের প্রথম ত্রুটি-সহনশীল কোয়ান্টাম কম্পিউটার চালু করার ঘোষণা দেয়। এটি একটি গুরুত্বপূর্ণ **milestone**। অস্ট্রেলিয়াও একই লক্ষ্যে **significant** পদক্ষেপ নিয়েছে। দেশটি বিশ্বের প্রথম ত্রুটি-সহনশীল বাণিজ্যিক কোয়ান্টাম কম্পিউটার তৈরি করার **ambition** প্রকাশ করেছে। **GlobalFoundries** এবং PsyQuantum যৌথভাবে পূর্ণ-স্কেল কোয়ান্টাম কম্পিউটার নির্মাণের **initiative** নিয়েছে। এই **projects** কোয়ান্টাম কম্পিউটিংয়ের **future** উন্নয়নে গুরুত্বপূর্ণ ভূমিকা রাখবে। **Fault-tolerant** কোয়ান্টাম কম্পিউটার উন্নয়নের ফলে জটিল সমস্যার সমাধান আরও **reliable** ও **efficient** হবে। এটি **research**, **industry**, এবং **science** ক্ষেত্রে **revolutionary** পরিবর্তন আনবে।"
+    },
+    "list": [
+        {
+            "word": "fault-tolerance",
+            "phonetic": "fɔːlt ˈtɒl.ər.əns",
+            "word_native_transliteration": {
+                "bn": "ফল্ট-টলারেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔧",
+            "meaning": "The ability of a system to continue operating properly in the event of the failure of some of its components.",
+            "example_sentence": "Fault-tolerance ensures dependable systems.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফল্ট-টলারেন্স এনশিওর ডিপেনডেবল সিস্টেমস।"
+            },
+            "position": 1,
+            "synonyms": "error-resilience, robustness",
+            "antonyms": "fragility, vulnerability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ত্রুটি সহনশীলতা",
+                    "word_transliteration": "truti sohonshilota",
+                    "example_sentence_translation": "ত্রুটি-সহনশীলতা নির্ভরযোগ্য সিস্টেম নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Truti-sohonshilota nirbhorojaggyo sistem nishchito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "challenge",
+            "phonetic": "ˈtʃæl.ɪndʒ",
+            "word_native_transliteration": {
+                "bn": "চ্যালেঞ্জ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "A task or situation that tests someone's abilities or resources in a demanding but stimulating way.",
+            "example_sentence": "Overcoming challenges leads to progress.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওভারকামিং চ্যালেঞ্জেস লিডস টু প্রগ্রেস।"
+            },
+            "position": 2,
+            "synonyms": "difficulty, obstacle",
+            "antonyms": "ease, simplicity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সমস্যা বা প্রতিযোগিতা",
+                    "word_transliteration": "shomoshsha ba protijogita",
+                    "example_sentence_translation": "চ্যালেঞ্জ অতিক্রম অগ্রগতির পথ তৈরি করে।",
+                    "example_sentence_transliteration": "Challenge otikrom ongrogotir poth tori kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sensitive",
+            "phonetic": "ˈsen.sɪ.tɪv",
+            "word_native_transliteration": {
+                "bn": "সেনসিটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔬",
+            "meaning": "Quick to detect or respond to slight changes, signals, or influences.",
+            "example_sentence": "Sensitive systems require precise handling.",
+            "example_sentence_native_transliteration": {
+                "bn": "সেনসিটিভ সিস্টেমস রিকয়ার প্রিসাইস হ্যান্ডলিং।"
+            },
+            "position": 3,
+            "synonyms": "delicate, reactive",
+            "antonyms": "insensitive, robust",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংবেদনশীল",
+                    "word_transliteration": "shongbedonshl",
+                    "example_sentence_translation": "সংবেদনশীল সিস্টেম সঠিক পরিচালনা প্রয়োজন।",
+                    "example_sentence_transliteration": "Shongbedonshl sistem shothik porichalona proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "crucial",
+            "phonetic": "ˈkruː.ʃəl",
+            "word_native_transliteration": {
+                "bn": "ক্রুশিয়াল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚡",
+            "meaning": "Decisive or critical, especially in the success or failure of something.",
+            "example_sentence": "Fault-tolerance is crucial for reliability.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফল্ট-টলারেন্স ইজ ক্রুশিয়াল ফর রিলায়াবিলিটি।"
+            },
+            "position": 4,
+            "synonyms": "vital, essential",
+            "antonyms": "trivial, optional",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অত্যন্ত গুরুত্বপূর্ণ",
+                    "word_transliteration": "ottanto guru-ttopurno",
+                    "example_sentence_translation": "ত্রুটি সহনশীলতা নির্ভরযোগ্যতার জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Truti sohonshilota nirbhorojaggottar jonnо oporihajo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "physical",
+            "phonetic": "ˈfɪz.ɪ.kəl",
+            "word_native_transliteration": {
+                "bn": "ফিজিক্যাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔬",
+            "meaning": "Relating to things perceived through the senses as opposed to the mind; tangible or concrete.",
+            "example_sentence": "Physical components form the system's base.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফিজিক্যাল কম্পোনেন্টস ফর্ম দ্য সিস্টেমস বেস।"
+            },
+            "position": 5,
+            "synonyms": "tangible, material",
+            "antonyms": "abstract, virtual",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভৌত",
+                    "word_transliteration": "vout",
+                    "example_sentence_translation": "ভৌত উপাদানগুলো সিস্টেমের ভিত্তি গঠন করে।",
+                    "example_sentence_transliteration": "Vout upadangulo sistemer bhitti gothon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "logical",
+            "phonetic": "ˈlɒdʒ.ɪ.kəl",
+            "word_native_transliteration": {
+                "bn": "লজিক্যাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧠",
+            "meaning": "Of or according to the rules of logic or formal argument.",
+            "example_sentence": "Logical circuits ensure effective computation.",
+            "example_sentence_native_transliteration": {
+                "bn": "লজিক্যাল সার্কিটস এনশিওর এফেক্টিভ কম্পিউটেশন।"
+            },
+            "position": 6,
+            "synonyms": "rational, coherent",
+            "antonyms": "illogical, irrational",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "যুক্তিসঙ্গত",
+                    "word_transliteration": "juktishongoto",
+                    "example_sentence_translation": "যুক্তিসঙ্গত সার্কিট কার্যকর গণনা নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Juktishongoto circuit karjokoro gonona nishchito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "milestone",
+            "phonetic": "ˈmaɪl.stəʊn",
+            "word_native_transliteration": {
+                "bn": "মাইলস্টোন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏆",
+            "meaning": "An action or event marking a significant change or stage in development.",
+            "example_sentence": "This project is a milestone in innovation.",
+            "example_sentence_native_transliteration": {
+                "bn": "দিস প্রজেক্ট ইজ এ মাইলস্টোন ইন ইনোভেশন।"
+            },
+            "position": 7,
+            "synonyms": "landmark, breakthrough",
+            "antonyms": "negligibility, insignificance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মাইলফলক",
+                    "word_transliteration": "mailfولক",
+                    "example_sentence_translation": "এই প্রকল্পটি উদ্ভাবনে একটি মাইলফলক।",
+                    "example_sentence_transliteration": "Ei prokolpoti udbhabne ekti mailfولک.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "significant",
+            "phonetic": "sɪɡˈnɪf.ɪ.kənt",
+            "word_native_transliteration": {
+                "bn": "সিগনিফিক্যান্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📈",
+            "meaning": "Sufficiently great or important to be worthy of attention; noteworthy.",
+            "example_sentence": "Significant progress has been made in computing.",
+            "example_sentence_native_transliteration": {
+                "bn": "সিগনিফিক্যান্ট প্রগ্রেস হ্যাজ বিন মেড ইন কম্পিউটিং।"
+            },
+            "position": 8,
+            "synonyms": "important, noteworthy",
+            "antonyms": "insignificant, minor",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গুরুত্বপূর্ণ",
+                    "word_transliteration": "guru-ttopurno",
+                    "example_sentence_translation": "গণনায় উল্লেখযোগ্য অগ্রগতি হয়েছে।",
+                    "example_sentence_transliteration": "Gononay ullekhjoggo ongrogoti hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ambition",
+            "phonetic": "æmˈbɪʃ.ən",
+            "word_native_transliteration": {
+                "bn": "অ্যাম্বিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "A strong desire to do or achieve something, typically requiring determination and hard work.",
+            "example_sentence": "Their ambition is to build a quantum computer.",
+            "example_sentence_native_transliteration": {
+                "bn": "দেয়ার অ্যাম্বিশন ইজ টু বিল্ড এ কোয়ান্টাম কম্পিউটার।"
+            },
+            "position": 9,
+            "synonyms": "aspiration, goal",
+            "antonyms": "indifference, apathy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উচ্চাকাঙ্ক্ষা",
+                    "word_transliteration": "uchchakangkha",
+                    "example_sentence_translation": "তাদের উচ্চাকাঙ্ক্ষা একটি কোয়ান্টাম কম্পিউটার তৈরি করা।",
+                    "example_sentence_transliteration": "Tader uchchakangkha ekti quantum computer tori kora.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "GlobalFoundries",
+            "phonetic": "ˈɡləʊbəl ˈfaʊndriz",
+            "word_native_transliteration": {
+                "bn": "গ্লোবাল ফাউন্ড্রিজ"
+            },
+            "parts_of_speech": "proper noun",
+            "emoji": "🏭",
+            "meaning": "A specific company in semiconductor manufacturing.",
+            "example_sentence": "GlobalFoundries is a leading semiconductor company.",
+            "example_sentence_native_transliteration": {
+                "bn": "গ্লোবাল ফাউন্ড্রিজ ইজ এ লিডিং সেমিকন্ডাক্টর কোম্পানি।"
+            },
+            "position": 10,
+            "synonyms": "semiconductor company",
+            "antonyms": "N/A",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গ্লোবাল ফাউন্ড্রিজ",
+                    "word_transliteration": "global foundries",
+                    "example_sentence_translation": "গ্লোবাল ফাউন্ড্রিজ একটি নেতৃস্থানীয় সেমিকন্ডাক্টর কোম্পানি।",
+                    "example_sentence_transliteration": "Global foundries ekti netristhaniyo semiconductor company.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "initiative",
+            "phonetic": "ɪˈnɪʃ.ə.tɪv",
+            "word_native_transliteration": {
+                "bn": "ইনিশিয়েটিভ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚀",
+            "meaning": "An act or strategy intended to resolve a difficulty or improve a situation; a fresh approach to something.",
+            "example_sentence": "Joint initiatives are driving innovation.",
+            "example_sentence_native_transliteration": {
+                "bn": "জয়েন্ট ইনিশিয়েটিভস আর ড্রাইভিং ইনোভেশন।"
+            },
+            "position": 11,
+            "synonyms": "enterprise, effort",
+            "antonyms": "lethargy, passivity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্যোগ",
+                    "word_transliteration": "uddog",
+                    "example_sentence_translation": "যৌথ উদ্যোগ উদ্ভাবন চালাচ্ছে।",
+                    "example_sentence_transliteration": "Jouth uddog udbhabon chalachche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "projects",
+            "phonetic": "ˈprɒdʒ.ekts",
+            "word_native_transliteration": {
+                "bn": "প্রজেক্টস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📋",
+            "meaning": "Individual or collaborative enterprises that are carefully planned to achieve a particular aim.",
+            "example_sentence": "These projects aim for technological breakthroughs.",
+            "example_sentence_native_transliteration": {
+                "bn": "দিজ প্রজেক্টস এইম ফর টেকনোলজিক্যাল ব্রেকথ্রুস।"
+            },
+            "position": 12,
+            "synonyms": "plans, ventures",
+            "antonyms": "failures, abandonments",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রকল্প",
+                    "word_transliteration": "prokolpo",
+                    "example_sentence_translation": "এই প্রকল্পগুলো প্রযুক্তিগত অগ্রগতির লক্ষ্যে কাজ করে।",
+                    "example_sentence_transliteration": "Ei prokolpogulo projuktegoto ongrogotir lokkhe kaj kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "future",
+            "phonetic": "ˈfjuː.tʃər",
+            "word_native_transliteration": {
+                "bn": "ফিউচার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔮",
+            "meaning": "The time or a period of time following the moment of speaking or writing; time regarded as still to come.",
+            "example_sentence": "The future of AI is promising.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফিউচার অব এআই ইজ প্রমিসিং।"
+            },
+            "position": 13,
+            "synonyms": "prospect, foresight",
+            "antonyms": "past, history",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভবিষ্যৎ",
+                    "word_transliteration": "bhobisshot",
+                    "example_sentence_translation": "AI-এর ভবিষ্যৎ আশাব্যঞ্জক।",
+                    "example_sentence_transliteration": "AI-er bhobisshot ashabjjonok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "reliable",
+            "phonetic": "rɪˈlaɪ.ə.bəl",
+            "word_native_transliteration": {
+                "bn": "রিলায়েবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "✅",
+            "meaning": "Consistently good in quality or performance; able to be trusted.",
+            "example_sentence": "Reliable systems ensure efficiency.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিলায়েবল সিস্টেমস এনশিওর এফিশিয়েন্সি।"
+            },
+            "position": 14,
+            "synonyms": "dependable, trustworthy",
+            "antonyms": "unreliable, fragile",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নির্ভরযোগ্য",
+                    "word_transliteration": "nirbhorojaggyo",
+                    "example_sentence_translation": "নির্ভরযোগ্য সিস্টেম দক্ষতা নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Nirbhorojaggyo sistem dokkhota nishchito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "efficient",
+            "phonetic": "ɪˈfɪʃ.ənt",
+            "word_native_transliteration": {
+                "bn": "এফিশিয়েন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚡",
+            "meaning": "Achieving maximum productivity with minimum wasted effort or expense.",
+            "example_sentence": "Efficient systems reduce processing time.",
+            "example_sentence_native_transliteration": {
+                "bn": "এফিশিয়েন্ট সিস্টেমস রিডিউস প্রসেসিং টাইম।"
+            },
+            "position": 15,
+            "synonyms": "productive, effective",
+            "antonyms": "inefficient, wasteful",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষ",
+                    "word_transliteration": "dokkhо",
+                    "example_sentence_translation": "দক্ষ সিস্টেম প্রক্রিয়াকরণের সময় হ্রাস করে।",
+                    "example_sentence_transliteration": "Dokkho sistem prokrigakoroner shomoy hrash kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "research",
+            "phonetic": "rɪˈsɜːtʃ",
+            "word_native_transliteration": {
+                "bn": "রিসার্চ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔬",
+            "meaning": "The systematic investigation into and study of materials and sources in order to establish facts and reach new conclusions.",
+            "example_sentence": "Research drives advancements in AI.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিসার্চ ড্রাইভস অ্যাডভান্সমেন্টস ইন এআই।"
+            },
+            "position": 16,
+            "synonyms": "investigation, study",
+            "antonyms": "guesswork, neglect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গবেষণা",
+                    "word_transliteration": "gobeshona",
+                    "example_sentence_translation": "গবেষণা AI-এ অগ্রগতিকে চালিত করে।",
+                    "example_sentence_transliteration": "Gobeshona AI-e ongrogotike chalito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "industry",
+            "phonetic": "ˈɪn.də.stri",
+            "word_native_transliteration": {
+                "bn": "ইন্ডাস্ট্রি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏭",
+            "meaning": "Economic activity concerned with the processing of raw materials and manufacture of goods in factories.",
+            "example_sentence": "The AI industry is expanding rapidly.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এআই ইন্ডাস্ট্রি ইজ এক্সপান্ডিং র‍্যাপিডলি।"
+            },
+            "position": 17,
+            "synonyms": "sector, field",
+            "antonyms": "stagnation, idleness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শিল্প",
+                    "word_transliteration": "shilpo",
+                    "example_sentence_translation": "AI শিল্প দ্রুত সম্প্রসারিত হচ্ছে।",
+                    "example_sentence_transliteration": "AI shilpo druto shomprosarito hocche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "science",
+            "phonetic": "ˈsaɪəns",
+            "word_native_transliteration": {
+                "bn": "সায়েন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔬",
+            "meaning": "The intellectual and practical activity encompassing the systematic study of the structure and behaviour of the physical and natural world through observation and experiment.",
+            "example_sentence": "Science continues to explore the unknown.",
+            "example_sentence_native_transliteration": {
+                "bn": "সায়েন্স কন্টিনিউজ টু এক্সপ্লোর দ্য আননোন।"
+            },
+            "position": 18,
+            "synonyms": "knowledge, study",
+            "antonyms": "ignorance, nescience",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিজ্ঞান",
+                    "word_transliteration": "biggan",
+                    "example_sentence_translation": "বিজ্ঞান অজানা বিষয়গুলি অন্বেষণ করছে।",
+                    "example_sentence_transliteration": "Biggan ojana bishoyগুlি onbeshon korche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "revolutionary",
+            "phonetic": "ˌrev.əˈluː.ʃən.ər.i",
+            "word_native_transliteration": {
+                "bn": "রেভলিউশনারি"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌟",
+            "meaning": "Involving or causing a complete or dramatic change.",
+            "example_sentence": "Revolutionary technologies reshape industries.",
+            "example_sentence_native_transliteration": {
+                "bn": "রেভলিউশনারি টেকনোলজিজ রিশেইপ ইন্ডাস্ট্রিজ।"
+            },
+            "position": 19,
+            "synonyms": "transformative, innovative",
+            "antonyms": "traditional, conventional",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিপ্লবী",
+                    "word_transliteration": "biplobі",
+                    "example_sentence_translation": "বিপ্লবী প্রযুক্তি শিল্পকে পুনর্গঠিত করছে।",
+                    "example_sentence_transliteration": "Biplobі projukti shilpoke punorgorhito korche.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

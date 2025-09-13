@@ -1,0 +1,769 @@
+{
+    "position": 64,
+    "title_translation": {
+        "en": "Learn Vocabulary Through Stories - Sarco Capsule",
+        "bn": "গল্পের মাধ্যমে শব্দভান্ডার শিখুন - সার্কো ক্যাপসুল"
+    },
+    "content_translation": {
+        "en": "The **Sarco capsule** is an **innovative device** designed to simplify the **process** of voluntary death. It operates through **algorithm-driven technology**, ensuring a **pain-free exit** for users. The capsule's **design** is such that when a **button** is **pressed**, **oxygen levels** gradually decrease, causing **cerebral oxygen supply** to stop within a minute. This **procedure** is completely **calm** and **painless**.\n\nHowever, there are **ethical** and **legal debates** surrounding this **technological innovation**. Some consider it a symbol of **human rights** and **freedom of choice**, while others raise questions about its **controversial nature**.\n\nThe **Sarco capsule** is a **groundbreaking invention** that has brought new **perspectives** and **discussions** to society. It highlights the need to find a **balance** between technology's **potential** and ethics.",
+        "bn": "সার্কো ক্যাপসুল হল একটি **innovative device**, যা ইচ্ছা মৃত্যুর **process**-কে সহজতর করার জন্য তৈরি। এটি **algorithm-driven technology**-এর মাধ্যমে পরিচালিত, যা ব্যবহারকারীর জন্য **pain-free exit** নিশ্চিত করে। ক্যাপসুলের **design** এমনভাবে তৈরি হয়েছে যে, একটি **button press** করলে **oxygen levels** ধীরে ধীরে কমে যায়, যার ফলে এক মিনিটের মধ্যে **cerebral oxygen supply** বন্ধ হয়ে যায়। এই **procedure** সম্পূর্ণ **calm** and **painless**।\n\nতবে, এই **technological innovation** নিয়ে **ethical** এবং **legal debates** রয়েছে। কেউ কেউ এটিকে **human rights** এবং **freedom of choice**-এর প্রতীক বলে মনে করেন, আবার অনেকেই এর **controversial nature** নিয়ে প্রশ্ন তুলেছেন।\n\nসার্কো ক্যাপসুল একটি **groundbreaking invention**, যা সমাজে নতুন **perspectives** এবং **discussions** নিয়ে এসেছে। এটি প্রযুক্তির **potential** এবং নৈতিকতার মধ্যে **balance** খুঁজে বের করার প্রয়োজনীয়তাকে তুলে ধরে।"
+    },
+    "list": [
+        {
+            "word": "capsule",
+            "phonetic": "ˈkæp.sjuːl",
+            "word_native_transliteration": {
+                "bn": "ক্যাপসুল"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💊",
+            "meaning": "A small soluble case of gelatin containing a dose of medicine, swallowed whole.",
+            "example_sentence": "Capsules contain controlled environments.",
+            "example_sentence_native_transliteration": {
+                "bn": "ক্যাপসুলস কনটেইন কন্ট্রোলড এনভায়রনমেন্টস।"
+            },
+            "position": 1,
+            "synonyms": "pod, container",
+            "antonyms": "expansion, uncovered",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্যাপসুল। ক্ষুদ্র সিলিন্ডার।",
+                    "word_transliteration": "kyapsul. khudro silindaar.",
+                    "example_sentence_translation": "ক্যাপসুল নিয়ন্ত্রিত পরিবেশ ধারণ করে।",
+                    "example_sentence_transliteration": "Kyapsul niyontrito poribesh dharone kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "innovative",
+            "phonetic": "ˈɪn.ə.və.tɪv",
+            "word_native_transliteration": {
+                "bn": "ইনোভেটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💡",
+            "meaning": "Featuring new methods; advanced and original.",
+            "example_sentence": "Innovative ideas transform industries.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনোভেটিভ আইডিয়াস ট্রান্সফর্ম ইন্ডাস্ট্রিজ।"
+            },
+            "position": 2,
+            "synonyms": "creative, pioneering",
+            "antonyms": "traditional, conservative",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ইনোভেটিভ। উদ্ভাবনী।",
+                    "word_transliteration": "innovative. udbhaboni.",
+                    "example_sentence_translation": "উদ্ভাবনী ধারণা শিল্পকে রূপান্তর করে।",
+                    "example_sentence_transliteration": "Udbhaboni dharona shilpoke rupantor kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "process",
+            "phonetic": "ˈprəʊ.ses",
+            "word_native_transliteration": {
+                "bn": "প্রসেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚙️",
+            "meaning": "A series of actions or steps taken in order to achieve a particular end.",
+            "example_sentence": "The process ensures efficiency.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রসেস এনশিউরস এফিশিয়েন্সি।"
+            },
+            "position": 3,
+            "synonyms": "procedure, method",
+            "antonyms": "chaos, disorganization",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রসেস। প্রক্রিয়া।",
+                    "word_transliteration": "process. prokriya.",
+                    "example_sentence_translation": "প্রক্রিয়াটি দক্ষতা নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Prokriyati dokkhota nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "algorithm-driven",
+            "phonetic": "ˈæl.ɡə.rɪ.ðəm drɪv.ən",
+            "word_native_transliteration": {
+                "bn": "অ্যালগরিদম-ড্রিভেন"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🤖",
+            "meaning": "Controlled or powered by computer algorithms.",
+            "example_sentence": "Algorithm-driven systems increase accuracy.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যালগরিদম-ড্রিভেন সিস্টেমস ইনক্রিজ অ্যাকিউরেসি।"
+            },
+            "position": 4,
+            "synonyms": "code-based, computation-led",
+            "antonyms": "manual, non-digital",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অ্যালগরিদম-ড্রিভেন। অ্যালগরিদম দ্বারা চালিত।",
+                    "word_transliteration": "algorithm-driven. algorithm dwara chalit.",
+                    "example_sentence_translation": "অ্যালগরিদম-চালিত সিস্টেম সঠিকতা বাড়ায়।",
+                    "example_sentence_transliteration": "Algorithm-chalit system shotikota baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "button",
+            "phonetic": "ˈbʌt.ən",
+            "word_native_transliteration": {
+                "bn": "বাটন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔘",
+            "meaning": "A small disk or knob sewn onto a garment, either to fasten it by being pushed through a slit made for the purpose, or for decoration.",
+            "example_sentence": "Press the button to activate the device.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রেস দ্য বাটন টু অ্যাক্টিভেট দ্য ডিভাইস।"
+            },
+            "position": 5,
+            "synonyms": "switch, knob",
+            "antonyms": "lever, handle",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাটন। বোতাম।",
+                    "word_transliteration": "button. botam.",
+                    "example_sentence_translation": "যন্ত্র সক্রিয় করতে বোতাম চাপুন।",
+                    "example_sentence_transliteration": "Jontro sokriyo korte botam chapun.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "press",
+            "phonetic": "pres",
+            "word_native_transliteration": {
+                "bn": "প্রেস"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "👆",
+            "meaning": "Exert force on (someone or something), typically with one's finger or hand, in order to move them away from oneself.",
+            "example_sentence": "Press firmly to operate the machine.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রেস ফার্মলি টু অপারেট দ্য মেশিন।"
+            },
+            "position": 6,
+            "synonyms": "push, squeeze",
+            "antonyms": "release, pull",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রেস। চাপ।",
+                    "word_transliteration": "press. chap.",
+                    "example_sentence_translation": "যন্ত্র চালাতে শক্তভাবে চাপ দিন।",
+                    "example_sentence_transliteration": "Jontro chalate shoktobhabe chap din.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "oxygen",
+            "phonetic": "ˈɒk.sɪ.dʒən",
+            "word_native_transliteration": {
+                "bn": "অক্সিজেন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💨",
+            "meaning": "A colorless, odorless reactive gas, the chemical element of atomic number 8 and the life-supporting component of the air.",
+            "example_sentence": "Oxygen is vital for life.",
+            "example_sentence_native_transliteration": {
+                "bn": "অক্সিজেন ইজ ভাইটাল ফর লাইফ।"
+            },
+            "position": 7,
+            "synonyms": "O2, air",
+            "antonyms": "CO2, pollutants",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অক্সিজেন। একটি গ্যাসীয় উপাদান।",
+                    "word_transliteration": "oxygen. ekti gasio upodan.",
+                    "example_sentence_translation": "অক্সিজেন জীবনের জন্য অত্যাবশ্যক।",
+                    "example_sentence_transliteration": "Oxygen jiboner jonno ottyaboshyok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cerebral",
+            "phonetic": "ˈser.ɪ.brəl",
+            "word_native_transliteration": {
+                "bn": "সেরিব্রাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧠",
+            "meaning": "Of the cerebrum of the brain.",
+            "example_sentence": "Cerebral functions regulate thoughts.",
+            "example_sentence_native_transliteration": {
+                "bn": "সেরিব্রাল ফাংশনস রেগুলেট থটস।"
+            },
+            "position": 8,
+            "synonyms": "brain-related, intellectual",
+            "antonyms": "physical, sensory",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সেরিব্রাল। মস্তিষ্কসংক্রান্ত।",
+                    "word_transliteration": "cerebral. mostishkoshongkranto.",
+                    "example_sentence_translation": "মস্তিষ্ক কার্যক্রম চিন্তাভাবনা নিয়ন্ত্রণ করে।",
+                    "example_sentence_transliteration": "Mostishko karjokrom chintabhavona niyontron kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "supply",
+            "phonetic": "səˈplaɪ",
+            "word_native_transliteration": {
+                "bn": "সাপ্লাই"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📦",
+            "meaning": "A stock or amount of something supplied or available for use.",
+            "example_sentence": "Supply chains ensure resource availability.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাপ্লাই চেইনস এনশিউর রিসোর্স অ্যাভেইলাবিলিটি।"
+            },
+            "position": 9,
+            "synonyms": "provision, distribution",
+            "antonyms": "scarcity, shortage",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সাপ্লাই। সরবরাহ।",
+                    "word_transliteration": "supply. shorboraho.",
+                    "example_sentence_translation": "সরবরাহ চেইন সম্পদের প্রাপ্যতা নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Shorboraho chein shompoder praptota nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "procedure",
+            "phonetic": "prəˈsiː.dʒər",
+            "word_native_transliteration": {
+                "bn": "প্রোসিডিউর"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📋",
+            "meaning": "An established or official way of doing something.",
+            "example_sentence": "Follow the procedure for accuracy.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফলো দ্য প্রোসিডিউর ফর অ্যাকিউরেসি।"
+            },
+            "position": 10,
+            "synonyms": "method, approach",
+            "antonyms": "disorganization, chaos",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রোসিডিউর। পদ্ধতি।",
+                    "word_transliteration": "procedure. poddhoti.",
+                    "example_sentence_translation": "সঠিকতার জন্য পদ্ধতি অনুসরণ করুন।",
+                    "example_sentence_transliteration": "Shotikitar jonno poddhoti onushoron korun.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "calm",
+            "phonetic": "kɑːm",
+            "word_native_transliteration": {
+                "bn": "ক্যাম"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🕊️",
+            "meaning": "Not showing or feeling nervousness, anger, or other strong emotions; peaceful.",
+            "example_sentence": "The calm environment supports healing.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ক্যাম এনভায়রনমেন্ট সাপোর্টস হিলিং।"
+            },
+            "position": 11,
+            "synonyms": "peaceful, serene",
+            "antonyms": "agitated, chaotic",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্যাম। শান্ত।",
+                    "word_transliteration": "calm. shanto.",
+                    "example_sentence_translation": "শান্ত পরিবেশ নিরাময়ে সহায়তা করে।",
+                    "example_sentence_transliteration": "Shanto poribesh niromoye shahayta kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "painless",
+            "phonetic": "ˈpeɪn.ləs",
+            "word_native_transliteration": {
+                "bn": "পেইনলেস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "😌",
+            "meaning": "Not causing pain; involving little effort or stress.",
+            "example_sentence": "Modern methods ensure painless treatment.",
+            "example_sentence_native_transliteration": {
+                "bn": "মডার্ন মেথডস এনশিউর পেইনলেস ট্রিটমেন্ট।"
+            },
+            "position": 12,
+            "synonyms": "comfortable, smooth",
+            "antonyms": "painful, unpleasant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পেইনলেস। ব্যথাহীন।",
+                    "word_transliteration": "painless. byothaheen.",
+                    "example_sentence_translation": "আধুনিক পদ্ধতি ব্যথাহীন চিকিৎসা নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Adhunik poddhoti byothaheen chikitsha nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "technological",
+            "phonetic": "ˌtek.nəˈlɒdʒ.ɪ.kəl",
+            "word_native_transliteration": {
+                "bn": "টেকনোলজিক্যাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔬",
+            "meaning": "Relating to or involving the application of technology.",
+            "example_sentence": "Technological advancements drive progress.",
+            "example_sentence_native_transliteration": {
+                "bn": "টেকনোলজিক্যাল অ্যাডভান্সমেন্টস ড্রাইভ প্রোগ্রেস।"
+            },
+            "position": 13,
+            "synonyms": "advanced, innovative",
+            "antonyms": "primitive, backward",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "টেকনোলজিক্যাল। প্রযুক্তিগত।",
+                    "word_transliteration": "technological. projuktigoto.",
+                    "example_sentence_translation": "প্রযুক্তিগত উন্নয়ন অগ্রগতিকে ত্বরান্বিত করে।",
+                    "example_sentence_transliteration": "Projuktigoto unnoyon ogogotike tworanbit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "innovation",
+            "phonetic": "ˌɪn.əˈveɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ইনোভেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💫",
+            "meaning": "The action or process of innovating; a new method, idea, product, etc.",
+            "example_sentence": "Innovation leads to unique solutions.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনোভেশন লিডস টু ইউনিক সলিউশনস।"
+            },
+            "position": 14,
+            "synonyms": "invention, breakthrough",
+            "antonyms": "stagnation, imitation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ইনোভেশন। উদ্ভাবন।",
+                    "word_transliteration": "innovation. udbhabon.",
+                    "example_sentence_translation": "উদ্ভাবন অনন্য সমাধান সৃষ্টি করে।",
+                    "example_sentence_transliteration": "Udbhabon ononnyo somadhan srishti kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ethical",
+            "phonetic": "ˈeθ.ɪ.kəl",
+            "word_native_transliteration": {
+                "bn": "এথিক্যাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚖️",
+            "meaning": "Relating to moral principles or the branch of knowledge dealing with these.",
+            "example_sentence": "Ethical considerations guide decisions.",
+            "example_sentence_native_transliteration": {
+                "bn": "এথিক্যাল কনসিডারেশনস গাইড ডিসিশনস।"
+            },
+            "position": 15,
+            "synonyms": "moral, principled",
+            "antonyms": "unethical, immoral",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "এথিক্যাল। নৈতিক।",
+                    "word_transliteration": "ethical. noitik.",
+                    "example_sentence_translation": "নৈতিক বিষয়গুলি সিদ্ধান্তে দিকনির্দেশনা দেয়।",
+                    "example_sentence_transliteration": "Noitik bishoyoguli siddhante diknirdeshona dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "legal",
+            "phonetic": "ˈliː.ɡəl",
+            "word_native_transliteration": {
+                "bn": "লিগ্যাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚖️",
+            "meaning": "Permitted by law; relating to the law.",
+            "example_sentence": "Legal systems ensure justice.",
+            "example_sentence_native_transliteration": {
+                "bn": "লিগ্যাল সিস্টেমস এনশিউর জাস্টিস।"
+            },
+            "position": 16,
+            "synonyms": "lawful, legitimate",
+            "antonyms": "illegal, illegitimate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "লিগ্যাল। আইনগত।",
+                    "word_transliteration": "legal. aingoto.",
+                    "example_sentence_translation": "আইনগত ব্যবস্থা ন্যায়বিচার নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Aingoto byabostha naybichar nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "debates",
+            "phonetic": "dɪˈbeɪts",
+            "word_native_transliteration": {
+                "bn": "ডিবেটস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🗣️",
+            "meaning": "A formal discussion on a particular topic in a public meeting or legislative assembly.",
+            "example_sentence": "Debates foster intellectual growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিবেটস ফস্টার ইন্টেলেকচুয়াল গ্রোথ।"
+            },
+            "position": 17,
+            "synonyms": "discussions, arguments",
+            "antonyms": "agreements, silence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ডিবেটস। বিতর্ক।",
+                    "word_transliteration": "debates. bitorko.",
+                    "example_sentence_translation": "বিতর্ক মানসিক বিকাশ ঘটায়।",
+                    "example_sentence_transliteration": "Bitorko manoshik bikash ghotay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "human rights",
+            "phonetic": "ˌhjuː.mən ˈraɪts",
+            "word_native_transliteration": {
+                "bn": "হিউম্যান রাইটস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✊",
+            "meaning": "A right that is believed to belong justifiably to every person.",
+            "example_sentence": "Human rights protect individual freedoms.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিউম্যান রাইটস প্রোটেক্ট ইন্ডিভিজুয়াল ফ্রিডমস।"
+            },
+            "position": 18,
+            "synonyms": "civil liberties, freedoms",
+            "antonyms": "oppression, injustice",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "হিউম্যান রাইটস। মানবাধিকার।",
+                    "word_transliteration": "human rights. manobaddhikar.",
+                    "example_sentence_translation": "মানবাধিকার ব্যক্তিগত স্বাধীনতা রক্ষা করে।",
+                    "example_sentence_transliteration": "Manobaddhikar byoktigoto shadhinota rokkha kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "freedom",
+            "phonetic": "ˈfriː.dəm",
+            "word_native_transliteration": {
+                "bn": "ফ্রিডম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🕊️",
+            "meaning": "The power or right to act, speak, or think as one wants without hindrance or restraint.",
+            "example_sentence": "Freedom empowers self-expression.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফ্রিডম এমপাওয়ারস সেলফ-এক্সপ্রেশন।"
+            },
+            "position": 19,
+            "synonyms": "liberty, autonomy",
+            "antonyms": "restriction, oppression",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ফ্রিডম। স্বাধীনতা।",
+                    "word_transliteration": "freedom. shadhinota.",
+                    "example_sentence_translation": "স্বাধীনতা আত্মপ্রকাশে ক্ষমতায়িত করে।",
+                    "example_sentence_transliteration": "Shadhinota attoprokashe kkhomotayito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "choice",
+            "phonetic": "tʃɔɪs",
+            "word_native_transliteration": {
+                "bn": "চয়েস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤔",
+            "meaning": "An act of selecting or making a decision when faced with two or more possibilities.",
+            "example_sentence": "Choice enhances decision-making.",
+            "example_sentence_native_transliteration": {
+                "bn": "চয়েস এনহান্সেস ডিসিশন-মেকিং।"
+            },
+            "position": 20,
+            "synonyms": "option, selection",
+            "antonyms": "obligation, necessity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চয়েস। পছন্দ।",
+                    "word_transliteration": "choice. pochhondo.",
+                    "example_sentence_translation": "পছন্দ সিদ্ধান্ত গ্রহণে উন্নতি আনে।",
+                    "example_sentence_transliteration": "Pochhondo siddhanto grohone unnoti ane.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "controversial",
+            "phonetic": "ˌkɒn.trəˈvɜː.ʃəl",
+            "word_native_transliteration": {
+                "bn": "কন্ট্রোভার্শিয়াল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔥",
+            "meaning": "Giving rise to public disagreement or heated discussion.",
+            "example_sentence": "The policy remains controversial.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য পলিসি রিমেইনস কন্ট্রোভার্শিয়াল।"
+            },
+            "position": 21,
+            "synonyms": "contentious, disputed",
+            "antonyms": "agreed, accepted",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কন্ট্রোভার্শিয়াল। বিতর্কিত।",
+                    "word_transliteration": "controversial. bitorkit.",
+                    "example_sentence_translation": "নীতিটি বিতর্কিত রয়ে গেছে।",
+                    "example_sentence_transliteration": "Nititi bitorkit roye gecche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "nature",
+            "phonetic": "ˈneɪ.tʃər",
+            "word_native_transliteration": {
+                "bn": "নেচার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌿",
+            "meaning": "The basic or inherent features of something, especially when seen as characteristic of it.",
+            "example_sentence": "The calm nature of the environment helps healing.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ক্যাম নেচার অব দ্য এনভায়রনমেন্ট হেল্পস হিলিং।"
+            },
+            "position": 22,
+            "synonyms": "character, essence",
+            "antonyms": "artificiality, unnaturalness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নেচার। স্বভাব।",
+                    "word_transliteration": "nature. shobhab.",
+                    "example_sentence_translation": "পরিবেশের শান্ত স্বভাব নিরাময়ে সহায়ক।",
+                    "example_sentence_transliteration": "Poribesher shanto shobhab niromoye sahayok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "groundbreaking",
+            "phonetic": "ˈɡraʊndˌbreɪ.kɪŋ",
+            "word_native_transliteration": {
+                "bn": "গ্রাউন্ডব্রেকিং"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🚀",
+            "meaning": "Breaking new ground; innovative; pioneering.",
+            "example_sentence": "The project is groundbreaking in scope.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রজেক্ট ইজ গ্রাউন্ডব্রেকিং ইন স্কোপ।"
+            },
+            "position": 23,
+            "synonyms": "revolutionary, innovative",
+            "antonyms": "conventional, traditional",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গ্রাউন্ডব্রেকিং। যুগান্তকারী।",
+                    "word_transliteration": "groundbreaking. jugantokari.",
+                    "example_sentence_translation": "প্রকল্পটি পরিসরে যুগান্তকারী।",
+                    "example_sentence_transliteration": "Prokolpoti porishore jugantokari.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "invention",
+            "phonetic": "ɪnˈven.ʃən",
+            "word_native_transliteration": {
+                "bn": "ইনভেনশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔧",
+            "meaning": "The action of inventing something, typically a process or device.",
+            "example_sentence": "The invention revolutionized communication.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইনভেনশন রেভোলিউশনাইজড কমিউনিকেশন।"
+            },
+            "position": 24,
+            "synonyms": "creation, discovery",
+            "antonyms": "destruction, imitation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ইনভেনশন। আবিষ্কার।",
+                    "word_transliteration": "invention. abishkar.",
+                    "example_sentence_translation": "আবিষ্কার যোগাযোগে বিপ্লব এনেছে।",
+                    "example_sentence_transliteration": "Abishkar jogajoge biplob eneche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "perspectives",
+            "phonetic": "pəˈspek.tɪvz",
+            "word_native_transliteration": {
+                "bn": "পারস্পেকটিভস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👁️",
+            "meaning": "A particular attitude toward or way of regarding something; a point of view.",
+            "example_sentence": "New perspectives enhance understanding.",
+            "example_sentence_native_transliteration": {
+                "bn": "নিউ পারস্পেকটিভস এনহান্স আন্ডারস্ট্যান্ডিং।"
+            },
+            "position": 25,
+            "synonyms": "viewpoints, outlooks",
+            "antonyms": "blindness, misjudgment",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পারস্পেকটিভস। দৃষ্টিভঙ্গি।",
+                    "word_transliteration": "perspectives. drishtibhongi.",
+                    "example_sentence_translation": "নতুন দৃষ্টিভঙ্গি বোঝাপড়া বাড়ায়।",
+                    "example_sentence_transliteration": "Notun drishtibhongi boojhaporo baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "discussions",
+            "phonetic": "dɪˈskʌʃ.ənz",
+            "word_native_transliteration": {
+                "bn": "ডিসকাশনস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💬",
+            "meaning": "The action or process of talking about something in order to reach a decision or to exchange ideas.",
+            "example_sentence": "Discussions promote collaboration.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিসকাশনস প্রোমোট কোলাবোরেশন।"
+            },
+            "position": 26,
+            "synonyms": "conversations, dialogues",
+            "antonyms": "monologues, silences",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ডিসকাশনস। আলোচনা।",
+                    "word_transliteration": "discussions. alochona.",
+                    "example_sentence_translation": "আলোচনা সহযোগিতা বাড়ায়।",
+                    "example_sentence_transliteration": "Alochona shohojogita baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "potential",
+            "phonetic": "pəˈten.ʃəl",
+            "word_native_transliteration": {
+                "bn": "পটেনশিয়াল"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "Having or showing the capacity to become or develop into something in the future.",
+            "example_sentence": "The potential for innovation is immense.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য পটেনশিয়াল ফর ইনোভেশন ইজ ইমেনস।"
+            },
+            "position": 27,
+            "synonyms": "possibility, capability",
+            "antonyms": "impossibility, limitation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পটেনশিয়াল। সম্ভাবনা।",
+                    "word_transliteration": "potential. shombhabona.",
+                    "example_sentence_translation": "উদ্ভাবনের সম্ভাবনা অপরিসীম।",
+                    "example_sentence_transliteration": "Udbhaboner shombhabona oporisheem.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "balance",
+            "phonetic": "ˈbæl.əns",
+            "word_native_transliteration": {
+                "bn": "ব্যালান্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "An even distribution of weight enabling someone or something to remain upright and steady.",
+            "example_sentence": "Balance is essential for success.",
+            "example_sentence_native_transliteration": {
+                "bn": "ব্যালান্স ইজ এসেনশিয়াল ফর সাকসেস।"
+            },
+            "position": 28,
+            "synonyms": "equilibrium, stability",
+            "antonyms": "imbalance, disproportion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ব্যালান্স। ভারসাম্য।",
+                    "word_transliteration": "balance. bharshammyo.",
+                    "example_sentence_translation": "সাফল্যের জন্য ভারসাম্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Shafoller jonno bharshammyo oporiharjo.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,634 @@
+{
+    "position": 55,
+    "title_translation": {
+        "en": "Learn Vocabulary Through Stories - Air Pollution in Dhaka",
+        "bn": "গল্পের মাধ্যমে শব্দভাণ্ডার শিখুন - ঢাকার বায়ুদূষণ"
+    },
+    "content_translation": {
+        "en": "Dhaka is known as one of the most **polluted** cities in the world. The main **reasons** for air pollution are brick kilns, **construction** sites, vehicle **smoke**, road **dust** **particles**, and **waste** **burning**.\n\nIn 2024, Dhaka's Air Quality **Index** (AQI) was often above 200, which is **categorized** as \"very unhealthy\". Particularly on December 14, the AQI reached 880, an **unprecedented** **level** in the country's history.\n\nThe air contains PM2.5 **particles**, which are harmful to human health, 33% higher than WHO standards. As a result, respiratory problems, asthma, and heart disease-related health **issues** are increasing.\n\nExperts have advised using **masks** when going outside and keeping windows closed at home. Environmental scientists have recommended **modernization** of brick kilns, vehicle **fitness** **tests**, and dust **management** in **construction** work for pollution **control**.\n\nTaking urgent **actions** to control air pollution is extremely **important** to ensure **citizens**' health and a livable Dhaka.",
+        "bn": "ঢাকা বিশ্বের অন্যতম **polluted** শহর হিসেবে পরিচিত। বায়ুদূষণের প্রধান **reasons** হলো ইটভাটা, **construction** sites, যানবাহনের ধোঁয়া, রাস্তার **dust** **particles**, এবং বর্জ্য পোড়ানো।\n\n২০২৪ সালে ঢাকার Air Quality **Index** (AQI) প্রায়শই ২০০-এর ওপরে ছিল, যা \"খুব অস্বাস্থ্যকর\" হিসেবে **categorized** হয়। বিশেষ করে ১৪ ডিসেম্বর AQI ৮৮০-এ পৌঁছায়, যা দেশের ইতিহাসে একটি **unprecedented** **level**।\n\nবাতাসে PM2.5 **particles**, যা মানবস্বাস্থ্যের জন্য ঝুঁকিপূর্ণ, WHO-এর মানমাত্রার তুলনায় ৩৩% বেশি। এর ফলে শ্বাসকষ্ট, asthma, এবং হৃদরোগের মতো health **issues** বাড়ছে।\n\nবিশেষজ্ঞরা বাইরে বের হলে **masks** ব্যবহার এবং ঘরের জানালা বন্ধ রাখার **advice** দিয়েছেন। পরিবেশবিদরা দূষণ **control**-এ ইটভাটার **modernization**, যানবাহনের **fitness** পরীক্ষা, এবং নির্মাণকাজের ধুলা **management**-এর সুপারিশ করেছেন।\n\nবায়ুদূষণ নিয়ন্ত্রণে জরুরি **actions** নেওয়া নাগরিক health এবং বাসযোগ্য ঢাকা নিশ্চিত করতে অত্যন্ত **important**।"
+    },
+    "list": [
+        {
+            "word": "polluted",
+            "phonetic": "/pəˈluː.tɪd/",
+            "word_native_transliteration": {
+                "bn": "পলুটেড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🏭",
+            "meaning": "Contaminated with harmful or poisonous substances.",
+            "example_sentence": "Polluted air causes severe health problems.",
+            "example_sentence_native_transliteration": {
+                "bn": "পলুটেড এয়ার কজেস সিভিয়ার হেলথ প্রবলেমস।"
+            },
+            "position": 1,
+            "synonyms": "contaminated, tainted",
+            "antonyms": "clean, pure",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দূষিত",
+                    "word_transliteration": "dushito",
+                    "example_sentence_translation": "দূষিত বাতাস গুরুতর স্বাস্থ্য সমস্যা সৃষ্টি করে।",
+                    "example_sentence_transliteration": "Dushito batas gurutor swasthyo somossha srishti kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "reasons",
+            "phonetic": "/ˈriː.zənz/",
+            "word_native_transliteration": {
+                "bn": "রিজনস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤔",
+            "meaning": "Causes, explanations, or justifications for an action or event.",
+            "example_sentence": "Reasons for pollution need addressing urgently.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিজনস ফর পলুশন নিড অ্যাড্রেসিং আর্জেন্টলি।"
+            },
+            "position": 2,
+            "synonyms": "causes, explanations",
+            "antonyms": "results, outcomes",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কারণ",
+                    "word_transliteration": "karon",
+                    "example_sentence_translation": "দূষণের কারণগুলো জরুরি ভাবে সমাধান করা দরকার।",
+                    "example_sentence_transliteration": "Dushdoner karongulo joruri bhabe samdhan kora dorkar.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "construction",
+            "phonetic": "/kənˈstrʌk.ʃən/",
+            "word_native_transliteration": {
+                "bn": "কন্সট্রাকশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏗️",
+            "meaning": "The building of something, typically a large structure.",
+            "example_sentence": "Construction dust significantly contributes to pollution.",
+            "example_sentence_native_transliteration": {
+                "bn": "কন্সট্রাকশন ডাস্ট সিগনিফিক্যান্টলি কন্ট্রিবিউটস টু পলুশন।"
+            },
+            "position": 3,
+            "synonyms": "building, development",
+            "antonyms": "destruction, demolition",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নির্মাণ",
+                    "word_transliteration": "nirman",
+                    "example_sentence_translation": "নির্মাণ ধুলা দূষণে উল্লেখযোগ্য অবদান রাখে।",
+                    "example_sentence_transliteration": "Nirman dhula dushdone ullekhjogyo obdan rakhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "smoke",
+            "phonetic": "/sməʊk/",
+            "word_native_transliteration": {
+                "bn": "স্মোক"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💨",
+            "meaning": "A visible suspension of carbon or other particles in air, typically one emitted from a burning substance.",
+            "example_sentence": "Smoke from vehicles worsens air quality.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্মোক ফ্রম ভেহিকেলস ওয়ার্সেনস এয়ার কোয়ালিটি।"
+            },
+            "position": 4,
+            "synonyms": "fumes, emissions",
+            "antonyms": "fresh air, clarity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ধোঁয়া",
+                    "word_transliteration": "dhoya",
+                    "example_sentence_translation": "যানবাহনের ধোঁয়া বায়ুর মান খারাপ করে।",
+                    "example_sentence_transliteration": "Janbahoner dhoya bayur man kharap kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dust",
+            "phonetic": "/dʌst/",
+            "word_native_transliteration": {
+                "bn": "ডাস্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌪️",
+            "meaning": "Fine particles of matter.",
+            "example_sentence": "Road dust is a major pollutant in urban areas.",
+            "example_sentence_native_transliteration": {
+                "bn": "রোড ডাস্ট ইজ এ মেজর পলুট্যান্ট ইন আরবান এরিয়াস।"
+            },
+            "position": 5,
+            "synonyms": "particles, debris",
+            "antonyms": "cleanliness, purity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ধুলা",
+                    "word_transliteration": "dhula",
+                    "example_sentence_translation": "রাস্তার ধুলা শহরাঞ্চলে প্রধান দূষক।",
+                    "example_sentence_transliteration": "Rastar dhula shohranchhole prodhan dushok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "particles",
+            "phonetic": "/ˈpɑː.tɪ.klz/",
+            "word_native_transliteration": {
+                "bn": "পার্টিকলস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔬",
+            "meaning": "Minute portions of matter.",
+            "example_sentence": "PM2.5 particles harm respiratory health.",
+            "example_sentence_native_transliteration": {
+                "bn": "পিএম২.৫ পার্টিকলস হার্ম রেসপিরেটরি হেলথ।"
+            },
+            "position": 6,
+            "synonyms": "fragments, bits",
+            "antonyms": "solids, wholes",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কণা",
+                    "word_transliteration": "kona",
+                    "example_sentence_translation": "PM2.5 কণা শ্বাসতন্ত্রের ক্ষতি করে।",
+                    "example_sentence_transliteration": "PM2.5 kona shwastontrer khoti kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "waste",
+            "phonetic": "/weɪst/",
+            "word_native_transliteration": {
+                "bn": "ওয়েস্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🗑️",
+            "meaning": "Unwanted or unusable material, substances, or by-products.",
+            "example_sentence": "Burning waste releases toxic gases.",
+            "example_sentence_native_transliteration": {
+                "bn": "বার্নিং ওয়েস্ট রিলিজেস টক্সিক গ্যাসেস।"
+            },
+            "position": 7,
+            "synonyms": "garbage, refuse",
+            "antonyms": "resources, utility",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বর্জ্য",
+                    "word_transliteration": "borjyo",
+                    "example_sentence_translation": "বর্জ্য পোড়ানো বিষাক্ত গ্যাস নির্গত করে।",
+                    "example_sentence_transliteration": "Borjyo porano bishakto gas nirgoto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "burning",
+            "phonetic": "/ˈbɜː.nɪŋ/",
+            "word_native_transliteration": {
+                "bn": "বার্নিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔥",
+            "meaning": "The process of combustion of inflammable materials producing heat and light and (typically) smoke.",
+            "example_sentence": "Burning garbage exacerbates air pollution.",
+            "example_sentence_native_transliteration": {
+                "bn": "বার্নিং গারবেজ এক্সাসারবেটস এয়ার পলুশন।"
+            },
+            "position": 8,
+            "synonyms": "incineration, combustion",
+            "antonyms": "extinguishing, cooling",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পোড়ানো",
+                    "word_transliteration": "porano",
+                    "example_sentence_translation": "বর্জ্য পোড়ানো বায়ুদূষণ বাড়ায়।",
+                    "example_sentence_transliteration": "Borjyo porano bayudushon baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "index",
+            "phonetic": "/ˈɪn.deks/",
+            "word_native_transliteration": {
+                "bn": "ইনডেক্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "A sign or measure of something.",
+            "example_sentence": "The air quality index reflects pollution levels.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এয়ার কোয়ালিটি ইনডেক্স রিফ্লেক্টস পলুশন লেভেলস।"
+            },
+            "position": 9,
+            "synonyms": "measure, scale",
+            "antonyms": "disorganization, randomness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সূচক",
+                    "word_transliteration": "suchok",
+                    "example_sentence_translation": "বায়ুমান সূচক দূষণের স্তর প্রকাশ করে।",
+                    "example_sentence_transliteration": "Bayuman suchok dushdoner stor prokash kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "categorized",
+            "phonetic": "/ˈkæt.ɪ.ɡə.raɪzd/",
+            "word_native_transliteration": {
+                "bn": "ক্যাটাগোরাইজড"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📂",
+            "meaning": "Placed in a particular class or group.",
+            "example_sentence": "The city was categorized as highly polluted.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সিটি ওয়াস ক্যাটাগোরাইজড অ্যাজ হাইলি পলুটেড।"
+            },
+            "position": 10,
+            "synonyms": "classified, grouped",
+            "antonyms": "mixed, unsorted",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শ্রেণীবদ্ধ",
+                    "word_transliteration": "shrenibodho",
+                    "example_sentence_translation": "শহরটি অত্যন্ত দূষিত হিসেবে শ্রেণীবদ্ধ করা হয়।",
+                    "example_sentence_transliteration": "Shohorti ottyonto dushito hishebe shrenibodho kora hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "unprecedented",
+            "phonetic": "/ʌnˈpres.ɪ.den.tɪd/",
+            "word_native_transliteration": {
+                "bn": "আনপ্রেসিডেন্টেড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🚨",
+            "meaning": "Never done or known before.",
+            "example_sentence": "The AQI reached an unprecedented level.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য একিউআই রিচড অ্যান আনপ্রেসিডেন্টেড লেভেল।"
+            },
+            "position": 11,
+            "synonyms": "unparalleled, unique",
+            "antonyms": "normal, common",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অভূতপূর্ব",
+                    "word_transliteration": "obhutpurbo",
+                    "example_sentence_translation": "AQI অভূতপূর্ব মাত্রায় পৌঁছেছে।",
+                    "example_sentence_transliteration": "AQI obhutpurbo matray pouchechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "level",
+            "phonetic": "/ˈlev.əl/",
+            "word_native_transliteration": {
+                "bn": "লেভেল"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📏",
+            "meaning": "A position on a real or imaginary scale of amount, quantity, extent, or quality.",
+            "example_sentence": "Pollution levels must be reduced urgently.",
+            "example_sentence_native_transliteration": {
+                "bn": "পলুশন লেভেলস মাস্ট বি রিডিউসড আর্জেন্টলি।"
+            },
+            "position": 12,
+            "synonyms": "degree, rank",
+            "antonyms": "decline, reduction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মাত্রা",
+                    "word_transliteration": "matra",
+                    "example_sentence_translation": "দূষণের মাত্রা জরুরি ভাবে কমাতে হবে।",
+                    "example_sentence_transliteration": "Dushdoner matra joruri bhabe komate hobe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "issues",
+            "phonetic": "/ˈɪʃ.uːz/",
+            "word_native_transliteration": {
+                "bn": "ইশ্যুস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚠️",
+            "meaning": "Important topics or problems for debate or discussion.",
+            "example_sentence": "Health issues from pollution are increasing.",
+            "example_sentence_native_transliteration": {
+                "bn": "হেলথ ইশ্যুস ফ্রম পলুশন আর ইনক্রিসিং।"
+            },
+            "position": 13,
+            "synonyms": "problems, challenges",
+            "antonyms": "solutions, answers",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সমস্যা",
+                    "word_transliteration": "somossha",
+                    "example_sentence_translation": "দূষণ থেকে স্বাস্থ্য সমস্যা বাড়ছে।",
+                    "example_sentence_transliteration": "Dushdon theke swasthyo somossha barchhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "masks",
+            "phonetic": "/mɑːsks/",
+            "word_native_transliteration": {
+                "bn": "মাস্কস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "😷",
+            "meaning": "Coverings for all or part of the face, worn as a disguise, for protection, or for medical reasons.",
+            "example_sentence": "Masks can protect against polluted air.",
+            "example_sentence_native_transliteration": {
+                "bn": "মাস্কস ক্যান প্রোটেক্ট অ্যাগেইনস্ট পলুটেড এয়ার।"
+            },
+            "position": 14,
+            "synonyms": "face coverings, shields",
+            "antonyms": "exposure, vulnerability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মাস্ক",
+                    "word_transliteration": "mask",
+                    "example_sentence_translation": "দূষিত বাতাস থেকে সুরক্ষায় মাস্ক সহায়ক।",
+                    "example_sentence_transliteration": "Dushito batas theke suroksay mask shahayok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "advice",
+            "phonetic": "/ədˈvaɪs/",
+            "word_native_transliteration": {
+                "bn": "অ্যাডভাইস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💡",
+            "meaning": "Guidance or recommendations offered with regard to prudent future action.",
+            "example_sentence": "Experts provide advice for better air quality.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সপার্টস প্রোভাইড অ্যাডভাইস ফর বেটার এয়ার কোয়ালিটি।"
+            },
+            "position": 15,
+            "synonyms": "guidance, recommendations",
+            "antonyms": "misguidance, criticism",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরামর্শ",
+                    "word_transliteration": "poramorsh",
+                    "example_sentence_translation": "বিশেষজ্ঞরা বায়ুমানের উন্নতির জন্য পরামর্শ দেন।",
+                    "example_sentence_transliteration": "Bisheshojogora bayumaner unnotir jonno poramorsh den.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "control",
+            "phonetic": "/kənˈtrəʊl/",
+            "word_native_transliteration": {
+                "bn": "কন্ট্রোল"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎛️",
+            "meaning": "The power to influence or direct people's behavior or the course of events.",
+            "example_sentence": "Proper control measures are necessary.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোপার কন্ট্রোল মেজারস আর নেসেসারি।"
+            },
+            "position": 16,
+            "synonyms": "regulation, restraint",
+            "antonyms": "chaos, disorder",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিয়ন্ত্রণ",
+                    "word_transliteration": "niyontron",
+                    "example_sentence_translation": "যথাযথ নিয়ন্ত্রণ ব্যবস্থা প্রয়োজন।",
+                    "example_sentence_transliteration": "Jothajotho niyontron bebostha proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "modernization",
+            "phonetic": "/ˌmɒd.ən.aɪˈzeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "মডার্নাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The process of adapting something to modern needs or habits.",
+            "example_sentence": "Modernization of industries reduces pollution.",
+            "example_sentence_native_transliteration": {
+                "bn": "মডার্নাইজেশন অব ইন্ডাস্ট্রিজ রিডিউসেস পলুশন।"
+            },
+            "position": 17,
+            "synonyms": "upgradation, innovation",
+            "antonyms": "outdatedness, obsolescence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আধুনিকীকরণ",
+                    "word_transliteration": "adhunikikaron",
+                    "example_sentence_translation": "শিল্পের আধুনিকীকরণ দূষণ কমায়।",
+                    "example_sentence_transliteration": "Shilper adhunikikaron dushdon komay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fitness",
+            "phonetic": "/ˈfɪt.nəs/",
+            "word_native_transliteration": {
+                "bn": "ফিটনেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "The condition of being physically fit and healthy, or the quality of being suitable to fulfill a particular role or task.",
+            "example_sentence": "Fitness tests ensure vehicle safety.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফিটনেস টেস্টস ইনশিওর ভেহিকেল সেফটি।"
+            },
+            "position": 18,
+            "synonyms": "suitability, health",
+            "antonyms": "weakness, inefficiency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ফিটনেস",
+                    "word_transliteration": "fitness",
+                    "example_sentence_translation": "ফিটনেস পরীক্ষা যানবাহনের নিরাপত্তা নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Fitness porikha janbahoner nirapotta nishchito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "test",
+            "phonetic": "/test/",
+            "word_native_transliteration": {
+                "bn": "টেস্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧪",
+            "meaning": "A procedure intended to establish the quality, performance, or reliability of something.",
+            "example_sentence": "Vehicle tests reduce emissions.",
+            "example_sentence_native_transliteration": {
+                "bn": "ভেহিকেল টেস্টস রিডিউস ইমিশনস।"
+            },
+            "position": 19,
+            "synonyms": "examination, assessment",
+            "antonyms": "guess, speculation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরীক্ষা",
+                    "word_transliteration": "porikha",
+                    "example_sentence_translation": "যানবাহন পরীক্ষা নির্গমন কমায়।",
+                    "example_sentence_transliteration": "Janbahon porikha nirgomon komay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "management",
+            "phonetic": "/ˈmæn.ɪdʒ.mənt/",
+            "word_native_transliteration": {
+                "bn": "ম্যানেজমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📋",
+            "meaning": "The process of dealing with or controlling things or people.",
+            "example_sentence": "Proper management minimizes environmental damage.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোপার ম্যানেজমেন্ট মিনিমাইজেস এনভায়রনমেন্টাল ড্যামেজ।"
+            },
+            "position": 20,
+            "synonyms": "administration, supervision",
+            "antonyms": "mismanagement, neglect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ব্যবস্থাপনা",
+                    "word_transliteration": "bebosthapona",
+                    "example_sentence_translation": "সঠিক ব্যবস্থাপনা পরিবেশগত ক্ষতি কমায়।",
+                    "example_sentence_transliteration": "Shothik bebosthapona poribeshgoto khoti komay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "actions",
+            "phonetic": "/ˈæk.ʃənz/",
+            "word_native_transliteration": {
+                "bn": "অ্যাকশনস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "The fact or process of doing something, typically to achieve an aim.",
+            "example_sentence": "Immediate actions are needed for pollution control.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইমিডিয়েট অ্যাকশনস আর নিডেড ফর পলুশন কন্ট্রোল।"
+            },
+            "position": 21,
+            "synonyms": "measures, steps",
+            "antonyms": "inaction, stagnation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পদক্ষেপ",
+                    "word_transliteration": "podokkhep",
+                    "example_sentence_translation": "দূষণ নিয়ন্ত্রণে তাৎক্ষণিক পদক্ষেপ প্রয়োজন।",
+                    "example_sentence_transliteration": "Dushdon niyontrone tatkkhonic podokkhep proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "citizens",
+            "phonetic": "/ˈsɪt.ɪ.zənz/",
+            "word_native_transliteration": {
+                "bn": "সিটিজেনস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👥",
+            "meaning": "A legally recognized subject or national of a state or commonwealth.",
+            "example_sentence": "Citizens must follow pollution regulations.",
+            "example_sentence_native_transliteration": {
+                "bn": "সিটিজেনস মাস্ট ফলো পলুশন রেগুলেশনস।"
+            },
+            "position": 22,
+            "synonyms": "residents, inhabitants",
+            "antonyms": "strangers, foreigners",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নাগরিক",
+                    "word_transliteration": "nagorik",
+                    "example_sentence_translation": "নাগরিকদের দূষণ নিয়ম মেনে চলা উচিত।",
+                    "example_sentence_transliteration": "Nagorikder dushdon niyom mene chola uchit.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "important",
+            "phonetic": "/ɪmˈpɔː.tənt/",
+            "word_native_transliteration": {
+                "bn": "ইম্পর্ট্যান্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⭐",
+            "meaning": "Of great significance or value; likely to have a profound effect on success, survival, or well-being.",
+            "example_sentence": "Important steps must be taken to address pollution.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইম্পর্ট্যান্ট স্টেপস মাস্ট বি টেকেন টু অ্যাড্রেস পলুশন।"
+            },
+            "position": 23,
+            "synonyms": "essential, significant",
+            "antonyms": "insignificant, minor",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গুরুত্বপূর্ণ",
+                    "word_transliteration": "gurutbopurno",
+                    "example_sentence_translation": "দূষণ মোকাবিলায় গুরুত্বপূর্ণ পদক্ষেপ নিতে হবে।",
+                    "example_sentence_transliteration": "Dushdon mokabilay gurutbopurno podokkhep nite hobe.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

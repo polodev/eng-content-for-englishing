@@ -1,0 +1,580 @@
+{
+    "position": 65,
+    "title_translation": {
+        "en": "AI Guidelines and Policies: Global Deliberations",
+        "bn": "AI Guidelines এবং নীতিমালা: বিশ্বব্যাপী deliberations"
+    },
+    "content_translation": {
+        "en": "In 2024, new **guidelines** for controlling **Artificial Intelligence** (AI) have sparked global **deliberations**. The United Nations and other **international organizations** have developed various **frameworks** to ensure proper control of advanced **technology** usage.\n\nPossibilities: AI policies will help maintain **confidentiality**, ensure **equitable** usage, and guarantee bias-free **technological flow**. This will aid in proper **implementation** of AI in **commercial** sectors and open new avenues for **research**.\n\nChallenges: **Divergent** demands from different countries and **discrepancies** in policy formulation pose major obstacles. Preventing **misuse** of AI and ensuring **cybersecurity** are also significant challenges.\n\nThese policies will be **instrumental** in the proper use of AI technology, but maintaining global **cooperation** and neutrality in their **implementation** is extremely important. This initiative will mark the **inception** of a new era in technology usage.",
+        "bn": "২০২৪ সালে **Artificial Intelligence** (AI) নিয়ন্ত্রণের নতুন **guidelines** নিয়ে বিশ্বব্যাপী **deliberations** তীব্র হয়। উন্নত **technology** ব্যবহারের সঠিক নিয়ন্ত্রণ নিশ্চিত করার লক্ষ্যে জাতিসংঘ এবং অন্যান্য **international organizations** বিভিন্ন **frameworks** প্রণয়ন করেছে।\n\nPossibilities: AI নীতিমালা **confidentiality** রক্ষা, **equitable** ব্যবহারের নিশ্চয়তা এবং বৈষম্যহীন **technological flow** নিশ্চিত করতে সহায়ক হবে। এটি **commercial** sectors-এ AI-এর সঠিক **implementation** এবং গবেষণার নতুন দিক উন্মোচন করবে।\n\nChallenges: বিভিন্ন দেশের **divergent** চাহিদা এবং নীতিমালা প্রণয়নে **discrepancies** বড় বাধা। AI-এর **misuse** রোধ এবং **cybersecurity** নিশ্চিত করাও অন্যতম বড় চ্যালেঞ্জ।\n\nএই নীতিমালা AI প্রযুক্তির সঠিক ব্যবহারে **instrumental** হবে, তবে এর বাস্তবায়নে বিশ্বব্যাপী **cooperation** এবং neutrality বজায় রাখা অত্যন্ত গুরুত্বপূর্ণ। এই উদ্যোগ প্রযুক্তি ব্যবহারে নতুন যুগের **inception** করবে।"
+    },
+    "list": [
+        {
+            "word": "artificial",
+            "phonetic": "ˌɑː.tɪˈfɪʃ.əl",
+            "word_native_transliteration": {
+                "bn": "আর্টিফিশিয়াল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🤖",
+            "meaning": "Made by humans; not occurring naturally",
+            "example_sentence": "Artificial systems are transforming industries.",
+            "example_sentence_native_transliteration": {
+                "bn": "আর্টিফিশিয়াল সিস্টেমস আর ট্রান্সফর্মিং ইন্ডাস্ট্রিজ।"
+            },
+            "position": 1,
+            "synonyms": "synthetic, man-made",
+            "antonyms": "natural, authentic",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কৃত্রিম",
+                    "word_transliteration": "kritrimo",
+                    "example_sentence_translation": "কৃত্রিম পদ্ধতি শিল্পকে রূপান্তরিত করছে।",
+                    "example_sentence_transliteration": "Kritrimo poddhoti shilpoke rupantorito korchhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "intelligence",
+            "phonetic": "ɪnˈtel.ɪ.dʒəns",
+            "word_native_transliteration": {
+                "bn": "ইন্টেলিজেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧠",
+            "meaning": "The ability to learn, understand, and think in a logical way about things",
+            "example_sentence": "Intelligence is key in AI development.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইন্টেলিজেন্স ইজ কি ইন এআই ডেভেলপমেন্ট।"
+            },
+            "position": 2,
+            "synonyms": "cognition, acumen",
+            "antonyms": "ignorance, ineptitude",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বুদ্ধিমত্তা",
+                    "word_transliteration": "buddhimotta",
+                    "example_sentence_translation": "বুদ্ধিমত্তা AI উন্নয়নের প্রধান বিষয়।",
+                    "example_sentence_transliteration": "Buddhimotta AI unnoyoner prodhan bishoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "guidelines",
+            "phonetic": "ˈɡaɪd.laɪnz",
+            "word_native_transliteration": {
+                "bn": "গাইডলাইনস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📋",
+            "meaning": "Rules or instructions that are given by an official organization telling you how to do something",
+            "example_sentence": "Guidelines for AI usage are essential.",
+            "example_sentence_native_transliteration": {
+                "bn": "গাইডলাইনস ফর এআই ইউসেজ আর এসেনশিয়াল।"
+            },
+            "position": 3,
+            "synonyms": "directives, protocols",
+            "antonyms": "ambiguity, disorder",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নির্দেশিকা",
+                    "word_transliteration": "nirdesika",
+                    "example_sentence_translation": "AI ব্যবহারের জন্য নির্দেশিকা অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "AI byaboharer jonno nirdesika otyonto gurutbopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "deliberations",
+            "phonetic": "dɪˌlɪb.əˈreɪ.ʃənz",
+            "word_native_transliteration": {
+                "bn": "ডেলিবারেশনস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "Long and careful consideration or discussion",
+            "example_sentence": "Deliberations on AI governance are ongoing.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডেলিবারেশনস অন এআই গভর্নেন্স আর অনগোইং।"
+            },
+            "position": 4,
+            "synonyms": "discussions, considerations",
+            "antonyms": "rashness, neglect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আলোচনা",
+                    "word_transliteration": "alochona",
+                    "example_sentence_translation": "AI শাসনের উপর আলোচনা চলছে।",
+                    "example_sentence_transliteration": "AI shasoner upor alochona cholchhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "technology",
+            "phonetic": "tekˈnɒl.ə.dʒi",
+            "word_native_transliteration": {
+                "bn": "টেকনোলজি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💻",
+            "meaning": "The application of scientific knowledge for practical purposes",
+            "example_sentence": "Advanced technology reshapes industries.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাডভান্সড টেকনোলজি রিশেপস ইন্ডাস্ট্রিজ।"
+            },
+            "position": 5,
+            "synonyms": "innovation, machinery",
+            "antonyms": "manual methods, simplicity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রযুক্তি",
+                    "word_transliteration": "projukti",
+                    "example_sentence_translation": "উন্নত প্রযুক্তি শিল্পের রূপ পরিবর্তন করছে।",
+                    "example_sentence_transliteration": "Unnoto projukti shilper rup poriborton korchhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "international",
+            "phonetic": "ˌɪn.təˈnæʃ.ən.əl",
+            "word_native_transliteration": {
+                "bn": "ইন্টারন্যাশনাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌍",
+            "meaning": "Existing, occurring, or carried on between two or more nations and their citizens",
+            "example_sentence": "International agreements on AI are vital.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইন্টারন্যাশনাল এগ্রিমেন্টস অন এআই আর ভাইটাল।"
+            },
+            "position": 6,
+            "synonyms": "global, worldwide",
+            "antonyms": "domestic, regional",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আন্তর্জাতিক",
+                    "word_transliteration": "antorjatik",
+                    "example_sentence_translation": "AI-এর উপর আন্তর্জাতিক চুক্তি গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "AI-er upor antorjatik chukti gurutbopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "organizations",
+            "phonetic": "ˌɔː.ɡən.aɪˈzeɪ.ʃənz",
+            "word_native_transliteration": {
+                "bn": "অর্গানাইজেশনস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏢",
+            "meaning": "Organized groups of people with a particular purpose",
+            "example_sentence": "Organizations play a key role in policymaking.",
+            "example_sentence_native_transliteration": {
+                "bn": "অর্গানাইজেশনস প্লে এ কি রোল ইন পলিসিমেকিং।"
+            },
+            "position": 7,
+            "synonyms": "institutions, associations",
+            "antonyms": "individuals, anarchy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংগঠন",
+                    "word_transliteration": "songothon",
+                    "example_sentence_translation": "সংগঠন নীতি নির্ধারণে গুরুত্বপূর্ণ ভূমিকা পালন করে।",
+                    "example_sentence_transliteration": "Songothon niti nirdarone gurutbopurno bhumika palon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "frameworks",
+            "phonetic": "ˈfreɪm.wɜːks",
+            "word_native_transliteration": {
+                "bn": "ফ্রেমওয়ার্কস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏗️",
+            "meaning": "Basic structures underlying systems, concepts, or texts",
+            "example_sentence": "Frameworks guide AI implementation.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফ্রেমওয়ার্কস গাইড এআই ইমপ্লিমেন্টেশন।"
+            },
+            "position": 8,
+            "synonyms": "structures, systems",
+            "antonyms": "chaos, disorganization",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কাঠামো",
+                    "word_transliteration": "kathamo",
+                    "example_sentence_translation": "AI বাস্তবায়নে কাঠামো দিকনির্দেশনা দেয়।",
+                    "example_sentence_transliteration": "AI bastobayane kathamo diknirdeshona dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "confidentiality",
+            "phonetic": "ˌkɒn.fɪ.den.ʃiˈæl.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "কনফিডেনশিয়ালিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔒",
+            "meaning": "The state of keeping or being kept secret or private",
+            "example_sentence": "Confidentiality is crucial in data security.",
+            "example_sentence_native_transliteration": {
+                "bn": "কনফিডেনশিয়ালিটি ইজ ক্রুশিয়াল ইন ডেটা সিকিউরিটি।"
+            },
+            "position": 9,
+            "synonyms": "privacy, secrecy",
+            "antonyms": "openness, transparency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গোপনীয়তা",
+                    "word_transliteration": "goponiyota",
+                    "example_sentence_translation": "তথ্য নিরাপত্তায় গোপনীয়তা অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Tothyo nirapottay goponiyota otyonto gurutbopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "equitable",
+            "phonetic": "ˈek.wɪ.tə.bəl",
+            "word_native_transliteration": {
+                "bn": "ইকুইটেবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚖️",
+            "meaning": "Fair and impartial",
+            "example_sentence": "Equitable AI ensures fairness in technology use.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইকুইটেবল এআই এনশিউরস ফেয়ারনেস ইন টেকনোলজি ইউস।"
+            },
+            "position": 10,
+            "synonyms": "fair, impartial",
+            "antonyms": "biased, unjust",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ন্যায্য",
+                    "word_transliteration": "nyayyo",
+                    "example_sentence_translation": "ন্যায্য AI প্রযুক্তি ব্যবহারে ন্যায্যতা নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Nyayyo AI projukti byabohare nyayyota nishchito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "technological",
+            "phonetic": "ˌtek.nəˈlɒdʒ.ɪ.kəl",
+            "word_native_transliteration": {
+                "bn": "টেকনোলজিক্যাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚙️",
+            "meaning": "Relating to or involving technology",
+            "example_sentence": "Technological advancements redefine possibilities.",
+            "example_sentence_native_transliteration": {
+                "bn": "টেকনোলজিক্যাল অ্যাডভান্সমেন্টস রিডিফাইন পসিবিলিটিজ।"
+            },
+            "position": 11,
+            "synonyms": "innovative, mechanized",
+            "antonyms": "manual, analog",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রযুক্তিগত",
+                    "word_transliteration": "projuktogoto",
+                    "example_sentence_translation": "প্রযুক্তিগত অগ্রগতি সম্ভাবনাকে পুনর্নির্ধারণ করে।",
+                    "example_sentence_transliteration": "Projuktogoto ongrogoti shombhabonake punornirdaron kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "flow",
+            "phonetic": "fləʊ",
+            "word_native_transliteration": {
+                "bn": "ফ্লো"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌊",
+            "meaning": "The action or fact of moving along in a steady, continuous stream",
+            "example_sentence": "The flow of information must be secured.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফ্লো অব ইনফরমেশন মাস্ট বি সিকিউরড।"
+            },
+            "position": 12,
+            "synonyms": "movement, continuity",
+            "antonyms": "stagnation, interruption",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রবাহ",
+                    "word_transliteration": "probaho",
+                    "example_sentence_translation": "তথ্যের প্রবাহ সুরক্ষিত হওয়া উচিত।",
+                    "example_sentence_transliteration": "Tothyer probaho shurokkhito howa uchit.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "commercial",
+            "phonetic": "kəˈmɜː.ʃəl",
+            "word_native_transliteration": {
+                "bn": "কমার্শিয়াল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💼",
+            "meaning": "Concerned with or engaged in commerce",
+            "example_sentence": "Commercial applications of AI are expanding.",
+            "example_sentence_native_transliteration": {
+                "bn": "কমার্শিয়াল অ্যাপ্লিকেশনস অব এআই আর এক্সপানডিং।"
+            },
+            "position": 13,
+            "synonyms": "business, mercantile",
+            "antonyms": "non-commercial, philanthropic",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাণিজ্যিক",
+                    "word_transliteration": "banijjik",
+                    "example_sentence_translation": "AI-এর বাণিজ্যিক প্রয়োগ বৃদ্ধি পাচ্ছে।",
+                    "example_sentence_transliteration": "AI-er banijjik proyog briddhi pachhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "implementation",
+            "phonetic": "ˌɪm.plɪ.menˈteɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ইমপ্লিমেন্টেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔧",
+            "meaning": "The process of putting a decision or plan into effect",
+            "example_sentence": "Effective implementation ensures success.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইফেক্টিভ ইমপ্লিমেন্টেশন এনশিউরস সাকসেস।"
+            },
+            "position": 14,
+            "synonyms": "execution, application",
+            "antonyms": "neglect, delay",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাস্তবায়ন",
+                    "word_transliteration": "bastobayan",
+                    "example_sentence_translation": "কার্যকর বাস্তবায়ন সফলতা নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Karjokhor bastobayan shofolota nishchito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "research",
+            "phonetic": "ˈriː.sɜːtʃ",
+            "word_native_transliteration": {
+                "bn": "রিসার্চ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔬",
+            "meaning": "The systematic investigation into and study of materials and sources",
+            "example_sentence": "Research is key to technological breakthroughs.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিসার্চ ইজ কি টু টেকনোলজিক্যাল ব্রেকথ্রুস।"
+            },
+            "position": 15,
+            "synonyms": "investigation, study",
+            "antonyms": "ignorance, guesswork",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গবেষণা",
+                    "word_transliteration": "gobeshona",
+                    "example_sentence_translation": "গবেষণা প্রযুক্তিগত অগ্রগতির জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Gobeshona projuktogoto ongrogorir jonno oporoharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "divergent",
+            "phonetic": "daɪˈvɜː.dʒənt",
+            "word_native_transliteration": {
+                "bn": "ডাইভার্জেন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔀",
+            "meaning": "Tending to be different or develop in different directions",
+            "example_sentence": "Divergent policies create challenges in collaboration.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডাইভার্জেন্ট পলিসিজ ক্রিয়েট চ্যালেঞ্জেস ইন কোলাবরেশন।"
+            },
+            "position": 16,
+            "synonyms": "differing, contrasting",
+            "antonyms": "similar, alike",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভিন্নমুখী",
+                    "word_transliteration": "bhinnomukhi",
+                    "example_sentence_translation": "ভিন্নমুখী নীতিমালা সহযোগিতায় চ্যালেঞ্জ সৃষ্টি করে।",
+                    "example_sentence_transliteration": "Bhinnomukhi nitimala shohojogitay challenge srishti kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "discrepancies",
+            "phonetic": "dɪˈskrep.ən.siz",
+            "word_native_transliteration": {
+                "bn": "ডিসক্রেপ্যান্সিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "Differences between things that should be the same",
+            "example_sentence": "Discrepancies in regulations delay progress.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিসক্রেপ্যান্সিস ইন রেগুলেশনস ডিলে প্রোগ্রেস।"
+            },
+            "position": 17,
+            "synonyms": "inconsistencies, differences",
+            "antonyms": "consistencies, agreements",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অসঙ্গতি",
+                    "word_transliteration": "oshongoti",
+                    "example_sentence_translation": "নিয়মের অসঙ্গতি অগ্রগতিকে বিলম্বিত করে।",
+                    "example_sentence_transliteration": "Niyomer oshongoti ongrogorike biolombit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "misuse",
+            "phonetic": "ˌmɪsˈjuːs",
+            "word_native_transliteration": {
+                "bn": "মিসইউস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚠️",
+            "meaning": "The wrong or inappropriate use of something",
+            "example_sentence": "Misuse of AI can lead to ethical dilemmas.",
+            "example_sentence_native_transliteration": {
+                "bn": "মিসইউস অব এআই ক্যান লিড টু এথিক্যাল ডাইলেমাস।"
+            },
+            "position": 18,
+            "synonyms": "abuse, exploitation",
+            "antonyms": "proper use, preservation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অপব্যবহার",
+                    "word_transliteration": "opobbyobhar",
+                    "example_sentence_translation": "AI-এর অপব্যবহার নৈতিক সমস্যার সৃষ্টি করতে পারে।",
+                    "example_sentence_transliteration": "AI-er opobbyobhar noitik shomosshar srishti korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cybersecurity",
+            "phonetic": "ˌsaɪ.bə.sɪˈkjʊə.rɪ.ti",
+            "word_native_transliteration": {
+                "bn": "সাইবারসিকিউরিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛡️",
+            "meaning": "The practice of protecting systems, networks, and programs from digital attacks",
+            "example_sentence": "Cybersecurity ensures safe digital operations.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাইবারসিকিউরিটি এনশিউরস সেইফ ডিজিটাল অপারেশনস।"
+            },
+            "position": 19,
+            "synonyms": "data protection, digital security",
+            "antonyms": "vulnerability, insecurity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সাইবার নিরাপত্তা",
+                    "word_transliteration": "saibar nirapotta",
+                    "example_sentence_translation": "সাইবার নিরাপত্তা নিরাপদ ডিজিটাল কার্যক্রম নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Saibar nirapotta nirapad dijital karjokrom nishchito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "instrumental",
+            "phonetic": "ˌɪn.strəˈmen.təl",
+            "word_native_transliteration": {
+                "bn": "ইনস্ট্রুমেন্টাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔧",
+            "meaning": "Serving as a means of pursuing an aim or policy; helpful",
+            "example_sentence": "AI will be instrumental in future developments.",
+            "example_sentence_native_transliteration": {
+                "bn": "এআই উইল বি ইনস্ট্রুমেন্টাল ইন ফিউচার ডেভেলপমেন্টস।"
+            },
+            "position": 20,
+            "synonyms": "helpful, contributory",
+            "antonyms": "useless, ineffective",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহায়ক",
+                    "word_transliteration": "shohayok",
+                    "example_sentence_translation": "AI ভবিষ্যতের উন্নয়নে সহায়ক হবে।",
+                    "example_sentence_transliteration": "AI bhobishoter unnoyane shohayok hobe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cooperation",
+            "phonetic": "kəʊˌɒp.ərˈeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "কোঅপারেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "The process of working together to the same end",
+            "example_sentence": "Cooperation among nations is essential for AI regulation.",
+            "example_sentence_native_transliteration": {
+                "bn": "কোঅপারেশন অ্যামং নেশনস ইজ এসেনশিয়াল ফর এআই রেগুলেশন।"
+            },
+            "position": 21,
+            "synonyms": "collaboration, partnership",
+            "antonyms": "opposition, discord",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহযোগিতা",
+                    "word_transliteration": "shohojogita",
+                    "example_sentence_translation": "AI নিয়ন্ত্রণে দেশগুলোর সহযোগিতা অপরিহার্য।",
+                    "example_sentence_transliteration": "AI niyontrone deshgulor shohojogita oporoharjo.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

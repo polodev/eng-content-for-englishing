@@ -1,0 +1,283 @@
+{
+    "position": 66,
+    "title_translation": {
+        "en": "5 Valuable Lessons from 'The Almanack'",
+        "bn": "'দ্য অ্যালম্যানাক' থেকে ৫টি মূল্যবান শিক্ষা"
+    },
+    "content_translation": {
+        "en": "Naval Ravikant is an entrepreneur, advisor, and investor who has gained fame in the tech world by investing in success stories like Twitter and Uber. 'The Almanack of Naval Ravikant', compiled by Eric Jorgenson, provides some important **lessons** for improvement in our personal and professional lives.\n\n1. Build **Wealth** Efficiently\nPlan your **wealth creation**. Create something that earns income for you even while you sleep.\n**Strategy**: **Invest** in business or **intellectual property**.\n\n2. Use **Leverage** Wisely\nIncrease the **impact** of your work through technology and media. Learn **Coding** or start blogging and podcasting.\n**Formula**: **Wealth** = **Assets** that **earn** even while you sleep.\n\n3. Identify Unique Knowledge\nIdentify your own **passion** and **skills**.\n**Tip**: **Develop** a brand around what you enjoy.\n\n4. Build Long-term Relationships\nWork with those who have long-term **vision**. Build **trust** and collaborate.\n\n5. Pursue **Happiness**\nEnjoy life's small moments and avoid excessive desires.\n**Focus**: **Balance** money and time for **happiness**.",
+        "bn": "রবি কান্ত একজন উদ্যোক্তা, উপদেষ্টা এবং বিনিয়োগকারী, যিনি টুইটার ও উবারের মতো সাফল্যের গল্পে বিনিয়োগ করে প্রযুক্তি জগতে খ্যাতি অর্জন করেছেন। 'The Almanack of Naval Ravikant', এরিক জর্গেনসন দ্বারা সংকলিত, আমাদের ব্যক্তিগত এবং পেশাগত জীবনে উন্নয়নের জন্য কিছু গুরুত্বপূর্ণ **lessons** প্রদান করে।\n\n১. Build **Wealth** Efficiently\nআপনার **wealth creation** পরিকল্পনা করুন। এমন কিছু তৈরি করুন যা আপনাকে ঘুমানোর সময়ও আয় করে।\n**Strategy**: ব্যবসায় বা **intellectual property**-এ **invest** করুন।\n\n২. Use **Leverage** Wisely\nপ্রযুক্তি এবং মিডিয়ার মাধ্যমে আপনার কাজের **impact** বাড়ান। **Coding** শিখুন বা ব্লগিং এবং পডকাস্টিং শুরু করুন।\n**Formula**: **Wealth** = **Assets** যা ঘুমানোর সময়ও **earn** করে।\n\n৩. Identify Unique Knowledge\nনিজের **passion** এবং **skills** চিহ্নিত করুন।\n**Tip**: যা আপনি উপভোগ করেন, তা নিয়ে একটি ব্র্যান্ড **develop** করুন।\n\n৪. Build Long-term Relationships\nযারা দীর্ঘমেয়াদী **vision** রাখে তাদের সাথে কাজ করুন। **Trust** তৈরি করুন এবং collaborate করুন।\n\n৫. Pursue **Happiness**\nজীবনের ছোট ছোট moments উপভোগ করুন এবং অতিরিক্ত চাহিদা এড়িয়ে চলুন।\n**Focus**: সুখের জন্য অর্থ এবং সময় **balance** করুন।"
+    },
+    "list": [
+        {
+            "word": "wealth",
+            "phonetic": "wɛlθ",
+            "word_native_transliteration": {
+                "bn": "ওয়েলথ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💰",
+            "meaning": "The state of being rich; material prosperity; an abundance of valuable possessions or money.",
+            "example_sentence": "Wealth creation involves building assets that earn while you sleep.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওয়েলথ ক্রিয়েশন ইনভল্ভস বিল্ডিং অ্যাসেটস দ্যাট আর্ন হোয়াইল ইউ স্লিপ।"
+            },
+            "position": 1,
+            "synonyms": "riches, prosperity, fortune, affluence, opulence, assets",
+            "antonyms": "poverty, debt, destitution, penury, need, want",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সম্পদ",
+                    "word_transliteration": "shompod",
+                    "example_sentence_translation": "সম্পদ তৈরি মানে এমন সম্পদ গড়ে তোলা যা ঘুমানোর সময়ও আয় করে।",
+                    "example_sentence_transliteration": "Shompod toiri mane emon shompod gore tola ja ghumanor shomoyeo ay kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "invest",
+            "phonetic": "ɪnˈvɛst",
+            "word_native_transliteration": {
+                "bn": "ইনভেস্ট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📈",
+            "meaning": "To put money, effort, time, etc. into something to make a profit or get an advantage.",
+            "example_sentence": "Investing in intellectual property can generate passive income.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনভেস্টিং ইন ইন্টেলেকচুয়াল প্রপার্টি ক্যান জেনারেট প্যাসিভ ইনকাম।"
+            },
+            "position": 2,
+            "synonyms": "fund, finance, back, sponsor, support, capitalize",
+            "antonyms": "divest, withdraw, spend, squander, waste, consume",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিনিয়োগ করা",
+                    "word_transliteration": "biniyog kora",
+                    "example_sentence_translation": "মেধা সত্ত্বে বিনিয়োগ প্যাসিভ আয় তৈরি করতে পারে।",
+                    "example_sentence_transliteration": "Medha shotto biniyog passive ay toiri korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "leverage",
+            "phonetic": "ˈlɛvərɪdʒ",
+            "word_native_transliteration": {
+                "bn": "লিভারেজ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "The use of borrowed capital or resources to increase the potential return of an investment; using something to maximum advantage.",
+            "example_sentence": "Leverage amplifies your efforts and scales your work.",
+            "example_sentence_native_transliteration": {
+                "bn": "লিভারেজ অ্যামপ্লিফাইজ ইয়োর এফোর্টস অ্যান্ড স্কেলস ইয়োর ওয়ার্ক।"
+            },
+            "position": 3,
+            "synonyms": "advantage, influence, power, force, weight, clout",
+            "antonyms": "disadvantage, weakness, powerlessness, helplessness, impotence, inability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "লিভারেজ",
+                    "word_transliteration": "leverage",
+                    "example_sentence_translation": "লিভারেজ আপনার প্রচেষ্টাকে বহুগুণ বাড়ায় এবং কাজের স্কেল বাড়ায়।",
+                    "example_sentence_transliteration": "Leverage apnar prochestake bohugoon baray ebong kajer scale baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "earn",
+            "phonetic": "ɜrn",
+            "word_native_transliteration": {
+                "bn": "আর্ন"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "💵",
+            "meaning": "To obtain money, typically as payment for work or through investment; to acquire or deserve through one's efforts.",
+            "example_sentence": "Assets help you earn income even while sleeping.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাসেটস হেল্প ইউ আর্ন ইনকাম ইভেন হোয়াইল স্লিপিং।"
+            },
+            "position": 4,
+            "synonyms": "gain, make, receive, obtain, acquire, secure",
+            "antonyms": "spend, lose, waste, forfeit, squander, give",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উপার্জন করা",
+                    "word_transliteration": "uparjon kora",
+                    "example_sentence_translation": "সম্পদ আপনাকে ঘুমানোর সময়েও আয় করতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Shompod apnake ghumanor shomoyeo ay korte shahajjo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "develop",
+            "phonetic": "dɪˈvɛləp",
+            "word_native_transliteration": {
+                "bn": "ডেভেলপ"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🌱",
+            "meaning": "To grow or bring to a more advanced or effective state; to start to exist, experience, or possess gradually.",
+            "example_sentence": "Develop a brand based on your passion and skills.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডেভেলপ আ ব্র্যান্ড বেসড অন ইয়োর প্যাশন অ্যান্ড স্কিলস।"
+            },
+            "position": 5,
+            "synonyms": "build, create, establish, form, grow, advance",
+            "antonyms": "deteriorate, decline, destroy, demolish, ruin, regress",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিকাশ করা",
+                    "word_transliteration": "bikash kora",
+                    "example_sentence_translation": "আপনার আগ্রহ এবং দক্ষতার উপর ভিত্তি করে একটি ব্র্যান্ড তৈরি করুন।",
+                    "example_sentence_transliteration": "Apnar agroho ebong dokkhatar upor bhitti kore ekti brand toiri korun.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "vision",
+            "phonetic": "ˈvɪʒən",
+            "word_native_transliteration": {
+                "bn": "ভিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👁️",
+            "meaning": "The ability to think about or plan the future with imagination or wisdom; a mental image of what the future will or could be like.",
+            "example_sentence": "Working with people who have long-term vision ensures success.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওয়ার্কিং উইথ পিপল হু হ্যাভ লং-টার্ম ভিশন এনশিউরস সাকসেস।"
+            },
+            "position": 6,
+            "synonyms": "foresight, insight, perception, imagination, dream, goal",
+            "antonyms": "shortsightedness, ignorance, blindness, myopia, narrowness, limitation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দৃষ্টিভঙ্গি",
+                    "word_transliteration": "drishti bhongi",
+                    "example_sentence_translation": "দীর্ঘমেয়াদী দৃষ্টিভঙ্গি থাকা মানুষের সাথে কাজ করা সফলতা নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Dirghomeadi drishti bhongi thaka manusher shathe kaj kora shofolota nishchito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "trust",
+            "phonetic": "trʌst",
+            "word_native_transliteration": {
+                "bn": "ট্রাস্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "Firm belief in the reliability, truth, ability, or strength of someone or something; confidence placed in a person by making that person the nominal owner of property.",
+            "example_sentence": "Building trust is essential for long-term relationships.",
+            "example_sentence_native_transliteration": {
+                "bn": "বিল্ডিং ট্রাস্ট ইজ এসেনশিয়াল ফর লং-টার্ম রিলেশনশিপস।"
+            },
+            "position": 7,
+            "synonyms": "confidence, faith, belief, reliance, assurance, dependence",
+            "antonyms": "distrust, doubt, suspicion, mistrust, uncertainty, skepticism",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিশ্বাস",
+                    "word_transliteration": "bishwash",
+                    "example_sentence_translation": "দীর্ঘমেয়াদী সম্পর্কের জন্য বিশ্বাস গড়ে তোলা অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Dirghomeadi somporkher jonno bishwash gore tola otyonto gurutbopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "happiness",
+            "phonetic": "ˈhæpɪnəs",
+            "word_native_transliteration": {
+                "bn": "হ্যাপিনেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "😊",
+            "meaning": "The feeling or state of being happy; a pleasurable or satisfying experience; contentment and joy.",
+            "example_sentence": "Happiness lies in enjoying the small things in life.",
+            "example_sentence_native_transliteration": {
+                "bn": "হ্যাপিনেস লাইজ ইন এনজয়িং দ্য স্মল থিংস ইন লাইফ।"
+            },
+            "position": 8,
+            "synonyms": "joy, contentment, pleasure, cheerfulness, delight, bliss",
+            "antonyms": "sadness, misery, sorrow, grief, unhappiness, depression",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সুখ",
+                    "word_transliteration": "shukh",
+                    "example_sentence_translation": "জীবনের ছোট ছোট জিনিস উপভোগ করাতেই সুখ রয়েছে।",
+                    "example_sentence_transliteration": "Jiboner chhoto chhoto jinish upobhog koratei shukh royechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "balance",
+            "phonetic": "ˈbæləns",
+            "word_native_transliteration": {
+                "bn": "ব্যালেন্স"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⚖️",
+            "meaning": "To keep or put something in a steady position so that it does not fall; to give equal importance to two contrasting things or parts of something.",
+            "example_sentence": "Balance your time and money to achieve true happiness.",
+            "example_sentence_native_transliteration": {
+                "bn": "ব্যালেন্স ইয়োর টাইম অ্যান্ড মানি টু অ্যাচিভ ট্রু হ্যাপিনেস।"
+            },
+            "position": 9,
+            "synonyms": "equilibrium, stability, harmony, proportion, symmetry, poise",
+            "antonyms": "imbalance, offset, disproportion, instability, asymmetry, unevenness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভারসাম্য রাখা",
+                    "word_transliteration": "bharsammo rakha",
+                    "example_sentence_translation": "সত্যিকারের সুখ অর্জনে আপনার সময় এবং অর্থের ভারসাম্য রক্ষা করুন।",
+                    "example_sentence_transliteration": "Shottikarrer shukh orjone apnar shomoy ebong ortherর bharsammo rokkha korun.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "focus",
+            "phonetic": "ˈfoʊkəs",
+            "word_native_transliteration": {
+                "bn": "ফোকাস"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🎯",
+            "meaning": "To concentrate attention or effort on something; to direct one's attention or efforts towards a particular activity, subject, or problem.",
+            "example_sentence": "Focus on what truly matters to simplify your life.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফোকাস অন হোয়াট ট্রুলি ম্যাটারস টু সিম্পলিফাই ইয়োর লাইফ।"
+            },
+            "position": 10,
+            "synonyms": "concentrate, center, direct, aim, target, emphasize",
+            "antonyms": "distract, neglect, ignore, disperse, scatter, overlook",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মনোযোগ দেওয়া",
+                    "word_transliteration": "monojog deoya",
+                    "example_sentence_translation": "আপনার জীবনকে সহজ করতে যা সত্যিই গুরুত্বপূর্ণ তাতে মনোযোগ দিন।",
+                    "example_sentence_transliteration": "Apnar jiboンke sohoj korte ja shottii gurutbopurno tate monojog din.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

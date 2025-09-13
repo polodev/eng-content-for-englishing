@@ -1,0 +1,337 @@
+{
+    "position": 57,
+    "title_translation": {
+        "en": "Bangladesh's Environmental Problems",
+        "bn": "বাংলাদেশের পরিবেশগত সমস্যা"
+    },
+    "content_translation": {
+        "en": "Bangladesh, with an area of 147,570 square kilometers, is a **flood-prone deltaic landscape**. The country depends on natural resources including water, land, fisheries, forests and wildlife. However, various environmental problems are currently threatening these **vital resources**.\n\nNotable problems include groundwater **metal contamination**, increased salinity, cyclones and floods, and changes in water flow patterns. Some problems such as **lead contamination** and **salinity intrusion** are caused by human activities and **industrial processes**. On the other hand, cyclones and floods are nature's **catastrophic events**.\n\nClimate change is further **exacerbating** these problems, resulting in **storm intensification** and rising sea levels. According to the Notre Dame Global Adaptation Index, Bangladesh is the world's 43rd **most vulnerable nation** to climate change, and the 37th **least prepared** country for adaptation.\n\nThe government has adopted **mitigation strategies** at various times to address these challenges. However, without a **sustainable and collaborative approach**, solving these problems is impossible.",
+        "bn": "বাংলাদেশ, যার আয়তন ১,৪৭,৫৭০ কিমি, একটি **flood-prone deltaic landscape**। দেশটি প্রাকৃতিক সম্পদের মধ্যে পানি, ভূমি, মৎস্য, বনভূমি এবং বন্যপ্রাণীর উপর নির্ভরশীল। তবে বর্তমানে পরিবেশগত বিভিন্ন সমস্যা এই **vital resources**-কে হুমকির মুখে ফেলছে।\n\nউল্লেখযোগ্য সমস্যাগুলোর মধ্যে রয়েছে ভূগর্ভস্থ পানিতে **metal contamination**, লবণাক্ততা বৃদ্ধি, ঘূর্ণিঝড় ও বন্যা, এবং জলপ্রবাহের ধরন পরিবর্তন। কিছু সমস্যা যেমন **lead contamination** এবং **salinity intrusion**, মানব কার্যকলাপ এবং **industrial processes** এর ফলে সৃষ্টি হচ্ছে। অন্যদিকে, ঘূর্ণিঝড় ও বন্যা প্রকৃতির **catastrophic events**।\n\nজলবায়ু পরিবর্তন এই সমস্যাগুলোকে আরও **exacerbate** করছে, যার ফলে **storm intensification** এবং সমুদ্রপৃষ্ঠের উচ্চতা বৃদ্ধি পাচ্ছে। নটর ডেম গ্লোবাল অ্যাডাপ্টেশন ইনডেক্স অনুসারে, বাংলাদেশ জলবায়ু পরিবর্তনের প্রভাবে বিশ্বের ৪৩তম **most vulnerable nation**, এবং অভিযোজনের ক্ষেত্রে ৩৭তম **least prepared** দেশ।\n\nসরকার বিভিন্ন সময়ে এই চ্যালেঞ্জগুলো মোকাবিলার জন্য **mitigation strategies** গ্রহণ করেছে। তবে, একটি **sustainable and collaborative approach** ছাড়া এই সমস্যার সমাধান অসম্ভব।"
+    },
+    "list": [
+        {
+            "word": "flood-prone",
+            "phonetic": "ˈflʌd proʊn",
+            "word_native_transliteration": {
+                "bn": "ফ্লাড-প্রোন"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌊",
+            "meaning": "Susceptible to flooding; likely to experience floods frequently.",
+            "example_sentence": "Bangladesh is a flood-prone deltaic nation.",
+            "example_sentence_native_transliteration": {
+                "bn": "বাংলাদেশ ইজ অ্যা ফ্লাড-প্রোন ডেল্টাইক নেশন।"
+            },
+            "position": 1,
+            "synonyms": "susceptible to flooding, flood-vulnerable",
+            "antonyms": "flood-resistant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বন্যাপ্রবণ",
+                    "word_transliteration": "bonnapromon",
+                    "example_sentence_translation": "বাংলাদেশ একটি বন্যাপ্রবণ ডেল্টা অঞ্চল।",
+                    "example_sentence_transliteration": "Bangladesh ekti bonnapromon delta onchal.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "deltaic landscape",
+            "phonetic": "delˈteɪɪk ˈlændskeɪp",
+            "word_native_transliteration": {
+                "bn": "ডেল্টাইক ল্যান্ডস্কেপ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏞️",
+            "meaning": "A geographical area formed by sediment deposits at the mouth of a river, creating a triangular land formation.",
+            "example_sentence": "Bangladesh has a unique deltaic landscape.",
+            "example_sentence_native_transliteration": {
+                "bn": "বাংলাদেশ হ্যাজ অ্যা ইউনিক ডেল্টাইক ল্যান্ডস্কেপ।"
+            },
+            "position": 2,
+            "synonyms": "delta region, river delta",
+            "antonyms": "mountainous terrain",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ডেল্টা অঞ্চল",
+                    "word_transliteration": "delta onchal",
+                    "example_sentence_translation": "বাংলাদেশের একটি অনন্য ডেল্টা অঞ্চল রয়েছে।",
+                    "example_sentence_transliteration": "Bangladesher ekti ononno delta onchal royeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "vital resources",
+            "phonetic": "ˈvaɪtəl rɪˈsɔːrsɪz",
+            "word_native_transliteration": {
+                "bn": "ভাইটাল রিসোর্সেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌱",
+            "meaning": "Essential assets or supplies that are crucial for survival and development.",
+            "example_sentence": "Water is one of Bangladesh's vital resources.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওয়াটার ইজ ওয়ান অফ বাংলাদেশ'স ভাইটাল রিসোর্সেস।"
+            },
+            "position": 3,
+            "synonyms": "essential assets, critical supplies",
+            "antonyms": "nonessential resources",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গুরুত্বপূর্ণ সম্পদ",
+                    "word_transliteration": "guruttopurno shompod",
+                    "example_sentence_translation": "পানি বাংলাদেশের গুরুত্বপূর্ণ সম্পদগুলোর একটি।",
+                    "example_sentence_transliteration": "Pani Bangladesher guruttopurno shompodgulor ekti.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "metal contamination",
+            "phonetic": "ˈmetəl kənˌtæməˈneɪʃən",
+            "word_native_transliteration": {
+                "bn": "মেটাল কন্টামিনেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "☠️",
+            "meaning": "The presence of toxic metals in the environment that pose health and environmental risks.",
+            "example_sentence": "Metal contamination poses severe health risks.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেটাল কন্টামিনেশন পোজেস সিভিয়ার হেলথ রিস্কস।"
+            },
+            "position": 4,
+            "synonyms": "heavy metal pollution, toxic metal presence",
+            "antonyms": "purity, cleanliness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ধাতব দূষণ",
+                    "word_transliteration": "dhatob dushon",
+                    "example_sentence_translation": "ধাতব দূষণ গুরুতর স্বাস্থ্য ঝুঁকি সৃষ্টি করে।",
+                    "example_sentence_transliteration": "Dhatob dushon gurutor shasthho jhuki srishti kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "salinity intrusion",
+            "phonetic": "səˈlɪnɪti ɪnˈtruːʒən",
+            "word_native_transliteration": {
+                "bn": "সালিনিটি ইনট্রুশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧂",
+            "meaning": "The movement of salt water into freshwater areas, typically affecting coastal regions.",
+            "example_sentence": "Salinity intrusion affects coastal regions.",
+            "example_sentence_native_transliteration": {
+                "bn": "সালিনিটি ইনট্রুশন অ্যাফেক্টস কোস্টাল রিজিয়ন্স।"
+            },
+            "position": 5,
+            "synonyms": "saltwater infiltration, salinity increase",
+            "antonyms": "freshwater retention",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "লবণাক্ততা অনুপ্রবেশ",
+                    "word_transliteration": "lonakto onuprobesh",
+                    "example_sentence_translation": "লবণাক্ততা অনুপ্রবেশ উপকূলীয় অঞ্চলে প্রভাব ফেলে।",
+                    "example_sentence_transliteration": "Lonakto onuprobesh upokuliyo onchole probhab phele.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "catastrophic events",
+            "phonetic": "ˌkætəˈstrɒfɪk ɪˈvents",
+            "word_native_transliteration": {
+                "bn": "ক্যাটাস্ট্রফিক ইভেন্টস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌪️",
+            "meaning": "Extremely destructive or damaging events that cause widespread devastation.",
+            "example_sentence": "Cyclones are catastrophic events in Bangladesh.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাইক্লোনস আর ক্যাটাস্ট্রফিক ইভেন্টস ইন বাংলাদেশ।"
+            },
+            "position": 6,
+            "synonyms": "disasters, calamities",
+            "antonyms": "minor occurrences",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিধ্বংসী ঘটনা",
+                    "word_transliteration": "bidhongshi ghotona",
+                    "example_sentence_translation": "বাংলাদেশে ঘূর্ণিঝড় বিধ্বংসী ঘটনা।",
+                    "example_sentence_transliteration": "Bangladeshe ghurnijhor bidhongshi ghotona.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "exacerbate",
+            "phonetic": "ɪɡˈzæsərbeɪt",
+            "word_native_transliteration": {
+                "bn": "এক্সাসারবেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📈",
+            "meaning": "To make a problem, bad situation, or negative feeling worse.",
+            "example_sentence": "Climate change exacerbates flooding issues.",
+            "example_sentence_native_transliteration": {
+                "bn": "ক্লাইমেট চেঞ্জ এক্সাসারবেটস ফ্লাডিং ইস্যুজ।"
+            },
+            "position": 7,
+            "synonyms": "aggravate, intensify",
+            "antonyms": "alleviate, mitigate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আরও খারাপ করা",
+                    "word_transliteration": "aro kharap kora",
+                    "example_sentence_translation": "জলবায়ু পরিবর্তন বন্যার সমস্যা আরও খারাপ করে।",
+                    "example_sentence_transliteration": "Jolbayu poriborton bonnar shomoshha aro kharap kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "storm intensification",
+            "phonetic": "stɔːrm ɪnˌtensɪfɪˈkeɪʃən",
+            "word_native_transliteration": {
+                "bn": "স্টর্ম ইনটেনসিফিকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⛈️",
+            "meaning": "The process by which storms become stronger and more severe in intensity.",
+            "example_sentence": "Storm intensification is linked to climate change.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্টর্ম ইনটেনসিফিকেশন ইজ লিংকড টু ক্লাইমেট চেঞ্জ।"
+            },
+            "position": 8,
+            "synonyms": "cyclone strengthening, severe storming",
+            "antonyms": "storm weakening",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ঝড়ের তীব্রতা বৃদ্ধি",
+                    "word_transliteration": "jhorer tibrota briddhi",
+                    "example_sentence_translation": "ঝড়ের তীব্রতা বৃদ্ধি জলবায়ু পরিবর্তনের সঙ্গে সম্পর্কিত।",
+                    "example_sentence_transliteration": "Jhorer tibrota briddhi jolbayu poribortoner shonge shompoркito.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "most vulnerable nation",
+            "phonetic": "moʊst ˈvʌlnərəbəl ˈneɪʃən",
+            "word_native_transliteration": {
+                "bn": "মোস্ট ভালনারেবল নেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛡️",
+            "meaning": "A country that is highly exposed to risks and lacks adequate protection or resilience.",
+            "example_sentence": "Bangladesh is one of the most vulnerable nations to climate change.",
+            "example_sentence_native_transliteration": {
+                "bn": "বাংলাদেশ ইজ ওয়ান অফ দ্য মোস্ট ভালনারেবল নেশনস টু ক্লাইমেট চেঞ্জ।"
+            },
+            "position": 9,
+            "synonyms": "highly exposed country, fragile nation",
+            "antonyms": "resilient nation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সর্বাধিক ঝুঁকিপূর্ণ দেশ",
+                    "word_transliteration": "shorbadhi jhukipurno desh",
+                    "example_sentence_translation": "বাংলাদেশ জলবায়ু পরিবর্তনের জন্য সবচেয়ে ঝুঁকিপূর্ণ দেশগুলোর একটি।",
+                    "example_sentence_transliteration": "Bangladesh jolbayu poribortoner jonno shobcheye jhukipurno deshgulor ekti.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "least prepared",
+            "phonetic": "liːst prɪˈpeərd",
+            "word_native_transliteration": {
+                "bn": "লিস্ট প্রিপেয়ার্ড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "❌",
+            "meaning": "Having the minimum level of readiness or equipment to handle a situation.",
+            "example_sentence": "Bangladesh is among the least prepared for climate adaptation.",
+            "example_sentence_native_transliteration": {
+                "bn": "বাংলাদেশ ইজ আমং দ্য লিস্ট প্রিপেয়ার্ড ফর ক্লাইমেট অ্যাডাপটেশন।"
+            },
+            "position": 10,
+            "synonyms": "ill-equipped, unready",
+            "antonyms": "fully equipped, ready",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সবচেয়ে কম প্রস্তুত",
+                    "word_transliteration": "shobcheye kom prostuto",
+                    "example_sentence_translation": "বাংলাদেশ জলবায়ু অভিযোজনে সবচেয়ে কম প্রস্তুত দেশগুলোর মধ্যে একটি।",
+                    "example_sentence_transliteration": "Bangladesh jolbayu obhijojone shobcheye kom prostuto deshgulor moddhe ekti.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "mitigation strategies",
+            "phonetic": "ˌmɪtɪˈɡeɪʃən ˈstrætədʒiz",
+            "word_native_transliteration": {
+                "bn": "মিটিগেশন স্ট্রাটেজিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛠️",
+            "meaning": "Plans and actions designed to reduce the severity or impact of problems or risks.",
+            "example_sentence": "Governments must adopt mitigation strategies for climate change.",
+            "example_sentence_native_transliteration": {
+                "bn": "গভর্নমেন্টস মাস্ট অ্যাডপ্ট মিটিগেশন স্ট্রাটেজিস ফর ক্লাইমেট চেঞ্জ।"
+            },
+            "position": 11,
+            "synonyms": "risk reduction plans, preventive measures",
+            "antonyms": "exacerbation tactics",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রশমন কৌশল",
+                    "word_transliteration": "proshomon koushol",
+                    "example_sentence_translation": "জলবায়ু পরিবর্তনের জন্য সরকারকে প্রশমন কৌশল গ্রহণ করতে হবে।",
+                    "example_sentence_transliteration": "Jolbayu poribortoner jonno shorkarkhe proshomon koushol grohon korte hobe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sustainable and collaborative approach",
+            "phonetic": "səˈsteɪnəbəl ænd kəˈlæbərətɪv əˈproʊtʃ",
+            "word_native_transliteration": {
+                "bn": "সাস্টেইনেবল অ্যান্ড কোলাবরেটিভ অ্যাপ্রোচ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "A method of working together that can be maintained over time without depleting resources or causing harm.",
+            "example_sentence": "A sustainable and collaborative approach is crucial for solving environmental problems.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যা সাস্টেইনেবল অ্যান্ড কোলাবরেটিভ অ্যাপ্রোচ ইজ ক্রুসিয়াল ফর সলভিং এনভায়রনমেন্টাল প্রবলেমস।"
+            },
+            "position": 12,
+            "synonyms": "long-term cooperative method, enduring partnership",
+            "antonyms": "short-term individual effort",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "টেকসই ও সহযোগিতামূলক পদ্ধতি",
+                    "word_transliteration": "tekshoi o shohojogitamulok poddhoti",
+                    "example_sentence_translation": "পরিবেশগত সমস্যা সমাধানের জন্য একটি টেকসই ও সহযোগিতামূলক পদ্ধতি অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Poribeshgoto shomoshha shomadhaner jonno ekti tekshoi o shohojogitamulok poddhoti ottonto guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

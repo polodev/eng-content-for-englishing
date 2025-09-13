@@ -1,0 +1,418 @@
+{
+    "position": 53,
+    "title_translation": {
+        "en": "Learn Vocabulary Through Stories - Medical Education",
+        "bn": "গল্পের মাধ্যমে শব্দ শিখুন - চিকিৎসা শিক্ষা"
+    },
+    "content_translation": {
+        "en": "Bangladesh has made significant progress in **medical education** quality improvement in 2023 by enacting the 'Bangladesh **Medical Education** **Accreditation** **Act**, 2023'. Under this **act**, an **Accreditation Council** has been formed, whose main objective is **quality** **assurance**, **monitoring**, and granting **accreditation** certificates.\n\nThe council's **leadership** is being provided by Professor Md. Sohrab Ali and Professor Dr. Khan Abul Kalam Azad has been appointed as **registrar**. They are **aligning** the country's **medical** **education** with **international** **standards**.\n\nThis **initiative** will not only contribute to the **quality** **enhancement** of **medical** **education**, but will also increase the opportunity for Bangladeshi students to participate in **global** competitiveness. Through increased recognition, this will strengthen the country's healthcare sector and play an important role in ensuring high-quality **medical** services.",
+        "bn": "বাংলাদেশে **medical education**-এর মান উন্নয়নে ২০২৩ সালে সরকার 'Bangladesh **Medical Education** **Accreditation** **Act**, 2023' প্রণয়ন করেছে। এই **আইনে**র আওতায় একটি **Accreditation Council** গঠিত হয়েছে, যার মূল উদ্দেশ্য হলো **quality** **assurance**, **monitoring**, এবং **accreditation** সনদ প্রদান করা।\n\nকাউন্সিলের **leadership** প্রদান করছেন অধ্যাপক মো. সোহরাব আলী এবং **registrar** হিসেবে নিযুক্ত হয়েছেন অধ্যাপক ডা. খান আবুল কালাম আজাদ। তারা **aligning** করছেন দেশের চিকিৎসা শিক্ষাকে **international** **standards**-এর সঙ্গে।\n\nএই **initiative** শুধুমাত্র চিকিৎসা শিক্ষার **quality** **enhancement**-এ অবদান রাখবে না, বরং **global** competitiveness-এ বাংলাদেশি শিক্ষার্থীদের অংশগ্রহণের সুযোগ বাড়াবে। এটি recognition বৃদ্ধির মাধ্যমে দেশের healthcare sector-কে আরও শক্তিশালী করবে এবং high-quality **medical** services নিশ্চিত করতে গুরুত্বপূর্ণ ভূমিকা পালন করবে।"
+    },
+    "list": [
+        {
+            "word": "medical",
+            "phonetic": "ˈmed.ɪ.kəl",
+            "word_native_transliteration": {
+                "bn": "মেডিকেল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🏥",
+            "meaning": "Relating to the practice of medicine or the treatment of illness and injuries.",
+            "example_sentence": "Medical education has improved significantly.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেডিকেল এডুকেশন হ্যাজ ইমপ্রুভড সিগনিফিক্যান্টলি।"
+            },
+            "position": 1,
+            "synonyms": "clinical, therapeutic, health-related, healing",
+            "antonyms": "non-medical, surgical",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চিকিৎসা",
+                    "word_transliteration": "chikitsha",
+                    "example_sentence_translation": "চিকিৎসা শিক্ষা উল্লেখযোগ্যভাবে উন্নত হয়েছে।",
+                    "example_sentence_transliteration": "Chikitsha shiksha ullekhjoggyobhabe unnatohe cheshe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "education",
+            "phonetic": "ˌedʒ.ʊˈkeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "এডুকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📚",
+            "meaning": "The process of receiving or giving systematic instruction, especially at a school or university.",
+            "example_sentence": "Quality education is key to progress.",
+            "example_sentence_native_transliteration": {
+                "bn": "কোয়ালিটি এডুকেশন ইজ কি টু প্রগ্রেস।"
+            },
+            "position": 2,
+            "synonyms": "learning, instruction, teaching, schooling",
+            "antonyms": "ignorance, illiteracy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শিক্ষা",
+                    "word_transliteration": "shiksha",
+                    "example_sentence_translation": "মানসম্মত শিক্ষা অগ্রগতির চাবিকাঠি।",
+                    "example_sentence_transliteration": "Manshommat shiksha ogrogtir chabikathi.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "accreditation",
+            "phonetic": "əˌkred.ɪˈteɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "অ্যাক্রেডিটেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✅",
+            "meaning": "The action or process of officially recognizing someone or something as having a particular status or being qualified to perform a particular activity.",
+            "example_sentence": "Accreditation ensures institutional credibility.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাক্রেডিটেশন এনশিউরস ইনস্টিটিউশনাল ক্রেডিবিলিটি।"
+            },
+            "position": 3,
+            "synonyms": "certification, approval, authorization, validation",
+            "antonyms": "disapproval, rejection",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বীকৃতি",
+                    "word_transliteration": "shikrity",
+                    "example_sentence_translation": "স্বীকৃতি প্রতিষ্ঠানকে নির্ভরযোগ্য করে তোলে।",
+                    "example_sentence_transliteration": "Shikrity protishthankeshe nirbhorjoggo kore tole.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "act",
+            "phonetic": "ækt",
+            "word_native_transliteration": {
+                "bn": "অ্যাক্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📜",
+            "meaning": "A written law passed by a legislative body.",
+            "example_sentence": "The act was passed in 2023.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যাক্ট ওয়াজ পাসড ইন ২০২৩।"
+            },
+            "position": 4,
+            "synonyms": "law, regulation, statute, bill",
+            "antonyms": "chaos, disorder",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আইন",
+                    "word_transliteration": "ain",
+                    "example_sentence_translation": "আইনটি ২০২৩ সালে পাশ হয়।",
+                    "example_sentence_transliteration": "Ainti 2023 shale pash hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "quality",
+            "phonetic": "ˈkwɒl.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "কোয়ালিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⭐",
+            "meaning": "The standard of something as measured against other things of a similar kind; the degree of excellence of something.",
+            "example_sentence": "Quality assurance is vital in medical education.",
+            "example_sentence_native_transliteration": {
+                "bn": "কোয়ালিটি অ্যাসিউরেন্স ইজ ভাইটাল ইন মেডিকেল এডুকেশন।"
+            },
+            "position": 5,
+            "synonyms": "standard, excellence, grade, caliber",
+            "antonyms": "inferiority, deficiency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গুণমান",
+                    "word_transliteration": "gunman",
+                    "example_sentence_translation": "চিকিৎসা শিক্ষায় গুণগত মান নিশ্চিতকরণ অপরিহার্য।",
+                    "example_sentence_transliteration": "Chikitsha shikshay gunogot man nishchitokoron oporhirjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "assurance",
+            "phonetic": "əˈʃɔː.rəns",
+            "word_native_transliteration": {
+                "bn": "অ্যাসিউরেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛡️",
+            "meaning": "A positive declaration intended to give confidence; a promise.",
+            "example_sentence": "Assurance of quality is a priority for the council.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাসিউরেন্স অফ কোয়ালিটি ইজ এ প্রায়োরিটি ফর দ্য কাউন্সিল।"
+            },
+            "position": 6,
+            "synonyms": "guarantee, confidence, certainty, pledge",
+            "antonyms": "uncertainty, doubt",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিশ্চিতকরণ",
+                    "word_transliteration": "nishchitokoron",
+                    "example_sentence_translation": "গুণগত মান নিশ্চিতকরণ পরিষদের অগ্রাধিকার।",
+                    "example_sentence_transliteration": "Gunogot man nishchitokoron porishoder ogrodhikar.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "monitoring",
+            "phonetic": "ˈmɒn.ɪ.tər.ɪŋ",
+            "word_native_transliteration": {
+                "bn": "মনিটরিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👁️",
+            "meaning": "The action of observing and checking the progress or quality of something over a period of time.",
+            "example_sentence": "Monitoring ensures compliance with standards.",
+            "example_sentence_native_transliteration": {
+                "bn": "মনিটরিং এনশিউরস কমপ্লায়েন্স উইথ স্ট্যান্ডার্ডস।"
+            },
+            "position": 7,
+            "synonyms": "observation, supervision, tracking, surveillance",
+            "antonyms": "ignorance, neglect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "তদারকি",
+                    "word_transliteration": "todarki",
+                    "example_sentence_translation": "তদারকি মান নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Todarki man nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "leadership",
+            "phonetic": "ˈliː.də.ʃɪp",
+            "word_native_transliteration": {
+                "bn": "লিডারশিপ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👑",
+            "meaning": "The action of leading a group of people or an organization.",
+            "example_sentence": "Leadership is crucial for institutional success.",
+            "example_sentence_native_transliteration": {
+                "bn": "লিডারশিপ ইজ ক্রুশাল ফর ইনস্টিটিউশনাল সাকসেস।"
+            },
+            "position": 8,
+            "synonyms": "guidance, direction, management, command",
+            "antonyms": "subordination, incompetence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নেতৃত্ব",
+                    "word_transliteration": "netrotva",
+                    "example_sentence_translation": "নেতৃত্ব প্রতিষ্ঠানের সাফল্যের জন্য গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Netrotva protishthaner shafoler jonno guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "registrar",
+            "phonetic": "ˈredʒ.ɪ.strɑːr",
+            "word_native_transliteration": {
+                "bn": "রেজিস্ট্রার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📋",
+            "meaning": "An official responsible for keeping records or registers.",
+            "example_sentence": "The registrar oversees all administrative tasks.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রেজিস্ট্রার ওভারসিজ অল অ্যাডমিনিস্ট্রেটিভ টাস্কস।"
+            },
+            "position": 9,
+            "synonyms": "administrator, clerk, recorder, keeper",
+            "antonyms": "participant, subordinate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রেজিস্ট্রার",
+                    "word_transliteration": "registrar",
+                    "example_sentence_translation": "রেজিস্ট্রার সমস্ত প্রশাসনিক কার্যক্রম তদারকি করেন।",
+                    "example_sentence_transliteration": "Registrar shomosto proshashnik karyokrom todarki koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "aligning",
+            "phonetic": "əˈlaɪn.ɪŋ",
+            "word_native_transliteration": {
+                "bn": "অ্যালাইনিং"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🎯",
+            "meaning": "Placing or arranging things in a straight line or in correct relative positions.",
+            "example_sentence": "Aligning education with global standards is vital.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যালাইনিং এডুকেশন উইথ গ্লোবাল স্ট্যান্ডার্ডস ইজ ভাইটাল।"
+            },
+            "position": 10,
+            "synonyms": "coordinating, adjusting, matching, harmonizing",
+            "antonyms": "misaligning, disorganizing",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সামঞ্জস্য করা",
+                    "word_transliteration": "shamojosyo kora",
+                    "example_sentence_translation": "শিক্ষাকে আন্তর্জাতিক মানের সঙ্গে সামঞ্জস্য করা অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Shikshake antorjatik maner shonge shamojosyo kora otyonto guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "international",
+            "phonetic": "ˌɪn.təˈnæʃ.ən.əl",
+            "word_native_transliteration": {
+                "bn": "ইন্টারন্যাশনাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌍",
+            "meaning": "Existing, occurring, or carried on between two or more nations and their citizens.",
+            "example_sentence": "International standards improve competitiveness.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইন্টারন্যাশনাল স্ট্যান্ডার্ডস ইমপ্রুভ কমপেটিটিভনেস।"
+            },
+            "position": 11,
+            "synonyms": "global, worldwide, universal, multinational",
+            "antonyms": "national, local",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আন্তর্জাতিক",
+                    "word_transliteration": "antorjatik",
+                    "example_sentence_translation": "আন্তর্জাতিক মান প্রতিযোগিতার উন্নতি করে।",
+                    "example_sentence_transliteration": "Antorjatik man protijogitar unnoti kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "standards",
+            "phonetic": "ˈstæn.dədz",
+            "word_native_transliteration": {
+                "bn": "স্ট্যান্ডার্ডস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📏",
+            "meaning": "A level of quality or attainment.",
+            "example_sentence": "Institutions must meet international standards.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনস্টিটিউশনস মাস্ট মিট ইন্টারন্যাশনাল স্ট্যান্ডার্ডস।"
+            },
+            "position": 12,
+            "synonyms": "criteria, benchmarks, norms, specifications",
+            "antonyms": "deviation, inferiority",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মান",
+                    "word_transliteration": "man",
+                    "example_sentence_translation": "প্রতিষ্ঠানগুলোকে আন্তর্জাতিক মান পূরণ করতে হবে।",
+                    "example_sentence_transliteration": "Protishthanguloke antorjatik man puron korte hobe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "initiative",
+            "phonetic": "ɪˈnɪʃ.ə.tɪv",
+            "word_native_transliteration": {
+                "bn": "ইনিশিয়েটিভ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚀",
+            "meaning": "An act or strategy intended to resolve a difficulty or improve a situation; a fresh approach to something.",
+            "example_sentence": "The initiative aims to improve healthcare education.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইনিশিয়েটিভ এইমস টু ইমপ্রুভ হেলথকেয়ার এডুকেশন।"
+            },
+            "position": 13,
+            "synonyms": "plan, action, project, scheme",
+            "antonyms": "inaction, passivity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্যোগ",
+                    "word_transliteration": "uddyog",
+                    "example_sentence_translation": "উদ্যোগটি স্বাস্থ্যসেবা শিক্ষার মানোন্নয়নের লক্ষ্য।",
+                    "example_sentence_transliteration": "Uddyogti shasthyosheba shikhar manonnoyoner lokkho.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "enhancement",
+            "phonetic": "ɪnˈhɑːns.mənt",
+            "word_native_transliteration": {
+                "bn": "এনহান্সমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "An increase or improvement in quality, value, or extent.",
+            "example_sentence": "Enhancement of education quality is vital.",
+            "example_sentence_native_transliteration": {
+                "bn": "এনহান্সমেন্ট অফ এডুকেশন কোয়ালিটি ইজ ভাইটাল।"
+            },
+            "position": 14,
+            "synonyms": "improvement, augmentation, betterment, upgrade",
+            "antonyms": "decrease, decline",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উন্নতি",
+                    "word_transliteration": "unnoti",
+                    "example_sentence_translation": "শিক্ষার গুণগত মান উন্নয়ন অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Shikhar gunogot man unnoyon otyonto guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "global",
+            "phonetic": "ˈɡləʊ.bəl",
+            "word_native_transliteration": {
+                "bn": "গ্লোবাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌐",
+            "meaning": "Relating to the whole world; worldwide.",
+            "example_sentence": "Global competitiveness requires innovation.",
+            "example_sentence_native_transliteration": {
+                "bn": "গ্লোবাল কমপেটিটিভনেস রিকোয়ার্স ইনোভেশন।"
+            },
+            "position": 15,
+            "synonyms": "worldwide, international, universal, planetary",
+            "antonyms": "local, regional",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৈশ্বিক",
+                    "word_transliteration": "boishvik",
+                    "example_sentence_translation": "বৈশ্বিক প্রতিযোগিতায় উদ্ভাবন প্রয়োজন।",
+                    "example_sentence_transliteration": "Boishvik protijogitay udbhabon proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,256 @@
+{
+    "position": 63,
+    "title_translation": {
+        "en": "Learn Vocabulary Through Stories - Plastic Recycling",
+        "bn": "গল্পের মাধ্যমে শব্দভাণ্ডার শিখুন - প্লাস্টিকসামগ্রীর পুনর্ব্যবহার"
+    },
+    "content_translation": {
+        "en": "While plastic is an indispensable part of our daily lives, it continues to have **adverse effects** on the environment. A **volunteer organization** called BD Clean has taken **commendable initiatives** to raise awareness about the harmful effects of plastic.\n\nOn the occasion of the great Victory Day, this organization created **creative exhibits** using plastic bottles and bottle caps, including maps of Bangladesh, portraits of Bangabandhu, and the National Memorial. The **primary objective** of the exhibition was to encourage everyone to **recycle** plastic to maintain environmental balance.\n\nAlthough the use of one-time plastic items like cups, plates, and straws has become convenient in our lives, they have **health hazards** and long-term effects on the environment. Due to the **durability** and convenience of plastic, its use is increasing day by day, which is a threat to environmental **sustainability**.",
+        "bn": "প্লাস্টিক আমাদের দৈনন্দিন জীবনের অপরিহার্য অংশ হলেও, এটি পরিবেশের উপর **adverse effects** সৃষ্টি করে চলেছে। বিডি ক্লিন নামক **volunteer organization** প্লাস্টিকের ক্ষতিকর প্রভাব সম্পর্কে সচেতনতা বৃদ্ধি করতে **commendable initiatives** গ্রহণ করেছে।\n\nমহান বিজয় দিবস উপলক্ষে এই সংগঠনটি প্লাস্টিকের বোতল এবং বোতলের মুখ দিয়ে **creative exhibits** তৈরি করেছে, যার মধ্যে রয়েছে বাংলাদেশের মানচিত্র, বঙ্গবন্ধুর প্রতিকৃতি এবং জাতীয় স্মৃতিসৌধ। প্রদর্শনীর **primary objective** ছিল পরিবেশের ভারসাম্য রক্ষায় প্লাস্টিকের **recycling** বা পুনর্ব্যবহারে সবাইকে উৎসাহিত করা।\n\nওয়ান-টাইম প্লাস্টিকের ব্যবহার যেমন কাপ, প্লেট এবং স্ট্র আমাদের জীবনে সহজলভ্য হলেও, এগুলোর **health hazards** এবং পরিবেশের উপর দীর্ঘস্থায়ী প্রভাব রয়েছে। প্লাস্টিকের **durability** এবং সহজলভ্যতার কারণে এর ব্যবহার দিন দিন বাড়ছে, যা পরিবেশের **sustainability**-এর জন্য হুমকি।"
+    },
+    "list": [
+        {
+            "word": "adverse effects",
+            "phonetic": "ˈædvɜːrs ɪˈfekts",
+            "word_native_transliteration": {
+                "bn": "অ্যাডভার্স ইফেক্টস"
+            },
+            "parts_of_speech": "adjective + noun",
+            "emoji": "⚠️",
+            "meaning": "Negative or harmful impacts that result from an action or condition.",
+            "example_sentence": "Plastic usage has adverse effects on the environment.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্লাস্টিক ইউসেজ হ্যাজ অ্যাডভার্স ইফেক্টস অন দ্য এনভায়রনমেন্ট।"
+            },
+            "position": 1,
+            "synonyms": "negative impact, detrimental outcomes, harmful consequences",
+            "antonyms": "positive effects, beneficial outcomes",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিরূপ প্রভাব",
+                    "word_transliteration": "birup prabhab",
+                    "example_sentence_translation": "প্লাস্টিক ব্যবহারে পরিবেশের উপর বিরূপ প্রভাব পড়ে।",
+                    "example_sentence_transliteration": "Plastic byabohare poribeshder upor birup prabhab pore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "volunteer organization",
+            "phonetic": "ˌvɒlənˈtɪər ˌɔːɡənaɪˈzeɪʃən",
+            "word_native_transliteration": {
+                "bn": "ভলান্টিয়ার অর্গানাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "A nonprofit group of people who offer their services willingly without payment for a cause.",
+            "example_sentence": "BD Clean is a volunteer organization promoting recycling.",
+            "example_sentence_native_transliteration": {
+                "bn": "বিডি ক্লিন ইজ এ ভলান্টিয়ার অর্গানাইজেশন প্রোমোটিং রিসাইক্লিং।"
+            },
+            "position": 2,
+            "synonyms": "nonprofit group, community initiative, charitable organization",
+            "antonyms": "for-profit organization, commercial entity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বেচ্ছাসেবী সংগঠন",
+                    "word_transliteration": "swechhasebi shonggoṭhon",
+                    "example_sentence_translation": "বিডি ক্লিন পুনর্ব্যবহার প্রচারে একটি স্বেচ্ছাসেবী সংগঠন।",
+                    "example_sentence_transliteration": "BD Clean punorbbybohar prochare ekti swechhasebi shonggoṭhon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "commendable initiatives",
+            "phonetic": "kəˈmendəbəl ɪˈnɪʃətɪvz",
+            "word_native_transliteration": {
+                "bn": "কমেন্ডেবল ইনিশিয়েটিভস"
+            },
+            "parts_of_speech": "adjective + noun",
+            "emoji": "👏",
+            "meaning": "Praiseworthy efforts or actions that deserve admiration and approval.",
+            "example_sentence": "The commendable initiatives aim to raise awareness.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কমেন্ডেবল ইনিশিয়েটিভস এইম টু রেইজ এওয়ারনেস।"
+            },
+            "position": 3,
+            "synonyms": "praiseworthy efforts, notable actions, admirable undertakings",
+            "antonyms": "criticizable efforts, questionable actions",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রশংসনীয় উদ্যোগ",
+                    "word_transliteration": "proshongshoniyo uddyog",
+                    "example_sentence_translation": "প্রশংসনীয় উদ্যোগ সচেতনতা বৃদ্ধির লক্ষ্যে নেওয়া হয়েছে।",
+                    "example_sentence_transliteration": "Proshongshoniyo uddyog sochetonota bridddhir lokkhe neoya hoyechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "creative exhibits",
+            "phonetic": "kriˈeɪtɪv ɪɡˈzɪbɪts",
+            "word_native_transliteration": {
+                "bn": "ক্রিয়েটিভ এক্সহিবিটস"
+            },
+            "parts_of_speech": "adjective + noun",
+            "emoji": "🎨",
+            "meaning": "Artistic displays or presentations that show originality and imagination.",
+            "example_sentence": "The creative exhibits highlighted recycling possibilities.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ক্রিয়েটিভ এক্সহিবিটস হাইলাইটেড রিসাইক্লিং পসিবিলিটিজ।"
+            },
+            "position": 4,
+            "synonyms": "artistic displays, innovative presentations, imaginative showcases",
+            "antonyms": "unimaginative exhibits, conventional displays",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সৃজনশীল প্রদর্শনী",
+                    "word_transliteration": "srijonshil prodorshoni",
+                    "example_sentence_translation": "সৃজনশীল প্রদর্শনী পুনর্ব্যবহারের সম্ভাবনাকে তুলে ধরেছে।",
+                    "example_sentence_transliteration": "Srijonshil prodorshoni punorbbyobahrer shombhabonatake tule dhorechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "primary objective",
+            "phonetic": "ˈpraɪməri əbˈdʒektɪv",
+            "word_native_transliteration": {
+                "bn": "প্রাইমারি অবজেক্টিভ"
+            },
+            "parts_of_speech": "adjective + noun",
+            "emoji": "🎯",
+            "meaning": "The main goal or chief aim of an activity, project, or endeavor.",
+            "example_sentence": "The primary objective of the event was to promote recycling.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রাইমারি অবজেক্টিভ অব দ্য ইভেন্ট ওয়াজ টু প্রোমোট রিসাইক্লিং।"
+            },
+            "position": 5,
+            "synonyms": "main goal, chief aim, principal purpose",
+            "antonyms": "secondary objective, minor goal",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রধান লক্ষ্য",
+                    "word_transliteration": "prodhan lokkho",
+                    "example_sentence_translation": "ইভেন্টের প্রধান লক্ষ্য ছিল পুনর্ব্যবহার প্রচার করা।",
+                    "example_sentence_transliteration": "Eventer prodhan lokkho chhilo punorbbybohar prochar kora.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "recycling",
+            "phonetic": "riˈsaɪklɪŋ",
+            "word_native_transliteration": {
+                "bn": "রিসাইক্লিং"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "♻️",
+            "meaning": "The process of converting waste materials into new materials and objects to prevent waste.",
+            "example_sentence": "Recycling plastic helps in reducing waste.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিসাইক্লিং প্লাস্টিক হেল্পস ইন রিডিউসিং ওয়েস্ট।"
+            },
+            "position": 6,
+            "synonyms": "reusing, reprocessing, repurposing",
+            "antonyms": "disposing, wasting, discarding",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুনর্ব্যবহার করা",
+                    "word_transliteration": "punorbbybohar kora",
+                    "example_sentence_translation": "রিসাইক্লিং প্লাস্টিক বর্জ্য কমাতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Recycling plastic borjyo komate shahajyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "health hazards",
+            "phonetic": "helθ ˈhæzərdz",
+            "word_native_transliteration": {
+                "bn": "হেলথ হ্যাজার্ডস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "☠️",
+            "meaning": "Risks or dangers to physical health and well-being that can cause illness or injury.",
+            "example_sentence": "Plastic usage leads to significant health hazards.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্লাস্টিক ইউসেজ লিডস টু সিগনিফিক্যান্ট হেলথ হ্যাজার্ডস।"
+            },
+            "position": 7,
+            "synonyms": "health risks, medical dangers, safety threats",
+            "antonyms": "health benefits, safety measures",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বাস্থ্যগত ঝুঁকি",
+                    "word_transliteration": "swasthyogoto jhuki",
+                    "example_sentence_translation": "প্লাস্টিক ব্যবহারে গুরুত্বপূর্ণ স্বাস্থ্যগত ঝুঁকি রয়েছে।",
+                    "example_sentence_transliteration": "Plastic byabohare gurutbopurno swasthyogoto jhuki royechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "durability",
+            "phonetic": "ˌdjʊərəˈbɪləti",
+            "word_native_transliteration": {
+                "bn": "ডিউরেবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "The ability to withstand wear, pressure, or damage; lasting quality or strength.",
+            "example_sentence": "The durability of plastic makes it popular but harmful.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডিউরেবিলিটি অব প্লাস্টিক মেকস ইট পপুলার বাট হার্মফুল।"
+            },
+            "position": 8,
+            "synonyms": "longevity, endurance, lasting quality",
+            "antonyms": "fragility, short-lived, weakness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্থায়িত্ব",
+                    "word_transliteration": "sthaiyitbo",
+                    "example_sentence_translation": "প্লাস্টিকের স্থায়িত্ব এটি জনপ্রিয় হলেও ক্ষতিকর করে তোলে।",
+                    "example_sentence_transliteration": "Plastiker sthaiyitbo eti jonopriyo holeoo khotikar kore tole.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sustainability",
+            "phonetic": "səˌsteɪnəˈbɪləti",
+            "word_native_transliteration": {
+                "bn": "সাসটেইনেবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌱",
+            "meaning": "The ability to maintain or support a process continuously over time without depleting resources or causing harm.",
+            "example_sentence": "Plastic pollution threatens environmental sustainability.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্লাস্টিক পলিউশন থ্রেটেনস এনভায়রনমেন্টাল সাসটেইনেবিলিটি।"
+            },
+            "position": 9,
+            "synonyms": "environmental balance, eco-friendliness, long-term viability",
+            "antonyms": "unsustainability, environmental damage",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্থায়িত্বশীলতা",
+                    "word_transliteration": "sthaiyitboshilota",
+                    "example_sentence_translation": "প্লাস্টিক দূষণ পরিবেশের স্থায়িত্বশীলতাকে হুমকিতে ফেলছে।",
+                    "example_sentence_transliteration": "Plastic dushon poribeshder sthaiyitboshilotake humkite felchhe.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

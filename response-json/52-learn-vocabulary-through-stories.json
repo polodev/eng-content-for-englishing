@@ -1,0 +1,472 @@
+{
+    "position": 52,
+    "title_translation": {
+        "en": "Climate Change Conference COP-28: A New Agreement for Global Transition",
+        "bn": "দুবাইয়ে জাতিসংঘের Climate Change Conference কপ-২৮-এ একটি নতুন agreement-এ সবাই consensus-এ পৌঁছেছে"
+    },
+    "content_translation": {
+        "en": "At the **Climate Change Conference** COP-28 in Dubai, all parties reached a **consensus** on a new **agreement** that calls upon countries to **transition** away from fossil fuels. After several days of **deliberation**, the participating countries **finalized** this new **accord**, which emphasizes each country's role in moving away from fossil fuels. However, according to the demands of many countries, the **gradual phase-out** process mentions fossil fuel **elimination**. This matter was **unanimously accepted** at this conference that carbon **emissions** will increase further in the future, although there will be **disparity** between developed and developing countries.",
+        "bn": "দুবাইয়ে জাতিসংঘের **Climate Change Conference** কপ-২৮-এ একটি নতুন **agreement**-এ সবাই **consensus**-এ পৌঁছেছে, যেখানে জীবাশ্ম জ্বালানী থেকে **transition** করার জন্য দেশগুলোর প্রতি আহ্বান জানানো হয়েছে। কয়েক দিনের **deliberation**-এর পর, সম্মেলনে অংশগ্রহণকারী দেশগুলো এই নতুন **accord**-এ **finalize** করেছে, যেখানে জীবাশ্ম জ্বালানী থেকে সরে আসার জন্য প্রতিটি দেশের ভূমিকার কথা বলা হয়েছে। তবে, অনেক দেশের দাবি অনুযায়ী, **gradual phase-out** প্রক্রিয়ায় জীবাশ্ম জ্বালানী **elimination**-এর কথা বলা হয়েছে। এ সম্মেলনে এ বিষয়টি **unanimously accepted** হয়েছে যে ভবিষ্যতে **carbon emissions** আরও বৃদ্ধি পাবে, যদিও উন্নত এবং অনুন্নত দেশের মধ্যে এর মধ্যে **disparity** থাকবে।"
+    },
+    "list": [
+        {
+            "word": "climate",
+            "phonetic": "ˈklaɪ.mət",
+            "word_native_transliteration": {
+                "bn": "ক্লাইমেট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌍",
+            "meaning": "The general weather conditions prevailing in a particular region over a long period.",
+            "example_sentence": "Climate change is a global issue.",
+            "example_sentence_native_transliteration": {
+                "bn": "ক্লাইমেট চেঞ্জ ইজ এ গ্লোবাল ইস্যু।"
+            },
+            "position": 1,
+            "synonyms": "weather, atmosphere",
+            "antonyms": "indoor, local",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জলবায়ু",
+                    "word_transliteration": "jolbayu",
+                    "example_sentence_translation": "জলবায়ু পরিবর্তন একটি বৈশ্বিক সমস্যা।",
+                    "example_sentence_transliteration": "Jolbayu poriborton ekti boishwik shomoshya.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "change",
+            "phonetic": "tʃeɪndʒ",
+            "word_native_transliteration": {
+                "bn": "চেঞ্জ"
+            },
+            "parts_of_speech": "noun/verb",
+            "emoji": "🔄",
+            "meaning": "To make or become different; an alteration or modification.",
+            "example_sentence": "Change is necessary for growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "চেঞ্জ ইজ নেসেসারি ফর গ্রোথ।"
+            },
+            "position": 2,
+            "synonyms": "alteration, modification",
+            "antonyms": "stability, constancy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিবর্তন",
+                    "word_transliteration": "poriborton",
+                    "example_sentence_translation": "বৃদ্ধির জন্য পরিবর্তন প্রয়োজন।",
+                    "example_sentence_transliteration": "Briddhir jonno poriborton proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "conference",
+            "phonetic": "ˈkɒn.fər.əns",
+            "word_native_transliteration": {
+                "bn": "কনফারেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏛️",
+            "meaning": "A formal meeting for discussion, especially one that takes place regularly.",
+            "example_sentence": "The climate conference reached a historic decision.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ক্লাইমেট কনফারেন্স রিচড এ হিস্টোরিক ডিসিশন।"
+            },
+            "position": 3,
+            "synonyms": "meeting, summit",
+            "antonyms": "isolation, solitude",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সম্মেলন",
+                    "word_transliteration": "shommelon",
+                    "example_sentence_translation": "জলবায়ু সম্মেলনে একটি ঐতিহাসিক সিদ্ধান্ত নেওয়া হয়েছে।",
+                    "example_sentence_transliteration": "Jolbayu shommelone ekti oitihasik shiddhanto neoya hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "agreement",
+            "phonetic": "əˈɡriː.mənt",
+            "word_native_transliteration": {
+                "bn": "এগ্রিমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "A negotiated arrangement between parties as to a course of action.",
+            "example_sentence": "The agreement was accepted by all countries.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এগ্রিমেন্ট ওয়াজ একসেপ্টেড বাই অল কান্ট্রিজ।"
+            },
+            "position": 4,
+            "synonyms": "accord, contract",
+            "antonyms": "disagreement, conflict",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চুক্তি",
+                    "word_transliteration": "chukti",
+                    "example_sentence_translation": "চুক্তিটি সব দেশের দ্বারা গৃহীত হয়েছে।",
+                    "example_sentence_transliteration": "Chuktiti shob desher dwara grihito hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "consensus",
+            "phonetic": "kənˈsen.səs",
+            "word_native_transliteration": {
+                "bn": "কনসেনসাস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "A general agreement among all members of a group.",
+            "example_sentence": "Consensus was reached after long deliberation.",
+            "example_sentence_native_transliteration": {
+                "bn": "কনসেনসাস ওয়াজ রিচড আফটার লং ডেলিবারেশন।"
+            },
+            "position": 5,
+            "synonyms": "harmony, agreement",
+            "antonyms": "division, dispute",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ঐকমত্য",
+                    "word_transliteration": "oikomotyo",
+                    "example_sentence_translation": "দীর্ঘ আলোচনার পর ঐকমত্যে পৌঁছানো হয়।",
+                    "example_sentence_transliteration": "Dirgho alochnar por oikomottye poucchano hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "transition",
+            "phonetic": "trænˈzɪʃ.ən",
+            "word_native_transliteration": {
+                "bn": "ট্রানজিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The process or a period of changing from one state or condition to another.",
+            "example_sentence": "The transition from fossil fuels to renewables is vital.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ট্রানজিশন ফ্রম ফসিল ফুয়েলস টু রিনিউএবলস ইজ ভাইটাল।"
+            },
+            "position": 6,
+            "synonyms": "shift, transformation",
+            "antonyms": "stagnation, immobility",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্থানান্তর",
+                    "word_transliteration": "sthananthor",
+                    "example_sentence_translation": "জীবাশ্ম জ্বালানি থেকে নবায়নযোগ্য জ্বালানিতে স্থানান্তর অপরিহার্য।",
+                    "example_sentence_transliteration": "Jibashm jwalani theke nobayonyogyo jwalanite sthananthor oporiharkho.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "deliberation",
+            "phonetic": "dɪˌlɪb.əˈreɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ডেলিবারেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💭",
+            "meaning": "Long and careful consideration or discussion.",
+            "example_sentence": "The agreement was finalized after much deliberation.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এগ্রিমেন্ট ওয়াজ ফাইনালাইজড আফটার মাচ ডেলিবারেশন।"
+            },
+            "position": 7,
+            "synonyms": "discussion, consideration",
+            "antonyms": "rashness, hastiness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আলোচনা",
+                    "word_transliteration": "alochna",
+                    "example_sentence_translation": "দীর্ঘ আলোচনার পর চুক্তিটি চূড়ান্ত করা হয়েছে।",
+                    "example_sentence_transliteration": "Dirgho alochnar por chuktiti churanto kora hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "accord",
+            "phonetic": "əˈkɔːrd",
+            "word_native_transliteration": {
+                "bn": "অ্যাকর্ড"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📜",
+            "meaning": "An official agreement or treaty.",
+            "example_sentence": "The accord emphasized gradual progress.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যাকর্ড এমফাসাইজড গ্রাজুয়াল প্রগ্রেস।"
+            },
+            "position": 8,
+            "synonyms": "agreement, harmony",
+            "antonyms": "discord, conflict",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সমঝোতা",
+                    "word_transliteration": "shomjhota",
+                    "example_sentence_translation": "সমঝোতাটি ধীরে ধীরে অগ্রগতির উপর জোর দেয়।",
+                    "example_sentence_transliteration": "Shomjhotati dhire dhire ogrogtir upor jor dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "finalize",
+            "phonetic": "ˈfaɪ.nəl.aɪz",
+            "word_native_transliteration": {
+                "bn": "ফাইনালাইজ"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "✅",
+            "meaning": "To complete arrangements for something; put into final form.",
+            "example_sentence": "The treaty was finalized after the discussions.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ট্রিটি ওয়াজ ফাইনালাইজড আফটার দ্য ডিসকাশন্স।"
+            },
+            "position": 9,
+            "synonyms": "complete, conclude",
+            "antonyms": "delay, prolong",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চূড়ান্ত করা",
+                    "word_transliteration": "churanto kora",
+                    "example_sentence_translation": "আলোচনার পর চুক্তিটি চূড়ান্ত করা হয়েছে।",
+                    "example_sentence_transliteration": "Alochnar por chuktiti churanto kora hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "gradual",
+            "phonetic": "ˈɡrædʒ.u.əl",
+            "word_native_transliteration": {
+                "bn": "গ্রাজুয়াল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📈",
+            "meaning": "Taking place or progressing slowly or by degrees.",
+            "example_sentence": "Gradual changes are more sustainable.",
+            "example_sentence_native_transliteration": {
+                "bn": "গ্রাজুয়াল চেঞ্জেস আর মোর সাসটেইনেবল।"
+            },
+            "position": 10,
+            "synonyms": "slow, incremental",
+            "antonyms": "sudden, abrupt",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ধীরগতির",
+                    "word_transliteration": "dhirogotir",
+                    "example_sentence_translation": "ধীরে ধীরে পরিবর্তন বেশি টেকসই।",
+                    "example_sentence_transliteration": "Dhire dhire poriborton beshi teksoi.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "phase-out",
+            "phonetic": "ˈfeɪz.aʊt",
+            "word_native_transliteration": {
+                "bn": "ফেজআউট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📉",
+            "meaning": "A gradual reduction and eventual elimination of something.",
+            "example_sentence": "A phase-out of fossil fuels was agreed upon.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ ফেজ-আউট অফ ফসিল ফুয়েলস ওয়াজ এগ্রিড আপন।"
+            },
+            "position": 11,
+            "synonyms": "gradual elimination, withdrawal",
+            "antonyms": "introduction, continuation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পর্যায়ক্রমে বিলোপ",
+                    "word_transliteration": "porjayokrome bilop",
+                    "example_sentence_translation": "জীবাশ্ম জ্বালানির পর্যায়ক্রমে বিলোপে সম্মতি দেওয়া হয়েছে।",
+                    "example_sentence_transliteration": "Jibashm jwalanir porjayokrome bilope shommoti deoya hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "elimination",
+            "phonetic": "ɪˌlɪm.ɪˈneɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "এলিমিনেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "❌",
+            "meaning": "The complete removal or destruction of something.",
+            "example_sentence": "The elimination of emissions is a priority.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এলিমিনেশন অফ এমিশনস ইজ এ প্রায়োরিটি।"
+            },
+            "position": 12,
+            "synonyms": "removal, eradication",
+            "antonyms": "inclusion, addition",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নির্মূল",
+                    "word_transliteration": "nirmul",
+                    "example_sentence_translation": "নির্গমন নির্মূল একটি অগ্রাধিকার।",
+                    "example_sentence_transliteration": "Nirgomon nirmul ekti ogrodhikar.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "unanimously",
+            "phonetic": "juːˈnæn.ɪ.məs.li",
+            "word_native_transliteration": {
+                "bn": "ইউনানিমাসলি"
+            },
+            "parts_of_speech": "adverb",
+            "emoji": "🤝",
+            "meaning": "With the agreement of all people involved; without opposition.",
+            "example_sentence": "The proposal was unanimously accepted.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রপোজাল ওয়াজ ইউনানিমাসলি একসেপ্টেড।"
+            },
+            "position": 13,
+            "synonyms": "collectively, together",
+            "antonyms": "disagreeably, divided",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সর্বসম্মতভাবে",
+                    "word_transliteration": "shorboshommotobhabe",
+                    "example_sentence_translation": "প্রস্তাবটি সর্বসম্মতভাবে গৃহীত হয়েছে।",
+                    "example_sentence_transliteration": "Prostabti shorboshommotobhabe grihito hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "accepted",
+            "phonetic": "əkˈsep.tɪd",
+            "word_native_transliteration": {
+                "bn": "অ্যাকসেপ্টেড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "✅",
+            "meaning": "Generally believed or recognized to be valid or correct.",
+            "example_sentence": "The accepted terms were discussed in detail.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যাকসেপ্টেড টার্মস ওয়ার ডিসকাস্ট ইন ডিটেইল।"
+            },
+            "position": 14,
+            "synonyms": "acknowledged, approved",
+            "antonyms": "rejected, denied",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গৃহীত",
+                    "word_transliteration": "grihito",
+                    "example_sentence_translation": "গৃহীত শর্তগুলি বিস্তারিতভাবে আলোচনা করা হয়।",
+                    "example_sentence_transliteration": "Grihito shortoguli bistaritobhabe alochna kora hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "carbon",
+            "phonetic": "ˈkɑː.bən",
+            "word_native_transliteration": {
+                "bn": "কার্বন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚫",
+            "meaning": "The chemical element of atomic number 6, occurring as diamond, graphite, and charcoal.",
+            "example_sentence": "Carbon emissions must be controlled.",
+            "example_sentence_native_transliteration": {
+                "bn": "কার্বন এমিশনস মাস্ট বি কন্ট্রোলড।"
+            },
+            "position": 15,
+            "synonyms": "element, substance",
+            "antonyms": "hydrogen, oxygen",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কার্বন",
+                    "word_transliteration": "carbon",
+                    "example_sentence_translation": "কার্বন নিঃসরণ নিয়ন্ত্রণ করা উচিত।",
+                    "example_sentence_transliteration": "Carbon nihsoron niyontron kora uchit.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "emissions",
+            "phonetic": "ɪˈmɪʃ.ənz",
+            "word_native_transliteration": {
+                "bn": "এমিশনস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💨",
+            "meaning": "The production and discharge of something, especially gas, heat, light, or radiation.",
+            "example_sentence": "Carbon emissions are rising globally.",
+            "example_sentence_native_transliteration": {
+                "bn": "কার্বন এমিশনস আর রাইজিং গ্লোবালি।"
+            },
+            "position": 16,
+            "synonyms": "discharges, outputs",
+            "antonyms": "absorption, retention",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিঃসরণ",
+                    "word_transliteration": "nihsoron",
+                    "example_sentence_translation": "বিশ্বজুড়ে কার্বন নিঃসরণ বাড়ছে।",
+                    "example_sentence_transliteration": "Bishwojure carbon nihsoron barchhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "disparity",
+            "phonetic": "dɪˈspær.ə.ti",
+            "word_native_transliteration": {
+                "bn": "ডিসপারিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "A great difference or inequality.",
+            "example_sentence": "Disparity between countries must be reduced.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিসপারিটি বিটউইন কান্ট্রিজ মাস্ট বি রিডিউসড।"
+            },
+            "position": 17,
+            "synonyms": "inequality, imbalance",
+            "antonyms": "equality, uniformity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৈষম্য",
+                    "word_transliteration": "boishomyo",
+                    "example_sentence_translation": "দেশগুলোর মধ্যে বৈষম্য হ্রাস করা উচিত।",
+                    "example_sentence_transliteration": "Deshgulor modhye boishomyo hrash kora uchit.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

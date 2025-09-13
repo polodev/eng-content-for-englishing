@@ -1,0 +1,391 @@
+{
+    "position": 58,
+    "title_translation": {
+        "en": "Anti-discrimination Student Movement",
+        "bn": "Anti-discrimination Student Movement"
+    },
+    "content_translation": {
+        "en": "**Anti-discrimination Student Movement** was an **organization** formed by general students of Bangladesh in 2024. It was created with the aim of establishing **equality** and protecting students' **rights**. Officially **inaugurated** on July 1, the **organization** announced a 65-member **committee** on July 8. This movement provided **leadership** to the **Quota Reform Movement** and later the **Non-cooperation Movement**. Students conducted programs such as protests, human chains, and road blockades. The 'Bangla Blockade' program launched in Dhaka revealed the core ideology of the movement. The culmination of this movement was the **Non-cooperation Movement**, which resulted in Prime Minister Sheikh Hasina's resignation and the formation of an interim government. Students from various institutions across the country, including Dhaka University and Chittagong University, actively participated. The **Anti-discrimination Student Movement** is a **milestone** in establishing equality in Bangladesh's education system and ensuring students' rights.",
+        "bn": "**Anti-discrimination Student Movement** ছিল বাংলাদেশের সাধারণ শিক্ষার্থীদের দ্বারা ২০২৪ সালে গঠিত একটি **organization**। এটি **equality** প্রতিষ্ঠা এবং শিক্ষার্থীদের **rights protection**-এর লক্ষ্যে তৈরি হয়। ১ জুলাই আনুষ্ঠানিকভাবে **inaugurated**, সংগঠনটি ৮ জুলাই একটি ৬৫ সদস্য বিশিষ্ট **committee** ঘোষণা করে। এই আন্দোলন **Quota Reform Movement** এবং পরে **Non-cooperation Movement**-এর **leadership** দেয়। শিক্ষার্থীরা protests, human chains, এবং রাস্তা blockades-এর মতো programs পালন করে। ঢাকায় চালু হওয়া 'বাংলা ব্লকেড' কর্মসূচি আন্দোলনের মূল ideology প্রকাশ করে। এই আন্দোলনের culmination-এ **Non-cooperation Movement**-এর ফলে প্রধানমন্ত্রী শেখ হাসিনা পদত্যাগ করেন এবং একটি interim government গঠিত হয়। ঢাকা বিশ্ববিদ্যালয়, চট্টগ্রাম বিশ্ববিদ্যালয়সহ দেশের বিভিন্ন প্রতিষ্ঠানের শিক্ষার্থীরা এতে সক্রিয়ভাবে অংশ নেয়। **Anti-discrimination Student Movement** বাংলাদেশের education system-এ সমতা প্রতিষ্ঠা এবং শিক্ষার্থীদের অধিকার আদায়ে একটি **milestone**।"
+    },
+    "list": [
+        {
+            "word": "anti-discrimination",
+            "phonetic": "ˌæn.tiˌdɪs.krɪˈmɪn.eɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "অ্যান্টি-ডিসক্রিমিনেশন"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚖️",
+            "meaning": "Opposed to or working against discrimination; promoting equal treatment regardless of differences.",
+            "example_sentence": "The anti-discrimination movement was groundbreaking.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যান্টি-ডিসক্রিমিনেশন মুভমেন্ট ওয়াজ গ্রাউন্ডব্রেকিং।"
+            },
+            "position": 1,
+            "synonyms": "equality-focused, fairness-driven",
+            "antonyms": "discriminatory, biased",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৈষম্য বিরোধী",
+                    "word_transliteration": "boishommo birodhi",
+                    "example_sentence_translation": "বৈষম্য বিরোধী আন্দোলন ছিল যুগান্তকারী।",
+                    "example_sentence_transliteration": "Boishommo birodhi andolon chhilo jugantokaree.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "student",
+            "phonetic": "ˈstjuː.dənt",
+            "word_native_transliteration": {
+                "bn": "স্টুডেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎓",
+            "meaning": "A person who is studying at a school or university.",
+            "example_sentence": "Students participated actively in the protests.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্টুডেন্টস পার্টিসিপেটেড অ্যাক্টিভলি ইন দ্য প্রোটেস্টস।"
+            },
+            "position": 2,
+            "synonyms": "learner, pupil",
+            "antonyms": "teacher, instructor",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শিক্ষার্থী",
+                    "word_transliteration": "shikkharthi",
+                    "example_sentence_translation": "শিক্ষার্থীরা সক্রিয়ভাবে বিক্ষোভে অংশগ্রহণ করেছিল।",
+                    "example_sentence_transliteration": "Shikkharthira shokriyobhabe bikkhove ongshogrohon korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "movement",
+            "phonetic": "ˈmuːv.mənt",
+            "word_native_transliteration": {
+                "bn": "মুভমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✊",
+            "meaning": "A group of people working together to advance their shared political, social, or artistic ideas.",
+            "example_sentence": "The movement aimed to ensure equal rights.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য মুভমেন্ট এইমড টু এনশিউর ইক্যুয়াল রাইটস।"
+            },
+            "position": 3,
+            "synonyms": "campaign, initiative",
+            "antonyms": "inactivity, stagnation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আন্দোলন",
+                    "word_transliteration": "andolon",
+                    "example_sentence_translation": "আন্দোলনের লক্ষ্য ছিল সমান অধিকার নিশ্চিত করা।",
+                    "example_sentence_transliteration": "Andoloner lokkhyo chhilo shoman odhikar nishchit kora.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "organization",
+            "phonetic": "ˌɔː.ɡən.aɪˈzeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "অর্গানাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏢",
+            "meaning": "An organized group of people with a particular purpose, such as a business or government department.",
+            "example_sentence": "The organization was officially inaugurated in 2024.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অর্গানাইজেশন ওয়াজ অফিশিয়ালি ইনগরেটেড ইন ২০২৪।"
+            },
+            "position": 4,
+            "synonyms": "institution, association",
+            "antonyms": "disorganization, disorder",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংগঠন",
+                    "word_transliteration": "shonggothon",
+                    "example_sentence_translation": "সংগঠনটি ২০২৪ সালে আনুষ্ঠানিকভাবে উদ্বোধন করা হয়।",
+                    "example_sentence_transliteration": "Shonggothonti 2024 shaley anushthanikvabe udvodhon kora hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "equality",
+            "phonetic": "ɪˈkwɒl.ə.ti",
+            "word_native_transliteration": {
+                "bn": "ইকোয়ালিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "The state of being equal, especially in status, rights, and opportunities.",
+            "example_sentence": "Equality in education is a key goal.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইকোয়ালিটি ইন এডুকেশন ইজ এ কি গোল।"
+            },
+            "position": 5,
+            "synonyms": "parity, uniformity",
+            "antonyms": "inequality, disparity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সমতা",
+                    "word_transliteration": "shomota",
+                    "example_sentence_translation": "শিক্ষায় সমতা একটি প্রধান লক্ষ্য।",
+                    "example_sentence_transliteration": "Shikkhay shomota ekti prodhan lokkhyo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "rights",
+            "phonetic": "raɪts",
+            "word_native_transliteration": {
+                "bn": "রাইটস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🗳️",
+            "meaning": "Things to which one has a just claim; the authority or power of having something.",
+            "example_sentence": "Ensuring students' rights was the focus.",
+            "example_sentence_native_transliteration": {
+                "bn": "এনশিউরিং স্টুডেন্টস রাইটস ওয়াজ দ্য ফোকাস।"
+            },
+            "position": 6,
+            "synonyms": "entitlements, privileges",
+            "antonyms": "restrictions, limitations",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অধিকার",
+                    "word_transliteration": "adhikar",
+                    "example_sentence_translation": "শিক্ষার্থীদের অধিকার নিশ্চিত করাই লক্ষ্য ছিল।",
+                    "example_sentence_transliteration": "Shikkharthider adhikar nishchit korai lokkhyo chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "protection",
+            "phonetic": "prəˈtek.ʃən",
+            "word_native_transliteration": {
+                "bn": "প্রোটেকশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛡️",
+            "meaning": "The action of protecting someone or something, or the state of being protected.",
+            "example_sentence": "The movement focused on the protection of rights.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য মুভমেন্ট ফোকাসড অন দ্য প্রোটেকশন অফ রাইটস।"
+            },
+            "position": 7,
+            "synonyms": "safeguarding, preservation",
+            "antonyms": "vulnerability, endangerment",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সুরক্ষা",
+                    "word_transliteration": "shurokkha",
+                    "example_sentence_translation": "আন্দোলনটি অধিকার রক্ষার উপর গুরুত্ব দিয়েছিল।",
+                    "example_sentence_transliteration": "Andolonti adhikar rokkhar upor gurutto diyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "inaugurated",
+            "phonetic": "ɪˈnɔː.ɡjə.reɪ.tɪd",
+            "word_native_transliteration": {
+                "bn": "ইনগরেটেড"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🎉",
+            "meaning": "Begin or introduce (a system, policy, or period) formally.",
+            "example_sentence": "The organization was inaugurated officially.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অর্গানাইজেশন ওয়াজ ইনগরেটেড অফিশিয়ালি।"
+            },
+            "position": 8,
+            "synonyms": "opened, commenced",
+            "antonyms": "closed, concluded",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্বোধন করা",
+                    "word_transliteration": "udvodhon kora",
+                    "example_sentence_translation": "সংগঠনটি আনুষ্ঠানিকভাবে উদ্বোধন করা হয়।",
+                    "example_sentence_transliteration": "Shonggothonti anushthanikvabe udvodhon kora hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "committee",
+            "phonetic": "kəˈmɪt.i",
+            "word_native_transliteration": {
+                "bn": "কমিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👥",
+            "meaning": "A group of people appointed for a specific function by a larger group.",
+            "example_sentence": "A 65-member committee was formed.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ ৬৫-মেম্বার কমিটি ওয়াজ ফর্মড।"
+            },
+            "position": 9,
+            "synonyms": "council, board",
+            "antonyms": "individual, lone",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কমিটি",
+                    "word_transliteration": "komiti",
+                    "example_sentence_translation": "একটি ৬৫ সদস্য বিশিষ্ট কমিটি গঠন করা হয়।",
+                    "example_sentence_transliteration": "Ekti 65 shodhoshyo bishishto komiti gothon kora hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "quota",
+            "phonetic": "ˈkwəʊ.tə",
+            "word_native_transliteration": {
+                "bn": "কোটা"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "A limited or fixed number or amount of people or things, in particular.",
+            "example_sentence": "The quota reform was a key demand.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোটা রিফর্ম ওয়াজ এ কি ডিম্যান্ড।"
+            },
+            "position": 10,
+            "synonyms": "allocation, portion",
+            "antonyms": "unlimited, unrestricted",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কোটার ব্যবস্থা",
+                    "word_transliteration": "kotar bebostha",
+                    "example_sentence_translation": "কোটার সংস্কার ছিল একটি প্রধান দাবি।",
+                    "example_sentence_transliteration": "Kotar shongshkar chhilo ekti prodhan dabi.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "reform",
+            "phonetic": "rɪˈfɔːm",
+            "word_native_transliteration": {
+                "bn": "রিফর্ম"
+            },
+            "parts_of_speech": "noun/verb",
+            "emoji": "🔄",
+            "meaning": "Make changes in (something, typically a social, political, or economic institution or practice) in order to improve it.",
+            "example_sentence": "Reform in the education system was a priority.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিফর্ম ইন দ্য এডুকেশন সিস্টেম ওয়াজ এ প্রায়োরিটি।"
+            },
+            "position": 11,
+            "synonyms": "improvement, modification",
+            "antonyms": "decline, stagnation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংস্কার",
+                    "word_transliteration": "shongshkar",
+                    "example_sentence_translation": "শিক্ষা ব্যবস্থায় সংস্কার ছিল একটি অগ্রাধিকার।",
+                    "example_sentence_transliteration": "Shikkha bebosthay shongshkar chhilo ekti ogrodhikar.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "non-cooperation",
+            "phonetic": "ˌnɒn.kəʊˌɒp.ərˈeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "নন-কোঅপারেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚫",
+            "meaning": "The practice of refusing to cooperate, especially as a form of protest.",
+            "example_sentence": "The non-cooperation movement gained momentum.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নন-কোঅপারেশন মুভমেন্ট গেইন্ড মোমেন্টাম।"
+            },
+            "position": 12,
+            "synonyms": "resistance, boycott",
+            "antonyms": "cooperation, compliance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অসহযোগিতা",
+                    "word_transliteration": "oshohoygita",
+                    "example_sentence_translation": "অসহযোগ আন্দোলন গতি অর্জন করে।",
+                    "example_sentence_transliteration": "Oshohovogg andolon goti orjon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "leadership",
+            "phonetic": "ˈliː.də.ʃɪp",
+            "word_native_transliteration": {
+                "bn": "লিডারশিপ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👑",
+            "meaning": "The action of leading a group of people or an organization.",
+            "example_sentence": "Leadership was critical in organizing the protests.",
+            "example_sentence_native_transliteration": {
+                "bn": "লিডারশিপ ওয়াজ ক্রিটিকাল ইন অর্গানাইজিং দ্য প্রোটেস্টস।"
+            },
+            "position": 13,
+            "synonyms": "guidance, management",
+            "antonyms": "followership, subordination",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নেতৃত্ব",
+                    "word_transliteration": "netritbo",
+                    "example_sentence_translation": "বিক্ষোভ সংগঠনে নেতৃত্ব গুরুত্বপূর্ণ ছিল।",
+                    "example_sentence_transliteration": "Bikkhobh shonggothone netritbo guruttopurno chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "milestone",
+            "phonetic": "ˈmaɪl.stəʊn",
+            "word_native_transliteration": {
+                "bn": "মাইলস্টোন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏆",
+            "meaning": "An important event, as in a person's career, the history of a nation, or the advancement of knowledge in a field; a turning point.",
+            "example_sentence": "The movement marked a milestone in activism.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য মুভমেন্ট মার্কড এ মাইলস্টোন ইন অ্যাক্টিভিজম।"
+            },
+            "position": 14,
+            "synonyms": "achievement, landmark",
+            "antonyms": "insignificance, setback",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মাইলফলক",
+                    "word_transliteration": "mailfolok",
+                    "example_sentence_translation": "আন্দোলনটি সক্রিয়তার একটি মাইলফলক ছিল।",
+                    "example_sentence_transliteration": "Andolonti shokriyotar ekti mailfolok chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

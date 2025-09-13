@@ -1,0 +1,472 @@
+{
+    "position": 56,
+    "title_translation": {
+        "en": "Water Terminals and Maritime Transportation",
+        "bn": "Water terminals এবং Maritime transportation"
+    },
+    "content_translation": {
+        "en": "Bangladesh currently has 54 **water terminals**, which play an important role in the country's internal **maritime transportation**. A new **inland port** has been added as the country's 52nd **facility**, which maintains significant **contribution** in **commercial activities**, passenger transport, and cargo transport.\n\nMany of the notable **locations** are at the top, which play **key roles** in shipping activities. These help increase the country's **trade facilitation** and **logistics efficiency**.\n\nProper **management** and development of this **infrastructure** helps in the country's **economic growth**. It facilitates **connectivity** through waterways and reduces **transportation costs**. The addition of new **terminals** will result in **network expansion** and accelerate **local trade activities**.",
+        "bn": "বাংলাদেশে বর্তমানে ৫৪টি **water terminals** রয়েছে, যা দেশের অভ্যন্তরীণ **maritime transportation**-এ গুরুত্বপূর্ণ ভূমিকা পালন করে। দেশের ৫২তম **facility** হিসেবে একটি নতুন **inland port** যুক্ত হয়েছে, যা **commercial activities**, যাত্রী পরিবহন, এবং পণ্য পরিবহনে উল্লেখযোগ্য **contribution** রাখে।\n\nউল্লেখযোগ্য **locations**-এর মধ্যে বেশ কয়েকটি শীর্ষস্থানে রয়েছে, যা নৌ পরিবহন কার্যক্রমে **key roles** পালন করে। এগুলো দেশের **trade facilitation** এবং **logistics efficiency** বাড়াতে সহায়ক।\n\nএই **infrastructure**-এর সঠিক **management** এবং উন্নয়ন দেশের **economic growth**-এ সহায়ক। এটি নৌ পথে **connectivity** সহজ করে এবং **transportation costs** কমায়। নতুন **terminals** যুক্ত হওয়ার ফলে **network expansion** হবে এবং **local trade activities** ত্বরান্বিত হবে।"
+    },
+    "list": [
+        {
+            "word": "Maritime",
+            "phonetic": "ˈmær.ɪ.taɪm",
+            "word_native_transliteration": {
+                "bn": "ম্যারিটাইম"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🚢",
+            "meaning": "Connected with the sea, especially in relation to seafaring commercial or military activity.",
+            "example_sentence": "Maritime trade enhances the economy.",
+            "example_sentence_native_transliteration": {
+                "bn": "ম্যারিটাইম ট্রেড এনহান্সেস দ্য ইকোনমি।"
+            },
+            "position": 1,
+            "synonyms": "nautical, seafaring, naval, oceanic",
+            "antonyms": "inland, terrestrial, landlocked",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সমুদ্রবিষয়ক",
+                    "word_transliteration": "shomudrobishshoyok",
+                    "example_sentence_translation": "সমুদ্রবাণিজ্য অর্থনীতিকে সমৃদ্ধ করে।",
+                    "example_sentence_transliteration": "Shomudrbanijjo orthonītike shomṛiddho kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Transportation",
+            "phonetic": "ˌtræn.spɔːrˈteɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ট্রান্সপোর্টেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚛",
+            "meaning": "The movement of people or goods from one place to another.",
+            "example_sentence": "Efficient transportation reduces costs.",
+            "example_sentence_native_transliteration": {
+                "bn": "এফিশিয়েন্ট ট্রান্সপোর্টেশন রিডিউসেস কস্টস।"
+            },
+            "position": 2,
+            "synonyms": "transit, logistics, conveyance, shipping",
+            "antonyms": "stagnation, immobility",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিবহন",
+                    "word_transliteration": "poribohon",
+                    "example_sentence_translation": "কার্যকর পরিবহন খরচ কমায়।",
+                    "example_sentence_transliteration": "Karjjokoro poribohon khoroch komay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Facility",
+            "phonetic": "fəˈsɪl.ə.ti",
+            "word_native_transliteration": {
+                "bn": "ফ্যাসিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏗️",
+            "meaning": "A place, amenity, or piece of equipment provided for a particular purpose.",
+            "example_sentence": "Facilities enhance regional trade.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফ্যাসিলিটিস এনহান্স রিজিওনাল ট্রেড।"
+            },
+            "position": 3,
+            "synonyms": "amenity, resource, infrastructure, service",
+            "antonyms": "obstacle, hindrance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সুবিধা",
+                    "word_transliteration": "shubidha",
+                    "example_sentence_translation": "সুবিধাগুলো আঞ্চলিক বাণিজ্য উন্নত করে।",
+                    "example_sentence_transliteration": "Shubidhagulo ancholik banijjo unnoto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Inland",
+            "phonetic": "ˈɪn.lənd",
+            "word_native_transliteration": {
+                "bn": "ইনল্যান্ড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🏞️",
+            "meaning": "Situated in the interior of a country; away from the coast.",
+            "example_sentence": "Inland transport boosts local trade.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনল্যান্ড ট্রান্সপোর্ট বুস্টস লোকাল ট্রেড।"
+            },
+            "position": 4,
+            "synonyms": "interior, domestic, internal",
+            "antonyms": "coastal, overseas",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অভ্যন্তরীণ",
+                    "word_transliteration": "obhyontorīṇ",
+                    "example_sentence_translation": "অভ্যন্তরীণ পরিবহন স্থানীয় বাণিজ্যকে বাড়ায়।",
+                    "example_sentence_transliteration": "Obhyontorīṇ poribohon sthanīyo banijjoke baṛay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Port",
+            "phonetic": "pɔːrt",
+            "word_native_transliteration": {
+                "bn": "পোর্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚓",
+            "meaning": "A town or city with a harbor where ships load or unload.",
+            "example_sentence": "Ports improve maritime trade.",
+            "example_sentence_native_transliteration": {
+                "bn": "পোর্টস ইমপ্রুভ ম্যারিটাইম ট্রেড।"
+            },
+            "position": 5,
+            "synonyms": "harbor, dock, wharf, pier",
+            "antonyms": "land, station",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বন্দর",
+                    "word_transliteration": "bondor",
+                    "example_sentence_translation": "বন্দরের মাধ্যমে সমুদ্রবাণিজ্য উন্নত হয়।",
+                    "example_sentence_transliteration": "Bondorer madhyome shomudrbanijjo unnoto hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Commercial",
+            "phonetic": "kəˈmɜː.ʃəl",
+            "word_native_transliteration": {
+                "bn": "কমার্শিয়াল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🏬",
+            "meaning": "Concerned with or engaged in commerce.",
+            "example_sentence": "Commercial growth drives national economy.",
+            "example_sentence_native_transliteration": {
+                "bn": "কমার্শিয়াল গ্রোথ ড্রাইভস ন্যাশনাল ইকোনমি।"
+            },
+            "position": 6,
+            "synonyms": "trade-related, business-oriented, mercantile",
+            "antonyms": "non-commercial, personal",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাণিজ্যিক",
+                    "word_transliteration": "banijjik",
+                    "example_sentence_translation": "বাণিজ্যিক প্রবৃদ্ধি জাতীয় অর্থনীতি পরিচালনা করে।",
+                    "example_sentence_transliteration": "Banijjik probṛiddhi jatīyo orthonīti porichalona kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Activities",
+            "phonetic": "ækˈtɪv.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "অ্যাক্টিভিটিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "A thing that a person or group does or has done.",
+            "example_sentence": "Productive activities drive progress.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোডাক্টিভ অ্যাক্টিভিটিস ড্রাইভ প্রগ্রেস।"
+            },
+            "position": 7,
+            "synonyms": "operations, tasks, work, functions",
+            "antonyms": "inactivity, idleness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কার্যক্রম",
+                    "word_transliteration": "karjjokrom",
+                    "example_sentence_translation": "ফলপ্রসূ কার্যক্রম অগ্রগতি ত্বরান্বিত করে।",
+                    "example_sentence_transliteration": "Pholproshū karjjokrom ogrogoti tworanbit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Contribution",
+            "phonetic": "ˌkɒn.trɪˈbjuː.ʃən",
+            "word_native_transliteration": {
+                "bn": "কন্ট্রিবিউশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "A gift or payment to a common fund or collection.",
+            "example_sentence": "Contributions enhance project success.",
+            "example_sentence_native_transliteration": {
+                "bn": "কন্ট্রিবিউশনস এনহান্স প্রজেক্ট সাকসেস।"
+            },
+            "position": 8,
+            "synonyms": "input, donation, support, participation",
+            "antonyms": "neglect, withdrawal",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অবদান",
+                    "word_transliteration": "obdan",
+                    "example_sentence_translation": "অবদান প্রকল্প সফল করে।",
+                    "example_sentence_transliteration": "Obdan prokolpo shophol kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Roles",
+            "phonetic": "rəʊlz",
+            "word_native_transliteration": {
+                "bn": "রোলস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎭",
+            "meaning": "A person's or thing's function in a particular situation.",
+            "example_sentence": "Defined roles improve team performance.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিফাইন্ড রোলস ইমপ্রুভ টিম পারফরমেন্স।"
+            },
+            "position": 9,
+            "synonyms": "functions, positions, duties, responsibilities",
+            "antonyms": "inactivity, passivity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভূমিকা",
+                    "word_transliteration": "bhumika",
+                    "example_sentence_translation": "নির্ধারিত ভূমিকা দলীয় কার্যকারিতা বাড়ায়।",
+                    "example_sentence_transliteration": "Nirdhrito bhumika dolīyo karjjokarita baṛay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Trade",
+            "phonetic": "treɪd",
+            "word_native_transliteration": {
+                "bn": "ট্রেড"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💼",
+            "meaning": "The action of buying and selling goods and services.",
+            "example_sentence": "Trade contributes to economic growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "ট্রেড কন্ট্রিবিউটস টু ইকোনমিক গ্রোথ।"
+            },
+            "position": 10,
+            "synonyms": "commerce, exchange, business, trading",
+            "antonyms": "isolation, barter",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাণিজ্য",
+                    "word_transliteration": "banijjo",
+                    "example_sentence_translation": "বাণিজ্য অর্থনৈতিক প্রবৃদ্ধি বাড়ায়।",
+                    "example_sentence_transliteration": "Banijjo orthonaitik probṛiddhi baṛay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Facilitation",
+            "phonetic": "fəˌsɪl.ɪˈteɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ফ্যাসিলিটেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔧",
+            "meaning": "The action of facilitating or making an action or process easier or achievable.",
+            "example_sentence": "Facilitation improves logistics processes.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফ্যাসিলিটেশন ইমপ্রুভস লজিস্টিক্স প্রসেসেস।"
+            },
+            "position": 11,
+            "synonyms": "support, assistance, help, aid",
+            "antonyms": "obstruction, hindrance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সুবিধাদান",
+                    "word_transliteration": "shubidha dan",
+                    "example_sentence_translation": "সুবিধাদান লজিস্টিক কার্যক্রম উন্নত করে।",
+                    "example_sentence_transliteration": "Shubidhadan lojistik karjjokrom unnoto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Logistics",
+            "phonetic": "ləˈdʒɪs.tɪks",
+            "word_native_transliteration": {
+                "bn": "লজিস্টিকস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📦",
+            "meaning": "The detailed coordination of a complex operation involving many people, facilities, or supplies.",
+            "example_sentence": "Logistics ensures timely delivery.",
+            "example_sentence_native_transliteration": {
+                "bn": "লজিস্টিকস এনশিউরস টাইমলি ডেলিভারি।"
+            },
+            "position": 12,
+            "synonyms": "supply chain, coordination, organization",
+            "antonyms": "mismanagement, disorganization",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "লজিস্টিকস",
+                    "word_transliteration": "lojistiks",
+                    "example_sentence_translation": "লজিস্টিকস সময়মতো পণ্য পৌঁছায়।",
+                    "example_sentence_transliteration": "Lojistiks shomoymoto ponno pōuchay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Economic",
+            "phonetic": "ˌiː.kəˈnɒm.ɪk",
+            "word_native_transliteration": {
+                "bn": "ইকোনমিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💰",
+            "meaning": "Relating to economics or the economy.",
+            "example_sentence": "Economic reforms lead to growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইকোনমিক রিফর্মস লিড টু গ্রোথ।"
+            },
+            "position": 13,
+            "synonyms": "financial, fiscal, monetary",
+            "antonyms": "non-financial, unproductive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অর্থনৈতিক",
+                    "word_transliteration": "orthonaitik",
+                    "example_sentence_translation": "অর্থনৈতিক সংস্কার প্রবৃদ্ধি বাড়ায়।",
+                    "example_sentence_transliteration": "Orthonaitik shongskar probṛiddhi baṛay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Growth",
+            "phonetic": "ɡrəʊθ",
+            "word_native_transliteration": {
+                "bn": "গ্রোথ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "The process of increasing in physical size, number, value, or strength.",
+            "example_sentence": "Economic growth improves living conditions.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইকোনমিক গ্রোথ ইমপ্রুভস লিভিং কন্ডিশনস।"
+            },
+            "position": 14,
+            "synonyms": "development, advancement, expansion, progress",
+            "antonyms": "decline, stagnation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৃদ্ধি",
+                    "word_transliteration": "briddhi",
+                    "example_sentence_translation": "অর্থনৈতিক প্রবৃদ্ধি জীবনযাত্রার মান উন্নত করে।",
+                    "example_sentence_transliteration": "Orthonaitik probṛiddhi jībonjatrar man unnoto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Connectivity",
+            "phonetic": "ˌkɒn.ekˈtɪv.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "কানেক্টিভিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔗",
+            "meaning": "The state of being connected or interconnected.",
+            "example_sentence": "Better connectivity enhances trade.",
+            "example_sentence_native_transliteration": {
+                "bn": "বেটার কানেক্টিভিটি এনহান্সেস ট্রেড।"
+            },
+            "position": 15,
+            "synonyms": "linkage, network, connection",
+            "antonyms": "isolation, disconnection",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংযোগ",
+                    "word_transliteration": "shongjog",
+                    "example_sentence_translation": "উন্নত সংযোগ বাণিজ্য উন্নত করে।",
+                    "example_sentence_transliteration": "Unnoto shongjog banijjo unnoto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Costs",
+            "phonetic": "kɒsts",
+            "word_native_transliteration": {
+                "bn": "কস্টস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💸",
+            "meaning": "An amount that has to be paid or spent to buy or obtain something.",
+            "example_sentence": "Reducing costs improves profit margins.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিডিউসিং কস্টস ইমপ্রুভস প্রফিট মার্জিনস।"
+            },
+            "position": 16,
+            "synonyms": "expenses, charges, fees, expenditure",
+            "antonyms": "savings, profits",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "খরচ",
+                    "word_transliteration": "khoroch",
+                    "example_sentence_translation": "খরচ কমালে লাভ বাড়ে।",
+                    "example_sentence_transliteration": "Khoroch komale labh baṛe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Expansion",
+            "phonetic": "ɪkˈspæn.ʃən",
+            "word_native_transliteration": {
+                "bn": "এক্সপ্যানশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The action of becoming larger or more extensive.",
+            "example_sentence": "Market expansion leads to more opportunities.",
+            "example_sentence_native_transliteration": {
+                "bn": "মার্কেট এক্সপ্যানশন লিডস টু মোর অপরচুনিটিজ।"
+            },
+            "position": 17,
+            "synonyms": "growth, extension, enlargement, spread",
+            "antonyms": "contraction, reduction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিস্তৃতি",
+                    "word_transliteration": "bistriti",
+                    "example_sentence_translation": "বাজারের বিস্তৃতি আরও সুযোগ তৈরি করে।",
+                    "example_sentence_transliteration": "Bajarer bistriti aro shujog toiri kore.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

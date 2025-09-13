@@ -1,0 +1,877 @@
+{
+    "position": 59,
+    "title_translation": {
+        "en": "Constitutional Reform Commission",
+        "bn": "সংবিধান সংস্কার কমিশনে"
+    },
+    "content_translation": {
+        "en": "On October 6, 2024, a **Constitutional** **Reform** **Commission** was formed in Bangladesh. **Renowned** **political** **scientist** Professor Ali Riaz was **appointed** as the head of this nine-member body. The main objective of the **commission** is to review **existing** **provisions** and provide recommendations for **necessary** **amendments**.\n\nThe work of the **commission** includes ensuring **equality**, **social justice**, and **balance** of **power** through **modifications** of the constitution. Establishing balance among the three organs of the state—**executive**, **legislature**, and **judiciary**—**fascist** **governance** **prevention**, and **effective** **decentralization** are the main goals of the **commission**.\n\nThis **initiative** will play a role in creating an **inclusive** **democratic** **framework** and formulating an **inclusive** **constitution** through reflection of public aspirations. The **commission** will submit their final **recommendations** to the **interim** **government** within 90 days.",
+        "bn": "২০২৪ সালের ৬ অক্টোবর বাংলাদেশে একটি **Constitutional** **Reform** **Commission** গঠিত হয়। এই nine-member body-এর প্রধান হিসেবে **renowned** **political** **scientist** অধ্যাপক আলী রিয়াজকে **appointed** করা হয়। **কমিশনের** মূল উদ্দেশ্য হলো **existing** **provisions** পর্যালোচনা এবং **necessary** **amendments**-এর সুপারিশ প্রদান।\n\n**কমিশনের** কাজের মধ্যে রয়েছে সংবিধানের **modifications**-এর মাধ্যমে **equality**, **social justice**, এবং **balance** of **power** নিশ্চিত করা। রাষ্ট্রের তিনটি অঙ্গ—**executive**, **legislature**, এবং **judiciary**-এর মধ্যে ভারসাম্য প্রতিষ্ঠা, **fascist** **governance** **prevention**, এবং **effective** **decentralization** **কমিশনের** প্রধান লক্ষ্য।\n\nএই **initiative** অন্তর্ভুক্তিমূলক গণতান্ত্রিক কাঠামো তৈরি এবং public aspirations-এর প্রতিফলনের মাধ্যমে একটি **inclusive** **constitution** প্রণয়নে ভূমিকা রাখবে। **কমিশন** তাদের final **recommendations** ৯০ দিনের মধ্যে **interim** **government**-এর কাছে জমা দেবে।"
+    },
+    "list": [
+        {
+            "word": "constitutional",
+            "phonetic": "ˌkɒn.stɪˈtjuː.ʃən.əl",
+            "word_native_transliteration": {
+                "bn": "কনস্টিটিউশনাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📜",
+            "meaning": "Relating to or in accordance with a constitution, especially of a country.",
+            "example_sentence": "Constitutional provisions ensure fairness.",
+            "example_sentence_native_transliteration": {
+                "bn": "কনস্টিটিউশনাল প্রভিশনস এনশিউর ফেয়ারনেস।"
+            },
+            "position": 1,
+            "synonyms": "legal, chartered, authorized, lawful, legitimate, statutory",
+            "antonyms": "unconstitutional, illegal, unlawful, unauthorized, illegitimate, invalid",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সাংবিধানিক",
+                    "word_transliteration": "shangbidhaniк",
+                    "example_sentence_translation": "সাংবিধানিক ধারা ন্যায্যতা নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Shangbidhaniк dhara nayayta nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "reform",
+            "phonetic": "rɪˈfɔːm",
+            "word_native_transliteration": {
+                "bn": "রিফর্ম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The action of reforming an institution or practice; improvement or amendment.",
+            "example_sentence": "Reform strengthens governance systems.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিফর্ম স্ট্রেংথেনস গভর্নেন্স সিস্টেমস।"
+            },
+            "position": 2,
+            "synonyms": "improvement, amendment, revision, modification, restructuring, transformation",
+            "antonyms": "deterioration, corruption, regression, decline, stagnation, decay",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংস্কার",
+                    "word_transliteration": "songskar",
+                    "example_sentence_translation": "সংস্কার শাসনব্যবস্থাকে শক্তিশালী করে।",
+                    "example_sentence_transliteration": "Songskar shasondo bebosthake shoktishali kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "commission",
+            "phonetic": "kəˈmɪʃ.ən",
+            "word_native_transliteration": {
+                "bn": "কমিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👥",
+            "meaning": "An official group of people entrusted by a government with a particular function.",
+            "example_sentence": "The commission recommends constitutional reforms.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কমিশন রেকমেন্ডস কনস্টিটিউশনাল রিফর্মস।"
+            },
+            "position": 3,
+            "synonyms": "panel, board, committee, council, body, authority",
+            "antonyms": "individual, solo entity, single person, lone actor, unilateral body, independent unit",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কমিশন",
+                    "word_transliteration": "komishon",
+                    "example_sentence_translation": "কমিশন সাংবিধানিক সংস্কার সুপারিশ করে।",
+                    "example_sentence_transliteration": "Komishon shangbidhaniк songskar suparish kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "renowned",
+            "phonetic": "rɪˈnaʊnd",
+            "word_native_transliteration": {
+                "bn": "রিনাউন্ড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⭐",
+            "meaning": "Known or talked about by many people; famous.",
+            "example_sentence": "The renowned scientist led the reform panel.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রিনাউন্ড সায়েন্টিস্ট লেড দ্য রিফর্ম প্যানেল।"
+            },
+            "position": 4,
+            "synonyms": "famous, prominent, distinguished, celebrated, acclaimed, notable",
+            "antonyms": "unknown, obscure, anonymous, unrecognized, unheard of, insignificant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিখ্যাত",
+                    "word_transliteration": "bikhyat",
+                    "example_sentence_translation": "বিখ্যাত বিজ্ঞানী সংস্কার প্যানেলটি পরিচালনা করেন।",
+                    "example_sentence_transliteration": "Bikhyat biggani songskar panelti porichalona koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "political",
+            "phonetic": "pəˈlɪt.ɪ.kəl",
+            "word_native_transliteration": {
+                "bn": "পলিটিকাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🏛️",
+            "meaning": "Relating to the government or public affairs of a country.",
+            "example_sentence": "Political changes influence social reforms.",
+            "example_sentence_native_transliteration": {
+                "bn": "পলিটিকাল চেঞ্জেস ইনফ্লুয়েন্স সোশাল রিফর্মস।"
+            },
+            "position": 5,
+            "synonyms": "governmental, civic, public, administrative, state, official",
+            "antonyms": "non-political, apolitical, private, personal, non-governmental, civilian",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রাজনৈতিক",
+                    "word_transliteration": "rajnoitik",
+                    "example_sentence_translation": "রাজনৈতিক পরিবর্তন সামাজিক সংস্কারকে প্রভাবিত করে।",
+                    "example_sentence_transliteration": "Rajnoitik poriborton shamajik songskарকে prabhавit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "scientist",
+            "phonetic": "ˈsaɪən.tɪst",
+            "word_native_transliteration": {
+                "bn": "সায়েন্টিস্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔬",
+            "meaning": "A person who is studying or has expert knowledge of one or more of the natural or physical sciences.",
+            "example_sentence": "The scientist proposed data-driven reforms.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সায়েন্টিস্ট প্রোপোজড ডেটা-ড্রিভেন রিফর্মস।"
+            },
+            "position": 6,
+            "synonyms": "researcher, scholar, expert, academic, investigator, analyst",
+            "antonyms": "layperson, amateur, novice, non-expert, generalist, outsider",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিজ্ঞানী",
+                    "word_transliteration": "biggani",
+                    "example_sentence_translation": "বিজ্ঞানী তথ্যভিত্তিক সংস্কার প্রস্তাব করেন।",
+                    "example_sentence_transliteration": "Biggani tothobhittik songskar prostab koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "appointed",
+            "phonetic": "əˈpɔɪn.tɪd",
+            "word_native_transliteration": {
+                "bn": "অ্যাপয়েন্টেড"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "👔",
+            "meaning": "Assigned to a job or role; nominated or designated for a position.",
+            "example_sentence": "He was appointed as the commission leader.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি ওয়াস অ্যাপয়েন্টেড অ্যাজ দ্য কমিশন লিডার।"
+            },
+            "position": 7,
+            "synonyms": "assigned, designated, nominated, selected, chosen, commissioned",
+            "antonyms": "removed, dismissed, discharged, fired, terminated, unassigned",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিযুক্ত",
+                    "word_transliteration": "niyukto",
+                    "example_sentence_translation": "তাকে কমিশনের নেতা হিসেবে নিযুক্ত করা হয়।",
+                    "example_sentence_transliteration": "Take komisioner neta hisebe niyukto kora hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "existing",
+            "phonetic": "ɪɡˈzɪs.tɪŋ",
+            "word_native_transliteration": {
+                "bn": "এক্সিস্টিং"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📋",
+            "meaning": "In existence; present; current.",
+            "example_sentence": "The commission reviews existing provisions.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কমিশন রিভিউজ এক্সিস্টিং প্রভিশনস।"
+            },
+            "position": 8,
+            "synonyms": "present, current, ongoing, established, in place, active",
+            "antonyms": "absent, obsolete, discontinued, terminated, non-existent, expired",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিদ্যমান",
+                    "word_transliteration": "bidyman",
+                    "example_sentence_translation": "কমিশন বিদ্যমান ধারাগুলো পর্যালোচনা করে।",
+                    "example_sentence_transliteration": "Komishon bidyman dharagulo paryalochona kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "provisions",
+            "phonetic": "prəˈvɪʒ.ənz",
+            "word_native_transliteration": {
+                "bn": "প্রভিশনস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📑",
+            "meaning": "A condition or requirement in a legal document; clauses or stipulations.",
+            "example_sentence": "Provisions must align with public aspirations.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রভিশনস মাস্ট অ্যালাইন উইথ পাবলিক অ্যাসপিরেশনস।"
+            },
+            "position": 9,
+            "synonyms": "clauses, regulations, stipulations, terms, conditions, requirements",
+            "antonyms": "exceptions, exclusions, omissions, gaps, loopholes, exemptions",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ধারা",
+                    "word_transliteration": "dhara",
+                    "example_sentence_translation": "ধারাগুলো জনআকাঙ্ক্ষার সাথে সামঞ্জস্যপূর্ণ হতে হবে।",
+                    "example_sentence_transliteration": "Dharagulo jonakangkhar sathe shamonshoopurno hote hobe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "necessary",
+            "phonetic": "ˈnes.ə.ser.i",
+            "word_native_transliteration": {
+                "bn": "নেসেসারি"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "❗",
+            "meaning": "Required to be done, achieved, or present; needed; essential.",
+            "example_sentence": "Necessary reforms improve governance.",
+            "example_sentence_native_transliteration": {
+                "bn": "নেসেসারি রিফর্মস ইমপ্রুভ গভর্নেন্স।"
+            },
+            "position": 10,
+            "synonyms": "essential, mandatory, required, vital, crucial, indispensable",
+            "antonyms": "optional, unnecessary, dispensable, voluntary, superfluous, redundant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রয়োজনীয়",
+                    "word_transliteration": "proyojoniy",
+                    "example_sentence_translation": "প্রয়োজনীয় সংস্কার শাসনব্যবস্থাকে উন্নত করে।",
+                    "example_sentence_transliteration": "Proyojoniy songskar shasondo bebosthake unnoto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "amendments",
+            "phonetic": "əˈmend.mənts",
+            "word_native_transliteration": {
+                "bn": "অ্যামেন্ডমেন্টস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✏️",
+            "meaning": "Changes or additions made to improve a text, law, or constitution.",
+            "example_sentence": "Amendments reflect evolving public needs.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যামেন্ডমেন্টস রিফ্লেক্ট ইভলভিং পাবলিক নিডস।"
+            },
+            "position": 11,
+            "synonyms": "changes, revisions, modifications, alterations, improvements, updates",
+            "antonyms": "stagnation, reversals, deterioration, regression, corruption, decline",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংশোধন",
+                    "word_transliteration": "songshоdhon",
+                    "example_sentence_translation": "সংশোধন জনচাহিদার পরিবর্তন প্রতিফলিত করে।",
+                    "example_sentence_transliteration": "Songshоdhon jonchahidar poriborton protifolit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "modifications",
+            "phonetic": "ˌmɒd.ɪ.fɪˈkeɪ.ʃənz",
+            "word_native_transliteration": {
+                "bn": "মডিফিকেশনস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔧",
+            "meaning": "Changes made to something to improve it or make it more suitable.",
+            "example_sentence": "Modifications improve policy frameworks.",
+            "example_sentence_native_transliteration": {
+                "bn": "মডিফিকেশনস ইমপ্রুভ পলিসি ফ্রেমওয়ার্কস।"
+            },
+            "position": 12,
+            "synonyms": "alterations, adjustments, changes, revisions, improvements, adaptations",
+            "antonyms": "preservation, consistency, maintenance, stagnation, immutability, rigidity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিবর্তন",
+                    "word_transliteration": "poriborton",
+                    "example_sentence_translation": "পরিবর্তন নীতির কাঠামো উন্নত করে।",
+                    "example_sentence_transliteration": "Poriborton nitir kathamo unnoto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "equality",
+            "phonetic": "iːˈkwɒl.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "ইকুয়ালিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "The state of being equal, especially in status, rights, and opportunities.",
+            "example_sentence": "Equality fosters harmony in society.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইকুয়ালিটি ফস্টারস হারমনি ইন সোসাইটি।"
+            },
+            "position": 13,
+            "synonyms": "fairness, parity, justice, balance, equity, uniformity",
+            "antonyms": "inequality, bias, discrimination, disparity, unfairness, imbalance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সাম্য",
+                    "word_transliteration": "shamyo",
+                    "example_sentence_translation": "সাম্য সমাজে সম্প্রীতি তৈরি করে।",
+                    "example_sentence_transliteration": "Shamyo shamaje shompriti toiri kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "social justice",
+            "phonetic": "ˈsəʊ.ʃəl ˈdʒʌs.tɪs",
+            "word_native_transliteration": {
+                "bn": "সোশ্যাল জাস্টিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "Justice in terms of the distribution of wealth, opportunities, and privileges within a society.",
+            "example_sentence": "Social justice ensures equality of opportunity.",
+            "example_sentence_native_transliteration": {
+                "bn": "সোশ্যাল জাস্টিস এনশিউরস ইকুয়ালিটি অফ অপরচুনিটি।"
+            },
+            "position": 14,
+            "synonyms": "equity, fairness, equal rights, civil rights, human rights, justice",
+            "antonyms": "discrimination, injustice, inequality, oppression, prejudice, bias",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সামাজিক ন্যায়বিচার",
+                    "word_transliteration": "shamajik nayobichar",
+                    "example_sentence_translation": "সামাজিক ন্যায়বিচার সমান সুযোগ নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Shamajik nayobichar shoman shuyog nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "balance",
+            "phonetic": "ˈbæl.əns",
+            "word_native_transliteration": {
+                "bn": "ব্যালান্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "A condition in which different elements are equal or in the correct proportions.",
+            "example_sentence": "Balance among powers prevents conflicts.",
+            "example_sentence_native_transliteration": {
+                "bn": "ব্যালান্স অ্যামং পাওয়ারস প্রিভেন্টস কনফ্লিক্টস।"
+            },
+            "position": 15,
+            "synonyms": "equilibrium, stability, harmony, proportion, symmetry, poise",
+            "antonyms": "imbalance, disorder, instability, disproportion, chaos, disruption",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভারসাম্য",
+                    "word_transliteration": "bharshamy",
+                    "example_sentence_translation": "ক্ষমতার ভারসাম্য বিরোধ এড়ায়।",
+                    "example_sentence_transliteration": "Khomtar bharshamy birodh eray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "power",
+            "phonetic": "ˈpaʊ.ər",
+            "word_native_transliteration": {
+                "bn": "পাওয়ার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "The ability or capacity to do something or act in a particular way; authority.",
+            "example_sentence": "Power distribution ensures efficiency.",
+            "example_sentence_native_transliteration": {
+                "bn": "পাওয়ার ডিস্ট্রিবিউশন এনশিউরস এফিশিয়েন্সি।"
+            },
+            "position": 16,
+            "synonyms": "authority, control, influence, strength, force, dominance",
+            "antonyms": "weakness, impotence, helplessness, powerlessness, inability, incapacity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্ষমতা",
+                    "word_transliteration": "khomota",
+                    "example_sentence_translation": "ক্ষমতার বণ্টন দক্ষতা নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Khomtar bonton dokkhota nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "executive",
+            "phonetic": "ɪɡˈzek.jə.tɪv",
+            "word_native_transliteration": {
+                "bn": "এক্সিকিউটিভ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👨‍💼",
+            "meaning": "The branch of government responsible for implementing and enforcing laws.",
+            "example_sentence": "The executive body enforces policies.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এক্সিকিউটিভ বডি এনফোর্সেস পলিসিজ।"
+            },
+            "position": 17,
+            "synonyms": "administrator, director, manager, leader, official, head",
+            "antonyms": "subordinate, follower, employee, worker, underling, assistant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নির্বাহী",
+                    "word_transliteration": "nirbahi",
+                    "example_sentence_translation": "নির্বাহী সংস্থা নীতিমালা প্রয়োগ করে।",
+                    "example_sentence_transliteration": "Nirbahi shongshtha nitimala proyog kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "legislature",
+            "phonetic": "ˈledʒ.ɪ.slə.tʃər",
+            "word_native_transliteration": {
+                "bn": "লেজিস্লেচার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏛️",
+            "meaning": "The legislative body of a country or state; the branch of government that makes laws.",
+            "example_sentence": "The legislature drafts laws for governance.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য লেজিস্লেচার ড্রাফটস লজ ফর গভর্নেন্স।"
+            },
+            "position": 18,
+            "synonyms": "parliament, assembly, congress, council, senate, house",
+            "antonyms": "judiciary, executive, administration, bureaucracy, enforcement, implementation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আইনসভা",
+                    "word_transliteration": "ainshabha",
+                    "example_sentence_translation": "আইনসভা শাসনের জন্য আইন প্রণয়ন করে।",
+                    "example_sentence_transliteration": "Ainshabha shasoner jonno ain pronon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "judiciary",
+            "phonetic": "dʒuːˈdɪʃ.ər.i",
+            "word_native_transliteration": {
+                "bn": "জুডিশিয়ারি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "The judicial authorities of a country; the system of courts that interprets and applies the law.",
+            "example_sentence": "The judiciary ensures the rule of law.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য জুডিশিয়ারি এনশিউরস দ্য রুল অফ ল।"
+            },
+            "position": 19,
+            "synonyms": "court, bench, tribunal, judicial system, legal system, justice system",
+            "antonyms": "legislature, executive, administration, government, enforcement, politics",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিচার বিভাগ",
+                    "word_transliteration": "bichar bibhag",
+                    "example_sentence_translation": "বিচার বিভাগ আইনের শাসন নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Bichar bibhag ainer shason nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fascist",
+            "phonetic": "ˈfæʃ.ɪst",
+            "word_native_transliteration": {
+                "bn": "ফ্যাসিস্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🚫",
+            "meaning": "Relating to or characteristic of fascism; extremely authoritarian.",
+            "example_sentence": "Fascist governance undermines freedom.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফ্যাসিস্ট গভর্নেন্স আন্ডারমাইনস ফ্রিডম।"
+            },
+            "position": 20,
+            "synonyms": "authoritarian, totalitarian, dictatorial, oppressive, tyrannical, despotic",
+            "antonyms": "democratic, liberal, free, libertarian, progressive, egalitarian",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ফ্যাসিবাদী",
+                    "word_transliteration": "fascibadi",
+                    "example_sentence_translation": "ফ্যাসিবাদী শাসন স্বাধীনতাকে ক্ষুণ্ন করে।",
+                    "example_sentence_transliteration": "Fascibadi shason shadhinotake khunno kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "governance",
+            "phonetic": "ˈɡʌv.ən.əns",
+            "word_native_transliteration": {
+                "bn": "গভর্নেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏛️",
+            "meaning": "The action or manner of governing; the system by which a state or organization is controlled.",
+            "example_sentence": "Governance reforms enhance efficiency.",
+            "example_sentence_native_transliteration": {
+                "bn": "গভর্নেন্স রিফর্মস এনহান্স এফিশিয়েন্সি।"
+            },
+            "position": 21,
+            "synonyms": "administration, management, leadership, control, government, rule",
+            "antonyms": "disorder, mismanagement, anarchy, chaos, lawlessness, dysfunction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শাসন",
+                    "word_transliteration": "shason",
+                    "example_sentence_translation": "শাসন সংস্কার দক্ষতা বাড়ায়।",
+                    "example_sentence_transliteration": "Shason songskar dokkhota baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "prevention",
+            "phonetic": "prɪˈven.ʃən",
+            "word_native_transliteration": {
+                "bn": "প্রিভেনশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛡️",
+            "meaning": "The action of stopping something from happening or arising.",
+            "example_sentence": "Prevention of fascism ensures democracy.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রিভেনশন অফ ফ্যাসিজম এনশিউরস ডেমোক্রেসি।"
+            },
+            "position": 22,
+            "synonyms": "hindrance, deterrence, obstruction, blockage, inhibition, restraint",
+            "antonyms": "encouragement, facilitation, promotion, assistance, support, advancement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিরোধ",
+                    "word_transliteration": "protirodh",
+                    "example_sentence_translation": "ফ্যাসিবাদের প্রতিরোধ গণতন্ত্র নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Fascibader protirodh gonotontro nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "effective",
+            "phonetic": "ɪˈfek.tɪv",
+            "word_native_transliteration": {
+                "bn": "ইফেক্টিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "✅",
+            "meaning": "Successful in producing a desired or intended result.",
+            "example_sentence": "Effective reforms enhance governance quality.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইফেক্টিভ রিফর্মস এনহান্স গভর্নেন্স কুয়ালিটি।"
+            },
+            "position": 23,
+            "synonyms": "efficient, productive, successful, useful, beneficial, advantageous",
+            "antonyms": "ineffective, unproductive, useless, unsuccessful, harmful, disadvantageous",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কার্যকর",
+                    "word_transliteration": "karjokor",
+                    "example_sentence_translation": "কার্যকর সংস্কার শাসনের মান উন্নত করে।",
+                    "example_sentence_transliteration": "Karjokor songskar shasoner man unnoto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "decentralization",
+            "phonetic": "ˌdiː.sen.trə.laɪˈzeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ডিসেন্ট্রালাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌐",
+            "meaning": "The transfer of authority from central to local government.",
+            "example_sentence": "Decentralization promotes regional autonomy.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিসেন্ট্রালাইজেশন প্রোমোটস রিজিওনাল অটোনমি।"
+            },
+            "position": 24,
+            "synonyms": "delegation, devolution, distribution, dispersal, deconcentration, localization",
+            "antonyms": "centralization, monopoly, concentration, consolidation, unification, centralization",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিকেন্দ্রীকরণ",
+                    "word_transliteration": "bikendrikoron",
+                    "example_sentence_translation": "বিকেন্দ্রীকরণ আঞ্চলিক স্বায়ত্তশাসন বাড়ায়।",
+                    "example_sentence_transliteration": "Bikendrikoron ancholik swayottoshason baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "initiative",
+            "phonetic": "ɪˈnɪʃ.ə.tɪv",
+            "word_native_transliteration": {
+                "bn": "ইনিশিয়েটিভ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚀",
+            "meaning": "An act or strategy intended to resolve a difficulty or improve a situation.",
+            "example_sentence": "This initiative aims to strengthen democracy.",
+            "example_sentence_native_transliteration": {
+                "bn": "দিস ইনিশিয়েটিভ এইমস টু স্ট্রেংথেন ডেমোক্রেসি।"
+            },
+            "position": 25,
+            "synonyms": "proposal, action, plan, project, scheme, program",
+            "antonyms": "inaction, apathy, passivity, neglect, indifference, stagnation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্যোগ",
+                    "word_transliteration": "uddyog",
+                    "example_sentence_translation": "এই উদ্যোগ গণতন্ত্রকে শক্তিশালী করার লক্ষ্য রাখে।",
+                    "example_sentence_transliteration": "Ei uddyog gonotontroke shoktishali korar lokkhyo rakhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "inclusive",
+            "phonetic": "ɪnˈkluː.sɪv",
+            "word_native_transliteration": {
+                "bn": "ইনক্লুসিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🤗",
+            "meaning": "Including all the services, facilities, or items normally expected or required.",
+            "example_sentence": "An inclusive framework reflects public needs.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যান ইনক্লুসিভ ফ্রেমওয়ার্ক রিফ্লেক্টস পাবলিক নিডস।"
+            },
+            "position": 26,
+            "synonyms": "comprehensive, integrative, broad, universal, all-encompassing, holistic",
+            "antonyms": "exclusive, selective, restrictive, limited, narrow, discriminatory",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অন্তর্ভুক্তিমূলক",
+                    "word_transliteration": "ontorbhuktimulok",
+                    "example_sentence_translation": "অন্তর্ভুক্তিমূলক কাঠামো জনচাহিদার প্রতিফলন ঘটায়।",
+                    "example_sentence_transliteration": "Ontorbhuktimulok kathamo jonchahidar protifolon ghotay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "democratic",
+            "phonetic": "ˌdem.əˈkræt.ɪk",
+            "word_native_transliteration": {
+                "bn": "ডেমোক্র্যাটিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🗳️",
+            "meaning": "Relating to or supporting democracy or its principles.",
+            "example_sentence": "Democratic governance ensures equal rights.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডেমোক্র্যাটিক গভর্নেন্স এনশিউরস ইকুয়াল রাইটস।"
+            },
+            "position": 27,
+            "synonyms": "republican, participatory, egalitarian, popular, representative, constitutional",
+            "antonyms": "authoritarian, fascist, dictatorial, totalitarian, autocratic, tyrannical",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গণতান্ত্রিক",
+                    "word_transliteration": "gonotantrik",
+                    "example_sentence_translation": "গণতান্ত্রিক শাসন সমান অধিকার নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Gonotantrik shason shoman odhikar nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "framework",
+            "phonetic": "ˈfreɪm.wɜːk",
+            "word_native_transliteration": {
+                "bn": "ফ্রেমওয়ার্ক"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏗️",
+            "meaning": "A basic structure underlying a system, concept, or text.",
+            "example_sentence": "A robust framework ensures transparency.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ রোবাস্ট ফ্রেমওয়ার্ক এনশিউরস ট্রান্সপ্যারেন্সি।"
+            },
+            "position": 28,
+            "synonyms": "structure, foundation, system, architecture, scaffold, skeleton",
+            "antonyms": "chaos, disarray, disorder, confusion, randomness, anarchy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কাঠামো",
+                    "word_transliteration": "kathamo",
+                    "example_sentence_translation": "একটি শক্তিশালী কাঠামো স্বচ্ছতা নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Ekti shoktishali kathamo shocchota nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "constitution",
+            "phonetic": "ˌkɒn.stɪˈtjuː.ʃən",
+            "word_native_transliteration": {
+                "bn": "কনস্টিটিউশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📜",
+            "meaning": "A body of fundamental principles or established precedents according to which a state is governed.",
+            "example_sentence": "Constitutional reforms ensure equity.",
+            "example_sentence_native_transliteration": {
+                "bn": "কনস্টিটিউশনাল রিফর্মস এনশিউর ইকুইটি।"
+            },
+            "position": 29,
+            "synonyms": "charter, bylaws, code, statute, fundamental law, basic law",
+            "antonyms": "anarchy, disorganization, lawlessness, chaos, disorder, arbitrary rule",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংবিধান",
+                    "word_transliteration": "shongbidhan",
+                    "example_sentence_translation": "সংবিধানের সংস্কার সাম্য নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Shongbidhaner songskar shamyo nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "recommendations",
+            "phonetic": "ˌrek.ə.menˈdeɪ.ʃənz",
+            "word_native_transliteration": {
+                "bn": "রেকমেন্ডেশনস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📋",
+            "meaning": "Suggestions or proposals as to the best course of action.",
+            "example_sentence": "The commission submitted their recommendations.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কমিশন সাবমিটেড দেয়ার রেকমেন্ডেশনস।"
+            },
+            "position": 30,
+            "synonyms": "suggestions, advice, proposals, guidance, counsel, directions",
+            "antonyms": "opposition, criticism, disapproval, rejection, condemnation, objection",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সুপারিশ",
+                    "word_transliteration": "suparish",
+                    "example_sentence_translation": "কমিশন তাদের সুপারিশ জমা দিয়েছে।",
+                    "example_sentence_transliteration": "Komishon tader suparish joma diyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "interim",
+            "phonetic": "ˈɪn.tər.ɪm",
+            "word_native_transliteration": {
+                "bn": "ইন্টারিম"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⏳",
+            "meaning": "In or for the intervening period; provisional or temporary.",
+            "example_sentence": "Interim governments manage transitional phases.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইন্টারিম গভর্নমেন্টস ম্যানেজ ট্রানজিশনাল ফেজেস।"
+            },
+            "position": 31,
+            "synonyms": "temporary, provisional, transitional, short-term, acting, caretaker",
+            "antonyms": "permanent, final, lasting, definitive, established, enduring",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অন্তর্বর্তীকালীন",
+                    "word_transliteration": "ontorbortikalin",
+                    "example_sentence_translation": "অন্তর্বর্তীকালীন সরকার পরিবর্তনের পর্যায় পরিচালনা করে।",
+                    "example_sentence_transliteration": "Ontorbortikalin shorkar poribortoner porjay porichalona kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "government",
+            "phonetic": "ˈɡʌv.ən.mənt",
+            "word_native_transliteration": {
+                "bn": "গভর্নমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏛️",
+            "meaning": "The governing body of a nation, state, or community.",
+            "example_sentence": "Governments ensure law and order.",
+            "example_sentence_native_transliteration": {
+                "bn": "গভর্নমেন্টস এনশিউর ল অ্যান্ড অর্ডার।"
+            },
+            "position": 32,
+            "synonyms": "administration, authority, regime, state, executive, leadership",
+            "antonyms": "anarchy, chaos, disorder, lawlessness, rebellion, revolution",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সরকার",
+                    "word_transliteration": "shorkar",
+                    "example_sentence_translation": "সরকার আইন-শৃঙ্খলা নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Shorkar ain-shringkhola nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}
