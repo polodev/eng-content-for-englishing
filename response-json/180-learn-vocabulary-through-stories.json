@@ -1,0 +1,499 @@
+{
+    "position": 180,
+    "title_translation": {
+        "en": "Techniques for Enhancing Mental Focus",
+        "bn": "মানসিক একাগ্রতা বৃদ্ধির কৌশল"
+    },
+    "content_translation": {
+        "en": "Today's competitive world makes **mental focus** enhancement a critical **endeavor**. With proper methods, concentration can increase and work **dexterity** improves significantly.\n\nFirst, one must be **cognizant** that mental focus is an **ephemeral** matter that can easily **dissipate**. Therefore, it's essential to **consolidate** it through planned practice. According to **neuroscientific** research, **assiduous** practice and **contemplative** rest increase brain **acumen**. Additionally, **scrupulous** time management helps maintain concentration.\n\nMany **erudite** individuals believe that to enhance mental focus, one needs to **recalibrate** to maintain a **lucid** stream of thought. Therefore, among the skills for improving mental focus, **perspicacious** thinking, **meticulous** planning, and adequate rest are essential.\n\nWith proper practice, mental focus not only becomes powerful but also makes us **zealous** and improves the quality of thought.",
+        "bn": "আজকের প্রতিযোগিতামূলক বিশ্বে **mental focus** বাড়ানো একটি গুরুত্বপূর্ণ **endeavor**। সঠিক পদ্ধতি অনুসরণ করলে মনোযোগ বৃদ্ধি পেতে পারে এবং কাজের **dexterity** আরও উন্নত হয়।\n\nপ্রথমত, **cognizant** থাকা প্রয়োজন যে, মনোযোগ একটি **ephemeral** বিষয়, যা সহজেই **dissipate** হতে পারে। তাই **consolidate** করার জন্য পরিকল্পিত অভ্যাস গড়ে তোলা জরুরি। **Neuroscientific** গবেষণা অনুযায়ী, **assiduous** চর্চা ও **contemplative** বিশ্রাম মস্তিষ্কের **acumen** বাড়ায়। এছাড়া, **scrupulous** সময় ব্যবস্থাপনা মনোযোগ ধরে রাখতে সাহায্য করে।\n\nঅনেক **erudite** ব্যক্তি মনে করেন, মনোযোগ বাড়ানোর জন্য **recalibrate** করা প্রয়োজন, যাতে চিন্তার **lucid** ধারা বজায় থাকে। অতএব, মনোযোগ বৃদ্ধির কৌশলগুলোর মধ্যে **perspicacious** চিন্তাভাবনা, **meticulous** পরিকল্পনা ও পর্যাপ্ত বিশ্রাম থাকা জরুরি।\n\nসঠিক অভ্যাস গড়ে তুললে, মনোযোগ শুধু শক্তিশালী হয় না, বরং এটি আমাদের **zealous** করে তোলে এবং চিন্তার গুণগত মান উন্নত করে।"
+    },
+    "list": [
+        {
+            "word": "mental focus",
+            "phonetic": "ˈmɛn.təl ˈfoʊ.kəs",
+            "word_native_transliteration": {
+                "bn": "মেন্টাল ফোকাস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The ability to concentrate deeply on a specific task or thought; mental concentration and attention.",
+            "example_sentence": "Meditation improves mental focus and cognitive performance.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেডিটেশন ইমপ্রুভস মেন্টাল ফোকাস এ্যান্ড কগনিটিভ পারফরমান্স।"
+            },
+            "position": 1,
+            "synonyms": "concentration, attention, mindfulness",
+            "antonyms": "distraction, inattention, absent-mindedness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মানসিক একাগ্রতা",
+                    "word_transliteration": "manoshik ekagrota",
+                    "example_sentence_translation": "ধ্যান মানসিক একাগ্রতা ও জ্ঞানীয় কর্মক্ষমতা উন্নত করে।",
+                    "example_sentence_transliteration": "Dhan manoshik ekagrota o gyaniyo kormokkhomota unnoto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "endeavor",
+            "phonetic": "ɪnˈdɛv.ər",
+            "word_native_transliteration": {
+                "bn": "এন্ডেভার"
+            },
+            "parts_of_speech": "noun/verb",
+            "emoji": "🎯",
+            "meaning": "A conscious effort or attempt to achieve a specific goal; to try earnestly.",
+            "example_sentence": "His endeavor to start a business was successful.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ এন্ডেভার টু স্টার্ট এ বিজনেস ওয়াজ সাকসেসফুল।"
+            },
+            "position": 2,
+            "synonyms": "attempt, effort, pursuit",
+            "antonyms": "inactivity, idleness, neglect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রচেষ্টা বা উদ্যোগ",
+                    "word_transliteration": "procheshta ba uddyog",
+                    "example_sentence_translation": "ব্যবসা শুরু করার তার প্রচেষ্টা সফল হয়েছিল।",
+                    "example_sentence_transliteration": "Byabsha shuru korar tar procheshta shofol hoyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dexterity",
+            "phonetic": "dɛkˈstɛr.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "ডেক্সটেরিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤹",
+            "meaning": "Skill and speed in performing tasks with hands or mind; skillfulness and agility.",
+            "example_sentence": "A surgeon needs high dexterity for precision work.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ সার্জন নিডস হাই ডেক্সটেরিটি ফর প্রিসিশন ওয়ার্ক।"
+            },
+            "position": 3,
+            "synonyms": "agility, skillfulness, nimbleness",
+            "antonyms": "clumsiness, incompetence, ineptitude",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষতা বা চাতুর্য",
+                    "word_transliteration": "dokhkhota ba chaturyo",
+                    "example_sentence_translation": "একজন সার্জনের জন্য নির্ভুল কাজের দক্ষতা অপরিহার্য।",
+                    "example_sentence_transliteration": "Ekjon sarjoner jonno nirbhul kajer dokhkhota oporiharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cognizant",
+            "phonetic": "ˈkɒɡ.nɪ.zənt",
+            "word_native_transliteration": {
+                "bn": "কগনিজ্যান্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧠",
+            "meaning": "Having knowledge or being aware of; conscious and informed about something.",
+            "example_sentence": "He was cognizant of the risks involved in the project.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি ওয়াজ কগনিজ্যান্ট অব দ্য রিস্কস ইনভলভড ইন দ্য প্রজেক্ট।"
+            },
+            "position": 4,
+            "synonyms": "aware, mindful, conscious",
+            "antonyms": "unaware, oblivious, ignorant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সচেতন বা অবগত",
+                    "word_transliteration": "shocheton ba obogoto",
+                    "example_sentence_translation": "তিনি প্রকল্পে অন্তর্নিহিত ঝুঁকিগুলোর সম্পর্কে সচেতন ছিলেন।",
+                    "example_sentence_transliteration": "Tini prokolpe antornihito jhunkigulor shomporke shocheton chhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ephemeral",
+            "phonetic": "ɪˈfɛm.ər.əl",
+            "word_native_transliteration": {
+                "bn": "এফেমারাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌸",
+            "meaning": "Lasting for a very short time; temporary and fleeting.",
+            "example_sentence": "The beauty of a sunset is ephemeral yet mesmerizing.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য বিউটি অব এ সানসেট ইজ এফেমারাল ইয়েট মেসমেরাইজিং।"
+            },
+            "position": 5,
+            "synonyms": "temporary, transient, short-lived",
+            "antonyms": "permanent, enduring, everlasting",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্ষণস্থায়ী বা অস্থায়ী",
+                    "word_transliteration": "khonnosthayi ba osthayi",
+                    "example_sentence_translation": "সূর্যাস্তের সৌন্দর্য ক্ষণস্থায়ী হলেও মুগ্ধকর।",
+                    "example_sentence_transliteration": "Shurjaster shoundorjo khonnosthayi holeo mugdhkor.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dissipate",
+            "phonetic": "ˈdɪs.ɪ.peɪt",
+            "word_native_transliteration": {
+                "bn": "ডিসিপেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "💨",
+            "meaning": "To gradually disappear or scatter; to fade away or become dispersed.",
+            "example_sentence": "The tension in the room slowly dissipated.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য টেনশন ইন দ্য রুম স্লোলি ডিসিপেটেড।"
+            },
+            "position": 6,
+            "synonyms": "disperse, fade, vanish",
+            "antonyms": "accumulate, intensify, gather",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অদৃশ্য হয়ে যাওয়া বা হ্রাস পাওয়া",
+                    "word_transliteration": "odrishyo hoye jaowa ba hrash paowa",
+                    "example_sentence_translation": "ঘরের চাপ ধীরে ধীরে কমে গেল।",
+                    "example_sentence_transliteration": "Ghorer chap dhire dhire kome gelo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "consolidate",
+            "phonetic": "kənˈsɒl.ɪ.deɪt",
+            "word_native_transliteration": {
+                "bn": "কনসলিডেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔗",
+            "meaning": "To combine and strengthen; to make firm and stable by bringing together.",
+            "example_sentence": "The company aims to consolidate its market position.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি এইমস টু কনসলিডেট ইটস মার্কেট পজিশন।"
+            },
+            "position": 7,
+            "synonyms": "strengthen, unify, reinforce",
+            "antonyms": "weaken, fragment, separate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংহত করা বা শক্তিশালী করা",
+                    "word_transliteration": "shonghoto kora ba shokti shali kora",
+                    "example_sentence_translation": "কোম্পানিটি তার বাজার অবস্থান সংহত করতে চায়।",
+                    "example_sentence_transliteration": "Kompaniti tar bajar obosthan shonghoto korte chay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "neuroscientific",
+            "phonetic": "ˌnjʊə.rəʊ.saɪənˈtɪ.fɪk",
+            "word_native_transliteration": {
+                "bn": "নিউরোসায়েন্টিফিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧬",
+            "meaning": "Related to the scientific study of the brain and nervous system.",
+            "example_sentence": "Neuroscientific research helps understand memory retention.",
+            "example_sentence_native_transliteration": {
+                "bn": "নিউরোসায়েন্টিফিক রিসার্চ হেল্পস আন্ডারস্ট্যান্ড মেমরি রিটেনশন।"
+            },
+            "position": 8,
+            "synonyms": "brain-related, cognitive, neural",
+            "antonyms": "non-scientific, unrelated to brain, psychological",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্নায়ুবিজ্ঞান সম্পর্কিত",
+                    "word_transliteration": "snayu biggan shomporki to",
+                    "example_sentence_translation": "স্নায়ুবৈজ্ঞানিক গবেষণা স্মৃতিশক্তি ধরে রাখার প্রক্রিয়া বুঝতে সহায়ক।",
+                    "example_sentence_transliteration": "Snayuboygyhanik gobeshona smritishokti dhore rakhar prokriya bujhte shohayok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "assiduous",
+            "phonetic": "əˈsɪd.ju.əs",
+            "word_native_transliteration": {
+                "bn": "এসিডুয়াস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💪",
+            "meaning": "Showing great care and perseverance; diligent and hardworking.",
+            "example_sentence": "His assiduous efforts led to a successful career.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ এসিডুয়াস এফর্টস লেড টু এ সাকসেসফুল ক্যারিয়ার।"
+            },
+            "position": 9,
+            "synonyms": "diligent, hardworking, persistent",
+            "antonyms": "lazy, careless, negligent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অধ্যবসায়ী বা পরিশ্রমী",
+                    "word_transliteration": "odhyabosayi ba porishomi",
+                    "example_sentence_translation": "তার অধ্যবসায়ী প্রচেষ্টা একটি সফল ক্যারিয়ার তৈরি করেছে।",
+                    "example_sentence_transliteration": "Tar odhyabosayi procheshta ekti shofol career toiri korechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "contemplative",
+            "phonetic": "ˈkɒn.təm.plə.tɪv",
+            "word_native_transliteration": {
+                "bn": "কন্টেম্প্লেটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🤔",
+            "meaning": "Expressing or involving prolonged thought; meditative and reflective.",
+            "example_sentence": "He spent a contemplative evening reflecting on his decisions.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি স্পেন্ট এ কন্টেম্প্লেটিভ ইভনিং রিফ্লেক্টিং অন হিজ ডিসিশনস।"
+            },
+            "position": 10,
+            "synonyms": "thoughtful, reflective, meditative",
+            "antonyms": "superficial, unthinking, careless",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গভীর চিন্তাশীল বা ধ্যানী",
+                    "word_transliteration": "gobhir chintashil ba dhyani",
+                    "example_sentence_translation": "তিনি তার সিদ্ধান্ত নিয়ে চিন্তা করে একটি ধ্যানী সন্ধ্যা কাটিয়েছিলেন।",
+                    "example_sentence_transliteration": "Tini tar siddhanto niye chinta kore ekti dhyani sondha katiyechhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "acumen",
+            "phonetic": "ˈæk.jʊ.mən",
+            "word_native_transliteration": {
+                "bn": "এ্যাকুমেন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧠",
+            "meaning": "The ability to make good judgments and quick decisions; keen insight and intelligence.",
+            "example_sentence": "His business acumen led to the company's success.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ বিজনেস এ্যাকুমেন লেড টু দ্য কোম্পানিজ সাকসেস।"
+            },
+            "position": 11,
+            "synonyms": "insight, intelligence, sharpness",
+            "antonyms": "foolishness, ineptitude, ignorance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "তীক্ষ্ণ বুদ্ধিমত্তা বা উপলব্ধি শক্তি",
+                    "word_transliteration": "tikhno buddhimotta ba upolabdhi shokti",
+                    "example_sentence_translation": "তার ব্যবসায়িক উপলব্ধি শক্তি কোম্পানির সাফল্যের কারণ হয়েছে।",
+                    "example_sentence_transliteration": "Tar byabshayik upolabdhi shokti kompanir shaflyer karon hoyechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "scrupulous",
+            "phonetic": "ˈskruː.pjʊ.ləs",
+            "word_native_transliteration": {
+                "bn": "স্ক্রুপুলাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚖️",
+            "meaning": "Extremely attentive to accuracy and detail; having moral integrity.",
+            "example_sentence": "He is known for being scrupulous in his work.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি ইজ নোন ফর বিইং স্ক্রুপুলাস ইন হিজ ওয়ার্ক।"
+            },
+            "position": 12,
+            "synonyms": "ethical, honest, conscientious",
+            "antonyms": "dishonest, careless, unprincipled",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সতর্ক ও নৈতিকভাবে সংবেদনশীল",
+                    "word_transliteration": "shotorko o noitikbhabe shongbedonshil",
+                    "example_sentence_translation": "তিনি তার কাজে সততা ও সতর্কতার জন্য পরিচিত।",
+                    "example_sentence_transliteration": "Tini tar kaje shotota o shotorkothar jonno porichito.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "erudite",
+            "phonetic": "ˈɛr.jʊ.daɪt",
+            "word_native_transliteration": {
+                "bn": "এরুডাইট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📚",
+            "meaning": "Having or showing great knowledge or learning; scholarly and intellectual.",
+            "example_sentence": "The professor's erudite lecture fascinated the students.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রফেসরস এরুডাইট লেকচার ফ্যাসিনেটেড দ্য স্টুডেন্টস।"
+            },
+            "position": 13,
+            "synonyms": "scholarly, intellectual, learned",
+            "antonyms": "uneducated, ignorant, illiterate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পাণ্ডিত্যপূর্ণ বা জ্ঞানী",
+                    "word_transliteration": "pandittyopurn ba gyani",
+                    "example_sentence_translation": "প্রফেসরের পাণ্ডিত্যপূর্ণ বক্তৃতা শিক্ষার্থীদের মুগ্ধ করেছিল।",
+                    "example_sentence_transliteration": "Profeshorer pandittyopurn boktritta shikharthider mugdho korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "recalibrate",
+            "phonetic": "ˌriːˈkæl.ɪ.breɪt",
+            "word_native_transliteration": {
+                "bn": "রিক্যালিব্রেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔧",
+            "meaning": "To adjust or modify according to a new standard or plan; to reassess and realign.",
+            "example_sentence": "He had to recalibrate his strategy after the market crash.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি হ্যাড টু রিক্যালিব্রেট হিজ স্ট্র্যাটেজি আফটার দ্য মার্কেট ক্র্যাশ।"
+            },
+            "position": 14,
+            "synonyms": "adjust, modify, reassess",
+            "antonyms": "misalign, ignore, neglect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুনরায় সামঞ্জস্য করা বা পুনর্বিন্যাস করা",
+                    "word_transliteration": "punoray shamanjoshyo kora ba punorbinnash kora",
+                    "example_sentence_translation": "বাজার ধ্বংসের পর তাকে তার কৌশল পুনরায় সামঞ্জস্য করতে হয়েছিল।",
+                    "example_sentence_transliteration": "Bajar dhongsher por take tar koushal punoray shamanjoshyo korte hoyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "lucid",
+            "phonetic": "ˈluː.sɪd",
+            "word_native_transliteration": {
+                "bn": "লুসিড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💡",
+            "meaning": "Clearly expressed and easily understood; transparent and comprehensible.",
+            "example_sentence": "His lucid explanation made the concept easy to understand.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ লুসিড এক্সপ্ল্যানেশন মেড দ্য কনসেপ্ট ইজি টু আন্ডারস্ট্যান্ড।"
+            },
+            "position": 15,
+            "synonyms": "clear, understandable, transparent",
+            "antonyms": "confusing, obscure, vague",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্পষ্ট ও বোধগম্য",
+                    "word_transliteration": "shposhto o bodhgomyo",
+                    "example_sentence_translation": "তার স্পষ্ট ব্যাখ্যা বিষয়টিকে সহজবোধ্য করেছে।",
+                    "example_sentence_transliteration": "Tar shposhto byakhya bishoyotike shohojbodhyo korechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "perspicacious",
+            "phonetic": "ˌpɜː.spɪˈkeɪ.ʃəs",
+            "word_native_transliteration": {
+                "bn": "পার্সপিকেশাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "👁️",
+            "meaning": "Having keen insight and understanding; showing acute mental discernment.",
+            "example_sentence": "The detective's perspicacious nature helped solve the mystery.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডিটেকটিভস পার্সপিকেশাস নেচার হেল্পড সলভ দ্য মিস্ট্রি।"
+            },
+            "position": 16,
+            "synonyms": "insightful, perceptive, sharp",
+            "antonyms": "unobservant, dull, slow-witted",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "তীক্ষ্ণদৃষ্টিসম্পন্ন বা অন্তর্দৃষ্টিসম্পন্ন",
+                    "word_transliteration": "tikhno drishtishomponno ba antordrishtishomponno",
+                    "example_sentence_translation": "গোয়েন্দার অন্তর্দৃষ্টিসম্পন্ন প্রকৃতি রহস্য সমাধানে সহায়ক হয়েছিল।",
+                    "example_sentence_transliteration": "Goyendar antordrishtishomponno prokriti rohoshsho shomadhane shohayok hoyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "meticulous",
+            "phonetic": "məˈtɪk.jə.ləs",
+            "word_native_transliteration": {
+                "bn": "মেটিকুলাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔍",
+            "meaning": "Showing great attention to detail; very careful and precise.",
+            "example_sentence": "A meticulous planner ensures that no details are overlooked.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ মেটিকুলাস প্ল্যানার এনশিউরস দ্যাট নো ডিটেইলস আর ওভারলুকড।"
+            },
+            "position": 17,
+            "synonyms": "precise, thorough, detail-oriented",
+            "antonyms": "careless, inaccurate, negligent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অত্যন্ত যত্নবান বা নিখুঁতভাবে কাজ করা",
+                    "word_transliteration": "ottyonto jotnoban ba nikhutvhabe kaj kora",
+                    "example_sentence_translation": "একজন নিখুঁত পরিকল্পনাকারী নিশ্চিত করে যে কোনো বিস্তারিত তথ্য বাদ না যায়।",
+                    "example_sentence_transliteration": "Ekjon nikhuto porikolponakari nishchit kore je kono bistarito tottho bad na jay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "zealous",
+            "phonetic": "ˈzɛl.əs",
+            "word_native_transliteration": {
+                "bn": "জিলাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔥",
+            "meaning": "Having or showing great energy or enthusiasm in pursuit of a cause or objective.",
+            "example_sentence": "She is a zealous advocate for environmental protection.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি ইজ এ জিলাস এডভোকেট ফর এনভায়রনমেন্টাল প্রোটেকশন।"
+            },
+            "position": 18,
+            "synonyms": "passionate, devoted, enthusiastic",
+            "antonyms": "indifferent, apathetic, unmotivated",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উৎসাহী বা প্রবল আগ্রহী",
+                    "word_transliteration": "utsahi ba probol agrahi",
+                    "example_sentence_translation": "তিনি পরিবেশ সুরক্ষার জন্য একজন উৎসাহী সমর্থক।",
+                    "example_sentence_transliteration": "Tini poribesh shurokhar jonno ekjon utsahi shomorthok.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}
