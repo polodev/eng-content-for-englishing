@@ -1,0 +1,472 @@
+{
+    "position": 157,
+    "title_translation": {
+        "en": "Mindfulness for Better Mental Focus",
+        "bn": "মানসিক ফোকাস উন্নত করার জন্য সচেতনতা"
+    },
+    "content_translation": {
+        "en": "**Mindfulness** or awareness is an essential element in our lives, which helps maintain **mental clarity** and **focus**. When we bring our mind to complete **presence**, **distraction** decreases and **cognition** becomes clearer.\n\n**Mindfulness** helps us develop **self-awareness** about our feelings and thoughts, which improves **emotional regulation**. It makes us more **grounded** and firm, which is helpful in dealing with life's pressures.\n\nFurthermore, regular **mindfulness** practice helps us with **stress management** and increases mental **resilience**. It helps our brain work more **effectively**, making our **thoughts** clearer and more **goal-oriented**.\n\nIn this way, **mindfulness** helps improve our overall **well-being** and mental focus, which gives good results in our daily life.",
+        "bn": "আমাদের জীবনে **mindfulness** বা সচেতনতা একটি অপরিহার্য উপাদান, যা **mental clarity** এবং **focus** বজায় রাখতে সাহায্য করে। যখন আমরা আমাদের মনকে পুরোপুরি **presence**-এ নিয়ে আসি, তখন **distraction** কমে যায় এবং **cognition** দ্রুত পরিষ্কার হয়।\n\n**Mindfulness** আমাদেরকে আমাদের অনুভূতি এবং চিন্তাগুলোর ওপর **self-awareness** তৈরি করতে সাহায্য করে, যা **emotional regulation** উন্নত করে। এটি আমাদের আরও **grounded** এবং দৃঢ় করে তোলে, যা জীবনের চাপ মোকাবিলায় সহায়ক।\n\nএছাড়া, নিয়মিত **mindfulness** চর্চা আমাদেরকে **stress management** করতে সাহায্য করে এবং মানসিক **resilience** বাড়ায়। এটি আমাদের মস্তিষ্ককে আরও কার্যকরভাবে কাজ করতে সহায়তা করে, ফলে আমাদের চিন্তা আরো স্পষ্ট এবং লক্ষ্যনির্ভর হয়।\n\nএইভাবে, **mindfulness** আমাদের সামগ্রিক **well-being** এবং মানসিক ফোকাসকে উন্নত করতে সাহায্য করে, যা আমাদের দৈনন্দিন জীবনে ভালো ফল দেয়।"
+    },
+    "list": [
+        {
+            "word": "mindfulness",
+            "phonetic": "/ˈmaɪnd.fʊlnəs/",
+            "word_native_transliteration": {
+                "bn": "মাইন্ডফুলনেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧘",
+            "meaning": "The quality or state of being conscious or aware of something; a mental state achieved by focusing one's awareness on the present moment.",
+            "example_sentence": "Practicing mindfulness can help reduce stress.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্র্যাকটিসিং মাইন্ডফুলনেস ক্যান হেল্প রিডিউস স্ট্রেস।"
+            },
+            "position": 1,
+            "synonyms": "awareness, presence, consciousness, attentiveness, meditation",
+            "antonyms": "negligence, distraction, inattention, unawareness, carelessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সচেতনতা",
+                    "word_transliteration": "sochetona",
+                    "example_sentence_translation": "মাইন্ডফুলনেস চর্চা মানসিক চাপ কমাতে সাহায্য করতে পারে।",
+                    "example_sentence_transliteration": "Mindfulness chorcha manoshik chap kamate sahajyo korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "clarity",
+            "phonetic": "/ˈklærəti/",
+            "word_native_transliteration": {
+                "bn": "ক্ল্যারিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💎",
+            "meaning": "The quality of being coherent and intelligible; transparency of thought or style.",
+            "example_sentence": "The clarity of his explanation made the concept easier to understand.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ক্ল্যারিটি অফ হিজ এক্সপ্ল্যানেশন মেইড দ্য কনসেপ্ট ইজিয়ার টু আন্ডারস্ট্যান্ড।"
+            },
+            "position": 2,
+            "synonyms": "precision, lucidity, transparency, clearness, distinctness",
+            "antonyms": "confusion, ambiguity, obscurity, vagueness, cloudiness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্পষ্টতা",
+                    "word_transliteration": "sposhṭota",
+                    "example_sentence_translation": "তার ব্যাখ্যার স্পষ্টতা ধারণাটিকে বোঝা সহজ করেছে।",
+                    "example_sentence_transliteration": "Tar byakhyar sposhṭota dharonatike bojha sohoj koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "focus",
+            "phonetic": "/ˈfəʊkəs/",
+            "word_native_transliteration": {
+                "bn": "ফোকাস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The centre of interest or activity; paying particular attention to something.",
+            "example_sentence": "Focus is essential for achieving personal goals.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফোকাস ইজ এসেনশিয়াল ফর অ্যাচিভিং পার্সোনাল গোলস।"
+            },
+            "position": 3,
+            "synonyms": "concentration, attention, emphasis, spotlight, center",
+            "antonyms": "distraction, inattention, neglect, disregard, scatter",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মনোযোগ",
+                    "word_transliteration": "monojog",
+                    "example_sentence_translation": "ব্যক্তিগত লক্ষ্য অর্জনের জন্য মনোযোগ জরুরি।",
+                    "example_sentence_transliteration": "Byoktigoto lokkhyo orjonner jonyo monojog joruri.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "presence",
+            "phonetic": "/ˈprɛzəns/",
+            "word_native_transliteration": {
+                "bn": "প্রেজেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌟",
+            "meaning": "The fact or condition of being present; a person's impressive manner or appearance.",
+            "example_sentence": "His presence in the meeting made everyone feel at ease.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ প্রেজেন্স ইন দ্য মিটিং মেইড এভরিওয়ান ফিল অ্যাট ইজ।"
+            },
+            "position": 4,
+            "synonyms": "existence, attendance, being, occurrence, manifestation",
+            "antonyms": "absence, departure, nonexistence, void, lack",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উপস্থিতি",
+                    "word_transliteration": "uposhthiti",
+                    "example_sentence_translation": "সভায় তার উপস্থিতি সবাইকে স্বাচ্ছন্দ্য অনুভব করায়।",
+                    "example_sentence_transliteration": "Sobhay tar uposhthiti sobaike swacchandyo onubhob koray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "distraction",
+            "phonetic": "/dɪˈstrækʃən/",
+            "word_native_transliteration": {
+                "bn": "ডিসট্র্যাকশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "😵‍💫",
+            "meaning": "A thing that prevents someone from giving full attention to something else.",
+            "example_sentence": "Distractions in the workplace can reduce productivity.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিসট্র্যাকশনস ইন দ্য ওয়ার্কপ্লেস ক্যান রিডিউস প্রোডাকটিভিটি।"
+            },
+            "position": 5,
+            "synonyms": "interruption, diversion, disruption, interference, confusion",
+            "antonyms": "focus, concentration, attention, engagement, absorption",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিভ্রান্তি",
+                    "word_transliteration": "bibhranti",
+                    "example_sentence_translation": "কর্মস্থলে বিভ্রান্তি উৎপাদনশীলতা কমাতে পারে।",
+                    "example_sentence_transliteration": "Kormoshthale bibhranti utpadonshlota kamate pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cognition",
+            "phonetic": "/kɒɡˈnɪʃən/",
+            "word_native_transliteration": {
+                "bn": "কগনিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧠",
+            "meaning": "The mental action or process of acquiring knowledge and understanding through thought, experience, and the senses.",
+            "example_sentence": "Cognitive functions are essential for decision-making.",
+            "example_sentence_native_transliteration": {
+                "bn": "কগনিটিভ ফাংশনস আর এসেনশিয়াল ফর ডিসিশন-মেকিং।"
+            },
+            "position": 6,
+            "synonyms": "understanding, perception, awareness, comprehension, reasoning",
+            "antonyms": "confusion, misunderstanding, ignorance, incomprehension, bewilderment",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চিন্তা",
+                    "word_transliteration": "chinta",
+                    "example_sentence_translation": "চিন্তাশক্তি সিদ্ধান্ত গ্রহণের জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Chintashokti siddhanto grohoner jonyo oporihajyo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "self-awareness",
+            "phonetic": "/ˌsɛlf əˈwɛə.nəs/",
+            "word_native_transliteration": {
+                "bn": "সেলফ-অ্যাওয়ারনেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🪞",
+            "meaning": "Conscious knowledge of one's own character, feelings, motives, and desires.",
+            "example_sentence": "Self-awareness helps in understanding one's emotions and actions.",
+            "example_sentence_native_transliteration": {
+                "bn": "সেলফ-অ্যাওয়ারনেস হেল্পস ইন আন্ডারস্ট্যান্ডিং ওয়ানস ইমোশনস অ্যান্ড অ্যাকশনস।"
+            },
+            "position": 7,
+            "synonyms": "introspection, reflection, self-knowledge, self-understanding, mindfulness",
+            "antonyms": "unawareness, ignorance, unconsciousness, obliviousness, denial",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আত্মসচেতনতা",
+                    "word_transliteration": "attosochetonta",
+                    "example_sentence_translation": "আত্মসচেতনতা একজনের অনুভূতি ও কাজ বোঝার জন্য সহায়ক।",
+                    "example_sentence_transliteration": "Attosochetonta ekjoner onubhuti o kaj bojhar jonyo sahajok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "emotional",
+            "phonetic": "/ɪˈməʊʃənəl/",
+            "word_native_transliteration": {
+                "bn": "ইমোশনাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "❤️",
+            "meaning": "Relating to a person's emotions; arousing or characterized by intense feelings.",
+            "example_sentence": "She gave an emotional speech about her experiences.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি গেভ অ্যান ইমোশনাল স্পিচ অ্যাবাউট হার এক্সপেরিয়েন্সেস।"
+            },
+            "position": 8,
+            "synonyms": "sentimental, passionate, heartfelt, touching, moving",
+            "antonyms": "indifferent, apathetic, unemotional, detached, cold",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনুভূতিপূর্ণ",
+                    "word_transliteration": "onubhutipurno",
+                    "example_sentence_translation": "সে তার অভিজ্ঞতার উপর আবেগপূর্ণ বক্তৃতা দিয়েছিল।",
+                    "example_sentence_transliteration": "Se tar obhiggatar upor abegpurno boktrita diyechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "regulation",
+            "phonetic": "/ˌrɛɡjʊˈleɪʃən/",
+            "word_native_transliteration": {
+                "bn": "রেগুলেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "A rule or directive made and maintained by an authority; the action of controlling or maintaining the rate or speed of something.",
+            "example_sentence": "Proper regulation of emotions can improve mental health.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রপার রেগুলেশন অফ ইমোশনস ক্যান ইমপ্রুভ মেন্টাল হেলথ।"
+            },
+            "position": 9,
+            "synonyms": "control, supervision, management, administration, governance",
+            "antonyms": "chaos, disorder, anarchy, mismanagement, neglect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিয়ন্ত্রণ",
+                    "word_transliteration": "niyontron",
+                    "example_sentence_translation": "যথাযথ আবেগ নিয়ন্ত্রণ মানসিক স্বাস্থ্য উন্নত করতে পারে।",
+                    "example_sentence_transliteration": "Jothajotho abeg niyontron manoshik swasthyo unnoto korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "grounded",
+            "phonetic": "/ˈɡraʊndɪd/",
+            "word_native_transliteration": {
+                "bn": "গ্রাউন্ডেড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌳",
+            "meaning": "Well balanced and sensible; having a sound basis in reality or fact.",
+            "example_sentence": "Staying grounded during difficult situations helps with resilience.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্টেয়িং গ্রাউন্ডেড ডিউরিং ডিফিকাল্ট সিচুয়েশনস হেল্পস উইথ রেজিলিয়েন্স।"
+            },
+            "position": 10,
+            "synonyms": "stable, rational, sensible, realistic, practical",
+            "antonyms": "unstable, erratic, unrealistic, impractical, flighty",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাস্তববাদী",
+                    "word_transliteration": "bastobadi",
+                    "example_sentence_translation": "কঠিন পরিস্থিতিতে বাস্তববাদী থাকা সহনশক্তি বাড়াতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Kothin poristhititey bastobadi thaka sohonshokti barate sahajyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "stress",
+            "phonetic": "/strɛs/",
+            "word_native_transliteration": {
+                "bn": "স্ট্রেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "😰",
+            "meaning": "A state of mental or emotional strain or tension resulting from adverse or demanding circumstances.",
+            "example_sentence": "Managing stress is important for maintaining good health.",
+            "example_sentence_native_transliteration": {
+                "bn": "ম্যানেজিং স্ট্রেস ইজ ইমপরট্যান্ট ফর মেইনটেইনিং গুড হেলথ।"
+            },
+            "position": 11,
+            "synonyms": "pressure, strain, tension, anxiety, burden",
+            "antonyms": "relaxation, calmness, peace, tranquility, serenity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চাপ",
+                    "word_transliteration": "chap",
+                    "example_sentence_translation": "স্ট্রেস নিয়ন্ত্রণ করা ভাল স্বাস্থ্য বজায় রাখতে গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Stress niyontron kora bhal swasthyo bojay rakhte gurutbopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "management",
+            "phonetic": "/ˈmænɪdʒmənt/",
+            "word_native_transliteration": {
+                "bn": "ম্যানেজমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "The process of dealing with or controlling things or people; the administration of an organization.",
+            "example_sentence": "Time management can improve productivity and reduce stress.",
+            "example_sentence_native_transliteration": {
+                "bn": "টাইম ম্যানেজমেন্ট ক্যান ইমপ্রুভ প্রোডাকটিভিটি অ্যান্ড রিডিউস স্ট্রেস।"
+            },
+            "position": 12,
+            "synonyms": "administration, supervision, control, direction, governance",
+            "antonyms": "mismanagement, negligence, disorder, chaos, abandonment",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিচালনা",
+                    "word_transliteration": "porichalona",
+                    "example_sentence_translation": "টাইম ম্যানেজমেন্ট উৎপাদনশীলতা বাড়াতে এবং স্ট্রেস কমাতে সাহায্য করতে পারে।",
+                    "example_sentence_transliteration": "Time management utpadonshlota barate ebong stress kamate sahajyo korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "resilience",
+            "phonetic": "/rɪˈzɪlɪəns/",
+            "word_native_transliteration": {
+                "bn": "রেজিলিয়েন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "The ability to recover quickly from difficulties; toughness and flexibility.",
+            "example_sentence": "Resilience is the ability to bounce back from challenges.",
+            "example_sentence_native_transliteration": {
+                "bn": "রেজিলিয়েন্স ইজ দি অ্যাবিলিটি টু বাউন্স ব্যাক ফ্রম চ্যালেঞ্জেস।"
+            },
+            "position": 13,
+            "synonyms": "toughness, endurance, strength, fortitude, flexibility",
+            "antonyms": "fragility, weakness, brittleness, vulnerability, frailty",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহনশক্তি",
+                    "word_transliteration": "sohonshokti",
+                    "example_sentence_translation": "সহনশক্তি হল চ্যালেঞ্জ থেকে ফিরে আসার ক্ষমতা।",
+                    "example_sentence_transliteration": "Sohonshokti hol challenge theke fire ashar khomota.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "effective",
+            "phonetic": "/ɪˈfɛktɪv/",
+            "word_native_transliteration": {
+                "bn": "এফেকটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "✅",
+            "meaning": "Successful in producing a desired or intended result; having the power to produce a strong impression.",
+            "example_sentence": "Effective communication is essential for teamwork.",
+            "example_sentence_native_transliteration": {
+                "bn": "এফেকটিভ কমিউনিকেশন ইজ এসেনশিয়াল ফর টিমওয়ার্ক।"
+            },
+            "position": 14,
+            "synonyms": "efficient, successful, productive, powerful, competent",
+            "antonyms": "ineffective, useless, unsuccessful, weak, incompetent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কার্যকর",
+                    "word_transliteration": "karjyokor",
+                    "example_sentence_translation": "কার্যকর যোগাযোগ দলবদ্ধ কাজের জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Karjyokor jogajog dolbodhdho kajer jonyo oporihajyo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "thoughts",
+            "phonetic": "/θɔːts/",
+            "word_native_transliteration": {
+                "bn": "থটস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💭",
+            "meaning": "An idea or opinion produced by thinking, or occurring suddenly in the mind.",
+            "example_sentence": "Focus your thoughts on positive outcomes.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফোকাস ইয়োর থটস অন পজিটিভ আউটকামস।"
+            },
+            "position": 15,
+            "synonyms": "ideas, reflections, notions, concepts, considerations",
+            "antonyms": "indifference, disinterest, thoughtlessness, mindlessness, vacancy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চিন্তা",
+                    "word_transliteration": "chinta",
+                    "example_sentence_translation": "আপনার চিন্তাভাবনাগুলি ইতিবাচক ফলাফলে মনোনিবেশ করুন।",
+                    "example_sentence_transliteration": "Apnar chintabhabnaguli itibachok pholaphale mononibesh korun.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "goal-oriented",
+            "phonetic": "/ɡəʊl ɔːˈrɪəntɪd/",
+            "word_native_transliteration": {
+                "bn": "গোল-অরিয়েন্টেড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎯",
+            "meaning": "Focused on achieving specific objectives or targets; driven by clear aims.",
+            "example_sentence": "Being goal-oriented is crucial for achieving success.",
+            "example_sentence_native_transliteration": {
+                "bn": "বিইং গোল-অরিয়েন্টেড ইজ ক্রুশিয়াল ফর অ্যাচিভিং সাকসেস।"
+            },
+            "position": 16,
+            "synonyms": "ambitious, focused, determined, purposeful, driven",
+            "antonyms": "unfocused, directionless, aimless, purposeless, scattered",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "লক্ষ্যভিত্তিক",
+                    "word_transliteration": "lokkhyobhittik",
+                    "example_sentence_translation": "লক্ষ্যভিত্তিক থাকা সফলতা অর্জনের জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Lokkhyobhittik thaka sopholota orjoner jonyo oporihajyo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "well-being",
+            "phonetic": "/ˈwɛlˌbiːɪŋ/",
+            "word_native_transliteration": {
+                "bn": "ওয়েল-বিইং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌈",
+            "meaning": "The state of being comfortable, healthy, or happy; a general sense of wellness.",
+            "example_sentence": "Meditation can help improve overall well-being.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেডিটেশন ক্যান হেল্প ইমপ্রুভ ওভারঅল ওয়েল-বিইং।"
+            },
+            "position": 17,
+            "synonyms": "health, happiness, welfare, prosperity, contentment",
+            "antonyms": "ill-being, sickness, distress, unhappiness, suffering",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সুস্থতা",
+                    "word_transliteration": "susthota",
+                    "example_sentence_translation": "ধ্যান সুস্থতা উন্নত করতে সাহায্য করতে পারে।",
+                    "example_sentence_transliteration": "Dhyan susthota unnoto korte sahajyo korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

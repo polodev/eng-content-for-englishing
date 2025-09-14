@@ -1,0 +1,499 @@
+{
+    "position": 161,
+    "title_translation": {
+        "en": "Nutritional Benefits of Organic Foods",
+        "bn": "জৈব খাদ্যের পুষ্টিগুণ"
+    },
+    "content_translation": {
+        "en": "Today's **conventional** food **adulteration** and excessive **pesticides** use are having **detrimental** effects on human health. **Carcinogenic** chemicals present in these foods have harmful effects on the **endocrine** and nervous systems in the long run. On the other hand, **organic foods** are produced through chemical-free **cultivation** methods, where **preservatives** and artificial ingredients are not used. The **antioxidants** and **phytonutrients** present in them increase the body's **immunity**, which builds resistance against various diseases. **Organic foods** have higher **bioavailability**, so the body can easily **metabolize** them and absorb necessary **micronutrients**. Moreover, they naturally contain nutritional elements without **fortification**. The **sustainability** of such foods is ensured, as they are produced through environmentally friendly farming methods, which help in **holistic** health protection. Therefore, choosing **organic foods** for long-term healthy living is a wise decision.",
+        "bn": "আজকাল **conventional** খাদ্যের **adulteration** এবং অতিরিক্ত **pesticides** ব্যবহারের ফলে মানুষের স্বাস্থ্যের ওপর **detrimental** প্রভাব পড়ছে। এসব খাবারে থাকা **carcinogenic** রাসায়নিক পদার্থ দীর্ঘমেয়াদে **endocrine** এবং স্নায়ুতন্ত্রের ওপর ক্ষতিকর প্রভাব ফেলে। অন্যদিকে, **organic foods** রাসায়নিক মুক্ত **cultivation** পদ্ধতিতে উৎপাদিত হয়, যেখানে **preservatives** এবং কৃত্রিম উপাদানের ব্যবহার থাকে না। এতে থাকা **antioxidants** এবং **phytonutrients** শরীরের **immunity** বৃদ্ধি করে, যা বিভিন্ন রোগের বিরুদ্ধে প্রতিরোধ গড়ে তোলে। অর্গানিক খাবারের **bioavailability** বেশি হওয়ায়, শরীর সহজেই এগুলো **metabolize** করতে পারে এবং প্রয়োজনীয় **micronutrients** শোষণ করতে পারে। এছাড়া, **fortification** ছাড়াই এতে স্বাভাবিকভাবে পুষ্টি উপাদান থাকে। এই ধরনের খাবারের **sustainability** নিশ্চিত হয়, কারণ এটি পরিবেশবান্ধব চাষ পদ্ধতির মাধ্যমে উৎপাদিত হয়, যা **holistic** স্বাস্থ্য রক্ষায় সহায়ক। সুতরাং, দীর্ঘমেয়াদে সুস্থ জীবনযাপনের জন্য **organic foods** বেছে নেওয়া বুদ্ধিমানের কাজ।"
+    },
+    "list": [
+        {
+            "word": "conventional",
+            "phonetic": "kənˈven.ʃən.əl",
+            "word_native_transliteration": {
+                "bn": "কনভেনশনাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🏛️",
+            "meaning": "Based on or in accordance with what is generally done or believed; traditional, standard, customary.",
+            "example_sentence": "Many farmers still use conventional farming methods.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেনি ফার্মারস স্টিল ইউজ কনভেনশনাল ফার্মিং মেথডস।"
+            },
+            "position": 1,
+            "synonyms": "traditional, standard, customary",
+            "antonyms": "unorthodox, innovative, unconventional",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রচলিত",
+                    "word_transliteration": "prochlit",
+                    "example_sentence_translation": "কনভেনশনাল চাষাবাদ পদ্ধতি এখনও অনেক কৃষক ব্যবহার করেন।",
+                    "example_sentence_transliteration": "Conventional chashabadh poddhoti ekhono onek krishok bybohar koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "adulteration",
+            "phonetic": "əˌdʌl.təˈreɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "অ্যাডালটারেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "☠️",
+            "meaning": "The action of making something poorer in quality by the addition of another substance.",
+            "example_sentence": "Food adulteration poses a serious health risk.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফুড অ্যাডালটারেশন পোজেস এ সিরিয়াস হেলথ রিস্ক।"
+            },
+            "position": 2,
+            "synonyms": "contamination, impurity, degradation",
+            "antonyms": "purity, authenticity, refinement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভেজাল মিশ্রণ",
+                    "word_transliteration": "vejal mishron",
+                    "example_sentence_translation": "অ্যাডালটারেশন খাদ্যের মান নষ্ট করে এবং স্বাস্থ্য ঝুঁকি সৃষ্টি করে।",
+                    "example_sentence_transliteration": "Adulteration khadder man noshto kore ebong swasthyo jhunki srishti kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pesticides",
+            "phonetic": "ˈpɛs.tɪ.saɪdz",
+            "word_native_transliteration": {
+                "bn": "পেস্টিসাইডস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚫",
+            "meaning": "Substances used for destroying insects or other organisms harmful to cultivated plants or to animals.",
+            "example_sentence": "Excessive pesticides use can harm the environment.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সেসিভ পেস্টিসাইডস ইউজ ক্যান হার্ম দ্য এনভায়রনমেন্ট।"
+            },
+            "position": 3,
+            "synonyms": "insecticide, herbicide, fungicide",
+            "antonyms": "organic treatment, natural repellent, biological control",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কীটনাশক",
+                    "word_transliteration": "kitonashok",
+                    "example_sentence_translation": "অত্যধিক পেস্টিসাইডস ব্যবহারে পরিবেশের ক্ষতি হয়।",
+                    "example_sentence_transliteration": "Ottyadhik pesticides byobohare poribesheri khoti hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "detrimental",
+            "phonetic": "ˌdɛtrɪˈmɛntəl",
+            "word_native_transliteration": {
+                "bn": "ডেট্রিমেন্টাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💥",
+            "meaning": "Tending to cause harm; harmful or damaging.",
+            "example_sentence": "Smoking is detrimental to health.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্মোকিং ইজ ডেট্রিমেন্টাল টু হেলথ।"
+            },
+            "position": 4,
+            "synonyms": "harmful, destructive, injurious",
+            "antonyms": "beneficial, advantageous, favorable",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্ষতিকর",
+                    "word_transliteration": "khotikor",
+                    "example_sentence_translation": "ধূমপান স্বাস্থ্য জন্য ডেট্রিমেন্টাল।",
+                    "example_sentence_transliteration": "Dhumopan swasthyo jonno detrimental.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "carcinogenic",
+            "phonetic": "ˌkɑː.sɪ.nəˈdʒɛn.ɪk",
+            "word_native_transliteration": {
+                "bn": "কারসিনোজেনিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "☢️",
+            "meaning": "Having the potential to cause cancer.",
+            "example_sentence": "Processed foods often contain carcinogenic substances.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রসেসড ফুডস অফেন কন্টেইন কারসিনোজেনিক সাবস্ট্যান্সেস।"
+            },
+            "position": 5,
+            "synonyms": "cancer-causing, toxic, malignant",
+            "antonyms": "non-toxic, safe, benign",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্যান্সার সৃষ্টিকারী",
+                    "word_transliteration": "cancer srishtikari",
+                    "example_sentence_translation": "প্রক্রিয়াজাত খাবারে অনেক সময় কারসিনোজেনিক উপাদান থাকে।",
+                    "example_sentence_transliteration": "Prikriyajat khabare onek shomoy carcinogenic upadhan thake.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "endocrine",
+            "phonetic": "ˈɛn.də.krɪn",
+            "word_native_transliteration": {
+                "bn": "এন্ডোক্রিন"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧬",
+            "meaning": "Relating to or denoting glands which secrete hormones directly into the blood.",
+            "example_sentence": "The endocrine system regulates metabolism.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এন্ডোক্রিন সিস্টেম রেগুলেটস মেটাবলিজম।"
+            },
+            "position": 6,
+            "synonyms": "hormonal, glandular, physiological",
+            "antonyms": "non-hormonal, external, artificial",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "হরমোন সংশ্লিষ্ট",
+                    "word_transliteration": "hormone shongshlishtho",
+                    "example_sentence_translation": "এন্ডোক্রিন সিস্টেম শরীরের বিপাক নিয়ন্ত্রণ করে।",
+                    "example_sentence_transliteration": "Endocrine system shorirer bipak niyontron kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "organic foods",
+            "phonetic": "ɔːˈɡæn.ɪk fuːdz",
+            "word_native_transliteration": {
+                "bn": "অর্গানিক ফুডস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🥬",
+            "meaning": "Food produced without the use of chemicals such as artificial pesticides, fertilizers, or other artificial agents.",
+            "example_sentence": "Organic foods are healthier than processed foods.",
+            "example_sentence_native_transliteration": {
+                "bn": "অর্গানিক ফুডস আর হেলথিয়ার দ্যান প্রসেসড ফুডস।"
+            },
+            "position": 7,
+            "synonyms": "natural, pesticide-free, chemical-free",
+            "antonyms": "processed foods, artificially enhanced, genetically modified",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জৈব খাদ্য",
+                    "word_transliteration": "joibo khaddyo",
+                    "example_sentence_translation": "অর্গানিক ফুডস প্রক্রিয়াজাত খাবারের তুলনায় স্বাস্থ্যকর।",
+                    "example_sentence_transliteration": "Organic foods prikriyajat khabarer tulonay swasthyokor.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cultivation",
+            "phonetic": "ˌkʌl.tɪˈveɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "কালটিভেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌱",
+            "meaning": "The action of cultivating land, or the state of being cultivated.",
+            "example_sentence": "The cultivation of organic crops is increasing worldwide.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কালটিভেশন অব অর্গানিক ক্রপস ইজ ইনক্রিজিং ওয়ার্ল্ডওয়াইড।"
+            },
+            "position": 8,
+            "synonyms": "farming, agriculture, horticulture",
+            "antonyms": "abandonment, neglect, destruction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চাষাবাদ",
+                    "word_transliteration": "chashabadh",
+                    "example_sentence_translation": "বিশ্বব্যাপী কালটিভেশন বাড়ছে।",
+                    "example_sentence_transliteration": "Bishbbyapi cultivation barche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "preservatives",
+            "phonetic": "prɪˈzɜː.və.tɪvz",
+            "word_native_transliteration": {
+                "bn": "প্রিজারভেটিভস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧪",
+            "meaning": "A substance used to preserve foodstuffs, wood, or other materials against decay.",
+            "example_sentence": "Many processed foods contain harmful preservatives.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেনি প্রসেসড ফুডস কন্টেইন হার্মফুল প্রিজারভেটিভস।"
+            },
+            "position": 9,
+            "synonyms": "additives, antioxidants, stabilizers",
+            "antonyms": "natural preservatives, fresh ingredients, unprocessed",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংরক্ষণ উপাদান",
+                    "word_transliteration": "shongrokkhon upadhan",
+                    "example_sentence_translation": "অনেক প্রক্রিয়াজাত খাদ্যে প্রিজারভেটিভস থাকে।",
+                    "example_sentence_transliteration": "Onek prikriyajat khadye preservatives thake.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "antioxidants",
+            "phonetic": "ˌæn.tiˈɒk.sɪ.dənts",
+            "word_native_transliteration": {
+                "bn": "অ্যান্টিঅক্সিডেন্টস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "A substance that may prevent or delay some types of cell damage.",
+            "example_sentence": "Fruits and vegetables are rich in antioxidants.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফ্রুটস অ্যান্ড ভেজিটেবলস আর রিচ ইন অ্যান্টিঅক্সিডেন্টস।"
+            },
+            "position": 10,
+            "synonyms": "free-radical fighters, protective compounds, detoxifiers",
+            "antonyms": "oxidants, free radicals, toxins",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অক্সিডেশন প্রতিরোধকারী",
+                    "word_transliteration": "oxideshon protirodhhokari",
+                    "example_sentence_translation": "ফল ও সবজিতে প্রচুর অ্যান্টিঅক্সিডেন্টস থাকে।",
+                    "example_sentence_transliteration": "Phol o shobjite prochur antioxidants thake.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "phytonutrients",
+            "phonetic": "ˈfaɪ.təʊˌnjuː.tri.ənts",
+            "word_native_transliteration": {
+                "bn": "ফাইটোনিউট্রিয়েন্টস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌿",
+            "meaning": "Bioactive compounds found in plants that have health benefits beyond basic nutrition.",
+            "example_sentence": "Green tea contains powerful phytonutrients.",
+            "example_sentence_native_transliteration": {
+                "bn": "গ্রিন টি কন্টেইনস পাওয়ারফুল ফাইটোনিউট্রিয়েন্টস।"
+            },
+            "position": 11,
+            "synonyms": "plant-based compounds, bioactive nutrients, natural extracts",
+            "antonyms": "artificial additives, synthetic nutrients, chemical enhancers",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্ভিদজাত পুষ্টি উপাদান",
+                    "word_transliteration": "udbidjat pushti upadhan",
+                    "example_sentence_translation": "গ্রিন টি-তে কার্যকর ফাইটোনিউট্রিয়েন্টস থাকে।",
+                    "example_sentence_transliteration": "Green tea-te karjokor phytonutrients thake.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "immunity",
+            "phonetic": "ɪˈmjuː.nɪ.ti",
+            "word_native_transliteration": {
+                "bn": "ইমিউনিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛡️",
+            "meaning": "The ability of an organism to resist a particular infection or toxin by the action of specific antibodies or sensitized white blood cells.",
+            "example_sentence": "A balanced diet improves immunity.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ ব্যালেন্সড ডায়েট ইমপ্রুভস ইমিউনিটি।"
+            },
+            "position": 12,
+            "synonyms": "resistance, defensiveness, protection",
+            "antonyms": "susceptibility, vulnerability, weakness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রোগ প্রতিরোধ ক্ষমতা",
+                    "word_transliteration": "rog protirodh khomota",
+                    "example_sentence_translation": "সুষম খাদ্য ইমিউনিটি বাড়ায়।",
+                    "example_sentence_transliteration": "Shushom khaddyo immunity baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "bioavailability",
+            "phonetic": "ˌbaɪ.oʊ.əˌveɪ.ləˈbɪl.ə.ti",
+            "word_native_transliteration": {
+                "bn": "বায়োঅ্যাভেইলেবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💊",
+            "meaning": "The degree and rate at which a substance is absorbed or becomes available at the site of physiological activity.",
+            "example_sentence": "The bioavailability of vitamins varies from food to food.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য বায়োঅ্যাভেইলেবিলিটি অব ভিটামিনস ভ্যারিজ ফ্রম ফুড টু ফুড।"
+            },
+            "position": 13,
+            "synonyms": "nutrient absorption, assimilation, utilization",
+            "antonyms": "poor absorption, malabsorption, inefficiency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শরীর কর্তৃক শোষণের হার",
+                    "word_transliteration": "shorir kortrik shoshoner har",
+                    "example_sentence_translation": "বিভিন্ন খাবারে ভিটামিনের বায়োঅ্যাভেইলেবিলিটি ভিন্ন।",
+                    "example_sentence_transliteration": "Bivhinno khabare vitaminer bioavailability vhinno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "metabolize",
+            "phonetic": "məˈtæb.ə.laɪz",
+            "word_native_transliteration": {
+                "bn": "মেটাবোলাইজ"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⚙️",
+            "meaning": "Process and use food for growth and to replace tissue, or process other substances in the body.",
+            "example_sentence": "The liver helps to metabolize toxins.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য লিভার হেল্পস টু মেটাবোলাইজ টক্সিনস।"
+            },
+            "position": 14,
+            "synonyms": "digest, process, convert",
+            "antonyms": "store, accumulate, preserve",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "খাদ্য হজম ও শক্তিতে রূপান্তর",
+                    "word_transliteration": "khaddyo hojom o shoktite rupantor",
+                    "example_sentence_translation": "যকৃৎ বিষাক্ত উপাদান মেটাবোলাইজ করতে সহায়তা করে।",
+                    "example_sentence_transliteration": "Jokrit bishakto upadhan metabolize korte shohayota kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "micronutrients",
+            "phonetic": "ˈmaɪ.krəʊˌnjuː.tri.ənts",
+            "word_native_transliteration": {
+                "bn": "মাইক্রোনিউট্রিয়েন্টস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔬",
+            "meaning": "Essential nutrients required by organisms in small quantities throughout life to orchestrate a range of physiological functions.",
+            "example_sentence": "Micronutrients are essential for cellular function.",
+            "example_sentence_native_transliteration": {
+                "bn": "মাইক্রোনিউট্রিয়েন্টস আর এসেনশিয়াল ফর সেলুলার ফাংশন।"
+            },
+            "position": 15,
+            "synonyms": "vitamins, minerals, essential nutrients",
+            "antonyms": "macronutrients, excessive nutrients, overconsumption",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতি প্রয়োজনীয় ক্ষুদ্র পুষ্টি উপাদান",
+                    "word_transliteration": "oti proyojoniyoy khudro pushti upadhan",
+                    "example_sentence_translation": "মাইক্রোনিউট্রিয়েন্টস শরীরের কোষীয় কাজের জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Micronutrients shorirer koshiyoy kajer jonno oportihargo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fortification",
+            "phonetic": "ˌfɔːr.tɪ.fɪˈkeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ফর্টিফিকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "The action of adding vitamins or other nutrients to food, especially as a public health measure.",
+            "example_sentence": "Milk fortification with Vitamin D is essential.",
+            "example_sentence_native_transliteration": {
+                "bn": "মিল্ক ফর্টিফিকেশন উইথ ভিটামিন ডি ইজ এসেনশিয়াল।"
+            },
+            "position": 16,
+            "synonyms": "enrichment, strengthening, reinforcement",
+            "antonyms": "depletion, deficiency, weakening",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুষ্টি বৃদ্ধির প্রক্রিয়া",
+                    "word_transliteration": "pushti briddhhir prikriya",
+                    "example_sentence_translation": "ভিটামিন ডি যুক্ত করা ফর্টিফিকেশন গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Vitamin D jukto kora fortification guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sustainability",
+            "phonetic": "səˌsteɪ.nəˈbɪl.ə.ti",
+            "word_native_transliteration": {
+                "bn": "সাসটেইনাবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌍",
+            "meaning": "The ability to maintain or support a process continuously over time without depleting natural resources.",
+            "example_sentence": "Sustainability is crucial for the environment.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাসটেইনাবিলিটি ইজ ক্রুসিয়াল ফর দ্য এনভায়রনমেন্ট।"
+            },
+            "position": 17,
+            "synonyms": "longevity, stability, environmental balance",
+            "antonyms": "instability, unsustainable, short-term planning",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "টেকসই উন্নয়ন",
+                    "word_transliteration": "tekshoi unnoyon",
+                    "example_sentence_translation": "পরিবেশের জন্য সাসটেইনাবিলিটি গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Poribesheri jonno sustainability guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "holistic",
+            "phonetic": "həʊˈlɪs.tɪk",
+            "word_native_transliteration": {
+                "bn": "হোলিস্টিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔄",
+            "meaning": "Dealing with or treating the whole of something or someone and not just a part.",
+            "example_sentence": "A holistic approach improves well-being.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ হোলিস্টিক অ্যাপ্রোচ ইমপ্রুভস ওয়েল-বিং।"
+            },
+            "position": 18,
+            "synonyms": "comprehensive, integrated, whole-system approach",
+            "antonyms": "fragmented, partial, narrow-minded",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সামগ্রিক",
+                    "word_transliteration": "shamoggrik",
+                    "example_sentence_translation": "হোলিস্টিক পদ্ধতি স্বাস্থ্যের উন্নতি ঘটায়।",
+                    "example_sentence_transliteration": "Holistic poddhoti swasthyeri unnoti ghotay.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

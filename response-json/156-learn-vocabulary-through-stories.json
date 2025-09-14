@@ -1,0 +1,418 @@
+{
+    "position": 156,
+    "title_translation": {
+        "en": "Men vs Wild",
+        "bn": "Men vs Wild"
+    },
+    "content_translation": {
+        "en": "Every day in forest life brings a new **adversity**. Nature's **ferocity** poses a major challenge for humans. An adventurer survives with their **grit** and **resilience**.\n\nWalking through the **labyrinth** of forest paths was **perilous**. His **instinctive** abilities taught him survival methods. But a single **blunder** puts him in a terrible situation.\n\nAmidst **pristine** nature, his **tenacity** helps him. Though the **archetype** behavior of wild animals frightens him, he remains **dauntless** and finds his own path.\n\nEventually, he reaches the **apex** of the forest and handles the situation with his **dexterity**. The **nomadic** nature of humans and their relationship with nature makes this struggle successful.",
+        "bn": "বনে জীবনে র প্রতিটি দিনই এক নতুন **adversity**। প্রকৃতির **ferocity** মানুষের জন্য একটি বড় চ্যালেঞ্জ। একজন অভিযাত্রী তার **grit** এবং **resilience** দিয়ে টিকে থাকে।\n\nবনের **labyrinth** পথগুলোর মধ্যে দিয়ে হাঁটা ছিল **perilous**। তার **instinctive** ক্ষমতা তাকে বেঁচে থাকার পদ্ধতি শিখিয়েছে। কিন্তু একটি **blunder** তাকে ভয়ঙ্কর অবস্থায় ফেলে দেয়।\n\n**Pristine** প্রকৃতির মাঝে, তার **tenacity** তাকে সাহায্য করে। বন্য প্রাণীর **archetype** আচরণ তাকে আতঙ্কিত করলেও, সে **dauntless** থেকে নিজের পথ খুঁজে নেয়।\n\nএকসময় সে বনের **apex**-এ পৌঁছায় এবং তার **dexterity** দিয়ে পরিস্থিতি সামাল দেয়। মানুষের **nomadic** প্রকৃতি এবং প্রকৃতির সাথে সম্পর্কই এই সংগ্রামকে সফল করে।"
+    },
+    "list": [
+        {
+            "word": "adversity",
+            "phonetic": "/ədˈvɜː.sə.ti/",
+            "word_native_transliteration": {
+                "bn": "অ্যাডভারসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "A difficult or unpleasant situation; hardship, misfortune.",
+            "example_sentence": "He remained strong in the face of adversity.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি রিমেইনড স্ট্রং ইন দ্য ফেস অব অ্যাডভারসিটি।"
+            },
+            "position": 1,
+            "synonyms": "hardship, misfortune, difficulty, trouble, challenge, setback",
+            "antonyms": "prosperity, advantage, success, fortune, luck, blessing",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দুর্দশা, বিপর্যয়, প্রতিকূলতা",
+                    "word_transliteration": "durdesha, biporijoy, protikoolota",
+                    "example_sentence_translation": "তিনি প্রতিকূলতার মুখে শক্তিশালী রইলেন।",
+                    "example_sentence_transliteration": "Tini protikoolatar mukhe shoktiishali roilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ferocity",
+            "phonetic": "/fəˈrɒs.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "ফেরোসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔥",
+            "meaning": "The state or quality of being ferocious; extreme fierceness or violence.",
+            "example_sentence": "The storm's ferocity was devastating.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্টর্মস ফেরোসিটি ওয়াজ ডেভাস্টেটিং।"
+            },
+            "position": 2,
+            "synonyms": "fierceness, brutality, savagery, violence, intensity, fury",
+            "antonyms": "gentleness, weakness, mildness, softness, kindness, calm",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "তীব্রতা, হিংস্রতা, ভয়ংকরতা",
+                    "word_transliteration": "tibrotaa, hingshrotaa, bhoyongkorotaa",
+                    "example_sentence_translation": "ঝড়ের তীব্রতা বিধ্বংসী ছিল।",
+                    "example_sentence_transliteration": "Jhorer tibrotaa bidhongsii chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "grit",
+            "phonetic": "/ɡrɪt/",
+            "word_native_transliteration": {
+                "bn": "গ্রিট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "Courage and resolve; strength of character; passion and perseverance.",
+            "example_sentence": "Grit is necessary to achieve success.",
+            "example_sentence_native_transliteration": {
+                "bn": "গ্রিট ইজ নেসেসারি টু অ্যাচিভ সাকসেস।"
+            },
+            "position": 3,
+            "synonyms": "courage, determination, perseverance, tenacity, resolve, fortitude",
+            "antonyms": "cowardice, weakness, timidity, hesitation, fear, doubt",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ধৈর্য, কঠোর পরিশ্রম, অধ্যবসায়",
+                    "word_transliteration": "dhoirjo, kothhor porishrom, odhyoboshaay",
+                    "example_sentence_translation": "সফলতার জন্য অধ্যবসায় প্রয়োজন।",
+                    "example_sentence_transliteration": "Shofolotar jonno odhyoboshaay proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "resilience",
+            "phonetic": "/rɪˈzɪl.i.əns/",
+            "word_native_transliteration": {
+                "bn": "রেজিলিয়েন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌱",
+            "meaning": "The ability to recover quickly from difficulties; toughness and adaptability.",
+            "example_sentence": "His resilience helped him overcome failure.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ রেজিলিয়েন্স হেল্পড হিম ওভারকাম ফেইলিউর।"
+            },
+            "position": 4,
+            "synonyms": "toughness, endurance, adaptability, flexibility, recovery, strength",
+            "antonyms": "fragility, vulnerability, weakness, brittleness, instability, collapse",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্থিতিস্থাপকতা, সহনশীলতা, পুনরুদ্ধারের ক্ষমতা",
+                    "word_transliteration": "sthitisthapokotha, shohonsheelota, punordudharer kkhomota",
+                    "example_sentence_translation": "তার স্থিতিস্থাপকতা তাকে ব্যর্থতা কাটিয়ে উঠতে সাহায্য করেছিল।",
+                    "example_sentence_transliteration": "Tar sthitisthapokotha take byorthota katiye uthte shahjyo korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "labyrinth",
+            "phonetic": "/ˈlæb.ə.rɪnθ/",
+            "word_native_transliteration": {
+                "bn": "ল্যাবিরিন্থ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌀",
+            "meaning": "A complicated network of paths or passages; an intricate and confusing arrangement.",
+            "example_sentence": "The city's streets were like a labyrinth.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সিটিজ স্ট্রিটস ওয়ার লাইক এ ল্যাবিরিন্থ।"
+            },
+            "position": 5,
+            "synonyms": "maze, complexity, network, tangle, web, puzzle",
+            "antonyms": "simplicity, order, straight path, clarity, organization, system",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গোলকধাঁধা, জটিল পথ, বিভ্রান্তিকর কাঠামো",
+                    "word_transliteration": "golokdhaadhaa, jotil poth, bibhrantikar kathaamo",
+                    "example_sentence_translation": "শহরের রাস্তা ছিল গোলকধাঁধার মতো।",
+                    "example_sentence_transliteration": "Shohorer rasta chhilo golokdhadhar moto.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "perilous",
+            "phonetic": "/ˈper.ɪ.ləs/",
+            "word_native_transliteration": {
+                "bn": "পেরিলাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚠️",
+            "meaning": "Full of danger or risk; hazardous and threatening.",
+            "example_sentence": "The explorers took a perilous journey.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এক্সপ্লোরারস টুক এ পেরিলাস জার্নি।"
+            },
+            "position": 6,
+            "synonyms": "dangerous, risky, hazardous, unsafe, treacherous, precarious",
+            "antonyms": "safe, secure, protected, harmless, stable, certain",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিপজ্জনক, ঝুঁকিপূর্ণ, অনিরাপদ",
+                    "word_transliteration": "bipojjonok, jhunkipurno, oniraapod",
+                    "example_sentence_translation": "গবেষকরা বিপজ্জনক যাত্রা গ্রহণ করেছিলেন।",
+                    "example_sentence_transliteration": "Gobeshokora bipojjonok jatra grohon korechhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "instinctive",
+            "phonetic": "/ɪnˈstɪŋk.tɪv/",
+            "word_native_transliteration": {
+                "bn": "ইনস্টিংকটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧠",
+            "meaning": "Based on instinct; done without conscious thought; natural and automatic.",
+            "example_sentence": "His instinctive reaction saved his life.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ইনস্টিংকটিভ রিঅ্যাকশন সেভড হিজ লাইফ।"
+            },
+            "position": 7,
+            "synonyms": "intuitive, inborn, natural, automatic, spontaneous, innate",
+            "antonyms": "learned, acquired, conscious, deliberate, planned, thought-out",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বভাবসুলভ, সহজাত, অন্তর্নিহিত",
+                    "word_transliteration": "shobhaboshulbho, shohjat, ontornihito",
+                    "example_sentence_translation": "তার স্বভাবসুলভ প্রতিক্রিয়া তার জীবন বাঁচিয়েছিল।",
+                    "example_sentence_transliteration": "Tar shobhaboshulbho protikriya tar jibton bachiyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "blunder",
+            "phonetic": "/ˈblʌn.dər/",
+            "word_native_transliteration": {
+                "bn": "ব্লান্ডার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤦",
+            "meaning": "A stupid or careless mistake; a serious error in judgment.",
+            "example_sentence": "His blunder cost the company a fortune.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ব্লান্ডার কস্ট দ্য কোম্পানি এ ফর্চুন।"
+            },
+            "position": 8,
+            "synonyms": "mistake, error, fault, slip, oversight, gaffe",
+            "antonyms": "accuracy, perfection, success, precision, correctness, achievement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গুরুতর ভুল, অনিচ্ছাকৃত ত্রুটি, অসাবধানতা",
+                    "word_transliteration": "gurutor bhul, onichhakrith truti, oshabdhanotaa",
+                    "example_sentence_translation": "তার গুরুতর ভুল কোম্পানির বিশাল ক্ষতি করেছিল।",
+                    "example_sentence_transliteration": "Tar gurutor bhul kompanir bishal khoti korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pristine",
+            "phonetic": "/ˈprɪs.tiːn/",
+            "word_native_transliteration": {
+                "bn": "প্রিস্টিন"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "✨",
+            "meaning": "In its original condition; unspoiled, clean, and fresh.",
+            "example_sentence": "The forest remains in a pristine condition.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফরেস্ট রিমেইনস ইন এ প্রিস্টিন কন্ডিশন।"
+            },
+            "position": 9,
+            "synonyms": "untouched, pure, immaculate, unspoiled, perfect, original",
+            "antonyms": "contaminated, polluted, damaged, spoiled, dirty, corrupted",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অপূর্ণ, অক্ষত, কুমারী অবস্থা",
+                    "word_transliteration": "opurno, okkhoto, kumari obostha",
+                    "example_sentence_translation": "বনের অবস্থা এখনও অপূর্ণ রয়েছে।",
+                    "example_sentence_transliteration": "Boner obostha ekhono opurno royeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "tenacity",
+            "phonetic": "/tɪˈnæs.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "টেনাসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔒",
+            "meaning": "The quality of being determined; persistence and firmness of purpose.",
+            "example_sentence": "His tenacity led him to success.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ টেনাসিটি লেড হিম টু সাকসেস।"
+            },
+            "position": 10,
+            "synonyms": "perseverance, persistence, determination, resolve, steadfastness, dedication",
+            "antonyms": "weakness, hesitation, surrender, abandonment, giving up, quitting",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দৃঢ়তা, লেগে থাকা, অপরাজেয়তা",
+                    "word_transliteration": "dridhota, lege thaka, oporajeyota",
+                    "example_sentence_translation": "তার দৃঢ়তা তাকে সফলতার দিকে নিয়ে গেছে।",
+                    "example_sentence_transliteration": "Tar dridhota take shofolotar dike niye geche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "archetype",
+            "phonetic": "/ˈɑː.kɪ.taɪp/",
+            "word_native_transliteration": {
+                "bn": "আর্কিটাইপ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎭",
+            "meaning": "A very typical example of a certain person or thing; an original model or prototype.",
+            "example_sentence": "This painting is the archetype of modern art.",
+            "example_sentence_native_transliteration": {
+                "bn": "দিস পেইন্টিং ইজ দ্য আর্কিটাইপ অব মডার্ন আর্ট।"
+            },
+            "position": 11,
+            "synonyms": "prototype, model, pattern, exemplar, standard, template",
+            "antonyms": "atypical, uncommon, deviation, exception, anomaly, irregularity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মূল আদর্শ, প্রোটোটাইপ, প্রকৃত রূপ",
+                    "word_transliteration": "mul aadorsho, prototoaip, prokrito rup",
+                    "example_sentence_translation": "এই চিত্রটি আধুনিক শিল্পের মূল আদর্শ।",
+                    "example_sentence_transliteration": "Ei chitrati adhunik shilper mul aadorsho.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dauntless",
+            "phonetic": "/ˈdɔːnt.ləs/",
+            "word_native_transliteration": {
+                "bn": "ডন্টলেস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🦁",
+            "meaning": "Showing fearlessness and determination; brave and resolute.",
+            "example_sentence": "The dauntless soldier fought against all odds.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডন্টলেস সোল্জার ফট অ্যাগেইনস্ট অল অডস।"
+            },
+            "position": 12,
+            "synonyms": "fearless, brave, courageous, bold, intrepid, valiant",
+            "antonyms": "timid, cowardly, fearful, hesitant, afraid, intimidated",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নির্ভীক, সাহসী, অপ্রতিরোধ্য",
+                    "word_transliteration": "nirbhik, shahoshi, oprotirodho",
+                    "example_sentence_translation": "নির্ভীক সৈনিক সমস্ত প্রতিকূলতার বিরুদ্ধে লড়াই করেছিল।",
+                    "example_sentence_transliteration": "Nirbhik shoinik shomosto protikulator biruddhe lorai korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "apex",
+            "phonetic": "/ˈeɪ.peks/",
+            "word_native_transliteration": {
+                "bn": "এপেক্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⛰️",
+            "meaning": "The highest point or peak of something; the top or summit.",
+            "example_sentence": "He reached the apex of his career.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি রিচড দ্য এপেক্স অব হিজ ক্যারিয়ার।"
+            },
+            "position": 13,
+            "synonyms": "pinnacle, summit, peak, top, height, climax",
+            "antonyms": "base, bottom, foundation, lowest point, nadir, depths",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চূড়া, শীর্ষবিন্দু, সর্বোচ্চ বিন্দু",
+                    "word_transliteration": "chura, shirshobindu, shorbochchho bindu",
+                    "example_sentence_translation": "তিনি তার কর্মজীবনের শীর্ষবিন্দুতে পৌঁছেছেন।",
+                    "example_sentence_transliteration": "Tini tar kormojiboner shirshobindute pouchecchen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dexterity",
+            "phonetic": "/dekˈster.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "ডেক্সটেরিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "Skill in performing tasks, especially with the hands; mental skill or quickness.",
+            "example_sentence": "His dexterity with the violin amazed everyone.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ডেক্সটেরিটি উইথ দ্য ভায়োলিন অ্যামেজড এভরিওয়ান।"
+            },
+            "position": 14,
+            "synonyms": "agility, skill, adroitness, expertise, proficiency, finesse",
+            "antonyms": "clumsiness, incompetence, awkwardness, ineptitude, inability, unskillfulness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষতা, নিপুণতা, চাতুর্য",
+                    "word_transliteration": "dokkhota, nipunota, chaturjo",
+                    "example_sentence_translation": "ভায়োলিন বাজানোর তার দক্ষতা সবাইকে বিস্মিত করেছিল।",
+                    "example_sentence_transliteration": "Bhayolin bajanor tar dokkhota shobaike bismito korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "nomadic",
+            "phonetic": "/nəʊˈmæd.ɪk/",
+            "word_native_transliteration": {
+                "bn": "নোমাডিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🏕️",
+            "meaning": "Living the life of a nomad; wandering from place to place without a fixed home.",
+            "example_sentence": "The tribe led a nomadic lifestyle.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ট্রাইব লেড এ নোমাডিক লাইফস্টাইল।"
+            },
+            "position": 15,
+            "synonyms": "wandering, roaming, itinerant, migratory, traveling, mobile",
+            "antonyms": "settled, stationary, fixed, permanent, established, rooted",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "যাযাবর, ভবঘুরে, নির্দিষ্ট ঠিকানাহীন",
+                    "word_transliteration": "jajabor, bhobghure, nirdishto thikanahhin",
+                    "example_sentence_translation": "গোষ্ঠীটি যাযাবর জীবনযাপন করত।",
+                    "example_sentence_transliteration": "Goshtiti jajabor jibonjapon koroto.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

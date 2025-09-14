@@ -1,0 +1,445 @@
+{
+    "position": 159,
+    "title_translation": {
+        "en": "Mysterious Object Racing Through the Milky Way",
+        "bn": "Mysterious Object Racing Through the Milky Way"
+    },
+    "content_translation": {
+        "en": "Last night's sky suddenly revealed an **astounding** sight. According to space researchers, it was a **celestial** object racing through space at **interstellar** speeds.\n\nHowever, the object was so **cryptic** that no one could definitively say what it was. Some called it a **chimerical** entity, while others claimed it was a **hypothetical** spacecraft.\n\nWhen the object approached the sun, it suddenly began displaying **evasive** maneuvers. Although scientists tried to **extrapolate** its trajectory, the object soon vanished into **oblivion**.\n\nWas this merely an **illusory** event, or has a new mystery been unveiled before human civilization? No one knows. However, it's certain that this will remain a **quintessence** for future research.",
+        "bn": "রাতের আকাশে হঠাৎই এক **astounding** দৃশ্য দেখা গেল। মহাকাশ গবেষকদের মতে, এটি ছিল এক **celestial** বস্তু, যা **interstellar** গতিতে ছুটে চলছিল।\n\nতবে বস্তুটি ছিল এতটাই **cryptic** যে কেউই নিশ্চিতভাবে বলতে পারছিল না এটি কী। কেউ বলছিল, এটি কোনো **chimerical** জিনিস, আবার কেউ একে **hypothetical** মহাজাগতিক যান বলে দাবি করছিল।\n\nযখন বস্তুটি সূর্যের কাছাকাছি পৌঁছাল, তখন এটি আচমকা **evasive** গতিবিধি দেখাতে শুরু করল। বিজ্ঞানীরা তার গতিপথ **extrapolate** করার চেষ্টা করলেও, বস্তুটি অল্প সময়ের মধ্যেই **oblivion**-এ হারিয়ে গেল।\n\nএটি কি কেবল এক **illusory** ঘটনা ছিল, নাকি মানব সভ্যতার সামনে এক নতুন রহস্যের দ্বার উন্মোচিত হলো? কেউই জানে না। তবে একথা নিশ্চিত যে, এটি ভবিষ্যৎ গবেষণার জন্য এক **quintessence** হয়ে থাকবে।"
+    },
+    "list": [
+        {
+            "word": "aberration",
+            "phonetic": "ˌæb.əˈreɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "অ্যাবারেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚠️",
+            "meaning": "A departure from what is normal, usual, or expected, typically one that is unwelcome.",
+            "example_sentence": "The scientist dismissed the data as an aberration.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সায়েন্টিস্ট ডিসমিসড দ্য ডেটা অ্যাজ অ্যান অ্যাবারেশন।"
+            },
+            "position": 1,
+            "synonyms": "deviation, anomaly, irregularity, divergence, departure, variation",
+            "antonyms": "normality, conformity, regularity, standard, norm, typical",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিচ্যুতি, ব্যতিক্রম, অস্বাভাবিকতা",
+                    "word_transliteration": "bichyuti, byatikrom, oshabhabikota",
+                    "example_sentence_translation": "বিজ্ঞানী তথ্যটিকে একটি বিচ্যুতি হিসেবে খারিজ করলেন।",
+                    "example_sentence_transliteration": "Biggani tothyotike ekti bichyuti hishebe kharij korlen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ambiguous",
+            "phonetic": "æmˈbɪɡ.ju.əs",
+            "word_native_transliteration": {
+                "bn": "অ্যামবিগুয়াস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🤔",
+            "meaning": "Open to more than one interpretation; having a double meaning.",
+            "example_sentence": "His ambiguous statement confused everyone.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ অ্যামবিগুয়াস স্টেটমেন্ট কনফিউজড এভরিওয়ান।"
+            },
+            "position": 2,
+            "synonyms": "vague, unclear, equivocal, indefinite, imprecise, obscure",
+            "antonyms": "clear, definite, unambiguous, precise, explicit, obvious",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্ব্যর্থক, অস্পষ্ট, অনির্দিষ্ট",
+                    "word_transliteration": "dbyorthok, osposhto, onirdishto",
+                    "example_sentence_translation": "তার দ্ব্যর্থক বক্তব্য সবাইকে বিভ্রান্ত করল।",
+                    "example_sentence_transliteration": "Tar dbyorthok boktobyo sobaike bibhranto korol.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "astounding",
+            "phonetic": "əˈstaʊn.dɪŋ",
+            "word_native_transliteration": {
+                "bn": "অ্যাস্টাউন্ডিং"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "😲",
+            "meaning": "Surprisingly impressive or notable; causing shock or surprise.",
+            "example_sentence": "The magician's astounding tricks left the audience speechless.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ম্যাজিশিয়ানস অ্যাস্টাউন্ডিং ট্রিকস লেফট দ্য অডিয়েন্স স্পিচলেস।"
+            },
+            "position": 3,
+            "synonyms": "amazing, staggering, astonishing, remarkable, incredible, stunning",
+            "antonyms": "ordinary, unimpressive, mundane, common, typical, unremarkable",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিস্ময়কর, চমকপ্রদ, অভাবনীয়",
+                    "word_transliteration": "bismoykoro, chomokprodo, obhaboniyo",
+                    "example_sentence_translation": "যাদুকরের বিস্ময়কর কৌশল দর্শকদের নির্বাক করে দিয়েছিল।",
+                    "example_sentence_transliteration": "Jadukorer bismoykoro koushol dorshokoder nirbak kore diyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "celestial",
+            "phonetic": "sɪˈles.ti.əl",
+            "word_native_transliteration": {
+                "bn": "সেলেস্টিয়াল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌟",
+            "meaning": "Positioned in or relating to the sky, or outer space as observed in astronomy.",
+            "example_sentence": "The telescope revealed celestial wonders.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য টেলিস্কোপ রিভিলড সেলেস্টিয়াল ওয়ান্ডার্স।"
+            },
+            "position": 4,
+            "synonyms": "heavenly, astral, stellar, cosmic, divine, ethereal",
+            "antonyms": "terrestrial, earthly, mundane, worldly, material, physical",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আকাশীয়, স্বর্গীয়, জ্যোতির্বৈজ্ঞানিক",
+                    "word_transliteration": "akashiyo, shorgiyo, jyotirboigganik",
+                    "example_sentence_translation": "দূরদর্শী যন্ত্র আকাশীয় বিস্ময় প্রকাশ করল।",
+                    "example_sentence_transliteration": "Durorsho jontro akashiyo bismoyo prokash korlo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "chimerical",
+            "phonetic": "kaɪˈmɛr.ɪ.kəl",
+            "word_native_transliteration": {
+                "bn": "কাইমেরিকাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🦄",
+            "meaning": "Illusory or impossible to achieve; existing only in imagination.",
+            "example_sentence": "His chimerical ideas often baffled realists.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ কাইমেরিকাল আইডিয়াজ অফটেন ব্যাফেলড রিয়ালিস্টস।"
+            },
+            "position": 5,
+            "synonyms": "fanciful, unrealistic, imaginary, illusory, fantastic, utopian",
+            "antonyms": "practical, realistic, achievable, feasible, concrete, tangible",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কাল্পনিক, অবাস্তব, অলীক",
+                    "word_transliteration": "kalponik, obashtobo, olik",
+                    "example_sentence_translation": "তার কাল্পনিক ধারণাগুলি বাস্তববাদীদের প্রায়শই বিভ্রান্ত করত।",
+                    "example_sentence_transliteration": "Tar kalponik dharonaguli bastobbadioder prayoshoi bibhranto koroto.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "collide",
+            "phonetic": "kəˈlaɪd",
+            "word_native_transliteration": {
+                "bn": "কোলাইড"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "💥",
+            "meaning": "Hit with force when moving; come into conflict or opposition.",
+            "example_sentence": "The two cars collided at the intersection.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য টু কার্স কোলাইডেড অ্যাট দ্য ইন্টারসেকশন।"
+            },
+            "position": 6,
+            "synonyms": "crash, bump, strike, impact, smash, clash",
+            "antonyms": "avoid, miss, dodge, evade, bypass, sidestep",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংঘর্ষ, ধাক্কা খাওয়া, পরস্পর আঘাত করা",
+                    "word_transliteration": "songhorsho, dhakka khaowa, porospor aghato kora",
+                    "example_sentence_translation": "দুটি গাড়ি সংযোগস্থলে সংঘর্ষে লিপ্ত হয়েছিল।",
+                    "example_sentence_transliteration": "Duti gari songjogosthle songhorshe lipto hoyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cryptic",
+            "phonetic": "ˈkrɪp.tɪk",
+            "word_native_transliteration": {
+                "bn": "ক্রিপটিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔍",
+            "meaning": "Having a meaning that is mysterious or obscure; difficult to understand.",
+            "example_sentence": "The message was cryptic and hard to decipher.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য মেসেজ ওয়াজ ক্রিপটিক অ্যান্ড হার্ড টু ডিসাইফার।"
+            },
+            "position": 7,
+            "synonyms": "mysterious, enigmatic, obscure, puzzling, ambiguous, coded",
+            "antonyms": "obvious, straightforward, clear, explicit, transparent, plain",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রহস্যময়, দুর্বোধ্য, অস্পষ্ট",
+                    "word_transliteration": "rohossomoy, durbodhyo, osposhto",
+                    "example_sentence_translation": "বার্তাটি রহস্যময় এবং বোঝা কঠিন ছিল।",
+                    "example_sentence_transliteration": "Bartati rohossomoy ebong bojha kothin chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "disparate",
+            "phonetic": "ˈdɪs.pər.ət",
+            "word_native_transliteration": {
+                "bn": "ডিসপারেট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚖️",
+            "meaning": "Essentially different in kind; not allowing comparison.",
+            "example_sentence": "The two cultures are completely disparate.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য টু কালচার্স আর কমপ্লিটলি ডিসপারেট।"
+            },
+            "position": 8,
+            "synonyms": "different, distinct, dissimilar, contrasting, diverse, unrelated",
+            "antonyms": "similar, identical, alike, comparable, uniform, homogeneous",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অসদৃশ, বিপরীত, একে অপরের থেকে পৃথক",
+                    "word_transliteration": "oshondrisho, biporito, eke oporer theke prithok",
+                    "example_sentence_translation": "দুটি সংস্কৃতি সম্পূর্ণ ভিন্ন।",
+                    "example_sentence_transliteration": "Duti shongskrti shompurno bhinno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ethereal",
+            "phonetic": "ɪˈθɪə.ri.əl",
+            "word_native_transliteration": {
+                "bn": "ইথেরিয়াল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "👻",
+            "meaning": "Extremely delicate and light in a way that seems too perfect for this world.",
+            "example_sentence": "Her voice had an ethereal quality.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার ভয়েস হ্যাড অ্যান ইথেরিয়াল কোয়ালিটি।"
+            },
+            "position": 9,
+            "synonyms": "delicate, airy, heavenly, ghostly, spiritual, otherworldly",
+            "antonyms": "earthly, materialistic, physical, tangible, solid, concrete",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বর্গীয়, সূক্ষ্ম, অতিলৌকিক",
+                    "word_transliteration": "shorgiyo, shukkhmo, otilokik",
+                    "example_sentence_translation": "তার কণ্ঠে স্বর্গীয় গুণ ছিল।",
+                    "example_sentence_transliteration": "Tar konthe shorgiyo gun chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "evasive",
+            "phonetic": "ɪˈveɪ.sɪv",
+            "word_native_transliteration": {
+                "bn": "ইভেসিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🤷",
+            "meaning": "Tending to avoid commitment or self-revelation, especially by responding only indirectly.",
+            "example_sentence": "He gave an evasive answer to avoid trouble.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি গেভ অ্যান ইভেসিভ অ্যান্সার টু অ্যাভয়েড ট্রাবল।"
+            },
+            "position": 10,
+            "synonyms": "elusive, deceptive, indirect, shifty, slippery, vague",
+            "antonyms": "direct, honest, straightforward, frank, candid, open",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "এড়ানো, কৌশলী, অস্পষ্ট",
+                    "word_transliteration": "erano, kousholi, osposhto",
+                    "example_sentence_translation": "তিনি সমস্যা এড়াতে একটি কৌশলী উত্তর দিলেন।",
+                    "example_sentence_transliteration": "Tini shomoshya erate ekti kousholi uttor dilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "extrapolate",
+            "phonetic": "ɪkˈstræp.ə.leɪt",
+            "word_native_transliteration": {
+                "bn": "এক্সট্রাপোলেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📊",
+            "meaning": "Extend the application of a method or conclusion to an unknown situation by assuming existing trends will continue.",
+            "example_sentence": "Scientists extrapolate future trends from data.",
+            "example_sentence_native_transliteration": {
+                "bn": "সায়েন্টিস্টস এক্সট্রাপোলেট ফিউচার ট্রেন্ডস ফ্রম ডেটা।"
+            },
+            "position": 11,
+            "synonyms": "infer, predict, project, deduce, conclude, estimate",
+            "antonyms": "misinterpret, confuse, distort, misunderstand, misconstrue, garble",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পূর্বাভাস দেওয়া, অনুমান করা, নির্ণয় করা",
+                    "word_transliteration": "purbabhas deowa, onuman kora, nirnoy kora",
+                    "example_sentence_translation": "বিজ্ঞানীরা ডেটা থেকে ভবিষ্যতের প্রবণতা অনুমান করেন।",
+                    "example_sentence_transliteration": "Bigganiradeta theke bhobishyoter probonota onuman koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "hypothetical",
+            "phonetic": "ˌhaɪ.pəˈθet.ɪ.kəl",
+            "word_native_transliteration": {
+                "bn": "হাইপোথেটিকাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🤨",
+            "meaning": "Based on or serving as a hypothesis; supposed but not necessarily real or true.",
+            "example_sentence": "The discussion was based on hypothetical scenarios.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডিসকাশন ওয়াজ বেসড অন হাইপোথেটিকাল সিনারিওজ।"
+            },
+            "position": 12,
+            "synonyms": "theoretical, speculative, conjectural, supposed, assumed, imaginary",
+            "antonyms": "factual, certain, actual, real, proven, definite",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কাল্পনিক, অনুমানভিত্তিক, পরীক্ষামূলক",
+                    "word_transliteration": "kalponik, onumanbiittik, porikkhhamulok",
+                    "example_sentence_translation": "আলোচনাটি অনুমানভিত্তিক পরিস্থিতির উপর নির্ভরশীল ছিল।",
+                    "example_sentence_transliteration": "Alochonati onumanbiittik poristhitir upor nirbhorshil chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "illusory",
+            "phonetic": "ɪˈluː.sər.i",
+            "word_native_transliteration": {
+                "bn": "ইলুসরি"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎭",
+            "meaning": "Based on illusion; not real although seeming to be.",
+            "example_sentence": "His sense of security was entirely illusory.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ সেন্স অফ সিকিউরিটি ওয়াজ এনটায়ার্লি ইলুসরি।"
+            },
+            "position": 13,
+            "synonyms": "deceptive, unreal, false, misleading, imaginary, fictitious",
+            "antonyms": "genuine, authentic, real, actual, true, factual",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিভ্রমমূলক, প্রতারণাপূর্ণ, অপ্রকৃত",
+                    "word_transliteration": "bibhrommuolk, protaronapoorno, oprokrito",
+                    "example_sentence_translation": "তার নিরাপত্তার অনুভূতি সম্পূর্ণ বিভ্রমমূলক ছিল।",
+                    "example_sentence_transliteration": "Tar nirapottar onubhuti shompurno bibhrommuolk chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "interstellar",
+            "phonetic": "ˌɪn.təˈstel.ər",
+            "word_native_transliteration": {
+                "bn": "ইন্টারস্টেলার"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌌",
+            "meaning": "Occurring or situated between stars.",
+            "example_sentence": "Scientists study interstellar travel possibilities.",
+            "example_sentence_native_transliteration": {
+                "bn": "সায়েন্টিস্টস স্টাডি ইন্টারস্টেলার ট্রাভেল পসিবিলিটিজ।"
+            },
+            "position": 14,
+            "synonyms": "cosmic, galactic, space-related, astronomical, celestial, stellar",
+            "antonyms": "terrestrial, local, earthly, planetary, regional, domestic",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নক্ষত্রপুঞ্জের মধ্যে, আন্তঃনাক্ষত্রিক, মহাকাশীয়",
+                    "word_transliteration": "nokkhotropunjer modhye, antohnaakhatrik, mohakashiyo",
+                    "example_sentence_translation": "বিজ্ঞানীরা আন্তঃনাক্ষত্রিক ভ্রমণের সম্ভাবনা নিয়ে গবেষণা করেন।",
+                    "example_sentence_transliteration": "Bigganiradenta:nakhatrik bhromoner shombhabona niye gobeshona koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "oblivion",
+            "phonetic": "əˈblɪv.i.ən",
+            "word_native_transliteration": {
+                "bn": "ওব্লিভিয়ন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🕳️",
+            "meaning": "The state of being unaware or unconscious of what is happening; complete forgetfulness.",
+            "example_sentence": "His name faded into oblivion over time.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ নেম ফেডেড ইনটু ওব্লিভিয়ন ওভার টাইম।"
+            },
+            "position": 15,
+            "synonyms": "forgetfulness, neglect, unconsciousness, obscurity, void, nothingness",
+            "antonyms": "awareness, recognition, remembrance, consciousness, fame, prominence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিস্মৃতি, ধ্বংস, অদৃশ্যতা",
+                    "word_transliteration": "bishriti, dhongso, odrishyota",
+                    "example_sentence_translation": "তার নাম সময়ের সাথে সাথে বিস্মৃতিতে হারিয়ে গেল।",
+                    "example_sentence_transliteration": "Tar nam shomeyer shathe shathe bishritite hariye gelo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "opaque",
+            "phonetic": "əʊˈpeɪk",
+            "word_native_transliteration": {
+                "bn": "ওপ্যাক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌫️",
+            "meaning": "Not able to be seen through; not transparent; difficult to understand.",
+            "example_sentence": "The glass was too opaque to see through.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গ্লাস ওয়াজ টু ওপ্যাক টু সি থ্রু।"
+            },
+            "position": 16,
+            "synonyms": "cloudy, impenetrable, non-transparent, murky, obscure, unclear",
+            "antonyms": "transparent, clear, translucent, see-through, obvious, comprehensible",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অস্বচ্ছ, অস্পষ্ট, দুর্বোধ্য",
+                    "word_transliteration": "oshbochcho, osposhto, durbodhyo",
+                    "example_sentence_translation": "কাঁচটি এত অস্বচ্ছ ছিল যে এর মধ্য দিয়ে দেখা যাচ্ছিল না।",
+                    "example_sentence_transliteration": "Kanchti eto oshbochcho chhilo je er modhyo diye dekha jacchhilo na.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

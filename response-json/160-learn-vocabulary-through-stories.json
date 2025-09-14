@@ -1,0 +1,526 @@
+{
+    "position": 160,
+    "title_translation": {
+        "en": "Nonverbal Cues and Their Importance",
+        "bn": "অবাক ভাষিক সংকেত এবং তাদের গুরুত্ব"
+    },
+    "content_translation": {
+        "en": "**Communication** is not limited to spoken words alone; **nonverbal cues** are often more effective in many contexts. Our **gesticulations**, **intonation**, and **proxemics** reveal our **subtext** to others, which is often more meaningful than words themselves.\n\nIn an **auspicious** meeting, if someone's demeanor expresses **ambivalence**, it may require **discernment** from the speaker. Without **congruence**, meaning is lost, and **connotation** can change.\n\nOften **imperceptible** gestures carry deep **nuance**. If someone changes their **inflection** while speaking, their mental state changes can be understood.\n\nCorrect **tacit** language and **bolstered** **resonance** can be helpful in any discussion. We should be **efficacious** and conscious so that **metamorphosis** is created in positive communication.",
+        "bn": "যোগাযোগ কেবল শব্দের মধ্যেই সীমাবদ্ধ নয়, **nonverbal cues** অনেক ক্ষেত্রেই বেশি কার্যকর। আমাদের **gesticulations**, **intonation**, এবং **proxemics** অন্যদের প্রতি আমাদের **subtext** প্রকাশ করে, যা অনেক সময় শব্দের চেয়ে বেশি অর্থবহ হয়।\n\nএকটি **auspicious** মিটিংয়ে, যদি কারও দৃষ্টিভঙ্গি **ambivalence** প্রকাশ করে, তবে সেটি বক্তার **discernment** প্রয়োজন হতে পারে। **Congruence** না থাকলে, অর্থ হারিয়ে যায়, এবং **connotation** পরিবর্তিত হতে পারে।\n\nঅনেক সময় **imperceptible** অঙ্গভঙ্গিও গভীর **nuance** বহন করে। কেউ যদি কথা বলার সময় **inflection** পরিবর্তন করে, তাহলে তার মনের অবস্থার পরিবর্তন বোঝা যায়।\n\nসঠিক **tacit** ভাষা এবং **bolster** করা **resonance** সহায়ক হতে পারে কোনো আলোচনায়। আমাদের **efficacious** এবং সচেতন থাকা উচিত, যাতে **metamorphosis** তৈরি হয় ইতিবাচক যোগাযোগে।"
+    },
+    "list": [
+        {
+            "word": "nonverbal",
+            "phonetic": "ˌnɒnˈvɜːr.bəl",
+            "word_native_transliteration": {
+                "bn": "নন-ভার্বাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🤐",
+            "meaning": "Communication using body language, facial expressions, or gestures instead of words",
+            "example_sentence": "Nonverbal cues play a crucial role in effective communication.",
+            "example_sentence_native_transliteration": {
+                "bn": "নন-ভার্বাল কিউস প্লে এ ক্রুশিয়াল রোল ইন ইফেক্টিভ কমিউনিকেশন।"
+            },
+            "position": 1,
+            "synonyms": "silent communication, body language, gesture-based",
+            "antonyms": "verbal, spoken, expressed in words",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অবাক ভাষিক",
+                    "word_transliteration": "obak bhashik",
+                    "example_sentence_translation": "অবাক ভাষিক সংকেত কার্যকর যোগাযোগে গুরুত্বপূর্ণ ভূমিকা রাখে।",
+                    "example_sentence_transliteration": "Obak bhashik songket karjokor jogatoge gurutbopurno bhumika rakhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cues",
+            "phonetic": "kjuːz",
+            "word_native_transliteration": {
+                "bn": "কিউজ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔍",
+            "meaning": "Signals or hints from conversation or environment that help understanding",
+            "example_sentence": "Facial expressions provide cues about a person's emotions.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফেসিয়াল এক্সপ্রেশন প্রোভাইড কিউজ অ্যাবাউট এ পারসনস ইমোশনস।"
+            },
+            "position": 2,
+            "synonyms": "signals, hints, clues",
+            "antonyms": "miscommunication, ambiguity, unawareness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংকেত",
+                    "word_transliteration": "songket",
+                    "example_sentence_translation": "মুখাভিনয় মানুষের আবেগ সম্পর্কে সংকেত প্রদান করে।",
+                    "example_sentence_transliteration": "Mukhabhinoy manusher abeg somporke songket prodan kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "gesticulations",
+            "phonetic": "dʒɛsˌtɪk.jʊˈleɪ.ʃənz",
+            "word_native_transliteration": {
+                "bn": "জেস্টিকুলেশনস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🙋",
+            "meaning": "Expressive hand or body movements while speaking to convey thoughts or emotions",
+            "example_sentence": "His energetic gesticulations made the speech more engaging.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ এনারজেটিক জেস্টিকুলেশনস মেড দ্য স্পিচ মোর এনগেজিং।"
+            },
+            "position": 3,
+            "synonyms": "hand movements, signals, expressive gestures",
+            "antonyms": "stillness, inactivity, stiffness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অঙ্গভঙ্গি",
+                    "word_transliteration": "ongobhongi",
+                    "example_sentence_translation": "তার প্রাণবন্ত অঙ্গভঙ্গি বক্তৃতাকে আরও আকর্ষণীয় করে তুলেছিল।",
+                    "example_sentence_transliteration": "Tar pranobonto ongobhongi boktritake aro akorshoniyo kore tulechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "intonation",
+            "phonetic": "ˌɪn.toʊˈneɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ইনটোনেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎵",
+            "meaning": "The rise and fall of voice pitch when speaking that expresses meaning or emotion",
+            "example_sentence": "Proper intonation can make a speech more persuasive.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোপার ইনটোনেশন ক্যান মেক এ স্পিচ মোর পারসুয়েসিভ।"
+            },
+            "position": 4,
+            "synonyms": "pitch variation, modulation, tone",
+            "antonyms": "monotone, flatness, inexpressiveness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বরের ওঠানামা",
+                    "word_transliteration": "shorer othanama",
+                    "example_sentence_translation": "সঠিক স্বরের ওঠানামা বক্তৃতাকে আরও প্রভাবশালী করতে পারে।",
+                    "example_sentence_transliteration": "Shothik shorer othanama boktritake aro prabhavshali korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "proxemics",
+            "phonetic": "prɒkˈsiː.mɪks",
+            "word_native_transliteration": {
+                "bn": "প্রক্সেমিক্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📏",
+            "meaning": "The study of how people use space and distance to indicate relationships",
+            "example_sentence": "Understanding proxemics helps in improving interpersonal communication.",
+            "example_sentence_native_transliteration": {
+                "bn": "আন্ডারস্ট্যান্ডিং প্রক্সেমিক্স হেল্পস ইন ইমপ্রুভিং ইন্টারপারসোনাল কমিউনিকেশন।"
+            },
+            "position": 5,
+            "synonyms": "spatial awareness, social distance, physical space management",
+            "antonyms": "intrusion, disregard for space, closeness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ব্যক্তিগত স্থান ব্যবহারের বিজ্ঞান",
+                    "word_transliteration": "bektigoto sthan bebaharer bigyan",
+                    "example_sentence_translation": "ব্যক্তিগত স্থান ব্যবহারের বিজ্ঞান বোঝা আন্তঃব্যক্তিক যোগাযোগ উন্নত করতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Bektigoto sthan bebaharer bigyan bojha antohbektigoto jogatogo unnoto korte shahajjo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "subtext",
+            "phonetic": "ˈsʌb.tɛkst",
+            "word_native_transliteration": {
+                "bn": "সাবটেক্সট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔍",
+            "meaning": "Hidden meaning or message behind spoken or written words",
+            "example_sentence": "The subtext of his speech suggested disagreement.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সাবটেক্সট অফ হিজ স্পিচ সাজেস্টেড ডিজঅ্যাগ্রিমেন্ট।"
+            },
+            "position": 6,
+            "synonyms": "underlying meaning, implication, hidden message",
+            "antonyms": "explicit message, direct statement, surface meaning",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গোপন বার্তা",
+                    "word_transliteration": "gopon barta",
+                    "example_sentence_translation": "তার বক্তৃতার প্রচ্ছন্ন বার্তা অসম্মতির ইঙ্গিত দেয়।",
+                    "example_sentence_transliteration": "Tar boktritaar prochchhonno barta osommotir ingit dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "auspicious",
+            "phonetic": "ɔːˈspɪʃ.əs",
+            "word_native_transliteration": {
+                "bn": "অস্পিশাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🍀",
+            "meaning": "Favorable or bringing good luck and success",
+            "example_sentence": "The wedding was held on an auspicious day.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ওয়েডিং ওয়াজ হেল্ড অন অ্যান অস্পিশাস ডে।"
+            },
+            "position": 7,
+            "synonyms": "favorable, fortunate, propitious",
+            "antonyms": "unlucky, inauspicious, unfavorable",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শুভ",
+                    "word_transliteration": "shubho",
+                    "example_sentence_translation": "বিবাহটি একটি শুভ দিনে অনুষ্ঠিত হয়েছিল।",
+                    "example_sentence_transliteration": "Bibahoti ekti shubho dine onushthito hoyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ambivalence",
+            "phonetic": "æmˈbɪv.ə.ləns",
+            "word_native_transliteration": {
+                "bn": "অ্যাম্বিভ্যালেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤔",
+            "meaning": "Having conflicting feelings or thoughts about the same subject",
+            "example_sentence": "She felt ambivalence about moving to a new city.",
+            "example_sentence_native_transliteration": {
+                "bn": "শী ফেল্ট অ্যাম্বিভ্যালেন্স অ্যাবাউট মুভিং টু এ নিউ সিটি।"
+            },
+            "position": 8,
+            "synonyms": "uncertainty, indecisiveness, mixed feelings",
+            "antonyms": "certainty, clarity, determination",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্বিধা",
+                    "word_transliteration": "dwaidha",
+                    "example_sentence_translation": "নতুন শহরে স্থানান্তরিত হওয়া নিয়ে তিনি দ্বিধাগ্রস্ত ছিলেন।",
+                    "example_sentence_transliteration": "Notun shohore sthanantoroto howa niye tini dwidhagrosto chhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "discernment",
+            "phonetic": "dɪˈsɜːrn.mənt",
+            "word_native_transliteration": {
+                "bn": "ডিসার্নমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧐",
+            "meaning": "The ability to judge well and understand good from bad or analyze situations",
+            "example_sentence": "His discernment helped him make wise decisions.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ডিসার্নমেন্ট হেল্পড হিম মেক ওয়াইজ ডিসিশনস।"
+            },
+            "position": 9,
+            "synonyms": "insight, perception, judgement",
+            "antonyms": "ignorance, misjudgment, indiscretion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "তীক্ষ্ণ বিচারশক্তি",
+                    "word_transliteration": "tikshno bicharshokti",
+                    "example_sentence_translation": "তার অনুধাবন ক্ষমতা তাকে সুবিবেচিত সিদ্ধান্ত নিতে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Tar onudhhabon khomota take subibechito siddhanto nite shahajjo korechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "congruence",
+            "phonetic": "ˈkɒŋ.ɡru.əns",
+            "word_native_transliteration": {
+                "bn": "কংগ্রুয়েন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "Agreement or harmony between different elements or components",
+            "example_sentence": "There was a perfect congruence between his words and actions.",
+            "example_sentence_native_transliteration": {
+                "bn": "দেয়ার ওয়াজ এ পারফেক্ট কংগ্রুয়েন্স বিটুইন হিজ ওয়ার্ডস অ্যান্ড অ্যাকশনস।"
+            },
+            "position": 10,
+            "synonyms": "agreement, consistency, harmony",
+            "antonyms": "discrepancy, inconsistency, contradiction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সামঞ্জস্য",
+                    "word_transliteration": "shamanjoshyo",
+                    "example_sentence_translation": "তার কথাবার্তা ও কাজের মধ্যে সম্পূর্ণ সামঞ্জস্য ছিল।",
+                    "example_sentence_transliteration": "Tar kothabarta o kajer moddhe shompurno shamanjoshyo chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "connotation",
+            "phonetic": "ˌkɒn.əˈteɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "কনোটেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💭",
+            "meaning": "The implied or suggested meaning of a word beyond its literal definition",
+            "example_sentence": "The word 'home' has a warm connotation of comfort and family.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ওয়ার্ড হোম হ্যাজ এ ওয়ার্ম কনোটেশন অফ কমফর্ট অ্যান্ড ফ্যামিলি।"
+            },
+            "position": 11,
+            "synonyms": "implication, hidden meaning, subtext",
+            "antonyms": "denotation, explicit meaning, literal interpretation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অর্থের গূঢ় ভাব",
+                    "word_transliteration": "arther gudho bhab",
+                    "example_sentence_translation": "বাড়ি শব্দটির স্বস্তি ও পরিবারের সাথে যুক্ত একটি গূঢ় অর্থ রয়েছে।",
+                    "example_sentence_transliteration": "Bari shabdotir swosti o poribar er shathe jukto ekti gudho artho royechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "imperceptible",
+            "phonetic": "ˌɪm.pəˈsɛp.tɪ.bəl",
+            "word_native_transliteration": {
+                "bn": "ইমপারসেপটিবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "👻",
+            "meaning": "So subtle or gradual that it is difficult to notice or perceive",
+            "example_sentence": "The changes in his behavior were imperceptible at first.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য চেঞ্জেস ইন হিজ বিহেভিয়ার ওয়ার ইমপারসেপটিবল অ্যাট ফার্স্ট।"
+            },
+            "position": 12,
+            "synonyms": "subtle, undetectable, faint",
+            "antonyms": "noticeable, obvious, evident",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অলক্ষযোগ্য",
+                    "word_transliteration": "alokkhojoggo",
+                    "example_sentence_translation": "প্রথমে তার আচরণের পরিবর্তন অলক্ষযোগ্য ছিল।",
+                    "example_sentence_transliteration": "Prothome tar achoroner poriborton alokkhojoggo chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "nuance",
+            "phonetic": "ˈnuː.ɑːns",
+            "word_native_transliteration": {
+                "bn": "নুয়ান্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎨",
+            "meaning": "A subtle difference or distinction in understanding or expressing something",
+            "example_sentence": "Understanding the nuance of a foreign language takes time.",
+            "example_sentence_native_transliteration": {
+                "bn": "আন্ডারস্ট্যান্ডিং দ্য নুয়ান্স অফ এ ফরেন ল্যাঙ্গুয়েজ টেক্স টাইম।"
+            },
+            "position": 13,
+            "synonyms": "subtlety, shade, refinement",
+            "antonyms": "obviousness, simplicity, coarseness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সূক্ষ্ম পার্থক্য",
+                    "word_transliteration": "shukkhmo parthokko",
+                    "example_sentence_translation": "একটি বিদেশি ভাষার সূক্ষ্ম পার্থক্য বোঝা সময়সাপেক্ষ।",
+                    "example_sentence_transliteration": "Ekti bideshi bhashar shukkhmo parthokko bojha shomoyshapekho.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "inflection",
+            "phonetic": "ɪnˈflɛk.ʃən",
+            "word_native_transliteration": {
+                "bn": "ইনফ্লেকশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "A change in the pitch or tone of voice when speaking that expresses meaning or emotion",
+            "example_sentence": "Her voice had a gentle inflection when she spoke kindly.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার ভয়েস হ্যাড এ জেন্টল ইনফ্লেকশন হোয়েন শী স্পোক কাইন্ডলি।"
+            },
+            "position": 14,
+            "synonyms": "modulation, emphasis, intonation",
+            "antonyms": "monotony, flatness, uniformity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বর পরিবর্তন",
+                    "word_transliteration": "shor poriborton",
+                    "example_sentence_translation": "তিনি দয়ালু স্বরে কথা বলার সময় তার কণ্ঠে মৃদু স্বর পরিবর্তন ছিল।",
+                    "example_sentence_transliteration": "Tini doyalu shore kotha bolar shomoy tar konthe mridu shor poriborton chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "tacit",
+            "phonetic": "ˈtæs.ɪt",
+            "word_native_transliteration": {
+                "bn": "ট্যাসিট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🤫",
+            "meaning": "Understood or implied without being openly expressed or stated",
+            "example_sentence": "Their mutual understanding was based on tacit agreement.",
+            "example_sentence_native_transliteration": {
+                "bn": "দেয়ার মিউচুয়াল আন্ডারস্ট্যান্ডিং ওয়াজ বেসড অন ট্যাসিট অ্যাগ্রিমেন্ট।"
+            },
+            "position": 15,
+            "synonyms": "implicit, unspoken, understood",
+            "antonyms": "explicit, stated, expressed",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিঃশব্দ",
+                    "word_transliteration": "nihshabdo",
+                    "example_sentence_translation": "তাদের পারস্পরিক বোঝাপড়া প্রচ্ছন্ন সমঝোতার উপর ভিত্তি করে ছিল।",
+                    "example_sentence_transliteration": "Tader parsporic bojhapora prochchhonno shomjhotar upor bhitti kore chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "bolster",
+            "phonetic": "ˈboʊl.stər",
+            "word_native_transliteration": {
+                "bn": "বোলস্টার"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "💪",
+            "meaning": "To support, strengthen, or improve something",
+            "example_sentence": "Regular exercise bolsters both mental and physical health.",
+            "example_sentence_native_transliteration": {
+                "bn": "রেগুলার এক্সারসাইজ বোলস্টারস বোথ মেন্টাল অ্যান্ড ফিজিক্যাল হেলথ।"
+            },
+            "position": 16,
+            "synonyms": "support, reinforce, strengthen",
+            "antonyms": "weaken, undermine, discourage",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শক্তিশালী করা",
+                    "word_transliteration": "shoktishali kora",
+                    "example_sentence_translation": "নিয়মিত ব্যায়াম মানসিক ও শারীরিক স্বাস্থ্যকে শক্তিশালী করে।",
+                    "example_sentence_transliteration": "Niyomito byayam manoshik o shariri k swasthyoke shoktishali kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "resonance",
+            "phonetic": "ˈrɛz.ə.nəns",
+            "word_native_transliteration": {
+                "bn": "রেজোন্যান্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔊",
+            "meaning": "The quality of sound being deep and reverberating, or a lasting impact on feelings",
+            "example_sentence": "The speech had a deep resonance with the audience.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্পিচ হ্যাড এ ডিপ রেজোন্যান্স উইথ দ্য অডিয়েন্স।"
+            },
+            "position": 17,
+            "synonyms": "vibration, impact, relevance",
+            "antonyms": "dissonance, weakness, flatness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিধ্বনি",
+                    "word_transliteration": "protidhwani",
+                    "example_sentence_translation": "বক্তৃতাটি শ্রোতাদের মধ্যে গভীর প্রতিধ্বনি সৃষ্টি করেছিল।",
+                    "example_sentence_transliteration": "Boktritati shrotader moddhe gobhir protidhwani srishti korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "efficacious",
+            "phonetic": "ˌɛf.ɪˈkeɪ.ʃəs",
+            "word_native_transliteration": {
+                "bn": "এফিকেশাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "✅",
+            "meaning": "Successful in producing desired results; effective",
+            "example_sentence": "The new treatment proved to be highly efficacious.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিউ ট্রিটমেন্ট প্রুভড টু বি হাইলি এফিকেশাস।"
+            },
+            "position": 18,
+            "synonyms": "effective, productive, potent",
+            "antonyms": "ineffective, useless, inefficient",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কার্যকর",
+                    "word_transliteration": "karjokor",
+                    "example_sentence_translation": "নতুন চিকিৎসাটি অত্যন্ত কার্যকর বলে প্রমাণিত হয়েছে।",
+                    "example_sentence_transliteration": "Notun chikitsati otyonto karjokor bole promanito hoyechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "metamorphosis",
+            "phonetic": "ˌmɛt.əˈmɔːr.fə.sɪs",
+            "word_native_transliteration": {
+                "bn": "মেটামরফোসিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🦋",
+            "meaning": "A complete transformation or change in form, structure, or development",
+            "example_sentence": "The caterpillar undergoes metamorphosis to become a butterfly.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ক্যাটারপিলার আন্ডারগোস মেটামরফোসিস টু বিকাম এ বাটারফ্লাই।"
+            },
+            "position": 19,
+            "synonyms": "transformation, evolution, change",
+            "antonyms": "stagnation, stability, consistency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রূপান্তর",
+                    "word_transliteration": "rupantor",
+                    "example_sentence_translation": "শুঁয়োপোকা প্রজাপতিতে পরিণত হতে রূপান্তরের মধ্য দিয়ে যায়।",
+                    "example_sentence_transliteration": "Shunyopoka projapotite porinoto hote rupantorer moddho diye jay.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

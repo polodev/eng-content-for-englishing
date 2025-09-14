@@ -1,0 +1,526 @@
+{
+    "position": 158,
+    "title_translation": {
+        "en": "Mindset: The New Psychology",
+        "bn": "Mindset: The New Psychology"
+    },
+    "content_translation": {
+        "en": "Mental transformation acts as a **catalyst** for change in our lives. Science has proven that **neuroplasticity** enables our brain to change, through which we can change the **paradigm** of our thinking. Many people remain trapped in **dogmatic** beliefs, which create obstacles to their progress. However, through **introspection** and **metacognition**, we can understand our **propensity** and change our thinking patterns.\n\nTo build a positive **mindset**, we need to have **perseverance** and **tenacity**. This is not just a change in thinking, but also affects our **cerebral** development.\n\nWhen we face a **conundrum**, we need to **scrutinize** our situation with **fortitude**. This creates **epiphany**, which makes our brain's **synaptic** connections more effective.\n\nThrough proper **ideation** and **disseminating** knowledge, we can create an **indelible** mentality that brings lasting change in life.",
+        "bn": "মানসিকতার পরিবর্তন আমাদের জীবনের **catalyst** হিসেবে কাজ করে। বিজ্ঞান প্রমাণ করেছে যে **neuroplasticity** আমাদের মস্তিষ্ককে পরিবর্তন করতে সক্ষম, যার মাধ্যমে আমরা আমাদের চিন্তাধারার **paradigm** পরিবর্তন করতে পারি। অনেক মানুষ **dogmatic** বিশ্বাসের মধ্যে আটকে থাকে, যা তাদের উন্নতির পথে বাধা সৃষ্টি করে। কিন্তু **introspection** এবং **metacognition** এর মাধ্যমে, আমরা নিজেদের **propensity** বুঝতে পারি এবং চিন্তার ধরন পরিবর্তন করতে পারি।\n\nএকটি ইতিবাচক **mindset** গড়ে তুলতে হলে আমাদের **perseverance** এবং **tenacity** থাকতে হবে। এটি শুধুমাত্র চিন্তাভাবনার পরিবর্তন নয়, বরং আমাদের **cerebral** বিকাশকেও প্রভাবিত করে।\n\nযখন আমরা **conundrum**-এর মুখোমুখি হই, তখন **fortitude** দেখিয়ে আমাদের পরিস্থিতি **scrutinize** করতে হয়। এভাবেই **epiphany** তৈরি হয়, যা আমাদের মস্তিষ্কের **synaptic** সংযোগকে আরও কার্যকর করে।\n\nসঠিক **ideation** এবং জ্ঞান **disseminate** করার মাধ্যমে আমরা একটি **indelible** মানসিকতা তৈরি করতে পারি, যা জীবনে স্থায়ী পরিবর্তন আনে।"
+    },
+    "list": [
+        {
+            "word": "catalyst",
+            "phonetic": "ˈkæt.ə.lɪst",
+            "word_native_transliteration": {
+                "bn": "ক্যাটালিস্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "Something that precipitates an event or change; a substance that increases the rate of a chemical reaction without itself undergoing any permanent chemical change.",
+            "example_sentence": "The new policy acted as a catalyst for economic growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিউ পলিসি অ্যাক্টেড অ্যাজ এ ক্যাটালিস্ট ফর ইকোনমিক গ্রোথ।"
+            },
+            "position": 1,
+            "synonyms": "Stimulus, Accelerator, Motivator",
+            "antonyms": "Hindrance, Obstacle, Deterrent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রেরক বা উত্তেজক",
+                    "word_transliteration": "prerok ba uttejok",
+                    "example_sentence_translation": "নতুন নীতিটি অর্থনৈতিক প্রবৃদ্ধির জন্য একটি প্রেরক হিসেবে কাজ করেছে।",
+                    "example_sentence_transliteration": "Notun nititi orthonaitik probriddhir jonno ekti prerok hisebe kaj koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "neuroplasticity",
+            "phonetic": "ˌnjʊə.rəʊ.plæˈstɪs.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "নিউরোপ্লাস্টিসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧠",
+            "meaning": "The ability of the brain to form and reorganize synaptic connections, especially in response to learning or experience or following injury.",
+            "example_sentence": "Neuroplasticity allows the brain to recover after injury.",
+            "example_sentence_native_transliteration": {
+                "bn": "নিউরোপ্লাস্টিসিটি অ্যালাউস দ্য ব্রেইন টু রিকভার আফটার ইনজুরি।"
+            },
+            "position": 2,
+            "synonyms": "Brain Adaptability, Neural Flexibility, Cognitive Rewiring",
+            "antonyms": "Rigidity, Fixed Intelligence, Stagnation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিউরোপ্লাস্টিসিটি বা মস্তিষ্কের অভিযোজন ক্ষমতা",
+                    "word_transliteration": "neuroplasticity ba mostishker obhijojon khomota",
+                    "example_sentence_translation": "নিউরোপ্লাস্টিসিটি মস্তিষ্ককে আঘাতের পর পুনরুদ্ধারে সহায়তা করে।",
+                    "example_sentence_transliteration": "Neuroplasticity mostishkoke aghater por punruddhare sahayota kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "paradigm",
+            "phonetic": "ˈpær.ə.daɪm",
+            "word_native_transliteration": {
+                "bn": "প্যারাডাইম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "A typical example or pattern of something; a model. A set of concepts or thought patterns, including theories, research methods, postulates, and standards.",
+            "example_sentence": "The scientific paradigm on climate change is evolving.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সায়েন্টিফিক প্যারাডাইম অন ক্লাইমেট চেঞ্জ ইজ ইভলভিং।"
+            },
+            "position": 3,
+            "synonyms": "Model, Framework, Prototype",
+            "antonyms": "Chaos, Disorganization, Disorder",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আদর্শ বা কাঠামো",
+                    "word_transliteration": "adarsh ba kathamo",
+                    "example_sentence_translation": "জলবায়ু পরিবর্তন সম্পর্কিত বৈজ্ঞানিক কাঠামো বিকশিত হচ্ছে।",
+                    "example_sentence_transliteration": "Jolbayu poriborton somporkito boigganik kathamo bikoshit hochhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dogmatic",
+            "phonetic": "dɒɡˈmæt.ɪk",
+            "word_native_transliteration": {
+                "bn": "ডগম্যাটিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔒",
+            "meaning": "Being inclined to lay down principles as incontrovertibly true; characterized by arrogant assertion of unproven principles.",
+            "example_sentence": "His dogmatic approach to politics made discussions difficult.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ডগম্যাটিক অ্যাপ্রোচ টু পলিটিক্স মেড ডিস্কাশনস ডিফিকাল্ট।"
+            },
+            "position": 4,
+            "synonyms": "Rigid, Inflexible, Opinionated",
+            "antonyms": "Open-minded, Flexible, Receptive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একগুঁয়ে বা অন্ধবিশ্বাসী",
+                    "word_transliteration": "ekguye ba ondhobishaasi",
+                    "example_sentence_translation": "রাজনীতিতে তার একগুঁয়ে মনোভাব আলোচনা কঠিন করে তুলেছিল।",
+                    "example_sentence_transliteration": "Rajonitithe tar ekguye monobhab alochona kothin kore tulhechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "introspection",
+            "phonetic": "ˌɪn.trəˈspek.ʃən",
+            "word_native_transliteration": {
+                "bn": "ইন্ট্রোস্পেকশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤔",
+            "meaning": "The examination or observation of one's own mental and emotional processes.",
+            "example_sentence": "Through introspection, she gained insight into her emotions.",
+            "example_sentence_native_transliteration": {
+                "bn": "থ্রু ইন্ট্রোস্পেকশন, শি গেইনড ইনসাইট ইনটু হার ইমোশনস।"
+            },
+            "position": 5,
+            "synonyms": "Self-examination, Reflection, Contemplation",
+            "antonyms": "Extrospection, Distraction, Negligence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আত্মজিজ্ঞাসা বা আত্মপর্যালোচনা",
+                    "word_transliteration": "atmojigasa ba atmoporyalochona",
+                    "example_sentence_translation": "আত্মজিজ্ঞাসার মাধ্যমে তিনি তার অনুভূতি সম্পর্কে গভীর উপলব্ধি লাভ করেন।",
+                    "example_sentence_transliteration": "Atmojigasar madhyome tini tar onubhuti somporkhe gobhir upolobdhi labh koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "metacognition",
+            "phonetic": "ˌmɛt.ə.kɒɡˈnɪʃ.ən",
+            "word_native_transliteration": {
+                "bn": "মেটাকগনিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💭",
+            "meaning": "Awareness and understanding of one's own thought processes.",
+            "example_sentence": "Metacognition helps students improve their learning strategies.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেটাকগনিশন হেল্পস স্টুডেন্টস ইমপ্রুভ দেয়ার লার্নিং স্ট্র্যাটেজিজ।"
+            },
+            "position": 6,
+            "synonyms": "Self-awareness, Reflective Thinking, Higher-order Thinking",
+            "antonyms": "Mindlessness, Unawareness, Automatic Thinking",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মেটাকগনিশন বা চিন্তার চিন্তা",
+                    "word_transliteration": "metacognition ba chintar chinta",
+                    "example_sentence_translation": "মেটাকগনিশন শিক্ষার্থীদের শেখার কৌশল উন্নত করতে সহায়তা করে।",
+                    "example_sentence_transliteration": "Metacognition shikkharthider shekhar koushol unnoto korte sahayota kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "propensity",
+            "phonetic": "prəˈpɛn.sə.ti",
+            "word_native_transliteration": {
+                "bn": "প্রোপেনসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "➡️",
+            "meaning": "An inclination or natural tendency to behave in a particular way.",
+            "example_sentence": "He has a propensity for taking risks in business.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি হ্যাজ এ প্রোপেনসিটি ফর টেকিং রিস্কস ইন বিজনেস।"
+            },
+            "position": 7,
+            "synonyms": "Tendency, Inclination, Predisposition",
+            "antonyms": "Aversion, Dislike, Reluctance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রবণতা বা স্বাভাবিক ঝোঁক",
+                    "word_transliteration": "probonota ba swabhabik jhok",
+                    "example_sentence_translation": "ব্যবসায় ঝুঁকি নেওয়ার প্রতি তার প্রবণতা রয়েছে।",
+                    "example_sentence_transliteration": "Byabasaye jhunki neowar proti tar probonota royeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "mindset",
+            "phonetic": "ˈmaɪnd.set",
+            "word_native_transliteration": {
+                "bn": "মাইন্ডসেট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The established set of attitudes held by someone.",
+            "example_sentence": "A growth mindset helps individuals embrace challenges.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ গ্রোথ মাইন্ডসেট হেল্পস ইন্ডিভিজুয়ালস এমব্রেস চ্যালেঞ্জেস।"
+            },
+            "position": 8,
+            "synonyms": "Attitude, Mentality, Perspective",
+            "antonyms": "Unawareness, Indifference, Closed-mindedness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মানসিকতা বা দৃষ্টিভঙ্গি",
+                    "word_transliteration": "manoshikota ba drishtibhongi",
+                    "example_sentence_translation": "একটি বিকাশমূলক মানসিকতা ব্যক্তিদের চ্যালেঞ্জ গ্রহণে সহায়তা করে।",
+                    "example_sentence_transliteration": "Ekti bikashmulok manoshikota byaktider challenge grohone sahayota kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "perseverance",
+            "phonetic": "ˌpɜː.sɪˈvɪə.rəns",
+            "word_native_transliteration": {
+                "bn": "পারসিভেরেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "Persistence in doing something despite difficulty or delay in achieving success.",
+            "example_sentence": "His perseverance helped him achieve his dreams.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ পারসিভেরেন্স হেল্পড হিম অ্যাচিভ হিজ ড্রিমস।"
+            },
+            "position": 9,
+            "synonyms": "Persistence, Determination, Endurance",
+            "antonyms": "Laziness, Weakness, Giving up",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অধ্যবসায় বা টিকে থাকার ক্ষমতা",
+                    "word_transliteration": "odhyabosay ba tike thakar khomota",
+                    "example_sentence_translation": "তার অধ্যবসায় তাকে স্বপ্ন পূরণে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Tar odhyabosay take swapno purone sahayyo koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "tenacity",
+            "phonetic": "təˈnæs.ə.ti",
+            "word_native_transliteration": {
+                "bn": "টেনাসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔥",
+            "meaning": "The quality or fact of being able to grip something firmly; persistence.",
+            "example_sentence": "His tenacity in solving problems led to his success.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ টেনাসিটি ইন সলভিং প্রবলেমস লেড টু হিজ সাকসেস।"
+            },
+            "position": 10,
+            "synonyms": "Determination, Persistence, Resilience",
+            "antonyms": "Indecision, Weakness, Hesitation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দৃঢ়তা বা স্থির সংকল্প",
+                    "word_transliteration": "dridhota ba sthir shonkolpo",
+                    "example_sentence_translation": "সমস্যা সমাধানে তার দৃঢ়তা তাকে সাফল্যের পথে নিয়ে গেছে।",
+                    "example_sentence_transliteration": "Shomoshya shomadhane tar dridhota take shafollyer pathe niye geche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cerebral",
+            "phonetic": "ˈsɛr.ɪ.brəl",
+            "word_native_transliteration": {
+                "bn": "সেরিব্রাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎓",
+            "meaning": "Of the cerebrum of the brain; intellectual rather than emotional or physical.",
+            "example_sentence": "He enjoys cerebral discussions on philosophy and science.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি এনজয়স সেরিব্রাল ডিস্কাশনস অন ফিলসফি অ্যান্ড সায়েন্স।"
+            },
+            "position": 11,
+            "synonyms": "Intellectual, Thoughtful, Rational",
+            "antonyms": "Emotional, Unintellectual, Instinctive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বুদ্ধিবৃত্তিক বা মস্তিষ্কসংক্রান্ত",
+                    "word_transliteration": "buddhibrittik ba mostishkshongkranto",
+                    "example_sentence_translation": "তিনি দর্শন ও বিজ্ঞানের উপর বুদ্ধিবৃত্তিক আলোচনা উপভোগ করেন।",
+                    "example_sentence_transliteration": "Tini dorshon o bigganer upor buddhibrittik alochona upobhog koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "conundrum",
+            "phonetic": "kəˈnʌn.drəm",
+            "word_native_transliteration": {
+                "bn": "কনান্ড্রাম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧩",
+            "meaning": "A confusing and difficult problem or question.",
+            "example_sentence": "The ethical conundrum puzzled the researchers.",
+            "example_sentence_native_transliteration": {
+                "bn": "দি এথিক্যাল কনান্ড্রাম পাজলড দি রিসার্চারস।"
+            },
+            "position": 12,
+            "synonyms": "Puzzle, Dilemma, Enigma",
+            "antonyms": "Solution, Clarity, Simplicity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জটিল সমস্যা বা ধাঁধা",
+                    "word_transliteration": "jotil shomoshya ba dhadha",
+                    "example_sentence_translation": "নৈতিক জটিল সমস্যাটি গবেষকদের বিভ্রান্ত করেছে।",
+                    "example_sentence_transliteration": "Noitik jotil shomoshyati gobeshokder bibhranto koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fortitude",
+            "phonetic": "ˈfɔːr.tɪ.tjuːd",
+            "word_native_transliteration": {
+                "bn": "ফর্টিটিউড"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛡️",
+            "meaning": "Courage in pain or adversity.",
+            "example_sentence": "She faced her illness with remarkable fortitude.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি ফেসড হার ইলনেস উইথ রিমার্কেবল ফর্টিটিউড।"
+            },
+            "position": 13,
+            "synonyms": "Courage, Resilience, Endurance",
+            "antonyms": "Weakness, Cowardice, Fear",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মানসিক সহনশীলতা বা সাহস",
+                    "word_transliteration": "manoshik shohonshilota ba sahos",
+                    "example_sentence_translation": "তিনি অসুস্থতাকে অসাধারণ মানসিক সহনশীলতার সাথে মোকাবিলা করেছেন।",
+                    "example_sentence_transliteration": "Tini osusthotake oshadharon manoshik shohonshilotar sathe mokabila korechen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "scrutinize",
+            "phonetic": "ˈskruː.tɪ.naɪz",
+            "word_native_transliteration": {
+                "bn": "স্ক্রুটিনাইজ"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔍",
+            "meaning": "Examine or inspect closely and thoroughly.",
+            "example_sentence": "The scientist scrutinized the data for errors.",
+            "example_sentence_native_transliteration": {
+                "bn": "দি সায়েন্টিস্ট স্ক্রুটিনাইজড দি ডেটা ফর এরর্স।"
+            },
+            "position": 14,
+            "synonyms": "Inspect, Analyze, Examine",
+            "antonyms": "Ignore, Overlook, Neglect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সতর্কভাবে বিশ্লেষণ বা পরীক্ষা করা",
+                    "word_transliteration": "shotorkhabe bishleshon ba porikha kora",
+                    "example_sentence_translation": "বিজ্ঞানী ডেটাগুলোর মধ্যে কোনো ভুল আছে কিনা তা সতর্কভাবে পরীক্ষা করলেন।",
+                    "example_sentence_transliteration": "Biggani datagulor moddhe kono bhul ache kina ta shotorkhabe porikha korlen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "epiphany",
+            "phonetic": "ɪˈpɪf.ə.ni",
+            "word_native_transliteration": {
+                "bn": "এপিফানি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💡",
+            "meaning": "A moment of sudden revelation or insight.",
+            "example_sentence": "He had an epiphany about his true purpose in life.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি হ্যাড অ্যান এপিফানি অ্যাবাউট হিজ ট্রু পারপাজ ইন লাইফ।"
+            },
+            "position": 15,
+            "synonyms": "Revelation, Realization, Insight",
+            "antonyms": "Confusion, Unawareness, Misconception",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আকস্মিক উপলব্ধি বা জাগরণ",
+                    "word_transliteration": "akoshimik upolobdhi ba jagron",
+                    "example_sentence_translation": "তিনি জীবনের প্রকৃত উদ্দেশ্য সম্পর্কে একটি আকস্মিক উপলব্ধি পেয়েছিলেন।",
+                    "example_sentence_transliteration": "Tini jiboner prokrito uddeshyo somporkhe ekti akoshimik upolobdhi peyechilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "synaptic",
+            "phonetic": "sɪˈnæp.tɪk",
+            "word_native_transliteration": {
+                "bn": "সিনাপটিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔗",
+            "meaning": "Of or relating to a synapse or synapses.",
+            "example_sentence": "Synaptic connections strengthen as we learn new things.",
+            "example_sentence_native_transliteration": {
+                "bn": "সিনাপটিক কানেকশনস স্ট্রেংথেন অ্যাজ উই লার্ন নিউ থিংস।"
+            },
+            "position": 16,
+            "synonyms": "Neural, Brain-related, Cognitive",
+            "antonyms": "Non-neural, Unrelated to the Brain, Peripheral",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্নায়ুকোষের সংযোগ সম্পর্কিত",
+                    "word_transliteration": "snayukosher shongjog somporkito",
+                    "example_sentence_translation": "আমরা নতুন কিছু শিখলে স্নায়ুকোষের সংযোগ আরও শক্তিশালী হয়।",
+                    "example_sentence_transliteration": "Amra notun kichu shikhle snayukosher shongjog aro shaktishali hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ideation",
+            "phonetic": "ˌaɪ.diˈeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "আইডিয়েশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎨",
+            "meaning": "The formation of ideas or concepts.",
+            "example_sentence": "The team's ideation session resulted in innovative solutions.",
+            "example_sentence_native_transliteration": {
+                "bn": "দি টিমস আইডিয়েশন সেশন রিজাল্টেড ইন ইনোভেটিভ সল্যুশনস।"
+            },
+            "position": 17,
+            "synonyms": "Creativity, Conceptualization, Brainstorming",
+            "antonyms": "Stagnation, Unimaginativeness, Thoughtlessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ধারণা সৃষ্টি বা চিন্তার প্রক্রিয়া",
+                    "word_transliteration": "dharona srishti ba chintar prokriya",
+                    "example_sentence_translation": "দলের ধারণা তৈরির সেশনে নতুন ও সৃজনশীল সমাধান পাওয়া গেছে।",
+                    "example_sentence_transliteration": "Doler dharona toirir seshone notun o srijonsshil somadhan paowa geche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "disseminate",
+            "phonetic": "dɪˈsɛm.ɪ.neɪt",
+            "word_native_transliteration": {
+                "bn": "ডিসেমিনেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📢",
+            "meaning": "Spread (something, especially information) widely.",
+            "example_sentence": "Social media helps disseminate information quickly.",
+            "example_sentence_native_transliteration": {
+                "bn": "সোশ্যাল মিডিয়া হেল্পস ডিসেমিনেট ইনফরমেশন কুইকলি।"
+            },
+            "position": 18,
+            "synonyms": "Distribute, Spread, Circulate",
+            "antonyms": "Conceal, Withhold, Suppress",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রচার বা ছড়িয়ে দেওয়া",
+                    "word_transliteration": "prochar ba choriye deoya",
+                    "example_sentence_translation": "সোশ্যাল মিডিয়া দ্রুত তথ্য প্রচার করতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Social media druto tothyo prochar korte sahayyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "indelible",
+            "phonetic": "ɪnˈdɛl.ɪ.bəl",
+            "word_native_transliteration": {
+                "bn": "ইনডেলিবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔒",
+            "meaning": "Making marks that cannot be removed; unable to be forgotten or removed.",
+            "example_sentence": "The experience left an indelible mark on his memory.",
+            "example_sentence_native_transliteration": {
+                "bn": "দি এক্সপেরিয়েন্স লেফট অ্যান ইনডেলিবল মার্ক অন হিজ মেমোরি।"
+            },
+            "position": 19,
+            "synonyms": "Permanent, Lasting, Unforgettable",
+            "antonyms": "Erasable, Temporary, Fading",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অমোচনীয় বা স্থায়ী",
+                    "word_transliteration": "omochaniy ba sthayi",
+                    "example_sentence_translation": "অভিজ্ঞতাটি তার স্মৃতিতে স্থায়ী ছাপ রেখে গেছে।",
+                    "example_sentence_transliteration": "Obhiggotati tar smritite sthayi chap rekhe geche.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}
