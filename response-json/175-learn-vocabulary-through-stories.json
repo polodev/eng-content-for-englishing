@@ -1,0 +1,499 @@
+{
+    "position": 175,
+    "title_translation": {
+        "en": "Spaced Repetition for Long-Term Memory",
+        "bn": "দীর্ঘমেয়াদী স্মৃতির জন্য স্পেসড রিপিটিশন"
+    },
+    "content_translation": {
+        "en": "Learning **acquisition** is only effective when it is combined with **comprehension**. However, retaining new information becomes difficult if it is not **consolidated**. Therefore, **spaced repetition** is an important method that increases **retention** and ensures learning **fidelity**. **Neuroplasticity** helps our brain **assimilate** new information, but to **delineate** the natural tendency of forgetting, **intermittent** repetition is needed. Through gradual **incremental** learning, we can **decipher** information more deeply and it becomes **subliminal**ly embedded.\n\nBy using an effective **mnemonic** technique, the pace of learning can be **expedited** and it helps in brain **proliferation**. Therefore, by using **spaced repetition**, information does not become **ephemeral** and disappear, but rather gets **reinforcement**, which strengthens our knowledge in the long term.",
+        "bn": "শেখার ক্ষেত্রে **acquisition** তখনই কার্যকর হয়, যখন তা **comprehension**এর সাথে সংযুক্ত থাকে। তবে, নতুন তথ্য মনে রাখা কঠিন হয়ে পড়ে, যদি তা **consolidation** না হয়। এই কারণে **spaced repetition** একটি গুরুত্বপূর্ণ পদ্ধতি, যা **retention** বাড়ায় এবং শেখার **fidelity** নিশ্চিত করে। **Neuroplasticity** আমাদের মস্তিষ্ককে নতুন তথ্য **assimilate** করতে সাহায্য করে, কিন্তু ভুলে যাওয়ার স্বাভাবিক প্রবণতাকে **delineate** করতে **intermittent** পুনরাবৃত্তির প্রয়োজন হয়। ধাপে ধাপে **incremental** শেখার মাধ্যমে আমরা তথ্য আরও গভীরভাবে **decipher** করতে পারি এবং সেটি **subliminal** মনে গেঁথে যায়।\n\nএকটি কার্যকর **mnemonic** কৌশল ব্যবহারের মাধ্যমে শেখার গতি **expedite** করা যায় এবং এটি মস্তিষ্কের **proliferation**-এ সহায়ক হয়। তাই, **spaced repetition** ব্যবহার করলে তথ্য **ephemeral** হয়ে হারিয়ে যায় না, বরং **reinforcement** পায়, যা দীর্ঘমেয়াদে আমাদের জ্ঞানকে শক্তিশালী করে।"
+    },
+    "list": [
+        {
+            "word": "acquisition",
+            "phonetic": "ˌæk.wɪˈzɪʃ.ən",
+            "word_native_transliteration": {
+                "bn": "অ্যাকুইজিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The act of acquiring or obtaining something, especially skills, knowledge, or assets.",
+            "example_sentence": "The acquisition of new skills is crucial for career growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যাকুইজিশন অফ নিউ স্কিলস ইজ ক্রুশিয়াল ফর ক্যারিয়ার গ্রোথ।"
+            },
+            "position": 1,
+            "synonyms": "attainment, procurement",
+            "antonyms": "loss, disposal",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অধিগ্রহণ, অর্জন, গ্রহণ",
+                    "word_transliteration": "adhigrohon, orjon, grohon",
+                    "example_sentence_translation": "নতুন দক্ষতার অ্যাকুইজিশন ক্যারিয়ার বৃদ্ধির জন্য গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Notun dokkhota ar acquisition career briddhir jonno guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "comprehension",
+            "phonetic": "ˌkɑːm.prɪˈhen.ʃən",
+            "word_native_transliteration": {
+                "bn": "কমপ্রিহেনশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧠",
+            "meaning": "The ability to understand something or the mental process of understanding.",
+            "example_sentence": "His comprehension of the subject is remarkable.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ কমপ্রিহেনশন অফ দ্য সাবজেক্ট ইজ রিমার্কেবল।"
+            },
+            "position": 2,
+            "synonyms": "understanding, perception",
+            "antonyms": "misinterpretation, confusion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বোঝার ক্ষমতা, অনুধাবন, উপলব্ধি",
+                    "word_transliteration": "bojhar kkhomota, anudhabon, upoloddhi",
+                    "example_sentence_translation": "বিষয়টির প্রতি তার কমপ্রিহেনশন অসাধারণ।",
+                    "example_sentence_transliteration": "Bishoyotir proti tar comprehension osadhoron.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "consolidation",
+            "phonetic": "kənˌsɒl.ɪˈdeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "কনসলিডেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏗️",
+            "meaning": "The process of making something stronger or more solid, or the act of combining things together.",
+            "example_sentence": "The consolidation of data ensures efficiency in business operations.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কনসলিডেশন অফ ডেটা এনশিওর্স এফিশিয়েন্সি ইন বিজনেস অপারেশন্স।"
+            },
+            "position": 3,
+            "synonyms": "unification, strengthening",
+            "antonyms": "fragmentation, weakening",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংহতি, দৃঢ়ীকরণ, একত্রিকরণ",
+                    "word_transliteration": "songhoti, drirhikoron, ektrikoron",
+                    "example_sentence_translation": "তথ্যের কনসলিডেশন ব্যবসায় কার্যকারিতা নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Tothyer consolidation byabsay karjokrita nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "spaced repetition",
+            "phonetic": "speɪst ˌrep.ɪˈtɪʃ.ən",
+            "word_native_transliteration": {
+                "bn": "স্পেসড রিপিটিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔁",
+            "meaning": "A learning technique that involves reviewing information at increasing intervals to improve long-term retention.",
+            "example_sentence": "Spaced repetition helps in long-term memory retention.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্পেসড রিপিটিশন হেল্পস ইন লং-টার্ম মেমরি রিটেনশন।"
+            },
+            "position": 4,
+            "synonyms": "interval learning, reinforcement",
+            "antonyms": "forgetting, cramming",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিরতিসহ পুনরাবৃত্তি, ধাপে ধাপে পুনরায় শেখা",
+                    "word_transliteration": "birotisho punorabbritti, dhape dhape punoray shekha",
+                    "example_sentence_translation": "স্পেসড রিপিটিশন দীর্ঘমেয়াদী স্মৃতিশক্তি ধরে রাখতে সহায়ক।",
+                    "example_sentence_transliteration": "Spaced repetition dirghomeyadi smritishokti dhore rakhte sahayok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "retention",
+            "phonetic": "rɪˈten.ʃən",
+            "word_native_transliteration": {
+                "bn": "রিটেনশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧮",
+            "meaning": "The ability to keep or continue to have something, especially the ability to remember information.",
+            "example_sentence": "Proper sleep improves memory retention.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রপার স্লিপ ইমপ্রুভস মেমরি রিটেনশন।"
+            },
+            "position": 5,
+            "synonyms": "preservation, memory",
+            "antonyms": "forgetfulness, loss",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ধারণ ক্ষমতা, ধরে রাখা, স্মৃতিশক্তি",
+                    "word_transliteration": "dharon kkhomota, dhore rakha, smritishokti",
+                    "example_sentence_translation": "পর্যাপ্ত ঘুম স্মৃতিশক্তির রিটেনশন বাড়ায়।",
+                    "example_sentence_transliteration": "Porjaapto ghum smritishoftir retention baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fidelity",
+            "phonetic": "fɪˈdel.ə.ti",
+            "word_native_transliteration": {
+                "bn": "ফিডেলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "Faithfulness to a person, cause, or belief, demonstrated by continuing loyalty and support; accuracy or exactness.",
+            "example_sentence": "His fidelity to his work earned him respect.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ফিডেলিটি টু হিজ ওয়ার্ক আর্নড হিম রেসপেক্ট।"
+            },
+            "position": 6,
+            "synonyms": "loyalty, accuracy",
+            "antonyms": "betrayal, inaccuracy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিশ্বস্ততা, নির্ভুলতা, সততা",
+                    "word_transliteration": "bishwostota, nirbhulota, sototoa",
+                    "example_sentence_translation": "তার কাজের প্রতি ফিডেলিটি তাকে সম্মান এনে দিয়েছে।",
+                    "example_sentence_transliteration": "Tar kajer proti fidelity take somman ene diyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "neuroplasticity",
+            "phonetic": "ˌnʊr.oʊ.plæˈstɪs.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "নিউরোপ্লাস্টিসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧠",
+            "meaning": "The brain's ability to reorganize and form new neural connections throughout life, especially in response to learning or injury.",
+            "example_sentence": "Neuroplasticity enables the brain to adapt and learn new skills.",
+            "example_sentence_native_transliteration": {
+                "bn": "নিউরোপ্লাস্টিসিটি এনেবলস দ্য ব্রেইন টু অ্যাডাপ্ট অ্যান্ড লার্ন নিউ স্কিলস।"
+            },
+            "position": 7,
+            "synonyms": "brain adaptability, cognitive flexibility",
+            "antonyms": "rigidity, fixedness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মস্তিষ্কের অভিযোজন ক্ষমতা, স্নায়ু পরিবর্তনশীলতা",
+                    "word_transliteration": "mostishker abhiyojon kkhomota, snayu poribortonsheelota",
+                    "example_sentence_translation": "নিউরোপ্লাস্টিসিটি মস্তিষ্ককে অভিযোজিত হয়ে নতুন দক্ষতা শেখার সুযোগ দেয়।",
+                    "example_sentence_transliteration": "Neuroplasticity mostishkoke abhiyojit hoye notun dokkhota shekhar sujog dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "assimilate",
+            "phonetic": "əˈsɪm.ɪ.leɪt",
+            "word_native_transliteration": {
+                "bn": "অ্যাসিমিলেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔄",
+            "meaning": "To take in and understand fully; to absorb and integrate into a larger whole.",
+            "example_sentence": "It takes time to assimilate new information.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইট টেকস টাইম টু অ্যাসিমিলেট নিউ ইনফরমেশন।"
+            },
+            "position": 8,
+            "synonyms": "absorb, integrate",
+            "antonyms": "reject, separate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আত্মস্থ করা, শোষণ করা, একীভূত করা",
+                    "word_transliteration": "attosto kora, shoshon kora, ekibhut kora",
+                    "example_sentence_translation": "নতুন তথ্য অ্যাসিমিলেট করতে সময় লাগে।",
+                    "example_sentence_transliteration": "Notun tothyo assimilate korte somoy lage.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "delineate",
+            "phonetic": "dɪˈlɪn.i.eɪt",
+            "word_native_transliteration": {
+                "bn": "ডিলিনিয়েট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📝",
+            "meaning": "To describe or portray something precisely; to mark the exact position or boundaries of something.",
+            "example_sentence": "The architect delineated the project plan in detail.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য আর্কিটেক্ট ডিলিনিয়েটেড দ্য প্রজেক্ট প্ল্যান ইন ডিটেইল।"
+            },
+            "position": 9,
+            "synonyms": "describe, outline",
+            "antonyms": "obscure, distort",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্পষ্টভাবে ব্যাখ্যা করা, চিত্রিত করা",
+                    "word_transliteration": "sposhtovabe byakhya kora, chitrito kora",
+                    "example_sentence_translation": "স্থপতি প্রকল্পের পরিকল্পনা বিস্তারিতভাবে ডিলিনিয়েট করেছেন।",
+                    "example_sentence_transliteration": "Sthopoti prokolper porikolpona bistaritovabe delineate korechhen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "intermittent",
+            "phonetic": "ˌɪn.t̬ɚˈmɪt.ənt",
+            "word_native_transliteration": {
+                "bn": "ইন্টারমিটেন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⏯️",
+            "meaning": "Occurring at irregular intervals; not continuous or steady.",
+            "example_sentence": "The rain was intermittent throughout the day.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রেইন ওয়াজ ইন্টারমিটেন্ট থ্রুআউট দ্য ডে।"
+            },
+            "position": 10,
+            "synonyms": "sporadic, periodic",
+            "antonyms": "continuous, unceasing",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিরতিহীন, পর্যায়ক্রমিক, অনিয়মিত",
+                    "word_transliteration": "birotiheen, porjayokromik, oniomit",
+                    "example_sentence_translation": "সারা দিন ইন্টারমিটেন্ট বৃষ্টি হয়েছে।",
+                    "example_sentence_transliteration": "Sara din intermittent brishti hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "incremental",
+            "phonetic": "ˌɪŋ.krəˈmen.t̬əl",
+            "word_native_transliteration": {
+                "bn": "ইনক্রিমেন্টাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📈",
+            "meaning": "Relating to or denoting an increase or addition, especially one of a series on a fixed scale.",
+            "example_sentence": "The company made incremental improvements in its technology.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি মেইড ইনক্রিমেন্টাল ইমপ্রুভমেন্টস ইন ইটস টেকনোলজি।"
+            },
+            "position": 11,
+            "synonyms": "gradual, progressive",
+            "antonyms": "sudden, abrupt",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ধাপে ধাপে উন্নতি, পর্যায়ক্রমিক বৃদ্ধি, সংযোজনমূলক",
+                    "word_transliteration": "dhape dhape unnoti, porjayokromik briddhi, songjojonomulok",
+                    "example_sentence_translation": "কোম্পানিটি তার প্রযুক্তিতে ইনক্রিমেন্টাল উন্নতি এনেছে।",
+                    "example_sentence_transliteration": "Companiti tar projuktite incremental unnoti eneche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "decipher",
+            "phonetic": "dɪˈsaɪ.fɚ",
+            "word_native_transliteration": {
+                "bn": "ডিসাইফার"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔓",
+            "meaning": "To convert something written in code into normal language; to succeed in understanding the meaning of something.",
+            "example_sentence": "It took hours to decipher the ancient script.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইট টুক আওয়ার্স টু ডিসাইফার দ্য এইনশিয়েন্ট স্ক্রিপ্ট।"
+            },
+            "position": 12,
+            "synonyms": "interpret, decode",
+            "antonyms": "confuse, obscure",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ব্যাখ্যা করা, ডিকোড করা, অনুবাদ করা",
+                    "word_transliteration": "byakhya kora, decode kora, onubad kora",
+                    "example_sentence_translation": "প্রাচীন লেখাটি ডিসাইফার করতে কয়েক ঘণ্টা লেগেছে।",
+                    "example_sentence_transliteration": "Prachin lekhati decipher korte koyko ghonta legechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "subliminal",
+            "phonetic": "ˌsʌbˈlɪm.ɪ.nəl",
+            "word_native_transliteration": {
+                "bn": "সাবলিমিনাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "👁️",
+            "meaning": "Existing or operating below the threshold of consciousness; perceived by or affecting someone's mind without their being aware of it.",
+            "example_sentence": "Advertisements often have subliminal messages.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাডভার্টাইজমেন্টস অফটেন হ্যাভ সাবলিমিনাল মেসেজেস।"
+            },
+            "position": 13,
+            "synonyms": "subconscious, implicit",
+            "antonyms": "explicit, overt",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চেতনার নিচে বিদ্যমান, সংবেদনাতীত, অবচেতন প্রভাব",
+                    "word_transliteration": "chetonar niche biddoman, songbedanateet, obocheton probhab",
+                    "example_sentence_translation": "বিজ্ঞাপনগুলোতে প্রায়ই সাবলিমিনাল বার্তা থাকে।",
+                    "example_sentence_transliteration": "Biggaponguloter prayoi subliminal barta thake.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "mnemonic",
+            "phonetic": "nɪˈmɒn.ɪk",
+            "word_native_transliteration": {
+                "bn": "ম্নেমনিক"
+            },
+            "parts_of_speech": "adjective/noun",
+            "emoji": "🧠",
+            "meaning": "Assisting or intended to assist memory; a device or technique to aid memory.",
+            "example_sentence": "A mnemonic device helps students remember complex concepts.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ ম্নেমনিক ডিভাইস হেল্পস স্টুডেন্টস রিমেম্বার কমপ্লেক্স কনসেপ্টস।"
+            },
+            "position": 14,
+            "synonyms": "memory aid, reminder",
+            "antonyms": "forgetfulness, amnesia",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্মৃতিশক্তি বৃদ্ধিকারী, স্মরণশক্তি উন্নত করার উপায়",
+                    "word_transliteration": "smritishokti briddhikari, smoronsokti unnoto korar upay",
+                    "example_sentence_translation": "ম্নেমনিক কৌশল শিক্ষার্থীদের জটিল ধারণা মনে রাখতে সহায়ক।",
+                    "example_sentence_transliteration": "Mnemonic koushol shikkharthider jotil dharona mone rakhte sahayok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "expedite",
+            "phonetic": "ˈek.spə.daɪt",
+            "word_native_transliteration": {
+                "bn": "এক্সপিডাইট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⚡",
+            "meaning": "To make an action or process happen sooner or be accomplished more quickly.",
+            "example_sentence": "The manager decided to expedite the approval process.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ম্যানেজার ডিসাইডেড টু এক্সপিডাইট দ্য অ্যাপ্রুভাল প্রসেস।"
+            },
+            "position": 15,
+            "synonyms": "accelerate, hasten",
+            "antonyms": "delay, hinder",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ত্বরান্বিত করা, দ্রুততর করা, সহজতর করা",
+                    "word_transliteration": "toranbit kora, druttor kora, sohojtor kora",
+                    "example_sentence_translation": "ব্যবস্থাপক অনুমোদনের প্রক্রিয়াটি এক্সপিডাইট করার সিদ্ধান্ত নিলেন।",
+                    "example_sentence_transliteration": "Byabosthapok onumodoner prokrrayati expedite korar siddhanto nilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "proliferation",
+            "phonetic": "prəˌlɪf.əˈreɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "প্রোলিফারেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "Rapid increase in the number or amount of something; rapid reproduction or multiplication.",
+            "example_sentence": "The proliferation of social media has changed communication.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রোলিফারেশন অফ সোশ্যাল মিডিয়া হ্যাজ চেইনজড কমিউনিকেশন।"
+            },
+            "position": 16,
+            "synonyms": "expansion, multiplication",
+            "antonyms": "decline, reduction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্রুত বৃদ্ধি, বিস্তার, ব্যাপক প্রসার",
+                    "word_transliteration": "druto briddhi, bistar, byapok prosar",
+                    "example_sentence_translation": "সামাজিক মাধ্যমের প্রোলিফারেশন যোগাযোগ ব্যবস্থায় পরিবর্তন এনেছে।",
+                    "example_sentence_transliteration": "Samajik madhymer proliferation jogajog byabosthay poriborton eneche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ephemeral",
+            "phonetic": "ɪˈfem.ɚ.əl",
+            "word_native_transliteration": {
+                "bn": "এফেমেরাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌸",
+            "meaning": "Lasting for a very short time; transitory.",
+            "example_sentence": "Life is ephemeral, so we should cherish every moment.",
+            "example_sentence_native_transliteration": {
+                "bn": "লাইফ ইজ এফেমেরাল, সো উই শুড চেরিশ এভরি মোমেন্ট।"
+            },
+            "position": 17,
+            "synonyms": "transient, fleeting",
+            "antonyms": "permanent, enduring",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্ষণস্থায়ী, স্বল্পস্থায়ী, অস্থায়ী",
+                    "word_transliteration": "kkhonoshayee, sholposhayee, oshayee",
+                    "example_sentence_translation": "জীবন এফেমেরাল, তাই প্রতিটি মুহূর্ত উপভোগ করা উচিত।",
+                    "example_sentence_transliteration": "Jibor ephemeral, tai protiti muhurt upobog kora uchit.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "reinforcement",
+            "phonetic": "ˌriː.ɪnˈfɔːrs.mənt",
+            "word_native_transliteration": {
+                "bn": "রিইনফোর্সমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "The process of encouraging or establishing a belief or pattern of behavior; strengthening or supporting with additional material or force.",
+            "example_sentence": "Positive reinforcement helps in behavior modification.",
+            "example_sentence_native_transliteration": {
+                "bn": "পজিটিভ রিইনফোর্সমেন্ট হেল্পস ইন বিহেভিয়ার মডিফিকেশন।"
+            },
+            "position": 18,
+            "synonyms": "strengthening, support",
+            "antonyms": "weakening, undermining",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শক্তিশালীকরণ, প্রবলতরকরণ, সহায়তা বৃদ্ধি",
+                    "word_transliteration": "shoktishalikoron, problotorkoron, sahajota briddhi",
+                    "example_sentence_translation": "ইতিবাচক রিইনফোর্সমেন্ট আচরণ পরিবর্তনে সহায়ক।",
+                    "example_sentence_transliteration": "Itibachok reinforcement achron poribortone sahayok.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

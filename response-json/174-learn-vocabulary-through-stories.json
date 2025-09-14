@@ -1,0 +1,499 @@
+{
+    "position": 174,
+    "title_translation": {
+        "en": "Setting Goals for Better Time Use",
+        "bn": "সময়ের সঠিক ব্যবহারের জন্য লক্ষ্য নির্ধারণ"
+    },
+    "content_translation": {
+        "en": "**Goal-setting** is one of the most **efficacious** methods for time management. Many people waste time on **unwarranted** tasks, which diverts them from their main life goals. Therefore, time should be **expedited** through **pragmatic** planning. First, we should be **cognizant** of which tasks are more important. It is necessary to **delineate** which tasks will take priority and which can be done later. It is important to be **meticulous** in time management, because if **dichotomy** is created, we become confused. To set the right goals requires **tenacity**, so that we can work patiently to achieve the goals. By following **scrupulous** planning, it is possible to avoid **conundrum**. A successful person applies **adroitness** and **acumen** to make the best use of their time. So, if we adopt **succinct** and **nuanced** planning, it is possible to achieve proper time **frugality** and life will be more **auspicious**.",
+        "bn": "সঠিক **goal-setting** সময় ব্যবস্থাপনার অন্যতম **efficacious** উপায়। অনেকেই **unwarranted** কাজে সময় নষ্ট করে, যা তাদের জীবনের মূল লক্ষ্য থেকে দূরে সরিয়ে দেয়। তাই **pragmatic** পরিকল্পনার মাধ্যমে সময়কে **expedite** করতে হয়। প্রথমেই, আমাদের **cognizant** হওয়া উচিত যে কোন কাজ বেশি গুরুত্বপূর্ণ। **Delineate** করা প্রয়োজন কোন কাজ প্রাধান্য পাবে এবং কোনটি পরে করা যাবে। সময় ব্যবস্থাপনার ক্ষেত্রে **meticulous** হওয়া জরুরি, কারণ **dichotomy** তৈরি হলে, আমরা বিভ্রান্ত হয়ে পড়ি। সঠিক লক্ষ্য নির্ধারণ করতে হলে **tenacity** দরকার, যাতে আমরা লক্ষ্য অর্জনে ধৈর্য ধরে কাজ করতে পারি। **Scrupulous** পরিকল্পনা অনুসরণ করলে **conundrum** এড়ানো সম্ভব হয়। একজন সফল ব্যক্তি **adroitness** ও **acumen** দিয়ে তার সময়কে সর্বোচ্চভাবে কাজে লাগায়। তাই, যদি আমরা **succinct** এবং **nuanced** পরিকল্পনা গ্রহণ করি, তবে সময়ের সঠিক **frugality** করা সম্ভব এবং জীবন হবে আরও **auspicious**।"
+    },
+    "list": [
+        {
+            "word": "goal-setting",
+            "phonetic": "/ɡoʊl ˈsɛt.ɪŋ/",
+            "word_native_transliteration": {
+                "bn": "গোল সেটিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The process of identifying something that you want to accomplish and establishing measurable objectives to achieve it.",
+            "example_sentence": "Effective goal-setting helps individuals stay focused and motivated.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইফেক্টিভ গোল-সেটিং হেল্পস ইন্ডিভিজুয়ালস স্টে ফোকাসড অ্যান্ড মোটিভেটেড।"
+            },
+            "position": 1,
+            "synonyms": "planning, target-setting, objective formation",
+            "antonyms": "aimlessness, indecisiveness, lack of direction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "লক্ষ্য নির্ধারণ",
+                    "word_transliteration": "lokkhyo nirdhaaron",
+                    "example_sentence_translation": "কার্যকর লক্ষ্য নির্ধারণ ব্যক্তিকে মনোযোগী ও অনুপ্রাণিত থাকতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Karjokoro lokkhyo nirdhaaron byektike monoyogi o onupranito thakte shahajjo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "efficacious",
+            "phonetic": "/ˌɛf.ɪˈkeɪ.ʃəs/",
+            "word_native_transliteration": {
+                "bn": "এফিকেশাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "✅",
+            "meaning": "Successful in producing a desired or intended result; effective.",
+            "example_sentence": "This medicine is highly efficacious in treating headaches.",
+            "example_sentence_native_transliteration": {
+                "bn": "দিস মেডিসিন ইজ হাইলি এফিকেশাস ইন ট্রিটিং হেডেকস।"
+            },
+            "position": 2,
+            "synonyms": "effective, productive, efficient",
+            "antonyms": "ineffective, useless, inefficient",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কার্যকর",
+                    "word_transliteration": "karjokoro",
+                    "example_sentence_translation": "এই ওষুধ মাথা ব্যথা নিরাময়ে অত্যন্ত কার্যকর।",
+                    "example_sentence_transliteration": "Ei osudh matha betha niramoyee ottyonto karjokoro.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "unwarranted",
+            "phonetic": "/ʌnˈwɒr.ən.tɪd/",
+            "word_native_transliteration": {
+                "bn": "আনওয়ারান্টেড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "❌",
+            "meaning": "Not justified or authorized; having no basis or good reason.",
+            "example_sentence": "His criticism of the new policy was unwarranted.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ক্রিটিসিজম অফ দ্য নিউ পলিসি ওয়াজ আনওয়ারান্টেড।"
+            },
+            "position": 3,
+            "synonyms": "unjustified, baseless, unnecessary",
+            "antonyms": "justified, reasonable, necessary",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অযৌক্তিক",
+                    "word_transliteration": "oyouktiko",
+                    "example_sentence_translation": "নতুন নীতির প্রতি তার সমালোচনা অযৌক্তিক ছিল।",
+                    "example_sentence_transliteration": "Notun nitir proti tar shomalochona oyouktiko chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pragmatic",
+            "phonetic": "/prægˈmæt.ɪk/",
+            "word_native_transliteration": {
+                "bn": "প্র্যাগম্যাটিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧠",
+            "meaning": "Dealing with things sensibly and realistically in a way that is based on practical rather than idealistic considerations.",
+            "example_sentence": "A pragmatic approach is necessary for problem-solving.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ প্র্যাগম্যাটিক অ্যাপ্রোচ ইজ নেসেসারি ফর প্রবলেম-সলভিং।"
+            },
+            "position": 4,
+            "synonyms": "practical, realistic, sensible",
+            "antonyms": "idealistic, theoretical, impractical",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাস্তববাদী",
+                    "word_transliteration": "bastobobadi",
+                    "example_sentence_translation": "সমস্যা সমাধানের জন্য বাস্তববাদী দৃষ্টিভঙ্গি প্রয়োজন।",
+                    "example_sentence_transliteration": "Shomoshya shomadhaner jonno bastobobadi drishtibhongi proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "expedite",
+            "phonetic": "/ˈɛk.spɪ.daɪt/",
+            "word_native_transliteration": {
+                "bn": "এক্সপেডাইট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⚡",
+            "meaning": "Make (an action or process) happen sooner or be accomplished more quickly.",
+            "example_sentence": "The manager asked the team to expedite the project deadline.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ম্যানেজার আসকড দ্য টিম টু এক্সপেডাইট দ্য প্রজেক্ট ডেডলাইন।"
+            },
+            "position": 5,
+            "synonyms": "accelerate, hasten, speed up",
+            "antonyms": "delay, hinder, slow down",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্রুততর করা",
+                    "word_transliteration": "drutotoro kora",
+                    "example_sentence_translation": "প্রজেক্টের সময়সীমা ত্বরান্বিত করতে ম্যানেজার দলকে নির্দেশ দিলেন।",
+                    "example_sentence_transliteration": "Projecter shomoyshima tworanwito korote manager doloke nirdesh dilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cognizant",
+            "phonetic": "/ˈkɒɡ.nɪ.zənt/",
+            "word_native_transliteration": {
+                "bn": "কগনিজ্যান্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "👁️",
+            "meaning": "Having knowledge or being aware of; fully informed about.",
+            "example_sentence": "He was cognizant of the risks involved in the project.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি ওয়াজ কগনিজ্যান্ট অফ দ্য রিস্কস ইনভলভড ইন দ্য প্রজেক্ট।"
+            },
+            "position": 6,
+            "synonyms": "aware, mindful, conscious",
+            "antonyms": "unaware, oblivious, ignorant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সচেতন",
+                    "word_transliteration": "shocheton",
+                    "example_sentence_translation": "তিনি প্রকল্পে অন্তর্নিহিত ঝুঁকিগুলোর সম্পর্কে সচেতন ছিলেন।",
+                    "example_sentence_transliteration": "Tini prokolpe ontornihito jhunkigulor shomporke shocheton chhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "delineate",
+            "phonetic": "/dɪˈlɪn.i.eɪt/",
+            "word_native_transliteration": {
+                "bn": "ডিলিনিয়েট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📝",
+            "meaning": "Describe or portray something precisely; mark the outline or boundary of something.",
+            "example_sentence": "The report clearly delineates the company's future plans.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রিপোর্ট ক্লিয়ারলি ডিলিনিয়েটস দ্য কোম্পানিজ ফিউচার প্ল্যানস।"
+            },
+            "position": 7,
+            "synonyms": "describe, outline, define",
+            "antonyms": "confuse, distort, obscure",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বর্ণনা করা",
+                    "word_transliteration": "bornona kora",
+                    "example_sentence_translation": "প্রতিবেদনটি কোম্পানির ভবিষ্যৎ পরিকল্পনাগুলো স্পষ্টভাবে নির্ধারণ করেছে।",
+                    "example_sentence_transliteration": "Protibedonti companir bhobishyot porikalpona gulo spashtobhabe nirdhaaron koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "meticulous",
+            "phonetic": "/məˈtɪk.jə.ləs/",
+            "word_native_transliteration": {
+                "bn": "মেটিকুলাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔍",
+            "meaning": "Showing great attention to detail; very careful and precise.",
+            "example_sentence": "A meticulous planner ensures that no details are overlooked.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ মেটিকুলাস প্ল্যানার এনশিওরস দ্যাট নো ডিটেইলস আর ওভারলুকড।"
+            },
+            "position": 8,
+            "synonyms": "precise, thorough, detail-oriented",
+            "antonyms": "careless, inaccurate, negligent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অত্যন্ত যত্নবান",
+                    "word_transliteration": "ottyonto jotnobaan",
+                    "example_sentence_translation": "একজন নিখুঁত পরিকল্পনাকারী নিশ্চিত করে যে কোনো বিস্তারিত তথ্য বাদ না যায়।",
+                    "example_sentence_transliteration": "Ekjon nikhunto porikolponakari nishchito kore je kono bistarto tothyo baad na jaay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dichotomy",
+            "phonetic": "/daɪˈkɒt.ə.mi/",
+            "word_native_transliteration": {
+                "bn": "ডাইকটমি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "A division or contrast between two things that are or are represented as being opposed or entirely different.",
+            "example_sentence": "There is a clear dichotomy between theory and practice.",
+            "example_sentence_native_transliteration": {
+                "bn": "দের ইজ এ ক্লিয়ার ডাইকটমি বিটুইন থিওরি অ্যান্ড প্র্যাকটিস।"
+            },
+            "position": 9,
+            "synonyms": "division, contrast, duality",
+            "antonyms": "unity, similarity, agreement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৈপরীত্য",
+                    "word_transliteration": "boiporito",
+                    "example_sentence_translation": "তত্ত্ব ও বাস্তবতার মধ্যে একটি স্পষ্ট বৈপরীত্য রয়েছে।",
+                    "example_sentence_transliteration": "Totto o bastobotaar moddhe ekti spashto boiporito royeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "tenacity",
+            "phonetic": "/təˈnæs.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "টেনাসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "The quality or fact of being able to grip something firmly; persistence.",
+            "example_sentence": "His tenacity in solving problems led to his success.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ টেনাসিটি ইন সলভিং প্রবলেমস লেড টু হিজ সাকসেস।"
+            },
+            "position": 10,
+            "synonyms": "persistence, determination, resilience",
+            "antonyms": "weakness, indecision, surrender",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দৃঢ়তা",
+                    "word_transliteration": "dridhota",
+                    "example_sentence_translation": "সমস্যা সমাধানে তার দৃঢ়তা তাকে সাফল্যের পথে নিয়ে গেছে।",
+                    "example_sentence_transliteration": "Shomoshya shomadhane tar dridhota take shafoller pothe niye geche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "scrupulous",
+            "phonetic": "/ˈskruː.pjʊ.ləs/",
+            "word_native_transliteration": {
+                "bn": "স্ক্রুপুলাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚖️",
+            "meaning": "Diligent, thorough, and extremely attentive to details; having moral integrity.",
+            "example_sentence": "He is known for being scrupulous in his work.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি ইজ নোন ফর বিইং স্ক্রুপুলাস ইন হিজ ওয়ার্ক।"
+            },
+            "position": 11,
+            "synonyms": "ethical, honest, conscientious",
+            "antonyms": "dishonest, careless, unprincipled",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সতর্ক ও নৈতিকভাবে সংবেদনশীল",
+                    "word_transliteration": "shotorko o noitikbhabe shongbedonshil",
+                    "example_sentence_translation": "তিনি তার কাজে সততা ও সতর্কতার জন্য পরিচিত।",
+                    "example_sentence_transliteration": "Tini tar kaje shotota o shotorkotar jonno porichito.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "conundrum",
+            "phonetic": "/kəˈnʌn.drəm/",
+            "word_native_transliteration": {
+                "bn": "কনানড্রাম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧩",
+            "meaning": "A confusing and difficult problem or question; a puzzle or riddle.",
+            "example_sentence": "The decision between two job offers was a real conundrum.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডিসিশন বিটুইন টু জব অফারস ওয়াজ এ রিয়াল কনানড্রাম।"
+            },
+            "position": 12,
+            "synonyms": "puzzle, dilemma, enigma",
+            "antonyms": "solution, clarity, simplicity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জটিল সমস্যা",
+                    "word_transliteration": "jotil shomoshya",
+                    "example_sentence_translation": "দুটি চাকরির প্রস্তাবের মধ্যে সিদ্ধান্ত নেওয়া সত্যিই একটি জটিল সমস্যা ছিল।",
+                    "example_sentence_transliteration": "Duti chakrir prostaber moddhe siddhanto neoya shotyi ekti jotil shomoshya chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "adroitness",
+            "phonetic": "/əˈdrɔɪt.nəs/",
+            "word_native_transliteration": {
+                "bn": "অ্যাড্রয়টনেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "Cleverness or skill in using the hands or mind; expertness in performance or execution.",
+            "example_sentence": "His adroitness in negotiations helped secure the deal.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ অ্যাড্রয়টনেস ইন নিগোশিয়েশনস হেল্পড সিকিউর দ্য ডিল।"
+            },
+            "position": 13,
+            "synonyms": "skillfulness, agility, dexterity",
+            "antonyms": "clumsiness, ineptitude, incompetence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষতা",
+                    "word_transliteration": "dokkhhota",
+                    "example_sentence_translation": "আলোচনায় তার চাতুর্য চুক্তিটি নিশ্চিত করতে সাহায্য করেছিল।",
+                    "example_sentence_transliteration": "Aalochonaay tar chaturjo chuktiti nishchito korote shahajjo korechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "acumen",
+            "phonetic": "/ˈæk.jʊ.mən/",
+            "word_native_transliteration": {
+                "bn": "অ্যাকিউমেন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧠",
+            "meaning": "The ability to make good judgments and quick decisions; keen insight.",
+            "example_sentence": "His business acumen led to the company's success.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ বিজনেস অ্যাকিউমেন লেড টু দ্য কোম্পানিজ সাকসেস।"
+            },
+            "position": 14,
+            "synonyms": "insight, intelligence, sharpness",
+            "antonyms": "foolishness, ineptitude, ignorance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "তীক্ষ্ণ বুদ্ধিমত্তা",
+                    "word_transliteration": "tikkhno buddhimotta",
+                    "example_sentence_translation": "তার ব্যবসায়িক উপলব্ধি শক্তি কোম্পানির সাফল্যের কারণ হয়েছে।",
+                    "example_sentence_transliteration": "Tar byobsayik upolbodhi shokti companir shafoller kaaron hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "succinct",
+            "phonetic": "/səkˈsɪŋkt/",
+            "word_native_transliteration": {
+                "bn": "সাক্সিন্ক্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📄",
+            "meaning": "Briefly and clearly expressed; characterized by clear, precise expression in few words.",
+            "example_sentence": "His speech was succinct and impactful.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ স্পিচ ওয়াজ সাক্সিন্ক্ট অ্যান্ড ইমপ্যাক্টফুল।"
+            },
+            "position": 15,
+            "synonyms": "concise, brief, to the point",
+            "antonyms": "wordy, lengthy, rambling",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংক্ষিপ্ত কিন্তু অর্থবহ",
+                    "word_transliteration": "shongkkhipto kintu orthobohon",
+                    "example_sentence_translation": "তার বক্তৃতা সংক্ষিপ্ত কিন্তু প্রভাবশালী ছিল।",
+                    "example_sentence_transliteration": "Tar boktrita shongkkhipto kintu prabhobshali chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "nuanced",
+            "phonetic": "/ˈnjuː.ɑːnst/",
+            "word_native_transliteration": {
+                "bn": "নিউয়ানসড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎨",
+            "meaning": "Characterized by subtle shades of meaning or expression; having fine gradations of meaning, tone, or feeling.",
+            "example_sentence": "His analysis of the novel was highly nuanced.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ অ্যানালাইসিস অফ দ্য নভেল ওয়াজ হাইলি নিউয়ানসড।"
+            },
+            "position": 16,
+            "synonyms": "subtle, detailed, refined",
+            "antonyms": "oversimplified, obvious, crude",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সূক্ষ্ম পার্থক্য যুক্ত",
+                    "word_transliteration": "shukkhmo parthokyo jukto",
+                    "example_sentence_translation": "উপন্যাসটির তার বিশ্লেষণ অত্যন্ত সূক্ষ্ম ও বিস্তারিত ছিল।",
+                    "example_sentence_transliteration": "Uponnyashti tar bishleshhon ottyonto shukkhmo o bistaarito chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "frugality",
+            "phonetic": "/fruːˈɡæl.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "ফ্রুগালিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💰",
+            "meaning": "The quality of being economical in use or expenditure; not wasteful.",
+            "example_sentence": "Frugality is essential for saving money effectively.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফ্রুগালিটি ইজ এসেনশিয়াল ফর সেভিং মানি ইফেক্টিভলি।"
+            },
+            "position": 17,
+            "synonyms": "thriftiness, economical, prudence",
+            "antonyms": "extravagance, wastefulness, lavishness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মিতব্যয়িতা",
+                    "word_transliteration": "mitbyoyita",
+                    "example_sentence_translation": "মিতব্যয়িতা কার্যকরভাবে অর্থ সঞ্চয়ের জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Mitbyoyita karjokorbhabe ortho shonchoyer jonno oporihaarjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "auspicious",
+            "phonetic": "/ɔːˈspɪʃ.əs/",
+            "word_native_transliteration": {
+                "bn": "অস্পিশাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌟",
+            "meaning": "Conducive to success; favorable; giving or being a sign of future success.",
+            "example_sentence": "The wedding was held on an auspicious day.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ওয়েডিং ওয়াজ হেল্ড অন অ্যান অস্পিশাস ডে।"
+            },
+            "position": 18,
+            "synonyms": "favorable, promising, fortunate",
+            "antonyms": "inauspicious, unlucky, ominous",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শুভ",
+                    "word_transliteration": "shubho",
+                    "example_sentence_translation": "বিয়ে একটি শুভ দিনে অনুষ্ঠিত হয়েছিল।",
+                    "example_sentence_transliteration": "Biye ekti shubho dine onushthito hoyechilo.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,391 @@
+{
+    "position": 178,
+    "title_translation": {
+        "en": "Teacher's Hard Lifestyle in Bangladesh",
+        "bn": "বাংলাদেশে শিক্ষকদের কঠিন জীবনযাত্রা"
+    },
+    "content_translation": {
+        "en": "The life of teachers in Bangladesh is very **cumbersome** and challenging. Although they work with a **benevolent** attitude, their efforts often seem **futile**.\n\nThere exists a **dichotomy** where the **disparity** between a teacher's work and their remuneration is clear. Their **protracted** working hours and **menial** responsibilities create enormous pressure for them.\n\nThey suffer from **compunction** and frustration while fulfilling their role in society. Teachers' financial problems are so **exorbitant** that they create **inevitable** pressure in their lives.\n\nHowever, teachers are **resilient** and **indomitable**. They try to **alleviate** various problems to improve the quality of education. This struggle of theirs is a lesson for society.\n\nThis difficult life journey of teachers has **repercussions** that shape future generations.",
+        "bn": "বাং লা দে শে র শি ক্ষকদে র জী বন অনে ক **cumbersome** এবং চ্যা লে ঞ্জপূর্ণ। তা রা **benevolent** মনো ভা ব নি য়ে কা জ করলে ও তা দে র পরি শ্রম অনে ক সময় **futile** মনে হয়।\n\nএকটি **dichotomy** রয়ে ছে , যে খা নে শি ক্ষকে র কা জ এবং তা র পা রি শ্রমি কে র মধ্যে **disparity** স্পষ্ট। তা দে র **protracted** কর্মঘণ্টা এবং **menial** দা য়ি ত্বগুলো তা দে র জন্য একটি বি শা ল চা প।\n\nতা রা সমা জে র জন্য তা দে র ভূমি কা পা লন করতে গি য়ে **compunction** এবং হতা শা র শি কা র হন। শি ক্ষকদে র আর্থি ক সমস্যা এতটা ই **exorbitant** যে তা দে র জী বনে **inevitable** চা প তৈ রি করে ।\n\nতবে , শি ক্ষকে রা **resilient** এবং **indomitable**। তা রা শি ক্ষা র মা ন উন্নত করতে **alleviate** করা র চে ষ্টা করে ন। তা দে র এই সং গ্রা ম সমা জে র জন্য একটি শি ক্ষা ।\n\nশি ক্ষকে র এই কঠিন জী বন যা ত্রা **repercussion** হি সে বে ভবি ষ্য ৎ প্রজন্মকে গঠন করে ।"
+    },
+    "list": [
+        {
+            "word": "cumbersome",
+            "phonetic": "ˈkʌm.bə.səm",
+            "word_native_transliteration": {
+                "bn": "কা ম্বা রসা ম"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📦",
+            "meaning": "Heavy, unwieldy, difficult to handle or carry.",
+            "example_sentence": "The cumbersome luggage slowed him down.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কা ম্বা রসা ম লা গে জ স্লো ড হি ম ডা উন।"
+            },
+            "position": 1,
+            "synonyms": "burdensome, unwieldy",
+            "antonyms": "light, manageable",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভা রী , বি শৃঙ্খল, কষ্টকর",
+                    "word_transliteration": "bhari, bishrikhol, koshtkor",
+                    "example_sentence_translation": "ভা রী লা গে জ তা কে ধী র করে দি য়ে ছি ল।",
+                    "example_sentence_transliteration": "Bhari lagej take dhir kore diyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "benevolent",
+            "phonetic": "bəˈnev.əl.ənt",
+            "word_native_transliteration": {
+                "bn": "বে নে ভো লে ন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💖",
+            "meaning": "Kind, generous, showing goodwill and kindness.",
+            "example_sentence": "His benevolent nature made him beloved.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি স বে নে ভো লে ন্ট নে চা র মে ড হি ম বি লা ভড।"
+            },
+            "position": 2,
+            "synonyms": "kind, generous",
+            "antonyms": "malevolent, cruel",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দয়া লু, উদা র, পরো পকা রী",
+                    "word_transliteration": "doyalu, udar, poropokari",
+                    "example_sentence_translation": "তা র দয়া লু স্বভা ব তা কে সকলে র প্রি য় করে ছে ।",
+                    "example_sentence_transliteration": "Tar doyalu shobhab take sokler priyo korechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "futile",
+            "phonetic": "ˈfjuː.taɪl",
+            "word_native_transliteration": {
+                "bn": "ফি উটা ইল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "❌",
+            "meaning": "Incapable of producing any useful result; pointless.",
+            "example_sentence": "His attempts to change the situation were futile.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি স অ্যা টেম্পটস টু চে ঞ্জ দ্য সি চু এ শন ওয়্যার ফি উটা ইল।"
+            },
+            "position": 3,
+            "synonyms": "useless, ineffective",
+            "antonyms": "effective, worthwhile",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ব্য র্থ, ফলহী ন, নি রর্থক",
+                    "word_transliteration": "byortho, folhin, nirorthok",
+                    "example_sentence_translation": "পরি স্থি তি পরি বর্তনে র তা র প্রচে ষ্টা ব্য র্থ ছি ল।",
+                    "example_sentence_transliteration": "Poristhiti poribortoner tar procheshta byortho chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dichotomy",
+            "phonetic": "daɪˈkɒt.ə.mi",
+            "word_native_transliteration": {
+                "bn": "ডা ইকটমি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "A division or contrast between two things that are or are represented as being opposed or entirely different.",
+            "example_sentence": "The dichotomy between wealth and poverty is glaring.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডা ইকটমি বি টুই ন ওয়েল্থ অ্যা ন্ড পভার্টি ইজ গ্লে য়া রি ং।"
+            },
+            "position": 4,
+            "synonyms": "division, contrast",
+            "antonyms": "unity, similarity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্বৈ ততা , বি ভা জন, দ্বি খণ্ডন",
+                    "word_transliteration": "dwoitota, bibhajon, dwikhondon",
+                    "example_sentence_translation": "ধন ও দা রি দ্র্যে র বি ভা জন সুস্পষ্ট।",
+                    "example_sentence_transliteration": "Dhon o daridroyer bibhajon susposhtho.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "disparity",
+            "phonetic": "dɪˈspær.ə.ti",
+            "word_native_transliteration": {
+                "bn": "ডি সপা রি টি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "A great difference; lack of equality or similarity.",
+            "example_sentence": "There is a huge disparity in wages.",
+            "example_sentence_native_transliteration": {
+                "bn": "দে য়া র ইজ এ হি উজ ডি সপা রি টি ইন ওয়ে জে স।"
+            },
+            "position": 5,
+            "synonyms": "inequality, discrepancy",
+            "antonyms": "equality, parity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অসমতা , পা র্থক্য , বৈ ষম্য",
+                    "word_transliteration": "oshomota, parthokyo, boishomyo",
+                    "example_sentence_translation": "বে তনে র মধ্যে বি শা ল বৈ ষম্য রয়ে ছে ।",
+                    "example_sentence_transliteration": "Betoner moddhe bishal boishomyo royechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "protracted",
+            "phonetic": "prəˈtræk.tɪd",
+            "word_native_transliteration": {
+                "bn": "প্রো ট্র্যা কটে ড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⏰",
+            "meaning": "Lasting for a long time or longer than expected or usual.",
+            "example_sentence": "The negotiations were protracted over months.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নি গো শি এ শনস ওয়্যার প্রো ট্র্যা কটে ড ও ভা র মা নথস।"
+            },
+            "position": 6,
+            "synonyms": "lengthy, extended",
+            "antonyms": "brief, short",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দী র্ঘা য়ি ত, বি লম্বি ত, দী র্ঘসূত্রতা",
+                "word_transliteration": "dirghayito, bilambit, dirghoshutrata",
+                    "example_sentence_translation": "আলো চনা গুলো কয়ে ক মা স ধরে দী র্ঘা য়ি ত ছি ল।",
+                    "example_sentence_transliteration": "Alochonagulo koyekmas dhore dirghayito chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "menial",
+            "phonetic": "ˈmiː.ni.əl",
+            "word_native_transliteration": {
+                "bn": "মি নি য়া ল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧹",
+            "meaning": "Not requiring much skill and lacking prestige.",
+            "example_sentence": "He refused to do menial work.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি রি ফি উজড টু ডু মি নি য়া ল ওয়ার্ক।"
+            },
+            "position": 7,
+            "synonyms": "lowly, unskilled",
+            "antonyms": "important, significant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "তুচ্ছ, নি ম্নশ্রে ণী র, অকি ঞ্চি ৎকর",
+                    "word_transliteration": "tuchchho, nimnoshreir, okinchitkr",
+                    "example_sentence_translation": "তি নি নি ম্নশ্রে ণী র কা জ করতে অস্বী কা র করলে ন।",
+                    "example_sentence_transliteration": "Tini nimnoshreir kaj korte oshwikar korlen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "compunction",
+            "phonetic": "kəmˈpʌŋk.ʃən",
+            "word_native_transliteration": {
+                "bn": "কম্পা ঙ্কশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "😔",
+            "meaning": "A feeling of guilt or moral scruple that prevents or follows the doing of something bad.",
+            "example_sentence": "He felt compunction after lying to his friend.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি ফেল্ট কম্পা ঙ্কশন আ ফটা র লা ইং টু হি স ফ্রে ন্ড।"
+            },
+            "position": 8,
+            "synonyms": "remorse, regret",
+            "antonyms": "indifference, shamelessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনুশো চনা , অপরা ধবো ধ, অনুতা প",
+                    "word_transliteration": "onushochona, oporadhobodh, onutap",
+                    "example_sentence_translation": "বন্ধুর সা থে মি থ্যা বলা র পর তি নি অনুশো চনা অনুভব করলে ন।",
+                    "example_sentence_transliteration": "Bondhur sathe mithya bolar por tini onushochona onubhob korlen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "exorbitant",
+            "phonetic": "ɪɡˈzɔː.bɪ.tənt",
+            "word_native_transliteration": {
+                "bn": "এক্সরবি ট্যা ন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💰",
+            "meaning": "Unreasonably high; excessive.",
+            "example_sentence": "The hotel charged an exorbitant price.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য হো টে ল চা র্জড অ্যা ন এক্সরবি ট্যা ন্ট প্রা ইস।"
+            },
+            "position": 9,
+            "synonyms": "excessive, outrageous",
+            "antonyms": "reasonable, moderate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মা ত্রা তি রি ক্ত, অত্য ধি ক, অযৌ ক্তি ক",
+                    "word_transliteration": "matratirikto, ottyodhik", 
+                    "example_sentence_translation": "হো টে লটি অত্য ধি ক মূল্য চা র্জ করে ছি ল।",
+                    "example_sentence_transliteration": "Hotelti ottyodhik mulyo charj korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "inevitable",
+            "phonetic": "ɪnˈev.ɪ.tə.bəl",
+            "word_native_transliteration": {
+                "bn": "ইনে ভি টে বল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔒",
+            "meaning": "Certain to happen; unavoidable.",
+            "example_sentence": "Death is an inevitable part of life.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডে থ ইজ অ্যা ন ইনে ভি টে বল পা র্ট অব লা ইফ।"
+            },
+            "position": 10,
+            "synonyms": "unavoidable, certain",
+            "antonyms": "avoidable, preventable",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনি বা র্য, অবধা রি ত, নি শ্চি ত",
+                    "word_transliteration": "onibaryo, obdharito, nishchito",
+                    "example_sentence_translation": "মৃত্যু জী বনে র অনি বা র্য অং শ।",
+                    "example_sentence_transliteration": "Mrityu jiboner onibaryo ongso.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "resilient",
+            "phonetic": "rɪˈzɪl.i.ənt",
+            "word_native_transliteration": {
+                "bn": "রে জি লি য়ে ন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💪",
+            "meaning": "Able to withstand or recover quickly from difficult conditions.",
+            "example_sentence": "The resilient athlete recovered quickly.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রে জি লি য়ে ন্ট অ্য থ লি ট রি কা ভার্ড কুই কলি।"
+            },
+            "position": 11,
+            "synonyms": "tough, adaptable",
+            "antonyms": "fragile, weak",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্থি তি স্থা পক, সহনশী ল, দৃঢ়দৃ চে তা",
+                    "word_transliteration": "stithisthapok, sohnoshil, dridhocheta",
+                    "example_sentence_translation": "স্থি তি স্থা পক ক্রী ড়া বি দ দ্রুত সুস্থ হয়ে উঠল।",
+                    "example_sentence_transliteration": "Stithisthapok kridabid druto shustho hoye uthlo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "indomitable",
+            "phonetic": "ɪnˈdɒm.ɪ.tə.bəl",
+            "word_native_transliteration": {
+                "bn": "ইনডমি টে বল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🦁",
+            "meaning": "Impossible to subdue or defeat.",
+            "example_sentence": "His indomitable spirit led to success.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি স ইনডমি টে বল স্পি রি ট লে ড টু সা কসে স।"
+            },
+            "position": 12,
+            "synonyms": "unconquerable, dauntless",
+            "antonyms": "submissive, defeated",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অবি চল, অপ্রতি রো ধ্য , অপরা জে য়",
+                    "word_transliteration": "obichol, oprotirodho, oporajeyo",
+                    "example_sentence_translation": "তা র অপরা জে য় মনো ভা ব তা কে সা ফল্য এনে দি য়ে ছি ল।",
+                    "example_sentence_transliteration": "Tar oporajeyo monobhab take shafolyo ene diyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "alleviate",
+            "phonetic": "əˈliː.vi.eɪt",
+            "word_native_transliteration": {
+                "bn": "অ্যা লি ভি য়ে ট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🩹",
+            "meaning": "Make (suffering, deficiency, or a problem) less severe.",
+            "example_sentence": "The medicine helped alleviate his pain.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য মে ডি সি ন হেল্পড অ্যা লি ভি য়ে ট হি স পে ইন।"
+            },
+            "position": 13,
+            "synonyms": "reduce, mitigate",
+            "antonyms": "aggravate, intensify",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "লা ঘব করা , উপশম করা , কমা নো",
+                    "word_transliteration": "laghob kora, uposhom kora, komano",
+                    "example_sentence_translation": "ঔষধটি তা র ব্য থা লা ঘব করতে সা হা য্য করে ছি ল।",
+                    "example_sentence_transliteration": "Oushodhti tar bytha laghob korte sahayyo korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "repercussion",
+            "phonetic": "ˌriː.pəˈkʌʃ.ən",
+            "word_native_transliteration": {
+                "bn": "রি পা রকা শন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "An unintended consequence occurring some time after an event or action.",
+            "example_sentence": "The scandal had severe repercussions.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্কা ন্ডা ল হ্যা ড সি ভি য়া র রি পা রকা শনস।"
+            },
+            "position": 14,
+            "synonyms": "consequence, outcome",
+            "antonyms": "cause, source",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতি ক্রি য়া , ফলা ফল, পরি ণা ম",
+                    "word_transliteration": "protikriya, pholaphol, porinam",
+                    "example_sentence_translation": "কে লে ঙ্কা রি র গুরু তর প্রতি ক্রি য়া ছি ল।",
+                    "example_sentence_transliteration": "Kelenkari gurutor protikriya chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

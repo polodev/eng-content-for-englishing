@@ -1,0 +1,472 @@
+{
+    "position": 172,
+    "title_translation": {
+        "en": "Safety Tips for Camping Adventures",
+        "bn": "ক্যাম্পিং অ্যাডভেঞ্চারের জন্য নিরাপত্তার পরামর্শ"
+    },
+    "content_translation": {
+        "en": "Enjoying the beauty of nature through **camping** is an **auspicious** experience, but proper preparation is extremely important for it. Many people go **oblivious** to camping, which can often create **precarious** situations. First, the camping location should be selected **circumspect**ly, so that it is **pristine** and **salubrious**. The campsite should not be **labyrinthine**, so that there is less fear of getting lost. In unfamiliar environments, one should always remain **vigilant**, as wild animals or adverse weather can behave **erratic**ally. Food and necessary equipment should be carried through **deft** planning without being **redundant**. If sudden weather changes or any other **fortuitous** danger arises, one should be prepared to **mitigate** it. To avoid any **surreptitious** risks, arrangements for nighttime fire and staying in safe places are necessary. Therefore, to make camping safe, maintaining a **tenacious** mindset and proper planning to **elude** situations is important.",
+        "bn": "প্রকৃতির সৌন্দর্য উপভোগ করতে **camping** একটি **auspicious** অভিজ্ঞতা, তবে এর জন্য যথাযথ প্রস্তুতি থাকা অত্যন্ত জরুরি। অনেকেই **oblivious** থেকে ক্যাম্পিংয়ে যায়, যা অনেক সময় **precarious** পরিস্থিতি তৈরি করতে পারে। প্রথমেই, ক্যাম্পিং করার জায়গাটি **circumspect** হয়ে নির্বাচন করা উচিত, যাতে তা **pristine** এবং **salubrious** হয়। ক্যাম্পের জায়গাটি যেন **labyrinthine** না হয়, যাতে হারিয়ে যাওয়ার ভয় কম থাকে। অপরিচিত পরিবেশে সবসময় **vigilant** থাকা দরকার, কারণ বন্য প্রাণী কিংবা প্রতিকূল আবহাওয়া **erratic** আচরণ করতে পারে। খাবার এবং প্রয়োজনীয় সরঞ্জাম **redundant** না নিয়ে **deft** পরিকল্পনার মাধ্যমে বহন করা উচিত। যদি হঠাৎ আবহাওয়া খারাপ হয় বা অন্য কোনো **fortuitous** বিপদ আসে, তবে তা **mitigate** করার জন্য প্রস্তুত থাকা দরকার। **Surreptitious** কোনো ঝুঁকি এড়াতে রাতে আগুনের ব্যবস্থা এবং নিরাপদ জায়গায় থাকার পরিকল্পনা করা প্রয়োজন। অতএব, ক্যাম্পিং নিরাপদ করতে, **tenacious** মনোভাব রাখা এবং পরিস্থিতি **elude** করার জন্য সঠিক পরিকল্পনা করা গুরুত্বপূর্ণ।"
+    },
+    "list": [
+        {
+            "word": "camping",
+            "phonetic": "ˈkæm.pɪŋ",
+            "word_native_transliteration": {
+                "bn": "ক্যাম্পিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏕️",
+            "meaning": "Living outdoors temporarily, especially for recreation; staying in a tent or similar shelter.",
+            "example_sentence": "Many families go camping during holidays.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেনি ফ্যামিলিস গো ক্যাম্পিং ডিউরিং হলিডেজ।"
+            },
+            "position": 1,
+            "synonyms": "outdoor living, tent stay, expedition",
+            "antonyms": "indoors, urban stay, confinement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বহিরঙ্গন ভ্রমণ",
+                    "word_transliteration": "bohirongon bhromon",
+                    "example_sentence_translation": "অনেক পরিবার ছুটিতে ক্যাম্পিং করতে যায়।",
+                    "example_sentence_transliteration": "Onek poribar chhutite camping korte jay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "auspicious",
+            "phonetic": "ɔːˈspɪʃ.əs",
+            "word_native_transliteration": {
+                "bn": "অস্পিশাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌟",
+            "meaning": "Showing or suggesting that future success is likely; favorable or promising.",
+            "example_sentence": "The wedding took place on an auspicious day.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ওয়েডিং টুক প্লেস অন অ্যান অস্পিশাস ডে।"
+            },
+            "position": 2,
+            "synonyms": "favorable, propitious, fortunate",
+            "antonyms": "inauspicious, ominous, unlucky",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শুভ",
+                    "word_transliteration": "shubho",
+                    "example_sentence_translation": "বিবাহটি একটি অস্পিশাস দিনে সম্পন্ন হয়েছিল।",
+                    "example_sentence_transliteration": "Bibahti ekti auspicious dine somponno hoyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "oblivious",
+            "phonetic": "əˈblɪv.i.əs",
+            "word_native_transliteration": {
+                "bn": "ওব্লিভিয়াস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "😴",
+            "meaning": "Not aware of or not concerned about what is happening around one; unmindful.",
+            "example_sentence": "He was oblivious to the danger ahead.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি ওয়াস ওব্লিভিয়াস টু দ্য ডেঞ্জার অ্যাহেড।"
+            },
+            "position": 3,
+            "synonyms": "unaware, heedless, unmindful",
+            "antonyms": "aware, conscious, mindful",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অমনোযোগী",
+                    "word_transliteration": "omonojogi",
+                    "example_sentence_translation": "সে সামনে থাকা বিপদের ব্যাপারে ওব্লিভিয়াস ছিল।",
+                    "example_sentence_transliteration": "Se shamne thaka bipoder byapare oblivious chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "precarious",
+            "phonetic": "prɪˈkeə.ri.əs",
+            "word_native_transliteration": {
+                "bn": "প্রিকারিয়াস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚠️",
+            "meaning": "Not securely held or in position; dependent on chance; uncertain.",
+            "example_sentence": "His financial situation is precarious.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিস ফাইনান্শিয়াল সিচুয়েশন ইজ প্রিকারিয়াস।"
+            },
+            "position": 4,
+            "synonyms": "unstable, risky, hazardous",
+            "antonyms": "secure, safe, stable",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিপজ্জনক",
+                    "word_transliteration": "bipojjonok",
+                    "example_sentence_translation": "তার আর্থিক অবস্থা প্রিকারিয়াস।",
+                    "example_sentence_transliteration": "Tar arthik obostha precarious.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "circumspect",
+            "phonetic": "ˈsɜː.kəm.spekt",
+            "word_native_transliteration": {
+                "bn": "সার্কামস্পেক্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🤔",
+            "meaning": "Wary and unwilling to take risks; cautious and prudent.",
+            "example_sentence": "He was circumspect while making the investment.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি ওয়াস সার্কামস্পেক্ট হোয়াইল মেকিং দ্য ইনভেস্টমেন্ট।"
+            },
+            "position": 5,
+            "synonyms": "cautious, prudent, wary",
+            "antonyms": "reckless, careless, impulsive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সতর্ক",
+                    "word_transliteration": "shotorko",
+                    "example_sentence_translation": "সে বিনিয়োগ করার সময় সার্কামস্পেক্ট ছিল।",
+                    "example_sentence_transliteration": "Se biniyog korar somoy circumspect chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pristine",
+            "phonetic": "ˈprɪs.tiːn",
+            "word_native_transliteration": {
+                "bn": "প্রিস্টিন"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "✨",
+            "meaning": "In its original condition; unspoiled; clean and fresh as if new.",
+            "example_sentence": "The island remains pristine and unspoiled.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য আইল্যান্ড রিমেইনস প্রিস্টিন অ্যান্ড আনস্পয়েল্ড।"
+            },
+            "position": 6,
+            "synonyms": "pure, untouched, unspoiled",
+            "antonyms": "contaminated, polluted, corrupt",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অবিকৃত",
+                    "word_transliteration": "obikrito",
+                    "example_sentence_translation": "দ্বীপটি এখনো প্রিস্টিন এবং অবিকৃত আছে।",
+                    "example_sentence_transliteration": "Dwipti ekhono pristine ebong obikrito achhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "salubrious",
+            "phonetic": "səˈluː.bri.əs",
+            "word_native_transliteration": {
+                "bn": "সালুব্রিয়াস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💚",
+            "meaning": "Health-giving; healthy; promoting health and well-being.",
+            "example_sentence": "The mountain air is salubrious and refreshing.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য মাউন্টেন এয়ার ইজ সালুব্রিয়াস অ্যান্ড রিফ্রেশিং।"
+            },
+            "position": 7,
+            "synonyms": "wholesome, healthy, hygienic",
+            "antonyms": "unhealthy, harmful, insalubrious",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বাস্থ্যকর",
+                    "word_transliteration": "swasthyokor",
+                    "example_sentence_translation": "পর্বতের বাতাস সালুব্রিয়াস এবং সতেজকারী।",
+                    "example_sentence_transliteration": "Porbotter batash salubrious ebong shotejokaari.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "labyrinthine",
+            "phonetic": "ˌlæb.əˈrɪn.θaɪn",
+            "word_native_transliteration": {
+                "bn": "ল্যাবিরিন্থাইন"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌀",
+            "meaning": "Like a labyrinth; complicated and confusing; having many interconnected paths or passages.",
+            "example_sentence": "The old city streets were labyrinthine.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ওল্ড সিটি স্ট্রিটস ওয়্যার ল্যাবিরিন্থাইন।"
+            },
+            "position": 8,
+            "synonyms": "complex, intricate, twisting",
+            "antonyms": "straightforward, simple, uncomplicated",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জটিল",
+                    "word_transliteration": "jotil",
+                    "example_sentence_translation": "পুরাতন শহরের রাস্তাগুলো ল্যাবিরিন্থাইন ছিল।",
+                    "example_sentence_transliteration": "Puraton shohorer rastagulo labyrinthine chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "vigilant",
+            "phonetic": "ˈvɪdʒ.ɪ.lənt",
+            "word_native_transliteration": {
+                "bn": "ভিজিল্যান্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "👁️",
+            "meaning": "Keeping careful watch for possible danger or difficulties; alert and watchful.",
+            "example_sentence": "The guards remained vigilant throughout the night.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গার্ডস রিমেইন্ড ভিজিল্যান্ট থ্রুআউট দ্য নাইট।"
+            },
+            "position": 9,
+            "synonyms": "watchful, alert, attentive",
+            "antonyms": "negligent, careless, unaware",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সতর্ক",
+                    "word_transliteration": "shotorko",
+                    "example_sentence_translation": "প্রহরীরা সারা রাত ভিজিল্যান্ট ছিল।",
+                    "example_sentence_transliteration": "Proharira shara rat vigilant chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "erratic",
+            "phonetic": "ɪˈræt.ɪk",
+            "word_native_transliteration": {
+                "bn": "এর্যাটিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔀",
+            "meaning": "Unpredictable and inconsistent; not even or regular in pattern or movement.",
+            "example_sentence": "His erratic behavior confused his colleagues.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিস এর্যাটিক বিহেভিয়ার কনফিউজড হিস কলিগস।"
+            },
+            "position": 10,
+            "synonyms": "unpredictable, inconsistent, capricious",
+            "antonyms": "consistent, predictable, stable",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনিয়মিত",
+                    "word_transliteration": "oniyomito",
+                    "example_sentence_translation": "তার এর্যাটিক আচরণ সহকর্মীদের বিভ্রান্ত করেছে।",
+                    "example_sentence_transliteration": "Tar erratic acharon shohokormider bibhranto korechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "redundant",
+            "phonetic": "rɪˈdʌn.dənt",
+            "word_native_transliteration": {
+                "bn": "রিডানডান্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔄",
+            "meaning": "Not needed because of repetition or replacement; superfluous or excessive.",
+            "example_sentence": "His explanation was redundant and repetitive.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিস এক্সপ্ল্যানেশন ওয়াস রিডানডান্ট অ্যান্ড রিপিটিটিভ।"
+            },
+            "position": 11,
+            "synonyms": "excessive, superfluous, unnecessary",
+            "antonyms": "essential, necessary, concise",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অপ্রয়োজনীয়",
+                    "word_transliteration": "oproyojoniyyo",
+                    "example_sentence_translation": "তার ব্যাখ্যা রিডানডান্ট এবং পুনরাবৃত্তিমূলক ছিল।",
+                    "example_sentence_transliteration": "Tar byakha redundant ebong punorabriittimulok chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "deft",
+            "phonetic": "deft",
+            "word_native_transliteration": {
+                "bn": "ডেফট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎯",
+            "meaning": "Neatly skillful and quick in one's movements; dexterous and adroit.",
+            "example_sentence": "The artist's deft hands created a masterpiece.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য আর্টিস্টস ডেফট হ্যান্ডস ক্রিয়েটেড এ মাস্টারপিস।"
+            },
+            "position": 12,
+            "synonyms": "skillful, nimble, dexterous",
+            "antonyms": "clumsy, inept, awkward",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষ",
+                    "word_transliteration": "dokkho",
+                    "example_sentence_translation": "শিল্পীর ডেফট হাত এক অসাধারণ সৃষ্টি তৈরি করেছিল।",
+                    "example_sentence_transliteration": "Shilpir deft hat ek oshadharon srishti toiri korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fortuitous",
+            "phonetic": "fɔːˈtjuː.ɪ.təs",
+            "word_native_transliteration": {
+                "bn": "ফরচুইটাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎲",
+            "meaning": "Happening by accident or chance rather than design; lucky or fortunate.",
+            "example_sentence": "Their meeting was purely fortuitous.",
+            "example_sentence_native_transliteration": {
+                "bn": "দেয়ার মিটিং ওয়াস পিউরলি ফরচুইটাস।"
+            },
+            "position": 13,
+            "synonyms": "accidental, serendipitous, lucky",
+            "antonyms": "intentional, deliberate, planned",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আকস্মিক",
+                    "word_transliteration": "akosmik",
+                    "example_sentence_translation": "তাদের সাক্ষাৎ সম্পূর্ণ ফরচুইটাস ছিল।",
+                    "example_sentence_transliteration": "Tader shakkhaat shompurno fortuitous chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "mitigate",
+            "phonetic": "ˈmɪt.ɪ.ɡeɪt",
+            "word_native_transliteration": {
+                "bn": "মিটিগেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🛡️",
+            "meaning": "Make less severe, serious, or painful; to reduce or diminish the impact of something.",
+            "example_sentence": "The government took steps to mitigate the crisis.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গভর্নমেন্ট টুক স্টেপস টু মিটিগেট দ্য ক্রাইসিস।"
+            },
+            "position": 14,
+            "synonyms": "alleviate, reduce, lessen",
+            "antonyms": "aggravate, exacerbate, intensify",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উপশম করা",
+                    "word_transliteration": "uposhom kora",
+                    "example_sentence_translation": "সরকার সংকট মিটিগেট করার পদক্ষেপ নিয়েছে।",
+                    "example_sentence_transliteration": "Shorkar shongkot mitigate korar podokkhep niyechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "surreptitious",
+            "phonetic": "ˌsʌr.əpˈtɪʃ.əs",
+            "word_native_transliteration": {
+                "bn": "সারেপটিশাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🕵️",
+            "meaning": "Kept secret, especially because it would not be approved of; done stealthily.",
+            "example_sentence": "She took a surreptitious glance at his notes.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি টুক এ সারেপটিশাস গ্ল্যান্স অ্যাট হিস নোটস।"
+            },
+            "position": 15,
+            "synonyms": "secretive, clandestine, stealthy",
+            "antonyms": "open, overt, transparent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গোপন",
+                    "word_transliteration": "gopon",
+                    "example_sentence_translation": "সে তার নোটের দিকে সারেপটিশাস ভাবে তাকাল।",
+                    "example_sentence_transliteration": "Se tar noter dike surreptitious bhabe takalo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "tenacious",
+            "phonetic": "tɪˈneɪ.ʃəs",
+            "word_native_transliteration": {
+                "bn": "টেনেশাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💪",
+            "meaning": "Not readily letting go of, giving up, or separated from an object that one holds, a position, or a principle; persistent.",
+            "example_sentence": "Her tenacious spirit helped her overcome hardships.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার টেনেশাস স্পিরিট হেল্পড হার ওভারকাম হার্ডশিপস।"
+            },
+            "position": 16,
+            "synonyms": "persistent, determined, unyielding",
+            "antonyms": "weak, indecisive, hesitant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দৃঢ়",
+                    "word_transliteration": "drirrho",
+                    "example_sentence_translation": "তার টেনেশাস মানসিকতা তাকে কঠিন সময়ে টিকে থাকতে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Tar tenacious manoshikota take kothin shomoye tike thaakte shahajyo korechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "elude",
+            "phonetic": "ɪˈluːd",
+            "word_native_transliteration": {
+                "bn": "এলুড"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🏃",
+            "meaning": "Evade or escape from, typically in a skillful or cunning way; avoid being caught.",
+            "example_sentence": "The thief managed to elude the police.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য থিফ ম্যানেজড টু এলুড দ্য পুলিশ।"
+            },
+            "position": 17,
+            "synonyms": "evade, escape, dodge",
+            "antonyms": "confront, capture, encounter",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "এড়িয়ে চলা",
+                    "word_transliteration": "eriye chola",
+                    "example_sentence_translation": "চোর পুলিশকে এলুড করতে সক্ষম হয়েছিল।",
+                    "example_sentence_transliteration": "Chor pulishke elude korte shokkho hoyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

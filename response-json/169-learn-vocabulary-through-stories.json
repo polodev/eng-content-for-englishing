@@ -1,0 +1,499 @@
+{
+    "position": 169,
+    "title_translation": {
+        "en": "Problem-Solving Skills for Everyday Life",
+        "bn": "প্রতিদিনের জীবনের জন্য সমস্যা সমাধানের দক্ষতা"
+    },
+    "content_translation": {
+        "en": "We have to face many types of problems in our daily lives. **Problem-solving** skills are a way that helps us get out of various **obstacles** and **adversity**. First, we need to understand the **complexity** of the problem and then **analyze** it. After that, using **cognitive** skills, considering the **contingency** of the situation, we can make the right decision. Through **intuition** and **evaluative** ability, we can easily **extrapolate** possible **consequences** and find solutions to problems. However, sometimes it is necessary to adopt **perseverance** and **pragmatic** approaches to get rid of **divergence**.\n\nFinally, **synthesis** can be done—extracting a **viable** solution from various elements that helps bring about the **resolution** of the problem. These **problem-solving** **skills** play a major role in improving the quality of our lives in daily life.",
+        "bn": "প্রতিদিনের জীবনে আমাদেরকে অনেক ধরনের সমস্যা মোকাবিলা করতে হয়। **Problem-solving** দক্ষতা এমন একটি উপায় যা আমাদেরকে বিভিন্ন **obstacles** এবং **adversity**-র মধ্যে থেকে বের হতে সাহায্য করে। প্রথমে, সমস্যার **complexity** বুঝতে হবে এবং তারপরে **analysis** করতে হবে। এরপর, **cognitive** দক্ষতা ব্যবহার করে, পরিস্থিতির **contingency** যাচাই করে, আমরা সঠিক সিদ্ধান্ত নিতে পারি। **Intuition** এবং **evaluative** ক্ষমতার মাধ্যমে, আমরা সহজেই সম্ভাব্য **consequences** **extrapolate** করে সমস্যার সমাধান খুঁজে বের করতে পারি। তবে, মাঝেমাঝে **divergence** থেকে পরিত্রাণ পেতে **perseverance** এবং **pragmatic** পন্থা অবলম্বন করা জরুরি।\n\nসবশেষে, **synthesis** করা যায়—বিভিন্ন উপাদান থেকে একটি **viable** সমাধান বের করে যা সমস্যার **resolution** আনতে সাহায্য করে। দৈনন্দিন জীবনে এই **problem-solving** দক্ষতা আমাদের জীবনের মান উন্নত করতে বড় ভূমিকা রাখে।"
+    },
+    "list": [
+        {
+            "word": "problem-solving",
+            "phonetic": "/ˈprɒbləm ˈsɒlvɪŋ/",
+            "word_native_transliteration": {
+                "bn": "প্রবলেম-সলভিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧩",
+            "meaning": "The process of working through details of a problem to reach a solution.",
+            "example_sentence": "Effective problem-solving is critical in overcoming challenges.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইফেকটিভ প্রবলেম-সলভিং ইজ ক্রিটিকাল ইন ওভারকামিং চ্যালেঞ্জেস।"
+            },
+            "position": 1,
+            "synonyms": "solution-finding, troubleshooting",
+            "antonyms": "problematic, difficult",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সমস্যা সমাধান",
+                    "word_transliteration": "shomoshya shomadhon",
+                    "example_sentence_translation": "কার্যকর সমস্যা সমাধান চ্যালেঞ্জ অতিক্রম করার জন্য অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Karjokoro shomoshya shomadhon challenge otikromo korar jonno ottyonto guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "skills",
+            "phonetic": "/skɪlz/",
+            "word_native_transliteration": {
+                "bn": "স্কিলস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The ability to do something well; expertise.",
+            "example_sentence": "Learning new skills can increase personal and professional growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "লার্নিং নিউ স্কিলস ক্যান ইনক্রিজ পার্সোনাল অ্যান্ড প্রোফেশনাল গ্রোথ।"
+            },
+            "position": 2,
+            "synonyms": "abilities, expertise",
+            "antonyms": "incompetence, inability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষতা, ক্ষমতা",
+                    "word_transliteration": "dokkho ta, khomota",
+                    "example_sentence_translation": "নতুন দক্ষতা শেখা ব্যক্তিগত এবং পেশাদার বৃদ্ধি বাড়াতে পারে।",
+                    "example_sentence_transliteration": "Notun dokkhota shekha byoktigoto ebong peshadar briddhi barate pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "obstacles",
+            "phonetic": "/ˈɒbstəkəlz/",
+            "word_native_transliteration": {
+                "bn": "অবস্ট্যাকলস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚧",
+            "meaning": "Things that block one's way or prevent or hinder progress.",
+            "example_sentence": "Obstacles in life can often lead to valuable lessons.",
+            "example_sentence_native_transliteration": {
+                "bn": "অবস্ট্যাকলস ইন লাইফ ক্যান অফেন লিড টু ভ্যালুয়েবল লেসনস।"
+            },
+            "position": 3,
+            "synonyms": "barriers, hindrances",
+            "antonyms": "assistance, support",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিবন্ধকতা",
+                    "word_transliteration": "protibondhokota",
+                    "example_sentence_translation": "জীবনের প্রতিবন্ধকতা প্রায়ই মূল্যবান পাঠের দিকে নিয়ে যায়।",
+                    "example_sentence_transliteration": "Jiboner protibondhokota prayoi mulyoban pathher dike niye jay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "adversity",
+            "phonetic": "/ədˈvɜːsɪti/",
+            "word_native_transliteration": {
+                "bn": "অ্যাডভারসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⛈️",
+            "meaning": "Difficulties; misfortune.",
+            "example_sentence": "Overcoming adversity makes a person stronger and wiser.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওভারকামিং অ্যাডভারসিটি মেইকস এ পারসন স্ট্রংগার অ্যান্ড ওয়াইজার।"
+            },
+            "position": 4,
+            "synonyms": "hardship, difficulty",
+            "antonyms": "prosperity, success",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দুর্দশা, বিপত্তি",
+                    "word_transliteration": "durdosha, bipotti",
+                    "example_sentence_translation": "দুর্দশা কাটিয়ে উঠলে একজন ব্যক্তি আরও শক্তিশালী এবং জ্ঞানী হয়।",
+                    "example_sentence_transliteration": "Durdosha katiye uthle ekjon byokti aro shoktishali ebong gyani hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "complexity",
+            "phonetic": "/kəmˈplɛksɪti/",
+            "word_native_transliteration": {
+                "bn": "কমপ্লেক্সিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌀",
+            "meaning": "The state of being complex; intricacy.",
+            "example_sentence": "The complexity of the problem required a team of experts.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কমপ্লেক্সিটি অফ দ্য প্রবলেম রিকোয়ার্ড এ টিম অফ এক্সপার্টস।"
+            },
+            "position": 5,
+            "synonyms": "intricacy, complication",
+            "antonyms": "simplicity, clarity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জটিলতা",
+                    "word_transliteration": "jotilota",
+                    "example_sentence_translation": "সমস্যার জটিলতার জন্য বিশেষজ্ঞদের একটি দল প্রয়োজন ছিল।",
+                    "example_sentence_transliteration": "Shomoshyar jotilota r jonno bisheshogynder ekti dol proyojon chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "analysis",
+            "phonetic": "/əˈnælɪsɪs/",
+            "word_native_transliteration": {
+                "bn": "অ্যানালিসিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔍",
+            "meaning": "Detailed examination of the elements or structure of something.",
+            "example_sentence": "A detailed analysis of the data revealed several patterns.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ ডিটেইলড অ্যানালিসিস অফ দ্য ডেটা রিভিলড সেভারাল প্যাটার্নস।"
+            },
+            "position": 6,
+            "synonyms": "examination, scrutiny",
+            "antonyms": "synthesis, overview",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিশ্লেষণ",
+                    "word_transliteration": "bishleshon",
+                    "example_sentence_translation": "তথ্যের একটি বিস্তারিত বিশ্লেষণ অনেক প্যাটার্ন প্রকাশ করেছে।",
+                    "example_sentence_transliteration": "Tottho r ekti bishtarito bishleshon onek pattern prokash koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cognitive",
+            "phonetic": "/ˈkɒɡnɪtɪv/",
+            "word_native_transliteration": {
+                "bn": "কগনিটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧠",
+            "meaning": "Related to thinking, understanding, learning, and remembering.",
+            "example_sentence": "Cognitive development is crucial for problem-solving abilities.",
+            "example_sentence_native_transliteration": {
+                "bn": "কগনিটিভ ডেভেলপমেন্ট ইজ ক্রুশিয়াল ফর প্রবলেম-সলভিং এবিলিটিজ।"
+            },
+            "position": 7,
+            "synonyms": "intellectual, mental",
+            "antonyms": "emotional, physical",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জ্ঞানসংক্রান্ত",
+                    "word_transliteration": "gyansongkranto",
+                    "example_sentence_translation": "সমস্যা সমাধানের ক্ষমতার জন্য কগনিটিভ বিকাশ অপরিহার্য।",
+                    "example_sentence_transliteration": "Shomoshya somadhan er khomotar jonno cognitive bikash oporiharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "contingency",
+            "phonetic": "/kənˈtɪndʒənsi/",
+            "word_native_transliteration": {
+                "bn": "কন্টিনজেন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔮",
+            "meaning": "A future event or circumstance that is possible but cannot be predicted with certainty.",
+            "example_sentence": "Contingency planning is essential in case of unexpected events.",
+            "example_sentence_native_transliteration": {
+                "bn": "কন্টিনজেন্সি প্ল্যানিং ইজ এসেনশিয়াল ইন কেস অফ আনএক্সপেক্টেড ইভেন্টস।"
+            },
+            "position": 8,
+            "synonyms": "emergency, possibility",
+            "antonyms": "certainty, predictability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনিশ্চয়তা, দুর্ঘটনা",
+                    "word_transliteration": "onis choy ota, durghoto na",
+                    "example_sentence_translation": "অপ্রত্যাশিত ঘটনার ক্ষেত্রে কন্টিনজেন্সি পরিকল্পনা অপরিহার্য।",
+                    "example_sentence_transliteration": "Oprotyashito ghotnar khetre contingency porikolpona oporiharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "intuition",
+            "phonetic": "/ˌɪntjuˈɪʃən/",
+            "word_native_transliteration": {
+                "bn": "ইনটুইশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💡",
+            "meaning": "The ability to understand something immediately, without the need for conscious reasoning.",
+            "example_sentence": "Intuition often guides us in making quick decisions.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনটুইশন অফেন গাইডস আস ইন মেইকিং কুইক ডিসিশনস।"
+            },
+            "position": 9,
+            "synonyms": "instinct, hunch",
+            "antonyms": "reasoning, analysis",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অন্তর্দৃষ্টি",
+                    "word_transliteration": "ontordristi",
+                    "example_sentence_translation": "ইনটুইশন প্রায়ই আমাদের দ্রুত সিদ্ধান্ত নিতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Intuition prayoi amader druto siddhanto nite sahajjo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "evaluative",
+            "phonetic": "/ɪˈvæljʊətɪv/",
+            "word_native_transliteration": {
+                "bn": "ইভ্যালুয়েটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚖️",
+            "meaning": "Relating to or involving evaluation or assessment.",
+            "example_sentence": "The evaluative phase of the project involves assessing its success.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইভ্যালুয়েটিভ ফেজ অফ দ্য প্রজেক্ট ইনভলভস অ্যাসেসিং ইটস সাকসেস।"
+            },
+            "position": 10,
+            "synonyms": "assessing, appraising",
+            "antonyms": "indifferent, unconcerned",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মূল্যায়নমূলক",
+                    "word_transliteration": "mulyayon mulok",
+                    "example_sentence_translation": "প্রকল্পের মূল্যায়নমূলক পর্যায়ে এর সফলতা মূল্যায়ন করা হয়।",
+                    "example_sentence_transliteration": "Prokolper mulyayonmulok porjaye er sofolota mulyayon kora hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "consequences",
+            "phonetic": "/ˈkɒnsɪkwənsɪz/",
+            "word_native_transliteration": {
+                "bn": "কনসিকোয়েন্সেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "Results or effects of an action or condition.",
+            "example_sentence": "The consequences of ignoring safety protocols can be severe.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কনসিকোয়েন্সেস অফ ইগনোরিং সেইফটি প্রোটোকলস ক্যান বি সিভিয়ার।"
+            },
+            "position": 11,
+            "synonyms": "outcomes, results",
+            "antonyms": "cause, reason",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিণতি, ফলাফল",
+                    "word_transliteration": "porinoti, pholaphol",
+                    "example_sentence_translation": "নিরাপত্তা প্রোটোকল উপেক্ষা করার পরিণতি গুরুতর হতে পারে।",
+                    "example_sentence_transliteration": "Nirappotta protocol upekha korar porinoti guruto r hote pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "extrapolate",
+            "phonetic": "/ɪksˈtræpəleɪt/",
+            "word_native_transliteration": {
+                "bn": "এক্সট্রাপোলেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📈",
+            "meaning": "To extend the application of a method or conclusion to an unknown situation by assuming that existing trends will continue.",
+            "example_sentence": "Based on current data, we can extrapolate future trends.",
+            "example_sentence_native_transliteration": {
+                "bn": "বেসড অন কারেন্ট ডেটা, উই ক্যান এক্সট্রাপোলেট ফিউচার ট্রেন্ডস।"
+            },
+            "position": 12,
+            "synonyms": "infer, deduce",
+            "antonyms": "misinterpret, underestimate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনুমান করা, পূর্বাভাস করা",
+                    "word_transliteration": "onuman kora, purbabhas kora",
+                    "example_sentence_translation": "বর্তমান তথ্যের ভিত্তিতে আমরা ভবিষ্যত প্রবণতা অনুমান করতে পারি।",
+                    "example_sentence_transliteration": "Bortoman tottho r bhittite amra bhobishyot probonota onuman korte pari.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "divergence",
+            "phonetic": "/daɪˈvɜːdʒəns/",
+            "word_native_transliteration": {
+                "bn": "ডাইভার্জেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The process of separating or moving apart; difference.",
+            "example_sentence": "Divergence in opinions often leads to productive discussions.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডাইভার্জেন্স ইন ওপিনিয়নস অফেন লিডস টু প্রোডাক্টিভ ডিসকাশনস।"
+            },
+            "position": 13,
+            "synonyms": "difference, discrepancy",
+            "antonyms": "convergence, similarity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিচ্যুতি, ভিন্নতা",
+                    "word_transliteration": "bichyuti, bhinnota",
+                    "example_sentence_translation": "মতভেদের বিচ্যুতি প্রায়ই উৎপাদনশীল আলোচনা তৈরি করে।",
+                    "example_sentence_transliteration": "Motobheder bichyuti prayoi utpadonsilo alochona tori kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "perseverance",
+            "phonetic": "/ˌpɜːsəˈvɪərəns/",
+            "word_native_transliteration": {
+                "bn": "পারসিভিরেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "Persistence in doing something despite difficulty or delay in achieving success.",
+            "example_sentence": "Perseverance is key to overcoming obstacles and achieving goals.",
+            "example_sentence_native_transliteration": {
+                "bn": "পারসিভিরেন্স ইজ কি টু ওভারকামিং অবস্ট্যাকলস অ্যান্ড অ্যাচিভিং গোলস।"
+            },
+            "position": 14,
+            "synonyms": "determination, persistence",
+            "antonyms": "apathy, indifference",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অধ্যবসায়",
+                    "word_transliteration": "odhyoboshay",
+                    "example_sentence_translation": "অধ্যবসায় প্রতিবন্ধকতা অতিক্রম করতে এবং লক্ষ্য অর্জনে চাবিকাঠি।",
+                    "example_sentence_transliteration": "Odhyoboshay protibondhokota otikromo korte ebong lokkho orjone chabikathi.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pragmatic",
+            "phonetic": "/præɡˈmætɪk/",
+            "word_native_transliteration": {
+                "bn": "প্র্যাগম্যাটিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎯",
+            "meaning": "Dealing with things sensibly and realistically in a way that is based on practical rather than idealistic considerations.",
+            "example_sentence": "A pragmatic approach is often necessary in solving complex problems.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ প্র্যাগম্যাটিক অ্যাপ্রোচ ইজ অফেন নেসেসারি ইন সলভিং কমপ্লেক্স প্রবলেমস।"
+            },
+            "position": 15,
+            "synonyms": "practical, realistic",
+            "antonyms": "idealistic, impractical",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাস্তবধর্মী, ব্যবহারিক",
+                    "word_transliteration": "bastobodhormi, byoboharik",
+                    "example_sentence_translation": "জটিল সমস্যা সমাধানে প্রায়ই একটি বাস্তবধর্মী পদ্ধতির প্রয়োজন হয়।",
+                    "example_sentence_transliteration": "Jotil shomoshya somadhan e prayoi ekti bastobodhormi poddho tir proyojon hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "synthesis",
+            "phonetic": "/ˈsɪnθɪsɪs/",
+            "word_native_transliteration": {
+                "bn": "সিনথেসিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔗",
+            "meaning": "The combination of ideas to form a theory or system.",
+            "example_sentence": "The synthesis of ideas from multiple perspectives led to innovation.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সিনথেসিস অফ আইডিয়াস ফ্রম মাল্টিপল পার্সপেক্টিভস লেড টু ইনোভেশন।"
+            },
+            "position": 16,
+            "synonyms": "combination, integration",
+            "antonyms": "fragmentation, separation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংশ্লেষণ, একত্রিতকরণ",
+                    "word_transliteration": "songsleshon, ektrito koron",
+                    "example_sentence_translation": "বিভিন্ন দৃষ্টিভঙ্গি থেকে ধারণার সংশ্লেষণ উদ্ভাবনে নিয়ে এসেছে।",
+                    "example_sentence_transliteration": "Bibhinno dristidhong gi theke dharonar songsleshon udbha bone niye eseche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "viable",
+            "phonetic": "/ˈvaɪəbəl/",
+            "word_native_transliteration": {
+                "bn": "ভায়েবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "✅",
+            "meaning": "Capable of working successfully; feasible.",
+            "example_sentence": "A viable solution is necessary for long-term success.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ ভায়েবল সলিউশন ইজ নেসেসারি ফর লং-টার্ম সাকসেস।"
+            },
+            "position": 17,
+            "synonyms": "feasible, practical",
+            "antonyms": "impractical, unworkable",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাস্তবযোগ্য, কার্যকর",
+                    "word_transliteration": "bastobojoggo, karjokoro",
+                    "example_sentence_translation": "দীর্ঘমেয়াদী সফলতার জন্য একটি বাস্তবযোগ্য সমাধান প্রয়োজন।",
+                    "example_sentence_transliteration": "Dirghomeyadi sofolotar jonno ekti bastobojoggo somadhon proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "resolution",
+            "phonetic": "/ˌrɛzəˈluːʃən/",
+            "word_native_transliteration": {
+                "bn": "রেজলিউশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏆",
+            "meaning": "The action of solving a problem, dispute, or contentious matter.",
+            "example_sentence": "The resolution of the issue requires careful planning and action.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রেজলিউশন অফ দ্য ইস্যু রিকোয়ার্স কেয়ারফুল প্ল্যানিং অ্যান্ড অ্যাকশন।"
+            },
+            "position": 18,
+            "synonyms": "solution, decision",
+            "antonyms": "confusion, uncertainty",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সমাধান, সিদ্ধান্ত",
+                    "word_transliteration": "somadhon, siddhanto",
+                    "example_sentence_translation": "সমস্যার সমাধান করার জন্য সতর্ক পরিকল্পনা এবং পদক্ষেপ প্রয়োজন।",
+                    "example_sentence_transliteration": "Shomoshyar somadhon korar jonno shotorko porikolpona ebong podokkhep proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

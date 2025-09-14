@@ -1,0 +1,472 @@
+{
+    "position": 170,
+    "title_translation": {
+        "en": "Quality Time for Stronger Family Bonds",
+        "bn": "পারিবারিক বন্ধনের জন্য গুণগত সময়"
+    },
+    "content_translation": {
+        "en": "Due to the busyness of modern life, **deprivation** is occurring in families, where spending time together is becoming less. However, if you want to **ameliorate** family relationships, **quality time** is essential.\n\nTo build a **harmonious** family, **mindfulness** and **authenticity** are needed. Spending time together while maintaining **coherence** with family members creates **euphoria**, which further strengthens relationships.\n\nOften there is **juxtaposition**, where it becomes difficult to balance personal needs and family time. However, through mutual **discernment** and a **nurturing** mindset, this **synergy** can be created.\n\nTherefore, family members need to stay connected with each other according to every **facet**. Eating together, storytelling, and sharing **anecdotal** memories create **resonance** in the family.\n\nThese times not only strengthen family relationships but also provide opportunities for **reconciliation** and **enrichment**.",
+        "bn": "আধুনিক জীবনের ব্যস্ততার কারণে পরিবারে **deprivation** তৈরি হচ্ছে, যেখানে একসাথে সময় কাটানো কমে যাচ্ছে। তবে, পারিবারিক সম্পর্ক **ameliorate** করতে চাইলে **quality time** অপরিহার্য।\n\nএকটি **harmonious** পরিবার গঠনের জন্য **mindfulness** এবং **authenticity** দরকার। পরিবারের সদস্যদের সাথে **coherence** বজায় রেখে একসাথে সময় কাটালে **euphoria** অনুভূত হয়, যা সম্পর্ককে আরও দৃঢ় করে।\n\nঅনেক সময় **juxtaposition** হয়, যেখানে ব্যক্তিগত চাহিদা ও পারিবারিক সময়ের মধ্যে ভারসাম্য রাখা কঠিন হয়। তবে, পারস্পরিক **discernment** এবং **nurturing** মানসিকতার মাধ্যমে এই **synergy** তৈরি করা সম্ভব।\n\nঅতএব, পরিবারের **facet** অনুযায়ী একে অপরের সাথে যুক্ত থাকতে হবে। একসাথে খাওয়া, গল্প করা এবং **anecdotal** স্মৃতিচারণা করা পরিবারে **resonance** সৃষ্টি করে।\n\nএই সময়গুলো শুধু পারিবারিক সম্পর্কই মজবুত করে না, বরং এটি **reconciliation** এবং **enrichment** এর সুযোগ দেয়।"
+    },
+    "list": [
+        {
+            "word": "deprivation",
+            "phonetic": "/ˌdɛprɪˈveɪʃən/",
+            "word_native_transliteration": {
+                "bn": "ডেপ্রিভেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "😢",
+            "meaning": "The lack or denial of something considered to be a necessity; the state of being deprived.",
+            "example_sentence": "Sleep deprivation can harm cognitive functions.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্লিপ ডেপ্রিভেশন ক্যান হার্ম কগনিটিভ ফাংশনস।"
+            },
+            "position": 1,
+            "synonyms": "deficiency, scarcity, shortage, lack, want, need",
+            "antonyms": "abundance, sufficiency, plenty, wealth, prosperity, excess",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বঞ্চনা, অভাব, সংকট",
+                    "word_transliteration": "bonchona, obhab, shonkot",
+                    "example_sentence_translation": "ঘুমের ডেপ্রিভেশন মস্তিষ্কের কার্যকারিতার ক্ষতি করতে পারে।",
+                    "example_sentence_transliteration": "Ghumer deprivation mostishshker karjokaritar khoti korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ameliorate",
+            "phonetic": "/əˈmiː.li.ə.reɪt/",
+            "word_native_transliteration": {
+                "bn": "অ্যামিলিওরেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📈",
+            "meaning": "To make something better or improve a situation; to enhance or upgrade.",
+            "example_sentence": "New policies were introduced to ameliorate living conditions.",
+            "example_sentence_native_transliteration": {
+                "bn": "নিউ পলিসিস ওয়ার ইনট্রোডিউসড টু অ্যামিলিওরেট লিভিং কন্ডিশনস।"
+            },
+            "position": 2,
+            "synonyms": "improve, enhance, better, upgrade, refine, perfect",
+            "antonyms": "worsen, deteriorate, decline, degrade, impair, damage",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উন্নতি করা, প্রশমিত করা, সংশোধন করা",
+                    "word_transliteration": "unnoti kora, proshomito kora, shongshodhon kora",
+                    "example_sentence_translation": "জীবনযাত্রার মান অ্যামিলিওরেট করতে নতুন নীতিমালা চালু করা হয়েছে।",
+                    "example_sentence_transliteration": "Jibonjatraar man ameliorate korte notun nitimala chalu kora hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "quality time",
+            "phonetic": "/ˈkwɒl.ɪ.ti taɪm/",
+            "word_native_transliteration": {
+                "bn": "কোয়ালিটি টাইম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👨‍👩‍👧‍👦",
+            "meaning": "Time spent giving someone your full attention in order to strengthen your relationship with them.",
+            "example_sentence": "Spending quality time with family enhances relationships.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্পেন্ডিং কোয়ালিটি টাইম উইথ ফ্যামিলি এনহান্সেস রিলেশনশিপস।"
+            },
+            "position": 3,
+            "synonyms": "meaningful moments, valuable interaction, focused time, dedicated time",
+            "antonyms": "neglect, disregard, inattention, distraction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অর্থবহ সময়, মনোযোগী মুহূর্ত, ঘনিষ্ঠ সময়",
+                    "word_transliteration": "orthoboh shomoy, monojogi muhurto, ghonishtho shomoy",
+                    "example_sentence_translation": "পরিবারের সঙ্গে কোয়ালিটি টাইম কাটানো সম্পর্ক উন্নত করে।",
+                    "example_sentence_transliteration": "Poribarer shonge quality time katano shomporko unnoto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "harmonious",
+            "phonetic": "/hɑːrˈmoʊ.ni.əs/",
+            "word_native_transliteration": {
+                "bn": "হারমোনিয়াস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "☯️",
+            "meaning": "Characterized by agreement or concord; forming a pleasing or consistent whole.",
+            "example_sentence": "A harmonious work environment boosts productivity.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ হারমোনিয়াস ওয়ার্ক এনভায়রনমেন্ট বুস্টস প্রোডাক্টিভিটি।"
+            },
+            "position": 4,
+            "synonyms": "balanced, congruous, peaceful, unified, coordinated",
+            "antonyms": "discordant, chaotic, conflicting, disharmonious",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সুসম, সামঞ্জস্যপূর্ণ, ঐক্যপূর্ণ",
+                    "word_transliteration": "shushom, shamongshshopurno, oikkopurno",
+                    "example_sentence_translation": "হারমোনিয়াস কর্মপরিবেশ উৎপাদনশীলতা বাড়ায়।",
+                    "example_sentence_transliteration": "Harmonious kormoporibesh utpadonsheelota baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "mindfulness",
+            "phonetic": "/ˈmaɪnd.fəl.nəs/",
+            "word_native_transliteration": {
+                "bn": "মাইন্ডফুলনেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧘",
+            "meaning": "The practice of being aware of and paying attention to the present moment without judgment.",
+            "example_sentence": "Mindfulness helps reduce stress and anxiety.",
+            "example_sentence_native_transliteration": {
+                "bn": "মাইন্ডফুলনেস হেল্পস রিডিউস স্ট্রেস অ্যান্ড অ্যাংজাইটি।"
+            },
+            "position": 5,
+            "synonyms": "awareness, presence, consciousness, attention, focus",
+            "antonyms": "distraction, neglect, inattention, unawareness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সতর্কতা, মনোযোগ, আত্মসচেতনতা",
+                    "word_transliteration": "shotorkota, monojog, attoshochetonta",
+                    "example_sentence_translation": "মাইন্ডফুলনেস চাপ ও দুশ্চিন্তা কমাতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Mindfulness chap o dushchinta komate shahajjo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "authenticity",
+            "phonetic": "/ˌɔː.θenˈtɪs.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "অথেনটিসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✨",
+            "meaning": "The quality of being authentic, genuine, or real; not false or imitation.",
+            "example_sentence": "Customers prefer brands that reflect authenticity.",
+            "example_sentence_native_transliteration": {
+                "bn": "কাস্টমারস প্রিফার ব্র্যান্ডস দ্যাট রিফ্লেক্ট অথেনটিসিটি।"
+            },
+            "position": 6,
+            "synonyms": "genuineness, legitimacy, sincerity, truthfulness, validity",
+            "antonyms": "falseness, deception, artificiality, pretense",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বতঃসিদ্ধতা, সত্যতা, বিশুদ্ধতা",
+                    "word_transliteration": "shotoshiddho, shotjota, bishuddhota",
+                    "example_sentence_translation": "গ্রাহকরা সেই ব্র্যান্ড পছন্দ করেন যা অথেনটিসিটি বজায় রাখে।",
+                    "example_sentence_transliteration": "Grahokra shei brand pochhondo koren ja authenticity bojay rakhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "coherence",
+            "phonetic": "/koʊˈhɪr.əns/",
+            "word_native_transliteration": {
+                "bn": "কোহিরেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔗",
+            "meaning": "The quality of being logical and consistent; the quality of forming a unified whole.",
+            "example_sentence": "His speech lacked coherence, making it difficult to follow.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিস স্পিচ ল্যাকড কোহিরেন্স, মেকিং ইট ডিফিকাল্ট টু ফলো।"
+            },
+            "position": 7,
+            "synonyms": "clarity, logical connection, consistency, unity, harmony",
+            "antonyms": "incoherence, disarray, confusion, inconsistency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংহতি, সুসংগতি, যুক্তিসংগততা",
+                    "word_transliteration": "shonghoti, shushongoti, juktishonggotota",
+                    "example_sentence_translation": "তার বক্তব্যে কোহিরেন্স ছিল না, তাই বোঝা কঠিন হচ্ছিল।",
+                    "example_sentence_transliteration": "Tar boktobje coherence chhilo na, tai bojha kothin hochhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "euphoria",
+            "phonetic": "/juːˈfɔː.ri.ə/",
+            "word_native_transliteration": {
+                "bn": "ইউফোরিয়া"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎉",
+            "meaning": "A feeling or state of intense excitement and happiness; elation.",
+            "example_sentence": "Winning the championship brought a sense of euphoria.",
+            "example_sentence_native_transliteration": {
+                "bn": "উইনিং দ্য চ্যাম্পিয়নশিপ ব্রট এ সেন্স অফ ইউফোরিয়া।"
+            },
+            "position": 8,
+            "synonyms": "bliss, elation, ecstasy, joy, exhilaration",
+            "antonyms": "misery, despair, depression, sadness, gloom",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আনন্দোচ্ছ্বাস, চরম সুখ, উচ্ছ্বাস",
+                    "word_transliteration": "anondo-uchchhash, chorom shukh, uchchhash",
+                    "example_sentence_translation": "চ্যাম্পিয়ন হওয়া তার জন্য ইউফোরিয়া নিয়ে এলো।",
+                    "example_sentence_transliteration": "Champion howa tar jonno euphoria niye elo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "juxtaposition",
+            "phonetic": "/ˌdʒʌk.stə.pəˈzɪʃ.ən/",
+            "word_native_transliteration": {
+                "bn": "জাক্সটাপোজিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "The fact of two things being seen or placed close together with contrasting effect.",
+            "example_sentence": "The juxtaposition of old and new architecture was fascinating.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য জাক্সটাপোজিশন অফ ওল্ড অ্যান্ড নিউ আর্কিটেকচার ওয়াজ ফ্যাসিনেটিং।"
+            },
+            "position": 9,
+            "synonyms": "contrast, comparison, opposition, placement, positioning",
+            "antonyms": "separation, isolation, division, segregation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পাশাপাশি অবস্থান, তুলনা, সামঞ্জস্য",
+                    "word_transliteration": "pashapashi obosthan, tulona, shamongshsho",
+                    "example_sentence_translation": "পুরনো ও নতুন স্থাপত্যের জাক্সটাপোজিশন ছিল চমকপ্রদ।",
+                    "example_sentence_transliteration": "Purono o notun sthapoter juxtaposition chhilo chomokprodo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "discernment",
+            "phonetic": "/dɪˈsɜːrn.mənt/",
+            "word_native_transliteration": {
+                "bn": "ডিসার্নমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔍",
+            "meaning": "The ability to judge well; keen insight and judgment.",
+            "example_sentence": "Her discernment in financial matters saved the company.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার ডিসার্নমেন্ট ইন ফাইন্যান্সিয়াল ম্যাটারস সেভড দ্য কোম্পানি।"
+            },
+            "position": 10,
+            "synonyms": "perception, insight, judgment, wisdom, acumen",
+            "antonyms": "ignorance, misjudgment, blindness, foolishness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উপলব্ধি, বিচক্ষণতা, গভীর অনুধাবন",
+                    "word_transliteration": "upolobdhi, bichokkhonota, gobhir onudhbaon",
+                    "example_sentence_translation": "তার আর্থিক ডিসার্নমেন্ট কোম্পানিটিকে রক্ষা করেছে।",
+                    "example_sentence_transliteration": "Tar arthik discernment companytike rokkha koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "nurturing",
+            "phonetic": "/ˈnɜːr.tʃɚ.ɪŋ/",
+            "word_native_transliteration": {
+                "bn": "নারচারিং"
+            },
+            "parts_of_speech": "adjective/noun",
+            "emoji": "🌱",
+            "meaning": "The process of caring for and encouraging growth or development.",
+            "example_sentence": "A nurturing environment helps children thrive.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ নারচারিং এনভায়রনমেন্ট হেল্পস চিলড্রেন থ্রাইভ।"
+            },
+            "position": 11,
+            "synonyms": "fostering, cultivating, caring, supportive, encouraging",
+            "antonyms": "neglect, abandonment, discouraging, harmful",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "লালন-পালন, যত্নশীল, বিকাশ",
+                    "word_transliteration": "lalon-palon, jotnosil, bikash",
+                    "example_sentence_translation": "একটি নারচারিং পরিবেশ শিশুদের বিকাশে সহায়তা করে।",
+                    "example_sentence_transliteration": "Ekti nurturing poribesh shishider bikashe shahajota kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "synergy",
+            "phonetic": "/ˈsɪn.ɚ.dʒi/",
+            "word_native_transliteration": {
+                "bn": "সিনার্জি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "The interaction or cooperation of two or more organizations, substances, or other agents to produce a combined effect greater than the sum of their separate effects.",
+            "example_sentence": "The synergy between departments boosted efficiency.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সিনার্জি বিটুইন ডিপার্টমেন্টস বুস্টেড এফিশিয়েন্সি।"
+            },
+            "position": 12,
+            "synonyms": "collaboration, cohesion, cooperation, teamwork, unity",
+            "antonyms": "disunity, discord, conflict, opposition",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সম্মিলিত শক্তি, পারস্পরিক সহযোগিতা, সামগ্রিক উন্নতি",
+                    "word_transliteration": "shommilito shokti, parasporik shohojogita, shamogriko unnoti",
+                    "example_sentence_translation": "বিভিন্ন বিভাগের সিনার্জি দক্ষতা বাড়িয়েছে।",
+                    "example_sentence_transliteration": "Bhibinno bibhager synergy dokkhota bariyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "facet",
+            "phonetic": "/ˈfæs.ɪt/",
+            "word_native_transliteration": {
+                "bn": "ফ্যাসেট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💎",
+            "meaning": "One of the many aspects or features of something; a particular part or element of something.",
+            "example_sentence": "Every facet of the project was carefully analyzed.",
+            "example_sentence_native_transliteration": {
+                "bn": "এভরি ফ্যাসেট অফ দ্য প্রজেক্ট ওয়াজ কেয়ারফুলি অ্যানালাইজড।"
+            },
+            "position": 13,
+            "synonyms": "aspect, dimension, element, feature, component",
+            "antonyms": "uniformity, simplicity, wholeness, entirety",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দিক, উপাদান, অংশ",
+                    "word_transliteration": "dik, upadhan, ongsho",
+                    "example_sentence_translation": "প্রকল্পের প্রতিটি ফ্যাসেট গভীরভাবে বিশ্লেষণ করা হয়েছে।",
+                    "example_sentence_transliteration": "Proklopper protiti facet gobhirbhabe bishlekhon kora hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "anecdotal",
+            "phonetic": "/ˌæn.ɪkˈdoʊ.t̬əl/",
+            "word_native_transliteration": {
+                "bn": "অ্যানেকডোটাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📖",
+            "meaning": "Based on personal accounts rather than facts or research; characterized by anecdotes.",
+            "example_sentence": "The book was filled with anecdotal evidence rather than data.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য বুক ওয়াজ ফিল্ড উইথ অ্যানেকডোটাল এভিডেন্স রাদার দ্যান ডাটা।"
+            },
+            "position": 14,
+            "synonyms": "illustrative, narrated, story-based, personal, experiential",
+            "antonyms": "empirical, scientific, statistical, factual",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গল্পের আকারে, ব্যক্তিগত অভিজ্ঞতাভিত্তিক, উপাখ্যানমূলক",
+                    "word_transliteration": "golper akare, bektigoto obhiggjhotabhittik, upakhanmulok",
+                    "example_sentence_translation": "বইটিতে তথ্যের পরিবর্তে অ্যানেকডোটাল প্রমাণ ছিল।",
+                    "example_sentence_transliteration": "Boitite tothjer poribprote anecdotal proman chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "resonance",
+            "phonetic": "/ˈrez.ən.əns/",
+            "word_native_transliteration": {
+                "bn": "রেজোন্যান্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔊",
+            "meaning": "The quality in a sound of being deep, full, and reverberating; a deep, full sound.",
+            "example_sentence": "The speech had a profound resonance with the audience.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্পিচ হ্যাড এ প্রোফাউন্ড রেজোন্যান্স উইথ দ্য অডিয়েন্স।"
+            },
+            "position": 15,
+            "synonyms": "reverberation, impact, echo, response, connection",
+            "antonyms": "insignificance, dullness, silence, disconnection",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিধ্বনি, গভীর সংযোগ, কার্যকারিতা",
+                    "word_transliteration": "protidhoni, gobhir shumjog, karjokariota",
+                    "example_sentence_translation": "বক্তৃতাটি দর্শকদের মধ্যে গভীর রেজোন্যান্স সৃষ্টি করেছিল।",
+                    "example_sentence_transliteration": "Boktritati dorshokder moddhe gobhir resonance srishti korechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "reconciliation",
+            "phonetic": "/ˌrek.ənˌsɪl.iˈeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "রিকনসিলিয়েশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤲",
+            "meaning": "The restoration of friendly relations; an act of reconciling or the condition of being reconciled.",
+            "example_sentence": "The two countries worked towards reconciliation after years of tension.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য টু কান্ট্রিস ওয়ার্কড টুয়ার্ডস রিকনসিলিয়েশন আফটার ইয়ার্স অফ টেনশন।"
+            },
+            "position": 16,
+            "synonyms": "resolution, settlement, agreement, peace-making, harmony",
+            "antonyms": "conflict, estrangement, discord, disagreement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মীমাংসা, পুনর্মিলন, বিরোধ নিরসন",
+                    "word_transliteration": "mimangsha, punormiloon, birodh nirshon",
+                    "example_sentence_translation": "দীর্ঘ বিরোধের পর দুই দেশ রিকনসিলিয়েশন এর দিকে এগিয়েছে।",
+                    "example_sentence_transliteration": "Dirgho birodher por dui desh reconciliation er dike egiyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "enrichment",
+            "phonetic": "/ɪnˈrɪtʃ.mənt/",
+            "word_native_transliteration": {
+                "bn": "এনরিচমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💰",
+            "meaning": "The action of improving or enhancing the quality or value of something.",
+            "example_sentence": "Cultural enrichment fosters a deeper understanding of traditions.",
+            "example_sentence_native_transliteration": {
+                "bn": "কালচারাল এনরিচমেন্ট ফস্টারস এ ডিপার আন্ডারস্ট্যান্ডিং অফ ট্রেডিশনস।"
+            },
+            "position": 17,
+            "synonyms": "enhancement, improvement, development, advancement, upgrade",
+            "antonyms": "deprivation, impoverishment, deterioration, decline",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সমৃদ্ধকরণ, মানোন্নয়ন, বিকাশ",
+                    "word_transliteration": "shomriddhokorn, manonnyon, bikash",
+                    "example_sentence_translation": "সাংস্কৃতিক এনরিচমেন্ট ঐতিহ্যের গভীর বোঝাপড়া বৃদ্ধি করে।",
+                    "example_sentence_transliteration": "Sanskritik enrichment oitiher gobhir bojhapara briddhi kore.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

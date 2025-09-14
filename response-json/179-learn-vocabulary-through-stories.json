@@ -1,0 +1,445 @@
+{
+    "position": 179,
+    "title_translation": {
+        "en": "Teaching Kids Financial Responsibility Early",
+        "bn": "শিশুদের ছোটবেলা থেকেই Financial Responsibility শেখানো"
+    },
+    "content_translation": {
+        "en": "Teaching children **financial responsibility** from an early age is extremely important. If they learn to practice **frugality**, achieving **affluence** in the future will be easier for them. By properly controlling **allocation** and **expenditure**, a child can understand the importance of financial stability. If concepts about **equity** and **diversification** are introduced from childhood, they can later adopt good **capitalization** skills. Often, it's seen that children spend money as soon as they get it, but if the necessity of maintaining **liquidity** is explained, they will learn to save. If parents inform children about **fiduciary** responsibilities, they can maintain **solvency** in the future. Through the education system's teaching about **commodities** and **monetization**, they can make good financial decisions in real life. Therefore, children should be given knowledge about **amortization** and **arbitrage** so that they don't fall into **stagnation** in the future.",
+        "bn": "শিশুদের ছোটবেলা থেকেই **financial responsibility** শেখানো অত্যন্ত গুরুত্বপূর্ণ। যদি তারা **frugality** অনুশীলন করতে শেখে, তবে ভবিষ্যতে **affluence** অর্জন করা তাদের জন্য সহজ হবে। সঠিকভাবে **allocation** এবং **expenditure** নিয়ন্ত্রণ করতে পারলে, একজন শিশু আর্থিক স্থিতিশীলতার গুরুত্ব বুঝতে পারবে। ছোটবেলা থেকেই যদি **equity** এবং **diversification** সম্পর্কে ধারণা দেওয়া হয়, তবে তারা পরে ভালো **capitalization** কৌশল গ্রহণ করতে পারবে। অনেক সময় দেখা যায়, শিশুরা টাকা পেলেই খরচ করে ফেলে, কিন্তু **liquidity** বজায় রাখার প্রয়োজনীয়তা বোঝানো হলে তারা সঞ্চয় করতে শিখবে। বাবা-মা যদি শিশুদের **fiduciary** দায়িত্ব সম্পর্কে অবগত করেন, তবে তারা ভবিষ্যতে **solvency** বজায় রাখতে পারবে। শিক্ষা ব্যবস্থায় **commodities** এবং **monetization** সম্পর্কে বোঝানোর মাধ্যমে, তারা বাস্তব জীবনে ভালো আর্থিক সিদ্ধান্ত নিতে পারবে। তাই শিশুদের **amortization** এবং **arbitrage** সম্পর্কে জ্ঞান দেওয়া উচিত, যাতে তারা ভবিষ্যতে **stagnation** এ না পড়ে।"
+    },
+    "list": [
+        {
+            "word": "financial responsibility",
+            "phonetic": "/faɪˈnæn.ʃəl rɪˌspɒn.sɪˈbɪl.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "ফাইন্যান্সিয়াল রেসপনসিবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💰",
+            "meaning": "The practice of managing money and other financial resources in a responsible and effective manner.",
+            "example_sentence": "Financial responsibility ensures long-term economic stability.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফাইন্যান্সিয়াল রেসপনসিবিলিটি এনশিওরস লং-টার্ম ইকোনমিক স্ট্যাবিলিটি।"
+            },
+            "position": 1,
+            "synonyms": "fiscal discipline, budgeting, accountability",
+            "antonyms": "recklessness, extravagance, carelessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আর্থিক দায়িত্ব",
+                    "word_transliteration": "arthik dayitto",
+                    "example_sentence_translation": "আর্থিক দায়িত্ব দীর্ঘমেয়াদী অর্থনৈতিক স্থিতিশীলতা নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Arthik dayitto dirghomeadi orthnoitik stitishilota nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "frugality",
+            "phonetic": "/fruːˈɡæl.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "ফ্রুগালিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🪙",
+            "meaning": "The quality of being economical in use or expenditure; not wasteful.",
+            "example_sentence": "Practicing frugality helps in wealth accumulation.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্র্যাকটিসিং ফ্রুগালিটি হেল্পস ইন ওয়েলথ অ্যাকুমুলেশন।"
+            },
+            "position": 2,
+            "synonyms": "thrift, prudence, economy",
+            "antonyms": "extravagance, wastefulness, lavishness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মিতব্যয়িতা",
+                    "word_transliteration": "mitobbyoyita",
+                    "example_sentence_translation": "মিতব্যয়িতা অনুশীলন সম্পদের সঞ্চয়ে সহায়ক।",
+                    "example_sentence_transliteration": "Mitobbyoyita onushilon sompoder sanchhoye sahayok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "affluence",
+            "phonetic": "/ˈæf.lu.əns/",
+            "word_native_transliteration": {
+                "bn": "অ্যাফ্লুয়েন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💎",
+            "meaning": "The state of having a great deal of money; wealth.",
+            "example_sentence": "Economic growth leads to national affluence.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইকোনমিক গ্রোথ লিডস টু ন্যাশনাল অ্যাফ্লুয়েন্স।"
+            },
+            "position": 3,
+            "synonyms": "wealth, prosperity, opulence",
+            "antonyms": "poverty, scarcity, deprivation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ধনাঢ্যতা",
+                    "word_transliteration": "dhonadhyota",
+                    "example_sentence_translation": "অর্থনৈতিক প্রবৃদ্ধি জাতীয় সমৃদ্ধি নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Orthnoitik probridhdhi jatiyo somoriddhi nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "allocation",
+            "phonetic": "/ˌæl.əˈkeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "অ্যালোকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "The action or process of distributing resources or duties for a particular purpose.",
+            "example_sentence": "Budget allocation for education must be increased.",
+            "example_sentence_native_transliteration": {
+                "bn": "বাজেট অ্যালোকেশন ফর এডুকেশন মাস্ট বি ইনক্রিসড।"
+            },
+            "position": 4,
+            "synonyms": "distribution, apportionment, assignment",
+            "antonyms": "mismanagement, hoarding, withholding",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বরাদ্দ",
+                    "word_transliteration": "boraddo",
+                    "example_sentence_translation": "শিক্ষার জন্য বাজেট বরাদ্দ বাড়ানো উচিত।",
+                    "example_sentence_transliteration": "Shikkhار jonno bajet boraddo barano uchit.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "expenditure",
+            "phonetic": "/ɪkˈspen.dɪ.tʃər/",
+            "word_native_transliteration": {
+                "bn": "এক্সপেনডিচার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💸",
+            "meaning": "The action of spending funds; an amount of money spent.",
+            "example_sentence": "Excessive expenditure can lead to financial instability.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সেসিভ এক্সপেনডিচার ক্যান লিড টু ফাইন্যান্সিয়াল ইনস্ট্যাবিলিটি।"
+            },
+            "position": 5,
+            "synonyms": "spending, outlay, consumption",
+            "antonyms": "income, savings, revenue",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ব্যয়",
+                    "word_transliteration": "byoy",
+                    "example_sentence_translation": "অতিরিক্ত ব্যয় আর্থিক অস্থিতিশীলতা সৃষ্টি করতে পারে।",
+                    "example_sentence_transliteration": "Otirikt byoy arthik osthitishilota srishti korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "equity",
+            "phonetic": "/ˈek.wɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "ইকুইটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "The quality of being fair and impartial; the value of shares issued by a company.",
+            "example_sentence": "Corporate equity distribution ensures fair business practices.",
+            "example_sentence_native_transliteration": {
+                "bn": "কর্পোরেট ইকুইটি ডিস্ট্রিবিউশন এনশিওরস ফেয়ার বিজনেস প্র্যাকটিসেস।"
+            },
+            "position": 6,
+            "synonyms": "fairness, ownership, stakeholding",
+            "antonyms": "inequality, bias, partiality",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সমানাধিকার",
+                    "word_transliteration": "somanadhikar",
+                    "example_sentence_translation": "কর্পোরেট ইকুইটি বণ্টন ন্যায়সঙ্গত ব্যবসায়িক কার্যক্রম নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Corporate equity bonton nyaysongoto byabsayik karyakrom nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "diversification",
+            "phonetic": "/daɪˌvɜː.sɪ.fɪˈkeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ডাইভারসিফিকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌈",
+            "meaning": "The action of diversifying something or the fact of becoming more diverse.",
+            "example_sentence": "Investment diversification reduces financial risk.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনভেস্টমেন্ট ডাইভারসিফিকেশন রিডিউসেস ফাইন্যান্সিয়াল রিস্ক।"
+            },
+            "position": 7,
+            "synonyms": "variation, differentiation, expansion",
+            "antonyms": "uniformity, homogeneity, specialization",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৈচিত্র্যকরণ",
+                    "word_transliteration": "boichittyokoron",
+                    "example_sentence_translation": "বিনিয়োগের বৈচিত্র্যকরণ আর্থিক ঝুঁকি কমায়।",
+                    "example_sentence_transliteration": "Biniyoger boichittyokoron arthik jhuki komay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "capitalization",
+            "phonetic": "/ˌkæp.ɪ.təl.aɪˈzeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ক্যাপিটালাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏦",
+            "meaning": "The action or process of providing capital for a company or activity.",
+            "example_sentence": "Proper capitalization is crucial for business expansion.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোপার ক্যাপিটালাইজেশন ইজ ক্রুশিয়াল ফর বিজনেস এক্সপানশন।"
+            },
+            "position": 8,
+            "synonyms": "funding, investment, monetization",
+            "antonyms": "bankruptcy, debt, insolvency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মূলধন ব্যবহার",
+                    "word_transliteration": "muldhhon byabohar",
+                    "example_sentence_translation": "সঠিক মূলধন ব্যবহার ব্যবসার সম্প্রসারণের জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Sothik muldhhon byabohar byabsar somprasaroner jonno oporhario.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "liquidity",
+            "phonetic": "/lɪˈkwɪd.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "লিকুইডিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💧",
+            "meaning": "The availability of liquid assets to a market or company.",
+            "example_sentence": "High liquidity ensures smooth financial transactions.",
+            "example_sentence_native_transliteration": {
+                "bn": "হাই লিকুইডিটি এনশিওরস স্মুথ ফাইন্যান্সিয়াল ট্রানজেকশনস।"
+            },
+            "position": 9,
+            "synonyms": "cash flow, fluidity, convertibility",
+            "antonyms": "illiquidity, insolvency, rigidity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "তারল্য",
+                    "word_transliteration": "tarllo",
+                    "example_sentence_translation": "উচ্চ তারল্য মসৃণ আর্থিক লেনদেন নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Uccho tarllo mosrin arthik lenden nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fiduciary",
+            "phonetic": "/fɪˈduː.ʃi.er.i/",
+            "word_native_transliteration": {
+                "bn": "ফিডিউশিয়ারি"
+            },
+            "parts_of_speech": "adjective/noun",
+            "emoji": "🤝",
+            "meaning": "Involving trust, especially with regard to the relationship between a trustee and a beneficiary.",
+            "example_sentence": "Banks have fiduciary duties towards their clients.",
+            "example_sentence_native_transliteration": {
+                "bn": "ব্যাংকস হ্যাভ ফিডিউশিয়ারি ডিউটিস টুওয়ার্ডস দেয়ার ক্লায়েন্টস।"
+            },
+            "position": 10,
+            "synonyms": "trustee, guardian, custodian",
+            "antonyms": "untrustworthy, irresponsible, deceptive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিশ্বাসভিত্তিক",
+                    "word_transliteration": "bishvasvittik",
+                    "example_sentence_translation": "ব্যাংকগুলোর তাদের গ্রাহকদের প্রতি বিশ্বাসভিত্তিক দায়িত্ব রয়েছে।",
+                    "example_sentence_transliteration": "Bankgulor tader grahokder proti bishvasvittik dayitto royeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "solvency",
+            "phonetic": "/ˈsɒl.vən.si/",
+            "word_native_transliteration": {
+                "bn": "সলভেন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✅",
+            "meaning": "The possession of assets in excess of liabilities; ability to pay debts.",
+            "example_sentence": "The company's solvency determines its financial health.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানিস সলভেন্সি ডিটারমাইনস ইটস ফাইন্যান্সিয়াল হেলথ।"
+            },
+            "position": 11,
+            "synonyms": "financial stability, creditworthiness, viability",
+            "antonyms": "insolvency, bankruptcy, default",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ঋণ পরিশোধের সামর্থ্য",
+                    "word_transliteration": "rin porishoder samorthyo",
+                    "example_sentence_translation": "একটি প্রতিষ্ঠানের সলভেন্সি তার আর্থিক স্বাস্থ্য নির্ধারণ করে।",
+                    "example_sentence_transliteration": "Ekti protisthaner solvency tar arthik swasthyo nirdharon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "commodities",
+            "phonetic": "/kəˈmɒd.ə.tiz/",
+            "word_native_transliteration": {
+                "bn": "কমোডিটিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📦",
+            "meaning": "Raw materials or primary agricultural products that can be bought and sold.",
+            "example_sentence": "The price of commodities fluctuates due to market demand.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রাইস অফ কমোডিটিস ফ্লাকচুয়েটস ডিউ টু মার্কেট ডিমান্ড।"
+            },
+            "position": 12,
+            "synonyms": "goods, merchandise, assets",
+            "antonyms": "non-commodities, intangibles, services",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পণ্যদ্রব্য",
+                    "word_transliteration": "ponnyodrobbo",
+                    "example_sentence_translation": "বাজারের চাহিদার কারণে পণ্যদ্রব্যের মূল্য ওঠানামা করে।",
+                    "example_sentence_transliteration": "Bajarer chahidar karone ponnyodrobber mulyo othanama kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "monetization",
+            "phonetic": "/ˌmɒn.ɪ.taɪˈzeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "মনিটাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💵",
+            "meaning": "The conversion of an asset into money or legal tender.",
+            "example_sentence": "The digital platform focuses on content monetization.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডিজিটাল প্ল্যাটফর্ম ফোকাসেস অন কনটেন্ট মনিটাইজেশন।"
+            },
+            "position": 13,
+            "synonyms": "commercialization, revenue generation, capitalization",
+            "antonyms": "loss, depreciation, demonetization",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নগদীকরণ",
+                    "word_transliteration": "nogdikoron",
+                    "example_sentence_translation": "ডিজিটাল প্ল্যাটফর্ম কনটেন্ট মনিটাইজেশনের উপর গুরুত্ব দেয়।",
+                    "example_sentence_transliteration": "Digital platform content monetization-er upor gurutwo dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "amortization",
+            "phonetic": "/ˌæm.ɔːr.tɪˈzeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "অ্যামর্টাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📋",
+            "meaning": "The action or process of reducing or paying off a debt with regular payments.",
+            "example_sentence": "The company follows a structured amortization plan.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি ফলোস এ স্ট্রাকচার্ড অ্যামর্টাইজেশন প্ল্যান।"
+            },
+            "position": 14,
+            "synonyms": "debt reduction, loan repayment, depreciation",
+            "antonyms": "accumulation, debt expansion, indebtedness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কিস্তিতে ঋণ পরিশোধ",
+                    "word_transliteration": "kistite rin porishoth",
+                    "example_sentence_translation": "প্রতিষ্ঠানটি একটি কাঠামোগত ঋণ পরিশোধ পরিকল্পনা অনুসরণ করে।",
+                    "example_sentence_transliteration": "Protishthanti ekti kathamogot rin porishoth porikkolpona onusoron kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "arbitrage",
+            "phonetic": "/ˈɑː.bɪ.trɑːʒ/",
+            "word_native_transliteration": {
+                "bn": "আর্বিট্রাজ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "The simultaneous buying and selling of securities, currency, or commodities in different markets to take advantage of price differences.",
+            "example_sentence": "Investors use arbitrage strategies in financial markets.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনভেস্টরস ইউজ আর্বিট্রাজ স্ট্র্যাটেজিস ইন ফাইন্যান্সিয়াল মার্কেটস।"
+            },
+            "position": 15,
+            "synonyms": "trade advantage, speculation, market exploitation",
+            "antonyms": "market stability, loss, risk exposure",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মূল্য পার্থক্য কাজে লাগিয়ে মুনাফা অর্জন",
+                    "word_transliteration": "mulyo parthokko kaje lagiye munafa orjon",
+                    "example_sentence_translation": "বিনিয়োগকারীরা আর্থিক বাজারে আর্বিট্রাজ কৌশল ব্যবহার করেন।",
+                    "example_sentence_transliteration": "Biniyogkarira arthik bajare arbitrage koushal byabohar koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "stagnation",
+            "phonetic": "/stæɡˈneɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "স্ট্যাগনেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⏸️",
+            "meaning": "The state of not flowing or moving; lack of activity, growth, or development.",
+            "example_sentence": "Economic stagnation leads to unemployment.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইকোনমিক স্ট্যাগনেশন লিডস টু আনএমপ্লয়মেন্ট।"
+            },
+            "position": 16,
+            "synonyms": "economic decline, standstill, recession",
+            "antonyms": "growth, expansion, flourishing",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্থবিরতা",
+                    "word_transliteration": "sthobirota",
+                    "example_sentence_translation": "অর্থনৈতিক স্থবিরতা বেকারত্বের কারণ হয়।",
+                    "example_sentence_transliteration": "Orthnoitik sthobirota bekarottower karon hoy.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

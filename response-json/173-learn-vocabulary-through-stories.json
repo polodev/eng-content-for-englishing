@@ -1,0 +1,418 @@
+{
+    "position": 173,
+    "title_translation": {
+        "en": "Save the Golden Butterfly",
+        "bn": "সোনালী প্রজাপতিকে রক্ষা করুন"
+    },
+    "content_translation": {
+        "en": "**Golden Butterfly** is one of nature's **beautiful creations**, whose presence makes our environment **vibrant** and **colorful**. But today this **rare species** is in extreme danger. Due to **deforestation**, **climate change**, and the use of **pesticides**, the **butterfly population** is decreasing day by day.\n\n**Golden butterflies** are not only important for **beauty**, they are an important part of the **pollination** process. While feeding on **nectar** from **flowers**, they spread **pollen grains** and play a role in **plant reproduction**. If their numbers decrease, it can have a serious impact on **ecological balance**.\n\n**Causes of Decline:**\n1. **Habitat loss** — As **forests** are cut down, butterflies are losing their **natural habitat**.\n2. **Pesticides** — **Chemicals** are killing insects, which is destroying the **food chain** of **insects**.\n3. **Climate change** — Due to changes in temperature and **weather patterns**, **butterfly migration** is being disrupted.\n\n**How to Help?**\n1. Plant **butterfly-friendly gardens**.\n2. **Avoid pesticides** and use natural **fertilizers**.\n3. **Raise awareness** through school and **community programs**.\n\nEvery **small effort** can help save the **Golden Butterfly**. We should fulfill our duty for **nature conservation**.",
+        "bn": "**Golden Butterfly** প্রকৃতির এক **beautiful creation**, যার উপস্থিতি আমাদের পরিবেশকে **vibrant** এবং **colorful** করে তোলে। কিন্তু আজ এই **rare species** চরম বিপদে রয়েছে। **Deforestation**, **climate change**, এবং **pesticides**-এর ব্যবহারের কারণে **butterfly population** দিন দিন কমে যাচ্ছে।\n\n**Golden butterflies** শুধুমাত্র **beauty**-এর জন্য গুরুত্বপূর্ণ নয়, তারা **pollination** প্রক্রিয়ার গুরুত্বপূর্ণ অংশ। **Flowers**-এ **nectar** খাওয়ার সময় তারা **pollen grains** ছড়িয়ে দিয়ে **plant reproduction**-এ ভূমিকা রাখে। এদের সংখ্যা কমে গেলে **ecological balance**-এ বিরূপ প্রভাব পড়তে পারে।\n\n**Causes of Decline:**\n1. **Habitat loss** — **Forests** কেটে ফেলার ফলে butterflies তাদের **natural habitat** হারাচ্ছে।\n2. **Pesticides** — **Chemicals** পোকামাকড় মেরে ফেলছে, যা **insects**-এর **food chain** নষ্ট করছে।\n3. **Climate change** — তাপমাত্রা এবং **weather patterns** পরিবর্তনের কারণে **butterfly migration** ব্যাহত হচ্ছে।\n\n**How to Help?**\n1. Plant **butterfly-friendly gardens**.\n2. **Avoid pesticides** এবং প্রাকৃতিক **fertilizers** ব্যবহার করুন।\n3. **Raise awareness** স্কুল এবং **community programs**-এর মাধ্যমে।\n\nপ্রতিটি **small effort** **Golden Butterfly**-দের রক্ষা করতে পারে। **Nature conservation**-এর জন্য আমাদের duty পালন করা উচিত।"
+    },
+    "list": [
+        {
+            "word": "Golden Butterfly",
+            "phonetic": "ˈɡoʊldən ˈbʌtərflaɪ",
+            "word_native_transliteration": {
+                "bn": "গোল্ডেন বাটারফ্লাই"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🦋",
+            "meaning": "A beautiful species of butterfly with golden coloration, symbolizing beauty and nature.",
+            "example_sentence": "The Golden Butterfly is a symbol of beauty and nature.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গোল্ডেন বাটারফ্লাই ইজ অ্যা সিম্বল অফ বিউটি অ্যান্ড নেচার।"
+            },
+            "position": 1,
+            "synonyms": "beautiful butterfly, colorful butterfly, nature's creation",
+            "antonyms": "ordinary insect, common butterfly",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সোনালী প্রজাপতি",
+                    "word_transliteration": "shonali projapoti",
+                    "example_sentence_translation": "সোনালী প্রজাপতি সৌন্দর্য এবং প্রকৃতির প্রতীক।",
+                    "example_sentence_transliteration": "Shonali projapoti shoundryo ebong prokritir protik.",
+                    "source": "vocadrill"
+                }
+            ]
+        },
+        {
+            "word": "Deforestation",
+            "phonetic": "ˌdiːˌfɔːrɪˈsteɪʃən",
+            "word_native_transliteration": {
+                "bn": "ডিফরেস্টেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🪓",
+            "meaning": "The action of clearing a wide area of trees, destroying forest habitats.",
+            "example_sentence": "Deforestation is one of the major threats to butterflies.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিফরেস্টেশন ইজ ওয়ান অফ দ্য মেজর থ্রেটস টু বাটারফ্লাইস।"
+            },
+            "position": 2,
+            "synonyms": "forest clearance, tree cutting, habitat destruction",
+            "antonyms": "reforestation, afforestation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বন উজাড়",
+                    "word_transliteration": "bon ujaro",
+                    "example_sentence_translation": "বন উজাড় প্রজাপতিদের জন্য বড় হুমকি।",
+                    "example_sentence_transliteration": "Bon ujaro projapotider jonyo boro humki.",
+                    "source": "vocadrill"
+                }
+            ]
+        },
+        {
+            "word": "Climate Change",
+            "phonetic": "ˈklaɪmət tʃeɪndʒ",
+            "word_native_transliteration": {
+                "bn": "ক্লাইমেট চেঞ্জ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌡️",
+            "meaning": "Long-term changes in global temperature and weather patterns affecting ecosystems.",
+            "example_sentence": "Climate change is affecting butterfly migration.",
+            "example_sentence_native_transliteration": {
+                "bn": "ক্লাইমেট চেঞ্জ ইজ অ্যাফেক্টিং বাটারফ্লাই মাইগ্রেশন।"
+            },
+            "position": 3,
+            "synonyms": "global warming, environmental change, weather disruption",
+            "antonyms": "climate stability, climate consistency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জলবায়ু পরিবর্তন",
+                    "word_transliteration": "jolbayu poriborton",
+                    "example_sentence_translation": "জলবায়ু পরিবর্তন প্রজাপতির অভিবাসনকে প্রভাবিত করছে।",
+                    "example_sentence_transliteration": "Jolbayu poriborton projapotir obhibashonke probhabito korchhe.",
+                    "source": "vocadrill"
+                }
+            ]
+        },
+        {
+            "word": "Pesticides",
+            "phonetic": "ˈpɛstɪsaɪdz",
+            "word_native_transliteration": {
+                "bn": "পেস্টিসাইডস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧪",
+            "meaning": "Chemical substances used to kill pests, but harmful to beneficial insects like butterflies.",
+            "example_sentence": "Excessive use of pesticides harms butterflies.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সেসিভ ইউজ অফ পেস্টিসাইডস হার্মস বাটারফ্লাইস।"
+            },
+            "position": 4,
+            "synonyms": "insecticides, chemicals, bug killers",
+            "antonyms": "natural remedies, bio-insecticides",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কীটনাশক",
+                    "word_transliteration": "kitonashok",
+                    "example_sentence_translation": "কীটনাশকের অতিরিক্ত ব্যবহার প্রজাপতিদের ক্ষতি করে।",
+                    "example_sentence_transliteration": "Kitonashker otiriktо bybohar projapotider khoti kore.",
+                    "source": "vocadrill"
+                }
+            ]
+        },
+        {
+            "word": "Butterfly Population",
+            "phonetic": "ˈbʌtərflaɪ ˌpɒpjəˈleɪʃən",
+            "word_native_transliteration": {
+                "bn": "বাটারফ্লাই পপুলেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "The total number of butterflies in a particular area or ecosystem.",
+            "example_sentence": "The butterfly population is declining due to habitat loss.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য বাটারফ্লাই পপুলেশন ইজ ডিক্লাইনিং ডিউ টু হ্যাবিট্যাট লস।"
+            },
+            "position": 5,
+            "synonyms": "butterfly numbers, butterfly count, butterfly density",
+            "antonyms": "butterfly decline, butterfly extinction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রজাপতি জনসংখ্যা",
+                    "word_transliteration": "projapoti jongsongkha",
+                    "example_sentence_translation": "আবাসস্থল হারানোর কারণে প্রজাপতির জনসংখ্যা হ্রাস পাচ্ছে।",
+                    "example_sentence_transliteration": "Abashshol haranor karone projapotir jongsongkha hrash pachche.",
+                    "source": "vocadrill"
+                }
+            ]
+        },
+        {
+            "word": "Pollination",
+            "phonetic": "ˌpɒlɪˈneɪʃən",
+            "word_native_transliteration": {
+                "bn": "পলিনেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌸",
+            "meaning": "The process by which pollen is transferred from flowers, enabling plant reproduction.",
+            "example_sentence": "Butterflies play a vital role in pollination.",
+            "example_sentence_native_transliteration": {
+                "bn": "বাটারফ্লাইস প্লে অ্যা ভাইটাল রোল ইন পলিনেশন।"
+            },
+            "position": 6,
+            "synonyms": "plant reproduction, pollen transfer, fertilization",
+            "antonyms": "pollination disruption, no pollination",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরাগায়ন",
+                    "word_transliteration": "poragayon",
+                    "example_sentence_translation": "প্রজাপতিরা পরাগায়নে গুরুত্বপূর্ণ ভূমিকা পালন করে।",
+                    "example_sentence_transliteration": "Projapotira poragayone guruttopurno bhumika palon kore.",
+                    "source": "vocadrill"
+                }
+            ]
+        },
+        {
+            "word": "Ecological Balance",
+            "phonetic": "ˌiːkəˈlɒdʒɪkəl ˈbæləns",
+            "word_native_transliteration": {
+                "bn": "ইকোলজিকাল ব্যালেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "The stable state of an ecosystem where all organisms coexist harmoniously.",
+            "example_sentence": "Preserving butterflies helps maintain ecological balance.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রিজার্ভিং বাটারফ্লাইস হেল্পস মেইনটেইন ইকোলজিকাল ব্যালেন্স।"
+            },
+            "position": 7,
+            "synonyms": "environmental stability, ecosystem harmony, natural balance",
+            "antonyms": "ecological imbalance, environmental disruption",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাস্তুসংস্থানীয় ভারসাম্য",
+                    "word_transliteration": "bashtushongshthaniyo bharshammyo",
+                    "example_sentence_translation": "প্রজাপতি সংরক্ষণ বাস্তুসংস্থানীয় ভারসাম্য বজায় রাখতে সহায়তা করে।",
+                    "example_sentence_transliteration": "Projapoti songrokkhon bashtushongshthaniyo bharshammyo bojay rakhte shohayota kore.",
+                    "source": "vocadrill"
+                }
+            ]
+        },
+        {
+            "word": "Habitat Loss",
+            "phonetic": "ˈhæbɪtæt lɒs",
+            "word_native_transliteration": {
+                "bn": "হ্যাবিট্যাট লস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏚️",
+            "meaning": "The destruction or disappearance of natural environments where organisms live.",
+            "example_sentence": "Habitat loss is one of the biggest threats to butterflies.",
+            "example_sentence_native_transliteration": {
+                "bn": "হ্যাবিট্যাট লস ইজ ওয়ান অফ দ্য বিগেস্ট থ্রেটস টু বাটারফ্লাইস।"
+            },
+            "position": 8,
+            "synonyms": "habitat destruction, environmental loss, home destruction",
+            "antonyms": "habitat restoration, habitat recovery",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আবাসস্থল হ্রাস",
+                    "word_transliteration": "abashshol hrash",
+                    "example_sentence_translation": "আবাসস্থল হারানো প্রজাপতিদের জন্য সবচেয়ে বড় হুমকি।",
+                    "example_sentence_transliteration": "Abashshol harano projapotider jonyo shobcheye boro humki.",
+                    "source": "vocadrill"
+                }
+            ]
+        },
+        {
+            "word": "Forests",
+            "phonetic": "ˈfɔːrɪsts",
+            "word_native_transliteration": {
+                "bn": "ফরেস্টস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌲",
+            "meaning": "Large areas covered with trees and undergrowth, providing natural habitats for wildlife.",
+            "example_sentence": "Forests provide shelter and food for butterflies.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফরেস্টস প্রোভাইড শেল্টার অ্যান্ড ফুড ফর বাটারফ্লাইস।"
+            },
+            "position": 9,
+            "synonyms": "woodlands, jungles, tree areas",
+            "antonyms": "deserts, wasteland",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বন",
+                    "word_transliteration": "bon",
+                    "example_sentence_translation": "বন প্রজাপতির জন্য আশ্রয় এবং খাদ্য সরবরাহ করে।",
+                    "example_sentence_transliteration": "Bon projapotir jonyo ashroy ebong khadyo shorborah kore.",
+                    "source": "vocadrill"
+                }
+            ]
+        },
+        {
+            "word": "Natural Habitat",
+            "phonetic": "ˈnætʃərəl ˈhæbɪtæt",
+            "word_native_transliteration": {
+                "bn": "ন্যাচারাল হ্যাবিট্যাট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏞️",
+            "meaning": "The natural environment where organisms live and fulfill their life needs.",
+            "example_sentence": "Protecting the natural habitat is crucial for butterflies.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোটেক্টিং দ্য ন্যাচারাল হ্যাবিট্যাট ইজ ক্রুশিয়াল ফর বাটারফ্লাইস।"
+            },
+            "position": 10,
+            "synonyms": "natural environment, wild habitat, native home",
+            "antonyms": "artificial habitat, unnatural habitat",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রাকৃতিক আবাসস্থল",
+                    "word_transliteration": "prakritik abashshol",
+                    "example_sentence_translation": "প্রজাপতিদের জন্য প্রাকৃতিক আবাসস্থল রক্ষা করা অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Projapotider jonyo prakritik abashshol rokkha kora ottyonto guruttopurno.",
+                    "source": "vocadrill"
+                }
+            ]
+        },
+        {
+            "word": "Flowers",
+            "phonetic": "ˈflaʊərz",
+            "word_native_transliteration": {
+                "bn": "ফ্লাওয়ারস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌺",
+            "meaning": "The reproductive structures of plants that provide nectar for butterflies.",
+            "example_sentence": "Butterflies are attracted to colorful flowers.",
+            "example_sentence_native_transliteration": {
+                "bn": "বাটারফ্লাইস আর অ্যাট্রাক্টেড টু কালারফুল ফ্লাওয়ারস।"
+            },
+            "position": 11,
+            "synonyms": "blossoms, blooms, flowering plants",
+            "antonyms": "weeds, non-flowering plants",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ফুল",
+                    "word_transliteration": "phul",
+                    "example_sentence_translation": "প্রজাপতিরা রঙিন ফুলের প্রতি আকৃষ্ট হয়।",
+                    "example_sentence_transliteration": "Projapotira rongin phuler proti akrishto hoy.",
+                    "source": "vocadrill"
+                }
+            ]
+        },
+        {
+            "word": "Nectar",
+            "phonetic": "ˈnɛktər",
+            "word_native_transliteration": {
+                "bn": "নেকটার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🍯",
+            "meaning": "A sweet liquid produced by flowers that serves as food for butterflies.",
+            "example_sentence": "Butterflies drink nectar from flowers.",
+            "example_sentence_native_transliteration": {
+                "bn": "বাটারফ্লাইস ড্রিংক নেকটার ফ্রম ফ্লাওয়ারস।"
+            },
+            "position": 12,
+            "synonyms": "flower juice, sweet liquid, floral honey",
+            "antonyms": "polluted water, poisonous fluid",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মধু",
+                    "word_transliteration": "modhu",
+                    "example_sentence_translation": "প্রজাপতিরা ফুল থেকে মধু পান করে।",
+                    "example_sentence_transliteration": "Projapotira phul theke modhu pan kore.",
+                    "source": "vocadrill"
+                }
+            ]
+        },
+        {
+            "word": "Awareness",
+            "phonetic": "əˈwɛrnɪs",
+            "word_native_transliteration": {
+                "bn": "অ্যাওয়ারনেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💡",
+            "meaning": "Knowledge or understanding about important issues, particularly environmental conservation.",
+            "example_sentence": "Spreading awareness is essential to save butterflies.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্প্রেডিং অ্যাওয়ারনেস ইজ এসেনশিয়াল টু সেভ বাটারফ্লাইস।"
+            },
+            "position": 13,
+            "synonyms": "consciousness, knowledge, understanding",
+            "antonyms": "ignorance, unawareness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সচেতনতা",
+                    "word_transliteration": "shochetonta",
+                    "example_sentence_translation": "প্রজাপতিদের রক্ষা করতে সচেতনতা ছড়ানো অপরিহার্য।",
+                    "example_sentence_transliteration": "Projapotider rokkha korte shochetonta chhorano oporiharjo.",
+                    "source": "vocadrill"
+                }
+            ]
+        },
+        {
+            "word": "Community Programs",
+            "phonetic": "kəˈmjuːnɪti ˈprəʊɡræmz",
+            "word_native_transliteration": {
+                "bn": "কমিউনিটি প্রোগ্রামস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👥",
+            "meaning": "Organized activities involving local groups to promote environmental conservation.",
+            "example_sentence": "Community programs raise awareness about butterfly conservation.",
+            "example_sentence_native_transliteration": {
+                "bn": "কমিউনিটি প্রোগ্রামস রেইজ অ্যাওয়ারনেস অ্যাবাউট বাটারফ্লাই কনজারভেশন।"
+            },
+            "position": 14,
+            "synonyms": "local initiatives, group activities, social programs",
+            "antonyms": "individual actions, solitary actions",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সম্প্রদায়ভিত্তিক কার্যক্রম",
+                    "word_transliteration": "shomprodyovittik karjokrom",
+                    "example_sentence_translation": "প্রজাপতি সংরক্ষণ সম্পর্কে সচেতনতা বাড়াতে সম্প্রদায়ভিত্তিক কার্যক্রম সহায়ক।",
+                    "example_sentence_transliteration": "Projapoti songrokkhon shomporke shochetonta barate shomprodyovittik karjokrom shohayok.",
+                    "source": "vocadrill"
+                }
+            ]
+        },
+        {
+            "word": "Small Effort",
+            "phonetic": "smɔːl ˈɛfərt",
+            "word_native_transliteration": {
+                "bn": "স্মল এফোর্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✨",
+            "meaning": "Minor actions or initiatives that can collectively make a significant impact.",
+            "example_sentence": "Small efforts can bring big changes in butterfly conservation.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্মল এফোর্টস ক্যান ব্রিং বিগ চেঞ্জেস ইন বাটারফ্লাই কনজারভেশন।"
+            },
+            "position": 15,
+            "synonyms": "minor actions, little steps, simple initiatives",
+            "antonyms": "major action, large effort",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ছোট প্রচেষ্টা",
+                    "word_transliteration": "chhoto procheshta",
+                    "example_sentence_translation": "প্রজাপতি সংরক্ষণে ছোট প্রচেষ্টাও বড় পরিবর্তন আনতে পারে।",
+                    "example_sentence_transliteration": "Projapoti songrokkhone chhoto procheshta-o boro poriborton ante pare.",
+                    "source": "vocadrill"
+                }
+            ]
+        }
+    ]
+}

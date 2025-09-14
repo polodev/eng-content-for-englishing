@@ -1,0 +1,472 @@
+{
+    "position": 176,
+    "title_translation": {
+        "en": "Steps to Achieve Your Goals",
+        "bn": "লক্ষ্য অর্জনের ধাপসমূহ"
+    },
+    "content_translation": {
+        "en": "Every person has **aspirations** in life, but achieving goals is difficult without the right **blueprint**. First, it is necessary to **formulate** a clear plan where each step is **quantifiable** and progress can be put under **scrutiny**.\n\nFor success, one must work step by step and make **incremental** improvements. If any **hindrance** comes in achieving the goal, it is important to have **contingency** planning so that problems can be solved quickly.\n\nTo successfully **orchestrate** a goal, mental **fortitude** is required. Many times failure will come, but one must continue the **endeavor** with patience. When planning is properly **consolidated**, the pace of achieving goals is **expedited**.\n\nGoal achievement is not just the **culmination** of the final step, but it is a continuous process where each step **exemplifies** how we are improving. Ultimately, we should **mitigate** obstacles and move forward by **obliterating** failures.",
+        "bn": "প্রত্যেক মানুষের জীবনে কিছু **aspiration** থাকে, কিন্তু সঠিক **blueprint** ছাড়া লক্ষ্য পূরণ করা কঠিন। প্রথমেই প্রয়োজন একটি সুস্পষ্ট পরিকল্পনা **formulate** করা, যাতে প্রতিটি ধাপ **quantifiable** হয় এবং অগ্রগতি **scrutiny** করা যায়।\n\nসফলতার জন্য ধাপে ধাপে কাজ করতে হবে এবং **incremental** উন্নতি করতে হবে। লক্ষ্য পূরণে যদি কোনো **hindrance** আসে, তবে **contingency** পরিকল্পনা থাকা জরুরি, যাতে দ্রুত সমস্যার সমাধান করা যায়।\n\nএকটি লক্ষ্যকে সফলভাবে **orchestrate** করতে হলে মানসিক **fortitude** প্রয়োজন। অনেক সময় ব্যর্থতা আসবে, তবে ধৈর্য ধরে **endeavor** চালিয়ে যেতে হবে। সঠিক উপায়ে পরিকল্পনা **consolidate** করা হলে লক্ষ্য অর্জনের গতি **expedite** হয়।\n\nলক্ষ্য পূরণ শুধু শেষ ধাপের **culmination** নয়, বরং এটি একটি অবিচ্ছিন্ন প্রক্রিয়া, যেখানে প্রতিটি পদক্ষেপ **exemplify** করে কিভাবে আমরা উন্নতি করছি। শেষ পর্যন্ত, আমাদের উচিত বাধাগুলো **mitigate** করা এবং ব্যর্থতাকে **obliterate** করে অগ্রসর হওয়া।"
+    },
+    "list": [
+        {
+            "word": "aspiration",
+            "phonetic": "ˌæs.pɪˈreɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "অ্যাস্পিরেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "A hope or ambition of achieving something, a strong desire or goal to achieve something.",
+            "example_sentence": "His aspiration is to become a successful entrepreneur.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ অ্যাস্পিরেশন ইজ টু বিকাম এ সাকসেসফুল এন্ট্রিপ্রিনিউর।"
+            },
+            "position": 1,
+            "synonyms": "ambition, desire, goal",
+            "antonyms": "apathy, indifference, disinterest",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আকাঙ্ক্ষা",
+                    "word_transliteration": "akankkha",
+                    "example_sentence_translation": "তার উচ্চাকাঙ্ক্ষা একজন সফল উদ্যোক্তা হওয়া।",
+                    "example_sentence_transliteration": "Tar uchchakankha ekjon shofol uddyokta howa.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "blueprint",
+            "phonetic": "ˈbluː.prɪnt",
+            "word_native_transliteration": {
+                "bn": "ব্লুপ্রিন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📋",
+            "meaning": "A detailed plan or framework for a work or project, a pre-planned structure.",
+            "example_sentence": "The architect presented a blueprint for the new building.",
+            "example_sentence_native_transliteration": {
+                "bn": "দি আর্কিটেক্ট প্রেজেন্টেড এ ব্লুপ্রিন্ট ফর দি নিউ বিল্ডিং।"
+            },
+            "position": 2,
+            "synonyms": "plan, framework, outline",
+            "antonyms": "disorganization, guesswork, improvisation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নকশা",
+                    "word_transliteration": "noksha",
+                    "example_sentence_translation": "স্থপতিটি নতুন ভবনের জন্য একটি নকশা উপস্থাপন করেছিলেন।",
+                    "example_sentence_transliteration": "Sthopotiti notun bhoboner jonno ekti noksha upasthapon korechhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "formulate",
+            "phonetic": "ˈfɔːr.mjə.leɪt",
+            "word_native_transliteration": {
+                "bn": "ফর্মুলেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🎯",
+            "meaning": "To create or develop a plan or idea clearly and specifically, to construct an idea or strategy clearly.",
+            "example_sentence": "The company must formulate a strategy for expansion.",
+            "example_sentence_native_transliteration": {
+                "bn": "দি কোম্পানি মাস্ট ফর্মুলেট এ স্ট্র্যাটেজি ফর এক্সপানশন।"
+            },
+            "position": 3,
+            "synonyms": "develop, create, construct",
+            "antonyms": "disorganize, confuse, neglect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রণয়ন",
+                    "word_transliteration": "pronoyon",
+                    "example_sentence_translation": "কোম্পানিকে সম্প্রসারণের জন্য একটি কৌশল তৈরি করতে হবে।",
+                    "example_sentence_transliteration": "Kompanike shomprosaroner jonno ekti koushal toiri korte hobe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "quantifiable",
+            "phonetic": "ˈkwɒn.tɪ.faɪ.ə.bəl",
+            "word_native_transliteration": {
+                "bn": "কোয়ান্টিফাইএবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📊",
+            "meaning": "Able to be measured or expressed in numerical terms, something that can be expressed in specific numbers.",
+            "example_sentence": "The results of the project must be quantifiable.",
+            "example_sentence_native_transliteration": {
+                "bn": "দি রিজাল্টস অফ দি প্রোজেক্ট মাস্ট বি কোয়ান্টিফাইএবল।"
+            },
+            "position": 4,
+            "synonyms": "measurable, countable, assessable",
+            "antonyms": "unmeasurable, indefinable, subjective",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিমাপযোগ্য",
+                    "word_transliteration": "porimapjogyo",
+                    "example_sentence_translation": "প্রকল্পের ফলাফল অবশ্যই পরিমাপযোগ্য হতে হবে।",
+                    "example_sentence_transliteration": "Prokolper folafol obosshyoi porimapjogyo hote hobe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "scrutiny",
+            "phonetic": "ˈskruː.tɪ.ni",
+            "word_native_transliteration": {
+                "bn": "স্ক্রুটিনি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔍",
+            "meaning": "Critical observation or examination, careful and detailed examination or analysis of something.",
+            "example_sentence": "The proposal is under scrutiny by the board members.",
+            "example_sentence_native_transliteration": {
+                "bn": "দি প্রোপোজাল ইজ আন্ডার স্ক্রুটিনি বাই দি বোর্ড মেম্বারস।"
+            },
+            "position": 5,
+            "synonyms": "examination, inspection, analysis",
+            "antonyms": "neglect, ignorance, oversight",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিবিড় পর্যালোচনা",
+                    "word_transliteration": "nibir porjalocchona",
+                    "example_sentence_translation": "প্রস্তাবটি পরিচালনা পর্ষদের নিবিড় পর্যালোচনার অধীনে রয়েছে।",
+                    "example_sentence_transliteration": "Prostaboti porichalona porshoder nibir porjalocchonár odhine royeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "incremental",
+            "phonetic": "ˌɪn.krə ˈmɛn.təl",
+            "word_native_transliteration": {
+                "bn": "ইনক্রিমেন্টাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📈",
+            "meaning": "Relating to or denoting an increase or addition, especially one of a series on a regular basis, gradual improvement in small steps.",
+            "example_sentence": "The company is making incremental improvements to its product.",
+            "example_sentence_native_transliteration": {
+                "bn": "দি কোম্পানি ইজ মেকিং ইনক্রিমেন্টাল ইমপ্রুভমেন্টস টু ইটস প্রোডাক্ট।"
+            },
+            "position": 6,
+            "synonyms": "gradual, progressive, step-by-step",
+            "antonyms": "sudden, drastic, immediate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্রমবৃদ্ধিমূলক",
+                    "word_transliteria": "kromobriddhi-mulok",
+                    "example_sentence_translation": "কোম্পানিটি তার পণ্যে পর্যায়ক্রমিক উন্নতি করছে।",
+                    "example_sentence_transliteration": "Kompaniti tar ponye porjayokromik unnoti korche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "hindrance",
+            "phonetic": "ˈhɪn.drəns",
+            "word_native_transliteration": {
+                "bn": "হিনড্র্যান্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚧",
+            "meaning": "A thing that provides resistance, delay, or obstruction to something or someone, an obstacle or impediment.",
+            "example_sentence": "Lack of funding is a major hindrance to the project.",
+            "example_sentence_native_transliteration": {
+                "bn": "ল্যাক অফ ফান্ডিং ইজ এ মেজর হিনড্র্যান্স টু দি প্রোজেক্ট।"
+            },
+            "position": 7,
+            "synonyms": "obstacle, impediment, barrier",
+            "antonyms": "aid, assistance, facilitation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাধা",
+                    "word_transliteration": "badha",
+                    "example_sentence_translation": "তহবিলের অভাব প্রকল্পের জন্য একটি প্রধান বাধা।",
+                    "example_sentence_transliteration": "Tohbiler obhab prokolper jonno ekti prodhan badha.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "contingency",
+            "phonetic": "kən ˈtɪn.dʒən.si",
+            "word_native_transliteration": {
+                "bn": "কন্টিনজেনসি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "A future event or circumstance which is possible but cannot be predicted with certainty, a plan or preparation for unexpected events.",
+            "example_sentence": "The company has a contingency plan for financial crises.",
+            "example_sentence_native_transliteration": {
+                "bn": "দি কোম্পানি হ্যাজ এ কন্টিনজেনসি প্ল্যান ফর ফাইন্যানশিয়াল ক্রাইসিস।"
+            },
+            "position": 8,
+            "synonyms": "emergency plan, backup, alternative",
+            "antonyms": "certainty, assurance, predictability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জরুরি পরিকল্পনা",
+                    "word_transliteration": "joruri porikolpona",
+                    "example_sentence_translation": "কোম্পানির আর্থিক সংকটের জন্য একটি জরুরি পরিকল্পনা রয়েছে।",
+                    "example_sentence_transliteration": "Kompanir orthik shongkoter jonno ekti joruri porikolpona royeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "orchestrate",
+            "phonetic": "ˈɔːr.kɪ.streɪt",
+            "word_native_transliteration": {
+                "bn": "অর্কেস্ট্রেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🎼",
+            "meaning": "To plan or coordinate the elements of (a situation) to produce a desired effect, especially surreptitiously.",
+            "example_sentence": "He skillfully orchestrated the entire event.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি স্কিলফুলি অর্কেস্ট্রেটেড দি এনটায়ার ইভেন্ট।"
+            },
+            "position": 9,
+            "synonyms": "arrange, coordinate, manage",
+            "antonyms": "mismanage, disrupt, neglect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিকল্পনা ও বাস্তবায়ন",
+                    "word_transliteration": "porikolpona o bastobayan",
+                    "example_sentence_translation": "তিনি দক্ষতার সাথে পুরো অনুষ্ঠানের পরিকল্পনা ও বাস্তবায়ন করেছেন।",
+                    "example_sentence_transliteration": "Tini dokkhatar shathe puro onustthaner porikolpona o bastobayan korechhen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fortitude",
+            "phonetic": "ˈfɔːr.tɪ.tjuːd",
+            "word_native_transliteration": {
+                "bn": "ফর্টিটিউড"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "Courage in pain or adversity, the ability to maintain patience and courage in difficult situations.",
+            "example_sentence": "She showed great fortitude during the crisis.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি শোড গ্রেট ফর্টিটিউড ডিউরিং দি ক্রাইসিস।"
+            },
+            "position": 10,
+            "synonyms": "resilience, courage, perseverance",
+            "antonyms": "weakness, fear, cowardice",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ধৈর্য",
+                    "word_transliteration": "dhoirjo",
+                    "example_sentence_translation": "তিনি সংকটের সময় অসাধারণ ধৈর্য ও সাহস দেখিয়েছেন।",
+                    "example_sentence_transliteration": "Tini shongkoter shomoy oshadharon dhoirjo o shahos dekhiyechhen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "endeavor",
+            "phonetic": "ɪnˈdɛv.ɚ",
+            "word_native_transliteration": {
+                "bn": "এনডেভার"
+            },
+            "parts_of_speech": "noun/verb",
+            "emoji": "🚀",
+            "meaning": "An attempt to achieve a goal, hard work or effort towards a specific goal.",
+            "example_sentence": "His endeavor to start a business was successful.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ এনডেভার টু স্টার্ট এ বিজনেস ওয়াজ সাকসেসফুল।"
+            },
+            "position": 11,
+            "synonyms": "attempt, effort, struggle",
+            "antonyms": "inactivity, neglect, idleness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রচেষ্টা",
+                    "word_transliteration": "procheshta",
+                    "example_sentence_translation": "তার ব্যবসা শুরু করার প্রচেষ্টা সফল হয়েছে।",
+                    "example_sentence_transliteration": "Tar byabsha shuru korar procheshta shofol hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "consolidate",
+            "phonetic": "kənˈsɒl.ɪ.deɪt",
+            "word_native_transliteration": {
+                "bn": "কনসলিডেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔗",
+            "meaning": "To combine (a number of things) into a single more effective or coherent whole, to strengthen or make more solid.",
+            "example_sentence": "The company decided to consolidate its various branches.",
+            "example_sentence_native_transliteration": {
+                "bn": "দি কোম্পানি ডিসাইডেড টু কনসলিডেট ইটস ভেরিয়াস ব্রান্চেস।"
+            },
+            "position": 12,
+            "synonyms": "strengthen, merge, reinforce",
+            "antonyms": "separate, weaken, divide",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একত্রিত করা",
+                    "word_transliteration": "ektrito kora",
+                    "example_sentence_translation": "কোম্পানিটি তার বিভিন্ন শাখাগুলো একত্রিত করার সিদ্ধান্ত নিয়েছে।",
+                    "example_sentence_transliteration": "Kompaniti tar bibhinno shakhaguloo ektrito korar siddhanto niyechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "expedite",
+            "phonetic": "ˈɛk.spɪ.daɪt",
+            "word_native_transliteration": {
+                "bn": "এক্সপেডাইট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⚡",
+            "meaning": "To make (an action or process) happen sooner or be accomplished more quickly, to accelerate a work or process.",
+            "example_sentence": "The government took steps to expedite the approval process.",
+            "example_sentence_native_transliteration": {
+                "bn": "দি গভর্নমেন্ট টুক স্টেপস টু এক্সপেডাইট দি অ্যাপ্রুভাল প্রসেস।"
+            },
+            "position": 13,
+            "synonyms": "accelerate, hasten, speed up",
+            "antonyms": "delay, hinder, slow down",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ত্বরান্বিত করা",
+                    "word_transliteration": "tworanwito kora",
+                    "example_sentence_translation": "সরকার অনুমোদন প্রক্রিয়া দ্রুত করার ব্যবস্থা নিয়েছে।",
+                    "example_sentence_transliteration": "Shorkar onumodon prokriya druto korar byabostha niyechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "culmination",
+            "phonetic": "ˌkʌl.mɪˈneɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "কালমিনেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏔️",
+            "meaning": "The highest or climactic point of something, especially as attained after a long time, the final result achieved after long effort.",
+            "example_sentence": "The event was the culmination of years of hard work.",
+            "example_sentence_native_transliteration": {
+                "bn": "দি ইভেন্ট ওয়াজ দি কালমিনেশন অফ ইয়ারস অফ হার্ড ওয়ার্ক।"
+            },
+            "position": 14,
+            "synonyms": "peak, climax, conclusion",
+            "antonyms": "beginning, initiation, failure",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চূড়ান্ত পরিণতি",
+                    "word_transliteration": "churanto porinoti",
+                    "example_sentence_translation": "এই অনুষ্ঠানটি বহু বছরের কঠোর পরিশ্রমের চূড়ান্ত ফল।",
+                    "example_sentence_transliteration": "Ei onusthanoti bohu bochhorer kothor porishromer churanto fol.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "exemplify",
+            "phonetic": "ɪɡˈzɛm.plɪ.faɪ",
+            "word_native_transliteration": {
+                "bn": "এক্সেমপ্লিফাই"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "💡",
+            "meaning": "To be a typical example of or to illustrate something clearly, to show as an example or demonstrate.",
+            "example_sentence": "His dedication exemplifies true leadership.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ডেডিকেশন এক্সেমপ্লিফাইজ ট্রু লিডারশিপ।"
+            },
+            "position": 15,
+            "synonyms": "demonstrate, illustrate, represent",
+            "antonyms": "misrepresent, obscure, distort",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদাহরণ",
+                    "word_transliteration": "udahoron",
+                    "example_sentence_translation": "তার নিষ্ঠা প্রকৃত নেতৃত্বের উদাহরণ।",
+                    "example_sentence_transliteration": "Tar nishtha prokrito netrittoer udahoron.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "mitigate",
+            "phonetic": "ˈmɪt.ɪ.ɡeɪt",
+            "word_native_transliteration": {
+                "bn": "মিটিগেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🛡️",
+            "meaning": "To make less severe, serious, or painful, to reduce the intensity of damage or problems.",
+            "example_sentence": "Proper measures can mitigate environmental damage.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রপার মেজারস ক্যান মিটিগেট এনভায়রনমেন্টাল ড্যামেজ।"
+            },
+            "position": 16,
+            "synonyms": "alleviate, reduce, lessen",
+            "antonyms": "aggravate, intensify, exacerbate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রশমিত করা",
+                    "word_transliteration": "proshomito kora",
+                    "example_sentence_translation": "সঠিক পদক্ষেপ পরিবেশগত ক্ষতি কমাতে পারে।",
+                    "example_sentence_transliteration": "Shothik podokkhep poribeshgoto khoti komate pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "obliterate",
+            "phonetic": "əˈblɪt.ə.reɪt",
+            "word_native_transliteration": {
+                "bn": "ওব্লিটারেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "💥",
+            "meaning": "To destroy utterly; wipe out completely, to erase or remove something completely.",
+            "example_sentence": "The storm obliterated entire villages.",
+            "example_sentence_native_transliteration": {
+                "bn": "দি স্টর্ম ওব্লিটারেটেড এনটায়ার ভিলেজেস।"
+            },
+            "position": 17,
+            "synonyms": "erase, destroy, annihilate",
+            "antonyms": "preserve, restore, maintain",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিশ্চিহ্ন করা",
+                    "word_transliteration": "nishchihn kora",
+                    "example_sentence_translation": "ঝড় পুরো গ্রাম নিশ্চিহ্ন করে দিয়েছে।",
+                    "example_sentence_transliteration": "Jhor puro gram nishchihn kore diyechhe.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

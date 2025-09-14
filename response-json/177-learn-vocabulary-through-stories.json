@@ -1,0 +1,526 @@
+{
+    "position": 177,
+    "title_translation": {
+        "en": "Sustainable Farming for a Greener Future",
+        "bn": "একটি সবুজ ভবিষ্যতের জন্য টেকসই কৃষি"
+    },
+    "content_translation": {
+        "en": "To build a **sustainable** agricultural system, we need to adopt **agroecology** methods. Currently, excessive **monoculture** and **overgrazing** are causing soil **degradation**, threatening agricultural **sustainability**.\n\nThrough proper **irrigation** systems and **composting** practices, farmers should ensure soil **rejuvenation**. The expansion of **organic** farming can maintain the balance of agricultural **ecosystems**, as it reduces chemical **effluent** and preserves **biodiversity**.\n\nFurthermore, adopting **permaculture** and **regenerative** farming models will increase soil **resilience**, ensuring long-term **sustainability**.\n\nFinally, we should adopt **vermiculture** and low **tillage**-based farming to maintain the soil's **photosynthesis** process and ensure a green future for the next generation.",
+        "bn": "একটি **sustainable** কৃষি ব্যবস্থা গড়ে তুলতে হলে আমাদের **agroecology** পদ্ধতি গ্রহণ করা প্রয়োজন। বর্তমানে অতিরিক্ত **monoculture** এবং **overgrazing** মাটির **degradation** সৃষ্টি করছে, যা কৃষির **sustainability** হুমকির মুখে ফেলছে।\n\nসঠিক **irrigation** ব্যবস্থা এবং **composting** ব্যবহারের মাধ্যমে কৃষকদের উচিত মাটির **rejuvenation** নিশ্চিত করা। **Organic** কৃষির প্রসার কৃষির **ecosystem** এর ভারসাম্য রক্ষা করতে পারে, কারণ এটি রাসায়নিক **effluent** হ্রাস করে এবং **biodiversity** সংরক্ষণ করে।\n\nএছাড়া, **permaculture** এবং **regenerative** কৃষি মডেল গ্রহণ করলে মাটির **resilience** বাড়বে, যা দীর্ঘমেয়াদে **sustainability** নিশ্চিত করবে।\n\nঅবশেষে, আমাদের উচিত **vermiculture** এবং কম **tillage** ভিত্তিক কৃষি গ্রহণ করা, যাতে মাটির **photosynthesis** প্রক্রিয়া বজায় থাকে এবং আগামী প্রজন্মের জন্য সবুজ ভবিষ্যৎ নিশ্চিত করা যায়।"
+    },
+    "list": [
+        {
+            "word": "sustainable",
+            "phonetic": "səˈsteɪ.nə.bəl",
+            "word_native_transliteration": {
+                "bn": "সাসটেইনেবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌱",
+            "meaning": "Able to continue for a long period without harming the environment or natural resources.",
+            "example_sentence": "Sustainable farming helps protect natural resources.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাসটেইনেবল ফার্মিং হেল্পস প্রোটেক্ট ন্যাচারাল রিসোর্সেস।"
+            },
+            "position": 1,
+            "synonyms": "eco-friendly, renewable, long-lasting",
+            "antonyms": "unsustainable, harmful, short-term",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "টেকসই বা দীর্ঘস্থায়ী",
+                    "word_transliteration": "tekshoi ba dirghosthayi",
+                    "example_sentence_translation": "টেকসই কৃষি প্রাকৃতিক সম্পদ রক্ষা করতে সহায়তা করে।",
+                    "example_sentence_transliteration": "Tekshoi krishi prakritik sompod roksha korte sahayota kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "agroecology",
+            "phonetic": "ˌæɡ.roʊ.iːˈkɒl.ə.dʒi",
+            "word_native_transliteration": {
+                "bn": "অ্যাগ্রোইকোলজি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌾",
+            "meaning": "The application of ecological principles to agricultural production systems.",
+            "example_sentence": "Agroecology promotes biodiversity in farming practices.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাগ্রোইকোলজি প্রোমোটস বায়োডাইভার্সিটি ইন ফার্মিং প্র্যাক্টিসেস।"
+            },
+            "position": 2,
+            "synonyms": "ecological farming, sustainable agriculture, green farming",
+            "antonyms": "industrial farming, conventional agriculture, exploitative farming",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কৃষি বিজ্ঞান ও পরিবেশের সংযোগ",
+                    "word_transliteration": "krishi biggan o poribeshcher songyog",
+                    "example_sentence_translation": "কৃষিবিজ্ঞানে পরিবেশগত দৃষ্টিভঙ্গি কৃষিক্ষেত্রে জীববৈচিত্র্য প্রচার করে।",
+                    "example_sentence_transliteration": "Krishibiggane poribeshgoto drishtibhongi krishikkhetre jibboichittryo prochar kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "monoculture",
+            "phonetic": "ˈmɒn.əˌkʌl.tʃər",
+            "word_native_transliteration": {
+                "bn": "মনোকালচার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌽",
+            "meaning": "The cultivation of a single crop in a given area.",
+            "example_sentence": "Monoculture farming depletes soil nutrients over time.",
+            "example_sentence_native_transliteration": {
+                "bn": "মনোকালচার ফার্মিং ডিপ্লিটস সয়েল নিউট্রিয়েন্টস ওভার টাইম।"
+            },
+            "position": 3,
+            "synonyms": "single-crop farming, industrial agriculture, uniform cultivation",
+            "antonyms": "polyculture, crop rotation, biodiverse farming",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একক ফসল চাষ",
+                    "word_transliteration": "ekko foshol chash",
+                    "example_sentence_translation": "একক ফসল চাষ মাটির পুষ্টি ধীরে ধীরে কমিয়ে দেয়।",
+                    "example_sentence_transliteration": "Ekko foshol chash matir pushti dhire dhire komiye dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "overgrazing",
+            "phonetic": "ˌoʊ.vɚˈɡreɪ.zɪŋ",
+            "word_native_transliteration": {
+                "bn": "ওভারগ্রেজিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🐄",
+            "meaning": "The practice of allowing livestock to graze to the point of damaging vegetation.",
+            "example_sentence": "Overgrazing leads to soil erosion and loss of biodiversity.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওভারগ্রেজিং লিডস টু সয়েল ইরোশন অ্যান্ড লস অব বায়োডাইভার্সিটি।"
+            },
+            "position": 4,
+            "synonyms": "excessive grazing, land degradation, soil erosion",
+            "antonyms": "rotational grazing, conservation grazing, sustainable pasture management",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতিরিক্ত চারণ বা ঘাস খাওয়া",
+                    "word_transliteration": "otirikto charon ba ghas khaowa",
+                    "example_sentence_translation": "অতিরিক্ত চারণের ফলে মাটি ক্ষয় ও জীববৈচিত্র্যের হ্রাস ঘটে।",
+                    "example_sentence_transliteration": "Otirikto charoner fole mati kkhoy o jibboichittryoer hrash ghote.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "degradation",
+            "phonetic": "ˌdɛɡ.rəˈdeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ডিগ্রেডেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📉",
+            "meaning": "The condition or process of degrading or being degraded.",
+            "example_sentence": "Deforestation causes environmental degradation.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিফরেস্টেশন কজেস এনভায়রনমেন্টাল ডিগ্রেডেশন।"
+            },
+            "position": 5,
+            "synonyms": "deterioration, decline, erosion",
+            "antonyms": "improvement, restoration, conservation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অবনতি বা ক্ষয়",
+                    "word_transliteration": "obonoti ba kkhoy",
+                    "example_sentence_translation": "বন উজাড় পরিবেশগত অবনতি সৃষ্টি করে।",
+                    "example_sentence_transliteration": "Bon ujad poribeshgoto obonoti srishti kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sustainability",
+            "phonetic": "səˌsteɪ.nəˈbɪl.ə.ti",
+            "word_native_transliteration": {
+                "bn": "সাসটেইনেবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "♻️",
+            "meaning": "The ability to be maintained at a certain rate or level.",
+            "example_sentence": "Sustainability is key to preserving natural ecosystems.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাসটেইনেবিলিটি ইজ কি টু প্রিজার্ভিং ন্যাচারাল ইকোসিস্টেমস।"
+            },
+            "position": 6,
+            "synonyms": "longevity, eco-friendliness, stability",
+            "antonyms": "unsustainability, instability, exhaustion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিবেশগত বা অর্থনৈতিক টেকসইতা",
+                    "word_transliteration": "poribeshgoto ba orthonaitik tekshoyita",
+                    "example_sentence_translation": "টেকসইতা প্রাকৃতিক বাস্তুসংস্থানের সংরক্ষণের মূল চাবিকাঠি।",
+                    "example_sentence_transliteration": "Tekshoyita prakritik bastusongsthanersongrokkhoner mul chabikathi.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "irrigation",
+            "phonetic": "ˌɪr.ɪˈɡeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ইরিগেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💧",
+            "meaning": "The artificial application of water to land or soil.",
+            "example_sentence": "Irrigation systems improve crop yields in dry regions.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইরিগেশন সিস্টেমস ইমপ্রুভ ক্রপ ইল্ডস ইন ড্রাই রিজিয়নস।"
+            },
+            "position": 7,
+            "synonyms": "watering, hydration, agricultural water supply",
+            "antonyms": "drought, dehydration, water scarcity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সেচ বা জল সরবরাহ",
+                    "word_transliteration": "shech ba jol shorboraho",
+                    "example_sentence_translation": "শুষ্ক অঞ্চলে সেচ ব্যবস্থা ফসলের উৎপাদন বৃদ্ধি করে।",
+                    "example_sentence_transliteration": "Shushko onchale shech byobostha foshler utpadon briddhi kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "composting",
+            "phonetic": "ˈkɒm.pɒs.tɪŋ",
+            "word_native_transliteration": {
+                "bn": "কম্পোস্টিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌿",
+            "meaning": "The controlled decomposition of organic matter to produce humus.",
+            "example_sentence": "Composting reduces waste and enriches the soil naturally.",
+            "example_sentence_native_transliteration": {
+                "bn": "কম্পোস্টিং রিডিউসেস ওয়েস্ট অ্যান্ড এনরিচেস দ্য সয়েল ন্যাচারালি।"
+            },
+            "position": 8,
+            "synonyms": "organic fertilization, decomposition, soil enrichment",
+            "antonyms": "waste disposal, chemical fertilization, landfill",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জৈব সার প্রস্তুতি",
+                    "word_transliteration": "joibo shar prostuti",
+                    "example_sentence_translation": "জৈব সার তৈরি বর্জ্য কমায় এবং প্রাকৃতিকভাবে মাটির উর্বরতা বৃদ্ধি করে।",
+                    "example_sentence_transliteration": "Joibo shar toiri borjyo komay ebong prakritikbhabe matir urborata briddhi kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "rejuvenation",
+            "phonetic": "rɪˌdʒuː.vɪˈneɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "রিজুভেনেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌳",
+            "meaning": "The action or process of making someone or something look or feel better, younger, or more vital.",
+            "example_sentence": "Forest rejuvenation is essential for restoring biodiversity.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফরেস্ট রিজুভেনেশন ইজ এসেনশিয়াল ফর রিস্টোরিং বায়োডাইভার্সিটি।"
+            },
+            "position": 9,
+            "synonyms": "renewal, restoration, revitalization",
+            "antonyms": "decay, deterioration, exhaustion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুনরুজ্জীবন বা পুনর্নবীকরণ",
+                    "word_transliteration": "punorujjibon ba punornobi koron",
+                    "example_sentence_translation": "জীববৈচিত্র্য পুনরুদ্ধারের জন্য বন পুনরুজ্জীবন অপরিহার্য।",
+                    "example_sentence_transliteration": "Jibboichittryo punoruddharerjonno bon punorujjibon oporoharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "organic",
+            "phonetic": "ɔːrˈɡæn.ɪk",
+            "word_native_transliteration": {
+                "bn": "অর্গানিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🥬",
+            "meaning": "Produced or involving production without the use of chemical fertilizers, pesticides, or other artificial agents.",
+            "example_sentence": "Organic farming improves soil health and reduces pollution.",
+            "example_sentence_native_transliteration": {
+                "bn": "অর্গানিক ফার্মিং ইমপ্রুভস সয়েল হেলথ অ্যান্ড রিডিউসেস পলিউশন।"
+            },
+            "position": 10,
+            "synonyms": "natural, chemical-free, sustainable",
+            "antonyms": "synthetic, artificial, processed",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জৈব বা প্রাকৃতিক",
+                    "word_transliteration": "joibo ba prakritik",
+                    "example_sentence_translation": "জৈব কৃষি মাটির স্বাস্থ্য উন্নত করে এবং দূষণ কমায়।",
+                    "example_sentence_transliteration": "Joibo krishi matir shastho unnoto kore ebong dushon komay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ecosystem",
+            "phonetic": "ˈiː.kəʊˌsɪs.təm",
+            "word_native_transliteration": {
+                "bn": "ইকোসিস্টেম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌍",
+            "meaning": "A biological community of interacting organisms and their physical environment.",
+            "example_sentence": "A balanced ecosystem is crucial for environmental sustainability.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ ব্যালান্সড ইকোসিস্টেম ইজ ক্রুশিয়াল ফর এনভায়রনমেন্টাল সাসটেইনেবিলিটি।"
+            },
+            "position": 11,
+            "synonyms": "habitat, biome, ecological system",
+            "antonyms": "environmental imbalance, destruction, isolation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাস্তুসংস্থান বা পরিবেশগত ব্যবস্থা",
+                    "word_transliteration": "bastusongsthan ba poribeshgoto byobostha",
+                    "example_sentence_translation": "একটি ভারসাম্যপূর্ণ বাস্তুসংস্থান পরিবেশগত টেকসইতার জন্য গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Ekti bharshammopurno bastusongsthan poribeshgoto tekshoyitarjonno guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "effluent",
+            "phonetic": "ˈɛf.lu.ənt",
+            "word_native_transliteration": {
+                "bn": "এফ্লুয়েন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏭",
+            "meaning": "Liquid waste or sewage discharged into a river or the sea.",
+            "example_sentence": "Factory effluent contaminates nearby rivers and lakes.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফ্যাক্টরি এফ্লুয়েন্ট কন্টামিনেটস নিয়ারবাই রিভার্স অ্যান্ড লেকস।"
+            },
+            "position": 12,
+            "synonyms": "wastewater, discharge, pollutant",
+            "antonyms": "clean water, purification, filtration",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বর্জ্য জল বা দূষিত তরল",
+                    "word_transliteration": "borjyo jol ba dushito torol",
+                    "example_sentence_translation": "কারখানার বর্জ্য জল আশপাশের নদী ও হ্রদ দূষিত করে।",
+                    "example_sentence_transliteration": "Karkhanar borjyo jol ashpasher nodi o hrod dushito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "biodiversity",
+            "phonetic": "ˌbaɪ.əʊ.daɪˈvɜː.sɪ.ti",
+            "word_native_transliteration": {
+                "bn": "বায়োডাইভার্সিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🦋",
+            "meaning": "The variety of life in the world or in a particular habitat or ecosystem.",
+            "example_sentence": "Protecting biodiversity helps maintain ecological balance.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোটেক্টিং বায়োডাইভার্সিটি হেল্পস মেইনটেইন ইকোলজিক্যাল ব্যালান্স।"
+            },
+            "position": 13,
+            "synonyms": "biological variety, species richness, ecological diversity",
+            "antonyms": "extinction, homogeneity, monoculture",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জীববৈচিত্র্য বা জীবজগতের বৈচিত্র্য",
+                    "word_transliteration": "jibboichittryo ba jibojogoter boichittryo",
+                    "example_sentence_translation": "জীববৈচিত্র্য সংরক্ষণ বাস্তুসংস্থানের ভারসাম্য বজায় রাখতে সহায়তা করে।",
+                    "example_sentence_transliteration": "Jibboichittryo songrokkhon bastusongsthanerbharshammybojayrakhtesahayotakore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "permaculture",
+            "phonetic": "ˈpɜː.mə.kʌl.tʃər",
+            "word_native_transliteration": {
+                "bn": "পারমাকালচার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌿",
+            "meaning": "The development of agricultural ecosystems intended to be sustainable and self-sufficient.",
+            "example_sentence": "Permaculture promotes self-sufficient farming systems.",
+            "example_sentence_native_transliteration": {
+                "bn": "পারমাকালচার প্রোমোটস সেলফ-সাফিশিয়েন্ট ফার্মিং সিস্টেমস।"
+            },
+            "position": 14,
+            "synonyms": "sustainable farming, ecological agriculture, agroforestry",
+            "antonyms": "industrial farming, unsustainable agriculture, chemical farming",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "টেকসই কৃষি পদ্ধতি",
+                    "word_transliteration": "tekshoi krishi poddhoti",
+                    "example_sentence_translation": "টেকসই কৃষি পরিবেশগতভাবে স্বনির্ভর কৃষি ব্যবস্থাকে উৎসাহিত করে।",
+                    "example_sentence_transliteration": "Tekshoi krishi poribeshgotobhabe shonirvor krishi byobosthakey utsahito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "regenerative",
+            "phonetic": "rɪˈdʒɛn.ər.ə.tɪv",
+            "word_native_transliteration": {
+                "bn": "রিজেনেরেটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔄",
+            "meaning": "Having the ability to regenerate or be renewed.",
+            "example_sentence": "Regenerative farming improves soil fertility naturally.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিজেনেরেটিভ ফার্মিং ইমপ্রুভস সয়েল ফার্টিলিটি ন্যাচারালি।"
+            },
+            "position": 15,
+            "synonyms": "restorative, revitalizing, replenishing",
+            "antonyms": "depleting, destructive, degrading",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুনর্নির্মাণকারী বা পুনর্জীবনশীল",
+                    "word_transliteration": "punornirmankari ba punorjibonshil",
+                    "example_sentence_translation": "পুনরুজ্জীবনশীল কৃষি প্রাকৃতিকভাবে মাটির উর্বরতা উন্নত করে।",
+                    "example_sentence_transliteration": "Punorujjibonshil krishi prakritikbhabe matir urborata unnoto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "resilience",
+            "phonetic": "rɪˈzɪl.i.əns",
+            "word_native_transliteration": {
+                "bn": "রেজিলিয়েন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "The capacity to recover quickly from difficulties; toughness.",
+            "example_sentence": "Soil resilience helps maintain crop productivity during droughts.",
+            "example_sentence_native_transliteration": {
+                "bn": "সয়েল রেজিলিয়েন্স হেল্পস মেইনটেইন ক্রপ প্রোডাক্টিভিটি ডিউরিং ড্রাউটস।"
+            },
+            "position": 16,
+            "synonyms": "toughness, adaptability, endurance",
+            "antonyms": "fragility, weakness, vulnerability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহনশীলতা বা প্রতিরোধ ক্ষমতা",
+                    "word_transliteration": "shohonshilota ba protirodh kkhomota",
+                    "example_sentence_translation": "শুষ্ক আবহাওয়ায় ফসল উৎপাদনশীলতা বজায় রাখতে মাটির সহনশীলতা সহায়ক।",
+                    "example_sentence_transliteration": "Shushko abohawaye foshol utpadonsheelota bojay rakhtematir shohonshilota shahayok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "vermiculture",
+            "phonetic": "ˈvɜː.mɪ.kʌl.tʃər",
+            "word_native_transliteration": {
+                "bn": "ভার্মিকালচার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🪱",
+            "meaning": "The cultivation of earthworms, especially for use in composting organic waste.",
+            "example_sentence": "Vermiculture enriches soil with natural nutrients.",
+            "example_sentence_native_transliteration": {
+                "bn": "ভার্মিকালচার এনরিচেস সয়েল উইথ ন্যাচারাল নিউট্রিয়েন্টস।"
+            },
+            "position": 17,
+            "synonyms": "worm farming, organic fertilization, composting",
+            "antonyms": "chemical fertilization, soil depletion, synthetic farming",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কেঁচো চাষ",
+                    "word_transliteration": "kecho chash",
+                    "example_sentence_translation": "কেঁচো চাষ মাটিকে প্রাকৃতিক পুষ্টি দিয়ে সমৃদ্ধ করে।",
+                    "example_sentence_transliteration": "Kecho chash matike prakritik pushti diye shomriddho kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "tillage",
+            "phonetic": "ˈtɪl.ɪdʒ",
+            "word_native_transliteration": {
+                "bn": "টিলেজ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚜",
+            "meaning": "The preparation of land for growing crops.",
+            "example_sentence": "Excessive tillage can lead to soil erosion.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সেসিভ টিলেজ ক্যান লিড টু সয়েল ইরোশন।"
+            },
+            "position": 18,
+            "synonyms": "cultivation, plowing, soil preparation",
+            "antonyms": "no-till farming, uncultivated land, natural growth",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মাটি চাষ বা চাষাবাদ",
+                    "word_transliteration": "mati chash ba chashabadh",
+                    "example_sentence_translation": "অতিরিক্ত চাষ মাটির ক্ষয় ঘটাতে পারে।",
+                    "example_sentence_transliteration": "Otirikto chash matir kkhoy ghotate pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "photosynthesis",
+            "phonetic": "ˌfoʊ.təʊˈsɪn.θə.sɪs",
+            "word_native_transliteration": {
+                "bn": "ফটোসিনথেসিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌞",
+            "meaning": "The process by which green plants and some other organisms use sunlight to synthesize foods with the aid of chlorophyll pigments.",
+            "example_sentence": "Photosynthesis is essential for plant growth and oxygen production.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফটোসিনথেসিস ইজ এসেনশিয়াল ফর প্ল্যান্ট গ্রোথ অ্যান্ড অক্সিজেন প্রোডাকশন।"
+            },
+            "position": 19,
+            "synonyms": "plant metabolism, chlorophyll process, carbon fixation",
+            "antonyms": "respiration, decomposition, nutrient deprivation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আলোকসংশ্লেষণ বা গাছের খাদ্য উৎপাদন প্রক্রিয়া",
+                    "word_transliteration": "aloksongshleshon ba gachher khaddo utpadon prokriya",
+                    "example_sentence_translation": "আলোকসংশ্লেষণ উদ্ভিদের বৃদ্ধি ও অক্সিজেন উৎপাদনের জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Aloksongshleshon uddhidder briddhi o oxijgen utpadoner jonno oporiharjo.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}
