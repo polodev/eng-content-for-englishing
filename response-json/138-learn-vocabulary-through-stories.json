@@ -1,0 +1,526 @@
+{
+    "position": 138,
+    "title_translation": {
+        "en": "How to Grow a Small Business",
+        "bn": "কীভাবে একটি ছোট ব্যবসা বড় করবেন"
+    },
+    "content_translation": {
+        "en": "Growing a small business requires **entrepreneurial** mindset above all else. Many new entrepreneurs start their business using the **bootstrap** model, where they take on new ventures with limited **liquidity**. However, analyzing **feasibility** and **profitability** is crucial for increasing business **scalability**. A successful business must apply **diversification** strategies. If problems arise in one market, keeping alternative products or services can help avoid **insolvency**. Through **arbitrage** and proper **monetization** planning, it's possible to increase **equity**. Often, small companies can create **synergy** with large **conglomerates**, which opens the path to **exponential** growth. In some cases, adopting **outsourcing** and **pivot** strategies can also expand the business. By following **echelon**-based planning and proper **amortization** policies, any small **venture** can be scaled up.",
+        "bn": "একটি ছোট ব্যবসা বড় করতে হলে **entrepreneurial** মানসিকতা সবচেয়ে জরুরি। অনেক নতুন উদ্যোক্তা **bootstrap** মডেল ব্যবহার করে ব্যবসা শুরু করেন, যেখানে সীমিত **liquidity** নিয়েও তারা নতুন উদ্যোগ নেন। তবে, ব্যবসার **scalability** বাড়ানোর জন্য **feasibility** এবং **profitability** বিশ্লেষণ করা অত্যন্ত গুরুত্বপূর্ণ। একটি সফল ব্যবসার জন্য **diversification** কৌশল প্রয়োগ করতে হয়। যদি একটি বাজারে সমস্যা দেখা দেয়, তবে বিকল্প পণ্য বা পরিষেবা রাখা গেলে **insolvency** থেকে রক্ষা পাওয়া সম্ভব। ব্যবসায় **arbitrage** এবং সঠিক **monetization** পরিকল্পনার মাধ্যমে **equity** বৃদ্ধি করা সম্ভব হয়। অনেক সময়, ছোট কোম্পানিগুলো বড় **conglomerate**-এর সাথে **synergy** তৈরি করতে পারে, যা **exponential** প্রবৃদ্ধির পথ খুলে দেয়। কিছু ক্ষেত্রে **outsourcing** এবং **pivot** কৌশল গ্রহণ করেও ব্যবসা সম্প্রসারণ করা সম্ভব হয়। **Echelon** ভিত্তিক পরিকল্পনা এবং সঠিক **amortization** নীতি মেনে চললে যেকোনো ছোট **venture**-কে বড় করা সম্ভব।"
+    },
+    "list": [
+        {
+            "word": "entrepreneurial",
+            "phonetic": "ˌɒn.trə.prəˈnɜː.ri.əl",
+            "word_native_transliteration": {
+                "bn": "আনট্রাপ্রেনিউরিয়াল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💼",
+            "meaning": "Characterized by initiative and willingness to undertake new ventures or business activities.",
+            "example_sentence": "His entrepreneurial mindset helped him launch a successful startup.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ আনট্রাপ্রেনিউরিয়াল মাইন্ডসেট হেল্পড হিম লঞ্চ এ সাকসেসফুল স্টার্টআপ।"
+            },
+            "position": 1,
+            "synonyms": "business-minded, innovative, visionary",
+            "antonyms": "unambitious, conventional, risk-averse",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্যোগী, ব্যবসায়িক, সৃজনশীল",
+                    "word_transliteration": "uddogi, byabasayik, srijonshil",
+                    "example_sentence_translation": "তার উদ্যোগী মনোভাব তাকে সফল স্টার্টআপ শুরু করতে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Tar uddogi monobhab take shofol startup shuru korte shahajjo koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "bootstrap",
+            "phonetic": "ˈbuːt.stræp",
+            "word_native_transliteration": {
+                "bn": "বুটস্ট্র্যাপ"
+            },
+            "parts_of_speech": "verb/noun",
+            "emoji": "🥾",
+            "meaning": "To start and develop a business using personal resources without external funding.",
+            "example_sentence": "He bootstrapped his company with minimal resources.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি বুটস্ট্র্যাপড হিজ কোম্পানি উইথ মিনিমাল রিসোর্সেস।"
+            },
+            "position": 2,
+            "synonyms": "self-funding, self-starting, independently establish",
+            "antonyms": "dependence, borrowing, funded",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্ব-প্রতিষ্ঠা, স্ব-তহবিলায়ন, সম্পদবিহীন ব্যবসা শুরু করা",
+                    "word_transliteration": "sho-protishttha, sho-tohobilayon, shompodbiheen byabsha shuru kora",
+                    "example_sentence_translation": "সে স্বল্প সম্পদ নিয়ে নিজের কোম্পানি গড়ে তুলেছে।",
+                    "example_sentence_transliteration": "She sholpo shompod niye nijer company gore tuleche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "liquidity",
+            "phonetic": "lɪkˈwɪd.ə.ti",
+            "word_native_transliteration": {
+                "bn": "লিকুইডিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💰",
+            "meaning": "The availability of liquid assets to a market or company; cash flow.",
+            "example_sentence": "The company maintained high liquidity to handle emergencies.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি মেইনটেইনড হাই লিকুইডিটি টু হ্যান্ডেল এমার্জেন্সিস।"
+            },
+            "position": 3,
+            "synonyms": "cash flow, solvency, convertibility",
+            "antonyms": "illiquidity, insolvency, rigidity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নগদ প্রবাহ, অর্থপ্রবাহ, তারল্য",
+                    "word_transliteration": "nogod probah, orthoprobah, tarollo",
+                    "example_sentence_translation": "কোম্পানিটি জরুরি পরিস্থিতি সামলানোর জন্য উচ্চ তারল্য বজায় রেখেছিল।",
+                    "example_sentence_transliteration": "Companiti joruri poristhiti shamlanor jonno uchcho tarollo bojay rekhechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "scalability",
+            "phonetic": "ˌskeɪ.ləˈbɪl.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "স্কেলাবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "The capacity to be changed in size or scale; expandability.",
+            "example_sentence": "Cloud computing enhances the scalability of businesses.",
+            "example_sentence_native_transliteration": {
+                "bn": "ক্লাউড কম্পিউটিং এনহান্সেস দ্য স্কেলাবিলিটি অফ বিজনেসেস।"
+            },
+            "position": 4,
+            "synonyms": "expandability, growth potential, flexibility",
+            "antonyms": "rigidity, limitation, stagnation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সম্প্রসারণ ক্ষমতা, বর্ধনশীলতা, প্রসারণযোগ্যতা",
+                    "word_transliteration": "shomprosharon khomota, bordhonshilota, prosharonjoggota",
+                    "example_sentence_translation": "ক্লাউড কম্পিউটিং ব্যবসার সম্প্রসারণ ক্ষমতা বাড়ায়।",
+                    "example_sentence_transliteration": "Cloud computing byabashar shomprosharon khomota baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "feasibility",
+            "phonetic": "ˌfiː.zəˈbɪl.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "ফিজিবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✅",
+            "meaning": "The state or degree of being easily or conveniently done; practicality.",
+            "example_sentence": "The feasibility study showed the project was worth pursuing.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফিজিবিলিটি স্টাডি শোড দ্য প্রোজেক্ট ওয়াজ ওর্থ পার্সুইং।"
+            },
+            "position": 5,
+            "synonyms": "viability, workability, practicality",
+            "antonyms": "impracticality, infeasibility, utopianism",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাস্তবায়নযোগ্যতা, সম্ভাব্যতা, কার্যকারিতা",
+                    "word_transliteration": "bastobayonjoggota, shombhabyota, karyokarira",
+                    "example_sentence_translation": "সম্ভাব্যতা গবেষণায় দেখা গেছে প্রকল্পটি এগিয়ে নেওয়ার উপযোগী।",
+                    "example_sentence_transliteration": "Shombhabyota gobeshonay dekha geche proklopoti egiye neowar upogjogi.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "profitability",
+            "phonetic": "ˌprɒf.ɪ.təˈbɪl.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "প্রফিটেবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💹",
+            "meaning": "The degree to which a business or activity yields profit or financial gain.",
+            "example_sentence": "Increasing sales and reducing costs boosted profitability.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনক্রিসিং সেলস অ্যান্ড রিডিউসিং কস্টস বুস্টেড প্রফিটেবিলিটি।"
+            },
+            "position": 6,
+            "synonyms": "earnings, revenue generation, financial gain",
+            "antonyms": "loss, deficit, unprofitability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "লাভজনকতা, মুনাফাযোগ্যতা, উপার্জনক্ষমতা",
+                    "word_transliteration": "labhjonokota, munafahoggota, uparyonkhomota",
+                    "example_sentence_translation": "বিক্রয় বৃদ্ধির সাথে খরচ কমানো মুনাফাযোগ্যতা বাড়িয়েছে।",
+                    "example_sentence_transliteration": "Bikroy briddhi r shathe khoroch komano munafojoggota bariyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "diversification",
+            "phonetic": "daɪˌvɜː.sɪ.fɪˈkeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ডাইভার্সিফিকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌐",
+            "meaning": "The process of enlarging or varying the range of products or field of operation.",
+            "example_sentence": "The company achieved stability through market diversification.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি অ্যাচিভড স্টেবিলিটি থ্রু মার্কেট ডাইভার্সিফিকেশন।"
+            },
+            "position": 7,
+            "synonyms": "variety, expansion, multiplication",
+            "antonyms": "specialization, narrowing, uniformity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৈচিত্র্যকরণ, বহুমুখীকরণ, সম্প্রসারণ",
+                    "word_transliteration": "boichittrokoron, bohumukhikoron, shomprosharon",
+                    "example_sentence_translation": "বাজার বৈচিত্র্যকরণের মাধ্যমে কোম্পানিটি স্থিতিশীলতা অর্জন করেছে।",
+                    "example_sentence_transliteration": "Bajar boichittrokoroner madhyome companiti sthitishilota orjon koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "insolvency",
+            "phonetic": "ɪnˈsɒl.vən.si",
+            "word_native_transliteration": {
+                "bn": "ইনসলভেন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💸",
+            "meaning": "The state of being unable to pay debts owed; bankruptcy.",
+            "example_sentence": "The company declared insolvency after years of losses.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি ডিক্লেয়ারড ইনসলভেন্সি আফটার ইয়ারস অফ লসেস।"
+            },
+            "position": 8,
+            "synonyms": "bankruptcy, financial failure, liquidation",
+            "antonyms": "solvency, financial stability, creditworthiness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দেউলিয়াত্ব, দায়মুক্তিহীনতা, আর্থিক দুর্বলতা",
+                    "word_transliteration": "deuliyatto, daymuktihinta, arthik durbolta",
+                    "example_sentence_translation": "বছরের পর বছর ক্ষতির পর কোম্পানিটি দেউলিয়াত্ব ঘোষণা করেছে।",
+                    "example_sentence_transliteration": "Bochhorer por bochhro khotir por companiti deuliyatto ghoshona koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "arbitrage",
+            "phonetic": "ˈɑː.bɪ.trɑːʒ",
+            "word_native_transliteration": {
+                "bn": "আর্বিট্রাজ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "The practice of taking advantage of a price difference between two or more markets.",
+            "example_sentence": "He used arbitrage to profit from currency exchange differences.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি ইউজড আর্বিট্রাজ টু প্রফিট ফ্রম কারেন্সি এক্সচেঞ্জ ডিফারেন্সেস।"
+            },
+            "position": 9,
+            "synonyms": "market exploitation, trading profit, speculation",
+            "antonyms": "loss-making, price stagnation, non-trade",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মূল্যের পার্থক্য কাজে লাগিয়ে মুনাফা অর্জন, মূল্যবিচার",
+                    "word_transliteration": "mullere parthokko kaje lagiye munafa orjon, mullyobichar",
+                    "example_sentence_translation": "সে মুদ্রা বিনিময়ের পার্থক্য থেকে মুনাফা অর্জনে আর্বিট্রাজ ব্যবহার করেছে।",
+                    "example_sentence_transliteration": "She mudra binimoyee parthokko theke munafa orjone arbitraj byabohar koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "monetization",
+            "phonetic": "ˌmɒn.ɪ.taɪˈzeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "মনিটাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💰",
+            "meaning": "The process of converting or establishing something into legal tender or a source of revenue.",
+            "example_sentence": "The startup focused on monetization strategies to boost income.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্টার্টআপ ফোকাসড অন মনিটাইজেশন স্ট্র্যাটেজিস টু বুস্ট ইনকাম।"
+            },
+            "position": 10,
+            "synonyms": "commercialization, revenue generation, financialization",
+            "antonyms": "devaluation, underutilization, loss-making",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অর্থায়ন, অর্থ উপার্জনের প্রক্রিয়া, বাণিজ্যিকীকরণ",
+                    "word_transliteration": "orthayon, ortho uparzoner prokriya, banijjikikoron",
+                    "example_sentence_translation": "স্টার্টআপটি আয়ের বৃদ্ধি নিশ্চিত করতে মনিটাইজেশন কৌশলের উপর জোর দিয়েছে।",
+                    "example_sentence_transliteration": "Startupoti ayee briddhi nishchito korte monetization koushol er upor jor diyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "equity",
+            "phonetic": "ˈek.wɪ.ti",
+            "word_native_transliteration": {
+                "bn": "ইক্যুইটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏦",
+            "meaning": "The value of shares issued by a company; ownership interest in a business.",
+            "example_sentence": "He invested in equity to gain long-term financial benefits.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি ইনভেস্টেড ইন ইক্যুইটি টু গেইন লং-টার্ম ফাইন্যান্সিয়াল বেনিফিটস।"
+            },
+            "position": 11,
+            "synonyms": "fairness, ownership, shares",
+            "antonyms": "inequity, debt, partiality",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ন্যায্যতা, মালিকানা, অংশীদারিত্ব",
+                    "word_transliteration": "nyayyota, malikanah, ongshidaritto",
+                    "example_sentence_translation": "সে দীর্ঘমেয়াদী আর্থিক সুবিধার জন্য ইক্যুইটিতে বিনিয়োগ করেছে।",
+                    "example_sentence_transliteration": "She dirgho-meyadi arthik shubidhar jonno equity te biniyog koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "conglomerate",
+            "phonetic": "kənˈɡlɒm.ər.ət",
+            "word_native_transliteration": {
+                "bn": "কনগ্লোমারেট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏢",
+            "meaning": "A large corporation formed by the merging of separate and diverse firms.",
+            "example_sentence": "The conglomerate owns multiple companies in different industries.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কনগ্লোমারেট ওনস মাল্টিপল কোম্পানিস ইন ডিফারেন্ট ইন্ডাস্ট্রিস।"
+            },
+            "position": 12,
+            "synonyms": "corporation, business group, multinational",
+            "antonyms": "division, disintegration, fragmentation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বহুজাতিক প্রতিষ্ঠান, ব্যবসায়িক গোষ্ঠী, একাধিক সংস্থা নিয়ে গঠিত প্রতিষ্ঠান",
+                    "word_transliteration": "bohujatik protishthan, byabasayik goshhi, ekadik shongstha niye gothito protishthan",
+                    "example_sentence_translation": "এই কনগ্লোমারেট বিভিন্ন শিল্পখাতের একাধিক কোম্পানির মালিক।",
+                    "example_sentence_transliteration": "Ei conglomerate bibhinno shilpokhater ekadik companir malik.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "synergy",
+            "phonetic": "ˈsɪn.ə.dʒi",
+            "word_native_transliteration": {
+                "bn": "সিনার্জি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "The interaction or cooperation of two or more agents to produce a combined effect greater than the sum of their separate effects.",
+            "example_sentence": "The synergy between the two teams led to innovation.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সিনার্জি বিটুইন দ্য টু টিমস লেড টু ইনোভেশন।"
+            },
+            "position": 13,
+            "synonyms": "cooperation, teamwork, integration",
+            "antonyms": "discord, disunity, fragmentation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সমন্বিত শক্তি, সহযোগিতা, সম্মিলিত প্রভাব",
+                    "word_transliteration": "shombito shokti, shohojogita, shommilito prabhab",
+                    "example_sentence_translation": "দুই দলের মধ্যে সমন্বিত সহযোগিতা নতুন উদ্ভাবনের পথ তৈরি করেছে।",
+                    "example_sentence_transliteration": "Dui doler moddhe shombito shohojogita notun udbhaboner poth toiri koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "exponential",
+            "phonetic": "ˌek.spəˈnen.ʃəl",
+            "word_native_transliteration": {
+                "bn": "এক্সপোনেনশিয়াল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📊",
+            "meaning": "Increasing rapidly; growing at an accelerating rate.",
+            "example_sentence": "The startup experienced exponential growth in revenue.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্টার্টআপ এক্সপেরিয়েন্সড এক্সপোনেনশিয়াল গ্রোথ ইন রেভিনিউ।"
+            },
+            "position": 14,
+            "synonyms": "rapid, escalating, geometric",
+            "antonyms": "gradual, diminishing, linear",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বহুগুণ বৃদ্ধি, দ্রুত সম্প্রসারণ, ক্রমবর্ধমান",
+                    "word_transliteration": "bohugun briddhi, druto shomprosharon, kromoborddhoman",
+                    "example_sentence_translation": "স্টার্টআপটি রাজস্বে দ্রুত বৃদ্ধি দেখেছে।",
+                    "example_sentence_transliteration": "Startupti rajoshe druto briddhi dekheche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "outsourcing",
+            "phonetic": "ˈaʊt.sɔː.sɪŋ",
+            "word_native_transliteration": {
+                "bn": "আউটসোর্সিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌍",
+            "meaning": "The practice of having certain job functions done outside a company instead of having an in-house department or employee handle them.",
+            "example_sentence": "Many companies use outsourcing to reduce operational costs.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেনি কোম্পানিস ইউজ আউটসোর্সিং টু রিডিউস অপারেশনাল কস্টস।"
+            },
+            "position": 15,
+            "synonyms": "contracting, subcontracting, delegation",
+            "antonyms": "insourcing, centralization, in-house",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বহিরাগত নিয়োগ, তৃতীয় পক্ষের মাধ্যমে কাজ করানো",
+                    "word_transliteration": "bohiragoto niyog, tritiye pokher madhyome kaj korano",
+                    "example_sentence_translation": "অনেক কোম্পানি পরিচালন ব্যয় কমানোর জন্য আউটসোর্সিং ব্যবহার করে।",
+                    "example_sentence_transliteration": "Onek company porichalon byoy komanor jonno outsourcing byabohar kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pivot",
+            "phonetic": "ˈpɪv.ət",
+            "word_native_transliteration": {
+                "bn": "পিভট"
+            },
+            "parts_of_speech": "noun/verb",
+            "emoji": "🔄",
+            "meaning": "A significant change in business strategy or direction.",
+            "example_sentence": "The company decided to pivot its business strategy.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি ডিসাইডেড টু পিভট ইটস বিজনেস স্ট্র্যাটেজি।"
+            },
+            "position": 16,
+            "synonyms": "shift, adaptation, turning point",
+            "antonyms": "stagnation, rigidity, unchangeable",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কৌশলগত পরিবর্তন, কেন্দ্রবিন্দু, কার্যপ্রণালী পরিবর্তন করা",
+                    "word_transliteration": "kousholoto poriborton, kendrobindu, karyoporonali poriborton kora",
+                    "example_sentence_translation": "কোম্পানিটি তাদের ব্যবসায়িক কৌশলে পরিবর্তন আনার সিদ্ধান্ত নেয়।",
+                    "example_sentence_transliteration": "Companiti tader byabasayik koushole poriborton anar siddhanto ney.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "echelon",
+            "phonetic": "ˈeʃ.ə.lɒn",
+            "word_native_transliteration": {
+                "bn": "এশেলন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏗️",
+            "meaning": "A level or rank in an organization, a profession, or society.",
+            "example_sentence": "He climbed to the upper echelon of the corporate world.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি ক্লাইমড টু দ্য আপার এশেলন অফ দ্য কর্পোরেট ওয়ার্ল্ড।"
+            },
+            "position": 17,
+            "synonyms": "rank, level, hierarchy",
+            "antonyms": "disorganization, disorder, equality",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্তর, পদমর্যাদা, প্রশাসনিক স্তর",
+                    "word_transliteration": "stor, podomoryada, proshasonik stor",
+                    "example_sentence_translation": "সে কর্পোরেট জগতের উচ্চ স্তরে পৌঁছেছে।",
+                    "example_sentence_transliteration": "She corporate jogter uchcho store poucheche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "amortization",
+            "phonetic": "ˌæm.ɔː.tɪˈzeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "আমর্টাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📋",
+            "meaning": "The process of paying off debt with regular payments over time.",
+            "example_sentence": "The amortization schedule showed a 10-year repayment plan.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য আমর্টাইজেশন শিডিউল শোড এ টেন-ইয়ার রিপেমেন্ট প্ল্যান।"
+            },
+            "position": 18,
+            "synonyms": "loan repayment, debt reduction, depreciation",
+            "antonyms": "accumulation, indebtedness, default",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ঋণ পরিশোধ, কিস্তিতে পরিশোধ, ধীরে ধীরে শোধ করা",
+                    "word_transliteration": "rin porishosh, kistite porishosh, dhire dhire shodh kora",
+                    "example_sentence_translation": "আমর্টাইজেশন পরিকল্পনায় ১০ বছরের মধ্যে ঋণ পরিশোধ দেখানো হয়েছে।",
+                    "example_sentence_transliteration": "Amortization porikolponay 10 bochhorer moddhe rin porishosh dekhano hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "venture",
+            "phonetic": "ˈven.tʃər",
+            "word_native_transliteration": {
+                "bn": "ভেঞ্চার"
+            },
+            "parts_of_speech": "noun/verb",
+            "emoji": "🚀",
+            "meaning": "A risky or daring journey or undertaking; a business enterprise involving considerable risk.",
+            "example_sentence": "His new venture into e-commerce proved successful.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ নিউ ভেঞ্চার ইনটু ই-কমার্স প্রুভড সাকসেসফুল।"
+            },
+            "position": 19,
+            "synonyms": "business endeavor, enterprise, risk-taking",
+            "antonyms": "security, caution, stability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ঝুঁকিপূর্ণ বিনিয়োগ, উদ্যোগ, উদ্যোগ নেওয়া",
+                    "word_transliteration": "jhukipurno biniyog, uddayog, uddayog neowa",
+                    "example_sentence_translation": "তার নতুন ই-কমার্স উদ্যোগ সফল হয়েছে।",
+                    "example_sentence_transliteration": "Tar notun e-commerce uddayog shofol hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

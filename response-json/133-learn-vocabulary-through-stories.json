@@ -1,0 +1,526 @@
+{
+    "position": 133,
+    "title_translation": {
+        "en": "How Time-Blocking Improves Efficiency",
+        "bn": "Time-blocking কিভাবে Efficiency বৃদ্ধিতে সাহায্য করে"
+    },
+    "content_translation": {
+        "en": "**Time-blocking** is a technique that helps us improve our **efficiency**. When we properly manage the **allotment** of our tasks, **fragmentation** decreases and an **optimal** **workflow** is created.\n\nMany people **procrastinate** due to not using their time properly, which reduces productivity. Through **time-blocking**, we can **delineate** which task to do when, which helps to **expedite** work. This not only saves time but also makes us **circumspect**, so we can **scrutinize** each task. It **augments** our focus and prevents unnecessary **dissipation**.\n\nWhen we **juxtapose** time and **modulate** for each block, we become more **cognizant** and can focus on the **indispensable** aspects of work.\n\n**Time-blocking** teaches us to **recalibrate** and helps bring more **yield** in the long run.",
+        "bn": "**Time-blocking** হল এমন একটি কৌশল, যা আমাদের **efficiency** বাড়াতে সাহায্য করে। যখন আমরা আমাদের কাজের **allotment** ঠিকভাবে করি, তখন **fragmentation** কমে এবং **optimal** **workflow** তৈরি হয়।\n\nঅনেকেই তাদের সময় ঠিকমতো ব্যবহার না করার ফলে **procrastinate** করে, যার ফলে উৎপাদনশীলতা কমে যায়। **Time-blocking** এর মাধ্যমে আমরা **delineate** করতে পারি কোন কাজ কখন করা হবে, যা **expedite** করতে সাহায্য করে। এটি শুধু সময় বাঁচায় না, বরং আমাদের **circumspect** করে তোলে, যাতে আমরা প্রতিটি কাজের ওপর **scrutinize** করতে পারি। এটি আমাদের মনোযোগ **augment** করে এবং অপ্রয়োজনীয় **dissipate** হওয়া থেকে বাঁচায়।\n\nযখন আমরা সময়কে **juxtapose** করি এবং প্রতিটি ব্লকের জন্য **modulate** করি, তখন আমরা আরও **cognizant** হয়ে উঠি এবং কাজের **indispensable** দিকগুলোতে মনোযোগ দিতে পারি।\n\n**Time-blocking** আমাদের **recalibrate** করতে শেখায় এবং দীর্ঘমেয়াদে আরও বেশি **yield** আনতে সাহায্য করে।"
+    },
+    "list": [
+        {
+            "word": "time-blocking",
+            "phonetic": "/taɪm ˈblɒkɪŋ/",
+            "word_native_transliteration": {
+                "bn": "টাইম-ব্লকিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📅",
+            "meaning": "A scheduling technique where specific time periods are allocated for different tasks or activities to improve productivity and focus.",
+            "example_sentence": "Using time-blocking helped him finish tasks efficiently.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইউজিং টাইম-ব্লকিং হেল্পড হিম ফিনিশ ট্যাস্কস ইফিশিয়েন্টলি।"
+            },
+            "position": 1,
+            "synonyms": "scheduling, time management, planning, organizing",
+            "antonyms": "disorganization, chaos, randomness, spontaneity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নির্দিষ্ট সময় নির্ধারণ করে কাজ করা, সময় ব্যবস্থাপনার কৌশল",
+                    "word_transliteration": "nirdhishto shomoy nirddharon kore kaj kora, shomoy byobosthapnar koushol",
+                    "example_sentence_translation": "টাইম-ব্লকিং ব্যবহার করে তিনি কার্যকরভাবে কাজ শেষ করলেন।",
+                    "example_sentence_transliteration": "Time-blocking bybohar kore tini karjokorbhabe kaj shesh korlen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "efficiency",
+            "phonetic": "/ɪˈfɪʃ.ən.si/",
+            "word_native_transliteration": {
+                "bn": "এফিশিয়েন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "The ability to accomplish a job with a minimum expenditure of time and effort; competency in performance.",
+            "example_sentence": "The new system improved the company's efficiency.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিউ সিস্টেম ইমপ্রুভড দ্য কোম্পানিজ এফিশিয়েন্সি।"
+            },
+            "position": 2,
+            "synonyms": "productivity, effectiveness, competency, proficiency",
+            "antonyms": "inefficiency, wastefulness, incompetence, sluggishness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষতা, কার্যক্ষমতা, উৎপাদনশীলতা",
+                    "word_transliteration": "dokkhota, karjokkhomota, utpadonsheelota",
+                    "example_sentence_translation": "নতুন ব্যবস্থা কোম্পানির এফিশিয়েন্সি বাড়িয়েছে।",
+                    "example_sentence_transliteration": "Notun byobostha companir efficiency bariyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "allotment",
+            "phonetic": "/əˈlɒt.mənt/",
+            "word_native_transliteration": {
+                "bn": "অ্যালটমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "The distribution or allocation of something, especially resources or portions.",
+            "example_sentence": "Each department received an allotment of resources.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইচ ডিপার্টমেন্ট রিসিভড অ্যান অ্যালটমেন্ট অফ রিসোর্সেস।"
+            },
+            "position": 3,
+            "synonyms": "allocation, distribution, assignment, portion",
+            "antonyms": "withholding, misallocation, hoarding, retention",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বরাদ্দ, নির্দিষ্ট পরিমাণ",
+                    "word_transliteration": "boraddo, nirdhishto poriman",
+                    "example_sentence_translation": "প্রতিটি বিভাগ নির্দিষ্ট অ্যালটমেন্ট পেয়েছে।",
+                    "example_sentence_transliteration": "Protiti bibhag nirdhishto allotment peyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fragmentation",
+            "phonetic": "/ˌfræɡ.mən ˈteɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ফ্র্যাগমেন্টেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧩",
+            "meaning": "The process or state of breaking or being broken into fragments; division into parts.",
+            "example_sentence": "The fragmentation of data slowed down the process.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফ্র্যাগমেন্টেশন অফ ডেটা স্লোড ডাউন দ্য প্রসেস।"
+            },
+            "position": 4,
+            "synonyms": "division, disintegration, separation, splitting",
+            "antonyms": "unity, cohesion, integration, wholeness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিভক্তি, খণ্ডীকরণ, বিভাজন",
+                    "word_transliteration": "bibhokti, khandikaron, bibhajan",
+                    "example_sentence_translation": "ডেটার ফ্র্যাগমেন্টেশন কাজের গতি কমিয়ে দেয়।",
+                    "example_sentence_transliteration": "Dataar fragmentation kajer goti komiye dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "optimal",
+            "phonetic": "/ˈɒp.tɪ.məl/",
+            "word_native_transliteration": {
+                "bn": "অপটিমাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎯",
+            "meaning": "Best or most favorable; optimum; most effective under particular conditions.",
+            "example_sentence": "The design ensures optimal energy efficiency.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডিজাইন এনশিউরস অপটিমাল এনার্জি এফিশিয়েন্সি।"
+            },
+            "position": 5,
+            "synonyms": "ideal, best, perfect, maximum",
+            "antonyms": "suboptimal, inefficient, poor, inadequate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সর্বোত্তম, আদর্শ, সর্বোচ্চ কার্যকর",
+                    "word_transliteration": "shorbottom, adorsho, shorboccho karjokor",
+                    "example_sentence_translation": "ডিজাইনটি অপটিমাল শক্তি দক্ষতা নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Designti optimal shokti dokkhota nishchito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "workflow",
+            "phonetic": "/ˈwɜːk.fləʊ/",
+            "word_native_transliteration": {
+                "bn": "ওয়ার্কফ্লো"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The sequence of processes through which a piece of work passes from initiation to completion.",
+            "example_sentence": "A well-structured workflow enhances productivity.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ ওয়েল-স্ট্রাকচার্ড ওয়ার্কফ্লো এনহান্সেস প্রোডাক্টিভিটি।"
+            },
+            "position": 6,
+            "synonyms": "process, operations, procedure, system",
+            "antonyms": "stagnation, disorganization, chaos, disorder",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কাজের প্রবাহ, নির্দিষ্ট প্রক্রিয়া",
+                    "word_transliteration": "kajer probah, nirdhishto prokriya",
+                    "example_sentence_translation": "সুসংগঠিত ওয়ার্কফ্লো উৎপাদনশীলতা বাড়ায়।",
+                    "example_sentence_transliteration": "Sushongothito workflow utpadonsheelota baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "procrastinate",
+            "phonetic": "/prəˈkræs.tɪ.neɪt/",
+            "word_native_transliteration": {
+                "bn": "প্রোক্র্যাস্টিনেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⏰",
+            "meaning": "To delay or postpone action; to put off doing something, especially out of habitual carelessness or laziness.",
+            "example_sentence": "He tends to procrastinate when facing difficult tasks.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি টেন্ডস টু প্রোক্র্যাস্টিনেট হোয়েন ফেসিং ডিফিকাল্ট ট্যাস্কস।"
+            },
+            "position": 7,
+            "synonyms": "delay, postpone, defer, stall",
+            "antonyms": "expedite, complete, hasten, rush",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গড়িমসি করা, দেরি করা, পরে ফেলা",
+                    "word_transliteration": "gorimoshi kora, deri kora, pore fela",
+                    "example_sentence_translation": "কঠিন কাজের মুখোমুখি হলে সে প্রোক্র্যাস্টিনেট করে।",
+                    "example_sentence_transliteration": "Kothin kajer mukhomukhi hole she procrastinate kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "delineate",
+            "phonetic": "/dɪˈlɪn.i.eɪt/",
+            "word_native_transliteration": {
+                "bn": "ডেলিনিয়েট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "✏️",
+            "meaning": "To describe or portray something precisely; to indicate the exact position of a border or boundary.",
+            "example_sentence": "The report delineates the responsibilities of each role.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রিপোর্ট ডেলিনিয়েটস দ্য রেসপনসিবিলিটিজ অফ ইচ রোল।"
+            },
+            "position": 8,
+            "synonyms": "define, outline, describe, specify",
+            "antonyms": "confuse, obscure, blur, muddle",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্পষ্টভাবে বর্ণনা করা, নির্ধারণ করা",
+                    "word_transliteration": "sposhto bhabe bornona kora, nirdharon kora",
+                    "example_sentence_translation": "প্রতিবেদনটি প্রতিটি ভূমিকার দায়িত্ব ডেলিনিয়েট করে।",
+                    "example_sentence_transliteration": "Protibedonti protiti bhumikar dayitto delineate kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "expedite",
+            "phonetic": "/ˈek.spə.daɪt/",
+            "word_native_transliteration": {
+                "bn": "এক্সপেডাইট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🚀",
+            "meaning": "To make an action or process happen sooner or be accomplished more quickly.",
+            "example_sentence": "The manager decided to expedite the approval process.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ম্যানেজার ডিসাইডেড টু এক্সপেডাইট দ্য অ্যাপ্রুভাল প্রসেস।"
+            },
+            "position": 9,
+            "synonyms": "accelerate, hasten, speed up, quicken",
+            "antonyms": "delay, hinder, slow down, obstruct",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ত্বরান্বিত করা, দ্রুত করা",
+                    "word_transliteration": "tworanbit kora, druto kora",
+                    "example_sentence_translation": "ব্যবস্থাপক অনুমোদন প্রক্রিয়াটি এক্সপেডাইট করার সিদ্ধান্ত নিলেন।",
+                    "example_sentence_transliteration": "Byobosthapok onumodon prokhriyati expedite korar siddhanto nilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "circumspect",
+            "phonetic": "/ˈsɜː.kəm.spekt/",
+            "word_native_transliteration": {
+                "bn": "সারকামস্পেক্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🤔",
+            "meaning": "Wary and unwilling to take risks; careful to consider all circumstances and possible consequences.",
+            "example_sentence": "Investors must be circumspect before making decisions.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনভেস্টরস মাস্ট বি সারকামস্পেক্ট বিফোর মেকিং ডিসিশনস।"
+            },
+            "position": 10,
+            "synonyms": "cautious, prudent, careful, wary",
+            "antonyms": "reckless, careless, hasty, imprudent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সতর্ক, বিচক্ষণ, বিবেচনা সম্পন্ন",
+                    "word_transliteration": "shotorko, bichokkhon, bibechona shomponno",
+                    "example_sentence_translation": "বিনিয়োগকারীদের সিদ্ধান্ত নেওয়ার আগে সারকামস্পেক্ট হতে হবে।",
+                    "example_sentence_transliteration": "Biniyogkarider siddhanto neowar age sarcumspect hote hobe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "scrutinize",
+            "phonetic": "/ˈskruː.tɪ.naɪz/",
+            "word_native_transliteration": {
+                "bn": "স্ক্রুটিনাইজ"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔍",
+            "meaning": "To examine or inspect closely and thoroughly; to look at critically or searchingly.",
+            "example_sentence": "The scientist scrutinized the research data for errors.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সাইয়েন্টিস্ট স্ক্রুটিনাইজড দ্য রিসার্চ ডেটা ফর এরর্স।"
+            },
+            "position": 11,
+            "synonyms": "examine, inspect, analyze, study",
+            "antonyms": "overlook, ignore, neglect, skim",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গভীরভাবে পর্যালোচনা করা, খুঁটিয়ে দেখা, তদন্ত করা",
+                    "word_transliteration": "ghobirabhabe porjalochona kora, khutiye dekha, todonto kora",
+                    "example_sentence_translation": "বিজ্ঞানী গবেষণার তথ্য স্ক্রুটিনাইজ করে ভুল খুঁজলেন।",
+                    "example_sentence_transliteration": "Biggani gobeshonaar tothyo scrutinize kore bhul khujlen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "augment",
+            "phonetic": "/ɔːɡˈment/",
+            "word_native_transliteration": {
+                "bn": "অগমেন্ট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📈",
+            "meaning": "To make something greater by adding to it; to increase or enhance in size, amount, or degree.",
+            "example_sentence": "The new technology augments the efficiency of production.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিউ টেকনোলজি অগমেন্টস দ্য এফিশিয়েন্সি অফ প্রোডাকশন।"
+            },
+            "position": 12,
+            "synonyms": "enhance, amplify, increase, boost",
+            "antonyms": "reduce, diminish, decrease, lessen",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৃদ্ধি করা, সম্প্রসারণ করা, উন্নতি সাধন করা",
+                    "word_transliteration": "briddhi kora, shomprosharon kora, unnoti shadhon kora",
+                    "example_sentence_translation": "নতুন প্রযুক্তি উৎপাদনের কার্যকারিতা অগমেন্ট করে।",
+                    "example_sentence_transliteration": "Notun projukti utpadoner karjokarita augment kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dissipate",
+            "phonetic": "/ˈdɪs.ɪ.peɪt/",
+            "word_native_transliteration": {
+                "bn": "ডিসিপেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "💨",
+            "meaning": "To disappear or cause to disappear gradually; to scatter or disperse; to waste or squander.",
+            "example_sentence": "The morning fog dissipated as the sun rose.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য মর্নিং ফগ ডিসিপেটেড অ্যাজ দ্য সান রোজ।"
+            },
+            "position": 13,
+            "synonyms": "disperse, vanish, scatter, evaporate",
+            "antonyms": "accumulate, preserve, gather, collect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিলীন হওয়া, অপচয় করা, ছড়িয়ে পড়া",
+                    "word_transliteration": "bilin howa, opochoy kora, choriye pora",
+                    "example_sentence_translation": "সূর্য ওঠার সাথে সাথে সকালের কুয়াশা ডিসিপেট হলো।",
+                    "example_sentence_transliteration": "Surjo othar shathe shathe shokaler kuyasha dissipate holo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "juxtapose",
+            "phonetic": "/ˈdʒʌk.stə.pəʊz/",
+            "word_native_transliteration": {
+                "bn": "জাক্সটাপোজ"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⚖️",
+            "meaning": "To place or deal with things close together for contrasting effect; to compare by placing side by side.",
+            "example_sentence": "The artist juxtaposed modern and classical styles in his painting.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য আর্টিস্ট জাক্সটাপোজড মডার্ন অ্যান্ড ক্লাসিক্যাল স্টাইলস ইন হিজ পেইন্টিং।"
+            },
+            "position": 14,
+            "synonyms": "contrast, compare, place side by side, oppose",
+            "antonyms": "separate, isolate, divide, disconnect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পাশাপাশি রাখা, তুলনা করা, বৈপরীত্য বোঝানো",
+                    "word_transliteration": "pashapashi rakha, tulona kora, boiporito bujhano",
+                    "example_sentence_translation": "শিল্পী তার চিত্রকর্মে আধুনিক ও ক্লাসিক্যাল শৈলী জাক্সটাপোজ করেছেন।",
+                    "example_sentence_transliteration": "Shilpi tar chitrkormo adhunik o classical shoili juxtapose korechen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "modulate",
+            "phonetic": "/ˈmɒd.jʊ.leɪt/",
+            "word_native_transliteration": {
+                "bn": "মডুলেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🎛️",
+            "meaning": "To change the strength, accent, or pitch of something; to vary or regulate; to adjust or control.",
+            "example_sentence": "He modulated his voice to sound more authoritative.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি মডুলেটেড হিজ ভয়েস টু সাউন্ড মোর অথরিটেটিভ।"
+            },
+            "position": 15,
+            "synonyms": "adjust, regulate, control, vary",
+            "antonyms": "intensify, amplify, maintain, stabilize",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিয়ন্ত্রণ করা, পরিবর্তন করা, সমন্বয় করা",
+                    "word_transliteration": "niyontron kora, poriborton kora, shomonnoy kora",
+                    "example_sentence_translation": "তিনি তার কণ্ঠ মডুলেট করে আরও কর্তৃত্বপূর্ণ করলেন।",
+                    "example_sentence_transliteration": "Tini tar kontho modulate kore aro kortrittopurno korlen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cognizant",
+            "phonetic": "/ˈkɒɡ.nɪ.zənt/",
+            "word_native_transliteration": {
+                "bn": "কগনিজ্যান্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧠",
+            "meaning": "Having knowledge or being aware of; conscious; informed or knowledgeable about something.",
+            "example_sentence": "She was cognizant of the risks involved in the project.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি ওয়াজ কগনিজ্যান্ট অফ দ্য রিস্কস ইনভলভড ইন দ্য প্রজেক্ট।"
+            },
+            "position": 16,
+            "synonyms": "aware, perceptive, conscious, informed",
+            "antonyms": "oblivious, unaware, ignorant, unconscious",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সচেতন, অবগত, উপলব্ধি করা",
+                    "word_transliteration": "shocheton, obogoto, upolabdhi kora",
+                    "example_sentence_translation": "তিনি প্রকল্পের ঝুঁকির ব্যাপারে কগনিজ্যান্ট ছিলেন।",
+                    "example_sentence_transliteration": "Tini prokolper jhukirr byapare cognizant chilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "indispensable",
+            "phonetic": "/ˌɪn.dɪˈspen.sə.bəl/",
+            "word_native_transliteration": {
+                "bn": "ইনডিসপেন্সেবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⭐",
+            "meaning": "Absolutely necessary; essential; something that cannot be done without.",
+            "example_sentence": "Water is indispensable for survival.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওয়াটার ইজ ইনডিসপেন্সেবল ফর সারভাইভাল।"
+            },
+            "position": 17,
+            "synonyms": "essential, crucial, vital, necessary",
+            "antonyms": "dispensable, optional, unnecessary, expendable",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অপরিহার্য, অনিবার্য, অত্যাবশ্যক",
+                    "word_transliteration": "oporhario, onibario, ottaboshok",
+                    "example_sentence_translation": "বেঁচে থাকার জন্য পানি ইনডিসপেন্সেবল।",
+                    "example_sentence_transliteration": "Beche thakar jonno pani indispensable.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "recalibrate",
+            "phonetic": "/ˌriːˈkæl.ɪ.breɪt/",
+            "word_native_transliteration": {
+                "bn": "রিক্যালিব্রেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔧",
+            "meaning": "To calibrate again or differently; to adjust or correct something based on new information or changed circumstances.",
+            "example_sentence": "The company had to recalibrate its strategies to adapt to the market.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি হ্যাড টু রিক্যালিব্রেট ইটস স্ট্র্যাটেজিজ টু অ্যাডাপ্ট টু দ্য মার্কেট।"
+            },
+            "position": 18,
+            "synonyms": "readjust, reconfigure, reset, realign",
+            "antonyms": "misalign, disrupt, destabilize, imbalance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুনরায় সামঞ্জস্য করা, নতুনভাবে নির্ধারণ করা",
+                    "word_transliteration": "punoray shamonsho kora, notunbhabe nirdharon kora",
+                    "example_sentence_translation": "বাজারের সাথে মানিয়ে নিতে কোম্পানিকে তার কৌশল রিক্যালিব্রেট করতে হয়েছে।",
+                    "example_sentence_transliteration": "Bajarer shathe maniye nite companike tar koushol recalibrate korte hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "yield",
+            "phonetic": "/jiːld/",
+            "word_native_transliteration": {
+                "bn": "ইয়িল্ড"
+            },
+            "parts_of_speech": "verb/noun",
+            "emoji": "🌾",
+            "meaning": "To produce or provide something, especially as a result or profit; to give way to; to surrender or submit.",
+            "example_sentence": "The farm's crop yield increased this year.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফার্মস ক্রপ ইয়িল্ড ইনক্রিসড দিস ইয়ার।"
+            },
+            "position": 19,
+            "synonyms": "produce, generate, provide, give",
+            "antonyms": "resist, defy, withhold, retain",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ফলন, লাভ, উৎপাদন করা, আত্মসমর্পণ করা",
+                    "word_transliteration": "folon, labh, utpadon kora, atshomorpon kora",
+                    "example_sentence_translation": "এই বছর খামারের ফসলের ইয়িল্ড বৃদ্ধি পেয়েছে।",
+                    "example_sentence_transliteration": "Ei bochor khamarer foshler yield briddhi peyeche.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

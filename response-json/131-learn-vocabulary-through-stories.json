@@ -1,0 +1,526 @@
+{
+    "position": 131,
+    "title_translation": {
+        "en": "How Superfoods Boost Your Health",
+        "bn": "Superfoods কীভাবে আপনার স্বাস্থ্য বৃদ্ধি করে"
+    },
+    "content_translation": {
+        "en": "**Superfoods** are essential for health because they are rich in high levels of **antioxidants** and **phytonutrients**, which protect the body from **oxidative** stress. Their high **bioavailability** allows the body to easily absorb essential **micronutrients**.\n\nScientists have shown that some **superfoods** improve our **cognitive** function and provide **neuroprotective** benefits, which are effective for memory and mental health. Being rich in **probiotics**, they improve digestion and increase **metabolic** efficiency. Regular consumption of **superfoods** strengthens **immunity** and reduces **inflammation**, which protects the **endocrine** and other body systems in the long term. Through **fortification**, we can make our diet more **holistic** and healthy.\n\nThe **synergistic** effects of these foods increase the body's **resilience**, bringing energy and **revitalization** to our daily lives. This is not only for physical health, but also increases **satiety** and helps with weight control.",
+        "bn": "**Superfoods** স্বাস্থ্যের জন্য অপরিহার্য কারণ এগুলো উচ্চমাত্রার **antioxidant** এবং **phytonutrient** সমৃদ্ধ, যা দেহকে **oxidative** স্ট্রেস থেকে রক্ষা করে। এগুলোর **bioavailability** বেশি হওয়ায় শরীর সহজেই প্রয়োজনীয় **micronutrient** গ্রহণ করতে পারে।\n\nবিজ্ঞানীরা দেখিয়েছেন যে কিছু **superfoods** আমাদের **cognitive** কার্যক্ষমতা উন্নত করে এবং **neuroprotective** সুবিধা দেয়, যা স্মৃতিশক্তি ও মানসিক স্বাস্থ্যের জন্য কার্যকর। এগুলো **probiotic** সমৃদ্ধ হওয়ায় হজম প্রক্রিয়া উন্নত করে এবং **metabolic** কার্যকারিতা বাড়ায়। নিয়মিত **superfoods** গ্রহণ করলে **immunity** শক্তিশালী হয় এবং **inflammation** হ্রাস পায়, যা দীর্ঘমেয়াদে **endocrine** এবং অন্যান্য দেহব্যবস্থাকে সুরক্ষিত রাখে। **Fortification**-এর মাধ্যমে আমাদের খাদ্যাভ্যাসকে আরও **holistic** এবং স্বাস্থ্যকর করা সম্ভব।\n\nএইসব খাবারের **synergistic** প্রভাব শরীরের **resilience** বাড়ায়, যা আমাদের দৈনন্দিন জীবনে শক্তি ও **revitalization** এনে দেয়। এটি শুধু শারীরিক স্বাস্থ্যের জন্য নয়, বরং **satiety** বাড়িয়ে ওজন নিয়ন্ত্রণেও সাহায্য করে।"
+    },
+    "list": [
+        {
+            "word": "superfoods",
+            "phonetic": "ˈsuː.pər.fuːdz",
+            "word_native_transliteration": {
+                "bn": "সুপারফুডস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🥗",
+            "meaning": "Nutrient-dense foods that are particularly beneficial for health and well-being.",
+            "example_sentence": "Blueberries and spinach are superfoods rich in vitamins.",
+            "example_sentence_native_transliteration": {
+                "bn": "ব্লুবেরি এন্ড স্পিনাচ আর সুপারফুডস রিচ ইন ভিটামিনস।"
+            },
+            "position": 1,
+            "synonyms": "Nutrient-dense foods, Functional foods, Health-boosting foods",
+            "antonyms": "Junk food, Processed food, Unhealthy diet",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুষ্টিসমৃদ্ধ খাদ্য",
+                    "word_transliteration": "pushti-shomriddho khadyo",
+                    "example_sentence_translation": "ব্লুবেরি এবং পালং শাক ভিটামিনসমৃদ্ধ সুপারফুডস।",
+                    "example_sentence_transliteration": "Blueberry ebong palang shak vitamin-shomriddho superfoods.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "antioxidant",
+            "phonetic": "ˌæn.tiˈɒk.sɪ.dənt",
+            "word_native_transliteration": {
+                "bn": "অ্যান্টিঅক্সিডেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛡️",
+            "meaning": "A substance that may prevent or delay some types of cell damage by neutralizing free radicals.",
+            "example_sentence": "Green tea contains powerful antioxidants that slow aging.",
+            "example_sentence_native_transliteration": {
+                "bn": "গ্রিন টি কনটেইনস পাওয়ারফুল অ্যান্টিঅক্সিডেন্টস দ্যাট স্লো এজিং।"
+            },
+            "position": 2,
+            "synonyms": "Free-radical fighter, Detoxifier, Preservative",
+            "antonyms": "Oxidant, Pro-oxidant, Reactive agent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কোষ রক্ষাকারী উপাদান",
+                    "word_transliteration": "kosh rokkhakari upadan",
+                    "example_sentence_translation": "গ্রিন টি শক্তিশালী অ্যান্টিঅক্সিডেন্টস ধারণ করে যা বার্ধক্য কমায়।",
+                    "example_sentence_transliteration": "Green tea shokti-shali antioxidants dharon kore ja bardhokkyo komay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "phytonutrient",
+            "phonetic": "ˈfaɪ.təʊˌnjuː.tri.ənt",
+            "word_native_transliteration": {
+                "bn": "ফাইটোনিউট্রিয়েন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌱",
+            "meaning": "Chemical compounds produced by plants that are beneficial to human health but not essential nutrients.",
+            "example_sentence": "Broccoli is rich in phytonutrients that enhance immunity.",
+            "example_sentence_native_transliteration": {
+                "bn": "ব্রোকোলি ইজ রিচ ইন ফাইটোনিউট্রিয়েন্টস দ্যাট এনহান্স ইমিউনিটি।"
+            },
+            "position": 3,
+            "synonyms": "Plant compound, Phytochemical, Natural bioactive",
+            "antonyms": "Synthetic nutrient, Artificial additive, Chemical preservative",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্ভিদের পুষ্টিগুণ",
+                    "word_transliteration": "udbhider pushti-gun",
+                    "example_sentence_translation": "ব্রোকোলি ফাইটোনিউট্রিয়েন্টস সমৃদ্ধ যা রোগপ্রতিরোধ ক্ষমতা বাড়ায়।",
+                    "example_sentence_transliteration": "Broccoli phytonutrients shomriddho ja rogprotirodh khomota baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "oxidative",
+            "phonetic": "ˈɒk.sɪ.də.tɪv",
+            "word_native_transliteration": {
+                "bn": "অক্সিডেটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚡",
+            "meaning": "Related to or caused by oxidation, especially cellular damage from free radicals.",
+            "example_sentence": "Excess stress can lead to oxidative damage in cells.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সেস স্ট্রেস ক্যান লিড টু অক্সিডেটিভ ড্যামেজ ইন সেলস।"
+            },
+            "position": 4,
+            "synonyms": "Decomposing, Reactive, Oxidizing",
+            "antonyms": "Antioxidative, Protective, Neutralizing",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অক্সিজেনের সাথে বিক্রিয়া সংক্রান্ত",
+                    "word_transliteration": "oxygen-er sathe bikriya shongkranto",
+                    "example_sentence_translation": "অতিরিক্ত মানসিক চাপ কোষে অক্সিডেটিভ ক্ষতি সৃষ্টি করতে পারে।",
+                    "example_sentence_transliteration": "Otirikto manoshik chap koshe oxidative khoti srishti korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "bioavailability",
+            "phonetic": "ˌbaɪ.oʊ.əˈveɪ.lə.bɪl.ə.ti",
+            "word_native_transliteration": {
+                "bn": "বায়োঅ্যাভেইলাবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The degree to which a substance can be absorbed and used by the body.",
+            "example_sentence": "Turmeric's bioavailability increases when consumed with black pepper.",
+            "example_sentence_native_transliteration": {
+                "bn": "টারমেরিকস বায়োঅ্যাভেইলাবিলিটি ইনক্রিসেস হোয়েন কনজিউমড উইথ ব্ল্যাক পেপার।"
+            },
+            "position": 5,
+            "synonyms": "Absorption, Assimilation, Utilization",
+            "antonyms": "Malabsorption, Poor digestion, Low retention",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শরীরের শোষণ ক্ষমতা",
+                    "word_transliteration": "shorirer shoshon khomota",
+                    "example_sentence_translation": "হলুদের বায়োঅ্যাভেইলাবিলিটি কালো মরিচের সাথে খেলে বাড়ে।",
+                    "example_sentence_transliteration": "Holud-er bioavailability kalo moricher sathe khele bare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "micronutrient",
+            "phonetic": "ˈmaɪ.krəʊˌnjuː.tri.ənt",
+            "word_native_transliteration": {
+                "bn": "মাইক্রোনিউট্রিয়েন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💊",
+            "meaning": "Essential nutrients required by the body in small amounts, including vitamins and minerals.",
+            "example_sentence": "Iron and zinc are essential micronutrients for growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "আয়রন এন্ড জিঙ্ক আর এসেনশিয়াল মাইক্রোনিউট্রিয়েন্টস ফর গ্রোথ।"
+            },
+            "position": 6,
+            "synonyms": "Trace element, Essential mineral, Vitamin",
+            "antonyms": "Macronutrient, Excessive nutrient, Overdose",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতি ক্ষুদ্র পুষ্টি উপাদান",
+                    "word_transliteration": "oti khudro pushti upadon",
+                    "example_sentence_translation": "লোহা ও দস্তা বৃদ্ধির জন্য গুরুত্বপূর্ণ মাইক্রোনিউট্রিয়েন্টস।",
+                    "example_sentence_transliteration": "Loha o doshta briddhir jonno gurutwopurno micronutrients.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cognitive",
+            "phonetic": "ˈkɒɡ.nɪ.tɪv",
+            "word_native_transliteration": {
+                "bn": "কগনিটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧠",
+            "meaning": "Related to mental processes such as thinking, understanding, learning, and remembering.",
+            "example_sentence": "Regular exercise enhances cognitive function.",
+            "example_sentence_native_transliteration": {
+                "bn": "রেগুলার এক্সারসাইজ এনহান্সেস কগনিটিভ ফাংশন।"
+            },
+            "position": 7,
+            "synonyms": "Intellectual, Mental, Rational",
+            "antonyms": "Unintelligent, Thoughtless, Inattentive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মস্তিষ্কের কার্যকারিতা সম্পর্কিত",
+                    "word_transliteration": "moshtishker karyokarita shomporkit",
+                    "example_sentence_translation": "নিয়মিত ব্যায়াম কগনিটিভ কার্যকারিতা উন্নত করে।",
+                    "example_sentence_transliteration": "Niyomit byayam cognitive karyokarita unnoto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "neuroprotective",
+            "phonetic": "ˌnjʊə.rəʊ.prəˈtek.tɪv",
+            "word_native_transliteration": {
+                "bn": "নিউরোপ্রোটেকটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🛡️🧠",
+            "meaning": "Having the ability to protect nerve cells from damage, degeneration, or impaired function.",
+            "example_sentence": "Omega-3 fatty acids have neuroprotective benefits.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওমেগা-৩ ফ্যাটি এসিডস হ্যাভ নিউরোপ্রোটেকটিভ বেনিফিটস।"
+            },
+            "position": 8,
+            "synonyms": "Brain-protective, Neuro-supportive, Cognitive enhancer",
+            "antonyms": "Neurotoxic, Harmful, Damaging",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মস্তিষ্কের কোষ রক্ষাকারী",
+                    "word_transliteration": "moshtishker kosh rokkha-kari",
+                    "example_sentence_translation": "ওমেগা-৩ ফ্যাটি এসিডের নিউরোপ্রোটেকটিভ উপকারিতা রয়েছে।",
+                    "example_sentence_transliteration": "Omega-3 fatty acid-er neuroprotective upokarita royeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "probiotic",
+            "phonetic": "ˌprəʊ.baɪˈɒt.ɪk",
+            "word_native_transliteration": {
+                "bn": "প্রোবায়োটিক"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🦠",
+            "meaning": "Live microorganisms that provide health benefits when consumed in adequate amounts.",
+            "example_sentence": "Yogurt is a natural source of probiotics that aid digestion.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইয়োগার্ট ইজ এ ন্যাচারাল সোর্স অফ প্রোবায়োটিকস দ্যাট এইড ডাইজেশন।"
+            },
+            "position": 9,
+            "synonyms": "Gut-friendly bacteria, Digestive enhancer, Fermented culture",
+            "antonyms": "Antibiotic, Pathogen, Harmful microbe",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বাস্থ্যকর ব্যাকটেরিয়া",
+                    "word_transliteration": "swasthyokor bacteria",
+                    "example_sentence_translation": "দই একটি প্রাকৃতিক প্রোবায়োটিক যা হজমে সহায়তা করে।",
+                    "example_sentence_transliteration": "Doi ekti prakritik probiotic ja hojome shohayota kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "metabolic",
+            "phonetic": "ˌmet.əˈbɒl.ɪk",
+            "word_native_transliteration": {
+                "bn": "মেটাবলিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔥",
+            "meaning": "Related to the chemical processes within living organisms to maintain life.",
+            "example_sentence": "A fast metabolic rate helps in weight management.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ ফাস্ট মেটাবলিক রেট হেল্পস ইন ওয়েট ম্যানেজমেন্ট।"
+            },
+            "position": 10,
+            "synonyms": "Biochemical, Physiological, Digestive",
+            "antonyms": "Non-metabolic, Dysfunctional, Inefficient",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিপাকীয়",
+                    "word_transliteration": "bipakiyo",
+                    "example_sentence_translation": "দ্রুত মেটাবলিক হার ওজন নিয়ন্ত্রণে সাহায্য করে।",
+                    "example_sentence_transliteration": "Druto metabolic har ojon niyontrone shahajyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "immunity",
+            "phonetic": "ɪˈmjuː.nɪ.ti",
+            "word_native_transliteration": {
+                "bn": "ইমিউনিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🦾",
+            "meaning": "The ability of an organism to resist a particular infection or toxin by the action of specific antibodies.",
+            "example_sentence": "A strong immunity protects against infections.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ স্ট্রং ইমিউনিটি প্রোটেকটস এগেইনস্ট ইনফেকশনস।"
+            },
+            "position": 11,
+            "synonyms": "Resistance, Protection, Safeguard",
+            "antonyms": "Susceptibility, Vulnerability, Weakness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রোগ প্রতিরোধ ক্ষমতা",
+                    "word_transliteration": "rog protiroddho khomota",
+                    "example_sentence_translation": "শক্তিশালী ইমিউনিটি সংক্রমণ প্রতিরোধ করে।",
+                    "example_sentence_transliteration": "Shokti-shali immunity shongkromon protiroddho kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "inflammation",
+            "phonetic": "ˌɪn.fləˈmeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ইনফ্লামেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔴",
+            "meaning": "A localized physical condition in which part of the body becomes reddened, swollen, hot, and often painful.",
+            "example_sentence": "Chronic inflammation can lead to severe diseases.",
+            "example_sentence_native_transliteration": {
+                "bn": "ক্রনিক ইনফ্লামেশন ক্যান লিড টু সিভিয়ার ডিজিজেস।"
+            },
+            "position": 12,
+            "synonyms": "Swelling, Irritation, Agitation",
+            "antonyms": "Healing, Soothing, Relief",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রদাহ",
+                    "word_transliteration": "prodaho",
+                    "example_sentence_translation": "দীর্ঘমেয়াদী ইনফ্লামেশন গুরুতর রোগ সৃষ্টি করতে পারে।",
+                    "example_sentence_transliteration": "Dirgho-meyadi inflammation gururor rog srishti korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "endocrine",
+            "phonetic": "ˈen.də.krɪn",
+            "word_native_transliteration": {
+                "bn": "এন্ডোক্রিন"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🏭",
+            "meaning": "Relating to glands that secrete hormones directly into the blood.",
+            "example_sentence": "The endocrine system regulates metabolism and growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এন্ডোক্রিন সিস্টেম রেগুলেটস মেটাবলিজম এন্ড গ্রোথ।"
+            },
+            "position": 13,
+            "synonyms": "Hormonal, Glandular, Regulatory",
+            "antonyms": "Non-hormonal, Dysfunctional, Ineffective",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "হরমোন উৎপাদনকারী",
+                    "word_transliteration": "hormone utpadon-kari",
+                    "example_sentence_translation": "এন্ডোক্রিন সিস্টেম বিপাক ও বৃদ্ধি নিয়ন্ত্রণ করে।",
+                    "example_sentence_transliteration": "Endocrine system bipak o briddhi niyontron kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fortification",
+            "phonetic": "ˌfɔː.tɪ.fɪˈkeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ফর্টিফিকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "The action of strengthening or enriching food with additional nutrients.",
+            "example_sentence": "The fortification of food with vitamins ensures better health.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফর্টিফিকেশন অফ ফুড উইথ ভিটামিনস এনশিওরস বেটার হেল্থ।"
+            },
+            "position": 14,
+            "synonyms": "Strengthening, Enhancement, Reinforcement",
+            "antonyms": "Weakening, Deterioration, Vulnerability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শক্তিশালীকরণ",
+                    "word_transliteration": "shokti-shali-koron",
+                    "example_sentence_translation": "ভিটামিন দ্বারা খাবারের ফর্টিফিকেশন স্বাস্থ্য নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Vitamin dwara khabarer fortification swasthyo nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "holistic",
+            "phonetic": "həʊˈlɪs.tɪk",
+            "word_native_transliteration": {
+                "bn": "হোলিস্টিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔄",
+            "meaning": "Characterized by the treatment of the whole person, taking into account mental and social factors.",
+            "example_sentence": "A holistic approach to health includes mental well-being.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ হোলিস্টিক অ্যাপ্রোচ টু হেল্থ ইনক্লুডস মেন্টাল ওয়েল-বিইং।"
+            },
+            "position": 15,
+            "synonyms": "Comprehensive, Integrated, Wholesome",
+            "antonyms": "Fragmented, Partial, Incomplete",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সামগ্রিক",
+                    "word_transliteration": "shamorik",
+                    "example_sentence_translation": "স্বাস্থ্য বিষয়ে হোলিস্টিক দৃষ্টিভঙ্গি মানসিক সুস্থতাও অন্তর্ভুক্ত করে।",
+                    "example_sentence_transliteration": "Swasthyo bishoye holistic drishtibhongi manoshik sushthota-o antorbhukto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "synergistic",
+            "phonetic": "ˌsɪn.əˈdʒɪs.tɪk",
+            "word_native_transliteration": {
+                "bn": "সিনারজিস্টিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🤝",
+            "meaning": "Relating to the interaction of elements that when combined produce a greater effect than the sum of their individual effects.",
+            "example_sentence": "A synergistic effect occurs when nutrients work together.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ সিনারজিস্টিক এফেক্ট অকারস হোয়েন নিউট্রিয়েন্টস ওয়ার্ক টুগেদার।"
+            },
+            "position": 16,
+            "synonyms": "Cooperative, Complementary, Unifying",
+            "antonyms": "Conflicting, Disruptive, Ineffective",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহযোগিতামূলক",
+                    "word_transliteration": "shohojogita-mulok",
+                    "example_sentence_translation": "পুষ্টির সম্মিলিত কার্যকারিতার ফলে সিনারজিস্টিক প্রভাব তৈরি হয়।",
+                    "example_sentence_transliteration": "Pushtir shommilito karyokarita-r fole synergistic prabhab toiri hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "resilience",
+            "phonetic": "rɪˈzɪl.jəns",
+            "word_native_transliteration": {
+                "bn": "রেজিলিয়েন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌱",
+            "meaning": "The ability to recover quickly from difficulties or adapt to challenging situations.",
+            "example_sentence": "Mental resilience helps overcome life's challenges.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেন্টাল রেজিলিয়েন্স হেল্পস ওভারকাম লাইফস চ্যালেঞ্জেস।"
+            },
+            "position": 17,
+            "synonyms": "Toughness, Endurance, Adaptability",
+            "antonyms": "Fragility, Weakness, Vulnerability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিকূলতা কাটিয়ে ওঠার ক্ষমতা",
+                    "word_transliteration": "protikoolota katiye othar khomota",
+                    "example_sentence_translation": "মানসিক রেজিলিয়েন্স জীবনচ্যালেঞ্জ মোকাবিলায় সাহায্য করে।",
+                    "example_sentence_transliteration": "Manoshik resilience jibon-challenge mokabilay shahajyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "revitalization",
+            "phonetic": "ˌriːˌvaɪ.təl.aɪˈzeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "রিভাইটালাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔋",
+            "meaning": "The action of giving new life and vitality to something.",
+            "example_sentence": "Proper rest and nutrition lead to revitalization of the body.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রপার রেস্ট এন্ড নিউট্রিশন লিড টু রিভাইটালাইজেশন অফ দ্য বডি।"
+            },
+            "position": 18,
+            "synonyms": "Renewal, Rejuvenation, Regeneration",
+            "antonyms": "Decay, Deterioration, Stagnation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুনর্জীবন",
+                    "word_transliteration": "punor-jibon",
+                    "example_sentence_translation": "যথাযথ বিশ্রাম ও পুষ্টি শরীরের রিভাইটালাইজেশন ঘটায়।",
+                    "example_sentence_transliteration": "Jothajotho bishram o pushti shorirer revitalization ghotay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "satiety",
+            "phonetic": "səˈtaɪ.ə.ti",
+            "word_native_transliteration": {
+                "bn": "সাটাইটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "😌",
+            "meaning": "The feeling of being satisfied or full, especially with regard to food.",
+            "example_sentence": "High-fiber foods provide longer satiety.",
+            "example_sentence_native_transliteration": {
+                "bn": "হাই-ফাইবার ফুডস প্রোভাইড লংগার সাটাইটি।"
+            },
+            "position": 19,
+            "synonyms": "Fullness, Satisfaction, Contentment",
+            "antonyms": "Hunger, Starvation, Deficiency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিপূর্ণতা",
+                    "word_transliteration": "poripurnota",
+                    "example_sentence_translation": "উচ্চ আঁশযুক্ত খাবার দীর্ঘ সময় সাটাইটি বজায় রাখে।",
+                    "example_sentence_transliteration": "Uchcho aansh-jukto khabar dirgho shomoy satiety bojay rakhe.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

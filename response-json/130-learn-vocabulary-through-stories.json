@@ -1,0 +1,445 @@
+{
+    "position": 130,
+    "title_translation": {
+        "en": "How Social Media Apps Influence Life",
+        "bn": "সামাজিক মিডিয়া অ্যাপগুলি কীভাবে জীবনকে প্রভাবিত করে"
+    },
+    "content_translation": {
+        "en": "In today's era, **social media apps** have become an inseparable part of our lives. While they are **enthralling**, they also create a kind of **conundrum**. On one hand, they accelerate the **dissemination** of information and keep people **cognizant** of various topics. But on the other hand, **fabrication** and the **proliferation** of misinformation confuse people.\n\nIn social communication media, we see **juxtaposition**, where a clear **dichotomy** is created between reality and **superficial** life. People want to increase their **narcissism**, so they often display **manipulation** and **exorbitant** lifestyles, which increases **vulnerability** among others.\n\nFurthermore, **incessant** notifications distract our minds and affect our **meticulous** thinking. Therefore, we need to be conscious about using social media, so that it doesn't become a habit that **perpetuates** any negative practices in our lives.",
+        "bn": "আজকের যুগে **social media apps** আমাদের জীবনের অবিচ্ছেদ্য অংশ হয়ে উঠেছে। এটি যেমন **enthralling**, তেমনি একধরনের **conundrum** সৃষ্টি করেছে। একদিকে, এটি তথ্যের **dissemination** দ্রুত করে এবং মানুষকে বিভিন্ন বিষয়ে **cognizant** রাখে। কিন্তু অন্য দিকে, **fabrication** এবং ভুল তথ্যের **proliferation** মানুষকে বিভ্রান্ত করে।\n\nসামাজিক যোগাযোগমাধ্যমে **juxtaposition** দেখা যায়, যেখানে বাস্তবতা এবং **superficial** জীবনের মধ্যে স্পষ্ট **dichotomy** তৈরি হয়। মানুষ তাদের **narcissism** বৃদ্ধি করতে চায়, তাই অনেক সময় **manipulation** এবং **exorbitant** জীবনধারা প্রদর্শন করে, যা অন্যদের মধ্যে **vulnerability** বাড়িয়ে তোলে।\n\nএছাড়া, **incessant** নোটিফিকেশন আমাদের মনোযোগ ছিন্ন করে এবং আমাদের **meticulous** চিন্তাভাবনায় প্রভাব ফেলে। তাই social media ব্যবহারে সচেতন থাকা দরকার, যাতে এটি আমাদের জীবনের জন্য **perpetuate** কোনো নেতিবাচক অভ্যাস না হয়ে ওঠে।"
+    },
+    "list": [
+        {
+            "word": "enthralling",
+            "phonetic": "/ɪnˈθrɔː.lɪŋ/",
+            "word_native_transliteration": {
+                "bn": "এনথ্রলিং"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🤩",
+            "meaning": "Captivating and holding one's attention completely; fascinating.",
+            "example_sentence": "The movie was enthralling, keeping the audience engaged till the end.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য মুভি ওয়াস এনথ্রলিং, কিপিং দ্য অডিয়েন্স এনগেজড টিল দ্য এন্ড।"
+            },
+            "position": 1,
+            "synonyms": "Captivating, Mesmerizing, Engaging",
+            "antonyms": "Boring, Uninspiring, Dull",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মনোমুগ্ধকর",
+                    "word_transliteration": "monomugdhokOR",
+                    "example_sentence_translation": "সিনেমাটি এতটাই এনথ্রলিং ছিল যে দর্শকরা শেষ পর্যন্ত মনোযোগ দিয়ে দেখেছে।",
+                    "example_sentence_transliteration": "ShineMatI etotai enthralling chhilo je dorshokora shesh porjonto monojog diye dekhecche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "conundrum",
+            "phonetic": "/kəˈnʌn.drəm/",
+            "word_native_transliteration": {
+                "bn": "কনান্ড্রাম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤔",
+            "meaning": "A confusing and difficult problem or question; a puzzle or riddle.",
+            "example_sentence": "The economic crisis is a conundrum that policymakers struggle to solve.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইকোনমিক ক্রাইসিস ইজ এ কনান্ড্রাম দ্যাট পলিসিমেকারস স্ট্রাগল টু সলভ।"
+            },
+            "position": 2,
+            "synonyms": "Dilemma, Puzzle, Enigma",
+            "antonyms": "Solution, Clarity, Answer",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ধাঁধা",
+                    "word_transliteration": "dhadha",
+                    "example_sentence_translation": "অর্থনৈতিক সংকট একটি কনান্ড্রাম যা নীতিনির্ধারকরা সমাধানের চেষ্টা করছেন।",
+                    "example_sentence_transliteration": "OrthOnoitik shongkoT ekti conundrum ja nitinirdharokora shomadhaner cheshta korcchen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dissemination",
+            "phonetic": "/dɪˌsem.ɪˈneɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ডিসেমিনেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📢",
+            "meaning": "The action or fact of spreading something, especially information, widely.",
+            "example_sentence": "The dissemination of false information on social media is alarming.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডিসেমিনেশন অফ ফলস ইনফরমেশন অন সোশ্যাল মিডিয়া ইজ অ্যালার্মিং।"
+            },
+            "position": 3,
+            "synonyms": "Distribution, Circulation, Propagation",
+            "antonyms": "Concealment, Suppression, Withholding",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রচার",
+                    "word_transliteration": "prochar",
+                    "example_sentence_translation": "সামাজিক যোগাযোগমাধ্যমে ভুয়া তথ্যের ডিসেমিনেশন উদ্বেগজনক।",
+                    "example_sentence_transliteration": "Shamajik jogajogmadhome bhuya tothyer dissemination udbegjOnOk.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cognizant",
+            "phonetic": "/ˈkɒɡ.nɪ.zənt/",
+            "word_native_transliteration": {
+                "bn": "কগনিজেন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧠",
+            "meaning": "Having knowledge or being aware of something.",
+            "example_sentence": "She is cognizant of the risks involved in the project.",
+            "example_sentence_native_transliteration": {
+                "bn": "শী ইজ কগনিজেন্ট অফ দ্য রিস্কস ইনভলভড ইন দ্য প্রজেক্ট।"
+            },
+            "position": 4,
+            "synonyms": "Aware, Informed, Mindful",
+            "antonyms": "Oblivious, Unaware, Ignorant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সচেতন",
+                    "word_transliteration": "shocheton",
+                    "example_sentence_translation": "তিনি প্রকল্পের সাথে যুক্ত ঝুঁকিগুলোর বিষয়ে কগনিজেন্ট।",
+                    "example_sentence_transliteration": "Tini prokolper shathe jukto jhunkigulor bishoy-e cognizant.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fabrication",
+            "phonetic": "/ˌfæb.rɪˈkeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ফ্যাব্রিকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🥸",
+            "meaning": "The invention of false or misleading information; a lie or falsehood.",
+            "example_sentence": "The article was full of fabrication and misleading claims.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য আর্টিকেল ওয়াস ফুল অফ ফ্যাব্রিকেশন এন্ড মিসলিডিং ক্লেইমস।"
+            },
+            "position": 5,
+            "synonyms": "Falsification, Deception, Invention",
+            "antonyms": "Truth, Reality, Authenticity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মনগড়া তথ্য",
+                    "word_transliteration": "monogora tothyo",
+                    "example_sentence_translation": "প্রবন্ধটি ফ্যাব্রিকেশন ও বিভ্রান্তিকর দাবিতে ভরা ছিল।",
+                    "example_sentence_transliteration": "Probondhoti fabrication o bibhrantikor dabite bhora chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "proliferation",
+            "phonetic": "/prəˌlɪf.ərˈeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "প্রোলিফারেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "Rapid increase in the number or amount of something.",
+            "example_sentence": "The proliferation of digital platforms has transformed communication.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রোলিফারেশন অফ ডিজিটাল প্ল্যাটফর্মস হ্যাস ট্রান্সফর্মড কমিউনিকেশন।"
+            },
+            "position": 6,
+            "synonyms": "Expansion, Multiplication, Growth",
+            "antonyms": "Decline, Reduction, Decrease",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্রুত বিস্তার",
+                    "word_transliteration": "druto bistar",
+                    "example_sentence_translation": "ডিজিটাল প্ল্যাটফর্মের প্রোলিফারেশন যোগাযোগ ব্যবস্থাকে পরিবর্তন করেছে।",
+                    "example_sentence_transliteration": "Digital platformer proliferation jogajog bebosthake poriborton koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "juxtaposition",
+            "phonetic": "/ˌdʒʌk.stə.pəˈzɪʃ.ən/",
+            "word_native_transliteration": {
+                "bn": "জাক্সটাপজিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "The fact of two things being seen or placed close together with contrasting effect.",
+            "example_sentence": "The juxtaposition of tradition and modernity creates a unique aesthetic.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য জাক্সটাপজিশন অফ ট্রাডিশন এন্ড মডার্নিটি ক্রিয়েটস এ ইউনিক অ্যাসথেটিক।"
+            },
+            "position": 7,
+            "synonyms": "Contrast, Alignment, Comparison",
+            "antonyms": "Separation, Isolation, Division",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পাশাপাশি স্থাপন",
+                    "word_transliteration": "pashapashi sthapon",
+                    "example_sentence_translation": "ঐতিহ্য ও আধুনিকতার জাক্সটাপজিশন একটি অনন্য নান্দনিকতা সৃষ্টি করে।",
+                    "example_sentence_transliteration": "Oitihhyo o adhunikotaor juxtaposition ekti ononyo nandonikota shrishti kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "superficial",
+            "phonetic": "/ˌsuː.pəˈfɪʃ.əl/",
+            "word_native_transliteration": {
+                "bn": "সুপারফিশিয়াল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎭",
+            "meaning": "Existing or occurring at or on the surface; not thorough or deep.",
+            "example_sentence": "His understanding of the subject was rather superficial.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ আন্ডারস্ট্যান্ডিং অফ দ্য সাবজেক্ট ওয়াস র্যাদার সুপারফিশিয়াল।"
+            },
+            "position": 8,
+            "synonyms": "Shallow, Surface-level, Insincere",
+            "antonyms": "Profound, Deep, Thoughtful",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উপরিভাসী",
+                    "word_transliteration": "uporibhashi",
+                    "example_sentence_translation": "বিষয়টির প্রতি তার বোঝাপড়াটি ছিল বেশ সুপারফিশিয়াল।",
+                    "example_sentence_transliteration": "Bishoyotir proti tar bojhaporati chhilo besh superficial.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dichotomy",
+            "phonetic": "/daɪˈkɒt.ə.mi/",
+            "word_native_transliteration": {
+                "bn": "ডাইকটমি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚔️",
+            "meaning": "A division or contrast between two things that are or are represented as being opposed or entirely different.",
+            "example_sentence": "The dichotomy between rich and poor is growing wider.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডাইকটমি বিটুইন রিচ এন্ড পুর ইজ গ্রোইং ওয়াইডার।"
+            },
+            "position": 9,
+            "synonyms": "Division, Contrast, Duality",
+            "antonyms": "Unity, Harmony, Agreement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্বৈততা",
+                    "word_transliteration": "dhoitota",
+                    "example_sentence_translation": "ধনী ও দরিদ্রের মধ্যে ডাইকটমি দিন দিন বাড়ছে।",
+                    "example_sentence_transliteration": "Dhoni o doriddrer modhye dichotomy din din barche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "narcissism",
+            "phonetic": "/ˈnɑː.sɪ.sɪ.zəm/",
+            "word_native_transliteration": {
+                "bn": "নার্সিসিজম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🪞",
+            "meaning": "Excessive interest in or admiration of oneself; extreme selfishness.",
+            "example_sentence": "His excessive narcissism made it difficult for him to empathize with others.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ এক্সসেসিভ নার্সিসিজম মেড ইট ডিফিকাল্ট ফর হিম টু এমপ্যাথাইজ উইথ আদারস।"
+            },
+            "position": 10,
+            "synonyms": "Self-absorption, Egotism, Vanity",
+            "antonyms": "Humility, Modesty, Selflessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আত্মমুগ্ধতা",
+                    "word_transliteration": "attomugdhota",
+                    "example_sentence_translation": "তার অতিরিক্ত নার্সিসিজম অন্যদের প্রতি সহানুভূতি দেখানো কঠিন করে তুলেছিল।",
+                    "example_sentence_transliteration": "Tar otirikto narcissism onnyoder proti shohanubhuti dekhano kothin kore tulechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "manipulation",
+            "phonetic": "/məˌnɪp.jʊˈleɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ম্যানিপুলেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎭",
+            "meaning": "The action of influencing or controlling someone or something in a clever or unscrupulous way.",
+            "example_sentence": "The politician was accused of manipulation to gain public support.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য পলিটিশিয়ান ওয়াস অ্যাকিউজড অফ ম্যানিপুলেশন টু গেইন পাবলিক সাপোর্ট।"
+            },
+            "position": 11,
+            "synonyms": "Exploitation, Deception, Influence",
+            "antonyms": "Honesty, Transparency, Fairness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চাতুর্যপূর্ণ নিয়ন্ত্রণ",
+                    "word_transliteration": "chaturyopurno niyontron",
+                    "example_sentence_translation": "জনসমর্থন পাওয়ার জন্য রাজনীতিবিদ ম্যানিপুলেশন করার অভিযোগে অভিযুক্ত হন।",
+                    "example_sentence_transliteration": "Jonoshomorthon paowar jonno rajnitibid manipulation korar obhijoge obhijukto hon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "exorbitant",
+            "phonetic": "/ɪɡˈzɔː.bɪ.tənt/",
+            "word_native_transliteration": {
+                "bn": "এক্সর্বিট্যান্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💸",
+            "meaning": "(Of a price or amount charged) unreasonably high.",
+            "example_sentence": "The hotel charged an exorbitant price for a simple meal.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য হোটেল চার্জড অ্যান এক্সর্বিট্যান্ট প্রাইস ফর এ সিম্পল মিল।"
+            },
+            "position": 12,
+            "synonyms": "Outrageous, Excessive, Inflated",
+            "antonyms": "Reasonable, Affordable, Moderate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মাত্রাতিরিক্ত",
+                    "word_transliteration": "matratiriktO",
+                    "example_sentence_translation": "একটি সাধারণ খাবারের জন্য হোটেলটি এক্সর্বিট্যান্ট মূল্য নির্ধারণ করেছিল।",
+                    "example_sentence_transliteration": "Ekti shadhoron khabarer jonno hotelti exorbitant mulyo nirdharon korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "vulnerability",
+            "phonetic": "/ˌvʌl.nər.əˈbɪl.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "ভালনারেবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛡️",
+            "meaning": "The quality or state of being exposed to the possibility of being attacked or harmed, either physically or emotionally.",
+            "example_sentence": "Cybersecurity measures are crucial to reducing vulnerability to hacking.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাইবারসিকিউরিটি মেজারস আর ক্রুশিয়াল টু রিডিউসিং ভালনারেবিলিটি টু হ্যাকিং।"
+            },
+            "position": 13,
+            "synonyms": "Susceptibility, Fragility, Exposure",
+            "antonyms": "Strength, Resilience, Immunity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দুর্বলতা",
+                    "word_transliteration": "durbolota",
+                    "example_sentence_translation": "হ্যাকিং-এর বিরুদ্ধে ভালনারেবিলিটি কমাতে সাইবার নিরাপত্তা ব্যবস্থা অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Hacking-er biruddhe vulnerability komate cyber nirpotta bebostha ottyonto gurutbopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "incessant",
+            "phonetic": "/ɪnˈses.ənt/",
+            "word_native_transliteration": {
+                "bn": "ইনসেস্যান্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔄",
+            "meaning": "Continuing without pause or interruption; constant.",
+            "example_sentence": "The incessant noise from the construction site made it hard to concentrate.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইনসেস্যান্ট নয়েজ ফ্রম দ্য কনস্ট্রাকশন সাইট মেড ইট হার্ড টু কনসেন্ট্রেট।"
+            },
+            "position": 14,
+            "synonyms": "Continuous, Unceasing, Persistent",
+            "antonyms": "Intermittent, Occasional, Sporadic",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিরবচ্ছিন্ন",
+                    "word_transliteration": "nirobocchhinno",
+                    "example_sentence_translation": "নির্মাণস্থল থেকে আসা ইনসেস্যান্ট শব্দের কারণে মনোযোগ দেওয়া কঠিন হয়ে পড়েছিল।",
+                    "example_sentence_transliteration": "Nirmansthol theke asha incessant shobder karone monojog dewa kothin hoye porechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "meticulous",
+            "phonetic": "/məˈtɪk.jʊ.ləs/",
+            "word_native_transliteration": {
+                "bn": "মেটিকুলাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔍",
+            "meaning": "Showing great attention to detail; very careful and precise.",
+            "example_sentence": "She is very meticulous about organizing her workspace.",
+            "example_sentence_native_transliteration": {
+                "bn": "শী ইজ ভেরি মেটিকুলাস অ্যাবাউট অর্গানাইজিং হার ওয়ার্কস্পেস।"
+            },
+            "position": 15,
+            "synonyms": "Detailed, Precise, Diligent",
+            "antonyms": "Careless, Negligent, Hasty",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতি সতর্ক",
+                    "word_transliteration": "oti shotorko",
+                    "example_sentence_translation": "তিনি তার কর্মস্থল গুছিয়ে রাখতে অত্যন্ত মেটিকুলাস।",
+                    "example_sentence_transliteration": "Tini tar kormosthole guchhiye rakhte ottyonto meticulous.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "perpetuate",
+            "phonetic": "/pəˈpetʃ.u.eɪt/",
+            "word_native_transliteration": {
+                "bn": "পার্পেচুয়েট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "♾️",
+            "meaning": "Make (something, typically an undesirable situation or an unfounded belief) continue indefinitely.",
+            "example_sentence": "Social media can sometimes perpetuate harmful stereotypes.",
+            "example_sentence_native_transliteration": {
+                "bn": "সোশ্যাল মিডিয়া ক্যান সামটাইমস পার্পেচুয়েট হার্মফুল স্টেরিওটাইপস।"
+            },
+            "position": 16,
+            "synonyms": "Maintain, Sustain, Preserve",
+            "antonyms": "Eliminate, Eradicate, Terminate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দীর্ঘস্থায়ী করা",
+                    "word_transliteration": "dirghos_thayi kora",
+                    "example_sentence_translation": "সামাজিক যোগাযোগমাধ্যম কখনো কখনো ক্ষতিকর স্টেরিওটাইপ পার্পেচুয়েট করতে পারে।",
+                    "example_sentence_transliteration": "Shamajik jogajogmadhyom kokhono kokhono khotikar stereotype perpetuate korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

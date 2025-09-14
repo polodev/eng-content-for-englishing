@@ -1,0 +1,499 @@
+{
+    "position": 121,
+    "title_translation": {
+        "en": "How Gaming Improves Cognitive Skills",
+        "bn": "গেমিং কীভাবে জ্ঞানসংক্রান্ত দক্ষতা উন্নত করে"
+    },
+    "content_translation": {
+        "en": "In today's era, **gaming** is not just a medium of entertainment, it also helps improve human **cognitive** abilities. Research has shown that playing **strategic** games increases **neuroplasticity**, which helps the brain adapt to new challenges. Many **algorithmic** games enhance users' **adaptability** and **discernment**, as they learn to solve new problems at each level. **Heuristic** thinking improves the ability to make quick decisions, which is useful in real life.\n\nAdditionally, **visuospatial** games help improve **dexterity** and **retentive** abilities. Increased **metacognition** allows users to become more aware of their learning processes.\n\nTherefore, **gaming** is not just a means of wasting time; it can also be a medium to enhance **acumen**, **fortitude**, and **perseverance**. When used properly, it can **optimize** **cerebral** abilities and **expedite** brain functionality.",
+        "bn": "আজকের যুগে **gaming** শুধুমাত্র বিনোদনের মাধ্যম নয়, এটি মানুষের **cognitive** দক্ষতা উন্নত করতেও সাহায্য করে। গবেষণায় দেখা গেছে যে **strategic** গেম খেলার ফলে **neuroplasticity** বৃদ্ধি পায়, যা মস্তিষ্ককে নতুন চ্যালেঞ্জের সঙ্গে খাপ খাইয়ে নিতে সহায়তা করে। অনেক **algorithmic** গেম ব্যবহারকারীদের **adaptability** এবং **discernment** বাড়ায়, কারণ তারা প্রতিটি স্তরে নতুন সমস্যা সমাধান করতে শেখে। **Heuristic** চিন্তাভাবনার মাধ্যমে দ্রুত সিদ্ধান্ত নেওয়ার ক্ষমতা বাড়ে, যা বাস্তব জীবনেও কাজে লাগে।\n\nএছাড়া, **visuospatial** গেমগুলো **dexterity** এবং **retentive** ক্ষমতা বাড়াতে সাহায্য করে। **Metacognition** বৃদ্ধি পাওয়ার ফলে ব্যবহারকারী নিজের শেখার পদ্ধতি সম্পর্কে আরও সচেতন হতে পারে।\n\nতাই **gaming** শুধু সময় নষ্ট করার মাধ্যম নয়; এটি **acumen**, **fortitude**, এবং **perseverance** বৃদ্ধির মাধ্যমও হতে পারে। সঠিকভাবে ব্যবহার করলে, এটি **cerebral** দক্ষতা **optimization** করতে পারে এবং মস্তিষ্কের কার্যক্ষমতা **expedite** করতে পারে।"
+    },
+    "list": [
+        {
+            "word": "gaming",
+            "phonetic": "ˈɡeɪ.mɪŋ",
+            "word_native_transliteration": {
+                "bn": "গেমিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎮",
+            "meaning": "The practice of playing video games or competitive games.",
+            "example_sentence": "Gaming has evolved into a billion-dollar industry.",
+            "example_sentence_native_transliteration": {
+                "bn": "গেমিং হ্যাজ ইভলভড ইনটু এ বিলিয়ন-ডলার ইন্ডাস্ট্রি।"
+            },
+            "position": 1,
+            "synonyms": "Video Gaming, Esports, Interactive Entertainment",
+            "antonyms": "Work, Idleness, Non-gaming Activities",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভিডিও গেম খেলা বা প্রতিযোগিতামূলক খেলা",
+                    "word_transliteration": "video game khela ba protiyogitamulok khela",
+                    "example_sentence_translation": "গেমিং একটি বিলিয়নডলারের শিল্পে পরিণত হয়েছে।",
+                    "example_sentence_transliteration": "Gaming ekti billion dollar shilpe porinoto hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cognitive",
+            "phonetic": "ˈkɒɡ.nɪ.tɪv",
+            "word_native_transliteration": {
+                "bn": "কগনিটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧠",
+            "meaning": "Related to the mental processes of learning, remembering, and problem-solving abilities.",
+            "example_sentence": "Cognitive skills are essential for problem-solving.",
+            "example_sentence_native_transliteration": {
+                "bn": "কগনিটিভ স্কিলস আর এসেনশিয়াল ফর প্রবলেম-সলভিং।"
+            },
+            "position": 2,
+            "synonyms": "Intellectual, Mental, Psychological",
+            "antonyms": "Ignorant, Unaware, Uninformed",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জ্ঞানসংক্রান্ত বা মানসিক প্রক্রিয়ার সঙ্গে সম্পর্কিত",
+                    "word_transliteration": "gyansongkranto ba manoshik prokriyar songe somporkyto",
+                    "example_sentence_translation": "সমস্যা সমাধানের জন্য জ্ঞানসংক্রান্ত দক্ষতা অপরিহার্য।",
+                    "example_sentence_transliteration": "Shomossha shomadhaner jonno gyansongkranto dokkhota oporiharyo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "strategic",
+            "phonetic": "strəˈtiː.dʒɪk",
+            "word_native_transliteration": {
+                "bn": "স্ট্র্যাটেজিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎯",
+            "meaning": "Related to tactics or planned approaches for achieving long-term goals.",
+            "example_sentence": "A strategic approach is necessary for business success.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ স্ট্র্যাটেজিক অ্যাপ্রোচ ইজ নেসেসারি ফর বিজনেস সাকসেস।"
+            },
+            "position": 3,
+            "synonyms": "Tactical, Planned, Calculated",
+            "antonyms": "Unplanned, Random, Impulsive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কৌশলগত বা পরিকল্পিত",
+                    "word_transliteration": "kousholgate ba porikalpito",
+                    "example_sentence_translation": "ব্যবসায়িক সাফল্যের জন্য কৌশলগত পদ্ধতি প্রয়োজন।",
+                    "example_sentence_transliteration": "Byaboshayik shafoller jonno kousholgate poddoti proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "neuroplasticity",
+            "phonetic": "ˌnjʊə.rəʊ.plæsˈtɪ.sɪ.ti",
+            "word_native_transliteration": {
+                "bn": "নিউরোপ্লাস্টিসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The brain's ability to change its structure and functionality through learning.",
+            "example_sentence": "Neuroplasticity allows the brain to rewire itself after injury.",
+            "example_sentence_native_transliteration": {
+                "bn": "নিউরোপ্লাস্টিসিটি অ্যালাউজ দ্য ব্রেইন টু রিওয়ায়ার ইটসেলফ আফটার ইনজুরি।"
+            },
+            "position": 4,
+            "synonyms": "Brain Adaptability, Cognitive Flexibility, Neural Rewiring",
+            "antonyms": "Neural Rigidity, Cognitive Decline, Fixed Brain Structure",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মস্তিষ্কের অভিযোজন ক্ষমতা",
+                    "word_transliteration": "mostishker obhijojon khomota",
+                    "example_sentence_translation": "মস্তিষ্কের অভিযোজন ক্ষমতা এটি আঘাতের পর পুনর্গঠিত হতে সহায়তা করে।",
+                    "example_sentence_transliteration": "Mostishker obhijojon khomota eti aghoter por punorgothito hote shahayota kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "algorithmic",
+            "phonetic": "ˌæl.ɡəˈrɪð.mɪk",
+            "word_native_transliteration": {
+                "bn": "অ্যালগরিদমিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💻",
+            "meaning": "Related to calculations or analysis based on specific rules or methods.",
+            "example_sentence": "Algorithmic processes are essential for artificial intelligence.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যালগরিদমিক প্রসেসেস আর এসেনশিয়াল ফর আর্টিফিশিয়াল ইন্টেলিজেন্স।"
+            },
+            "position": 5,
+            "synonyms": "Computational, Systematic, Programmatic",
+            "antonyms": "Non-systematic, Random, Arbitrary",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অ্যালগরিদম সংক্রান্ত",
+                    "word_transliteration": "algorithm songkranto",
+                    "example_sentence_translation": "অ্যালগরিদম ভিত্তিক প্রক্রিয়া কৃত্রিম বুদ্ধিমত্তার জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Algorithm bhittik prokriya krittrim buddhimottar jonno oporiharyo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "adaptability",
+            "phonetic": "əˌdæp.təˈbɪl.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "অ্যাডাপ্টেবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The ability to quickly adjust to new situations and changes.",
+            "example_sentence": "Adaptability is a key trait for career success.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাডাপ্টেবিলিটি ইজ এ কি ট্রেইট ফর ক্যারিয়ার সাকসেস।"
+            },
+            "position": 6,
+            "synonyms": "Flexibility, Adjustability, Resilience",
+            "antonyms": "Rigidity, Inadaptability, Inflexibility",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিবর্তনের সাথে মানিয়ে নেওয়ার ক্ষমতা",
+                    "word_transliteration": "poribortoner shathe maniye neowar khomota",
+                    "example_sentence_translation": "কর্মজীবনে সফলতার জন্য মানিয়ে নেওয়ার ক্ষমতা গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Kormojibone shofolotar jonno maniye neowar khomota guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "discernment",
+            "phonetic": "dɪˈsɜːrn.mənt",
+            "word_native_transliteration": {
+                "bn": "ডিসার্নমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔍",
+            "meaning": "The skill of being able to understand good and bad judgment and insight.",
+            "example_sentence": "His discernment helped him make wise decisions.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ডিসার্নমেন্ট হেল্পড হিম মেক ওয়াইজ ডিসিশন্স।"
+            },
+            "position": 7,
+            "synonyms": "Insight, Perception, Judgement",
+            "antonyms": "Ignorance, Misjudgment, Indiscretion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "তীক্ষ্ণ বিচারশক্তি বা অনুধাবন ক্ষমতা",
+                    "word_transliteration": "tikkhno bicharshokti ba anudhavon khomota",
+                    "example_sentence_translation": "তার অনুধাবন ক্ষমতা তাকে সুবিবেচিত সিদ্ধান্ত নিতে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Tar anudhavon khomota take shubibechito siddhanto nite shahayyo koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "heuristic",
+            "phonetic": "hjʊəˈrɪs.tɪk",
+            "word_native_transliteration": {
+                "bn": "হিউরিস্টিক"
+            },
+            "parts_of_speech": "adjective/noun",
+            "emoji": "🔬",
+            "meaning": "A method of finding solutions to problems through experience and trial.",
+            "example_sentence": "The professor used a heuristic approach to teach mathematics.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রফেসর ইউজড এ হিউরিস্টিক অ্যাপ্রোচ টু টিচ ম্যাথেমেটিক্স।"
+            },
+            "position": 8,
+            "synonyms": "Exploratory, Problem-solving, Rule-of-thumb",
+            "antonyms": "Algorithmic, Prescriptive, Fixed-rule",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অভিজ্ঞতা থেকে শেখার পদ্ধতি",
+                    "word_transliteration": "obhiggyota theke shekhar poddoti",
+                    "example_sentence_translation": "অধ্যাপক গণিত শেখানোর জন্য অভিজ্ঞতাভিত্তিক পদ্ধতি ব্যবহার করেছিলেন।",
+                    "example_sentence_transliteration": "Oddhyapok gonit shekhanor jonno obhiggyotabhittik poddoti byabohar korechilon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "visuospatial",
+            "phonetic": "ˌvɪz.ju.oʊˈspeɪ.ʃəl",
+            "word_native_transliteration": {
+                "bn": "ভিজুওস্পেশিয়াল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "👁️",
+            "meaning": "Related to understanding the relationship between space and objects through vision.",
+            "example_sentence": "Good visuospatial skills are important for architecture and design.",
+            "example_sentence_native_transliteration": {
+                "bn": "গুড ভিজুওস্পেশিয়াল স্কিলস আর ইমপরট্যান্ট ফর আর্কিটেকচার এন্ড ডিজাইন।"
+            },
+            "position": 9,
+            "synonyms": "Spatial Awareness, Visual Perception, Orientation",
+            "antonyms": "Non-spatial, Abstract, Disoriented",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চাক্ষুষ ও স্থানিক উপলব্ধি সংক্রান্ত",
+                    "word_transliteration": "chakkhush o sthanik upolabdhi songkranto",
+                    "example_sentence_translation": "ভালো চাক্ষুষ ও স্থানিক দক্ষতা স্থাপত্য ও ডিজাইনের জন্য গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Bhalo chakkhush o sthanik dokkhota sthapto o designer jonno guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dexterity",
+            "phonetic": "dɛkˈstɛr.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "ডেক্সটেরিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤹",
+            "meaning": "The ability to work quickly and skillfully with hands or mind.",
+            "example_sentence": "A surgeon needs high dexterity for precision work.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ সার্জন নিডস হাই ডেক্সটেরিটি ফর প্রিসিশন ওয়ার্ক।"
+            },
+            "position": 10,
+            "synonyms": "Agility, Skillfulness, Nimbleness",
+            "antonyms": "Clumsiness, Incompetence, Ineptitude",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষতা বা চাতুর্য",
+                    "word_transliteration": "dokkhota ba chaturyo",
+                    "example_sentence_translation": "একজন সার্জনের জন্য নির্ভুল কাজের দক্ষতা অপরিহার্য।",
+                    "example_sentence_transliteration": "Ekjon surgeoner jonno nirbhul kajer dokkhota oporiharyo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "retentive",
+            "phonetic": "rɪˈtɛn.tɪv",
+            "word_native_transliteration": {
+                "bn": "রিটেনটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧠",
+            "meaning": "Having strong memory or the ability to retain information for a long time.",
+            "example_sentence": "Students with a retentive memory excel in academics.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্টুডেন্টস উইথ এ রিটেনটিভ মেমরি এক্সেল ইন একাডেমিক্স।"
+            },
+            "position": 11,
+            "synonyms": "Memory-rich, Absorptive, Retaining",
+            "antonyms": "Forgetful, Unreliable, Poor Memory",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্মরণশক্তি প্রবল বা ধরে রাখার ক্ষমতা",
+                    "word_transliteration": "smornonshokti probol ba dhore rakhar khomota",
+                    "example_sentence_translation": "শক্তিশালী স্মরণশক্তি সম্পন্ন শিক্ষার্থীরা শিক্ষাক্ষেত্রে ভালো করে।",
+                    "example_sentence_transliteration": "Shoktishali smornonshokti sompnno shikkharthira shikkhakkhetre bhalo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "metacognition",
+            "phonetic": "ˌmɛt.ə.kɒɡˈnɪʃ.ən",
+            "word_native_transliteration": {
+                "bn": "মেটাকগনিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤔",
+            "meaning": "Awareness about one's learning skills and thinking processes.",
+            "example_sentence": "Metacognition helps students improve their learning strategies.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেটাকগনিশন হেল্পস স্টুডেন্টস ইমপ্রুভ দেয়ার লার্নিং স্ট্র্যাটেজিস।"
+            },
+            "position": 12,
+            "synonyms": "Self-awareness, Reflection, Higher-order Thinking",
+            "antonyms": "Unawareness, Ignorance, Thoughtlessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চিন্তন প্রক্রিয়া সম্পর্কে সচেতনতা",
+                    "word_transliteration": "chinton prokriya shomporke sochetonta",
+                    "example_sentence_translation": "চিন্তন সচেতনতা শিক্ষার্থীদের শেখার কৌশল উন্নত করতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Chinton sochetonta shikkharthider shekhar koushal unnoto korte shahayyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "acumen",
+            "phonetic": "ˈæk.jʊ.mən",
+            "word_native_transliteration": {
+                "bn": "অ্যাকিউমেন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💡",
+            "meaning": "The ability to quickly and accurately analyze situations and make decisions.",
+            "example_sentence": "His business acumen led to the company's success.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ বিজনেস অ্যাকিউমেন লেড টু দ্য কোম্পানিস সাকসেস।"
+            },
+            "position": 13,
+            "synonyms": "Insight, Intelligence, Sharpness",
+            "antonyms": "Foolishness, Ineptitude, Ignorance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "তীক্ষ্ণ বুদ্ধিমত্তা বা উপলব্ধি শক্তি",
+                    "word_transliteration": "tikkhno buddhimotta ba upolabdhi shokti",
+                    "example_sentence_translation": "তার ব্যবসায়িক উপলব্ধি শক্তি কোম্পানির সাফল্যের কারণ হয়েছে।",
+                    "example_sentence_transliteration": "Tar byaboshayik upolabdhi shokti companir shafoller karon hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fortitude",
+            "phonetic": "ˈfɔːr.tɪ.tjuːd",
+            "word_native_transliteration": {
+                "bn": "ফর্টিটিউড"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "The ability to maintain patience and courage in difficult situations.",
+            "example_sentence": "She showed great fortitude in overcoming obstacles.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি শোড গ্রেট ফর্টিটিউড ইন ওভারকামিং অবস্ট্যাকলস।"
+            },
+            "position": 14,
+            "synonyms": "Resilience, Courage, Endurance",
+            "antonyms": "Weakness, Fear, Cowardice",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অধ্যবসায় বা মানসিক দৃঢ়তা",
+                    "word_transliteration": "oddhoboshay ba manoshik dridhota",
+                    "example_sentence_translation": "তিনি বাধা অতিক্রম করতে অসাধারণ মানসিক দৃঢ়তা দেখিয়েছেন।",
+                    "example_sentence_transliteration": "Tini badha otikrom korte oshadharon manoshik dridhota dekhiyechen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "perseverance",
+            "phonetic": "ˌpɜː.sɪˈvɪə.rəns",
+            "word_native_transliteration": {
+                "bn": "পার্সিভিয়ারেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚀",
+            "meaning": "Continuing hard work and patience for a long time despite difficulties.",
+            "example_sentence": "His perseverance helped him achieve his dreams.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ পার্সিভিয়ারেন্স হেল্পড হিম অ্যাচিভ হিজ ড্রিমস।"
+            },
+            "position": 15,
+            "synonyms": "Persistence, Determination, Tenacity",
+            "antonyms": "Laziness, Weakness, Giving up",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অবিচল অধ্যবসায়",
+                    "word_transliteration": "obichol oddhoboshay",
+                    "example_sentence_translation": "তার অধ্যবসায় তাকে স্বপ্ন পূরণে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Tar oddhoboshay take shopno purone shahayyo koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cerebral",
+            "phonetic": "ˈsɛr.ɪ.brəl",
+            "word_native_transliteration": {
+                "bn": "সেরিব্রাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧠",
+            "meaning": "Related to thinking and mental activities of the brain.",
+            "example_sentence": "The novel was highly cerebral, requiring deep analysis.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নভেল ওয়াস হাইলি সেরিব্রাল, রিকোয়ারিং ডিপ অ্যানালাইসিস।"
+            },
+            "position": 16,
+            "synonyms": "Intellectual, Brainy, Thoughtful",
+            "antonyms": "Emotional, Unintellectual, Instinctive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বুদ্ধিবৃত্তিক বা মস্তিষ্কসংক্রান্ত",
+                    "word_transliteration": "buddhibrittik ba mostishkosongkranto",
+                    "example_sentence_translation": "উপন্যাসটি অত্যন্ত বুদ্ধিবৃত্তিক, যা গভীর বিশ্লেষণ প্রয়োজন।",
+                    "example_sentence_transliteration": "Uponnashoti ottonto buddhibrittik, ja gobhir bishlekhon proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "optimization",
+            "phonetic": "ˌɒp.tɪ.mɪˈzeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "অপটিমাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "Making something work in the best possible way or improving it to achieve maximum effectiveness.",
+            "example_sentence": "The company focused on optimization of resources to maximize profits.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি ফোকাসড অন অপটিমাইজেশন অফ রিসোর্সেস টু ম্যাক্সিমাইজ প্রফিটস।"
+            },
+            "position": 17,
+            "synonyms": "Efficiency, Improvement, Refinement",
+            "antonyms": "Inefficiency, Wastefulness, Mismanagement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সর্বোচ্চ কার্যকারিতা অর্জন",
+                    "word_transliteration": "sorbochcho karjyokarita orjon",
+                    "example_sentence_translation": "কোম্পানিটি মুনাফা বাড়ানোর জন্য সম্পদের সর্বোচ্চ ব্যবহার নিশ্চিত করতে মনোযোগ দিয়েছে।",
+                    "example_sentence_transliteration": "Companiti munapha baranor jonno shompoder sorbochcho byabohar nishchito korte monojog diyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "expedite",
+            "phonetic": "ˈɛk.spə.daɪt",
+            "word_native_transliteration": {
+                "bn": "এক্সপিডাইট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🏃",
+            "meaning": "To speed up a process or complete work quickly.",
+            "example_sentence": "The new policy aims to expedite the visa approval process.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিউ পলিসি এইমস টু এক্সপিডাইট দ্য ভিসা অ্যাপ্রুভাল প্রসেস।"
+            },
+            "position": 18,
+            "synonyms": "Accelerate, Hasten, Facilitate",
+            "antonyms": "Delay, Hinder, Slow Down",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্রুত সম্পন্ন করা বা প্রক্রিয়াকে ত্বরান্বিত করা",
+                    "word_transliteration": "druto shompnno kora ba prokriyake tboranbito kora",
+                    "example_sentence_translation": "নতুন নীতি ভিসা অনুমোদন প্রক্রিয়াকে দ্রুততর করার লক্ষ্যে তৈরি হয়েছে।",
+                    "example_sentence_transliteration": "Notun niti visa onumodon prokriyake druttotoro korar lokkhye toiri hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,472 @@
+{
+    "position": 128,
+    "title_translation": {
+        "en": "How Neurofeedback Affects Learning Ability",
+        "bn": "কিভাবে নিউরোফিডব্যাক শেখার ক্ষমতাকে প্রভাবিত করে"
+    },
+    "content_translation": {
+        "en": "**Neurofeedback** can significantly improve our **cognition** and learning abilities. It enhances brain performance through **cerebral** function analysis and **optimization**.\n\nResearch has **corroborated** that **neuroplasticity** plays a major role in learning **acquisition**. When our brain receives proper **stimuli**, it creates **proliferation**, which helps retain new information.\n\nHowever, **impediment** can occur if brain **fluctuation** remains uncontrolled. **Neurofeedback** helps **attenuation** of these problems and increases **retentive** capacity.\n\nIt can bring **quintessential** changes not just for immediate learning, but for long-term improvement. **Delineated** information becomes easier to **extrapolate** and learning **dexterity** increases.\n\nTherefore, **neurofeedback** can make our learning ability more effective and is capable of bringing future changes in education.",
+        "bn": "**Neurofeedback** আমাদের **cognition** এবং শেখার দক্ষতাকে উল্লেখযোগ্যভাবে উন্নত করতে পারে। এটি **cerebral** কার্যকলাপ বিশ্লেষণ করে **optimization** করার মাধ্যমে মস্তিষ্কের কর্মক্ষমতা বৃদ্ধি করে।\n\nগবেষণায় **corroborate** করা হয়েছে যে **neuroplasticity** শেখার **acquisition**এ বড় ভূমিকা রাখে। যখন আমাদের মস্তিষ্ক সঠিক **stimuli** পায়, তখন এটি **proliferation** সৃষ্টি করে, যা নতুন তথ্য সংরক্ষণ করতে সাহায্য করে।\n\nতবে, **impediment** হতে পারে যদি মস্তিষ্কের **fluctuation** অনিয়ন্ত্রিত থাকে। **Neurofeedback** এই সমস্যাগুলো **attenuation** করতে সাহায্য করে এবং **retentive** ক্ষমতা বৃদ্ধি করে।\n\nএটি শুধু তাৎক্ষণিক শেখার জন্য নয়, বরং দীর্ঘমেয়াদে **quintessential** পরিবর্তন আনতে পারে। **Delineate** করা তথ্য দ্রুত **extrapolate** করা সহজ হয় এবং শেখার **dexterity** বাড়ায়।\n\nঅতএব, **neurofeedback** আমাদের শেখার ক্ষমতাকে আরও কার্যকর করতে পারে এবং এটি শিক্ষার ভবিষ্যৎ পরিবর্তন আনতে সক্ষম।"
+    },
+    "list": [
+        {
+            "word": "neurofeedback",
+            "phonetic": "ˈnjʊə.rəʊ ˌfiːd.bæk",
+            "word_native_transliteration": {
+                "bn": "নিউরোফিডব্যাক"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧠",
+            "meaning": "A technique that uses real-time displays of brain activity to teach self-regulation of brain function.",
+            "example_sentence": "Neurofeedback enhances cognitive performance and relaxation.",
+            "example_sentence_native_transliteration": {
+                "bn": "নিউরোফিডব্যাক কগনিটিভ পারফরমেন্স এবং রিল্যাক্সেশন বাড়ায়।"
+            },
+            "position": 1,
+            "synonyms": "biofeedback, brain training, self-regulation",
+            "antonyms": "ignorance, unawareness, inattention",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মস্তিষ্কের কার্যকলাপ পর্যবেক্ষণ ও নিয়ন্ত্রণের প্রযুক্তি",
+                    "word_transliteration": "mosto shtiker karyokolap poryobekkhon o niyontroner projukti",
+                    "example_sentence_translation": "নিউরোফিডব্যাক জ্ঞানীয় কার্যকারিতা এবং শিথিলতা বাড়ায়।",
+                    "example_sentence_transliteration": "Neurofeedback gyaniyo karyokarita ebong shithilota baraye.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cognition",
+            "phonetic": "kɒɡˈnɪʃ.ən",
+            "word_native_transliteration": {
+                "bn": "কগনিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤔",
+            "meaning": "The mental action or process of acquiring knowledge and understanding through thought, experience, and the senses.",
+            "example_sentence": "Cognition plays a key role in problem-solving.",
+            "example_sentence_native_transliteration": {
+                "bn": "কগনিশন প্রবলেম সলভিং-এ কী রোল প্লে করে।"
+            },
+            "position": 2,
+            "synonyms": "perception, awareness, comprehension",
+            "antonyms": "incomprehension, confusion, ignorance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উপলব্ধি, চিন্তা প্রক্রিয়া, মানসিক দক্ষতা",
+                    "word_transliteration": "upalabdhi, chinta prokria, manoshik dokkhota",
+                    "example_sentence_translation": "কগনিশন সমস্যা সমাধানে গুরুত্বপূর্ণ ভূমিকা রাখে।",
+                    "example_sentence_transliteration": "Cognition shomoshya shomadhaney gurutwopurno bhumika rakhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cerebral",
+            "phonetic": "ˈser.ɪ.brəl",
+            "word_native_transliteration": {
+                "bn": "সেরিব্রাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧠",
+            "meaning": "Relating to the brain or intellect rather than emotion or feeling.",
+            "example_sentence": "Cerebral activities require deep concentration.",
+            "example_sentence_native_transliteration": {
+                "bn": "সেরিব্রাল অ্যাক্টিভিটিজ রিকোয়ার ডিপ কনসেনট্রেশন।"
+            },
+            "position": 3,
+            "synonyms": "intellectual, rational, thoughtful",
+            "antonyms": "emotional, instinctive, irrational",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মস্তিষ্কসংক্রান্ত, বুদ্ধিবৃত্তিক, চিন্তাশীল",
+                    "word_transliteration": "mostishko shongkranto, buddhibrittik, chintashil",
+                    "example_sentence_translation": "সেরিব্রাল কার্যকলাপ গভীর মনোযোগের প্রয়োজন।",
+                    "example_sentence_transliteration": "Cerebral karyokolap gobhir monojogir proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "optimization",
+            "phonetic": "ˌɒp.tɪ.maɪ ˈzeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "অপটিমাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "The action of making the best or most effective use of a situation or resource.",
+            "example_sentence": "Website optimization improves user experience.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওয়েবসাইট অপটিমাইজেশন ইউজার এক্সপেরিয়েন্স ইমপ্রুভ করে।"
+            },
+            "position": 4,
+            "synonyms": "enhancement, improvement, refinement",
+            "antonyms": "deterioration, inefficiency, degradation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সর্বোত্তম ব্যবহার, দক্ষতা বৃদ্ধি, উন্নতকরণ",
+                    "word_transliteration": "shorbottom bebhar, dokkhota briddhi, unnotkoron",
+                    "example_sentence_translation": "ওয়েবসাইটের অপটিমাইজেশন ব্যবহারকারীর অভিজ্ঞতা উন্নত করে।",
+                    "example_sentence_transliteration": "Website er optimization bebharkarir obhiggota unnotkorey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "corroborate",
+            "phonetic": "kəˈrɒb.ə.reɪt",
+            "word_native_transliteration": {
+                "bn": "করোবোরেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "✅",
+            "meaning": "Confirm or give support to (a statement, theory, or finding) by providing information or evidence that is consistent with it.",
+            "example_sentence": "Scientific evidence corroborates the theory of evolution.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাইন্টিফিক এভিডেন্স করোবোরেট দ্য থিওরি অব ইভোলিউশন।"
+            },
+            "position": 5,
+            "synonyms": "confirm, validate, substantiate",
+            "antonyms": "contradict, disprove, refute",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সমর্থন করা, প্রমাণ প্রদান, সত্যতা নিশ্চিত করা",
+                    "word_transliteration": "shomorthon kora, proman prodan, shottyota nishchit kora",
+                    "example_sentence_translation": "বৈজ্ঞানিক প্রমাণ বিবর্তন তত্ত্বকে করোবোরেট করে।",
+                    "example_sentence_transliteration": "Boigganik proman biborton tottwoke corroborate kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "neuroplasticity",
+            "phonetic": "ˌnjʊə.rəʊ.plæs ˈtɪs.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "নিউরোপ্লাস্টিসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The ability of neural networks in the brain to change through growth and reorganization.",
+            "example_sentence": "Neuroplasticity allows the brain to adapt to new experiences.",
+            "example_sentence_native_transliteration": {
+                "bn": "নিউরোপ্লাস্টিসিটি দ্য ব্রেইনকে অ্যাডাপ্ট টু নিউ এক্সপেরিয়েন্সেস।"
+            },
+            "position": 6,
+            "synonyms": "brain adaptability, neural flexibility, cognitive rewiring",
+            "antonyms": "rigidity, fixed patterns, stagnation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মস্তিষ্কের অভিযোজন ক্ষমতা, স্নায়ুর পুনর্গঠন",
+                    "word_transliteration": "mostishker obhijojonto ksomota, snayur punorgothon",
+                    "example_sentence_translation": "নিউরোপ্লাস্টিসিটি মস্তিষ্ককে নতুন অভিজ্ঞতার সাথে মানিয়ে নিতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Neuroplasticity mostishkoke notun obhiggotar shathe maniye nite sahajyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "acquisition",
+            "phonetic": "ˌæk.wɪˈzɪʃ.ən",
+            "word_native_transliteration": {
+                "bn": "অ্যাকুইজিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📖",
+            "meaning": "The learning or developing of a skill, habit, or quality.",
+            "example_sentence": "Language acquisition is easier for children.",
+            "example_sentence_native_transliteration": {
+                "bn": "ল্যাঙ্গুয়েজ অ্যাকুইজিশন ইজ ইজিয়ার ফর চিলড্রেন।"
+            },
+            "position": 7,
+            "synonyms": "attainment, procurement, learning",
+            "antonyms": "loss, deprivation, disposal",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অর্জন, অধিগ্রহণ, জ্ঞান বা দক্ষতা অর্জন",
+                    "word_transliteration": "orjon, odhigrohon, gyan ba dokkhota orjon",
+                    "example_sentence_translation": "শিশুদের জন্য ভাষা অ্যাকুইজিশন সহজতর।",
+                    "example_sentence_transliteration": "Shishudor jonno bhasha acquisition shohjtor.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "stimuli",
+            "phonetic": "ˈstɪm.jʊ.laɪ",
+            "word_native_transliteration": {
+                "bn": "স্টিমুলাই"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "Things or events that evoke a specific functional reaction in an organ or tissue.",
+            "example_sentence": "Visual stimuli enhance learning efficiency.",
+            "example_sentence_native_transliteration": {
+                "bn": "ভিজ্যুয়াল স্টিমুলাই এনহান্স লার্নিং এফিশিয়েন্সি।"
+            },
+            "position": 8,
+            "synonyms": "triggers, inducements, catalysts",
+            "antonyms": "suppression, insensitivity, stagnation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্দীপক, প্রভাবক, স্নায়ু উত্তেজক উপাদান",
+                    "word_transliteration": "uddipok, prabhavok, snayu uttejok upadan",
+                    "example_sentence_translation": "চাক্ষুষ স্টিমুলাই শেখার দক্ষতা বাড়ায়।",
+                    "example_sentence_transliteration": "Chakkhush stimuli shekhar dokkhota baraye.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "proliferation",
+            "phonetic": "prəˌlɪf.ərˈeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "প্রোলিফারেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "Rapid increase in the number or amount of something.",
+            "example_sentence": "The proliferation of digital platforms transformed education.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রোলিফারেশন অব ডিজিটাল প্ল্যাটফর্মস ট্রান্সফর্মড এডুকেশন।"
+            },
+            "position": 9,
+            "synonyms": "expansion, multiplication, escalation",
+            "antonyms": "decline, reduction, diminution",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্রুত বিস্তার, বৃদ্ধি, সম্প্রসারণ",
+                    "word_transliteration": "druto bistar, briddhi, shomprosaron",
+                    "example_sentence_translation": "ডিজিটাল প্ল্যাটফর্মের প্রোলিফারেশন শিক্ষায় বিপ্লব ঘটিয়েছে।",
+                    "example_sentence_transliteration": "Digital platformer proliferation shikkhaye biplob ghotiyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "impediment",
+            "phonetic": "ɪmˈped.ɪ.mənt",
+            "word_native_transliteration": {
+                "bn": "ইম্পেডিমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚧",
+            "meaning": "A hindrance or obstruction in doing something.",
+            "example_sentence": "Communication issues can be a major impediment in teamwork.",
+            "example_sentence_native_transliteration": {
+                "bn": "কমিউনিকেশন ইশুজ ক্যান বি এ মেজর ইম্পেডিমেন্ট ইন টিমওয়ার্ক।"
+            },
+            "position": 10,
+            "synonyms": "obstruction, hindrance, barrier",
+            "antonyms": "aid, assistance, facilitation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিবন্ধকতা, বাধা, ব্যাঘাত",
+                    "word_transliteration": "protibandhokota, badha, byaghat",
+                    "example_sentence_translation": "যোগাযোগ সমস্যা দলগত কাজের জন্য বড় ইম্পেডিমেন্ট হতে পারে।",
+                    "example_sentence_transliteration": "Jogajog shomoshya dologoto kajer jonno boro impediment hotey parey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fluctuation",
+            "phonetic": "ˌflʌk.tʃuˈeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ফ্লাকচুয়েশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "An irregular rising and falling in number or amount; a variation.",
+            "example_sentence": "Economic fluctuation affects global trade.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইকোনমিক ফ্লাকচুয়েশন অ্যাফেক্টস গ্লোবাল ট্রেড।"
+            },
+            "position": 11,
+            "synonyms": "variation, instability, oscillation",
+            "antonyms": "stability, consistency, steadiness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ওঠানামা, অস্থিরতা, পরিবর্তন",
+                    "word_transliteration": "othanama, osthirota, poriborton",
+                    "example_sentence_translation": "অর্থনৈতিক ফ্লাকচুয়েশন বিশ্ববাণিজ্যে প্রভাব ফেলে।",
+                    "example_sentence_transliteration": "Orthonaitik fluctuation bishwobanijoye probhab feley.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "attenuation",
+            "phonetic": "əˌten.juˈeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "অ্যাটেনুয়েশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📉",
+            "meaning": "The reduction of the force, effect, or value of something.",
+            "example_sentence": "The attenuation of sound waves affects communication.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যাটেনুয়েশন অব সাউন্ড ওয়েভস অ্যাফেক্টস কমিউনিকেশন।"
+            },
+            "position": 12,
+            "synonyms": "weakening, reduction, diminution",
+            "antonyms": "amplification, strengthening, intensification",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "হ্রাস, দুর্বলতা, সংকোচন",
+                    "word_transliteration": "hrash, durbolota, shonkochon",
+                    "example_sentence_translation": "শব্দ তরঙ্গের অ্যাটেনুয়েশন যোগাযোগে প্রভাব ফেলে।",
+                    "example_sentence_transliteration": "Shobdo toronger attenuation jogajogey probhab feley.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "retentive",
+            "phonetic": "rɪˈten.tɪv",
+            "word_native_transliteration": {
+                "bn": "রিটেন্টিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧠",
+            "meaning": "Having the ability to retain things in one's memory; having a good memory.",
+            "example_sentence": "A retentive memory helps in academic success.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ রিটেন্টিভ মেমরি হেল্পস ইন একাডেমিক সাকসেস।"
+            },
+            "position": 13,
+            "synonyms": "absorptive, recollective, preservative",
+            "antonyms": "forgetful, non-absorbent, impermeable",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ধরে রাখার ক্ষমতা, দীর্ঘস্থায়ী স্মৃতি, শোষণক্ষম",
+                    "word_transliteration": "dhorey rakhar ksomota, dirgho-sthayi smriti, shoshonokshom",
+                    "example_sentence_translation": "একটি রিটেন্টিভ মেমরি শিক্ষাগত সাফল্যে সাহায্য করে।",
+                    "example_sentence_transliteration": "Ekti retentive memory shikkhagoto shafoley sahajyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "quintessential",
+            "phonetic": "ˌkwɪn.tɪ ˈsen.ʃəl",
+            "word_native_transliteration": {
+                "bn": "কুইনটিসেনশিয়াল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⭐",
+            "meaning": "Representing the most perfect or typical example of a quality or class.",
+            "example_sentence": "The Taj Mahal is the quintessential symbol of love.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য তাজমহল ইজ দ্য কুইনটিসেনশিয়াল সিম্বল অব লাভ।"
+            },
+            "position": 14,
+            "synonyms": "ideal, ultimate, archetypal",
+            "antonyms": "atypical, imperfect, deficient",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সর্বোৎকৃষ্ট, নিখুঁত উদাহরণ, চূড়ান্ত",
+                    "word_transliteration": "shorbotkristo, nikhunto udaharon, churanto",
+                    "example_sentence_translation": "তাজমহল ভালোবাসার কুইনটিসেনশিয়াল প্রতীক।",
+                    "example_sentence_transliteration": "Tajmohol bhalobashar quintessential protik.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "delineate",
+            "phonetic": "dɪˈlɪn.i.eɪt",
+            "word_native_transliteration": {
+                "bn": "ডেলিনিয়েট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📝",
+            "meaning": "Describe or portray something precisely.",
+            "example_sentence": "The report delineates the steps of the project.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রিপোর্ট ডেলিনিয়েটস দ্য স্টেপস অব দ্য প্রজেক্ট।"
+            },
+            "position": 15,
+            "synonyms": "describe, depict, outline",
+            "antonyms": "obscure, misrepresent, confuse",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চিত্রিত করা, ব্যাখ্যা করা, নির্ধারণ করা",
+                    "word_transliteration": "chitrito kora, byakha kora, nirdharon kora",
+                    "example_sentence_translation": "প্রতিবেদনটি প্রকল্পের ধাপগুলো ডেলিনিয়েট করে।",
+                    "example_sentence_transliteration": "Protibedonto proklopor dhapgulo delineate korey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "extrapolate",
+            "phonetic": "ɪkˈstræp.ə.leɪt",
+            "word_native_transliteration": {
+                "bn": "এক্সট্রাপোলেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔮",
+            "meaning": "Extend the application of a method or conclusion to an unknown situation by assuming that existing trends will continue.",
+            "example_sentence": "Scientists extrapolate data to predict climate change.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাইন্টিস্টস এক্সট্রাপোলেট ডেটা টু প্রেডিক্ট ক্লাইমেট চেঞ্জ।"
+            },
+            "position": 16,
+            "synonyms": "infer, predict, estimate",
+            "antonyms": "misinterpret, miscalculate, disregard",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনুমান করা, পূর্বাভাস দেওয়া, তথ্যের ভিত্তিতে অনুমান করা",
+                    "word_transliteration": "onuman kora, purno-bhas deoya, totthor bhittitey onuman kora",
+                    "example_sentence_translation": "বিজ্ঞানীরা জলবায়ু পরিবর্তন পূর্বাভাস দিতে তথ্য এক্সট্রাপোলেট করেন।",
+                    "example_sentence_transliteration": "Bigganira jolbayu poriborton purno-bhas ditey tottho extrapolate koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dexterity",
+            "phonetic": "dekˈster.ə.ti",
+            "word_native_transliteration": {
+                "bn": "ডেক্সটারিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤹",
+            "meaning": "Skill in performing tasks, especially with the hands; mental skill or quickness.",
+            "example_sentence": "A surgeon's dexterity is crucial in delicate operations.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ সার্জনস ডেক্সটারিটি ইজ ক্রুশিয়াল ইন ডেলিকেট অপারেশনস।"
+            },
+            "position": 17,
+            "synonyms": "skill, agility, proficiency",
+            "antonyms": "clumsiness, incompetence, ineptitude",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষতা, চটপটতা, সূক্ষ্ম নিয়ন্ত্রণ",
+                    "word_transliteration": "dokkhota, chotpote-ta, shukkho niyontron",
+                    "example_sentence_translation": "একটি অস্ত্রোপচারের জন্য সার্জনের ডেক্সটারিটি অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Ekti ostropocharer jonno surgeonner dexterity otyonto gurutwopurno.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

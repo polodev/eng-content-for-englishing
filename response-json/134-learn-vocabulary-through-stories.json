@@ -1,0 +1,553 @@
+{
+    "position": 134,
+    "title_translation": {
+        "en": "How Time-Blocking Reduces Procrastination",
+        "bn": "কিভাবে Time-blocking প্রক্রাস্টিনেশন কমায়"
+    },
+    "content_translation": {
+        "en": "**Procrastination** is a major **impediment** for many, causing waste of time and becoming **counterproductive**. Those who are not **cognizant** often lose momentum in their work.\n\n**Time-blocking** is such a technique that creates a **conducive** environment and increases focus. It helps us eliminate the **dichotomy**, where on one side there is **ambiguity**, on the other side **clarity** exists.\n\nWhen someone uses **time-blocking**, their **endeavor** becomes more **tangible** and the **dissipation** of time decreases. It acts as a **deterrent**, which prevents us from wasting time on unnecessary **redundant** work.\n\nAn **adept** person can use this method to **mitigate** the **exorbitant** pressure of their work. It not only increases work pace, but also helps **juxtapose** and balance between necessary and **obligatory** tasks.\n\nTherefore, for those who want to get rid of **procrastination**, **time-blocking** is an **indispensable** technique.",
+        "bn": "**Procrastination** অনেকের জন্য একটি বড় **impediment**, যা সময়ের অপচয় ঘটায় এবং **counterproductive** হয়ে ওঠে। যারা **cognizant** নয়, তারা প্রায়শই কাজের গতি হারিয়ে ফেলে।\n\n**Time-blocking** হলো এমন একটি কৌশল, যা **conducive** পরিবেশ তৈরি করে এবং মনোযোগ বৃদ্ধি করে। এটি আমাদের **dichotomy** দূর করতে সাহায্য করে, যেখানে একদিকে **ambiguity**, অন্য দিকে **clarity** থাকে।\n\nযখন কেউ **time-blocking** ব্যবহার করে, তখন তাদের **endeavor** আরও **tangible** হয়ে ওঠে এবং সময়ের **dissipate** হওয়া কমে। এটি একটি **deterrent** হিসেবে কাজ করে, যা আমাদের অপ্রয়োজনীয় **redundant** কাজে সময় নষ্ট করা থেকে বিরত রাখে।\n\nএকজন **adept** ব্যক্তি এই পদ্ধতি ব্যবহার করে তার কাজের **exorbitant** চাপকে **mitigate** করতে পারে। এটি শুধু কাজের গতি বাড়ায় না, বরং **juxtapose** করে প্রয়োজনীয় ও **obligatory** কাজগুলোর মধ্যে ভারসাম্য আনতে সাহায্য করে।\n\nঅতএব, যারা **procrastination** থেকে মুক্তি পেতে চান, তাদের জন্য **time-blocking** একটি **indispensable** কৌশল।"
+    },
+    "list": [
+        {
+            "word": "procrastination",
+            "phonetic": "/prəˌkræs.tɪˈneɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "প্রক্রাস্টিনেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⏳",
+            "meaning": "The practice of delaying or postponing important tasks or activities.",
+            "example_sentence": "Excessive procrastination affects work performance.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সেসিভ প্রক্রাস্টিনেশন অ্যাফেক্টস ওয়ার্ক পারফরমেন্স।"
+            },
+            "position": 1,
+            "synonyms": "delay, postponement, avoidance",
+            "antonyms": "action, productivity, efficiency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গড়িমসি বা কাজ পেছানো",
+                    "word_transliteration": "gorimoshi ba kaj pechhano",
+                    "example_sentence_translation": "অতিরিক্ত গড়িমসি কাজের দক্ষতার ওপর প্রভাব ফেলে।",
+                    "example_sentence_transliteration": "Otirikto gorimoshi kajer dokkhatar opor prabhab fele.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "impediment",
+            "phonetic": "/ɪmˈpɛd.ɪ.mənt/",
+            "word_native_transliteration": {
+                "bn": "ইমপেডিমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚧",
+            "meaning": "A hindrance or obstruction in doing or achieving something.",
+            "example_sentence": "A lack of funds is a major impediment to the project.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ ল্যাক অফ ফান্ডস ইজ এ মেজর ইমপেডিমেন্ট টু দ্য প্রজেক্ট।"
+            },
+            "position": 2,
+            "synonyms": "obstacle, hindrance, barrier",
+            "antonyms": "aid, assistance, facilitation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিবন্ধকতা বা বাধা",
+                    "word_transliteration": "protibondhokota ba badha",
+                    "example_sentence_translation": "তহবিলের অভাব প্রকল্পের জন্য একটি বড় বাধা।",
+                    "example_sentence_transliteration": "Tohobiler abhab prokolper jonno ekti boro badha.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "counterproductive",
+            "phonetic": "/ˌkaʊn.tɚ.prəˈdʌk.tɪv/",
+            "word_native_transliteration": {
+                "bn": "কাউন্টার প্রোডাক্টিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔄",
+            "meaning": "Having the opposite of the desired effect; tending to hinder rather than help.",
+            "example_sentence": "Multitasking can often be counterproductive rather than efficient.",
+            "example_sentence_native_transliteration": {
+                "bn": "মাল্টিট্যাস্কিং ক্যান অফটেন বি কাউন্টার প্রোডাক্টিভ রাদার দ্যান এফিশিয়েন্ট।"
+            },
+            "position": 3,
+            "synonyms": "ineffective, detrimental, harmful",
+            "antonyms": "beneficial, productive, constructive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উল্টো ফলদায়ক বা উৎপাদনশীলতার ক্ষতিকর",
+                    "word_transliteration": "ulto foldayok ba utppadonshilitar khotikor",
+                    "example_sentence_translation": "একই সাথে অনেক কাজ করা কার্যকর না হয়ে উল্টো ক্ষতিকর হতে পারে।",
+                    "example_sentence_transliteration": "Ekoi sathe onek kaj kora karjokkor na hoye ulto khotikor hote pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cognizant",
+            "phonetic": "/ˈkɒɡ.nɪ.zənt/",
+            "word_native_transliteration": {
+                "bn": "কগনিজ্যান্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧠",
+            "meaning": "Having knowledge or awareness of something; being aware.",
+            "example_sentence": "He was cognizant of the risks before making a decision.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি ওয়াজ কগনিজ্যান্ট অফ দ্য রিস্কস বিফোর মেকিং এ ডিসিশন।"
+            },
+            "position": 4,
+            "synonyms": "aware, mindful, informed",
+            "antonyms": "oblivious, unaware, ignorant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সচেতন বা অবগত",
+                    "word_transliteration": "shocheton ba obogoto",
+                    "example_sentence_translation": "তিনি সিদ্ধান্ত নেওয়ার আগে ঝুঁকিগুলোর সম্পর্কে সচেতন ছিলেন।",
+                    "example_sentence_transliteration": "Tini shiddhanto neoar age jhunkigulor shomporke shocheton chhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "time-blocking",
+            "phonetic": "/taɪm ˈblɒk.ɪŋ/",
+            "word_native_transliteration": {
+                "bn": "টাইম ব্লকিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📅",
+            "meaning": "A time management method where you divide your day into blocks of time and assign specific tasks to each block.",
+            "example_sentence": "Using time-blocking helps improve productivity and focus.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইউজিং টাইম ব্লকিং হেল্পস ইমপ্রুভ প্রোডাক্টিভিটি অ্যান্ড ফোকাস।"
+            },
+            "position": 5,
+            "synonyms": "scheduling, time management, task allocation",
+            "antonyms": "disorganization, random tasking, inefficiency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সময় পরিকল্পনা বা নির্দিষ্ট ব্লকে ভাগ করা",
+                    "word_transliteration": "shomoy porikolpona ba nirdhishto bloke bhag kora",
+                    "example_sentence_translation": "সময় পরিকল্পনা ব্যবহার করলে উৎপাদনশীলতা ও মনোযোগ বৃদ্ধি পায়।",
+                    "example_sentence_transliteration": "Shomoy porikolpona bebhohar korle utpadonshilita o monojog briddhi pay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "conducive",
+            "phonetic": "/kənˈdjuː.sɪv/",
+            "word_native_transliteration": {
+                "bn": "কনডিউসিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌟",
+            "meaning": "Making a certain situation or outcome likely or possible; helpful.",
+            "example_sentence": "A quiet environment is conducive to learning.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ কোয়ায়েট এনভায়রনমেন্ট ইজ কনডিউসিভ টু লার্নিং।"
+            },
+            "position": 6,
+            "synonyms": "favorable, supportive, beneficial",
+            "antonyms": "unhelpful, hindering, detrimental",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহায়ক বা উপযোগী",
+                    "word_transliteration": "shahajok ba upojogi",
+                    "example_sentence_translation": "শান্ত পরিবেশ শেখার জন্য সহায়ক।",
+                    "example_sentence_transliteration": "Shanto poribesh shekhar jonno shahajok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dichotomy",
+            "phonetic": "/daɪˈkɒt.ə.mi/",
+            "word_native_transliteration": {
+                "bn": "ডাইকটমি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "A division or contrast between two things that are or are represented as being opposed or entirely different.",
+            "example_sentence": "There is a dichotomy between work and personal life.",
+            "example_sentence_native_transliteration": {
+                "bn": "দেয়ার ইজ এ ডাইকটমি বিটুইন ওয়ার্ক অ্যান্ড পার্সোনাল লাইফ।"
+            },
+            "position": 7,
+            "synonyms": "division, contrast, dualism",
+            "antonyms": "unity, harmony, agreement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্বৈততা বা দ্বন্দ্ব",
+                    "word_transliteration": "dwoittota ba dwondho",
+                    "example_sentence_translation": "কর্মজীবন এবং ব্যক্তিগত জীবনের মধ্যে দ্বৈততা রয়েছে।",
+                    "example_sentence_transliteration": "Kormojibon ebong bektigoto jiboner moddhe dwoittota royechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ambiguity",
+            "phonetic": "/ˌæm.bɪˈɡjuː.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "অ্যাম্বিগিউইটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "❓",
+            "meaning": "The quality of being open to more than one interpretation; inexactness.",
+            "example_sentence": "The contract had too much ambiguity to be legally binding.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কন্ট্র্যাক্ট হ্যাড টু মাচ অ্যাম্বিগিউইটি টু বি লিগ্যালি বাইন্ডিং।"
+            },
+            "position": 8,
+            "synonyms": "vagueness, uncertainty, indistinctness",
+            "antonyms": "clarity, certainty, precision",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অস্পষ্টতা বা দ্ব্যর্থতা",
+                    "word_transliteration": "oshposhtota ba dwjorthota",
+                    "example_sentence_translation": "চুক্তিতে এত বেশি অস্পষ্টতা ছিল যে এটি আইনত বাধ্যতামূলক ছিল না।",
+                    "example_sentence_transliteration": "Chuktite eto beshi oshposhtota chhilo je eti ainoto badhotoamulok chhilo na.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "clarity",
+            "phonetic": "/ˈklær.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "ক্লারিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔍",
+            "meaning": "The quality of being coherent and intelligible; transparency or lucidity.",
+            "example_sentence": "The speaker's clarity made the concept easy to understand.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্পিকারস ক্লারিটি মেড দ্য কনসেপ্ট ইজি টু আন্ডারস্ট্যান্ড।"
+            },
+            "position": 9,
+            "synonyms": "transparency, precision, lucidity",
+            "antonyms": "confusion, ambiguity, uncertainty",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বচ্ছতা বা স্পষ্টতা",
+                    "word_transliteration": "shochhtota ba sposhotota",
+                    "example_sentence_translation": "বক্তার স্বচ্ছতা বিষয়টি সহজে বোঝার সুযোগ করে দিয়েছে।",
+                    "example_sentence_transliteration": "Boktar shochhtota bishoyti shohoje bojhar sujog kore diyechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "endeavor",
+            "phonetic": "/ɪnˈdɛv.ɚ/",
+            "word_native_transliteration": {
+                "bn": "এন্ডেভার"
+            },
+            "parts_of_speech": "noun/verb",
+            "emoji": "💪",
+            "meaning": "An attempt to achieve a goal; to try hard to do or achieve something.",
+            "example_sentence": "His endeavor to start a business was successful.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ এন্ডেভার টু স্টার্ট এ বিজনেস ওয়াজ সাক্সেসফুল।"
+            },
+            "position": 10,
+            "synonyms": "attempt, effort, struggle",
+            "antonyms": "inactivity, neglect, idleness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রচেষ্টা বা কঠোর পরিশ্রম",
+                    "word_transliteration": "procheshta ba kothor porishrom",
+                    "example_sentence_translation": "তার ব্যবসা শুরু করার প্রচেষ্টা সফল হয়েছে।",
+                    "example_sentence_transliteration": "Tar bebsha shuru korar procheshta shofol hoyechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "tangible",
+            "phonetic": "/ˈtæn.dʒɪ.bəl/",
+            "word_native_transliteration": {
+                "bn": "ট্যাঞ্জিবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "👋",
+            "meaning": "Perceptible by touch; clear and definite; real.",
+            "example_sentence": "The benefits of exercise are tangible and measurable.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য বেনিফিটস অফ এক্সারসাইজ আর ট্যাঞ্জিবল অ্যান্ড মেজারেবল।"
+            },
+            "position": 11,
+            "synonyms": "real, concrete, physical",
+            "antonyms": "intangible, abstract, immaterial",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্পষ্ট ও অনুভবযোগ্য",
+                    "word_transliteration": "sposht o onubhobojogjo",
+                    "example_sentence_translation": "ব্যায়ামের সুবিধাগুলো স্পষ্ট ও পরিমাপযোগ্য।",
+                    "example_sentence_transliteration": "Byayamer shubidha gulo sposht o porimapojogjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dissipate",
+            "phonetic": "/ˈdɪs.ɪ.peɪt/",
+            "word_native_transliteration": {
+                "bn": "ডিসিপেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "💨",
+            "meaning": "To disappear gradually; to disperse or scatter.",
+            "example_sentence": "The fog dissipated as the sun rose.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফগ ডিসিপেটেড অ্যাজ দ্য সান রোজ।"
+            },
+            "position": 12,
+            "synonyms": "scatter, disperse, vanish",
+            "antonyms": "accumulate, gather, preserve",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ছড়িয়ে দেওয়া বা অপচয় করা",
+                    "word_transliteration": "chhoriye deoya ba opochoy kora",
+                    "example_sentence_translation": "সূর্য ওঠার সাথে সাথে কুয়াশা দূর হয়ে গেল।",
+                    "example_sentence_transliteration": "Shurjo othar shathe shathe kuyasha dur hoye gelo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "deterrent",
+            "phonetic": "/dɪˈtɜː.rənt/",
+            "word_native_transliteration": {
+                "bn": "ডিটেরেন্ট"
+            },
+            "parts_of_speech": "noun/adjective",
+            "emoji": "🛑",
+            "meaning": "A thing that discourages or is intended to discourage someone from doing something.",
+            "example_sentence": "A strict law serves as a deterrent to crime.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ স্ট্রিক্ট ল সার্ভস অ্যাজ এ ডিটেরেন্ট টু ক্রাইম।"
+            },
+            "position": 13,
+            "synonyms": "hindrance, obstacle, restraint",
+            "antonyms": "encouragement, incentive, motivation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিরোধকারী বা বাধাদানকারী",
+                    "word_transliteration": "protirodh kari ba badha dankari",
+                    "example_sentence_translation": "একটি কঠোর আইন অপরাধের জন্য প্রতিরোধক হিসাবে কাজ করে।",
+                    "example_sentence_transliteration": "Ekti kothor ain oporadher jonno protirodh hishabe kaj kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "redundant",
+            "phonetic": "/rɪˈdʌn.dənt/",
+            "word_native_transliteration": {
+                "bn": "রিডানডেন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔄",
+            "meaning": "Not or no longer needed or useful; superfluous.",
+            "example_sentence": "The report contained redundant information.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রিপোর্ট কনটেইনড রিডানডেন্ট ইনফরমেশন।"
+            },
+            "position": 14,
+            "synonyms": "unnecessary, superfluous, excessive",
+            "antonyms": "essential, necessary, concise",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অপ্রয়োজনীয় বা পুনরুক্ত",
+                    "word_transliteration": "oproyojoniyo ba punorukt",
+                    "example_sentence_translation": "প্রতিবেদনে অপ্রয়োজনীয় তথ্য অন্তর্ভুক্ত ছিল।",
+                    "example_sentence_transliteration": "Protibedone oproyojoniyo tothjo ontorbhukto chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "adept",
+            "phonetic": "/əˈdɛpt/",
+            "word_native_transliteration": {
+                "bn": "অ্যাডেপ্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎯",
+            "meaning": "Very skilled or proficient at something.",
+            "example_sentence": "She is adept at solving complex problems.",
+            "example_sentence_native_transliteration": {
+                "bn": "শী ইজ অ্যাডেপ্ট অ্যাট সল্ভিং কমপ্লেক্স প্রবলেমস।"
+            },
+            "position": 15,
+            "synonyms": "skilled, proficient, expert",
+            "antonyms": "incompetent, inept, unskilled",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষ বা অভিজ্ঞ",
+                    "word_transliteration": "dokkhho ba abhiggo",
+                    "example_sentence_translation": "তিনি জটিল সমস্যা সমাধানে দক্ষ।",
+                    "example_sentence_transliteration": "Tini jotil shomoshja shomadhane dokkhho.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "exorbitant",
+            "phonetic": "/ɪɡˈzɔːr.bɪ.tənt/",
+            "word_native_transliteration": {
+                "bn": "এক্সরবিট্যান্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💰",
+            "meaning": "Unreasonably high in price or amount; excessive.",
+            "example_sentence": "The hotel charged an exorbitant price for a basic room.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য হোটেল চার্জড অ্যান এক্সরবিট্যান্ট প্রাইস ফর এ বেসিক রুম।"
+            },
+            "position": 16,
+            "synonyms": "excessive, overpriced, outrageous",
+            "antonyms": "reasonable, affordable, moderate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতিরিক্ত ব্যয়বহুল",
+                    "word_transliteration": "otirikto byoybohul",
+                    "example_sentence_translation": "হোটেলটি একটি সাধারণ কক্ষের জন্য অত্যধিক মূল্য নির্ধারণ করেছিল।",
+                    "example_sentence_transliteration": "Hotelti ekti shadhaaron kokkher jonno ottodhik muljo nirdharon korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "mitigate",
+            "phonetic": "/ˈmɪt.ɪ.ɡeɪt/",
+            "word_native_transliteration": {
+                "bn": "মিটিগেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⚡",
+            "meaning": "To make less severe, serious, or painful; to lessen.",
+            "example_sentence": "Proper planning can mitigate financial risks.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রপার প্লানিং ক্যান মিটিগেট ফিন্যান্সিয়াল রিস্কস।"
+            },
+            "position": 17,
+            "synonyms": "alleviate, reduce, lessen",
+            "antonyms": "aggravate, intensify, exacerbate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রশমিত করা বা কমানো",
+                    "word_transliteration": "proshomito kora ba komano",
+                    "example_sentence_translation": "সঠিক পরিকল্পনা আর্থিক ঝুঁকি প্রশমিত করতে পারে।",
+                    "example_sentence_transliteration": "Shothik porikolpona arthik jhunki proshomito korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "juxtapose",
+            "phonetic": "/ˈdʒʌk.stə.poʊz/",
+            "word_native_transliteration": {
+                "bn": "জাক্সটাপোজ"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⚖️",
+            "meaning": "To place or deal with close together for contrasting effect.",
+            "example_sentence": "The artist juxtaposed traditional and modern elements in his painting.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য আর্টিস্ট জাক্সটাপোজড ট্র্যাডিশনাল অ্যান্ড মডার্ন এলিমেন্টস ইন হিজ পেইন্টিং।"
+            },
+            "position": 18,
+            "synonyms": "compare, contrast, align",
+            "antonyms": "separate, disconnect, isolate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পারস্পরিক তুলনার জন্য পাশাপাশি রাখা",
+                    "word_transliteration": "parshporik tulonai jonno pashapashi rakha",
+                    "example_sentence_translation": "শিল্পী তার চিত্রকর্মে ঐতিহ্যবাহী ও আধুনিক উপাদান পাশাপাশি রেখেছেন।",
+                    "example_sentence_transliteration": "Shilpi tar chitrokormer oitihjobahi o adhunik upadaan pashapashi rekhechhen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "obligatory",
+            "phonetic": "/əˈblɪɡ.ə.tɔː.ri/",
+            "word_native_transliteration": {
+                "bn": "অবলিগেটরি"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "✅",
+            "meaning": "Required by a legal, moral, or other rule; compulsory.",
+            "example_sentence": "Wearing a seatbelt is obligatory in most countries.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওয়েরিং এ সিটবেল্ট ইজ অবলিগেটরি ইন মোস্ট কান্ট্রিজ।"
+            },
+            "position": 19,
+            "synonyms": "mandatory, required, compulsory",
+            "antonyms": "optional, voluntary, unnecessary",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাধ্যতামূলক বা অবশ্য পালনীয়",
+                    "word_transliteration": "badhtoamulok ba oboshjo paloniyio",
+                    "example_sentence_translation": "বেশিরভাগ দেশে সিটবেল্ট পরা বাধ্যতামূলক।",
+                    "example_sentence_transliteration": "Beshirbhag deshe seatbelt pora badhtoamulok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "indispensable",
+            "phonetic": "/ˌɪn.dɪˈspɛn.sə.bəl/",
+            "word_native_transliteration": {
+                "bn": "ইনডিসপেনসেবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔑",
+            "meaning": "Absolutely necessary; essential.",
+            "example_sentence": "Water is indispensable for human survival.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওয়াটার ইজ ইনডিসপেনসেবল ফর হিউম্যান সারভাইভাল।"
+            },
+            "position": 20,
+            "synonyms": "essential, crucial, vital",
+            "antonyms": "dispensable, unimportant, nonessential",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অপরিহার্য বা অত্যাবশ্যক",
+                    "word_transliteration": "oporiharjo ba ottoaboshok",
+                    "example_sentence_translation": "মানবজীবনের জন্য পানি অপরিহার্য।",
+                    "example_sentence_transliteration": "Manobjibooner jonno pani oporiharjo.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

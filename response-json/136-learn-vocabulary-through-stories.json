@@ -1,0 +1,499 @@
+{
+    "position": 136,
+    "title_translation": {
+        "en": "How to Develop Leadership Skills?",
+        "bn": "নেতৃত্বের দক্ষতা কীভাবে অর্জন করবেন?"
+    },
+    "content_translation": {
+        "en": "Leadership development is not limited to **decisiveness** and **proficiency** alone, but **circumspection** and **discretion** are also extremely important. When a leader works with **meticulousness**, their decisions become more effective. Such leaders always show **altruism** and **magnanimity**, which builds trust and respect among team members. **Judiciousness** and **insightfulness** are essential in leadership, as they ensure **equanimity** in decision-making. If a leader maintains **self-possession**, they can successfully handle any **ephemeral** situation.\n\nTo develop **fortitude** and **tenacity** in a team, leaders should show **largesse** and **diligence**. Properly following **rectitude** and dedication to leadership can be **exemplary**, which becomes an ideal for the team.",
+        "bn": "নেতৃত্বের দক্ষতা অর্জন শুধুমাত্র **decisiveness** এবং **proficiency** নিয়ে সীমাবদ্ধ নয়, বরং এতে **circumspection** এবং **discretion** ও অত্যন্ত গুরুত্বপূর্ণ। একজন নেতা যখন **meticulousness** নিয়ে কাজ করেন, তখন তাদের সিদ্ধান্ত আরও কার্যকরী হয়। এধরনের নেতা সবসময় **altruism** এবং **magnanimity** দেখান, যা দলের সদস্যদের মধ্যে বিশ্বাস ও শ্রদ্ধা গড়ে তোলে। **Judiciousness** এবং **insightfulness** নেতৃত্বে অপরিহার্য, কারণ এগুলো সিদ্ধান্ত গ্রহণের ক্ষেত্রে **equanimity** নিশ্চিত করে। একজন নেতা যদি নিজের মধ্যে **self-possession** বজায় রাখেন, তবে তারা যেকোনো **ephemeral** পরিস্থিতি সফলভাবে মোকাবিলা করতে পারেন।\n\nএকটি দলের **fortitude** এবং **tenacity** বিকাশের জন্য নেতা হিসেবে **largesse** এবং **diligence** দেখানো উচিত। সঠিকভাবে **rectitude** অনুসরণ করা এবং নেতৃত্বের প্রতি নিষ্ঠা **exemplary** হতে পারে, যা দলের কাছে আদর্শ হয়ে ওঠে।"
+    },
+    "list": [
+        {
+            "word": "decisiveness",
+            "phonetic": "dɪˈsʌɪsɪvnɪs",
+            "word_native_transliteration": {
+                "bn": "ডিসাইসিভনেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "The ability to make decisions quickly and effectively.",
+            "example_sentence": "His decisiveness during the crisis saved the company.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ডিসাইসিভনেস ডিউরিং দ্য ক্রাইসিস সেভড দ্য কোম্পানি।"
+            },
+            "position": 1,
+            "synonyms": "determination, resolution",
+            "antonyms": "indecisiveness, hesitation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সিদ্ধান্ত গ্রহণের ক্ষমতা",
+                    "word_transliteration": "siddhanto grohoner khomota",
+                    "example_sentence_translation": "সংকটকালে তার সিদ্ধান্তগ্রহণ কোম্পানিকে বাঁচিয়ে দেয়।",
+                    "example_sentence_transliteration": "Shongkotokale tar siddhanto grohon companike bachiye dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "proficiency",
+            "phonetic": "prəˈfɪʃənsi",
+            "word_native_transliteration": {
+                "bn": "প্রফিসিয়েন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "Competency or skill in doing or using something.",
+            "example_sentence": "She showed proficiency in multiple languages.",
+            "example_sentence_native_transliteration": {
+                "bn": "শী শোড প্রফিসিয়েন্সি ইন মাল্টিপল ল্যাঙ্গুয়েজেস।"
+            },
+            "position": 2,
+            "synonyms": "expertise, mastery",
+            "antonyms": "incompetence, inefficiency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষতা, সক্ষমতা",
+                    "word_transliteration": "dokhkhota, shokhkhomota",
+                    "example_sentence_translation": "সে একাধিক ভাষায় দক্ষতা দেখিয়েছিল।",
+                    "example_sentence_transliteration": "She ekadhik vashay dokhkhota dekhiyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "circumspection",
+            "phonetic": "ˌsɜːkəmˈspekʃən",
+            "word_native_transliteration": {
+                "bn": "সারকামস্পেকশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔍",
+            "meaning": "The quality of being wary and unwilling to take risks; prudence.",
+            "example_sentence": "His circumspection ensured no mistakes were made.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ সারকামস্পেকশন এনশিউরড নো মিসটেকস ওয়্যার মেড।"
+            },
+            "position": 3,
+            "synonyms": "caution, prudence",
+            "antonyms": "recklessness, impulsiveness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সতর্কতা, চিন্তা-ভাবনা করে পদক্ষেপ নেওয়া",
+                    "word_transliteration": "shotorkota, chinta-vabna kore podokkhep neowa",
+                    "example_sentence_translation": "তার সতর্কতা নিশ্চিত করেছিল যে কোনও ভুল হয়নি।",
+                    "example_sentence_transliteration": "Tar shotorkota nishchit korechhilo je kono vul hoyni.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "discretion",
+            "phonetic": "dɪˈskrɛʃən",
+            "word_native_transliteration": {
+                "bn": "ডিসক্রেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤐",
+            "meaning": "The quality of behaving or speaking in such a way as to avoid causing offense or revealing private information.",
+            "example_sentence": "She handled the situation with great discretion.",
+            "example_sentence_native_transliteration": {
+                "bn": "শী হ্যান্ডলড দ্য সিচুয়েশন উইথ গ্রেট ডিসক্রেশন।"
+            },
+            "position": 4,
+            "synonyms": "prudence, judgment",
+            "antonyms": "indiscretion, carelessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিচক্ষণতা, সংযম",
+                    "word_transliteration": "bichokkhonota, shongyom",
+                    "example_sentence_translation": "সে পরিস্থিতি অত্যন্ত বিচক্ষণতার সাথে পরিচালনা করেছে।",
+                    "example_sentence_transliteration": "She porishthiti ottyonto bichokkhonatar shathe porichalona korechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "meticulousness",
+            "phonetic": "mɪˈtɪkjʊləsnɪs",
+            "word_native_transliteration": {
+                "bn": "মেটিকুলাসনেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "Great attention to detail; very careful and precise.",
+            "example_sentence": "His meticulousness made the project successful.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ মেটিকুলাসনেস মেড দ্য প্রজেক্ট সাকসেসফুল।"
+            },
+            "position": 5,
+            "synonyms": "precision, carefulness",
+            "antonyms": "negligence, carelessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "খুঁতখুঁতে মনোভাব, বিস্তারিতভাবে কাজ করা",
+                    "word_transliteration": "khutkhute monobhab, bistaritobhabe kaj kora",
+                    "example_sentence_translation": "তার খুঁতখুঁতে মনোভাব প্রকল্পটিকে সফল করেছে।",
+                    "example_sentence_transliteration": "Tar khutkhute monobhab prokolpotike shofol korechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "altruism",
+            "phonetic": "ˈæltruɪzəm",
+            "word_native_transliteration": {
+                "bn": "আলট্রুইজম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "❤️",
+            "meaning": "The belief in or practice of disinterested and selfless concern for the well-being of others.",
+            "example_sentence": "His altruism motivated others to volunteer.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ আলট্রুইজম মোটিভেটেড আদারস টু ভলান্টিয়ার।"
+            },
+            "position": 6,
+            "synonyms": "selflessness, generosity",
+            "antonyms": "selfishness, egoism",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরার্থপরতা, অন্যের উপকারে নিজেকে উৎসর্গ করা",
+                    "word_transliteration": "porarthporata, onner upokare nijeke utshorgo kora",
+                    "example_sentence_translation": "তার পরার্থপরতা অন্যদের স্বেচ্ছাসেবী হতে উৎসাহিত করেছিল।",
+                    "example_sentence_transliteration": "Tar porarthporata onnyoder shbecchashevi hote utsahito korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "magnanimity",
+            "phonetic": "ˌmæɡnəˈnɪmɪti",
+            "word_native_transliteration": {
+                "bn": "ম্যাগনানিমিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👑",
+            "meaning": "Generosity in forgiving an insult or injury; forbearance.",
+            "example_sentence": "His magnanimity towards his competitors was admirable.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ম্যাগনানিমিটি টুওয়ার্ডস হিজ কোম্পিটিটরস ওয়াজ অ্যাডমায়ারেবল।"
+            },
+            "position": 7,
+            "synonyms": "generosity, nobility",
+            "antonyms": "meanness, petty",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মহানুভবতা, বড় মন",
+                    "word_transliteration": "mohanovatoa, boro mon",
+                    "example_sentence_translation": "তার প্রতিদ্বন্দ্বীদের প্রতি মহানুভবতা প্রশংসনীয় ছিল।",
+                    "example_sentence_transliteration": "Tar protidvondhider proti mohanovatoa proshongshoniyo chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "judiciousness",
+            "phonetic": "dʒʊˈdɪʃəsnɪs",
+            "word_native_transliteration": {
+                "bn": "জুডিশিয়াসনেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "Having, showing, or done with good judgment or sense.",
+            "example_sentence": "Her judiciousness in making decisions was appreciated.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার জুডিশিয়াসনেস ইন মেকিং ডিসিশনস ওয়াজ অ্যাপ্রিসিয়েটেড।"
+            },
+            "position": 8,
+            "synonyms": "wisdom, thoughtfulness",
+            "antonyms": "impulsiveness, rashness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিচক্ষণতা, বুদ্ধিমত্তার সাথে সিদ্ধান্ত গ্রহণ",
+                    "word_transliteration": "bichokkhonota, buddhimottar shathe siddhanto grohon",
+                    "example_sentence_translation": "সিদ্ধান্ত গ্রহণে তার বিচক্ষণতা প্রশংসিত হয়েছিল।",
+                    "example_sentence_transliteration": "Siddhanto grohone tar bichokkhonota proshongshito hoyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "insightfulness",
+            "phonetic": "ˌɪnˈsaɪtfʊlnɪs",
+            "word_native_transliteration": {
+                "bn": "ইনসাইটফুলনেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💡",
+            "meaning": "The capacity to gain an accurate and deep intuitive understanding of a person or thing.",
+            "example_sentence": "His insightfulness helped solve the complex problem.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ইনসাইটফুলনেস হেল্পড সলভ দ্য কোম্প্লেক্স প্রবলেম।"
+            },
+            "position": 9,
+            "synonyms": "perception, awareness",
+            "antonyms": "shortsightedness, ignorance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গভীর উপলব্ধি, বিশ্লেষণের ক্ষমতা",
+                    "word_transliteration": "govir upolabdhi, bishlesoner khomota",
+                    "example_sentence_translation": "তার গভীর উপলব্ধি জটিল সমস্যার সমাধান করতে সাহায্য করেছিল।",
+                    "example_sentence_transliteration": "Tar govir upolabdhi jotil shomoshyar shomadhan korte shahajyo korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "equanimity",
+            "phonetic": "ˌiːkwəˈnɪməti",
+            "word_native_transliteration": {
+                "bn": "ইকুয়ানিমিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧘",
+            "meaning": "Mental calmness, composure, and evenness of temper, especially in a difficult situation.",
+            "example_sentence": "She handled the news with remarkable equanimity.",
+            "example_sentence_native_transliteration": {
+                "bn": "শী হ্যান্ডলড দ্য নিউজ উইথ রিমার্কেবল ইকুয়ানিমিটি।"
+            },
+            "position": 10,
+            "synonyms": "calmness, composure",
+            "antonyms": "agitation, anxiety",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শান্ত মন, অশান্তির মধ্যে স্থিরতা",
+                    "word_transliteration": "shanto mon, oshantir modhye sthirata",
+                    "example_sentence_translation": "সে সংবাদটি বিস্ময়কর শান্তির সাথে গ্রহণ করেছিল।",
+                    "example_sentence_transliteration": "She shongbadoti bishmoykkor shantir shathe grohon korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "self-possession",
+            "phonetic": "ˈsɛlf pəˈzɪʃən",
+            "word_native_transliteration": {
+                "bn": "সেলফ-পজিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎭",
+            "meaning": "The quality of being calm and confident and in control of one's emotions; composure.",
+            "example_sentence": "His self-possession during the crisis was remarkable.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ সেলফ-পজিশন ডিউরিং দ্য ক্রাইসিস ওয়াজ রিমার্কেবল।"
+            },
+            "position": 11,
+            "synonyms": "composure, control",
+            "antonyms": "panic, disarray",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আত্মনিয়ন্ত্রণ, নিজের উপর নিয়ন্ত্রণ",
+                    "word_transliteration": "attoniontron, nijer upor niontron",
+                    "example_sentence_translation": "সংকটকালে তার আত্মনিয়ন্ত্রণ প্রশংসনীয় ছিল।",
+                    "example_sentence_transliteration": "Shongkotokale tar attoniontron proshongshoniyo chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ephemeral",
+            "phonetic": "ɪˈfɛmərəl",
+            "word_native_transliteration": {
+                "bn": "এফেমেরাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💨",
+            "meaning": "Lasting for a very short time.",
+            "example_sentence": "The beauty of the sunset was ephemeral.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য বিউটি অব দ্য সানসেট ওয়াজ এফেমেরাল।"
+            },
+            "position": 12,
+            "synonyms": "transitory, fleeting",
+            "antonyms": "permanent, enduring",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্ষণস্থায়ী, অস্থায়ী",
+                    "word_transliteration": "kkhonoshthayee, osthayee",
+                    "example_sentence_translation": "সূর্যাস্তের সৌন্দর্য ক্ষণস্থায়ী ছিল।",
+                    "example_sentence_transliteration": "Shurjashter shounddorjo kkhonoshthayee chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fortitude",
+            "phonetic": "ˈfɔːtɪtjuːd",
+            "word_native_transliteration": {
+                "bn": "ফোর্টিটিউড"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "Courage in pain or adversity.",
+            "example_sentence": "Her fortitude in facing difficulties inspired many.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার ফোর্টিটিউড ইন ফেসিং ডিফিকাল্টিজ ইনস্পায়ারড মেনি।"
+            },
+            "position": 13,
+            "synonyms": "courage, strength",
+            "antonyms": "weakness, timidity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সাহস, সহনশক্তি",
+                    "word_transliteration": "shahos, shohonshokti",
+                    "example_sentence_translation": "কঠিন পরিস্থিতির মুখে তার সাহস অনেককে অনুপ্রাণিত করেছিল।",
+                    "example_sentence_transliteration": "Kothin porishthitir mukhe tar shahos onekke onupranito korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "tenacity",
+            "phonetic": "təˈnæsɪti",
+            "word_native_transliteration": {
+                "bn": "টেনাসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔥",
+            "meaning": "The quality or fact of being able to grip something firmly; grip.",
+            "example_sentence": "His tenacity in pursuing his dreams paid off.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ টেনাসিটি ইন পারসুইং হিজ ড্রিমস পেইড অফ।"
+            },
+            "position": 14,
+            "synonyms": "determination, perseverance",
+            "antonyms": "indifference, lethargy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দৃঢ়তা, একাগ্রতা",
+                    "word_transliteration": "drirhota, ekagrota",
+                    "example_sentence_translation": "তার স্বপ্ন পূরণের জন্য দৃঢ়তা তার সাফল্য এনে দিয়েছে।",
+                    "example_sentence_transliteration": "Tar shopno purone jonno drirhota tar shafollyo ene diyechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "largesse",
+            "phonetic": "lɑːˈʒɛs",
+            "word_native_transliteration": {
+                "bn": "লারজেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎁",
+            "meaning": "Generosity in bestowing money or gifts upon others.",
+            "example_sentence": "His largesse towards the charity was greatly appreciated.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ লারজেস টুওয়ার্ডস দ্য চ্যারিটি ওয়াজ গ্রেটলি অ্যাপ্রিসিয়েটেড।"
+            },
+            "position": 15,
+            "synonyms": "generosity, charity",
+            "antonyms": "stinginess, greed",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দানশীলতা, বড়দিল হওয়া",
+                    "word_transliteration": "danshilota, borodil howa",
+                    "example_sentence_translation": "তার দানের প্রতি দানশীলতা প্রশংসিত হয়েছিল।",
+                    "example_sentence_transliteration": "Tar daner proti danshilota proshongshito hoyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "diligence",
+            "phonetic": "ˈdɪlɪdʒəns",
+            "word_native_transliteration": {
+                "bn": "ডিলিজেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📚",
+            "meaning": "Careful and persistent work or effort.",
+            "example_sentence": "His diligence at work has led to his promotion.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ডিলিজেন্স অ্যাট ওয়ার্ক হ্যাজ লেড টু হিজ প্রোমোশন।"
+            },
+            "position": 16,
+            "synonyms": "industry, assiduity",
+            "antonyms": "laziness, negligence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিশ্রম, যত্নশীলতা",
+                    "word_transliteration": "porishrom, jottonshilota",
+                    "example_sentence_translation": "কাজে তার পরিশ্রম তাকে পদোন্নতি এনে দিয়েছে।",
+                    "example_sentence_transliteration": "Kaje tar porishrom take podonnoti ene diyechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "rectitude",
+            "phonetic": "ˈrɛktɪtjuːd",
+            "word_native_transliteration": {
+                "bn": "রেকটিটিউড"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "Morally correct behavior or thinking; righteousness.",
+            "example_sentence": "His rectitude earned him the respect of his colleagues.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ রেকটিটিউড আর্নড হিম দ্য রিস্পেক্ট অব হিজ কলিগস।"
+            },
+            "position": 17,
+            "synonyms": "integrity, morality",
+            "antonyms": "corruption, dishonesty",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সততা, ন্যায়পরায়ণতা",
+                    "word_transliteration": "shotota, nyayporayonta",
+                    "example_sentence_translation": "তার সততা তাকে সহকর্মীদের শ্রদ্ধা এনে দিয়েছে।",
+                    "example_sentence_transliteration": "Tar shotota take shohokormider shroddha ene diyechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "exemplary",
+            "phonetic": "ɪɡˈzɛmpləri",
+            "word_native_transliteration": {
+                "bn": "এক্সেমপ্লারি"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌟",
+            "meaning": "Serving as a desirable model; representing the best of its kind.",
+            "example_sentence": "Her exemplary performance in the competition earned her first place.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার এক্সেমপ্লারি পারফরমেন্স ইন দ্য কোম্পিটিশন আর্নড হার ফার্স্ট প্লেস।"
+            },
+            "position": 18,
+            "synonyms": "model, outstanding",
+            "antonyms": "unremarkable, inferior",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আদর্শ, শ্রেষ্ঠ, দৃষ্টান্তমূলক",
+                    "word_transliteration": "adarsh, shreshto, drishtantomulok",
+                    "example_sentence_translation": "প্রতিযোগিতায় তার আদর্শ প্রদর্শনী তাকে প্রথম স্থান এনে দিয়েছে।",
+                    "example_sentence_transliteration": "Protijogitay tar adarsh prodorshoni take prothom sthan ene diyechhe.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

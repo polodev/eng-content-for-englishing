@@ -1,0 +1,607 @@
+{
+    "position": 124,
+    "title_translation": {
+        "en": "How Internet Transformed Global Communication",
+        "bn": "কীভাবে ইন্টারনেট বিশ্বব্যাপী যোগাযোগে রূপান্তর ঘটিয়েছে"
+    },
+    "content_translation": {
+        "en": "The **metamorphosis** of global **communication** has been primarily driven by the **internet** as the biggest **catalyst**. It's not just about **dissemination** of information, but has brought about a **convergence** of human thought, business, and culture. Previously, information flow was **fragmented**, but through **hyperconnectivity**, the world has now become **homogeneous**. Now any information reaches with **immediacy**, creating instant impact even if it's **ephemeral**.\n\nThe **proliferation** of the **internet** has **revolutionized** communication systems. The **ubiquity** of social media has increased human **interoperability**, making the world more **synergized**.\n\nOnce communication required months of waiting, but now **exponential** progress has made it possible in just seconds. The **paradigm** has changed, creating **omnipresent** connectivity.\n\nEvery part of the world is now **permeated** by the **internet**, which has **facilitated** the **propagation** of knowledge and culture.",
+        "bn": "বিশ্বব্যাপী **communication**-এর **metamorphosis** ঘটানোর পেছনে **internet** সবচেয়ে বড় **catalyst** হিসেবে কাজ করেছে। এটি শুধুমাত্র তথ্যের **dissemination** নয়, বরং মানুষের চিন্তাধারা, ব্যবসা এবং সংস্কৃতির **convergence** ঘটিয়েছে। আগে তথ্য প্রবাহ ছিল **fragmented**, কিন্তু **hyperconnectivity**-এর মাধ্যমে এখন বিশ্ব হয়ে উঠেছে **homogeneous**। এখন যেকোনো তথ্য **immediacy** নিয়ে পৌঁছে যায়, যা **ephemeral** হলেও তাৎক্ষণিক প্রভাব ফেলে।\n\n**Internet**-এর **proliferation** যোগাযোগ ব্যবস্থাকে **revolutionize** করেছে। সামাজিক যোগাযোগমাধ্যমের **ubiquity** মানুষের **interoperability** বাড়িয়েছে, যা বিশ্বকে আরও **synergized** করেছে।\n\nএকসময় যোগাযোগের জন্য মাসের পর মাস অপেক্ষা করতে হতো, কিন্তু এখন **exponential** উন্নতির ফলে তা কয়েক সেকেন্ডেই সম্ভব। **Paradigm** বদলে এখন **omnipresent** সংযোগ রয়েছে।\n\nবিশ্বের প্রতিটি অংশ এখন **permeate** হয়ে গেছে **internet** দ্বারা, যা **facilitate** করেছে জ্ঞান ও সংস্কৃতির **propagation**।"
+    },
+    "list": [
+        {
+            "word": "communication",
+            "phonetic": "/kəˌmjuːnɪˈkeɪʃən/",
+            "word_native_transliteration": {
+                "bn": "কমিউনিকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💬",
+            "meaning": "The imparting or exchanging of information or ideas.",
+            "example_sentence": "Effective communication is key to successful teamwork.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইফেক্টিভ কমিউনিকেশন ইজ কি টু সাক্সেসফুল টিমওয়ার্ক।"
+            },
+            "position": 1,
+            "synonyms": "conveyance, articulation",
+            "antonyms": "miscommunication, silence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "যোগাযোগ, বার্তা আদান-প্রদান, সংলাপ",
+                    "word_transliteration": "jogajog, barta adan-prodan, shonglap",
+                    "example_sentence_translation": "কার্যকর কমিউনিকেশন সফল দলগত কাজের মূল চাবিকাঠি।",
+                    "example_sentence_transliteration": "Karjokor communication shofol dolgoto kajer mul chabikathi.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "metamorphosis",
+            "phonetic": "/ˌmetəˈmɔːfəsɪs/",
+            "word_native_transliteration": {
+                "bn": "মেটামরফোসিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🦋",
+            "meaning": "A change of the form or nature of a thing or person into a completely different one.",
+            "example_sentence": "The company underwent a major metamorphosis in its business model.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি আন্ডারওয়েন্ট এ মেজর মেটামরফোসিস ইন ইটস বিজনেস মডেল।"
+            },
+            "position": 2,
+            "synonyms": "transformation, evolution",
+            "antonyms": "stagnation, constancy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রূপান্তর, পরিবর্তন, বিবর্তন",
+                    "word_transliteration": "rupantor, poriborton, biborton",
+                    "example_sentence_translation": "কোম্পানিটি তাদের ব্যবসায়িক মডেলে বিশাল মেটামরফোসিস এনেছে।",
+                    "example_sentence_transliteration": "Companiti tader byabshayik modele bishal metamorphosis eneche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "internet",
+            "phonetic": "/ˈɪntənet/",
+            "word_native_transliteration": {
+                "bn": "ইন্টারনেট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌐",
+            "meaning": "A global computer network providing a variety of information and communication facilities.",
+            "example_sentence": "The internet has revolutionized the way we access information.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইন্টারনেট হ্যাজ রেভলিউশনাইজড দ্য ওয়ে উই এক্সেস ইনফরমেশন।"
+            },
+            "position": 3,
+            "synonyms": "cyberspace, web",
+            "antonyms": "offline, disconnection",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিশ্বব্যাপী তথ্য বিনিময় মাধ্যম",
+                    "word_transliteration": "bishobbyapi tothyo binimoy madhom",
+                    "example_sentence_translation": "ইন্টারনেট আমাদের তথ্য সংগ্রহের পদ্ধতিতে বিপ্লব এনেছে।",
+                    "example_sentence_transliteration": "Internet amader tothyo shongroher poddhitite biplob eneche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "catalyst",
+            "phonetic": "/ˈkætəlɪst/",
+            "word_native_transliteration": {
+                "bn": "ক্যাটালিস্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "A person or thing that precipitates an event or change.",
+            "example_sentence": "Innovation acts as a catalyst for economic growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনোভেশন অ্যাক্টস অ্যাজ এ ক্যাটালিস্ট ফর ইকোনমিক গ্রোথ।"
+            },
+            "position": 4,
+            "synonyms": "stimulus, motivator",
+            "antonyms": "hindrance, obstacle",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনুঘটক, পরিবর্তনের প্ররোচক, উদ্দীপক",
+                    "word_transliteration": "onughotak, poribortoner prorochok, uddipok",
+                    "example_sentence_translation": "উদ্ভাবন অর্থনৈতিক প্রবৃদ্ধির ক্যাটালিস্ট হিসেবে কাজ করে।",
+                    "example_sentence_transliteration": "Udbhabon orthonaitik probriddher catalyst hishebe kaj kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dissemination",
+            "phonetic": "/dɪˌsemɪˈneɪʃən/",
+            "word_native_transliteration": {
+                "bn": "ডিসেমিনেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📡",
+            "meaning": "The action of spreading something, especially information, widely.",
+            "example_sentence": "The dissemination of knowledge empowers societies.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডিসেমিনেশন অব নলেজ এমপাওয়ারস সোসাইটিস।"
+            },
+            "position": 5,
+            "synonyms": "distribution, circulation",
+            "antonyms": "suppression, withholding",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রচার, প্রসার, তথ্য বিস্তার",
+                    "word_transliteration": "prochar, proshar, tothyo bistar",
+                    "example_sentence_translation": "জ্ঞানের ডিসেমিনেশন সমাজকে ক্ষমতায়িত করে।",
+                    "example_sentence_transliteration": "Gyaner dissemination shomajke khomotayito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "convergence",
+            "phonetic": "/kənˈvɜːdʒəns/",
+            "word_native_transliteration": {
+                "bn": "কনভার্জেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔗",
+            "meaning": "The process or state of converging.",
+            "example_sentence": "The convergence of technology and education has enhanced learning.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কনভার্জেন্স অব টেকনোলজি অ্যান্ড এডুকেশন হ্যাজ এনহান্সড লার্নিং।"
+            },
+            "position": 6,
+            "synonyms": "unification, merging",
+            "antonyms": "divergence, separation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একীকরণ, সংযোজন, মিলন",
+                    "word_transliteration": "ekikaron, shongjojn, milon",
+                    "example_sentence_translation": "প্রযুক্তি ও শিক্ষার কনভার্জেন্স শিক্ষাকে আরও উন্নত করেছে।",
+                    "example_sentence_transliteration": "Projuktio shikkhar convergence shikkhake aro unnoto koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fragmented",
+            "phonetic": "/ˈfræɡməntɪd/",
+            "word_native_transliteration": {
+                "bn": "ফ্র্যাগমেন্টেড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧩",
+            "meaning": "Having been broken into fragments; disjointed or incomplete.",
+            "example_sentence": "The information was fragmented and difficult to understand.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইনফরমেশন ওয়াজ ফ্র্যাগমেন্টেড অ্যান্ড ডিফিকাল্ট টু আন্ডারস্ট্যান্ড।"
+            },
+            "position": 7,
+            "synonyms": "disjointed, incoherent",
+            "antonyms": "unified, cohesive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "খণ্ডিত, বিভক্ত, অসম্পূর্ণ",
+                    "word_transliteration": "khondito, bibhokto, oshompurno",
+                    "example_sentence_translation": "তথ্যগুলো ফ্র্যাগমেন্টেড হওয়ায় বুঝতে কষ্ট হয়েছে।",
+                    "example_sentence_transliteration": "Tothyogulo fragmented hoay bujhte koshto hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "hyperconnectivity",
+            "phonetic": "/ˌhaɪpəkəˈnektɪvɪti/",
+            "word_native_transliteration": {
+                "bn": "হাইপারকানেক্টিভিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌍",
+            "meaning": "The state of being extensively connected to other people, places, information, etc., through digital technology.",
+            "example_sentence": "Hyperconnectivity has changed the dynamics of human interaction.",
+            "example_sentence_native_transliteration": {
+                "bn": "হাইপারকানেক্টিভিটি হ্যাজ চেঞ্জড দ্য ডায়নামিক্স অব হিউম্যান ইন্টারঅ্যাকশন।"
+            },
+            "position": 8,
+            "synonyms": "interconnectivity, digital linkage",
+            "antonyms": "isolation, disconnection",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতি সংযুক্ততা, উচ্চ সংযোগ",
+                    "word_transliteration": "oti shongjuktota, uchcho shongjog",
+                    "example_sentence_translation": "হাইপারকানেক্টিভিটি মানব মিথস্ক্রিয়ার গতিশীলতা পরিবর্তন করেছে।",
+                    "example_sentence_transliteration": "Hyperconnectivity manob mithskriyar gotishilota poriborton koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "homogeneous",
+            "phonetic": "/ˌhɒməˈdʒiːniəs/",
+            "word_native_transliteration": {
+                "bn": "হোমোজেনিয়াস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚖️",
+            "meaning": "Of the same kind; alike.",
+            "example_sentence": "The team was not homogeneous in their skills.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য টিম ওয়াজ নট হোমোজেনিয়াস ইন দেয়ার স্কিলস।"
+            },
+            "position": 9,
+            "synonyms": "uniform, consistent",
+            "antonyms": "heterogeneous, diverse",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অভিন্ন, একরূপ, সমজাতীয়",
+                    "word_transliteration": "obhinno, ekrup, shomjatiyo",
+                    "example_sentence_translation": "দলের সদস্যদের দক্ষতা হোমোজেনিয়াস ছিল না।",
+                    "example_sentence_transliteration": "Doler shodoshdoder dokkhota homogeneous chilo na.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "immediacy",
+            "phonetic": "/ɪˈmiːdiəsi/",
+            "word_native_transliteration": {
+                "bn": "ইমিডিয়াসি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "The quality of bringing one into direct and instant involvement with something, giving rise to a sense of urgency or excitement.",
+            "example_sentence": "The immediacy of digital communication has reshaped business operations.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইমিডিয়াসি অব ডিজিটাল কমিউনিকেশন হ্যাজ রিশেইপড বিজনেস অপারেশনস।"
+            },
+            "position": 10,
+            "synonyms": "urgency, promptness",
+            "antonyms": "delay, postponement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "তাৎক্ষণিকতা, দ্রুততা, অবিলম্বিত অবস্থা",
+                    "word_transliteration": "tatkhonikota, druttota, obilombito obostha",
+                    "example_sentence_translation": "ডিজিটাল যোগাযোগের ইমিডিয়াসি ব্যবসার কার্যপ্রণালী বদলে দিয়েছে।",
+                    "example_sentence_transliteration": "Digital jogajoger immediacy byabshar karjopronali bodle diyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ephemeral",
+            "phonetic": "/ɪˈfemərəl/",
+            "word_native_transliteration": {
+                "bn": "ইফেমেরাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💨",
+            "meaning": "Lasting for a very short time.",
+            "example_sentence": "Ephemeral beauty fades with time.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইফেমেরাল বিউটি ফেডস উইথ টাইম।"
+            },
+            "position": 11,
+            "synonyms": "transitory, fleeting",
+            "antonyms": "eternal, permanent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্ষণস্থায়ী, অস্থায়ী, স্বল্পস্থায়ী",
+                    "word_transliteration": "kkhonshthayi, oshthayi, sholposhthayi",
+                    "example_sentence_translation": "ইফেমেরাল সৌন্দর্য সময়ের সাথে ম্লান হয়ে যায়।",
+                    "example_sentence_transliteration": "Ephemeral shoundorjo shomayer shathe mlan hoye jay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "proliferation",
+            "phonetic": "/prəˌlɪfəˈreɪʃən/",
+            "word_native_transliteration": {
+                "bn": "প্রোলিফারেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "Rapid increase in numbers.",
+            "example_sentence": "The proliferation of mobile devices has transformed communication.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রোলিফারেশন অব মোবাইল ডিভাইসেস হ্যাজ ট্রান্সফরমড কমিউনিকেশন।"
+            },
+            "position": 12,
+            "synonyms": "expansion, multiplication",
+            "antonyms": "decline, reduction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্রুত বৃদ্ধি, বিস্তার, সম্প্রসারণ",
+                    "word_transliteration": "druto briddhi, bistar, somprosaron",
+                    "example_sentence_translation": "মোবাইল ডিভাইসের প্রোলিফারেশন যোগাযোগ ব্যবস্থায় বিপ্লব এনেছে।",
+                    "example_sentence_transliteration": "Mobile deviceser proliferation jogajog byabosthay biplob eneche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "revolutionize",
+            "phonetic": "/ˌrevəˈluːʃənaɪz/",
+            "word_native_transliteration": {
+                "bn": "রেভল্যুশনাইজ"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔄",
+            "meaning": "Change (something) radically or fundamentally.",
+            "example_sentence": "Artificial intelligence is set to revolutionize the healthcare sector.",
+            "example_sentence_native_transliteration": {
+                "bn": "আর্টিফিশিয়াল ইন্টেলিজেন্স ইজ সেট টু রেভল্যুশনাইজ দ্য হেলথকেয়ার সেক্টর।"
+            },
+            "position": 13,
+            "synonyms": "transform, innovate",
+            "antonyms": "preserve, maintain",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আমূল পরিবর্তন আনা, বিপ্লব ঘটানো",
+                    "word_transliteration": "amul poriborton ana, biplob ghotano",
+                    "example_sentence_translation": "কৃত্রিম বুদ্ধিমত্তা স্বাস্থ্য খাতে রেভল্যুশনাইজ আনতে চলেছে।",
+                    "example_sentence_transliteration": "Kritrim buddhimotta shasthyo khate revolutionize ante choleche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ubiquity",
+            "phonetic": "/juːˈbɪkwəti/",
+            "word_native_transliteration": {
+                "bn": "ইউবিকুইটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌟",
+            "meaning": "The fact of appearing everywhere or of being very common.",
+            "example_sentence": "The ubiquity of smartphones has changed human behavior.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইউবিকুইটি অব স্মার্টফোনস হ্যাজ চেঞ্জড হিউম্যান বিহেভিয়ার।"
+            },
+            "position": 14,
+            "synonyms": "omnipresence, universality",
+            "antonyms": "rarity, scarcity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সর্বত্র বিদ্যমানতা, ব্যাপক উপস্থিতি",
+                    "word_transliteration": "shorbotra biddomanta, byapok uposhthiti",
+                    "example_sentence_translation": "স্মার্টফোনের ইউবিকুইটি মানুষের আচরণ বদলে দিয়েছে।",
+                    "example_sentence_transliteration": "Smartphoner ubiquity manusher achron bodle diyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "interoperability",
+            "phonetic": "/ˌɪntərˌɒpərəˈbɪləti/",
+            "word_native_transliteration": {
+                "bn": "ইন্টারঅপারেবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔗",
+            "meaning": "The ability of computer systems or software to exchange and make use of information.",
+            "example_sentence": "The interoperability of different software systems ensures seamless workflow.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইন্টারঅপারেবিলিটি অব ডিফারেন্ট সফটওয়্যার সিস্টেমস এনশিওরস সিমলেস ওয়ার্কফ্লো।"
+            },
+            "position": 15,
+            "synonyms": "compatibility, integration",
+            "antonyms": "incompatibility, isolation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পারস্পরিক কার্যক্ষমতা, সামঞ্জস্যতা",
+                    "word_transliteration": "paroshporik karjokkhomota, shamanjoshota",
+                    "example_sentence_translation": "বিভিন্ন সফটওয়্যার সিস্টেমের ইন্টারঅপারেবিলিটি নিরবিচ্ছিন্ন কার্যপ্রবাহ নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Bibhinno softoyar systemer interoperability nirobichinno karjoprobah nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "synergized",
+            "phonetic": "/ˈsɪnɚdʒaɪzd/",
+            "word_native_transliteration": {
+                "bn": "সিনার্জাইজড"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🤝",
+            "meaning": "Combine in such a way that the total effect is greater than the sum of the individual effects.",
+            "example_sentence": "The teams were synergized to maximize productivity.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য টিমস ওয়্যার সিনার্জাইজড টু ম্যাক্সিমাইজ প্রোডাক্টিভিটি।"
+            },
+            "position": 16,
+            "synonyms": "harmonized, unified",
+            "antonyms": "fragmented, disjointed",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একত্রিত করা, শক্তি বৃদ্ধি করা, সমন্বয় সাধন",
+                    "word_transliteration": "ektrito kora, shokti briddhi kora, shomonboy sadhon",
+                    "example_sentence_translation": "উৎপাদনশীলতা বাড়ানোর জন্য দলগুলো সিনার্জাইজড করা হয়েছিল।",
+                    "example_sentence_transliteration": "Utpadonshilota baranor jonyo dolgulo synergized kora hoyechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "exponential",
+            "phonetic": "/ˌekspəˈnenʃəl/",
+            "word_native_transliteration": {
+                "bn": "এক্সপোনেনশিয়াল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📊",
+            "meaning": "(of an increase) becoming more and more rapid.",
+            "example_sentence": "The exponential growth of e-commerce is reshaping the retail industry.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এক্সপোনেনশিয়াল গ্রোথ অব ই-কমার্স ইজ রিশেইপিং দ্য রিটেইল ইন্ডাস্ট্রি।"
+            },
+            "position": 17,
+            "synonyms": "rapid, accelerated",
+            "antonyms": "gradual, slow",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্রুতগতিতে বৃদ্ধি, জ্যামিতিক হারে বৃদ্ধি",
+                    "word_transliteration": "drutogotite briddhi, jyamitik hare briddhi",
+                    "example_sentence_translation": "ই-কমার্সের এক্সপোনেনশিয়াল বৃদ্ধি খুচরা শিল্পকে নতুন রূপ দিচ্ছে।",
+                    "example_sentence_transliteration": "E-commercer exponential briddhi khuchra shilpoke notun rup dichche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "paradigm",
+            "phonetic": "/ˈpærədaɪm/",
+            "word_native_transliteration": {
+                "bn": "প্যারাডাইম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "A typical example or pattern of something; a model.",
+            "example_sentence": "This new business model serves as a paradigm for future enterprises.",
+            "example_sentence_native_transliteration": {
+                "bn": "দিস নিউ বিজনেস মডেল সার্ভস অ্যাজ এ প্যারাডাইম ফর ফিউচার এন্টারপ্রাইজেস।"
+            },
+            "position": 18,
+            "synonyms": "prototype, framework",
+            "antonyms": "anomaly, deviation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আদর্শ মডেল, উদাহরণ, দৃষ্টান্ত",
+                    "word_transliteration": "adorsho model, udaharon, drishtanto",
+                    "example_sentence_translation": "এই নতুন ব্যবসায়িক মডেল ভবিষ্যৎ উদ্যোগের জন্য প্যারাডাইম হয়ে উঠেছে।",
+                    "example_sentence_transliteration": "Ei notun byabshayik model bhobishyot uddoger jonyo paradigm hoye utheche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "omnipresent",
+            "phonetic": "/ˌɒmnɪˈprezənt/",
+            "word_native_transliteration": {
+                "bn": "অমনিপ্রেজেন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "👁️",
+            "meaning": "(of God) present everywhere at the same time.",
+            "example_sentence": "Social media has become an omnipresent force in modern society.",
+            "example_sentence_native_transliteration": {
+                "bn": "সোশ্যাল মিডিয়া হ্যাজ বিকাম অ্যান অমনিপ্রেজেন্ট ফোর্স ইন মডার্ন সোসাইটি।"
+            },
+            "position": 19,
+            "synonyms": "ubiquitous, ever-present",
+            "antonyms": "absent, limited",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সর্বত্র বিদ্যমান, সর্বব্যাপী",
+                    "word_transliteration": "shorbotra biddoman, shorbbyapi",
+                    "example_sentence_translation": "সামাজিক যোগাযোগমাধ্যম আধুনিক সমাজে অমনিপ্রেজেন্ট শক্তি হয়ে উঠেছে।",
+                    "example_sentence_transliteration": "Shamajik jogajogmadhom adhunik shomaje omnipresent shokti hoye utheche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "permeate",
+            "phonetic": "/ˈpɜːmieɪt/",
+            "word_native_transliteration": {
+                "bn": "পারমিয়েট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "💧",
+            "meaning": "Spread throughout (something); pervade.",
+            "example_sentence": "The scent of fresh flowers permeated the entire room.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সেন্ট অব ফ্রেশ ফ্লাওয়ারস পারমিয়েটেড দ্য এনটায়ার রুম।"
+            },
+            "position": 20,
+            "synonyms": "penetrate, diffuse",
+            "antonyms": "contain, block",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ছড়িয়ে পড়া, অনুপ্রবেশ করা, বিস্তার লাভ করা",
+                    "word_transliteration": "choriye pora, onuprobesh kora, bistar labh kora",
+                    "example_sentence_translation": "তাজা ফুলের সুগন্ধ পুরো ঘরজুড়ে পারমিয়েট হয়ে গেল।",
+                    "example_sentence_transliteration": "Taja fuler shugondho puro ghorjure permeate hoye gelo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "facilitate",
+            "phonetic": "/fəˈsɪlɪteɪt/",
+            "word_native_transliteration": {
+                "bn": "ফ্যাসিলিটেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🛠️",
+            "meaning": "Make (an action or process) easier or help bring about.",
+            "example_sentence": "Online learning platforms facilitate education for students worldwide.",
+            "example_sentence_native_transliteration": {
+                "bn": "অনলাইন লার্নিং প্ল্যাটফর্মস ফ্যাসিলিটেট এডুকেশন ফর স্টুডেন্টস ওয়ার্ল্ডওয়াইড।"
+            },
+            "position": 21,
+            "synonyms": "simplify, enable",
+            "antonyms": "hinder, obstruct",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহজ করা, সহায়তা করা, কার্যকারিতা বৃদ্ধি করা",
+                    "word_transliteration": "shohoj kora, shohayota kora, karjokarita briddhi kora",
+                    "example_sentence_translation": "অনলাইন লার্নিং প্ল্যাটফর্ম শিক্ষার্থীদের জন্য শিক্ষা ফ্যাসিলিটেট করে।",
+                    "example_sentence_transliteration": "Online learning platform shikkharthider jonyo shikkha facilitate kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "propagation",
+            "phonetic": "/ˌprɒpəˈɡeɪʃən/",
+            "word_native_transliteration": {
+                "bn": "প্রোপাগেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📢",
+            "meaning": "The action of spreading and promoting an idea, theory, etc.",
+            "example_sentence": "The propagation of ideas through social media is rapid.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রোপাগেশন অব আইডিয়াস থ্রু সোশ্যাল মিডিয়া ইজ র‍্যাপিড।"
+            },
+            "position": 22,
+            "synonyms": "dissemination, expansion",
+            "antonyms": "suppression, confinement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিস্তার, প্রচার, বংশবৃদ্ধি",
+                    "word_transliteration": "bistar, prochar, bongshobiddhi",
+                    "example_sentence_translation": "সামাজিক যোগাযোগ মাধ্যমে ধারণাগুলোর প্রোপাগেশন খুব দ্রুত ঘটে।",
+                    "example_sentence_transliteration": "Shamajik jogajog madhome dharonagulor propagation khub druto ghote.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

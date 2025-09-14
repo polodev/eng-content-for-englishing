@@ -1,0 +1,526 @@
+{
+    "position": 122,
+    "title_translation": {
+        "en": "How Globalization Affects World Economies",
+        "bn": "Globalization কীভাবে বিশ্ব অর্থনীতিকে প্রভাবিত করে"
+    },
+    "content_translation": {
+        "en": "**Globalization** has brought significant changes to the current world economy. With increased **convergence** between different countries, the **affluence** of international **trade** has grown. However, this can create **disparity**, where developed countries become economically stronger and developing countries face **marginalization**. Many countries have adopted **liberalization** policies, resulting in increased **outsourcing** and **privatization**. As a result, some countries have been able to achieve economic **consolidation**, while others have seen market contraction due to **protectionism** policies. Although **macroeconomic** development has occurred, some areas experience **fluctuation**, which happens due to **bureaucracy** and policy complexities. Large companies achieve **monopolization** and control markets, causing small businesses to face **subjugation**. However, through **globalization**, **diversification** can be increased, which can bring economic stability. With proper **restructuring** and fair **tariff** policies, the global economy can become more transparent.",
+        "bn": "Globalization বর্তমান বিশ্বের অর্থনীতিতে বিশাল পরিবর্তন এনেছে। বিভিন্ন দেশের মধ্যে convergence বৃদ্ধি পাওয়ায় আন্তর্জাতিক trade-এর affluence বেড়েছে। তবে, এটি disparity তৈরি করতে পারে, যেখানে উন্নত দেশগুলো অর্থনৈতিকভাবে শক্তিশালী হয় এবং অনুন্নত দেশগুলো marginalization এর শিকার হয়। অনেক দেশ liberalization নীতি গ্রহণ করেছে, যার ফলে outsourcing এবং privatization বেড়ে গিয়েছে। এর ফলে কিছু দেশ অর্থনৈতিকভাবে consolidation করতে সক্ষম হয়েছে, আবার কিছু দেশে protectionism নীতির কারণে বাজার সংকুচিত হয়েছে। Macroeconomic উন্নয়ন ঘটলেও, কিছু ক্ষেত্রে fluctuation দেখা যায়, যা bureaucracy এবং নীতিগত জটিলতার জন্য হয়ে থাকে। বড় কোম্পানিগুলো monopolization করে বাজার নিয়ন্ত্রণ করে, ফলে ছোট ব্যবসাগুলো subjugation এর মুখে পড়ে। তবে, globalization এর মাধ্যমে diversification বাড়ানো সম্ভব, যা অর্থনৈতিক স্থিতিশীলতা আনতে পারে। সঠিক restructuring এবং ন্যায্য tariff নীতি গ্রহণ করলে বিশ্ব অর্থনীতি আরও স্বচ্ছ হতে পারে।"
+    },
+    "list": [
+        {
+            "word": "globalization",
+            "phonetic": "ˌɡloʊ.bəl.aɪˈzeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "গ্লোবালাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌍",
+            "meaning": "The process by which businesses or other organizations develop international influence or start operating on an international scale.",
+            "example_sentence": "Globalization has connected economies across the world.",
+            "example_sentence_native_transliteration": {
+                "bn": "গ্লোবালাইজেশন হ্যাজ কানেক্টেড ইকনমিজ অ্যাক্রস দ্য ওয়ার্ল্ড।"
+            },
+            "position": 1,
+            "synonyms": "internationalization, integration, expansion",
+            "antonyms": "isolation, protectionism, nationalism",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিশ্বায়ন",
+                    "word_transliteration": "bishwayon",
+                    "example_sentence_translation": "বিশ্বায়ন বিশ্বব্যাপী অর্থনীতিকে সংযুক্ত করেছে।",
+                    "example_sentence_transliteration": "Bishwayon bishbbyapi orthoniti-ke shongjukto koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "convergence",
+            "phonetic": "kənˈvɜː.dʒəns",
+            "word_native_transliteration": {
+                "bn": "কনভার্জেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔗",
+            "meaning": "The process or state of converging or coming together.",
+            "example_sentence": "The convergence of technology and healthcare has led to medical advancements.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কনভার্জেন্স অফ টেকনোলজি অ্যান্ড হেলথকেয়ার হ্যাজ লেড টু মেডিক্যাল অ্যাডভান্সমেন্টস।"
+            },
+            "position": 2,
+            "synonyms": "union, merging, alignment",
+            "antonyms": "divergence, separation, deviation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একত্রিত হওয়া বা মিলন",
+                    "word_transliteration": "ektrito howa ba milon",
+                    "example_sentence_translation": "প্রযুক্তি ও স্বাস্থ্যসেবার সংযোগ চিকিৎসা ক্ষেত্রে অগ্রগতি এনেছে।",
+                    "example_sentence_transliteration": "Projukti o shasthyosebar shongjog chikitsha kkhetre ogogoti eneche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "trade",
+            "phonetic": "treɪd",
+            "word_native_transliteration": {
+                "bn": "ট্রেড"
+            },
+            "parts_of_speech": "noun/verb",
+            "emoji": "💼",
+            "meaning": "The action of buying and selling goods and services.",
+            "example_sentence": "Trade agreements help boost economic growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "ট্রেড অ্যাগ্রিমেন্টস হেল্প বুস্ট ইকনমিক গ্রোথ।"
+            },
+            "position": 3,
+            "synonyms": "commerce, exchange, transactions",
+            "antonyms": "self-sufficiency, hoarding, monopoly",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাণিজ্য বা ব্যবসায়িক লেনদেন",
+                    "word_transliteration": "banijyo ba byabsayik lenden",
+                    "example_sentence_translation": "বাণিজ্য চুক্তি অর্থনৈতিক প্রবৃদ্ধিকে ত্বরান্বিত করে।",
+                    "example_sentence_transliteration": "Banijyo chukti orthnoitik probriddhike ttoranbit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "affluence",
+            "phonetic": "ˈæf.lu.əns",
+            "word_native_transliteration": {
+                "bn": "অ্যাফ্লুয়েন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💰",
+            "meaning": "The state of having a great deal of money; wealth.",
+            "example_sentence": "His affluence allowed him to travel the world.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ অ্যাফ্লুয়েন্স অ্যালাউড হিম টু ট্রাভেল দ্য ওয়ার্ল্ড।"
+            },
+            "position": 4,
+            "synonyms": "wealth, prosperity, opulence",
+            "antonyms": "poverty, scarcity, hardship",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ধনসম্পদ বা সমৃদ্ধি",
+                    "word_transliteration": "dhonshompod ba shomridhi",
+                    "example_sentence_translation": "তার সম্পদ তাকে সারা বিশ্ব ভ্রমণের সুযোগ দিয়েছে।",
+                    "example_sentence_transliteration": "Tar shompod take shara bishbo bhromoner sujog diyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "disparity",
+            "phonetic": "dɪˈspær.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "ডিস্প্যারিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "A great difference between things; inequality.",
+            "example_sentence": "Economic disparity exists between rural and urban areas.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইকনমিক ডিস্প্যারিটি এক্সিস্টস বিটুইন রুরাল অ্যান্ড আর্বান এরিয়াজ।"
+            },
+            "position": 5,
+            "synonyms": "inequality, imbalance, difference",
+            "antonyms": "equality, uniformity, fairness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পার্থক্য বা বৈষম্য",
+                    "word_transliteration": "parthokko ba boishomyo",
+                    "example_sentence_translation": "গ্রাম ও শহরের মধ্যে অর্থনৈতিক বৈষম্য বিদ্যমান।",
+                    "example_sentence_transliteration": "Gram o shohorer moddhe orthnoitik boishomyo biddoman.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "marginalization",
+            "phonetic": "ˌmɑːr.dʒɪ.nəl.aɪˈzeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "মার্জিনালাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚫",
+            "meaning": "The treatment of a person, group, or concept as insignificant or peripheral.",
+            "example_sentence": "Economic policies should address the marginalization of the poor.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইকনমিক পলিসিজ শুড অ্যাড্রেস দ্য মার্জিনালাইজেশন অফ দ্য পুওর।"
+            },
+            "position": 6,
+            "synonyms": "exclusion, discrimination, alienation",
+            "antonyms": "inclusion, empowerment, recognition",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রান্তিকীকরণ বা অবহেলা",
+                    "word_transliteration": "prantikirron ba obohela",
+                    "example_sentence_translation": "অর্থনৈতিক নীতিগুলো দরিদ্রদের প্রান্তিকীকরণ মোকাবেলা করা উচিত।",
+                    "example_sentence_transliteration": "Orthnoitik nitigulo doriddroder prantikirron mokabela kora uchit.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "liberalization",
+            "phonetic": "ˌlɪb.ər.ə.laɪˈzeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "লিবারালাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔓",
+            "meaning": "The removal or loosening of restrictions on something, typically an economic or political system.",
+            "example_sentence": "The liberalization of trade policies attracted foreign investments.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য লিবারালাইজেশন অফ ট্রেড পলিসিজ অ্যাট্র্যাক্টেড ফরেন ইনভেস্টমেন্টস।"
+            },
+            "position": 7,
+            "synonyms": "deregulation, free market, relaxation",
+            "antonyms": "regulation, restriction, control",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উন্মুক্তকরণ বা শিথিলকরণ",
+                    "word_transliteration": "unmuktokoron ba shithilkoron",
+                    "example_sentence_translation": "বাণিজ্য নীতির শিথিলকরণ বিদেশি বিনিয়োগ আকৃষ্ট করেছে।",
+                    "example_sentence_transliteration": "Banijyo nitir shithilkoron bideshi biniyog akrishto koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "outsourcing",
+            "phonetic": "ˈaʊt.sɔːr.sɪŋ",
+            "word_native_transliteration": {
+                "bn": "আউটসোর্সিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌐",
+            "meaning": "The practice of having certain job functions done outside a company instead of having an in-house department or employee handle them.",
+            "example_sentence": "Many companies use outsourcing to reduce labor costs.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেনি কোম্পানিজ ইউজ আউটসোর্সিং টু রিডিউস লেবার কস্টস।"
+            },
+            "position": 8,
+            "synonyms": "contracting, delegation, offshoring",
+            "antonyms": "insourcing, domestic hiring, internalization",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বহিঃসংশ্লেষ বা বিদেশে কাজ স্থানান্তর",
+                    "word_transliteration": "bohishongshlesh ba bideshe kaj sthananthor",
+                    "example_sentence_translation": "অনেক কোম্পানি শ্রম খরচ কমানোর জন্য বহিঃসংশ্লেষ ব্যবহার করে।",
+                    "example_sentence_transliteration": "Onek company shrom khoroch komano jonno bohishongshlesh byabohar kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "privatization",
+            "phonetic": "ˌpraɪ.vɪ.taɪˈzeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "প্রাইভেটাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏢",
+            "meaning": "The transfer of a business, industry, or service from public to private ownership and control.",
+            "example_sentence": "The privatization of state-owned companies increased efficiency.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রাইভেটাইজেশন অফ স্টেট-ওনড কোম্পানিজ ইনক্রিজড এফিশিয়েন্সি।"
+            },
+            "position": 9,
+            "synonyms": "commercialization, private ownership, de-nationalization",
+            "antonyms": "nationalization, public ownership, socialization",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বেসরকারি করণ",
+                    "word_transliteration": "beshorokari koron",
+                    "example_sentence_translation": "রাষ্ট্রায়ত্ত কোম্পানিগুলোর বেসরকারিকরণ দক্ষতা বৃদ্ধি করেছে।",
+                    "example_sentence_transliteration": "Rashtrayotto companigulor beshorokariroron dokkhota briddhi koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "consolidation",
+            "phonetic": "kənˌsɒl.ɪˈdeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "কনসলিডেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "The action or process of making something stronger or more solid.",
+            "example_sentence": "The consolidation of companies led to a more efficient business structure.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কনসলিডেশন অফ কোম্পানিজ লেড টু এ মোর এফিশিয়েন্ট বিজনেস স্ট্রাকচার।"
+            },
+            "position": 10,
+            "synonyms": "merger, unification, strengthening",
+            "antonyms": "fragmentation, division, separation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একীভবন বা সংহতি",
+                    "word_transliteration": "ekirobbon ba shonghoti",
+                    "example_sentence_translation": "কোম্পানিগুলোর একীভবন একটি আরও কার্যকর ব্যবসায়িক কাঠামো তৈরি করেছে।",
+                    "example_sentence_transliteration": "Companigulor ekirobbon ekti aro karjokoro byabsayik kathamo toiri koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "protectionism",
+            "phonetic": "prəˈtɛk.ʃə.nɪ.zəm",
+            "word_native_transliteration": {
+                "bn": "প্রোটেকশনিজম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛡️",
+            "meaning": "The theory or practice of shielding a country's domestic industries from foreign competition by taxing imports.",
+            "example_sentence": "The government's protectionism helped local businesses grow.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গভর্নমেন্টস প্রোটেকশনিজম হেল্পড লোকাল বিজনেসেস গ্রো।"
+            },
+            "position": 11,
+            "synonyms": "trade restriction, tariff policy, economic isolation",
+            "antonyms": "free trade, liberalization, globalization",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সুরক্ষাবাদ বা বাণিজ্য সংরক্ষণনীতি",
+                    "word_transliteration": "shurokkhabad ba banijyo shongrokhkhonniti",
+                    "example_sentence_translation": "সরকারের সুরক্ষাবাদ স্থানীয় ব্যবসাকে বৃদ্ধি করতে সহায়তা করেছে।",
+                    "example_sentence_transliteration": "Shorokarer shurokkhabad sthanyo byabsake briddhi korte shohajota koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "macroeconomic",
+            "phonetic": "ˌmæk.roʊ.iː.kəˈnɒm.ɪk",
+            "word_native_transliteration": {
+                "bn": "ম্যাক্রোইকনমিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📊",
+            "meaning": "Relating to the large-scale or general economic factors, such as interest rates and national productivity.",
+            "example_sentence": "Government policies impact macroeconomic stability.",
+            "example_sentence_native_transliteration": {
+                "bn": "গভর্নমেন্ট পলিসিজ ইমপ্যাক্ট ম্যাক্রোইকনমিক স্টেবিলিটি।"
+            },
+            "position": 12,
+            "synonyms": "national economy, economic trends, large-scale financial system",
+            "antonyms": "microeconomic, individual finance, localized economy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সামষ্টিক অর্থনৈতিক",
+                    "word_transliteration": "shamoshtik orthnoitik",
+                    "example_sentence_translation": "সরকারের নীতি সামষ্টিক অর্থনৈতিক স্থিতিশীলতাকে প্রভাবিত করে।",
+                    "example_sentence_transliteration": "Shorokarer niti shamoshtik orthnoitik sthitishilotake probhabito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fluctuation",
+            "phonetic": "ˌflʌk.tʃuˈeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ফ্লাকচুয়েশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "An irregular rising and falling in number or amount; a variation.",
+            "example_sentence": "The stock market experiences frequent fluctuation.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্টক মার্কেট এক্সপেরিয়েন্সেস ফ্রিকোয়েন্ট ফ্লাকচুয়েশন।"
+            },
+            "position": 13,
+            "synonyms": "variability, instability, volatility",
+            "antonyms": "stability, consistency, predictability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উত্থান-পতন বা অস্থিরতা",
+                    "word_transliteration": "utthan-poton ba osthirota",
+                    "example_sentence_translation": "শেয়ার বাজারে প্রায়ই উত্থান-পতন ঘটে।",
+                    "example_sentence_transliteration": "Sheyar bajare prayi utthan-poton ghote.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "bureaucracy",
+            "phonetic": "bjʊəˈrɒk.rə.si",
+            "word_native_transliteration": {
+                "bn": "ব্যুরোক্রেসি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏛️",
+            "meaning": "A system of government in which most of the important decisions are made by state officials rather than by elected representatives.",
+            "example_sentence": "Excessive bureaucracy can slow down decision-making.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সেসিভ ব্যুরোক্রেসি ক্যান স্লো ডাউন ডিসিশন-মেকিং।"
+            },
+            "position": 14,
+            "synonyms": "administration, red tape, officialdom",
+            "antonyms": "flexibility, efficiency, simplicity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আমলাতন্ত্র বা জটিল প্রশাসনিক ব্যবস্থা",
+                    "word_transliteration": "amlotontro ba jotil proshasonik byabostha",
+                    "example_sentence_translation": "অতিরিক্ত আমলাতন্ত্র সিদ্ধান্ত গ্রহণে বিলম্ব ঘটাতে পারে।",
+                    "example_sentence_transliteration": "Otirikto amlotontro siddhanto grohone bilambo ghatate pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "monopolization",
+            "phonetic": "məˌnɒp.ə.laɪˈzeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "মনোপলাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👑",
+            "meaning": "The process of gaining exclusive possession or control of a trade, commodity, or service.",
+            "example_sentence": "The monopolization of industries can limit consumer choices.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য মনোপলাইজেশন অফ ইন্ডাস্ট্রিজ ক্যান লিমিট কনজিউমার চয়সেস।"
+            },
+            "position": 15,
+            "synonyms": "domination, exclusivity, control",
+            "antonyms": "competition, free market, decentralization",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একচেটিয়া নিয়ন্ত্রণ",
+                    "word_transliteration": "ekchetiya niyontron",
+                    "example_sentence_translation": "শিল্পের একচেটিয়া নিয়ন্ত্রণ ভোক্তাদের বিকল্প কমিয়ে দিতে পারে।",
+                    "example_sentence_transliteration": "Shilper ekchetiya niyontron bhoktader bikola komiye dite pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "subjugation",
+            "phonetic": "ˌsʌb.dʒʊˈɡeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "সাবজুগেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⛓️",
+            "meaning": "The action of bringing someone or something under domination or control, especially by force.",
+            "example_sentence": "The subjugation of weaker nations by colonial powers shaped history.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সাবজুগেশন অফ উইকার নেশনস বাই কলোনিয়াল পাওয়ার্স শেইপড হিস্টোরি।"
+            },
+            "position": 16,
+            "synonyms": "oppression, domination, enslavement",
+            "antonyms": "liberation, freedom, empowerment",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বশীকরণ বা অধীনতা",
+                    "word_transliteration": "boshiroron ba adhinta",
+                    "example_sentence_translation": "ঔপনিবেশিক শক্তির দ্বারা দুর্বল দেশগুলোর বশীকরণ ইতিহাস গঠনে ভূমিকা রেখেছে।",
+                    "example_sentence_transliteration": "Ouponibishik shoktir dhara durbol deshgulor boshiroron itihas gothone bhumika rekheche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "diversification",
+            "phonetic": "daɪˌvɜː.sɪ.fɪˈkeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ডাইভার্সিফিকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌈",
+            "meaning": "The process of a business enlarging or varying its range of products or field of operation.",
+            "example_sentence": "Companies adopt diversification strategies to reduce risk.",
+            "example_sentence_native_transliteration": {
+                "bn": "কোম্পানিজ অ্যাডপ্ট ডাইভার্সিফিকেশন স্ট্র্যাটেজিস টু রিডিউস রিস্ক।"
+            },
+            "position": 17,
+            "synonyms": "expansion, variation, differentiation",
+            "antonyms": "specialization, uniformity, narrow focus",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৈচিত্র্যকরণ",
+                    "word_transliteration": "boichitrokoron",
+                    "example_sentence_translation": "সংস্থাগুলি ঝুঁকি কমাতে বৈচিত্র্যকরণ কৌশল গ্রহণ করে।",
+                    "example_sentence_transliteration": "Shongsthaguli jhuki komate boichitrokoron koushal grohon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "restructuring",
+            "phonetic": "ˌriːˈstrʌk.tʃər.ɪŋ",
+            "word_native_transliteration": {
+                "bn": "রিস্ট্রাকচারিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔧",
+            "meaning": "The action of organizing something differently.",
+            "example_sentence": "The company underwent restructuring to improve efficiency.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি আন্ডারওয়েন্ট রিস্ট্রাকচারিং টু ইমপ্রুভ এফিশিয়েন্সি।"
+            },
+            "position": 18,
+            "synonyms": "reorganization, reform, overhaul",
+            "antonyms": "stagnation, status quo, rigidity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুনর্গঠন বা কাঠামোগত পরিবর্তন",
+                    "word_transliteration": "punorgothon ba kathamogoto poriborton",
+                    "example_sentence_translation": "কোম্পানিটি দক্ষতা বৃদ্ধির জন্য পুনর্গঠনের মধ্য দিয়ে গেছে।",
+                    "example_sentence_transliteration": "Companiti dokkhota briddhir jonno punorgothoner moddho diye geche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "tariff",
+            "phonetic": "ˈtær.ɪf",
+            "word_native_transliteration": {
+                "bn": "ট্যারিফ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💳",
+            "meaning": "A tax or duty to be paid on a particular class of imports or exports.",
+            "example_sentence": "The government imposed high tariffs on luxury goods.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গভর্নমেন্ট ইমপোজড হাই ট্যারিফস অন লাক্সারি গুডস।"
+            },
+            "position": 19,
+            "synonyms": "import tax, duty, customs charge",
+            "antonyms": "free trade, duty-free, exemption",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শুল্ক বা আমদানি কর",
+                    "word_transliteration": "shulko ba amdani kor",
+                    "example_sentence_translation": "সরকার বিলাসবহুল পণ্যের উপর উচ্চ শুল্ক আরোপ করেছে।",
+                    "example_sentence_transliteration": "Shorkar bilashbohul ponyer upor uccho shulko arop koreche.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

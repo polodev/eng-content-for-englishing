@@ -1,0 +1,472 @@
+{
+    "position": 127,
+    "title_translation": {
+        "en": "How Mobile Apps Improve Productivity",
+        "bn": "কীভাবে মোবাইল অ্যাপস উৎপাদনশীলতা উন্নত করে"
+    },
+    "content_translation": {
+        "en": "In the modern era, **mobile apps** play a significant role in **augmenting** our work efficiency. Technology now helps **automate** our daily activities, saving time and increasing **productivity**.\n\nA **coherent** plan and proper app usage make our work more **efficient**. By using various **versatile** apps, we can **synchronize** our work and **consolidate** information.\n\nMany apps enhance our **dexterous** performance because they **expedite** our decision-making speed. Through **comprehensive** data analysis, it's possible to **bolster** work quality.\n\nTherefore, **mobile apps** have now become **imperative**. They not only increase work speed but also enhance **interoperability**, providing opportunities for **seamless** work. This way, we get the opportunity to become more **proficient** and can **optimize** our skills.",
+        "bn": "আধুনিক যুগে **mobile apps** আমাদের কাজের দক্ষতা **augment** করতে বিশাল ভূমিকা পালন করছে। এখন প্রযুক্তি আমাদের দৈনন্দিন কার্যক্রম **automate** করতে সাহায্য করছে, যা সময় বাঁচিয়ে **productivity** বাড়ায়।\n\nএকটি **coherent** পরিকল্পনা ও সঠিক অ্যাপের ব্যবহার আমাদের কাজকে আরও **efficient** করে তোলে। বিভিন্ন **versatile** অ্যাপ ব্যবহার করে আমরা আমাদের কাজ **synchronize** করতে পারি এবং তথ্য **consolidate** করতে সক্ষম হই।\n\nঅনেক অ্যাপ আমাদের **dexterous** কর্মক্ষমতা বৃদ্ধি করে, কারণ এটি আমাদের সিদ্ধান্ত গ্রহণের গতি **expedite** করে। **Comprehensive** ডাটা অ্যানালাইসিসের মাধ্যমে কাজের গুণগত মান **bolster** করা সম্ভব।\n\nতাই, **mobile apps** এখন **imperative** হয়ে উঠেছে। এগুলো শুধু কাজের গতি বাড়ায় না, বরং **interoperability** বাড়িয়ে **seamless** কাজ করার সুযোগ দেয়। এভাবে, আমরা আরও **proficient** হয়ে ওঠার সুযোগ পাই এবং আমাদের দক্ষতা **optimize** করতে পারি।"
+    },
+    "list": [
+        {
+            "word": "augment",
+            "phonetic": "/ɔːɡˈment/",
+            "word_native_transliteration": {
+                "bn": "অগমেন্ট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📈",
+            "meaning": "To increase or make greater in size, extent, or quantity; to enhance or improve.",
+            "example_sentence": "The new technology will augment productivity in industries.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিউ টেকনোলজি উইল অগমেন্ট প্রোডাক্টিভিটি ইন ইন্ডাস্ট্রিজ।"
+            },
+            "position": 1,
+            "synonyms": "enhance, amplify, expand, increase, boost",
+            "antonyms": "diminish, decrease, reduce, lessen, shrink",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৃদ্ধি করা",
+                    "word_transliteration": "briddhi kora",
+                    "example_sentence_translation": "নতুন প্রযুক্তি শিল্পে উৎপাদনশীলতা বৃদ্ধি করবে।",
+                    "example_sentence_transliteration": "Notun proyukti shilpe utpadanshilota briddhi korbe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "automate",
+            "phonetic": "/ˈɔː.tə.meɪt/",
+            "word_native_transliteration": {
+                "bn": "অটোমেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🤖",
+            "meaning": "To make a process or system operate automatically by means of machines or computers.",
+            "example_sentence": "Many companies automate their processes to save time.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেনি কোম্পানিজ অটোমেট দেয়ার প্রসেসেস টু সেভ টাইম।"
+            },
+            "position": 2,
+            "synonyms": "mechanize, systematize, robotize, computerize",
+            "antonyms": "manual, traditional, hand-operated",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বয়ংক্রিয় করা",
+                    "word_transliteration": "swoyongkriyo kora",
+                    "example_sentence_translation": "অনেক কোম্পানি সময় বাঁচাতে তাদের কার্যপ্রণালী স্বয়ংক্রিয় করে।",
+                    "example_sentence_transliteration": "Onek company somoy bachate tader karyopronali swoyongkriyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "productivity",
+            "phonetic": "/ˌprɒd.ʌkˈtɪv.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "প্রোডাক্টিভিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "The effectiveness of productive effort, especially in industry, as measured in terms of the rate of output per unit of input.",
+            "example_sentence": "Increasing productivity is crucial for business success.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনক্রিসিং প্রোডাক্টিভিটি ইজ ক্রুশিয়াল ফর বিজনেস সাকসেস।"
+            },
+            "position": 3,
+            "synonyms": "efficiency, output, performance, effectiveness",
+            "antonyms": "inefficiency, unproductivity, stagnation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উৎপাদনশীলতা",
+                    "word_transliteration": "utpadanshilota",
+                    "example_sentence_translation": "উৎপাদনশীলতা বৃদ্ধি ব্যবসায়িক সফলতার জন্য অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Utpadanshilota briddhi byabsayik sofolttar jonyo ottyonto gurutwopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "coherent",
+            "phonetic": "/kəʊˈhɪə.rənt/",
+            "word_native_transliteration": {
+                "bn": "কোহিরেন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧩",
+            "meaning": "Logical and consistent; forming a unified whole; clear and easy to understand.",
+            "example_sentence": "His speech was clear and coherent.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ স্পিচ ওয়াজ ক্লিয়ার এন্ড কোহিরেন্ট।"
+            },
+            "position": 4,
+            "synonyms": "logical, consistent, unified, rational",
+            "antonyms": "incoherent, illogical, disjointed",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংগতিপূর্ণ",
+                    "word_transliteration": "songotipurno",
+                    "example_sentence_translation": "তার বক্তব্য স্পষ্ট ও সংগতিপূর্ণ ছিল।",
+                    "example_sentence_transliteration": "Tar boktobyo sposhto o songotipurno chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "efficient",
+            "phonetic": "/ɪˈfɪʃ.ənt/",
+            "word_native_transliteration": {
+                "bn": "ইফিশিয়েন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎯",
+            "meaning": "Working in a well-organized way; achieving maximum productivity with minimum wasted effort or expense.",
+            "example_sentence": "This software is highly efficient in managing tasks.",
+            "example_sentence_native_transliteration": {
+                "bn": "দিস সফটওয়্যার ইজ হাইলি ইফিশিয়েন্ট ইন ম্যানেজিং টাস্ক।"
+            },
+            "position": 5,
+            "synonyms": "effective, proficient, productive, competent",
+            "antonyms": "inefficient, wasteful, ineffective",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষ",
+                    "word_transliteration": "dokkhho",
+                    "example_sentence_translation": "এই সফটওয়্যার কাজ ব্যবস্থাপনায় অত্যন্ত দক্ষ।",
+                    "example_sentence_transliteration": "Ei software kaj byabsthapanay ottyonto dokkhho.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "versatile",
+            "phonetic": "/ˈvɜː.sə.taɪl/",
+            "word_native_transliteration": {
+                "bn": "ভার্সাটাইল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔧",
+            "meaning": "Able to adapt or be adapted to many different functions or activities; having many uses or applications.",
+            "example_sentence": "He is a versatile musician who can play multiple instruments.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি ইজ এ ভার্সাটাইল মিউজিশিয়ান হু ক্যান প্লে মাল্টিপল ইনস্ট্রুমেন্টস।"
+            },
+            "position": 6,
+            "synonyms": "adaptable, flexible, resourceful, multifaceted",
+            "antonyms": "rigid, limited, inflexible",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বহুমুখী",
+                    "word_transliteration": "bhumukhii",
+                    "example_sentence_translation": "তিনি একজন বহুমুখী সুরকার, যিনি বিভিন্ন বাদ্যযন্ত্র বাজাতে পারেন।",
+                    "example_sentence_transliteration": "Tini ekjon bhumukhii shurkar, yini bibhinno badyoyontro bajate paren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "synchronize",
+            "phonetic": "/ˈsɪŋ.krə.naɪz/",
+            "word_native_transliteration": {
+                "bn": "সিঙ্ক্রোনাইজ"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⚙️",
+            "meaning": "To coordinate or cause to occur at the same time; to adjust things to work together in unison.",
+            "example_sentence": "The app helps synchronize all devices in real-time.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যাপ হেল্পস সিঙ্ক্রোনাইজ অল ডিভাইসেস ইন রিয়াল-টাইম।"
+            },
+            "position": 7,
+            "synonyms": "coordinate, harmonize, align, match",
+            "antonyms": "mismatch, desynchronize, disrupt",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সমন্বয় করা",
+                    "word_transliteration": "shomonnoy kora",
+                    "example_sentence_translation": "অ্যাপটি সব ডিভাইসকে বাস্তব সময়ে সমন্বয় করতে সহায়তা করে।",
+                    "example_sentence_transliteration": "Appti shob deviceke bastob shomoye shomonnoy korte shahayta kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "consolidate",
+            "phonetic": "/kənˈsɒl.ɪ.deɪt/",
+            "word_native_transliteration": {
+                "bn": "কনসলিডেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📊",
+            "meaning": "To combine things into a single more effective or coherent whole; to strengthen or reinforce.",
+            "example_sentence": "The company plans to consolidate its market position.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি প্ল্যানস টু কনসলিডেট ইটস মার্কেট পজিশন।"
+            },
+            "position": 8,
+            "synonyms": "strengthen, merge, unify, combine",
+            "antonyms": "weaken, separate, disperse",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একীভূত করা",
+                    "word_transliteration": "ekibhuto kora",
+                    "example_sentence_translation": "কোম্পানিটি তার বাজার অবস্থান সুসংহত করার পরিকল্পনা করছে।",
+                    "example_sentence_transliteration": "Companiti tar bajar aboshthan shushonghotho korar porikolpona korche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dexterous",
+            "phonetic": "/ˈdek.stər.əs/",
+            "word_native_transliteration": {
+                "bn": "ডেক্সটেরাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎪",
+            "meaning": "Showing or having skill, especially with the hands; mentally adroit and skillful.",
+            "example_sentence": "A dexterous programmer can write complex codes effortlessly.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ ডেক্সটেরাস প্রোগ্রামার ক্যান রাইট কমপ্লেক্স কোডস এফর্টলেসলি।"
+            },
+            "position": 9,
+            "synonyms": "skillful, adept, agile, proficient",
+            "antonyms": "clumsy, inept, awkward",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষ",
+                    "word_transliteration": "dokkhho",
+                    "example_sentence_translation": "একজন দক্ষ প্রোগ্রামার সহজেই জটিল কোড লিখতে পারেন।",
+                    "example_sentence_transliteration": "Ekjon dokkhho programmer shohojei jotil code likhte paren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "expedite",
+            "phonetic": "/ˈek.spɪ.daɪt/",
+            "word_native_transliteration": {
+                "bn": "এক্সপিডাইট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🚀",
+            "meaning": "To make an action or process happen sooner or be accomplished more quickly.",
+            "example_sentence": "The government took measures to expedite the approval process.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গভর্নমেন্ট টুক মেজারস টু এক্সপিডাইট দ্য অ্যাপ্রুভাল প্রসেস।"
+            },
+            "position": 10,
+            "synonyms": "accelerate, hasten, facilitate, speed up",
+            "antonyms": "delay, hinder, procrastinate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্রুততর করা",
+                    "word_transliteration": "drututor kora",
+                    "example_sentence_translation": "সরকার অনুমোদন প্রক্রিয়াকে দ্রুততর করার জন্য ব্যবস্থা নিয়েছে।",
+                    "example_sentence_transliteration": "Shorkar anumodon prokriyake drututor korar jonyo byabstha niyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "comprehensive",
+            "phonetic": "/ˌkɒm.prɪˈhen.sɪv/",
+            "word_native_transliteration": {
+                "bn": "কমপ্রিহেনসিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📋",
+            "meaning": "Complete and including everything that is necessary; covering completely or broadly.",
+            "example_sentence": "The report provides a comprehensive analysis of the issue.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রিপোর্ট প্রোভাইডস এ কমপ্রিহেনসিভ অ্যানালাইসিস অব দ্য ইস্যু।"
+            },
+            "position": 11,
+            "synonyms": "exhaustive, inclusive, all-encompassing, thorough",
+            "antonyms": "narrow, limited, incomplete",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিস্তৃত",
+                    "word_transliteration": "bistritto",
+                    "example_sentence_translation": "প্রতিবেদনটি বিষয়টির একটি বিস্তৃত বিশ্লেষণ প্রদান করে।",
+                    "example_sentence_transliteration": "Protibedonti bishoyotir ekti bistritto bishleshon prodan kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "bolster",
+            "phonetic": "/ˈbəʊl.stər/",
+            "word_native_transliteration": {
+                "bn": "বোলস্টার"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "💪",
+            "meaning": "To support or strengthen; to prop up or reinforce.",
+            "example_sentence": "The new policy will bolster economic growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিউ পলিসি উইল বোলস্টার ইকোনমিক গ্রোথ।"
+            },
+            "position": 12,
+            "synonyms": "strengthen, reinforce, support, boost",
+            "antonyms": "undermine, weaken, diminish",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শক্তিশালী করা",
+                    "word_transliteration": "shoktishali kora",
+                    "example_sentence_translation": "নতুন নীতিটি অর্থনৈতিক প্রবৃদ্ধিকে শক্তিশালী করবে।",
+                    "example_sentence_transliteration": "Notun nititi orthonnoitik probriddhi ke shoktishali korbe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "imperative",
+            "phonetic": "/ɪmˈper.ə.tɪv/",
+            "word_native_transliteration": {
+                "bn": "ইম্পেরেটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "❗",
+            "meaning": "Of vital importance; crucial; giving or expressing a command.",
+            "example_sentence": "It is imperative to address the climate crisis immediately.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইট ইজ ইম্পেরেটিভ টু অ্যাড্রেস দ্য ক্লাইমেট ক্রাইসিস ইমিডিয়েটলি।"
+            },
+            "position": 13,
+            "synonyms": "essential, crucial, mandatory, vital",
+            "antonyms": "optional, unimportant, trivial",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অত্যাবশ্যক",
+                    "word_transliteration": "ottyaboshyok",
+                    "example_sentence_translation": "জলবায়ু সংকট মোকাবেলা করা অত্যাবশ্যক।",
+                    "example_sentence_transliteration": "Jolbayu shongkot mokabela kora ottyaboshyok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "interoperability",
+            "phonetic": "/ˌɪn.təˌɒp.ər.əˈbɪl.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "ইন্টারঅপারাবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔗",
+            "meaning": "The ability of computer systems or software to exchange and make use of information.",
+            "example_sentence": "The interoperability of various systems enhances efficiency.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইন্টারঅপারাবিলিটি অব ভ্যারিয়াস সিস্টেমস এনহানসেস এফিশিয়েন্সি।"
+            },
+            "position": 14,
+            "synonyms": "compatibility, integration, coordination",
+            "antonyms": "incompatibility, segregation, disconnection",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পারস্পরিক সংযোগযোগ্যতা",
+                    "word_transliteration": "parasporik shongyogjoggota",
+                    "example_sentence_translation": "বিভিন্ন সিস্টেমের পারস্পরিক সংযোগযোগ্যতা দক্ষতা বৃদ্ধি করে।",
+                    "example_sentence_transliteration": "Bibhinno systemner parasporik shongyogjoggota dokkhota briddhi kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "seamless",
+            "phonetic": "/ˈsiːm.ləs/",
+            "word_native_transliteration": {
+                "bn": "সীমলেস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌊",
+            "meaning": "Smooth and continuous, with no apparent gaps or spaces between one part and the next.",
+            "example_sentence": "The transition to remote work was seamless.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ট্রানজিশন টু রিমোট ওয়ার্ক ওয়াজ সীমলেস।"
+            },
+            "position": 15,
+            "synonyms": "effortless, smooth, uninterrupted, flowing",
+            "antonyms": "disjointed, fragmented, incoherent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিরবিচ্ছিন্ন",
+                    "word_transliteration": "nirobicchhinno",
+                    "example_sentence_translation": "দূরবর্তী কাজের রূপান্তর নিরবিচ্ছিন্ন ছিল।",
+                    "example_sentence_transliteration": "Durobortii kajer rupantir nirobicchhinno chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "proficient",
+            "phonetic": "/prəˈfɪʃ.ənt/",
+            "word_native_transliteration": {
+                "bn": "প্রোফিশিয়েন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎖️",
+            "meaning": "Competent or skilled in doing or using something; having great knowledge or experience.",
+            "example_sentence": "She is highly proficient in multiple languages.",
+            "example_sentence_native_transliteration": {
+                "bn": "শী ইজ হাইলি প্রোফিশিয়েন্ট ইন মাল্টিপল ল্যাঙ্গুয়েজেস।"
+            },
+            "position": 16,
+            "synonyms": "skilled, adept, competent, expert",
+            "antonyms": "inept, unskilled, incompetent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষ",
+                    "word_transliteration": "dokkhho",
+                    "example_sentence_translation": "তিনি একাধিক ভাষায় অত্যন্ত দক্ষ।",
+                    "example_sentence_transliteration": "Tini ekadhik bhashay ottyonto dokkhho.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "optimize",
+            "phonetic": "/ˈɒp.tɪ.maɪz/",
+            "word_native_transliteration": {
+                "bn": "অপ্টিমাইজ"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔧",
+            "meaning": "To make the best or most effective use of a situation, opportunity, or resource.",
+            "example_sentence": "The company is working to optimize its supply chain.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি ইজ ওয়ার্কিং টু অপ্টিমাইজ ইটস সাপ্লাই চেইন।"
+            },
+            "position": 17,
+            "synonyms": "enhance, maximize, improve, refine",
+            "antonyms": "neglect, mismanage, diminish",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সর্বোত্তম করা",
+                    "word_transliteration": "sorbottom kora",
+                    "example_sentence_translation": "কোম্পানিটি তাদের সরবরাহ চেইন সর্বোত্তম করতে কাজ করছে।",
+                    "example_sentence_transliteration": "Companiti tader shorboraho chain sorbottom korte kaj korche.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

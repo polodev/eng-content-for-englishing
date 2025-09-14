@@ -1,0 +1,418 @@
+{
+    "position": 126,
+    "title_translation": {
+        "en": "How Mnemonics Enhance Learning Ability",
+        "bn": "কীভাবে স্মৃতিশক্তি উন্নয়নের কৌশল শেখার ক্ষমতা বাড়ায়"
+    },
+    "content_translation": {
+        "en": "**Mnemonics** is an effective technique for improving learning skills. It helps increase learning **comprehension** and enhances the brain's **retention** capacity.\n\nOur brain **compartmentalizes** and stores information. However, when learning something new, it's necessary to easily **correlate** that information. Here, **mnemonics** plays an important role, because it increases learning **fluency** and improves **cognition**.\n\nFor example, when we want to remember difficult words, using **contextualization** makes it easier. By using **juxtaposition** to present words in **analogous** patterns, the brain can easily **assimilate** them.\n\nStudents who are **adept** at using **mnemonics** can quickly **encapsulate** information. This makes education **holistic** rather than just a game of memory, which **facilitates** true learning capacity.",
+        "bn": "শেখার দক্ষতা উন্নত করতে **mnemonics** একটি কার্যকর কৌশল। এটি শেখার **comprehension** বাড়াতে সাহায্য করে এবং মস্তিষ্কের **retention** ক্ষমতা বৃদ্ধি করে।\n\nআমাদের মস্তিষ্ক তথ্যকে **compartmentalize** করে সংরক্ষণ করে। কিন্তু নতুন কিছু শিখতে গেলে, সেই তথ্যকে সহজে **correlate** করা দরকার। এখানে **mnemonics** একটি গুরুত্বপূর্ণ ভূমিকা পালন করে, কারণ এটি শেখার **fluency** বাড়িয়ে দেয় এবং **cognition** উন্নত করে।\n\nউদাহরণস্বরূপ, যখন আমরা কঠিন শব্দ মনে রাখতে চাই, তখন **contextualization** ব্যবহার করলে তা সহজ হয়। **Juxtaposition** করে শব্দগুলো **analogous** ধাঁচে উপস্থাপন করলে মস্তিষ্ক সহজেই তা **assimilate** করতে পারে।\n\nশিক্ষার্থীরা যারা **adept** ভাবে **mnemonics** ব্যবহার করে, তারা দ্রুত তথ্য **encapsulate** করতে পারে। এটি শিক্ষাকে শুধু স্মৃতিশক্তির খেলা না রেখে **holistic** করে তোলে, যা শেখার প্রকৃত ক্ষমতা **facilitate** করে।"
+    },
+    "list": [
+        {
+            "word": "mnemonics",
+            "phonetic": "/nɪˈmɒn.ɪks/",
+            "word_native_transliteration": {
+                "bn": "নিমনিক্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧠",
+            "meaning": "A technique of improving learning skills and memory retention through memory aids and strategies.",
+            "example_sentence": "Using mnemonics helps students remember complex formulas.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইউজিং নিমনিক্স হেল্পস স্টুডেন্টস রিমেম্বার কমপ্লেক্স ফরমুলাস।"
+            },
+            "position": 1,
+            "synonyms": "memory aid, memorization technique, recall strategy",
+            "antonyms": "forgetfulness, amnesia, neglect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্মৃতিশক্তি উন্নত করার কৌশল",
+                    "word_transliteration": "smritishokti unnoto korar koushal",
+                    "example_sentence_translation": "মনে রাখার সহজ কৌশল ব্যবহার করলে শিক্ষার্থীরা জটিল সূত্র সহজে মনে রাখতে পারে।",
+                    "example_sentence_transliteration": "Mone rakhar shohoj koushal bybohar korle shikkharthira jotil shutro shohoje mone rakhte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "comprehension",
+            "phonetic": "/ˌkɒm.prɪˈhen.ʃən/",
+            "word_native_transliteration": {
+                "bn": "কমপ্রিহেনশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💡",
+            "meaning": "The ability to understand something; understanding or perception.",
+            "example_sentence": "His comprehension of scientific theories is impressive.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ কমপ্রিহেনশন অব সাইয়েন্টিফিক থিওরিজ ইজ ইমপ্রেসিভ।"
+            },
+            "position": 2,
+            "synonyms": "understanding, interpretation, perception",
+            "antonyms": "misinterpretation, confusion, incomprehension",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনুধাবন",
+                    "word_transliteration": "onudhabhon",
+                    "example_sentence_translation": "তার বৈজ্ঞানিক তত্ত্বের অনুধাবন দক্ষতা চমৎকার।",
+                    "example_sentence_transliteration": "Tar boigganik tottyer onudhabhon dokkhota chomtkar.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "retention",
+            "phonetic": "/rɪˈten.ʃən/",
+            "word_native_transliteration": {
+                "bn": "রিটেনশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💾",
+            "meaning": "The continued possession, use, or control of something; memory preservation.",
+            "example_sentence": "Regular revision improves information retention.",
+            "example_sentence_native_transliteration": {
+                "bn": "রেগুলার রিভিশন ইমপ্রুভস ইনফরমেশন রিটেনশন।"
+            },
+            "position": 3,
+            "synonyms": "preservation, memory, recollection",
+            "antonyms": "loss, forgetting, discarding",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ধরে রাখা",
+                    "word_transliteration": "dhore rakha",
+                    "example_sentence_translation": "নিয়মিত পুনরাবৃত্তি তথ্য সংরক্ষণ ক্ষমতা বাড়ায়।",
+                    "example_sentence_transliteration": "Niyomit punorabritti tothyo shongrokkhon kkhomota baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "compartmentalize",
+            "phonetic": "/ˌkɒm.pɑːtˈmen.təl.aɪz/",
+            "word_native_transliteration": {
+                "bn": "কমপার্টমেন্টালাইজ"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📂",
+            "meaning": "To divide into sections or categories; to separate things into compartments.",
+            "example_sentence": "To increase efficiency, he compartmentalized his work tasks.",
+            "example_sentence_native_transliteration": {
+                "bn": "টু ইনক্রিজ এফিশিয়েন্সি, হি কমপার্টমেন্টালাইজড হিজ ওয়ার্ক টাস্কস।"
+            },
+            "position": 4,
+            "synonyms": "categorize, segregate, classify",
+            "antonyms": "integrate, unite, merge",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিভাজন করা",
+                    "word_transliteration": "bibhajon kora",
+                    "example_sentence_translation": "দক্ষতা বাড়াতে তিনি তার কাজগুলিকে শ্রেণিবদ্ধ করেছেন।",
+                    "example_sentence_transliteration": "Dokkhota barate tini tar kajguloke shreniboddho korechhen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "correlate",
+            "phonetic": "/ˈkɒr.ə.leɪt/",
+            "word_native_transliteration": {
+                "bn": "কোরিলেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔗",
+            "meaning": "To have a mutual relationship or connection; to establish a relationship between two or more things.",
+            "example_sentence": "Researchers found that diet and mental health correlate strongly.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিসার্চারস ফাউন্ড দ্যাট ডায়েট অ্যান্ড মেন্টাল হেলথ কোরিলেট স্ট্রংলি।"
+            },
+            "position": 5,
+            "synonyms": "associate, connect, link",
+            "antonyms": "disassociate, separate, disconnect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সম্পর্ক স্থাপন করা",
+                    "word_transliteration": "shomporko sthapan kora",
+                    "example_sentence_translation": "গবেষকরা দেখেছেন যে খাদ্যাভ্যাস ও মানসিক স্বাস্থ্যের মধ্যে গভীর সম্পর্ক রয়েছে।",
+                    "example_sentence_transliteration": "Gobeshokora dekhechhen je khadyabhyas o manoshik swasthyer modhye gobhir shomporko royechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fluency",
+            "phonetic": "/ˈfluː.ən.si/",
+            "word_native_transliteration": {
+                "bn": "ফ্লুয়েন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🗣️",
+            "meaning": "The ability to speak or write a language easily and accurately; smoothness and ease.",
+            "example_sentence": "She speaks French with remarkable fluency.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি স্পিকস ফ্রেঞ্চ উইথ রিমার্কেবল ফ্লুয়েন্সি।"
+            },
+            "position": 6,
+            "synonyms": "proficiency, eloquence, articulateness",
+            "antonyms": "hesitation, incoherence, struggle",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সাবলীলতা",
+                    "word_transliteration": "shablilota",
+                    "example_sentence_translation": "তিনি ফরাসি ভাষা অত্যন্ত সাবলীলভাবে বলতে পারেন।",
+                    "example_sentence_transliteration": "Tini forashi bhasha ottyonto shablilbhabe bolte paren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cognition",
+            "phonetic": "/kɒɡˈnɪʃ.ən/",
+            "word_native_transliteration": {
+                "bn": "কগনিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧠",
+            "meaning": "The mental action or process of acquiring knowledge and understanding through thought, experience, and the senses.",
+            "example_sentence": "Cognition plays a crucial role in learning and memory.",
+            "example_sentence_native_transliteration": {
+                "bn": "কগনিশন প্লেজ এ ক্রুসিয়াল রোল ইন লার্নিং অ্যান্ড মেমোরি।"
+            },
+            "position": 7,
+            "synonyms": "perception, awareness, thought process",
+            "antonyms": "ignorance, unawareness, misunderstanding",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জ্ঞানীয় প্রক্রিয়া",
+                    "word_transliteration": "gyanio prokriya",
+                    "example_sentence_translation": "শিক্ষা ও স্মৃতিশক্তির বিকাশে জ্ঞানীয় প্রক্রিয়ার ভূমিকা গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Shikkha o smritishokti bikashe gyanio prokiyar bhumika guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "contextualization",
+            "phonetic": "/kɒnˌtek.stʃu.ə.laɪˈzeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "কন্টেক্সচুয়ালাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The process of placing something in its proper context or setting to understand it better.",
+            "example_sentence": "Contextualization of historical events helps students understand them better.",
+            "example_sentence_native_transliteration": {
+                "bn": "কন্টেক্সচুয়ালাইজেশন অব হিস্টরিক্যাল ইভেন্টস হেল্পস স্টুডেন্টস আন্ডারস্ট্যান্ড দেম বেটার।"
+            },
+            "position": 8,
+            "synonyms": "interpretation, framing, explanation",
+            "antonyms": "isolation, misrepresentation, detachment",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রেক্ষিত প্রদান",
+                    "word_transliteration": "prekkheeto prodan",
+                    "example_sentence_translation": "ঐতিহাসিক ঘটনাগুলোর প্রসঙ্গ নির্ধারণ শিক্ষার্থীদের এগুলো ভালোভাবে বুঝতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Oitihashik ghotonagulor proshongo nirdharun shikkharthider egulo bhalobhabe buzhte shahajyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "juxtaposition",
+            "phonetic": "/ˌdʒʌk.stə.pəˈzɪʃ.ən/",
+            "word_native_transliteration": {
+                "bn": "জাক্সটাপোজিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "The fact of two things being seen or placed close together with contrasting effect.",
+            "example_sentence": "The artist's work features a striking juxtaposition of light and shadow.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য আর্টিস্টস ওয়ার্ক ফিচারস এ স্ট্রাইকিং জাক্সটাপোজিশন অব লাইট অ্যান্ড শ্যাডো।"
+            },
+            "position": 9,
+            "synonyms": "contrast, comparison, alignment",
+            "antonyms": "separation, distance, disassociation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পাশাপাশি স্থাপন",
+                    "word_transliteration": "pashapashi sthapan",
+                    "example_sentence_translation": "শিল্পীর কাজে আলো ও অন্ধকারের অসাধারণ বৈপরীত্য দেখা যায়।",
+                    "example_sentence_transliteration": "Shilpir kaje alo o ondhokarer oshadharon boiporotyo dekha jay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "analogous",
+            "phonetic": "/əˈnæl.ə.ɡəs/",
+            "word_native_transliteration": {
+                "bn": "অ্যানালোগাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔄",
+            "meaning": "Comparable in certain respects, typically in a way that makes clearer the nature of the things compared.",
+            "example_sentence": "The structure of an atom is analogous to the solar system.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্ট্রাকচার অব অ্যান অ্যাটম ইজ অ্যানালোগাস টু দ্য সোলার সিস্টেম।"
+            },
+            "position": 10,
+            "synonyms": "comparable, similar, equivalent",
+            "antonyms": "dissimilar, unrelated, contrasting",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "তুলনাযোগ্য",
+                    "word_transliteration": "tulonayoggyo",
+                    "example_sentence_translation": "একটি পরমাণুর গঠন সৌরজগতের অনুরূপ।",
+                    "example_sentence_transliteration": "Ekti poromanur gothon shourjogter onurup.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "assimilate",
+            "phonetic": "/əˈsɪm.ɪ.leɪt/",
+            "word_native_transliteration": {
+                "bn": "অ্যাসিমিলেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🧽",
+            "meaning": "To take in and understand fully; to absorb and integrate ideas, knowledge, or information.",
+            "example_sentence": "Immigrants often struggle to assimilate into a new culture.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইমিগ্রান্টস অফেন স্ট্রাগল টু অ্যাসিমিলেট ইনটু এ নিউ কালচার।"
+            },
+            "position": 11,
+            "synonyms": "absorb, integrate, incorporate",
+            "antonyms": "reject, exclude, isolate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আত্মস্থ করা",
+                    "word_transliteration": "attostho kora",
+                    "example_sentence_translation": "অভিবাসীরা প্রায়ই নতুন সংস্কৃতি গ্রহণ করতে কঠিন সময় পার করেন।",
+                    "example_sentence_transliteration": "Obhibashira prayi notun shongskriti grhon korte kothin shomoy par koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "adept",
+            "phonetic": "/əˈdept/",
+            "word_native_transliteration": {
+                "bn": "অ্যাডেপ্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎯",
+            "meaning": "Very skilled or proficient at something; expert.",
+            "example_sentence": "She is adept at solving complex mathematical problems.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি ইজ অ্যাডেপ্ট অ্যাট সলভিং কমপ্লেক্স ম্যাথমেটিক্যাল প্রবলেমস।"
+            },
+            "position": 12,
+            "synonyms": "skilled, proficient, expert",
+            "antonyms": "inept, unskilled, incompetent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষ",
+                    "word_transliteration": "dokkho",
+                    "example_sentence_translation": "তিনি জটিল গাণিতিক সমস্যাগুলো সমাধানে পারদর্শী।",
+                    "example_sentence_transliteration": "Tini jotil ganitik shomoshyagulo shomadhane parordoshi.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "encapsulate",
+            "phonetic": "/ɪnˈkæp.sjʊ.leɪt/",
+            "word_native_transliteration": {
+                "bn": "ইনক্যাপসুলেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📦",
+            "meaning": "To express the essential features of something succinctly; to summarize or contain within.",
+            "example_sentence": "The introduction should encapsulate the main points of the article.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইন্ট্রোডাকশন শুড এনক্যাপসুলেট দ্য মেইন পয়েন্টস অব দ্য আর্টিকেল।"
+            },
+            "position": 13,
+            "synonyms": "summarize, contain, enclose",
+            "antonyms": "expand, elaborate, lengthen",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সারসংক্ষেপ করা",
+                    "word_transliteration": "sharshonkhep kora",
+                    "example_sentence_translation": "ভূমিকা অংশে নিবন্ধের মূল বিষয়বস্তু সংক্ষেপে উপস্থাপন করা উচিত।",
+                    "example_sentence_transliteration": "Bhumika ongshe nibondher mul bishoyobosthu shonkhhepe uposthapun kora uchit.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "holistic",
+            "phonetic": "/həʊˈlɪs.tɪk/",
+            "word_native_transliteration": {
+                "bn": "হোলিস্টিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌟",
+            "meaning": "Characterized by comprehension of the parts of something as intimately interconnected and explicable only by reference to the whole.",
+            "example_sentence": "Holistic medicine considers both the mind and the body in treatment.",
+            "example_sentence_native_transliteration": {
+                "bn": "হোলিস্টিক মেডিসিন কনসিডারস বোথ দ্য মাইন্ড অ্যান্ড দ্য বডি ইন ট্রিটমেন্ট।"
+            },
+            "position": 14,
+            "synonyms": "comprehensive, integrated, whole",
+            "antonyms": "fragmented, partial, incomplete",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সামগ্রিক",
+                    "word_transliteration": "shamogrik",
+                    "example_sentence_translation": "সর্বাঙ্গীণ চিকিৎসা পদ্ধতিতে শরীর ও মনের সমন্বিত যত্ন নেওয়া হয়।",
+                    "example_sentence_transliteration": "Shorbangino chikitsha poddhitite shorir o moner shomonnito jotno neoya hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "facilitate",
+            "phonetic": "/fəˈsɪl.ɪ.teɪt/",
+            "word_native_transliteration": {
+                "bn": "ফ্যাসিলিটেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🚀",
+            "meaning": "To make an action or process easier or help bring about; to assist the progress of.",
+            "example_sentence": "Technology facilitates faster communication.",
+            "example_sentence_native_transliteration": {
+                "bn": "টেকনোলজি ফ্যাসিলিটেটস ফাস্টার কমিউনিকেশন।"
+            },
+            "position": 15,
+            "synonyms": "enable, assist, simplify",
+            "antonyms": "hinder, obstruct, complicate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহজতর করা",
+                    "word_transliteration": "shohojtor kora",
+                    "example_sentence_translation": "প্রযুক্তি দ্রুত যোগাযোগ সহজতর করে।",
+                    "example_sentence_transliteration": "Projukti druto jogajog shohojtor kore.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,445 @@
+{
+    "position": 129,
+    "title_translation": {
+        "en": "How Reading Enhances Critical Thinking",
+        "bn": "পড়া কিভাবে Critical Thinking উন্নত করে"
+    },
+    "content_translation": {
+        "en": "Reading is not just a means of information acquisition; it is one of the most important ways to enhance **critical thinking**. When we read complex texts, our **comprehension** abilities increase and we develop **analytical** thinking patterns. Through reading, we **assimilate** new concepts and understand topics more deeply. This enhances our **discernment** and provides the ability to understand various **nuances**. Over time, we do not merely absorb information, but begin **synthesizing** them to create new thought patterns. A good reader becomes **cognizant** that every text or information contains a specific **paradigm**. The habit of reading helps us make **judicious** decisions and strengthens our **rationalization** abilities. By developing skills in **inference** and **extrapolate**, we can analyze any subject more deeply, which increases **scrutiny** and **metacognition**. Therefore, developing reading habits means enhancing the depth of thinking and **eloquence**.",
+        "bn": "পড়া শুধু তথ্য গ্রহণের মাধ্যম নয়, এটি **critical thinking** উন্নত করার অন্যতম গুরুত্বপূর্ণ উপায়। যখন আমরা কোনো জটিল লেখা পড়ি, তখন আমাদের **comprehension** ক্ষমতা বৃদ্ধি পায় এবং আমরা **analytical** চিন্তাধারা গড়ে তুলতে পারি। পড়ার মাধ্যমে আমরা নতুন ধারণা **assimilate** করি এবং বিষয়গুলোকে আরও গভীরভাবে বুঝতে পারি। এটি আমাদের **discernment** বাড়ায় এবং বিভিন্ন **nuance** বোঝার ক্ষমতা দেয়। একসময় আমরা শুধুমাত্র তথ্য গ্রহণ করি না, বরং সেগুলো **synthesizing** করে নতুন চিন্তাধারা তৈরি করি। একটি ভালো পাঠক **cognizant** হয় যে, প্রতিটি লেখা বা তথ্যের মধ্যে নির্দিষ্ট **paradigm** লুকিয়ে আছে। বই পড়ার অভ্যাস আমাদের **judicious** সিদ্ধান্ত গ্রহণ করতে সাহায্য করে এবং **rationalization** শক্তিশালী করে তোলে। **Inference** এবং **extrapolate** করার ক্ষমতা অর্জন করার ফলে আমরা যে কোনো বিষয়কে আরও গভীরভাবে বিশ্লেষণ করতে পারি, যা **scrutiny** এবং **metacognition** বাড়ায়। অতএব, পড়ার অভ্যাস গড়ে তোলা মানে চিন্তার গভীরতা এবং **eloquence** বৃদ্ধি করা।"
+    },
+    "list": [
+        {
+            "word": "critical thinking",
+            "phonetic": "ˈkrɪt.ɪ.kəl ˈθɪŋ.kɪŋ",
+            "word_native_transliteration": {
+                "bn": "ক্রিটিকাল থিংকিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧠",
+            "meaning": "The objective analysis and evaluation of an issue in order to form a judgment.",
+            "example_sentence": "Critical thinking helps in making informed decisions.",
+            "example_sentence_native_transliteration": {
+                "bn": "ক্রিটিকাল থিংকিং হেল্পস ইন মেকিং ইনফরমড ডিসিশনস।"
+            },
+            "position": 1,
+            "synonyms": "rational analysis, logical reasoning",
+            "antonyms": "unquestioning, superficiality",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "যুক্তিপূর্ণ বিশ্লেষণ, মূল্যায়নমূলক চিন্তাভাবনা, যৌক্তিক সিদ্ধান্ত গ্রহণ",
+                    "word_transliteration": "jukti purno bishlekhon, mullayon mulok chinta bhavona, jouktik siddhanto grohon",
+                    "example_sentence_translation": "ক্রিটিকাল থিংকিং সচেতন সিদ্ধান্ত গ্রহণে সহায়তা করে।",
+                    "example_sentence_transliteration": "Critical thinking shocheton siddhanto grohone shahayyota kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "comprehension",
+            "phonetic": "ˌkɑːm.prɪˈhen.ʃən",
+            "word_native_transliteration": {
+                "bn": "কমপ্রিহেনশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📖",
+            "meaning": "The action or capability of understanding something.",
+            "example_sentence": "His comprehension of complex theories is impressive.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ কমপ্রিহেনশন অফ কমপ্লেক্স থিওরিজ ইজ ইমপ্রেসিভ।"
+            },
+            "position": 2,
+            "synonyms": "understanding, interpretation",
+            "antonyms": "misunderstanding, confusion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বোঝার ক্ষমতা, উপলব্ধি, বিশ্লেষণ করার দক্ষতা",
+                    "word_transliteration": "bojhar khomota, upolabdhi, bishlekhon korar dokkhota",
+                    "example_sentence_translation": "জটিল তত্ত্ব সম্পর্কে তার কমপ্রিহেনশন প্রশংসনীয়।",
+                    "example_sentence_transliteration": "Jotil totbo shomporkhe tar comprehension proshongsonio.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "analytical",
+            "phonetic": "ˌæn.əlˈɪt.ɪ.kəl",
+            "word_native_transliteration": {
+                "bn": "অ্যানালিটিক্যাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔍",
+            "meaning": "Using or skilled in using analysis (i.e., separating a whole—intellectual or substantial—into its elemental parts or basic principles).",
+            "example_sentence": "She has an analytical approach to problem-solving.",
+            "example_sentence_native_transliteration": {
+                "bn": "শী হ্যাজ অ্যান অ্যানালিটিক্যাল অ্যাপ্রোচ টু প্রবলেম সলভিং।"
+            },
+            "position": 3,
+            "synonyms": "logical, investigative",
+            "antonyms": "illogical, irrational",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিশ্লেষণাত্মক, গবেষণামূলক, যুক্তিবাদী",
+                    "word_transliteration": "bishlekhon atmok, gobeshona mulok, juktibadi",
+                    "example_sentence_translation": "সমস্যা সমাধানে তার অ্যানালিটিক্যাল দৃষ্টিভঙ্গি আছে।",
+                    "example_sentence_transliteration": "Shomosya shamadhane tar analytical drishtibhongi achhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "assimilate",
+            "phonetic": "əˈsɪm.ɪ.leɪt",
+            "word_native_transliteration": {
+                "bn": "অ্যাসিমিলেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🧲",
+            "meaning": "Take in (information, ideas, or culture) and understand fully.",
+            "example_sentence": "Immigrants often assimilate into the local culture.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইমিগ্র্যান্টস অফটেন অ্যাসিমিলেট ইনটু দ্য লোকাল কালচার।"
+            },
+            "position": 4,
+            "synonyms": "absorb, integrate",
+            "antonyms": "reject, isolate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আত্মস্থ করা, গ্রহণ করা, অভ্যন্তরীণ করা",
+                    "word_transliteration": "atmostho kora, grohon kora, abhyontorin kora",
+                    "example_sentence_translation": "অভিবাসীরা প্রায়ই স্থানীয় সংস্কৃতির সাথে অ্যাসিমিলেট করে।",
+                    "example_sentence_transliteration": "Abhibashira prayoi sthanio shonskritiyr shathe assimilate kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "discernment",
+            "phonetic": "dɪˈsɝːn.mənt",
+            "word_native_transliteration": {
+                "bn": "ডিসার্নমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The ability to judge well.",
+            "example_sentence": "His discernment in business decisions is remarkable.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ডিসার্নমেন্ট ইন বিজনেস ডিসিশনস ইজ রিমার্কেবল।"
+            },
+            "position": 5,
+            "synonyms": "insight, perception",
+            "antonyms": "ignorance, misjudgment",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিচক্ষণতা, সিদ্ধান্ত গ্রহণের ক্ষমতা, সূক্ষ্ম পার্থক্য নির্ধারণের দক্ষতা",
+                    "word_transliteration": "bichokkhonto, siddhanto grohoner khomota, shukhmo parthokko nirdharoner dokkhota",
+                    "example_sentence_translation": "ব্যবসায়িক সিদ্ধান্ত গ্রহণে তার ডিসার্নমেন্ট অসাধারণ।",
+                    "example_sentence_transliteration": "Byabshayik siddhanto grohone tar discernment oshadahron.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "nuance",
+            "phonetic": "ˈnuː.ɑːns",
+            "word_native_transliteration": {
+                "bn": "নুয়ান্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎭",
+            "meaning": "A subtle difference in or shade of meaning, expression, or response.",
+            "example_sentence": "The nuance in her speech made it more impactful.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নুয়ান্স ইন হার স্পিচ মেড ইট মোর ইমপ্যাক্টফুল।"
+            },
+            "position": 6,
+            "synonyms": "subtlety, refinement",
+            "antonyms": "obviousness, simplicity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সূক্ষ্ম পার্থক্য, গভীর অর্থ, সূক্ষ্মতা",
+                    "word_transliteration": "shukhmo parthokko, gobhir ortho, shukhomota",
+                    "example_sentence_translation": "তার বক্তব্যের নুয়ান্স এটিকে আরও প্রভাবশালী করেছে।",
+                    "example_sentence_transliteration": "Tar boktobyer nuance etike aro prabhavshali korechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "synthesizing",
+            "phonetic": "ˈsɪn.θə.saɪ.zɪŋ",
+            "word_native_transliteration": {
+                "bn": "সিন্থেসাইজিং"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔗",
+            "meaning": "Combine (a number of things) into a coherent whole.",
+            "example_sentence": "He excels in synthesizing ideas from different sources.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি এক্সেলস ইন সিন্থেসাইজিং আইডিয়াস ফ্রম ডিফারেন্ট সোর্সেস।"
+            },
+            "position": 7,
+            "synonyms": "integrating, combining",
+            "antonyms": "fragmenting, dissecting",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংমিশ্রণ করা, একত্রিত করা, যুক্তিসম্পন্ন উপস্থাপনা করা",
+                    "word_transliteration": "shongmishron kora, ektrito kora, juktishompono uposthapona kora",
+                    "example_sentence_translation": "বিভিন্ন উৎস থেকে ধারণা সিন্থেসাইজিং করতে সে পারদর্শী।",
+                    "example_sentence_transliteration": "Bibhinno utso theke dharona synthesizing korte she pardarshi.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cognizant",
+            "phonetic": "ˈkɒɡ.nɪ.zənt",
+            "word_native_transliteration": {
+                "bn": "কগনিজেন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "👁️",
+            "meaning": "Having knowledge or being aware of.",
+            "example_sentence": "We should be cognizant of the impact of our actions.",
+            "example_sentence_native_transliteration": {
+                "bn": "উই শুড বি কগনিজেন্ট অফ দ্য ইমপ্যাক্ট অফ আওয়ার অ্যাকশনস।"
+            },
+            "position": 8,
+            "synonyms": "aware, mindful",
+            "antonyms": "unaware, oblivious",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সচেতন, অবগত, বোঝার ক্ষমতা সম্পন্ন",
+                    "word_transliteration": "shocheton, abogoto, bojhar khomota shompono",
+                    "example_sentence_translation": "আমাদের কর্মকাণ্ডের প্রভাব সম্পর্কে কগনিজেন্ট থাকা উচিত।",
+                    "example_sentence_transliteration": "Amader kormokander prabhab shomporkhe cognizant thaka uchit.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "paradigm",
+            "phonetic": "ˈpær.ə.daɪm",
+            "word_native_transliteration": {
+                "bn": "প্যারাডাইম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏗️",
+            "meaning": "A typical example or pattern of something; a model.",
+            "example_sentence": "The internet has changed the paradigm of communication.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইন্টারনেট হ্যাজ চেঞ্জড দ্য প্যারাডাইম অফ কমিউনিকেশন।"
+            },
+            "position": 9,
+            "synonyms": "model, framework",
+            "antonyms": "disorganization, disorder",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দৃষ্টান্ত, কাঠামো, আদর্শ",
+                    "word_transliteration": "drishtanto, kathamo, adarsh",
+                    "example_sentence_translation": "ইন্টারনেট যোগাযোগের প্যারাডাইম পরিবর্তন করেছে।",
+                    "example_sentence_transliteration": "Internet jogajager paradigm poriborton korechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "judicious",
+            "phonetic": "dʒuːˈdɪʃ.əs",
+            "word_native_transliteration": {
+                "bn": "জুডিশিয়াস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚖️",
+            "meaning": "Having, showing, or done with good judgment or sense.",
+            "example_sentence": "A judicious leader makes well-informed decisions.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ জুডিশিয়াস লিডার মেকস ওয়েল-ইনফর্মড ডিসিশনস।"
+            },
+            "position": 10,
+            "synonyms": "wise, prudent",
+            "antonyms": "reckless, impulsive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিচক্ষণ, সুবিবেচনাপূর্ণ, যথাযথ সিদ্ধান্ত গ্রহণকারী",
+                    "word_transliteration": "bichokkhon, shubibechonapurno, jothajotho siddhanto grohonkari",
+                    "example_sentence_translation": "একজন জুডিশিয়াস নেতা সুপরিকল্পিত সিদ্ধান্ত গ্রহণ করেন।",
+                    "example_sentence_transliteration": "Ekjon judicious neta shuporikolvito siddhanto grohon koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "rationalization",
+            "phonetic": "ˌræʃ.ən.əl.ɪˈzeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "র্যাশনালাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💭",
+            "meaning": "The practice of finding reasons for behavior or actions that are not the real reasons.",
+            "example_sentence": "His rationalization of the mistake was not convincing.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ র্যাশনালাইজেশন অফ দ্য মিসটেক ওয়াজ নট কনভিন্সিং।"
+            },
+            "position": 11,
+            "synonyms": "justification, explanation",
+            "antonyms": "irrationality, misinterpretation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "যৌক্তিক ব্যাখ্যা, বিশ্লেষণ, কারণ দেখানো",
+                    "word_transliteration": "jouktik byakhya, bishlekhon, karon dekhano",
+                    "example_sentence_translation": "ভুলের র্যাশনালাইজেশন খুব একটা বিশ্বাসযোগ্য ছিল না।",
+                    "example_sentence_transliteration": "Bhuler rationalization khub ekta bishashojogyo chhilo na.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "inference",
+            "phonetic": "ˈɪn.fɚ.əns",
+            "word_native_transliteration": {
+                "bn": "ইনফারেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤔",
+            "meaning": "A conclusion reached on the basis of evidence and reasoning.",
+            "example_sentence": "Based on the evidence, his inference was accurate.",
+            "example_sentence_native_transliteration": {
+                "bn": "বেসড অন দ্য এভিডেন্স, হিজ ইনফারেন্স ওয়াজ অ্যাকুরেট।"
+            },
+            "position": 12,
+            "synonyms": "conclusion, deduction",
+            "antonyms": "assumption, misjudgment",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনুমান, উপসংহার, তথ্য থেকে সিদ্ধান্ত গ্রহণ",
+                    "word_transliteration": "onuman, uposhonghar, tothyo theke siddhanto grohon",
+                    "example_sentence_translation": "প্রমাণের ভিত্তিতে তার ইনফারেন্স ছিল সঠিক।",
+                    "example_sentence_transliteration": "Promaner bhittite tar inference chhilo shothik.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "extrapolate",
+            "phonetic": "ɪkˈstræp.ə.leɪt",
+            "word_native_transliteration": {
+                "bn": "এক্সট্রাপোলেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📈",
+            "meaning": "Extend the application of (a method or conclusion) to an unknown situation by assuming that existing trends will continue.",
+            "example_sentence": "Scientists extrapolate future climate trends from past data.",
+            "example_sentence_native_transliteration": {
+                "bn": "সায়েন্টিস্টস এক্সট্রাপোলেট ফিউচার ক্লাইমেট ট্রেন্ডস ফ্রম পাস্ট ডেটা।"
+            },
+            "position": 13,
+            "synonyms": "predict, infer",
+            "antonyms": "miscalculate, misinterpret",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনুমান করে সিদ্ধান্ত নেওয়া, ভবিষ্যৎ বাণী করা, বিদ্যমান তথ্য থেকে অনুমান করা",
+                    "word_transliteration": "onuman kore siddhanto neowa, bhobishyot bani kora, bidyoman tothyo theke onuman kora",
+                    "example_sentence_translation": "বিজ্ঞানীরা অতীত তথ্য থেকে ভবিষ্যৎ জলবায়ুর ধারা এক্সট্রাপোলেট করেন।",
+                    "example_sentence_transliteration": "Biggyanira otit tothyo theke bhobishyot jolbayur dhara extrapolate koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "scrutiny",
+            "phonetic": "ˈskruː.tɪ.ni",
+            "word_native_transliteration": {
+                "bn": "স্ক্রুটিনি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔬",
+            "meaning": "Critical observation or examination.",
+            "example_sentence": "The report is under intense scrutiny by experts.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রিপোর্ট ইজ আন্ডার ইনটেন্স স্ক্রুটিনি বাই এক্সপার্টস।"
+            },
+            "position": 14,
+            "synonyms": "inspection, examination",
+            "antonyms": "neglect, oversight",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সতর্ক বিশ্লেষণ, নিবিড় পরীক্ষা, পর্যবেক্ষণ",
+                    "word_transliteration": "shotorko bishlekhon, nibir porikha, porjobekkhon",
+                    "example_sentence_translation": "প্রতিবেদনটি বিশেষজ্ঞদের দ্বারা গভীর স্ক্রুটিনি-এর অধীনে রয়েছে।",
+                    "example_sentence_transliteration": "Protibedonto bisheshogger dwara gobhir scrutiny-er adhine royechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "metacognition",
+            "phonetic": "ˌmet.ə.kɒɡˈnɪʃ.ən",
+            "word_native_transliteration": {
+                "bn": "মেটাকগনিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🪞",
+            "meaning": "Awareness and understanding of one's own thought processes.",
+            "example_sentence": "Metacognition helps students assess their own learning strategies.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেটাকগনিশন হেল্পস স্টুডেন্টস অ্যাসেস দেয়ার ওন লার্নিং স্ট্র্যাটেজিস।"
+            },
+            "position": 15,
+            "synonyms": "self-awareness, reflection",
+            "antonyms": "unawareness, ignorance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চিন্তা সম্পর্কে চিন্তা, শেখার প্রক্রিয়ার উপলব্ধি",
+                    "word_transliteration": "chinta shomporkhe chinta, shekhar prokriyar upolabdhi",
+                    "example_sentence_translation": "মেটাকগনিশন শিক্ষার্থীদের নিজেদের শেখার কৌশল মূল্যায়নে সাহায্য করে।",
+                    "example_sentence_transliteration": "Metacognition shikkharthider nijeder shekhar koushol mullayune shahayyata kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "eloquence",
+            "phonetic": "ˈel.ə.kwəns",
+            "word_native_transliteration": {
+                "bn": "এলোকোয়েন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎤",
+            "meaning": "Fluent or persuasive speaking or writing.",
+            "example_sentence": "His eloquence made the speech inspiring.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ এলোকোয়েন্স মেড দ্য স্পিচ ইনস্পায়ারিং।"
+            },
+            "position": 16,
+            "synonyms": "articulacy, fluency",
+            "antonyms": "incoherence, hesitation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাকপটুতা, স্পষ্ট ও প্রভাবশালী বক্তব্য দেওয়ার ক্ষমতা",
+                    "word_transliteration": "bakpotuta, sposhto o prabhavshali boktobyo deowar khomota",
+                    "example_sentence_translation": "তার এলোকোয়েন্স বক্তব্যটিকে অনুপ্রেরণাদায়ক করেছে।",
+                    "example_sentence_transliteration": "Tar eloquence boktobyotike onupreronadadayok korechhe.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

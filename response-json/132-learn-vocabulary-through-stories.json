@@ -1,0 +1,472 @@
+{
+    "position": 132,
+    "title_translation": {
+        "en": "How Technology is Changing Agriculture",
+        "bn": "প্রযুক্তি কীভাবে কৃষিকে পরিবর্তন করছে"
+    },
+    "content_translation": {
+        "en": "Modern **automation** and **mechanization** have brought a new revolution to agriculture. Previously, farming was completely labor-dependent, but now with the use of **precision** technology, productivity is increasing at an **exponential** rate. New **innovative** methods are ensuring quality of crops through **optimization**. Through **Agroecology**, maintaining **biodiversity**, sustainable development in farming is becoming possible. Due to the use of **nanotechnology** in agriculture, soil nutrition improvement, disease resistance, and proper **cultivation** have become easier. Additionally, **computation**-based data analysis is being done for **microclimate** monitoring, which helps farmers make better decisions. This **convergence** is not only increasing production but also ensuring **sustainability**. Through **Cybernetics** and **augmentation** technology, more **resilience** is being created in the agricultural sector, which will build a strong foundation for the future.",
+        "bn": "আধুনিক **automation** এবং **mechanization** কৃষি ক্ষেত্রে এক নতুন বিপ্লব এনেছে। আগে যে খামার চাষাবাদ ছিল সম্পূর্ণ শ্রমনির্ভর, এখন **precision** প্রযুক্তির ব্যবহারে উৎপাদনশীলতা **exponential** হারে বৃদ্ধি পাচ্ছে। নতুন **innovative** পদ্ধতিতে **optimization** করে ফসলের গুণগত মান নিশ্চিত করা হচ্ছে। **Agroecology**-এর মাধ্যমে **biodiversity** বজায় রেখে, ফসল চাষের টেকসই উন্নয়ন সম্ভব হচ্ছে। কৃষিতে **nanotechnology** ব্যবহারের ফলে মাটির পুষ্টি বাড়ানো, রোগ প্রতিরোধ এবং সঠিক **cultivation** আরও সহজ হয়ে উঠেছে। তাছাড়া, **microclimate** পর্যবেক্ষণের জন্য **computation**-ভিত্তিক ডেটা বিশ্লেষণ করা হচ্ছে, যা কৃষকদের উন্নত সিদ্ধান্ত নিতে সহায়তা করছে। এই **convergence** শুধু উৎপাদন বাড়াচ্ছে না, বরং **sustainability** নিশ্চিত করছে। **Cybernetics** ও **augmentation** প্রযুক্তির মাধ্যমে কৃষি খাতে আরও বেশি **resilience** তৈরি হচ্ছে, যা ভবিষ্যতের জন্য একটি শক্তিশালী ভিত্তি গড়ে তুলবে।"
+    },
+    "list": [
+        {
+            "word": "automation",
+            "phonetic": "ˌɔː.təˈmeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "অটোমেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤖",
+            "meaning": "The use of machines or computers to do work that was previously done by people.",
+            "example_sentence": "Automation has increased efficiency in industries.",
+            "example_sentence_native_transliteration": {
+                "bn": "অটোমেশন হ্যাজ ইনক্রিজড এফিশিয়েন্সি ইন ইন্ডাস্ট্রিজ।"
+            },
+            "position": 1,
+            "synonyms": "mechanization, robotics, self-operation",
+            "antonyms": "manual labor, handcrafting, traditional methods",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বয়ংক্রিয়তা",
+                    "word_transliteration": "shoyongkriyota",
+                    "example_sentence_translation": "অটোমেশন শিল্পখাতে দক্ষতা বৃদ্ধি করেছে।",
+                    "example_sentence_transliteration": "Automation shilpokkhate dokkhota briddhi koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "mechanization",
+            "phonetic": "ˌmek.ə.naɪˈzeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "মেকানাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚙️",
+            "meaning": "The process of introducing machines or replacing manual labor with machines.",
+            "example_sentence": "Mechanization has revolutionized agriculture.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেকানাইজেশন হ্যাজ রেভোলিউশনাইজড অ্যাগ্রিকালচার।"
+            },
+            "position": 2,
+            "synonyms": "industrialization, engineering, modernization",
+            "antonyms": "handcrafting, manual work, primitive methods",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "যান্ত্রিকীকরণ",
+                    "word_transliteration": "jantrikikaron",
+                    "example_sentence_translation": "মেকানাইজেশন কৃষিতে বিপ্লব ঘটিয়েছে।",
+                    "example_sentence_transliteration": "Mechanization krishite biplob ghotiyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "precision",
+            "phonetic": "prɪˈsɪʒ.ən",
+            "word_native_transliteration": {
+                "bn": "প্রিসিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The quality of being exact and accurate.",
+            "example_sentence": "High precision instruments are used in surgery.",
+            "example_sentence_native_transliteration": {
+                "bn": "হাই প্রিসিশন ইনস্ট্রুমেন্টস আর ইউজড ইন সার্জারি।"
+            },
+            "position": 3,
+            "synonyms": "accuracy, exactness, perfection",
+            "antonyms": "inaccuracy, error, vagueness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নির্ভুলতা",
+                    "word_transliteration": "nirbhulota",
+                    "example_sentence_translation": "সার্জারিতে উচ্চ প্রিসিশন যন্ত্র ব্যবহার করা হয়।",
+                    "example_sentence_transliteration": "Sarjarite uchcho precision jontro bebhar kora hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "exponential",
+            "phonetic": "ˌek.spəˈnen.ʃəl",
+            "word_native_transliteration": {
+                "bn": "এক্সপোনেনশিয়াল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📈",
+            "meaning": "Growing or increasing very rapidly.",
+            "example_sentence": "The company experienced exponential growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি এক্সপেরিয়েন্সড এক্সপোনেনশিয়াল গ্রোথ।"
+            },
+            "position": 4,
+            "synonyms": "rapid, accelerating, unprecedented",
+            "antonyms": "gradual, steady, linear",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্রুত বৃদ্ধিশীল",
+                    "word_transliteration": "druto briddhishil",
+                    "example_sentence_translation": "কোম্পানিটি এক্সপোনেনশিয়াল বৃদ্ধি পেয়েছে।",
+                    "example_sentence_transliteration": "Companiti exponential briddhi peyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "innovative",
+            "phonetic": "ˈɪn.ə.və.tɪv",
+            "word_native_transliteration": {
+                "bn": "ইনোভেটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💡",
+            "meaning": "Introducing or using new ideas or methods.",
+            "example_sentence": "The startup introduced an innovative solution.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্টার্টআপ ইন্ট্রোডিউসড অ্যান ইনোভেটিভ সলিউশন।"
+            },
+            "position": 5,
+            "synonyms": "creative, groundbreaking, revolutionary",
+            "antonyms": "conventional, outdated, traditional",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নতুনত্বপূর্ণ",
+                    "word_transliteration": "notuntopurno",
+                    "example_sentence_translation": "স্টার্টআপটি একটি ইনোভেটিভ সমাধান উপস্থাপন করেছে।",
+                    "example_sentence_transliteration": "Startupti ekti innovative somadhan uposthapan koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "optimization",
+            "phonetic": "ˌɒp.tɪ.maɪˈzeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "অপটিমাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "The action of making the best or most effective use of something.",
+            "example_sentence": "Proper optimization increases resource efficiency.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রপার অপটিমাইজেশন ইনক্রিজেজ রিসোর্স এফিশিয়েন্সি।"
+            },
+            "position": 6,
+            "synonyms": "enhancement, improvement, maximization",
+            "antonyms": "inefficiency, wastefulness, mismanagement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সর্বোত্তম ব্যবহার",
+                    "word_transliteration": "sorbottom bebhar",
+                    "example_sentence_translation": "সঠিক অপটিমাইজেশন সম্পদের কার্যকারিতা বাড়ায়।",
+                    "example_sentence_transliteration": "Sothik optimization sompoder karjokarrita baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "agroecology",
+            "phonetic": "ˌæɡ.roʊ.iˈkɒl.ə.dʒi",
+            "word_native_transliteration": {
+                "bn": "অ্যাগ্রোইকোলজি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌱",
+            "meaning": "A scientific discipline that studies agricultural systems by applying ecological concepts and principles.",
+            "example_sentence": "Agroecology promotes eco-friendly farming.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাগ্রোইকোলজি প্রোমোটস ইকো-ফ্রেন্ডলি ফার্মিং।"
+            },
+            "position": 7,
+            "synonyms": "sustainable farming, agricultural science, ecosystem-based agriculture",
+            "antonyms": "industrial farming, unsustainable methods, monoculture",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কৃষি ও পরিবেশগত বিজ্ঞান",
+                    "word_transliteration": "krishi o poribeshgoto biggan",
+                    "example_sentence_translation": "অ্যাগ্রোইকোলজি পরিবেশবান্ধব কৃষিকে উৎসাহিত করে।",
+                    "example_sentence_transliteration": "Agroecology poribeshbandhob krishike utsahit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "biodiversity",
+            "phonetic": "ˌbaɪ.oʊ.daɪˈvɜː.sə.ti",
+            "word_native_transliteration": {
+                "bn": "বায়োডাইভারসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌍",
+            "meaning": "The variety of plant and animal life in the world or in a particular habitat.",
+            "example_sentence": "Biodiversity loss threatens food security.",
+            "example_sentence_native_transliteration": {
+                "bn": "বায়োডাইভারসিটি লস থ্রেটেন্স ফুড সিকিউরিটি।"
+            },
+            "position": 8,
+            "synonyms": "ecosystem variation, species richness, genetic diversity",
+            "antonyms": "extinction, homogeneity, degradation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জীববৈচিত্র্য",
+                    "word_transliteration": "jibboichittro",
+                    "example_sentence_translation": "বায়োডাইভারসিটি হ্রাস খাদ্য নিরাপত্তার জন্য হুমকি।",
+                    "example_sentence_transliteration": "Biodiversity hras khadyo nirapottar jonno humki.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "nanotechnology",
+            "phonetic": "ˌnæn.oʊ.tekˈnɒl.ə.dʒi",
+            "word_native_transliteration": {
+                "bn": "ন্যানোটেকনোলজি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔬",
+            "meaning": "The branch of technology that deals with dimensions and tolerances of less than 100 nanometers.",
+            "example_sentence": "Nanotechnology is advancing medical treatments.",
+            "example_sentence_native_transliteration": {
+                "bn": "ন্যানোটেকনোলজি ইজ অ্যাডভান্সিং মেডিকেল ট্রিটমেন্টস।"
+            },
+            "position": 9,
+            "synonyms": "molecular engineering, microfabrication, quantum technology",
+            "antonyms": "macrotechnology, large-scale engineering, traditional science",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতি ক্ষুদ্র প্রযুক্তি",
+                    "word_transliteration": "oti khudro projukti",
+                    "example_sentence_translation": "ন্যানোটেকনোলজি চিকিৎসার ক্ষেত্রে উন্নতি আনছে।",
+                    "example_sentence_transliteration": "Nanotechnology chikitsar khetre unnoti anche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cultivation",
+            "phonetic": "ˌkʌl.tɪˈveɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "কালটিভেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌾",
+            "meaning": "The action of cultivating land, or the state of being cultivated.",
+            "example_sentence": "Sustainable cultivation practices protect the soil.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাস্টেইনেবল কালটিভেশন প্র্যাকটিসেস প্রোটেক্ট দ্য সয়েল।"
+            },
+            "position": 10,
+            "synonyms": "farming, agriculture, horticulture",
+            "antonyms": "abandonment, neglect, depletion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চাষাবাদ",
+                    "word_transliteration": "chasabad",
+                    "example_sentence_translation": "টেকসই কালটিভেশন মাটি সংরক্ষণে সহায়ক।",
+                    "example_sentence_transliteration": "Teksoi cultivation mati songrokkhone sahayok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "microclimate",
+            "phonetic": "ˈmaɪ.krəʊ.klaɪ.mət",
+            "word_native_transliteration": {
+                "bn": "মাইক্রোক্লাইমেট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌡️",
+            "meaning": "The climate of a very small or restricted area, especially when this differs from the climate of the surrounding area.",
+            "example_sentence": "The forest creates its own microclimate.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফরেস্ট ক্রিয়েটস ইটস ওন মাইক্রোক্লাইমেট।"
+            },
+            "position": 11,
+            "synonyms": "local climate, atmospheric condition, ecological climate",
+            "antonyms": "macroclimate, general climate, global weather",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্ষুদ্র জলবায়ু",
+                    "word_transliteration": "khudro jolbayu",
+                    "example_sentence_translation": "বন তার নিজস্ব মাইক্রোক্লাইমেট তৈরি করে।",
+                    "example_sentence_transliteration": "Bon tar nijossho microclimate toiri kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "computation",
+            "phonetic": "ˌkɒm.pjʊˈteɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "কম্পিউটেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧮",
+            "meaning": "The action of mathematical calculation.",
+            "example_sentence": "Complex computation is required for AI models.",
+            "example_sentence_native_transliteration": {
+                "bn": "কমপ্লেক্স কম্পিউটেশন ইজ রিকোয়ার্ড ফর এআই মডেলস।"
+            },
+            "position": 12,
+            "synonyms": "calculation, data processing, algorithmic analysis",
+            "antonyms": "miscalculation, estimation, approximation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গণনা",
+                    "word_transliteration": "gonona",
+                    "example_sentence_translation": "এআই মডেলের জন্য জটিল কম্পিউটেশন প্রয়োজন।",
+                    "example_sentence_transliteration": "AI modeler jonno jotil computation proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "convergence",
+            "phonetic": "kənˈvɜː.dʒəns",
+            "word_native_transliteration": {
+                "bn": "কনভারজেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔗",
+            "meaning": "The process or state of converging.",
+            "example_sentence": "The convergence of technology and healthcare is transforming medical science.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কনভারজেন্স অফ টেকনোলজি অ্যান্ড হেলথকেয়ার ইজ ট্রান্সফর্মিং মেডিকেল সায়েন্স।"
+            },
+            "position": 13,
+            "synonyms": "unification, merging, integration",
+            "antonyms": "divergence, separation, discrepancy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একীভূত হওয়া",
+                    "word_transliteration": "ekibhut howa",
+                    "example_sentence_translation": "প্রযুক্তি ও স্বাস্থ্য সেবার কনভারজেন্স চিকিৎসা বিজ্ঞানে পরিবর্তন আনছে।",
+                    "example_sentence_transliteration": "Projukti o swasthyo sebar convergence chikitsa biggane poriborton anche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sustainability",
+            "phonetic": "səˌsteɪ.nəˈbɪl.ə.ti",
+            "word_native_transliteration": {
+                "bn": "সাসটেইনেবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "♻️",
+            "meaning": "The ability to be maintained at a certain rate or level.",
+            "example_sentence": "Sustainability ensures a better future for coming generations.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাসটেইনেবিলিটি এনশিওরস এ বেটার ফিউচার ফর কামিং জেনারেশনস।"
+            },
+            "position": 14,
+            "synonyms": "environmental stability, renewable balance, long-term viability",
+            "antonyms": "unsustainability, depletion, exhaustion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "টেকসইতা",
+                    "word_transliteration": "teksoita",
+                    "example_sentence_translation": "সাসটেইনেবিলিটি ভবিষ্যৎ প্রজন্মের জন্য উন্নত ভবিষ্যৎ নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Sustainability bhabishhot projnomer jonno unnoto bhabishhot nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cybernetics",
+            "phonetic": "ˌsaɪ.bəˈnet.ɪks",
+            "word_native_transliteration": {
+                "bn": "সাইবারনেটিক্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The science of communications and automatic control systems in both machines and living things.",
+            "example_sentence": "Cybernetics plays a crucial role in artificial intelligence.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাইবারনেটিক্স প্লেজ এ ক্রুশিয়াল রোল ইন আর্টিফিশিয়াল ইন্টেলিজেন্স।"
+            },
+            "position": 15,
+            "synonyms": "systems control, AI automation, robotics",
+            "antonyms": "analog systems, manual control, unregulated systems",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জৈব ও যান্ত্রিক নিয়ন্ত্রণ ব্যবস্থা",
+                    "word_transliteration": "joibo o jantrik niyontron bebostha",
+                    "example_sentence_translation": "সাইবারনেটিক্স কৃত্রিম বুদ্ধিমত্তায় গুরুত্বপূর্ণ ভূমিকা রাখে।",
+                    "example_sentence_transliteration": "Cybernetics kritrimo buddhimottay guruttopurno bhumika rakhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "augmentation",
+            "phonetic": "ˌɔːɡ.menˈteɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "অগমেন্টেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "The action or process of making or becoming greater in size or amount.",
+            "example_sentence": "The augmentation of human capabilities through AI is fascinating.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অগমেন্টেশন অফ হিউম্যান ক্যাপাবিলিটিজ থ্রু এআই ইজ ফ্যাসিনেটিং।"
+            },
+            "position": 16,
+            "synonyms": "enhancement, expansion, amplification",
+            "antonyms": "reduction, diminution, decline",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৃদ্ধি",
+                    "word_transliteration": "briddhi",
+                    "example_sentence_translation": "কৃত্রিম বুদ্ধিমত্তার মাধ্যমে মানব ক্ষমতার অগমেন্টেশন চিত্তাকর্ষক।",
+                    "example_sentence_transliteration": "Kritrimo buddhimottar maddhome manob kkhomotar augmentation chittakorshok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "resilience",
+            "phonetic": "rɪˈzɪl.jəns",
+            "word_native_transliteration": {
+                "bn": "রেজিলিয়েন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "The capacity to recover quickly from difficulties; toughness.",
+            "example_sentence": "Mental resilience helps in overcoming life's challenges.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেন্টাল রেজিলিয়েন্স হেল্পস ইন ওভারকামিং লাইফস চ্যালেঞ্জেস।"
+            },
+            "position": 17,
+            "synonyms": "toughness, endurance, adaptability",
+            "antonyms": "fragility, vulnerability, weakness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিকূলতা মোকাবিলার ক্ষমতা",
+                    "word_transliteration": "protikulota mokabilar khomota",
+                    "example_sentence_translation": "মানসিক রেজিলিয়েন্স জীবনের চ্যালেঞ্জ মোকাবিলায় সহায়ক।",
+                    "example_sentence_transliteration": "Manoshik resilience jiboner challenge mokabilay sahayok.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

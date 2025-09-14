@@ -1,0 +1,445 @@
+{
+    "position": 137,
+    "title_translation": {
+        "en": "How to Draw Your Own Family Tree",
+        "bn": "How to Draw Your Own Family Tree"
+    },
+    "content_translation": {
+        "en": "A **family tree** is a wonderful way to track your **family** history and **lineage**. It gives you the opportunity to learn about your **ancestors**, **relatives**, and relationships. Let's learn step by step how to create a **family tree**.\n\n1. **Collect Family Information**\nFirst, collect information about your **parents**, **grandparents**, and **siblings**. Write down their full **names**, birth dates, and places of birth. If you have **photos**, include them.\n\n2. **Choose a Design**\nYour **family tree** can be vertical or horizontal. It can be created in hand-drawn or **digital format**. You can use online **tools** like Canva and FamilySearch.\n\n3. **Organize Generations**\nFirst place yourself, then **parents**, **grandparents**, and great-**grandparents**. Use **branches** and lines to show relationships.\n\n4. **Add Personal Details**\nAdd **names**, birth dates, and **photos** with each **family** member. This will make the **family tree** more engaging.\n\n5. **Finalize and Share**\nOnce your **family tree** is complete, **frame** it or make a **digital** copy to share.",
+        "bn": "**family tree** আপনার family history এবং **lineage** চিহ্নিত করার একটি চমৎকার উপায়। এটি আপনাকে আপনার **ancestors**, **relatives**, এবং relationships সম্পর্কে জানার সুযোগ দেয়। আসুন, কিভাবে একটি **family tree** তৈরি করবেন, তা ধাপে ধাপে শিখি।\n\n1. **Collect Family Information**\nপ্রথমে, আপনার **parents**, **grandparents**, এবং **siblings** এর তথ্য সংগ্রহ করুন। তাদের full **names**, birth dates, এবং places of birth লিখুন। **Photos** থাকলে, সেগুলো সংযুক্ত করুন।\n\n2. **Choose a Design**\nআপনার **family tree** হতে পারে **vertical** বা **horizontal**। Hand-drawn অথবা **digital format**-এ তৈরি করা যেতে পারে। Online **tools** যেমন Canva এবং FamilySearch ব্যবহার করতে পারেন।\n\n3. **Organize Generations**\nপ্রথমে নিজেকে রাখুন, তারপর **parents**, **grandparents**, এবং great-**grandparents**। **Branches** এবং lines ব্যবহার করে সম্পর্ক দেখান।\n\n4. **Add Personal Details**\nপ্রতিটি **family** member-এর সাথে **names**, birth dates, এবং **photos** যুক্ত করুন। এতে **family tree** আরও engaging হবে।\n\n5. **Finalize and Share**\nআপনার **family tree** সম্পূর্ণ হলে এটি **frame** করুন অথবা **digital** copy বানিয়ে share করুন।"
+    },
+    "list": [
+        {
+            "word": "Family Tree",
+            "phonetic": "ˈfæmɪli triː",
+            "word_native_transliteration": {
+                "bn": "ফ্যামিলি ট্রি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌳",
+            "meaning": "A diagram showing the relationships between people in several generations of a family.",
+            "example_sentence": "Creating a family tree helps understand family history.",
+            "example_sentence_native_transliteration": {
+                "bn": "ক্রিয়েটিং অ্যা ফ্যামিলি ট্রি হেল্পস আন্ডারস্ট্যান্ড ফ্যামিলি হিস্ট্রি।"
+            },
+            "position": 1,
+            "synonyms": "genealogy, lineage chart, pedigree",
+            "antonyms": "Disconnection, Separation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পারিবারিক গাছ",
+                    "word_transliteration": "paribaarik gaach",
+                    "example_sentence_translation": "একটি পারিবারিক গাছ তৈরি করা পরিবারের ইতিহাস বুঝতে সহায়ক।",
+                    "example_sentence_transliteration": "Ekti paribaarik gaach toiri kora poribaarer itihaash bujhte shahaayok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Lineage",
+            "phonetic": "ˈlɪniɪdʒ",
+            "word_native_transliteration": {
+                "bn": "লিনিয়েজ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧬",
+            "meaning": "Direct descent from an ancestor; ancestry or pedigree.",
+            "example_sentence": "Tracing your lineage can reveal unknown ancestors.",
+            "example_sentence_native_transliteration": {
+                "bn": "ট্রেসিং ইয়োর লিনিয়েজ কেন রিভিল আননোন অ্যানসেস্টর্স।"
+            },
+            "position": 2,
+            "synonyms": "ancestry, heritage, pedigree",
+            "antonyms": "Anonymity, Disconnection",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বংশপরম্পরা",
+                    "word_transliteration": "bongshoprompora",
+                    "example_sentence_translation": "আপনার বংশপরম্পরা অন্বেষণ করে অজানা পূর্বপুরুষদের খুঁজে পেতে পারে।",
+                    "example_sentence_transliteration": "Aponaar bongshoprompora onbeshon kore ajaanaa purboporushdder khuje pete paare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Ancestors",
+            "phonetic": "ˈænsɛstərz",
+            "word_native_transliteration": {
+                "bn": "অ্যানসেস্টর্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👴",
+            "meaning": "A person from whom one is descended; a forefather.",
+            "example_sentence": "The family tree shows the names of all ancestors.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফ্যামিলি ট্রি শোজ দ্য নেমস অফ অল অ্যানসেস্টর্স।"
+            },
+            "position": 3,
+            "synonyms": "forefathers, predecessors, forebears",
+            "antonyms": "Descendants, Offspring",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পূর্বপুরুষ",
+                    "word_transliteration": "purboporush",
+                    "example_sentence_translation": "পারিবারিক গাছে সকল পূর্বপুরুষের নাম প্রদর্শিত হয়।",
+                    "example_sentence_transliteration": "Paribaarik gaachhe shokol purboporusher naam prodorshito hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Relatives",
+            "phonetic": "ˈrɛlətɪvz",
+            "word_native_transliteration": {
+                "bn": "রিলেটিভস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👨‍👩‍👧‍👦",
+            "meaning": "A person connected by blood or marriage; a kinsman or kinswoman.",
+            "example_sentence": "Relatives can help you build a complete family tree.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিলেটিভস কেন হেল্প ইউ বিল্ড অ্যা কমপ্লিট ফ্যামিলি ট্রি।"
+            },
+            "position": 4,
+            "synonyms": "family members, kin, relations",
+            "antonyms": "Strangers, Unrelated People",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আত্মীয়",
+                    "word_transliteration": "aatmeeyo",
+                    "example_sentence_translation": "আত্মীয়রা আপনাকে একটি সম্পূর্ণ পারিবারিক গাছ তৈরি করতে সহায়তা করতে পারে।",
+                    "example_sentence_transliteration": "Aatmeeyoraa aponaake ekti shompurno paribaarik gaach toiri korte shahaayotaa korte paare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Generations",
+            "phonetic": "ˌdʒɛnəˈreɪʃənz",
+            "word_native_transliteration": {
+                "bn": "জেনারেশনস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👶👦👨👴",
+            "meaning": "All of the people born and living at about the same time, regarded collectively.",
+            "example_sentence": "The family tree spans several generations.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফ্যামিলি ট্রি স্প্যানস সেভারাল জেনারেশনস।"
+            },
+            "position": 5,
+            "synonyms": "ages, eras, periods",
+            "antonyms": "Single Generation, Individual",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রজন্ম",
+                    "word_transliteration": "projnomo",
+                    "example_sentence_translation": "পারিবারিক গাছটি কয়েকটি প্রজন্ম জুড়ে বিস্তৃত।",
+                    "example_sentence_transliteration": "Paribaarik gaachti koyekti projnomo jure bishtrito.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Parents",
+            "phonetic": "ˈpɛrənts",
+            "word_native_transliteration": {
+                "bn": "পেরেন্টস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👨‍👩",
+            "meaning": "One's father and mother.",
+            "example_sentence": "The family tree starts with the child's parents.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফ্যামিলি ট্রি স্টার্টস উইথ দ্য চাইল্ডস পেরেন্টস।"
+            },
+            "position": 6,
+            "synonyms": "mother and father, guardians",
+            "antonyms": "Child, Offspring",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাবা-মা",
+                    "word_transliteration": "baabaa-maa",
+                    "example_sentence_translation": "পারিবারিক গাছটি শিশুর বাবা-মা দিয়ে শুরু হয়।",
+                    "example_sentence_transliteration": "Paribaarik gaachti shishur baabaa-maa diye shuru hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Grandparents",
+            "phonetic": "ˈɡrænˌpɛrənts",
+            "word_native_transliteration": {
+                "bn": "গ্র্যান্ডপেরেন্টস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👴👵",
+            "meaning": "The parents of one's father or mother.",
+            "example_sentence": "Grandparents are an important part of the family tree.",
+            "example_sentence_native_transliteration": {
+                "bn": "গ্র্যান্ডপেরেন্টস আর অ্যান ইম্পরট্যান্ট পার্ট অফ দ্য ফ্যামিলি ট্রি।"
+            },
+            "position": 7,
+            "synonyms": "grandmothers and grandfathers",
+            "antonyms": "Grandchildren, Descendants",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দাদা-দাদী বা নানা-নানী",
+                    "word_transliteration": "daadaa-daadee baa naanaa-naanee",
+                    "example_sentence_translation": "দাদা-দাদী বা নানা-নানী পারিবারিক গাছের একটি গুরুত্বপূর্ণ অংশ।",
+                    "example_sentence_transliteration": "Daadaa-daadee baa naanaa-naanee paribaarik gaachher ekti guruttopurno ongsho.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Siblings",
+            "phonetic": "ˈsɪblɪŋz",
+            "word_native_transliteration": {
+                "bn": "সিবলিংস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👫",
+            "meaning": "Each of two or more children or offspring having one or both parents in common.",
+            "example_sentence": "Siblings are usually placed on the same level in a family tree.",
+            "example_sentence_native_transliteration": {
+                "bn": "সিবলিংস আর ইউজুয়ালি প্লেসড অন দ্য সেম লেভেল ইন অ্যা ফ্যামিলি ট্রি।"
+            },
+            "position": 8,
+            "synonyms": "brothers and sisters",
+            "antonyms": "Strangers, Unrelated People",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভাই-বোন",
+                    "word_transliteration": "bhaai-bon",
+                    "example_sentence_translation": "পারিবারিক গাছে ভাই-বোনদের সাধারণত একই স্তরে রাখা হয়।",
+                    "example_sentence_transliteration": "Paribaarik gaachhe bhaai-bondder shaadharonoto ekee sstore raakhaa hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Branches",
+            "phonetic": "ˈbræntʃɪz",
+            "word_native_transliteration": {
+                "bn": "ব্রাঞ্চেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌿",
+            "meaning": "A part of a tree that grows out from the trunk or from a bough.",
+            "example_sentence": "Family tree branches show the relationship between family members.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফ্যামিলি ট্রি ব্রাঞ্চেস শো দ্য রিলেশনশিপ বিটুইন ফ্যামিলি মেম্বার্স।"
+            },
+            "position": 9,
+            "synonyms": "limbs, arms, offshoots",
+            "antonyms": "Trunk, Root",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শাখা",
+                    "word_transliteration": "shaakhaa",
+                    "example_sentence_translation": "পারিবারিক গাছের শাখাগুলি পরিবারের সদস্যদের সম্পর্ক দেখায়।",
+                    "example_sentence_transliteration": "Paribaarik gaachher shaakhaaguli poribaarer shodoshyoddher shomporko dekhaay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Photos",
+            "phonetic": "ˈfoʊtoʊz",
+            "word_native_transliteration": {
+                "bn": "ফোটোস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📷",
+            "meaning": "Photographs; pictures taken with a camera.",
+            "example_sentence": "Adding photos to a family tree makes it more personal.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাডিং ফোটোস টু অ্যা ফ্যামিলি ট্রি মেকস ইট মোর পার্সোনাল।"
+            },
+            "position": 10,
+            "synonyms": "pictures, photographs, images",
+            "antonyms": "Drawings, Illustrations",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ছবি",
+                    "word_transliteration": "chhobi",
+                    "example_sentence_translation": "পারিবারিক গাছে ছবি যোগ করা এটিকে আরও ব্যক্তিগত করে তোলে।",
+                    "example_sentence_transliteration": "Paribaarik gaachhe chhobi yog koraa etike aaro byoktigoto kore tole.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Names",
+            "phonetic": "neɪmz",
+            "word_native_transliteration": {
+                "bn": "নেমস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📝",
+            "meaning": "A word or set of words by which a person or thing is known.",
+            "example_sentence": "Names of family members are written on the family tree.",
+            "example_sentence_native_transliteration": {
+                "bn": "নেমস অফ ফ্যামিলি মেম্বার্স আর রিটেন অন দ্য ফ্যামিলি ট্রি।"
+            },
+            "position": 11,
+            "synonyms": "titles, appellations, designations",
+            "antonyms": "Numbers, Codes",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নাম",
+                    "word_transliteration": "naam",
+                    "example_sentence_translation": "পরিবারের সদস্যদের নাম পারিবারিক গাছে লেখা হয়।",
+                    "example_sentence_transliteration": "Poribaarer shodoshyodder naam paribaarik gaachhe lekhaa hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Digital Format",
+            "phonetic": "ˈdɪdʒɪtəl ˈfɔːrmæt",
+            "word_native_transliteration": {
+                "bn": "ডিজিটাল ফরম্যাট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💻",
+            "meaning": "A format in which information is stored as electronic data.",
+            "example_sentence": "A digital format family tree can be shared online.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যা ডিজিটাল ফরম্যাট ফ্যামিলি ট্রি কেন বি শেয়ার্ড অনলাইন।"
+            },
+            "position": 12,
+            "synonyms": "electronic format, computerized format",
+            "antonyms": "Paper Format, Physical Format",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ডিজিটাল বিন্যাস",
+                    "word_transliteration": "digital binnyaash",
+                    "example_sentence_translation": "একটি ডিজিটাল ফরম্যাট পারিবারিক গাছ অনলাইনে শেয়ার করা যেতে পারে।",
+                    "example_sentence_transliteration": "Ekti digital format paribaarik gaach onlaaine sheyaar koraa yete paare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Tools",
+            "phonetic": "tuːlz",
+            "word_native_transliteration": {
+                "bn": "টুলস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛠️",
+            "meaning": "A device or implement used to carry out a particular function.",
+            "example_sentence": "You can use online tools like FamilySearch to create a family tree.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইউ কেন ইউজ অনলাইন টুলস লাইক ফ্যামিলিসার্চ টু ক্রিয়েট অ্যা ফ্যামিলি ট্রি।"
+            },
+            "position": 13,
+            "synonyms": "instruments, implements, equipment",
+            "antonyms": "Useless Items, Non-functional Objects",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সরঞ্জাম",
+                    "word_transliteration": "shornjaam",
+                    "example_sentence_translation": "ফ্যামিলি ট্রি তৈরি করতে আপনি FamilySearch এর মতো অনলাইন টুল ব্যবহার করতে পারেন।",
+                    "example_sentence_transliteration": "Family tree toiri korte aapni FamilySearch er moto onlaaein tool byobhaar korte paaren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Frame",
+            "phonetic": "freɪm",
+            "word_native_transliteration": {
+                "bn": "ফ্রেম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🖼️",
+            "meaning": "A rigid structure that surrounds something such as a picture, door, or windowpane.",
+            "example_sentence": "A framed family tree can be displayed in your home.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যা ফ্রেমড ফ্যামিলি ট্রি কেন বি ডিসপ্লেয়েড ইন ইয়োর হোম।"
+            },
+            "position": 14,
+            "synonyms": "border, surround, mount",
+            "antonyms": "Unframed, Borderless",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ফ্রেম",
+                    "word_transliteration": "frame",
+                    "example_sentence_translation": "একটি ফ্রেমযুক্ত পারিবারিক গাছ আপনার বাড়িতে প্রদর্শিত হতে পারে।",
+                    "example_sentence_transliteration": "Ekti frameyukto paribaarik gaach aponaaar baarite prodorshito hote paare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Heritage",
+            "phonetic": "ˈhɛrɪtɪdʒ",
+            "word_native_transliteration": {
+                "bn": "হেরিটেজ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏛️",
+            "meaning": "Property that is or may be inherited; an inheritance.",
+            "example_sentence": "Your family tree helps preserve your heritage.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইয়োর ফ্যামিলি ট্রি হেল্পস প্রিজার্ভ ইয়োর হেরিটেজ।"
+            },
+            "position": 15,
+            "synonyms": "legacy, inheritance, tradition",
+            "antonyms": "Newness, Futurism",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ঐতিহ্য",
+                    "word_transliteration": "oitihyo",
+                    "example_sentence_translation": "আপনার পারিবারিক গাছ আপনার ঐতিহ্য সংরক্ষণে সহায়তা করে।",
+                    "example_sentence_transliteration": "Aponaaar paribaarik gaach aponaaar oitihyo shongrokkhone shahaayotaa kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Legacy",
+            "phonetic": "ˈlɛɡəsi",
+            "word_native_transliteration": {
+                "bn": "লেগেসি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎖️",
+            "meaning": "An amount of money or property left to someone in a will.",
+            "example_sentence": "The family tree represents your family's legacy.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফ্যামিলি ট্রি রিপ্রেজেন্টস ইয়োর ফ্যামিলিস লেগেসি।"
+            },
+            "position": 16,
+            "synonyms": "inheritance, bequest, heritage",
+            "antonyms": "Forgetfulness, Disregard",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উত্তরাধিকার",
+                    "word_transliteration": "uttoraadhikaar",
+                    "example_sentence_translation": "পারিবারিক গাছ আপনার পরিবারের উত্তরাধিকার উপস্থাপন করে।",
+                    "example_sentence_transliteration": "Paribaarik gaach aponaaar poribaarer uttoraadhikaar uposthaapon kore.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

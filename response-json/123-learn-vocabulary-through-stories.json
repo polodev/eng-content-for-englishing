@@ -1,0 +1,499 @@
+{
+    "position": 123,
+    "title_translation": {
+        "en": "How Inflation Affects Your Savings",
+        "bn": "মুদ্রাস্ফীতি কীভাবে আপনার সঞ্চয়কে প্রভাবিত করে"
+    },
+    "content_translation": {
+        "en": "Economics is a crucial subject where **inflation** has a direct impact on everyone's **purchasing power**. If you save money, **inflation** can cause **depreciation** of your **assets**.\n\nThere was a time when the same amount of money could buy many more **commodities**, but due to **macroeconomic** changes, that money no longer has the same value as before. Changes in **monetary** policy and market **volatility** are responsible for this.\n\nWhen **inflation** increases, **expenditure** rises, resulting in reduced **savings**. Although the government tries to bring **equilibrium** through **fiscal** policy, most people experience **marginalization**.\n\nTo protect your **savings**, **capitalization**, **arbitrage**, and proper **contingency** planning are essential. Otherwise, long-term **recession** and **stagnation** can put you under financial pressure.",
+        "bn": "অর্থনীতির একটি গুরুত্বপূর্ণ বিষয় হলো **inflation**, যা প্রত্যেকের **purchasing power**-এর ওপর সরাসরি প্রভাব ফেলে। আপনি যদি অর্থ জমিয়ে রাখেন, তবে **inflation** আপনার **asset**-এর মূল্য **depreciation** ঘটাতে পারে।\n\nএকটি সময় ছিল যখন একই পরিমাণ অর্থ দিয়ে অনেক বেশি **commodities** কেনা যেত, কিন্তু **macroeconomic** পরিবর্তনের কারণে এখন সেইটা কা আগের মতো মূল্য দেয় না। **Monetary** নীতির পরিবর্তন এবং বাজারের **volatility** এর জন্য দায়ী।\n\n**Inflation** বৃদ্ধি পেলে **expenditure** বেড়ে যায়, যার ফলে সঞ্চয় কমতে থাকে। **Fiscal** নীতির মাধ্যমে সরকার **equilibrium** আনার চেষ্টা করলেও, বেশিরভাগ মানুষ **marginalization** অনুভব করে।\n\nআপনার **savings** রক্ষা করতে হল **capitalization**, **arbitrage**, এবং সঠিক **contingency** পরিকল্পনা করা জরুরি। অন্যথায়, দীর্ঘমেয়াদে **recession** এবং **stagnation** আপনাকে আর্থিক চাপে ফেলতে পারে।"
+    },
+    "list": [
+        {
+            "word": "inflation",
+            "phonetic": "/ɪnˈfleɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ইনফ্লেইশান"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "The general increase in prices and fall in the purchasing value of money in an economy over time.",
+            "example_sentence": "High inflation reduces the value of money over time.",
+            "example_sentence_native_transliteration": {
+                "bn": "হাই ইনফ্লেইশান রিডিউসেস দ্য ভ্যালু অব মানি ওভার টাইম।"
+            },
+            "position": 1,
+            "synonyms": "price increase, cost escalation, currency devaluation",
+            "antonyms": "deflation, price stability, cost reduction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মুদ্রাস্ফীতি",
+                    "word_transliteration": "mudrasphiti",
+                    "example_sentence_translation": "উচ্চ মুদ্রাস্ফীতি সময়ের সাথে টাকার মূল্য কমিয়ে দেয়।",
+                    "example_sentence_transliteration": "Uchcho mudrasphiti smoyer sathe takar mulyo komiye dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "purchasing power",
+            "phonetic": "/ˈpɜː.tʃəs.ɪŋ ˈpaʊ.ɚ/",
+            "word_native_transliteration": {
+                "bn": "পার্চেজিং পাওয়ার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💰",
+            "meaning": "The amount of goods and services that can be purchased with a unit of currency.",
+            "example_sentence": "Due to inflation, people's purchasing power has decreased.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিউ টু ইনফ্লেইশান, পিপলস পার্চেজিং পাওয়ার হ্যাজ ডিক্রিজড।"
+            },
+            "position": 2,
+            "synonyms": "buying capacity, financial strength, consumer power",
+            "antonyms": "weak purchasing power, economic decline, low affordability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্রয়ক্ষমতা",
+                    "word_transliteration": "kroykkhomota",
+                    "example_sentence_translation": "মুদ্রাস্ফীতির কারণে মানুষের ক্রয়ক্ষমতা কমে গেছে।",
+                    "example_sentence_transliteration": "Mudrasphitir karone manusher kroykkhomota kome geche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "asset",
+            "phonetic": "/ˈæs.et/",
+            "word_native_transliteration": {
+                "bn": "অ্যাসেট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏠",
+            "meaning": "A useful or valuable thing, person, or quality that can provide economic value.",
+            "example_sentence": "Real estate is a valuable asset in an investment portfolio.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিয়েল এস্টেট ইজ এ ভ্যালুয়েবল অ্যাসেট ইন অ্যান ইনভেস্টমেন্ট পোর্টফোলিও।"
+            },
+            "position": 3,
+            "synonyms": "property, resource, wealth",
+            "antonyms": "liability, debt, obligation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সম্পদ",
+                    "word_transliteration": "shompod",
+                    "example_sentence_translation": "রিয়েল এস্টেট একটি বিনিয়োগ পোর্টফোলিওতে মূল্যবান সম্পদ।",
+                    "example_sentence_transliteration": "Real estate ekti biniyog portfolio-te mulyoban shompod.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "depreciation",
+            "phonetic": "/dɪˌpriː.ʃiˈeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ডিপ্রিসিয়েশান"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📉",
+            "meaning": "A reduction in the value of an asset with the passage of time, due to wear and tear.",
+            "example_sentence": "The car's depreciation rate is high after five years.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কারস ডিপ্রিসিয়েশান রেট ইজ হাই আফটার ফাইভ ইয়ারস।"
+            },
+            "position": 4,
+            "synonyms": "devaluation, decline, wear and tear",
+            "antonyms": "appreciation, value increase, enhancement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মূল্যহ্রাস",
+                    "word_transliteration": "mulyohras",
+                    "example_sentence_translation": "গাড়ির মূল্যহ্রাস হার পাঁচ বছর পর উচ্চ হয়।",
+                    "example_sentence_transliteration": "Garir mulyohras har panch bochor por uchcho hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "commodities",
+            "phonetic": "/kəˈmɒ.dɪ.tiz/",
+            "word_native_transliteration": {
+                "bn": "কমোডিটিজ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📦",
+            "meaning": "Raw materials or primary agricultural products that can be bought and sold.",
+            "example_sentence": "The prices of commodities like oil and gold fluctuate frequently.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রাইসেস অব কমোডিটিজ লাইক ওয়েল অ্যান্ড গোল্ড ফ্লাকচুয়েট ফ্রিকোয়েন্টলি।"
+            },
+            "position": 5,
+            "synonyms": "goods, products, merchandise",
+            "antonyms": "services, non-tradable goods, intangibles",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভোগ্যপণ্য",
+                    "word_transliteration": "bhogyoponnyo",
+                    "example_sentence_translation": "তেল ও স্বর্ণের মতো ভোগ্যপণ্যের দাম প্রায়ই পরিবর্তিত হয়।",
+                    "example_sentence_transliteration": "Tel o shorner moto bhogyoponnyer dam proyoi poribortito hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "macroeconomic",
+            "phonetic": "/ˌmæk.roʊ.iː.kəˈnɒm.ɪk/",
+            "word_native_transliteration": {
+                "bn": "ম্যাক্রোইকোনোমিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🏛️",
+            "meaning": "Relating to large-scale or general economic factors, such as interest rates and national productivity.",
+            "example_sentence": "Government policies impact macroeconomic stability.",
+            "example_sentence_native_transliteration": {
+                "bn": "গভর্নমেন্ট পলিসিজ ইমপ্যাক্ট ম্যাক্রোইকোনোমিক স্ট্যাবিলিটি।"
+            },
+            "position": 6,
+            "synonyms": "national economy, economic trends, large-scale financial system",
+            "antonyms": "microeconomic, individual finance, localized economy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সামষ্টিক অর্থনৈতিক",
+                    "word_transliteration": "samoshtik orthongoitik",
+                    "example_sentence_translation": "সরকারের নীতি সামষ্টিক অর্থনৈতিক স্থিতিশীলতাকে প্রভাবিত করে।",
+                    "example_sentence_transliteration": "Sorkarer niti samoshtik orthongoitik sthitishilotake probhabito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "monetary",
+            "phonetic": "/ˈmʌn.ɪ.tri/",
+            "word_native_transliteration": {
+                "bn": "মানিটারি"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💱",
+            "meaning": "Relating to money or currency, especially government policy concerning money supply and interest rates.",
+            "example_sentence": "The central bank controls monetary policies to manage inflation.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সেন্ট্রাল ব্যাংক কন্ট্রোলস মানিটারি পলিসিজ টু ম্যানেজ ইনফ্লেইশান।"
+            },
+            "position": 7,
+            "synonyms": "financial, fiscal, economic",
+            "antonyms": "non-financial, barter-based, non-monetary",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মুদ্রাসংক্রান্ত",
+                    "word_transliteration": "mudrasongkranto",
+                    "example_sentence_translation": "কেন্দ্রীয় ব্যাংক মুদ্রাস্ফীতি নিয়ন্ত্রণের জন্য আর্থিক নীতি পরিচালনা করে।",
+                    "example_sentence_transliteration": "Kendryo bank mudrasphiti niyontroner jonno arthik niti porichalona kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "volatility",
+            "phonetic": "/ˌvɒl.əˈtɪl.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "ভোলাটিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "Liability to change rapidly and unpredictably, especially for the worse in financial markets.",
+            "example_sentence": "The stock market is known for its volatility.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্টক মার্কেট ইজ নোন ফর ইটস ভোলাটিলিটি।"
+            },
+            "position": 8,
+            "synonyms": "instability, fluctuation, uncertainty",
+            "antonyms": "stability, consistency, predictability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অস্থিরতা",
+                    "word_transliteration": "osthirota",
+                    "example_sentence_translation": "শেয়ার বাজার তার অস্থিরতার জন্য পরিচিত।",
+                    "example_sentence_transliteration": "Share bazar tar osthirotar jonno porichito.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "expenditure",
+            "phonetic": "/ɪkˈspɛn.dɪ.tʃɚ/",
+            "word_native_transliteration": {
+                "bn": "এক্সপেন্ডিচার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💸",
+            "meaning": "The action of spending funds or an amount of money spent.",
+            "example_sentence": "The government increased its expenditure on healthcare.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গভর্নমেন্ট ইনক্রিজড ইটস এক্সপেন্ডিচার অন হেলথকেয়ার।"
+            },
+            "position": 9,
+            "synonyms": "spending, costs, outlay",
+            "antonyms": "savings, revenue, income",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ব্যয়",
+                    "word_transliteration": "byoy",
+                    "example_sentence_translation": "সরকার স্বাস্থ্যসেবার জন্য ব্যয় বৃদ্ধি করেছে।",
+                    "example_sentence_transliteration": "Sorkar shasthosoebar jonno byoy briddhi koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fiscal",
+            "phonetic": "/ˈfɪs.kəl/",
+            "word_native_transliteration": {
+                "bn": "ফিস্কাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🏦",
+            "meaning": "Relating to government revenue, especially taxes, or public money management.",
+            "example_sentence": "The government introduced new fiscal policies to control inflation.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গভর্নমেন্ট ইনট্রোডিউসড নিউ ফিস্কাল পলিসিজ টু কন্ট্রোল ইনফ্লেইশান।"
+            },
+            "position": 10,
+            "synonyms": "financial, budgetary, economic",
+            "antonyms": "non-financial, unrelated to money",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রাজস্বসংক্রান্ত",
+                    "word_transliteration": "rajoshvoshongkranto",
+                    "example_sentence_translation": "সরকার মুদ্রাস্ফীতি নিয়ন্ত্রণের জন্য নতুন অর্থনৈতিক নীতি প্রণয়ন করেছে।",
+                    "example_sentence_transliteration": "Sorkar mudrasphiti niyontroner jonno notun orthongoitik niti pranoyon koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "equilibrium",
+            "phonetic": "/ˌiː.kwɪˈlɪb.ri.əm/",
+            "word_native_transliteration": {
+                "bn": "ইকুইলিব্রিয়াম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "A state in which opposing forces or influences are balanced in economic markets.",
+            "example_sentence": "The market reached an equilibrium between supply and demand.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য মার্কেট রিচড অ্যান ইকুইলিব্রিয়াম বিটুইন সাপ্লাই অ্যান্ড ডিমান্ড।"
+            },
+            "position": 11,
+            "synonyms": "balance, stability, steadiness",
+            "antonyms": "imbalance, instability, disequilibrium",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভারসাম্য",
+                    "word_transliteration": "bharsamyo",
+                    "example_sentence_translation": "বাজারে সরবরাহ ও চাহিদার মধ্যে ভারসাম্য সৃষ্টি হয়েছে।",
+                    "example_sentence_transliteration": "Bazare shorboraho o chahidar modhye bharsamyo srishti hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "marginalization",
+            "phonetic": "/ˌmɑːr.dʒɪ.nəl.aɪˈzeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "মার্জিনালাইজেইশান"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚫",
+            "meaning": "The process of pushing a group or individual to the edge of society by not allowing them full participation.",
+            "example_sentence": "Economic policies should address the marginalization of the poor.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইকোনোমিক পলিসিজ শুড অ্যাড্রেস দ্য মার্জিনালাইজেইশান অব দ্য পুর।"
+            },
+            "position": 12,
+            "synonyms": "exclusion, discrimination, alienation",
+            "antonyms": "inclusion, empowerment, recognition",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রান্তিকীকরণ",
+                    "word_transliteration": "prantikikoron",
+                    "example_sentence_translation": "অর্থনৈতিক নীতিগুলো দরিদ্রদের প্রান্তিকীকরণ মোকাবেলা করা উচিত।",
+                    "example_sentence_transliteration": "Orthongoitik nitigulo doridder prantikikoron mokabela kora uchit.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "savings",
+            "phonetic": "/ˈseɪ.vɪŋz/",
+            "word_native_transliteration": {
+                "bn": "সেভিংস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💰",
+            "meaning": "Money that is saved, especially in a bank or official scheme for future use.",
+            "example_sentence": "Many people invest their savings in real estate.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেনি পিপল ইনভেস্ট দেয়ার সেভিংস ইন রিয়েল এস্টেট।"
+            },
+            "position": 13,
+            "synonyms": "reserves, deposits, funds",
+            "antonyms": "expenditure, spending, debt",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সঞ্চয়",
+                    "word_transliteration": "shonchoy",
+                    "example_sentence_translation": "অনেক মানুষ তাদের সঞ্চয় রিয়েল এস্টেটে বিনিয়োগ করে।",
+                    "example_sentence_transliteration": "Onek manush tader shonchoy real estate biniyog kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "capitalization",
+            "phonetic": "/ˌkæp.ɪ.t̬əl.aɪˈzeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ক্যাপিটালাইজেইশান"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "The provision of capital for a company or the total value of a company's shares.",
+            "example_sentence": "The company increased its capitalization through new investments.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি ইনক্রিজড ইটস ক্যাপিটালাইজেইশান থ্রু নিউ ইনভেস্টমেন্টস।"
+            },
+            "position": 14,
+            "synonyms": "investment, funding, financial growth",
+            "antonyms": "underfunding, bankruptcy, liquidation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মূলধনীকরণ",
+                    "word_transliteration": "muldhonikorn",
+                    "example_sentence_translation": "কোম্পানিটি নতুন বিনিয়োগের মাধ্যমে তার বাজারমূল্য বৃদ্ধি করেছে।",
+                    "example_sentence_transliteration": "Company-ti notun biniyoger maddhome tar bazarmulyo briddhi koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "arbitrage",
+            "phonetic": "/ˈɑːr.bɪ.trɑːʒ/",
+            "word_native_transliteration": {
+                "bn": "আর্বিট্রেইজ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💹",
+            "meaning": "The simultaneous buying and selling of securities in different markets to take advantage of differing prices.",
+            "example_sentence": "Investors use arbitrage to make profits in global markets.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনভেস্টরস ইউজ আর্বিট্রেইজ টু মেক প্রফিটস ইন গ্লোবাল মার্কেটস।"
+            },
+            "position": 15,
+            "synonyms": "trading, exploiting price differences, speculation",
+            "antonyms": "fixed pricing, loss-making trade, unprofitability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সালিসি ব্যবসা",
+                    "word_transliteration": "shalishi byobsha",
+                    "example_sentence_translation": "বিনিয়োগকারীরা বৈশ্বিক বাজারে মুনাফা অর্জনের জন্য আন্তর্জাতিক মূল্যের ব্যবধান ব্যবহার করে।",
+                    "example_sentence_transliteration": "Biniyogkarira boishwik bazare munafa orjoner jonno antorjatik mulyar byabdhan byabohar kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "contingency",
+            "phonetic": "/kənˈtɪn.dʒən.si/",
+            "word_native_transliteration": {
+                "bn": "কনটিনজেন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛡️",
+            "meaning": "A provision for an unforeseen event or circumstance, especially in financial planning.",
+            "example_sentence": "The company has a contingency plan for economic downturns.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি হ্যাজ এ কনটিনজেন্সি প্ল্যান ফর ইকোনোমিক ডাউনটার্নস।"
+            },
+            "position": 16,
+            "synonyms": "emergency plan, backup, alternative",
+            "antonyms": "certainty, assurance, predictability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জরুরি পরিকল্পনা",
+                    "word_transliteration": "joruri poriklopna",
+                    "example_sentence_translation": "কোম্পানির অর্থনৈতিক মন্দার জন্য একটি জরুরি পরিকল্পনা রয়েছে।",
+                    "example_sentence_transliteration": "Company-r orthongoitik mondar jonno ekti joruri poriklopna royeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "recession",
+            "phonetic": "/rɪˈsɛʃ.ən/",
+            "word_native_transliteration": {
+                "bn": "রিসেশান"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📉",
+            "meaning": "A period of temporary economic decline during which trade and industrial activity are reduced.",
+            "example_sentence": "The country faced a severe recession after the financial crisis.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কান্ট্রি ফেসড এ সিভিয়ার রিসেশান আফটার দ্য ফাইনান্সিয়াল ক্রাইসিস।"
+            },
+            "position": 17,
+            "synonyms": "economic decline, downturn, slump",
+            "antonyms": "boom, growth, expansion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মন্দা",
+                    "word_transliteration": "monda",
+                    "example_sentence_translation": "আর্থিক সংকটের পর দেশটি তীব্র মন্দার সম্মুখীন হয়েছিল।",
+                    "example_sentence_transliteration": "Arthik shongkoter por deshti tibro mondar shommukheen hoyechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "stagnation",
+            "phonetic": "/stæɡˈneɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "স্ট্যাগনেইশান"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "A state of inactivity or lack of growth, especially in an economy.",
+            "example_sentence": "High unemployment led to economic stagnation.",
+            "example_sentence_native_transliteration": {
+                "bn": "হাই আনএমপ্লয়মেন্ট লেড টু ইকোনোমিক স্ট্যাগনেইশান।"
+            },
+            "position": 18,
+            "synonyms": "standstill, decline, sluggishness",
+            "antonyms": "progress, development, movement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্থবিরতা",
+                    "word_transliteration": "sthobirotar",
+                    "example_sentence_translation": "উচ্চ বেকারত্ব অর্থনৈতিক স্থবিরতার কারণ হয়েছিল।",
+                    "example_sentence_transliteration": "Uchcho bekarotwo orthongoitik sthobiratar karon hoyechilo.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

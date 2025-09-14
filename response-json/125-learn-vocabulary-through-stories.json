@@ -1,0 +1,445 @@
+{
+    "position": 125,
+    "title_translation": {
+        "en": "How Journaling Improves Mental Health",
+        "bn": "জার্নালিং কীভাবে মানসিক স্বাস্থ্যের উন্নতি করে"
+    },
+    "content_translation": {
+        "en": "**Journaling** can be extremely **therapeutic** for mental health. It provides us with a **cathartic** way to express our thoughts, where we can bring out our **subconscious** emotions.\n\nWhen a person **chronicles** their feelings, they become more **cognizant** of their experiences. Writing down daily thoughts and experiences increases **introspection** and improves our **discernment**.\n\nOften, we **embellish** our memories, which increases our **nostalgia**, but journaling provides us with a more **lucid** perspective on our past. It's not just a medium for expressing emotions; rather, it teaches us **profound** thinking and increases **contemplation**. Regular writing can **rejuvenate** our minds, bringing mental peace.\n\nTherefore, journaling is not just for **disseminating** our current thoughts, but it helps us better **modulate** our future.",
+        "bn": "**Journaling** মানসিক স্বাস্থ্যের জন্য অত্যন্ত **therapeutic** হতে পারে। এটি আমাদের চিন্তা প্রকাশের একটি **cathartic** উপায়, যেখানে আমরা আমাদের **subconscious** আবেগগুলোকে বের করে আনতে পারি।\n\nএকজন ব্যক্তি যখন তার অনুভূতি **chronicle** করে, তখন সে তার অভিজ্ঞতা সম্পর্কে আরও **cognizant** হয়ে ওঠে। প্রতিদিনের চিন্তা ও অভিজ্ঞতা লিখে রাখা **introspection** বাড়ায় এবং আমাদের **discernment** উন্নত করে।\n\nঅনেক সময়, আমরা আমাদের স্মৃতিকে **embellish** করি, যা আমাদের **nostalgia** বাড়ায়, তবে journaling আমাদের অতীতের প্রতি আরও **lucid** দৃষ্টিভঙ্গি প্রদান করে। এটি শুধুমাত্র আবেগ প্রকাশের মাধ্যম নয়; বরং এটি আমাদের **profound** চিন্তা করতে শেখায় এবং **contemplation** বাড়ায়। নিয়মিত লেখালিখি আমাদের মনকে **rejuvenate** করতে পারে, যা মানসিক প্রশান্তি আনে।\n\nতাই, journaling শুধু আমাদের বর্তমান চিন্তাগুলো **disseminate** করার জন্য নয়, বরং এটি আমাদের ভবিষ্যৎকে আরও ভালোভাবে **modulate** করতে সাহায্য করে।"
+    },
+    "list": [
+        {
+            "word": "journaling",
+            "phonetic": "/ˈdʒɝː.nə.lɪŋ/",
+            "word_native_transliteration": {
+                "bn": "জার্নালিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📝",
+            "meaning": "The practice of writing down your thoughts, feelings, and experiences regularly.",
+            "example_sentence": "Journaling helps in organizing thoughts and reducing stress.",
+            "example_sentence_native_transliteration": {
+                "bn": "জার্নালিং হেল্পস ইন অর্গানাইজিং থটস অ্যান্ড রিডিউসিং স্ট্রেস।"
+            },
+            "position": 1,
+            "synonyms": "writing, documentation, diary-keeping",
+            "antonyms": "forgetting, ignoring, disregarding",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ডায়েরি লেখা",
+                    "word_transliteration": "diary lekha",
+                    "example_sentence_translation": "ডায়েরি লেখা চিন্তা গোছাতে এবং মানসিক চাপ কমাতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Diary lekha chinta gochhate ebong manoshik chap kamate sahajjo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "therapeutic",
+            "phonetic": "/ˌθɛr.əˈpjuː.tɪk/",
+            "word_native_transliteration": {
+                "bn": "থেরাপিউটিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💊",
+            "meaning": "Having a healing or beneficial effect on the body or mind.",
+            "example_sentence": "Meditation is highly therapeutic for mental well-being.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেডিটেশন ইজ হাইলি থেরাপিউটিক ফর মেন্টাল ওয়েল-বিইং।"
+            },
+            "position": 2,
+            "synonyms": "healing, restorative, soothing",
+            "antonyms": "harmful, stressful, aggravating",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চিকিৎসামূলক",
+                    "word_transliteration": "chikitshamulok",
+                    "example_sentence_translation": "মেডিটেশন মানসিক সুস্থতার জন্য অত্যন্ত চিকিৎসামূলক।",
+                    "example_sentence_transliteration": "Meditation manoshik shushthotar jonno ottonto chikitshamulok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cathartic",
+            "phonetic": "/kəˈθɑːr.tɪk/",
+            "word_native_transliteration": {
+                "bn": "ক্যাথার্টিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌊",
+            "meaning": "Providing psychological relief through the open expression of strong emotions.",
+            "example_sentence": "Writing about emotions can be a cathartic experience.",
+            "example_sentence_native_transliteration": {
+                "bn": "রাইটিং অ্যাবাউট ইমোশনস ক্যান বি আ ক্যাথার্টিক এক্সপেরিয়েন্স।"
+            },
+            "position": 3,
+            "synonyms": "purging, cleansing, emotionally releasing",
+            "antonyms": "repressive, suppressive, unexpressive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মুক্তিদায়ক",
+                    "word_transliteration": "muktidayok",
+                    "example_sentence_translation": "নিজের অনুভূতি লিখে প্রকাশ করা একটি মুক্তিদায়ক অভিজ্ঞতা হতে পারে।",
+                    "example_sentence_transliteration": "Nijer onubhuti likhe prokash kora ekti muktidayok obhiggyota hote pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "subconscious",
+            "phonetic": "/ˌsʌbˈkɒn.ʃəs/",
+            "word_native_transliteration": {
+                "bn": "সাবকনশাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧠",
+            "meaning": "Of or concerning the part of the mind which one is not fully aware of but which influences actions and feelings.",
+            "example_sentence": "Fears often come from the subconscious mind.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফিয়ার্স অফেন কাম ফ্রম দি সাবকনশাস মাইন্ড।"
+            },
+            "position": 4,
+            "synonyms": "unconscious, deep-seated, instinctive",
+            "antonyms": "conscious, aware, deliberate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অবচেতন",
+                    "word_transliteration": "obocheton",
+                    "example_sentence_translation": "ভয় প্রায়ই অবচেতন মন থেকে আসে।",
+                    "example_sentence_transliteration": "Bhoy prayoi obocheton mon theke ashe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "chronicle",
+            "phonetic": "/ˈkrɒn.ɪ.kəl/",
+            "word_native_transliteration": {
+                "bn": "ক্রনিকল"
+            },
+            "parts_of_speech": "verb/noun",
+            "emoji": "📚",
+            "meaning": "To record events in the order in which they happened; a written record of historical events.",
+            "example_sentence": "She decided to chronicle her journey through a blog.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি ডিসাইডেড টু ক্রনিকল হার জার্নি থ্রু আ ব্লগ।"
+            },
+            "position": 5,
+            "synonyms": "record, document, log",
+            "antonyms": "erase, omit, suppress",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ঘটনাবলি ধারাবাহিকভাবে লিপিবদ্ধ করা",
+                    "word_transliteration": "ghotonaboli dharabahikvabe lipiboddo kora",
+                    "example_sentence_translation": "তিনি তার ভ্রমণের ঘটনাগুলো ব্লগে লিপিবদ্ধ করার সিদ্ধান্ত নিলেন।",
+                    "example_sentence_transliteration": "Tini tar bhrômoner ghotônagulo bloge lipiboddo korar siddhanto nilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cognizant",
+            "phonetic": "/ˈkɒɡ.nɪ.zənt/",
+            "word_native_transliteration": {
+                "bn": "কগনিজান্ত"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "👁️",
+            "meaning": "Having knowledge or being aware of something.",
+            "example_sentence": "He was cognizant of the risks before making a decision.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি ওয়াজ কগনিজান্ত অব দি রিস্কস বিফোর মেকিং আ ডিসিশন।"
+            },
+            "position": 6,
+            "synonyms": "aware, mindful, informed",
+            "antonyms": "oblivious, unaware, ignorant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সচেতন",
+                    "word_transliteration": "shocheton",
+                    "example_sentence_translation": "তিনি সিদ্ধান্ত নেওয়ার আগে ঝুঁকিগুলোর সম্পর্কে সচেতন ছিলেন।",
+                    "example_sentence_transliteration": "Tini siddhanto neowar age jhunkigulor shomporke shocheton chhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "introspection",
+            "phonetic": "/ˌɪn.trəˈspek.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ইন্ট্রোস্পেকশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤔",
+            "meaning": "The examination or observation of one's own mental and emotional processes.",
+            "example_sentence": "Introspection helps people understand their emotions better.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইন্ট্রোস্পেকশন হেল্পস পিপল আন্ডারস্ট্যান্ড দেয়ার ইমোশনস বেটার।"
+            },
+            "position": 7,
+            "synonyms": "self-reflection, contemplation, self-analysis",
+            "antonyms": "neglect, indifference, external focus",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আত্মপর্যালোচনা",
+                    "word_transliteration": "attoporyalochona",
+                    "example_sentence_translation": "আত্মপর্যালোচনা মানুষকে তাদের আবেগ আরও ভালোভাবে বুঝতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Attoporyalochona manushke tader abeg aro bhalovabe bujhte sahajjo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "discernment",
+            "phonetic": "/dɪˈsɜːrn.mənt/",
+            "word_native_transliteration": {
+                "bn": "ডিসার্নমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔍",
+            "meaning": "The ability to judge well; good judgment and understanding.",
+            "example_sentence": "His discernment helped him make wise decisions.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিস ডিসার্নমেন্ট হেল্পড হিম মেক ওয়াইজ ডিসিশনস।"
+            },
+            "position": 8,
+            "synonyms": "insight, perception, judgement",
+            "antonyms": "ignorance, misjudgment, indiscretion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনুধাবন ক্ষমতা",
+                    "word_transliteration": "onudhabon khomota",
+                    "example_sentence_translation": "তার অনুধাবন ক্ষমতা তাকে সুবিবেচিত সিদ্ধান্ত নিতে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Tar onudhabon khomota take shubibiechito siddhanto nite sahajjo korechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "embellish",
+            "phonetic": "/ɪmˈbɛl.ɪʃ/",
+            "word_native_transliteration": {
+                "bn": "এমবেলিশ"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "✨",
+            "meaning": "To make something more attractive by adding decorative details or exaggerating.",
+            "example_sentence": "He tends to embellish stories to make them more interesting.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি টেন্ডস টু এমবেলিশ স্টোরিজ টু মেক দেম মোর ইন্টারেস্টিং।"
+            },
+            "position": 9,
+            "synonyms": "decorate, enhance, exaggerate",
+            "antonyms": "simplify, minimize, understate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অলঙ্কৃত করা",
+                    "word_transliteration": "olongkrito kora",
+                    "example_sentence_translation": "তিনি গল্পগুলো আরও আকর্ষণীয় করার জন্য অলঙ্করণ করে বলেন।",
+                    "example_sentence_transliteration": "Tini golpogulo aro akorsoniyo korar jonno olongkoron kore bolen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "nostalgia",
+            "phonetic": "/nɒsˈtæl.dʒə/",
+            "word_native_transliteration": {
+                "bn": "নসটালজিয়া"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌅",
+            "meaning": "A sentimental longing for the past, typically for a period or place with happy personal associations.",
+            "example_sentence": "Listening to old songs fills me with nostalgia.",
+            "example_sentence_native_transliteration": {
+                "bn": "লিসেনিং টু ওল্ড সংস ফিলস মি উইথ নসটালজিয়া।"
+            },
+            "position": 10,
+            "synonyms": "sentimentality, reminiscence, longing",
+            "antonyms": "indifference, disinterest, forgetfulness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্মৃতিকাতরতা",
+                    "word_transliteration": "smritikatorota",
+                    "example_sentence_translation": "পুরনো গান শুনলে আমার মধ্যে স্মৃতিকাতরতা জাগে।",
+                    "example_sentence_transliteration": "Purono gan shunle amar moddhe smritikatorota jage.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "lucid",
+            "phonetic": "/ˈluː.sɪd/",
+            "word_native_transliteration": {
+                "bn": "লুসিড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💡",
+            "meaning": "Expressed clearly; easy to understand.",
+            "example_sentence": "His explanation was so lucid that everyone understood it.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিস এক্সপ্ল্যানেশন ওয়াজ সো লুসিড দ্যাট এভরিওয়ান আন্ডারস্টুড ইট।"
+            },
+            "position": 11,
+            "synonyms": "clear, coherent, transparent",
+            "antonyms": "confusing, ambiguous, obscure",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিষ্কার",
+                    "word_transliteration": "porishkar",
+                    "example_sentence_translation": "তার ব্যাখ্যাটি এত পরিষ্কার ছিল যে সবাই তা বুঝতে পেরেছিল।",
+                    "example_sentence_transliteration": "Tar byakhyati eto porishkar chhilo je shobai ta bujhte perechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "profound",
+            "phonetic": "/prəˈfaʊnd/",
+            "word_native_transliteration": {
+                "bn": "প্রোফাউন্ড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌊",
+            "meaning": "Very great or intense; having deep insight or understanding.",
+            "example_sentence": "The speech had a profound impact on the audience.",
+            "example_sentence_native_transliteration": {
+                "bn": "দি স্পিচ হ্যাড আ প্রোফাউন্ড ইমপ্যাক্ট অন দি অডিয়েন্স।"
+            },
+            "position": 12,
+            "synonyms": "deep, intense, meaningful",
+            "antonyms": "superficial, shallow, insignificant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গভীর",
+                    "word_transliteration": "gobhir",
+                    "example_sentence_translation": "বক্তৃতাটি শ্রোতাদের উপর গভীর প্রভাব ফেলেছিল।",
+                    "example_sentence_transliteration": "Boktritati shrotader upor gobhir prabhab felechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "contemplation",
+            "phonetic": "/ˌkɒn.təmˈpleɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "কন্টেমপ্লেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧘",
+            "meaning": "The action of looking thoughtfully at something for a long time; deep reflective thought.",
+            "example_sentence": "She sat in contemplation before making her decision.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি স্যাট ইন কন্টেমপ্লেশন বিফোর মেকিং হার ডিসিশন।"
+            },
+            "position": 13,
+            "synonyms": "reflection, meditation, deliberation",
+            "antonyms": "impulsiveness, negligence, thoughtlessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গভীর চিন্তা",
+                    "word_transliteration": "gobhir chinta",
+                    "example_sentence_translation": "তিনি সিদ্ধান্ত নেওয়ার আগে গভীর চিন্তায় বসেছিলেন।",
+                    "example_sentence_transliteration": "Tini siddhanto neowar age gobhir chintay bosechhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "rejuvenate",
+            "phonetic": "/rɪˈdʒuː.və.neɪt/",
+            "word_native_transliteration": {
+                "bn": "রিজুভেনেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🌱",
+            "meaning": "To make someone or something look or feel younger, fresher, or more energetic.",
+            "example_sentence": "A vacation can rejuvenate your mind and body.",
+            "example_sentence_native_transliteration": {
+                "bn": "আ ভ্যাকেশন ক্যান রিজুভেনেট ইয়োর মাইন্ড অ্যান্ড বডি।"
+            },
+            "position": 14,
+            "synonyms": "revitalize, refresh, renew",
+            "antonyms": "exhaust, weaken, deteriorate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুনরুজ্জীবিত করা",
+                    "word_transliteration": "punoruijibito kora",
+                    "example_sentence_translation": "একটি ছুটি আপনার মন ও শরীর পুনরুজ্জীবিত করতে পারে।",
+                    "example_sentence_transliteration": "Ekti chhuti apnar mon o shorir punoruijibito korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "disseminate",
+            "phonetic": "/dɪˈsɛm.ɪ.neɪt/",
+            "word_native_transliteration": {
+                "bn": "ডিসেমিনেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📡",
+            "meaning": "To spread or give out something, especially news, information, ideas, etc., to a lot of people.",
+            "example_sentence": "Social media helps to disseminate information quickly.",
+            "example_sentence_native_transliteration": {
+                "bn": "সোশ্যাল মিডিয়া হেল্পস টু ডিসেমিনেট ইনফরমেশন কুইকলি।"
+            },
+            "position": 15,
+            "synonyms": "distribute, spread, circulate",
+            "antonyms": "conceal, withhold, suppress",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রচার করা",
+                    "word_transliteration": "prochar kora",
+                    "example_sentence_translation": "সোশ্যাল মিডিয়া দ্রুত তথ্য প্রচারে সহায়তা করে।",
+                    "example_sentence_transliteration": "Social media druto tothyo prochare sahayta kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "modulate",
+            "phonetic": "/ˈmɒd.jʊ.leɪt/",
+            "word_native_transliteration": {
+                "bn": "মডুলেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🎚️",
+            "meaning": "To change the strength, tone, or pitch of something; to adjust or regulate.",
+            "example_sentence": "A good speaker knows how to modulate their voice.",
+            "example_sentence_native_transliteration": {
+                "bn": "আ গুড স্পিকার নোজ হাউ টু মডুলেট দেয়ার ভয়েস।"
+            },
+            "position": 16,
+            "synonyms": "adjust, regulate, modify",
+            "antonyms": "intensify, distort, unbalance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিয়ন্ত্রণ করা",
+                    "word_transliteration": "niyontron kora",
+                    "example_sentence_translation": "একজন ভালো বক্তা জানেন কিভাবে তার কণ্ঠস্বর নিয়ন্ত্রণ করতে হয়।",
+                    "example_sentence_transliteration": "Ekjon bhalo bokta janen kibhabe tar konthoshor niyontron korte hoy.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}
