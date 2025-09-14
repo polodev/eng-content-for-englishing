@@ -1,0 +1,445 @@
+{
+    "position": 145,
+    "title_translation": {
+        "en": "How to Start a Startup",
+        "bn": "একটি স্টার্টআপ কিভাবে শুরু করবেন"
+    },
+    "content_translation": {
+        "en": "Starting a **nascent** startup is not an easy task, rather it is a **formidable** challenge. Successful entrepreneurs first conduct an **ideation** and research to perform a **feasibility** analysis, through which they can ensure that their concept is implementable.\n\nInitially, they may need to do **bootstrapping**, where the business starts with personal resources or small investments. However, **bureaucracy** and various administrative obstacles can often slow down progress. With proper planning and **contingency** planning, risks can be **mitigated**.\n\nIf a **disruptive** concept is properly implemented, it can quickly **proliferate** and help maintain business **momentum**. But if **scalability** is not ensured, it may not survive in the long term.\n\nTherefore, entrepreneurs should maintain **dexterity** and build businesses suitable for **paradigm** shifts, which will be **lucrative** and can establish a permanent position in the market.",
+        "bn": "একটি **nascent** startup শুরু করা সহজ কাজ নয়, বরং এটি এক **formidable** চ্যালেঞ্জ। সফল উদ্যোক্তারা প্রথমে **ideation** এবং গবেষণার মাধ্যমে একটি **feasibility** বিশ্লেষণ করেন, যাতে তারা নিশ্চিত হতে পারেন যে তাদের ধারণাটি বাস্তবায়নযোগ্য।\n\nশুরুতে **bootstrapping** করতে হতে পারে, যেখানে ব্যক্তিগত সম্পদ বা ক্ষুদ্র বিনিয়োগ দিয়ে ব্যবসা শুরু হয়। তবে, **bureaucracy** এবং বিভিন্ন প্রশাসনিক বাধা অনেক সময় অগ্রগতিকে ধীর করে দিতে পারে। সঠিক পরিকল্পনা এবং **contingency** পরিকল্পনা থাকলে ঝুঁকি **mitigate** করা সম্ভব।\n\nএকটি **disruptive** ধারণা যদি সঠিকভাবে বাস্তবায়িত হয়, তবে তা দ্রুত **proliferate** করতে পারে এবং ব্যবসার **momentum** বজায় রাখতে সাহায্য করে। কিন্তু **scalability** নিশ্চিত না হলে, এটি দীর্ঘমেয়াদে টিকতে পারবে না।\n\nঅতএব, উদ্যোক্তাদের উচিত **dexterity** বজায় রেখে **paradigm** পরিবর্তনের উপযোগী ব্যবসা গড়ে তোলা, যা **lucrative** হবে এবং বাজারে স্থায়ীভাবে অবস্থান নিতে পারবে।"
+    },
+    "list": [
+        {
+            "word": "nascent",
+            "phonetic": "/ˈnæs.ənt/",
+            "word_native_transliteration": {
+                "bn": "ন্যাসেন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌱",
+            "meaning": "Just coming into existence and beginning to display signs of future potential; emerging or developing.",
+            "example_sentence": "The nascent technology sector is attracting many investors.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ন্যাসেন্ট টেকনোলজি সেক্টর ইজ অ্যাট্রাক্টিং মেনি ইনভেস্টরস।"
+            },
+            "position": 1,
+            "synonyms": "emerging, developing, budding",
+            "antonyms": "established, mature, declining",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদীয়মান বা নবীন",
+                    "word_transliteration": "udiyoman ba nobin",
+                    "example_sentence_translation": "উদীয়মান প্রযুক্তি খাত বহু বিনিয়োগকারীকে আকর্ষণ করছে।",
+                    "example_sentence_transliteration": "Udiyoman projukti khat bohu biniyogkarike akorshon korche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "startup",
+            "phonetic": "/ˈstɑːrt.ʌp/",
+            "word_native_transliteration": {
+                "bn": "স্টার্টআপ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚀",
+            "meaning": "A newly established business, especially a small technology or business company that is just beginning operations.",
+            "example_sentence": "The startup secured funding from investors.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্টার্টআপ সিকিউর্ড ফান্ডিং ফ্রম ইনভেস্টরস।"
+            },
+            "position": 2,
+            "synonyms": "new business, venture, emerging company",
+            "antonyms": "established firm, corporation, traditional business",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্যোক্তা ভিত্তিক নতুন ব্যবসা",
+                    "word_transliteration": "udyokta bhittik notun byabsha",
+                    "example_sentence_translation": "স্টার্টআপটি বিনিয়োগকারীদের কাছ থেকে অর্থায়ন নিশ্চিত করেছে।",
+                    "example_sentence_transliteration": "Startupti biniyogkarider kach theke orthayan nishchito koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "formidable",
+            "phonetic": "/ˈfɔːr.mɪ.də.bəl/",
+            "word_native_transliteration": {
+                "bn": "ফর্মিডেবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💪",
+            "meaning": "Very skilled, powerful, or challenging; inspiring fear or respect through being impressively large, powerful, or capable.",
+            "example_sentence": "He faced a formidable opponent in the debate.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি ফেসড এ ফর্মিডেবল অপোনেন্ট ইন দ্য ডিবেট।"
+            },
+            "position": 3,
+            "synonyms": "powerful, intimidating, impressive",
+            "antonyms": "weak, unthreatening, feeble",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শক্তিশালী বা ভীতিপ্রদ",
+                    "word_transliteration": "shaktishali ba bhitiprod",
+                    "example_sentence_translation": "তিনি বিতর্কে একজন শক্তিশালী প্রতিদ্বন্দ্বীর মুখোমুখি হয়েছিলেন।",
+                    "example_sentence_transliteration": "Tini bitorke ekjon shaktishali protidwondwir mukhomukhi hoyechilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ideation",
+            "phonetic": "/ˌaɪ.diˈeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "আইডিয়েশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💡",
+            "meaning": "The process of forming and developing new ideas or concepts through creative thinking and brainstorming.",
+            "example_sentence": "The team engaged in ideation sessions to generate new product ideas.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য টিম এনগেজড ইন আইডিয়েশন সেশনস টু জেনারেট নিউ প্রোডাক্ট আইডিয়াস।"
+            },
+            "position": 4,
+            "synonyms": "conceptualization, brainstorming, innovation",
+            "antonyms": "execution, implementation, reality",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নতুন ধারণা তৈরি বা চিন্তা প্রক্রিয়া",
+                    "word_transliteration": "notun dharona toiri ba chinta prokriya",
+                    "example_sentence_translation": "দলটি নতুন পণ্য আইডিয়া তৈরি করতে আইডিয়েশন সেশনে অংশ নিয়েছিল।",
+                    "example_sentence_transliteration": "Dolti notun ponno idea toiri korte ideation session-e ongsho niyechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "feasibility",
+            "phonetic": "/ˌfiː.zəˈbɪl.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "ফিজিবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "The state or degree of being easily or conveniently done; the practicality of a proposed plan or project.",
+            "example_sentence": "The company conducted a feasibility study before launching the project.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি কন্ডাক্টেড এ ফিজিবিলিটি স্টাডি বিফোর লঞ্চিং দ্য প্রোজেক্ট।"
+            },
+            "position": 5,
+            "synonyms": "viability, practicality, workability",
+            "antonyms": "impracticality, infeasibility, impossibility",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সম্ভাব্যতা বা কার্যকারিতা",
+                    "word_transliteration": "shombhabyota ba karjokkarita",
+                    "example_sentence_translation": "প্রকল্প চালুর আগে কোম্পানি একটি সম্ভাব্যতা পরীক্ষা পরিচালনা করেছে।",
+                    "example_sentence_transliteration": "Prokolpo chalur age company ekti shombhabyota porikha porichalona koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "bootstrapping",
+            "phonetic": "/ˈbuːt.stræp.ɪŋ/",
+            "word_native_transliteration": {
+                "bn": "বুটস্ট্র্যাপিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🥾",
+            "meaning": "Starting a business with personal resources or small investments without external funding or venture capital.",
+            "example_sentence": "Many entrepreneurs rely on bootstrapping to launch their businesses.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেনি এন্ট্রাপ্রিনিউরস রিলাই অন বুটস্ট্র্যাপিং টু লঞ্চ দেয়ার বিজনেসেস।"
+            },
+            "position": 6,
+            "synonyms": "self-funding, self-sufficiency, independent growth",
+            "antonyms": "venture capital, external investment, funding reliance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্ব-অর্থায়ন বা স্ব-উন্নয়ন",
+                    "word_transliteration": "sho-orthayan ba sho-unnoyoan",
+                    "example_sentence_translation": "অনেক উদ্যোক্তা তাদের ব্যবসা চালুকরতে স্ব-অর্থায়নের উপর নির্ভর করেন।",
+                    "example_sentence_transliteration": "Onek udyokta tader byabsha chalukorte sho-orthayanrer upor nirbhor koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "bureaucracy",
+            "phonetic": "/bjʊˈrɒk.rə.si/",
+            "word_native_transliteration": {
+                "bn": "বিউরোক্রেসি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📋",
+            "meaning": "A system of government or management characterized by complex rules, procedures, and administrative processes.",
+            "example_sentence": "Excessive bureaucracy slows down business processes.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সেসিভ বিউরোক্রেসি স্লোজ ডাউন বিজনেস প্রসেসেস।"
+            },
+            "position": 7,
+            "synonyms": "red tape, administrative system, officialdom",
+            "antonyms": "efficiency, simplicity, decentralization",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আমলাতন্ত্র",
+                    "word_transliteration": "amlatontro",
+                    "example_sentence_translation": "অতিরিক্ত আমলাতন্ত্র ব্যবসায়িক প্রক্রিয়াগুলো ধীর করে দেয়।",
+                    "example_sentence_transliteration": "Otirikto amlatontro byabshayik prokroyagulo dhir kore dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "contingency",
+            "phonetic": "/kənˈtɪn.dʒən.si/",
+            "word_native_transliteration": {
+                "bn": "কন্টিনজেন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚠️",
+            "meaning": "A future event or circumstance that is possible but cannot be predicted with certainty; a provision for an unforeseen event or circumstance.",
+            "example_sentence": "Companies must have a contingency plan for financial crises.",
+            "example_sentence_native_transliteration": {
+                "bn": "কোম্পানিজ মাস্ট হ্যাভ এ কন্টিনজেন্সি প্ল্যান ফর ফাইন্যান্সিয়াল ক্রাইসিস।"
+            },
+            "position": 8,
+            "synonyms": "emergency plan, backup, alternative strategy",
+            "antonyms": "certainty, assurance, predictability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনিশ্চিত বা জরুরি পরিস্থিতি",
+                    "word_transliteration": "onishchito ba joruri poristhiti",
+                    "example_sentence_translation": "বাণিজ্যিক প্রতিষ্ঠানগুলোর আর্থিক সংকটের জন্য একটি জরুরি পরিকল্পনা থাকা উচিত।",
+                    "example_sentence_transliteration": "Banijjik protishthangulor arthik shonkoter jonno ekti joruri porikolpona thaka uchit.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "mitigate",
+            "phonetic": "/ˈmɪt.ɪ.ɡeɪt/",
+            "word_native_transliteration": {
+                "bn": "মিটিগেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🛡️",
+            "meaning": "To make less severe, serious, or painful; to reduce the intensity or impact of something harmful.",
+            "example_sentence": "Proper planning can mitigate financial risks.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রপার প্ল্যানিং ক্যান মিটিগেট ফাইন্যান্সিয়াল রিস্কস।"
+            },
+            "position": 9,
+            "synonyms": "alleviate, reduce, lessen",
+            "antonyms": "aggravate, exacerbate, intensify",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রশমিত করা",
+                    "word_transliteration": "proshmito kora",
+                    "example_sentence_translation": "সঠিক পরিকল্পনা আর্থিক ঝুঁকি প্রশমিত করতে পারে।",
+                    "example_sentence_transliteration": "Shothik porikolpona arthik jhuki proshmito korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "disruptive",
+            "phonetic": "/dɪsˈrʌp.tɪv/",
+            "word_native_transliteration": {
+                "bn": "ডিসরাপটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚡",
+            "meaning": "Causing or tending to cause disruption; innovative in a way that challenges or changes existing systems or markets.",
+            "example_sentence": "Disruptive technology has changed the way businesses operate.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিসরাপটিভ টেকনোলজি হ্যাজ চেঞ্জড দ্য ওয়ে বিজনেসেস অপারেট।"
+            },
+            "position": 10,
+            "synonyms": "innovative, radical, transformative",
+            "antonyms": "stable, conventional, predictable",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিঘ্ন সৃষ্টিকারী",
+                    "word_transliteration": "bighno srishtikari",
+                    "example_sentence_translation": "বিঘ্ন সৃষ্টিকারী প্রযুক্তি ব্যবসার কার্যপদ্ধতি পরিবর্তন করেছে।",
+                    "example_sentence_transliteration": "Bighno srishtikari projukti byabshar karjopoddhoti poribortonto koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "proliferate",
+            "phonetic": "/prəˈlɪf.ə.reɪt/",
+            "word_native_transliteration": {
+                "bn": "প্রলিফারেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📈",
+            "meaning": "To increase rapidly in numbers; to grow or spread quickly and extensively.",
+            "example_sentence": "Startups tend to proliferate in a thriving economy.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্টার্টআপস টেন্ড টু প্রলিফারেট ইন এ থ্রাইভিং ইকোনমি।"
+            },
+            "position": 11,
+            "synonyms": "multiply, expand, escalate",
+            "antonyms": "decrease, diminish, decline",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্রুত বৃদ্ধি পাওয়া",
+                    "word_transliteration": "druto briddhi paowa",
+                    "example_sentence_translation": "সমৃদ্ধ অর্থনীতিতে স্টার্টআপগুলো দ্রুত বৃদ্ধি পায়।",
+                    "example_sentence_transliteration": "Shomriddho orthonitite startupgulo druto briddhi pay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "momentum",
+            "phonetic": "/moʊˈmɛn.təm/",
+            "word_native_transliteration": {
+                "bn": "মোমেন্টাম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The quantity of motion of a moving body; the impetus and driving force gained by the development of a process or course of events.",
+            "example_sentence": "The company gained momentum after launching a new product.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি গেইন্ড মোমেন্টাম আফটার লঞ্চিং এ নিউ প্রোডাক্ট।"
+            },
+            "position": 12,
+            "synonyms": "drive, acceleration, progress",
+            "antonyms": "stagnation, slowdown, regression",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গতি বা অগ্রগতি",
+                    "word_transliteration": "goti ba agrogoti",
+                    "example_sentence_translation": "নতুন পণ্য চালুর পর কোম্পানিটি অগ্রগতি অর্জন করে।",
+                    "example_sentence_transliteration": "Notun ponno chalur por companiti agrogoti orjon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "scalability",
+            "phonetic": "/ˌskeɪ.ləˈbɪl.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "স্কেলাবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📏",
+            "meaning": "The capacity to be changed in size or scale; the ability of a system, network, or process to handle a growing amount of work.",
+            "example_sentence": "Cloud computing offers great scalability for businesses.",
+            "example_sentence_native_transliteration": {
+                "bn": "ক্লাউড কম্পিউটিং অফারস গ্রেট স্কেলাবিলিটি ফর বিজনেসেস।"
+            },
+            "position": 13,
+            "synonyms": "expandability, growth potential, flexibility",
+            "antonyms": "limitation, constraint, inflexibility",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রসারণযোগ্যতা",
+                    "word_transliteration": "prosharyogyogota",
+                    "example_sentence_translation": "ক্লাউড কম্পিউটিং ব্যবসার জন্য চমৎকার প্রসারণযোগ্যতা প্রদান করে।",
+                    "example_sentence_transliteration": "Cloud computing byabshar jonno chomotkar prosharyogyogota prodan kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dexterity",
+            "phonetic": "/dɛkˈstɛr.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "ডেক্সটেরিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤹",
+            "meaning": "Skill in performing tasks, especially with the hands; mental skill or quickness; adroitness.",
+            "example_sentence": "Surgeons require high dexterity during operations.",
+            "example_sentence_native_transliteration": {
+                "bn": "সার্জনস রিকোয়্যার হাই ডেক্সটেরিটি ডিউরিং অপারেশনস।"
+            },
+            "position": 14,
+            "synonyms": "skillfulness, agility, proficiency",
+            "antonyms": "clumsiness, incompetence, inefficiency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নৈপুণ্য বা দক্ষতা",
+                    "word_transliteration": "noipunno ba dokkhota",
+                    "example_sentence_translation": "অস্ত্রোপচারের সময় সার্জনদের উচ্চ নৈপুণ্য প্রয়োজন।",
+                    "example_sentence_transliteration": "Ostropochaer shomoy surgonder uccho noipunno proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "paradigm",
+            "phonetic": "/ˈpær.ə.daɪm/",
+            "word_native_transliteration": {
+                "bn": "প্যারাডাইম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎭",
+            "meaning": "A typical example or pattern of something; a model or framework that defines how something should be done or understood.",
+            "example_sentence": "The internet created a new paradigm for global communication.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইন্টারনেট ক্রিয়েটেড এ নিউ প্যারাডাইম ফর গ্লোবাল কমিউনিকেশন।"
+            },
+            "position": 15,
+            "synonyms": "framework, model, prototype",
+            "antonyms": "disorganization, chaos, disorder",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মডেল বা দৃষ্টাদৃষ্টান্ত",
+                    "word_transliteration": "model ba drishtadrishtanto",
+                    "example_sentence_translation": "ইন্টারনেট বৈশ্বিক যোগাযোগের জন্য একটি নতুন মডেল তৈরি করেছে।",
+                    "example_sentence_transliteration": "Internet boishwik jogajogey jonno ekti notun model toiri koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "lucrative",
+            "phonetic": "/ˈluː.krə.tɪv/",
+            "word_native_transliteration": {
+                "bn": "লুক্রেটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💰",
+            "meaning": "Producing a great deal of profit; highly profitable or financially rewarding.",
+            "example_sentence": "The real estate business is highly lucrative in urban areas.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রিয়েল এস্টেট বিজনেস ইজ হাইলি লুক্রেটিভ ইন আর্বান এরিয়াস।"
+            },
+            "position": 16,
+            "synonyms": "profitable, rewarding, gainful",
+            "antonyms": "unprofitable, loss-making, worthless",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "লাভজনক",
+                    "word_transliteration": "labhjgonok",
+                    "example_sentence_translation": "শহর অঞ্চলে রিয়েল এস্টেট ব্যবসা অত্যন্ত লাভজনক।",
+                    "example_sentence_transliteration": "Shohor onchhole real estate byabsha ottyonto labhjonok.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

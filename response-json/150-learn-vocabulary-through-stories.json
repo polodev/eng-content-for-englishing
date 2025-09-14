@@ -1,0 +1,418 @@
+{
+    "position": 150,
+    "title_translation": {
+        "en": "Importance of Emotional Intelligence Today",
+        "bn": "আজকের যুগে আবেগীয় বুদ্ধিমত্তার গুরুত্ব"
+    },
+    "content_translation": {
+        "en": "In today's world, **empathy** and **perspicacity** deeply influence human life. When we can understand others' emotions, **congeniality** is created, which helps in building healthy relationships.\n\nAt work, **eloquence** and **pragmatism** are very important because they help us express our thoughts and make decisions. When pressure comes, it's necessary to maintain **equanimity**, which gives mental peace.\n\nA leader's **altruism** and **resonance** bring them closer to others. **Discretion** helps us make correct and fair decisions, where **persuasion** plays an effective role in convincing others.\n\n**Composure** and **astuteness** increase a person's ability to handle crises. **Temperance** helps us maintain emotional balance, where **introspection** opens the door to self-improvement.\n\nIn the contemporary world, **resilience** and **cognizance** are moving individuals and society forward. **Amelioration** becomes possible when we use **discernment** and **sagacity**. Showing **deference** to others is an essential aspect of emotional intelligence.",
+        "bn": "আজকের জগতে **empathy** এবং **perspicacity** মানুষের জীবনকে গভীরভাবে প্রভাবিত করে। আমরা যখন অন্যের আবেগ বুঝতে পারি, তখন **congeniality** তৈরি হয়, যা সুস্থ সম্পর্ক গঠনে সহায়ক।\n\nকর্মক্ষেত্রে **eloquence** এবং **pragmatism** খুবই গুরুত্বপূর্ণ, কারণ এগুলো আমাদের মত প্রকাশ ও সিদ্ধান্ত গ্রহণে সাহায্য করে। যখন চাপ আসে, তখন **equanimity** বজায় রাখা জরুরি, যা মানসিক শান্তি দেয়।\n\nএকজন নেতার **altruism** এবং **resonance** তাকে অন্যদের কাছাকাছি নিয়ে আসে। **discretion** আমাদের সঠিক এবং ন্যায্য সিদ্ধান্ত নিতে সাহায্য করে, যেখানে **persuasion** অন্যদের বোঝাতে কার্যকর ভূমিকা রাখে।\n\n**Composure** এবং **astuteness** একজন ব্যক্তির সংকট মোকাবিলার ক্ষমতা বাড়ায়। **Temperance** আমাদের আবেগের ভারসাম্য বজায় রাখতে সাহায্য করে, যেখানে **introspection** আত্মউন্নতির দরজা খুলে দেয়।\n\nসাম্প্রতিক বিশ্বে **resilience** এবং **cognizance** ব্যক্তি ও সমাজকে এগিয়ে নিয়ে যাচ্ছে। **Amelioration** সম্ভব হয় যখন আমরা **discernment** এবং **sagacity** ব্যবহার করি। অন্যের প্রতি **deference** দেখানো আবেগীয় বুদ্ধিমত্তার অপরিহার্য দিক।"
+    },
+    "list": [
+        {
+            "word": "empathy",
+            "phonetic": "/ˈem.pə.θi/",
+            "word_native_transliteration": {
+                "bn": "এমপ্যাথি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "The ability to understand and share the feelings of another person.",
+            "example_sentence": "Empathy helps build strong relationships.",
+            "example_sentence_native_transliteration": {
+                "bn": "এমপ্যাথি হেলপস বিল্ড স্ট্রং রিলেশনশিপস।"
+            },
+            "position": 1,
+            "synonyms": "compassion, understanding, sensitivity",
+            "antonyms": "apathy, indifference, insensitivity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহানুভূতি",
+                    "word_transliteration": "sahanubhuti",
+                    "example_sentence_translation": "সহানুভূতি দৃঢ় সম্পর্ক গঠনে সহায়ক।",
+                    "example_sentence_transliteration": "Sahanubhuti dridho shomporko gothone shahayok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "perspicacity",
+            "phonetic": "/ˌpɝː.spɪˈkæs.ə.t̬i/",
+            "word_native_transliteration": {
+                "bn": "পার্সপিক্যাসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👁️",
+            "meaning": "The quality of having keen mental perception and understanding; clarity of vision or intellect.",
+            "example_sentence": "His perspicacity allowed him to foresee the crisis.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ পার্সপিক্যাসিটি অ্যালাউড হিম টু ফোরসি দ্য ক্রাইসিস।"
+            },
+            "position": 2,
+            "synonyms": "insight, wisdom, acumen",
+            "antonyms": "ignorance, shortsightedness, stupidity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দূরদর্শিতা",
+                    "word_transliteration": "durodorhita",
+                    "example_sentence_translation": "তার প্রখর বুদ্ধিমত্তা সংকটটি আগে থেকেই বুঝতে সাহায্য করেছিল।",
+                    "example_sentence_transliteration": "Tar prokhoro buddhimotta shonkottoti age thekei bujhte shahayyo korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "congeniality",
+            "phonetic": "/kənˌdʒiː.niˈæl.ə.t̬i/",
+            "word_native_transliteration": {
+                "bn": "কনজিনিয়ালিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "😊",
+            "meaning": "The quality of being pleasant, friendly, and easy to talk to.",
+            "example_sentence": "His congeniality makes him popular among friends.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ কনজিনিয়ালিটি মেক্স হিম পপুলার অ্যামং ফ্রেন্ডস।"
+            },
+            "position": 3,
+            "synonyms": "friendliness, amiability, compatibility",
+            "antonyms": "hostility, incompatibility, coldness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বন্ধুত্বপূর্ণতা",
+                    "word_transliteration": "bondhuttopurnota",
+                    "example_sentence_translation": "তার সদ্ভাব তাকে বন্ধুদের মাঝে জনপ্রিয় করেছে।",
+                    "example_sentence_transliteration": "Tar shodbhab take bondhudero majhe jonopriyo koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "eloquence",
+            "phonetic": "/ˈel.ə.kwəns/",
+            "word_native_transliteration": {
+                "bn": "এলোকোয়েন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🗣️",
+            "meaning": "Fluent or persuasive speaking or writing; the ability to speak or write effectively.",
+            "example_sentence": "His eloquence captivated the audience.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ এলোকোয়েন্স ক্যাপটিভেটেড দ্য অডিয়েন্স।"
+            },
+            "position": 4,
+            "synonyms": "articulation, fluency, persuasiveness",
+            "antonyms": "inarticulateness, muteness, hesitancy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাকপটুতা",
+                    "word_transliteration": "bakpotuta",
+                    "example_sentence_translation": "তার বাকপটুতা দর্শকদের মুগ্ধ করেছিল।",
+                    "example_sentence_transliteration": "Tar bakpotuta dorshokdero mugdho korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pragmatism",
+            "phonetic": "/ˈpræɡ.mə.tɪ.zəm/",
+            "word_native_transliteration": {
+                "bn": "প্র্যাগমাটিজম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "A practical approach to problems and affairs; dealing with things sensibly and realistically.",
+            "example_sentence": "His pragmatism helped solve the financial crisis.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ প্র্যাগমাটিজম হেল্পড সলভ দ্য ফাইন্যান্সিয়াল ক্রাইসিস।"
+            },
+            "position": 5,
+            "synonyms": "practicality, realism, sensibility",
+            "antonyms": "idealism, impracticality, fantasy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাস্তববাদিতা",
+                    "word_transliteration": "bastobabadita",
+                    "example_sentence_translation": "তার বাস্তববাদিতা আর্থিক সংকট সমাধানে সহায়তা করেছিল।",
+                    "example_sentence_transliteration": "Tar bastobabadita arthik shonkot somadhane shahayota korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "equanimity",
+            "phonetic": "/ˌek.wəˈnɪm.ə.t̬i/",
+            "word_native_transliteration": {
+                "bn": "ইকোয়ানিমিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧘",
+            "meaning": "Mental calmness, composure, and evenness of temper, especially in difficult situations.",
+            "example_sentence": "She handled the crisis with great equanimity.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি হ্যান্ডেল্ড দ্য ক্রাইসিস উইথ গ্রেট ইকোয়ানিমিটি।"
+            },
+            "position": 6,
+            "synonyms": "calmness, composure, serenity",
+            "antonyms": "agitation, anxiety, panic",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মানসিক স্থিরতা",
+                    "word_transliteration": "manoshik sthirota",
+                    "example_sentence_translation": "সে সংকটটি ধৈর্যের সাথে মোকাবিলা করেছিল।",
+                    "example_sentence_transliteration": "She shonkottoti dhoirryer shathe mokabila korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "altruism",
+            "phonetic": "/ˈæl.tru.ɪ.zəm/",
+            "word_native_transliteration": {
+                "bn": "অ্যালট্রুইজম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "❤️",
+            "meaning": "The belief in or practice of disinterested and selfless concern for the well-being of others.",
+            "example_sentence": "His altruism inspired many people.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ অ্যালট্রুইজম ইনস্পায়ার্ড মেনি পিপল।"
+            },
+            "position": 7,
+            "synonyms": "selflessness, generosity, compassion",
+            "antonyms": "selfishness, greed, egoism",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিঃস্বার্থতা",
+                    "word_transliteration": "nihshartthota",
+                    "example_sentence_translation": "তার নিঃস্বার্থতা অনেককে অনুপ্রাণিত করেছিল।",
+                    "example_sentence_transliteration": "Tar nihshartthota onekke onupranito korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "resonance",
+            "phonetic": "/ˈrez.ən.əns/",
+            "word_native_transliteration": {
+                "bn": "রেজোন্যান্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎵",
+            "meaning": "The quality in a sound of being deep, full, and reverberating; a deep emotional connection.",
+            "example_sentence": "The speech had a deep resonance with the audience.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্পিচ হ্যাড অ্যা ডিপ রেজোন্যান্স উইথ দ্য অডিয়েন্স।"
+            },
+            "position": 8,
+            "synonyms": "reverberation, echo, impact",
+            "antonyms": "dissonance, weakness, disharmony",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনুরণন",
+                    "word_transliteration": "onuronon",
+                    "example_sentence_translation": "ভাষণটি দর্শকদের সাথে গভীরভাবে সংযুক্ত ছিল।",
+                    "example_sentence_transliteration": "Bhashonoti dorshokdero shathe gohirobhabe shongjukto chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "discretion",
+            "phonetic": "/dɪˈskreʃ.ən/",
+            "word_native_transliteration": {
+                "bn": "ডিসক্রেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤐",
+            "meaning": "The quality of behaving or speaking in such a way as to avoid causing offense; careful judgment.",
+            "example_sentence": "He handled the issue with discretion.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি হ্যান্ডেল্ড দ্য ইস্যু উইথ ডিসক্রেশন।"
+            },
+            "position": 9,
+            "synonyms": "caution, prudence, judgment",
+            "antonyms": "recklessness, carelessness, indiscretion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিচক্ষণতা",
+                    "word_transliteration": "bichokkhonota",
+                    "example_sentence_translation": "সে বিষয়টি সতর্কতার সাথে পরিচালনা করল।",
+                    "example_sentence_transliteration": "She bishoyti shotorkotoar shathe porichalna korlo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "persuasion",
+            "phonetic": "/pɝːˈsweɪ.ʒən/",
+            "word_native_transliteration": {
+                "bn": "পার্সুয়েশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "The action or fact of persuading someone or of being persuaded to do or believe something.",
+            "example_sentence": "His persuasion changed their minds.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ পার্সুয়েশন চেঞ্জড দেয়ার মাইন্ডস।"
+            },
+            "position": 10,
+            "synonyms": "influence, convincing, motivation",
+            "antonyms": "discouragement, opposition, resistance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রভাব বিস্তার",
+                    "word_transliteration": "prabhab bistar",
+                    "example_sentence_translation": "তার যুক্তি তাদের মনোভাব পরিবর্তন করেছিল।",
+                    "example_sentence_transliteration": "Tar jukti tadero monobhab poribortono korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "composure",
+            "phonetic": "/kəmˈpoʊ.ʒɚ/",
+            "word_native_transliteration": {
+                "bn": "কম্পোজার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "😌",
+            "meaning": "The state or feeling of being calm and in control of oneself.",
+            "example_sentence": "He maintained his composure under pressure.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি মেইনটেইনড হিজ কম্পোজার আন্ডার প্রেশার।"
+            },
+            "position": 11,
+            "synonyms": "poise, tranquility, equanimity",
+            "antonyms": "agitation, nervousness, discomfort",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্থিরতা",
+                    "word_transliteration": "sthirota",
+                    "example_sentence_translation": "সে চাপে পড়েও মানসিক স্থিরতা বজায় রেখেছিল।",
+                    "example_sentence_transliteration": "She chape poreyo manoshik sthirota bojay rekhechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "astuteness",
+            "phonetic": "/əˈstuːt.nəs/",
+            "word_native_transliteration": {
+                "bn": "অ্যাস্টিউটনেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧠",
+            "meaning": "The ability to accurately assess situations or people and turn this to one's advantage.",
+            "example_sentence": "His astuteness helped in negotiations.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ অ্যাস্টিউটনেস হেল্পড ইন নেগোশিয়েশনস।"
+            },
+            "position": 12,
+            "synonyms": "intelligence, cleverness, insight",
+            "antonyms": "foolishness, naivety, simplicity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রখর বুদ্ধিমত্তা",
+                    "word_transliteration": "prokhoro buddhimotta",
+                    "example_sentence_translation": "তার প্রখর বুদ্ধিমত্তা আলোচনায় সহায়তা করেছিল।",
+                    "example_sentence_transliteration": "Tar prokhoro buddhimotta alochonay shahayota korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "temperance",
+            "phonetic": "/ˈtem.pɚ.əns/",
+            "word_native_transliteration": {
+                "bn": "টেম্পারেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "Moderation in action, thought, or feeling; restraint.",
+            "example_sentence": "Temperance is essential for a balanced life.",
+            "example_sentence_native_transliteration": {
+                "bn": "টেম্পারেন্স ইজ এসেনশিয়াল ফর অ্যা ব্যালানসড লাইফ।"
+            },
+            "position": 13,
+            "synonyms": "moderation, self-control, restraint",
+            "antonyms": "excess, overindulgence, gluttony",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংযম",
+                    "word_transliteration": "sshongjom",
+                    "example_sentence_translation": "সংযম একটি ভারসাম্যপূর্ণ জীবনের জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Sshongjom ekti bharshammopurno jiboner jonno oporiharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "introspection",
+            "phonetic": "/ˌɪn.trəˈspek.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ইনট্রোস্পেকশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🪞",
+            "meaning": "The examination or observation of one's own mental and emotional processes.",
+            "example_sentence": "Introspection leads to personal growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনট্রোস্পেকশন লিডস টু পার্সোনাল গ্রোথ।"
+            },
+            "position": 14,
+            "synonyms": "reflection, self-examination, contemplation",
+            "antonyms": "ignorance, disregard, carelessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আত্মবিশ্লেষণ",
+                    "word_transliteration": "attobishleshon",
+                    "example_sentence_translation": "আত্মবিশ্লেষণ ব্যক্তিগত উন্নতিতে সহায়ক।",
+                    "example_sentence_transliteration": "Attobishleshon bektigoto unnotite shahayok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sagacity",
+            "phonetic": "/səˈɡæs.ə.t̬i/",
+            "word_native_transliteration": {
+                "bn": "সাগ্যাসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🦉",
+            "meaning": "The quality of being sagacious; having or showing keen mental discernment and good judgment.",
+            "example_sentence": "His sagacity made him a great leader.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ সাগ্যাসিটি মেড হিম অ্যা গ্রেট লিডার।"
+            },
+            "position": 15,
+            "synonyms": "wisdom, insight, foresight",
+            "antonyms": "foolishness, shortsightedness, naivety",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গভীর জ্ঞান",
+                    "word_transliteration": "gohir gyaan",
+                    "example_sentence_translation": "তার প্রজ্ঞা তাকে মহান নেতা বানিয়েছিল।",
+                    "example_sentence_transliteration": "Tar progya take mohan neta baniyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

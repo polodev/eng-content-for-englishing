@@ -1,0 +1,553 @@
+{
+    "position": 146,
+    "title_translation": {
+        "en": "How to Use Time-Blocking Effectively",
+        "bn": "কীভাবে কার্যকরভাবে টাইম-ব্লকিং ব্যবহার করবেন"
+    },
+    "content_translation": {
+        "en": "In today's busy life, **time-blocking** is such a technique that helps reduce **procrastination** and increase our **productivity**. When time is properly **compartmentalized**, work **fragmentation** decreases and we can use our time **optimally**. Many people think that **time-blocking** is a **rigorous** method, but it actually creates a **conducive** environment. When specific time is allocated for each task, it becomes easier to maintain **diligence** and the **culmination** of work becomes more effective. It is not only for office work, but also **indispensable** for personal life. When we try to do our daily **multifaceted** tasks together, a **dichotomy** is created, which destroys our **dexterity**. Therefore, to **streamline** time, we need **meticulous** planning. By being **ambidextrous**, we need to understand the nature of our work and identify **impediments**, so that we can **expedite** and maintain **overarching** control of time.",
+        "bn": "আজকের ব্যস্ত জীবনে **time-blocking** হলো এমন একটি কৌশল, যা **procrastination** কমিয়ে আমাদের **productivity** বাড়াতে সাহায্য করে। সঠিকভাবে সময় **compartmentalize** করা হলে, কাজের **fragmentation** কমে এবং আমরা আমাদের সময়কে **optimally** ব্যবহার করতে পারি। অনেকেই মনে করেন যে **time-blocking** একটি **rigorous** পদ্ধতি, কিন্তু এটি আসলে **conducive** পরিবেশ তৈরি করে। প্রতিটি কাজের জন্য নির্দিষ্ট সময় নির্ধারণ করা হলে, **diligence** বজায় রাখা সহজ হয় এবং কাজের **culmination** আরও কার্যকর হয়। এটি শুধুমাত্র অফিসের কাজে নয়, বরং ব্যক্তিগত জীবনের জন্যও **indispensable**। আমাদের প্রতিদিনকার **multifaceted** কাজগুলো একসঙ্গে করার চেষ্টা করলে **dichotomy** তৈরি হয়, যা আমাদের **dexterity** নষ্ট করে। তাই, সময় **streamline** করতে হলে, আমাদের **meticulous** পরিকল্পনা করা প্রয়োজন। **ambidextrous** হয়ে আমাদের কাজের ধরণ বুঝতে হবে এবং **impediment** গুলো চিহ্নিত করতে হবে, যাতে আমরা **expedite** করতে পারি এবং সময়ের **overarching** নিয়ন্ত্রণ রাখতে পারি।"
+    },
+    "list": [
+        {
+            "word": "time-blocking",
+            "phonetic": "/taɪm ˈblɒk.ɪŋ/",
+            "word_native_transliteration": {
+                "bn": "টাইম-ব্লকিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⏰",
+            "meaning": "A time management technique where specific time slots are allocated for specific tasks or activities.",
+            "example_sentence": "Time-blocking helps in managing tasks efficiently.",
+            "example_sentence_native_transliteration": {
+                "bn": "টাইম-ব্লকিং হেল্পস ইন ম্যানেজিং ট্যাস্কস এফিশিয়েন্টলি।"
+            },
+            "position": 1,
+            "synonyms": "scheduling, time management, planning",
+            "antonyms": "disorganization, randomization, procrastination",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সময় নির্ধারণ পদ্ধতি",
+                    "word_transliteration": "somoy nirdharon poddhoti",
+                    "example_sentence_translation": "সময় নির্ধারণ পদ্ধতি কাজগুলো কার্যকরভাবে পরিচালনা করতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Somoy nirdharon poddhoti kajgulo karyokorvaabe porichalona korte shahajjo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "procrastination",
+            "phonetic": "/prəˌkræs.tɪˈneɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "প্রোক্র্যাস্টিনেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⏳",
+            "meaning": "The tendency to postpone or delay important tasks.",
+            "example_sentence": "Excessive procrastination affects work performance.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সেসিভ প্রোক্র্যাস্টিনেশন অ্যাফেক্টস ওয়ার্ক পারফরম্যান্স।"
+            },
+            "position": 2,
+            "synonyms": "delay, postponement, avoidance",
+            "antonyms": "action, productivity, efficiency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গড়িমসি বা কাজ পেছানো",
+                    "word_transliteration": "gorimosi ba kaj pechano",
+                    "example_sentence_translation": "অতিরিক্ত গড়িমসি কাজের দক্ষতার ওপর প্রভাব ফেলে।",
+                    "example_sentence_transliteration": "Otiriktro gorimosi kajer dokkhhotar upor prabhab phele.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "productivity",
+            "phonetic": "/ˌprɒd.ʌkˈtɪv.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "প্রোডাক্টিভিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "The ability to achieve more effective results in less time.",
+            "example_sentence": "Good planning increases productivity at work.",
+            "example_sentence_native_transliteration": {
+                "bn": "গুড প্ল্যানিং ইনক্রিসেস প্রোডাক্টিভিটি অ্যাট ওয়ার্ক।"
+            },
+            "position": 3,
+            "synonyms": "efficiency, output, performance",
+            "antonyms": "inefficiency, laziness, inactivity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উৎপাদনশীলতা বা দক্ষতা",
+                    "word_transliteration": "utpadonsheelota ba dokkhota",
+                    "example_sentence_translation": "ভালো পরিকল্পনা কাজের উৎপাদনশীলতা বাড়ায়।",
+                    "example_sentence_transliteration": "Bhalo porikolpona kajer utpadonsheelota barhaay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "compartmentalize",
+            "phonetic": "/ˌkɒm.pɑːtˈmɛn.tə.laɪz/",
+            "word_native_transliteration": {
+                "bn": "কমপার্টমেন্টালাইজ"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📦",
+            "meaning": "To divide different tasks or thoughts into separate sections.",
+            "example_sentence": "It is essential to compartmentalize tasks for better focus.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইট ইজ এসেনশিয়াল টু কমপার্টমেন্টালাইজ ট্যাস্কস ফর বেটার ফোকাস।"
+            },
+            "position": 4,
+            "synonyms": "categorize, separate, organize",
+            "antonyms": "merge, blend, unify",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিভক্ত করে রাখা",
+                    "word_transliteration": "bibhokto kore rakha",
+                    "example_sentence_translation": "ভালো মনোযোগের জন্য কাজগুলোকে পৃথকভাবে ভাগ করা জরুরি।",
+                    "example_sentence_transliteration": "Bhalo monojog-er jonno kajguloke prithokvaabe bhag kora joruri.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fragmentation",
+            "phonetic": "/ˌfræɡ.mənˈteɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ফ্র্যাগমেন্টেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧩",
+            "meaning": "The breaking down of something into smaller, separate parts.",
+            "example_sentence": "Fragmentation of work can reduce efficiency.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফ্র্যাগমেন্টেশন অব ওয়ার্ক ক্যান রিডুস এফিশিয়েন্সি।"
+            },
+            "position": 5,
+            "synonyms": "division, splitting, disintegration",
+            "antonyms": "unification, continuity, cohesion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিচ্ছিন্নতা বা বিভাজন",
+                    "word_transliteration": "bichchinnota ba bibhajon",
+                    "example_sentence_translation": "কাজের বিচ্ছিন্নতা দক্ষতা কমাতে পারে।",
+                    "example_sentence_transliteration": "Kajer bichchinnota dokkhota komate pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "optimally",
+            "phonetic": "/ˈɒp.tɪ.məl.i/",
+            "word_native_transliteration": {
+                "bn": "অপটিম্যালি"
+            },
+            "parts_of_speech": "adverb",
+            "emoji": "⚡",
+            "meaning": "In the most effective or efficient way possible.",
+            "example_sentence": "Tasks should be allocated optimally for maximum output.",
+            "example_sentence_native_transliteration": {
+                "bn": "ট্যাস্কস শুড বি অ্যালোকেটেড অপটিম্যালি ফর ম্যাক্সিমাম আউটপুট।"
+            },
+            "position": 6,
+            "synonyms": "efficiently, effectively, ideally",
+            "antonyms": "inefficiently, poorly, suboptimally",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সর্বোত্তমভাবে",
+                    "word_transliteration": "sorbottomvaabe",
+                    "example_sentence_translation": "সর্বোচ্চ ফলাফলের জন্য কাজগুলো সর্বোত্তমভাবে বণ্টন করা উচিত।",
+                    "example_sentence_transliteration": "Sorbochcho pholaphol-er jonno kajgulo sorbottomvaabe bonton kora uchit.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "rigorous",
+            "phonetic": "/ˈrɪɡ.ər.əs/",
+            "word_native_transliteration": {
+                "bn": "রিগোরাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎯",
+            "meaning": "Extremely thorough and demanding in analysis or practice.",
+            "example_sentence": "A rigorous study plan helps students achieve better results.",
+            "example_sentence_native_transliteration": {
+                "bn": "আ রিগোরাস স্টাডি প্ল্যান হেল্পস স্টুডেন্টস অচিভ বেটার রিজাল্টস।"
+            },
+            "position": 7,
+            "synonyms": "strict, thorough, exacting",
+            "antonyms": "lenient, lax, incomplete",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কঠোর বা বিশদভাবে যাচাইকৃত",
+                    "word_transliteration": "kothor ba bishod-vaabe jachaikrito",
+                    "example_sentence_translation": "একটি কঠোর পড়াশোনার পরিকল্পনা শিক্ষার্থীদের ভালো ফলাফল পেতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Ekti kothor porashonar porikolpona shikkharthider bhalo pholaphol pete shahajjo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "conducive",
+            "phonetic": "/kənˈduː.sɪv/",
+            "word_native_transliteration": {
+                "bn": "কনডিউসিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌱",
+            "meaning": "Creating favorable or supportive environment for something.",
+            "example_sentence": "A quiet environment is conducive to studying.",
+            "example_sentence_native_transliteration": {
+                "bn": "আ কোয়াইট এনভায়রনমেন্ট ইজ কনডিউসিভ টু স্টাডিইং।"
+            },
+            "position": 8,
+            "synonyms": "favorable, beneficial, supportive",
+            "antonyms": "hindering, unfavorable, detrimental",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহায়ক",
+                    "word_transliteration": "shahayok",
+                    "example_sentence_translation": "শান্ত পরিবেশ অধ্যয়নের জন্য সহায়ক।",
+                    "example_sentence_transliteration": "Shanto poribesh odhyoyon-er jonno shahayok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "diligence",
+            "phonetic": "/ˈdɪl.ɪ.dʒəns/",
+            "word_native_transliteration": {
+                "bn": "ডিলিজেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "Commitment and focus towards work with perseverance.",
+            "example_sentence": "Success comes with patience and diligence.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাকসেস কামস উইথ পেশেন্স অ্যান্ড ডিলিজেন্স।"
+            },
+            "position": 9,
+            "synonyms": "hard work, attentiveness, perseverance",
+            "antonyms": "carelessness, negligence, laziness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিশ্রম ও অধ্যবসায়",
+                    "word_transliteration": "porishrom o odhyoboshaay",
+                    "example_sentence_translation": "সফলতা আসে ধৈর্য ও পরিশ্রমের মাধ্যমে।",
+                    "example_sentence_transliteration": "Sopholota ashe dhairjo o porishrom-er madhome.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "culmination",
+            "phonetic": "/ˌkʌl.mɪˈneɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "কালমিনেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏆",
+            "meaning": "The highest point or final stage of a process or event.",
+            "example_sentence": "The project reached its culmination after months of hard work.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রজেক্ট রিচড ইটস কালমিনেশন আফটার মান্থস অব হার্ড ওয়ার্ক।"
+            },
+            "position": 10,
+            "synonyms": "conclusion, climax, peak",
+            "antonyms": "beginning, start, initiation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চূড়ান্ত পরিণতি",
+                    "word_transliteration": "churanto porinoti",
+                    "example_sentence_translation": "কয়েক মাসের কঠোর পরিশ্রমের পর প্রকল্পটি তার চূড়ান্ত পরিণতিতে পৌঁছেছে।",
+                    "example_sentence_transliteration": "Koyekmasher kothor porishrom-er por prokolpoti tar churanto porinotite poucheche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "indispensable",
+            "phonetic": "/ˌɪn.dɪˈspɛn.sə.bəl/",
+            "word_native_transliteration": {
+                "bn": "ইনডিস্পেনসেবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔑",
+            "meaning": "Absolutely necessary and cannot be done without.",
+            "example_sentence": "Water is indispensable for human survival.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওয়াটার ইজ ইনডিস্পেনসেবল ফর হিউম্যান সারভাইভাল।"
+            },
+            "position": 11,
+            "synonyms": "essential, necessary, crucial",
+            "antonyms": "optional, dispensable, unnecessary",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অপরিহার্য",
+                    "word_transliteration": "oporihaarjo",
+                    "example_sentence_translation": "মানুষের বেঁচে থাকার জন্য পানি অপরিহার্য।",
+                    "example_sentence_transliteration": "Manusher beche thakar jonno pani oporihaarjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "multifaceted",
+            "phonetic": "/ˌmʌl.tiˈfæs.ɪ.tɪd/",
+            "word_native_transliteration": {
+                "bn": "মাল্টিফেসেটেড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💎",
+            "meaning": "Having many different aspects or characteristics.",
+            "example_sentence": "Leadership is a multifaceted skill that requires adaptability.",
+            "example_sentence_native_transliteration": {
+                "bn": "লিডারশিপ ইজ আ মাল্টিফেসেটেড স্কিল দ্যাট রিকোয়ারস অ্যাডাপ্টেবিলিটি।"
+            },
+            "position": 12,
+            "synonyms": "versatile, complex, diverse",
+            "antonyms": "simple, unidimensional, limited",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বহুমুখী বা নানা দিকসম্পন্ন",
+                    "word_transliteration": "bohumukhi ba nana diksompnno",
+                    "example_sentence_translation": "নেতৃত্ব একটি বহুমুখী দক্ষতা যা অভিযোজনযোগ্যতা প্রয়োজন।",
+                    "example_sentence_transliteration": "Netritwo ekti bohumukhi dokkhota ja obhijojonjoggota proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dichotomy",
+            "phonetic": "/daɪˈkɒt.ə.mi/",
+            "word_native_transliteration": {
+                "bn": "ডাইকোটমি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "A division between two contrasting parts or viewpoints.",
+            "example_sentence": "There is a dichotomy between theory and practice.",
+            "example_sentence_native_transliteration": {
+                "bn": "দেয়ার ইজ আ ডাইকোটমি বিটুইন থিওরি অ্যান্ড প্র্যাকটিস।"
+            },
+            "position": 13,
+            "synonyms": "division, contrast, dualism",
+            "antonyms": "unity, harmony, agreement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্বৈততা বা দ্বন্দ্ব",
+                    "word_transliteration": "dwoittota ba dwonddo",
+                    "example_sentence_translation": "তত্ত্ব এবং বাস্তবতার মধ্যে দ্বৈততা রয়েছে।",
+                    "example_sentence_transliteration": "Totto ebong bastobhotar modhye dwoittota royeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dexterity",
+            "phonetic": "/dɛkˈstɛr.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "ডেক্সটেরিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The ability to perform tasks quickly and accurately.",
+            "example_sentence": "Surgeons require high dexterity during operations.",
+            "example_sentence_native_transliteration": {
+                "bn": "সার্জনস রিকোয়ার হাই ডেক্সটেরিটি ডিউরিং অপারেশনস।"
+            },
+            "position": 14,
+            "synonyms": "skillfulness, agility, proficiency",
+            "antonyms": "clumsiness, incompetence, inefficiency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নৈপুণ্য বা দক্ষতা",
+                    "word_transliteration": "noipunno ba dokkhota",
+                    "example_sentence_translation": "অস্ত্রোপচারের সময় সার্জনদের উচ্চ নৈপুণ্য প্রয়োজন।",
+                    "example_sentence_transliteration": "Ostropochar-er somoy sarjonder uchcho noipunno proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "streamline",
+            "phonetic": "/ˈstriːm.laɪn/",
+            "word_native_transliteration": {
+                "bn": "স্ট্রিমলাইন"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🚀",
+            "meaning": "To make a process simpler and more efficient.",
+            "example_sentence": "The company aims to streamline production to reduce costs.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি এইমস টু স্ট্রিমলাইন প্রোডাকশন টু রিডুস কস্টস।"
+            },
+            "position": 15,
+            "synonyms": "simplify, optimize, enhance",
+            "antonyms": "complicate, hinder, obstruct",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সরলীকরণ বা দক্ষতা বৃদ্ধি করা",
+                    "word_transliteration": "srolikoron ba dokkhota bridhi kora",
+                    "example_sentence_translation": "কোম্পানিটি ব্যয় কমাতে উৎপাদন প্রক্রিয়াকে সরলীকরণ করতে চায়।",
+                    "example_sentence_transliteration": "Kompaniti byoy komate utpadon prokiyake srolikoron korte chaay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "meticulous",
+            "phonetic": "/məˈtɪk.jə.ləs/",
+            "word_native_transliteration": {
+                "bn": "মেটিকুলাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔍",
+            "meaning": "Being extremely careful and attentive to every detail.",
+            "example_sentence": "A meticulous approach is necessary for research.",
+            "example_sentence_native_transliteration": {
+                "bn": "আ মেটিকুলাস অ্যাপ্রোচ ইজ নেসেসারি ফর রিসার্চ।"
+            },
+            "position": 16,
+            "synonyms": "precise, detailed, thorough",
+            "antonyms": "careless, negligent, inaccurate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অত্যন্ত সতর্ক ও নিখুঁত",
+                    "word_transliteration": "ottonto shotorko o nikhunto",
+                    "example_sentence_translation": "গবেষণার জন্য অত্যন্ত সতর্ক দৃষ্টিভঙ্গি অপরিহার্য।",
+                    "example_sentence_transliteration": "Gobeshonar jonno ottonto shotorko drishtibhongi oporihaarjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ambidextrous",
+            "phonetic": "/ˌæm.bɪˈdɛk.strəs/",
+            "word_native_transliteration": {
+                "bn": "অ্যাম্বিডেক্সট্রাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🙌",
+            "meaning": "Able to use both hands equally well, or versatile in abilities.",
+            "example_sentence": "Being ambidextrous can be beneficial in sports.",
+            "example_sentence_native_transliteration": {
+                "bn": "বিইং অ্যাম্বিডেক্সট্রাস ক্যান বি বেনেফিশিয়াল ইন স্পোর্টস।"
+            },
+            "position": 17,
+            "synonyms": "versatile, two-handed, adaptable",
+            "antonyms": "one-handed, unskilled, inflexible",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দুই হাতে সমান দক্ষ",
+                    "word_transliteration": "dui haate soman dokkho",
+                    "example_sentence_translation": "দুই হাতে সমান দক্ষতা থাকা ক্রীড়ায় উপকারী হতে পারে।",
+                    "example_sentence_transliteration": "Dui haate soman dokkhota thaka kriraay upokari hote pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "impediment",
+            "phonetic": "/ɪmˈpɛd.ɪ.mənt/",
+            "word_native_transliteration": {
+                "bn": "ইমপেডিমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚧",
+            "meaning": "Something that hinders or obstructs progress or development.",
+            "example_sentence": "His speech disorder was an impediment to public speaking.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ স্পিচ ডিসর্ডার ওয়াজ অ্যান ইমপেডিমেন্ট টু পাবলিক স্পিকিং।"
+            },
+            "position": 18,
+            "synonyms": "obstacle, barrier, hindrance",
+            "antonyms": "aid, assistance, facilitation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিবন্ধকতা",
+                    "word_transliteration": "protibandhokota",
+                    "example_sentence_translation": "তার বাক প্রতিবন্ধকতা জনসম্মুখে কথা বলার ক্ষেত্রে বাধা হয়ে দাঁড়িয়েছিল।",
+                    "example_sentence_transliteration": "Tar bak protibandhokota jonosommukhey kotha bolar kkhetre badha hoye dariyechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "expedite",
+            "phonetic": "/ˈɛk.spɪ.daɪt/",
+            "word_native_transliteration": {
+                "bn": "এক্সপেডাইট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⚡",
+            "meaning": "To make a process faster or easier.",
+            "example_sentence": "The government took measures to expedite the approval process.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গভর্নমেন্ট টুক মেজারস টু এক্সপেডাইট দ্য অ্যাপ্রুভাল প্রসেস।"
+            },
+            "position": 19,
+            "synonyms": "accelerate, hasten, speed up",
+            "antonyms": "delay, slow down, hinder",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ত্বরান্বিত করা",
+                    "word_transliteration": "tboranbito kora",
+                    "example_sentence_translation": "সরকার অনুমোদন প্রক্রিয়া দ্রুত করতে ব্যবস্থা গ্রহণ করেছে।",
+                    "example_sentence_transliteration": "Sarkar onumodon prokiyaa druto korte byobostha grohon koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "overarching",
+            "phonetic": "/ˌoʊ.vɚˈɑːr.tʃɪŋ/",
+            "word_native_transliteration": {
+                "bn": "ওভারআর্চিং"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌐",
+            "meaning": "Having comprehensive and widespread influence or coverage.",
+            "example_sentence": "Sustainability is an overarching goal in modern business.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাস্টেইনেবিলিটি ইজ অ্যান ওভারআর্চিং গোল ইন মডার্ন বিজনেস।"
+            },
+            "position": 20,
+            "synonyms": "comprehensive, all-encompassing, inclusive",
+            "antonyms": "limited, narrow, insignificant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সামগ্রিক বা বিস্তৃত",
+                    "word_transliteration": "shamagrik ba bistrito",
+                    "example_sentence_translation": "আধুনিক ব্যবসায় টেকসইতা একটি সামগ্রিক লক্ষ্য।",
+                    "example_sentence_transliteration": "Adhunik byoboshaay tekshoita ekti shamagrik lokkhyo.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

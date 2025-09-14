@@ -1,0 +1,418 @@
+{
+    "position": 140,
+    "title_translation": {
+        "en": "How to learn a new language quickly",
+        "bn": "কিভাবে দ্রুত একটি নতুন ভাষা শিখবেন"
+    },
+    "content_translation": {
+        "en": "Learning a new **language** requires **dedication** and proper strategies. To learn a language quickly, follow these steps:\n\n1. **Set clear goals**\nFirst, decide why you want to learn this **language**. It could be for **travel**, **work**, or learning new culture. Clear **goals** help you stay focused.\n\n2. **Practice daily**\nSpend time every day. Even 10-15 minutes, **consistency** is important. **Flashcards**, **language apps**, and **audio lessons** make learning easy.\n\n3. **Immerse yourself**\nUse the new **language** around you. **Movies**, **songs**, and **podcasts** help. Watching cinema with **subtitles** is very helpful.\n\n4. **Speak from day one**\nPractice speaking new **words** and **phrases** as soon as you learn them. Without **speaking**, mastering a language is difficult.\n\n5. **Find a partner**\nFind a **language** exchange partner. Practicing with a native speaker improves pronunciation and fluency.\n\nLearning a new **language** is challenging, but with the right approach it can be fun and fruitful. Start and be patient!",
+        "bn": "একটি নতুন **language** শিখতে গেলে **dedication** এবং সঠিক কৌশল প্রয়োজন। দ্রুত ভাষা শিখতে নিচের ধাপগুলো অনুসরণ করুন:\n\n1. **Set clear goals**\nপ্রথমেই ঠিক করুন কেন আপনি এই **language** শিখতে চান। এটি হতে পারে **travel**, **work**, বা নতুন সংস্কৃতি শেখার জন্য। **Clear goals** আপনাকে ফোকাস করতে সাহায্য করবে।\n\n2. **Practice daily**\nপ্রতিদিন সময় দিন। ১০-১৫ মিনিট হলেও **consistency** গুরুত্বপূর্ণ। **Flashcards**, **language apps**, এবং **audio lessons** এর মাধ্যমে সহজে শেখা যায়।\n\n3. **Immerse yourself**\nআপনার চারপাশে নতুন **language** ব্যবহার করুন। **Movies**, **songs**, এবং **podcasts** শুনুন। **Subtitles** সহ সিনেমা দেখা অনেক সাহায্য করে।\n\n4. **Speak from day one**\nনতুন **words** এবং **phrases** শেখার সঙ্গে সঙ্গে বলার অভ্যাস করুন। **Speaking** না করলে ভাষা আয়ত্ত করা কঠিন।\n\n5. **Find a partner**\nএকটি **language exchange partner** খুঁজুন। একজন **native** speaker এর সঙ্গে চর্চা করলে উচ্চারণ এবং **fluency** উন্নত হয়।\n\nনতুন **language** শেখা চ্যালেঞ্জিং হলেও সঠিক উপায়ে এটি মজার এবং ফলপ্রসূ হতে পারে। শুরু করুন এবং ধৈর্য ধরুন!"
+    },
+    "list": [
+        {
+            "word": "language",
+            "phonetic": "ˈlæŋɡwɪdʒ",
+            "word_native_transliteration": {
+                "bn": "ল্যাঙ্গুয়েজ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🗣️",
+            "meaning": "A method of communication used by humans, consisting of spoken and written words structured in specific ways.",
+            "example_sentence": "Learning a new language can be exciting.",
+            "example_sentence_native_transliteration": {
+                "bn": "লার্নিং অ্যা নিউ ল্যাঙ্গুয়েজ ক্যান বি এক্সাইটিং।"
+            },
+            "position": 1,
+            "synonyms": "tongue, dialect, speech, communication, vernacular, idiom",
+            "antonyms": "silence, inactivity, muteness, speechlessness, quietness, stillness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভাষা",
+                    "word_transliteration": "bhasha",
+                    "example_sentence_translation": "একটি নতুন ভাষা শেখা রোমাঞ্চকর হতে পারে।",
+                    "example_sentence_transliteration": "Ekti notun bhasha shekha romanchkor hote pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dedication",
+            "phonetic": "ˌdɛdɪkeɪʃən",
+            "word_native_transliteration": {
+                "bn": "ডেডিকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "The quality of being committed to a task or purpose; devotion.",
+            "example_sentence": "Dedication is the key to success.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডেডিকেশন ইজ দ্য কী টু সাকসেস।"
+            },
+            "position": 2,
+            "synonyms": "commitment, devotion, loyalty, determination, perseverance, resolve",
+            "antonyms": "neglect, indifference, apathy, carelessness, laziness, abandonment",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উৎসর্গ",
+                    "word_transliteration": "utshorgo",
+                    "example_sentence_translation": "সাফল্যের চাবিকাঠি হলো উৎসর্গ।",
+                    "example_sentence_transliteration": "Shafolyer chabikathi holo utshorgo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "goals",
+            "phonetic": "ɡoʊlz",
+            "word_native_transliteration": {
+                "bn": "গোলস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The object of a person's ambition or effort; an aim or desired result.",
+            "example_sentence": "Setting clear goals makes work easier.",
+            "example_sentence_native_transliteration": {
+                "bn": "সেটিং ক্লিয়ার গোলস মেকস ওয়ার্ক ইজিয়ার।"
+            },
+            "position": 3,
+            "synonyms": "objectives, targets, aims, purposes, ambitions, intentions",
+            "antonyms": "aimlessness, indifference, purposelessness, confusion, randomness, chaos",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "লক্ষ্য",
+                    "word_transliteration": "lokkho",
+                    "example_sentence_translation": "পরিষ্কার লক্ষ্য নির্ধারণ কাজকে সহজ করে তোলে।",
+                    "example_sentence_transliteration": "Porishkar lokkho nirdharon kajke sohoj kore tole.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "practice",
+            "phonetic": "ˈpræktɪs",
+            "word_native_transliteration": {
+                "bn": "প্র্যাকটিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏃",
+            "meaning": "The actual application or use of an idea, belief, or method; repeated exercise in or performance of an activity or skill.",
+            "example_sentence": "Daily practice improves fluency.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডেইলি প্র্যাকটিস ইমপ্রুভস ফ্লুয়েন্সি।"
+            },
+            "position": 4,
+            "synonyms": "exercise, training, rehearsal, drill, repetition, preparation",
+            "antonyms": "inactivity, neglect, abandonment, idleness, inaction, passivity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনুশীলন",
+                    "word_transliteration": "onushilon",
+                    "example_sentence_translation": "দৈনিক অনুশীলন দক্ষতা বাড়ায়।",
+                    "example_sentence_transliteration": "Doinik onushilon dokkhotha baraye.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "consistency",
+            "phonetic": "kənˈsɪstənsi",
+            "word_native_transliteration": {
+                "bn": "কনসিস্টেন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The quality of achieving a level of performance which does not vary greatly in quality over time.",
+            "example_sentence": "Consistency is essential in learning.",
+            "example_sentence_native_transliteration": {
+                "bn": "কনসিস্টেন্সি ইজ এসেনশিয়াল ইন লার্নিং।"
+            },
+            "position": 5,
+            "synonyms": "regularity, uniformity, stability, reliability, steadiness, persistence",
+            "antonyms": "inconsistency, irregularity, variability, instability, unreliability, changeability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ধারাবাহিকতা",
+                    "word_transliteration": "dharabahikota",
+                    "example_sentence_translation": "শেখার ক্ষেত্রে ধারাবাহিকতা অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Shekhar khetre dharabahikota ottonto guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "flashcards",
+            "phonetic": "ˈflæʃkɑːrdz",
+            "word_native_transliteration": {
+                "bn": "ফ্ল্যাশকার্ডস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📇",
+            "meaning": "Cards containing small amounts of information, held up for students to see, as an aid to learning.",
+            "example_sentence": "Flashcards help in quick memorization.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফ্ল্যাশকার্ডস হেল্প ইন কুইক মেমোরাইজেশন।"
+            },
+            "position": 6,
+            "synonyms": "study cards, memory cards, learning aids, revision cards, prompt cards, cue cards",
+            "antonyms": "simplicity, complexity, confusion, disorder, chaos, randomness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শব্দ ও তথ্য কার্ড",
+                    "word_transliteration": "shobdo o tothyo card",
+                    "example_sentence_translation": "ফ্ল্যাশকার্ড দ্রুত মুখস্থ করতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Flashcard druto mukhostho korte shahajyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "language apps",
+            "phonetic": "ˈlæŋɡwɪdʒ æps",
+            "word_native_transliteration": {
+                "bn": "ল্যাঙ্গুয়েজ অ্যাপস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📱",
+            "meaning": "Mobile or computer applications designed to help users learn new languages through interactive lessons and exercises.",
+            "example_sentence": "Language apps make learning easier.",
+            "example_sentence_native_transliteration": {
+                "bn": "ল্যাঙ্গুয়েজ অ্যাপস মেক লার্নিং ইজিয়ার।"
+            },
+            "position": 7,
+            "synonyms": "language software, learning applications, educational apps, language tools, study apps, digital tutors",
+            "antonyms": "non-digital methods, offline learning, traditional methods, paper-based learning, classroom teaching, manual instruction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভাষা শেখার অ্যাপ",
+                    "word_transliteration": "bhasha shekhar app",
+                    "example_sentence_translation": "ভাষা শেখার অ্যাপ শেখাকে সহজ করে তোলে।",
+                    "example_sentence_transliteration": "Bhasha shekhar app shekhake sohoj kore tole.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "audio lessons",
+            "phonetic": "ˈɔːdioʊ ˈlɛsənz",
+            "word_native_transliteration": {
+                "bn": "অডিও লেসনস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎧",
+            "meaning": "Educational content delivered through sound recordings, typically used for language learning and skill development.",
+            "example_sentence": "Audio lessons are useful for listening skills.",
+            "example_sentence_native_transliteration": {
+                "bn": "অডিও লেসনস আর ইউসফুল ফর লিসেনিং স্কিলস।"
+            },
+            "position": 8,
+            "synonyms": "sound lessons, recorded tutorials, listening exercises, audio tutorials, voice lessons, spoken lessons",
+            "antonyms": "visual lessons, text-based learning, written instruction, silent study, reading materials, graphic content",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অডিও লেসন",
+                    "word_transliteration": "audio lesson",
+                    "example_sentence_translation": "অডিও লেসন শ্রবণ দক্ষতার জন্য কার্যকর।",
+                    "example_sentence_transliteration": "Audio lesson shrobon dokkhatar jonno karyokor.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "immerse",
+            "phonetic": "ɪˈmɜːrs",
+            "word_native_transliteration": {
+                "bn": "ইমারস"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🏊",
+            "meaning": "To involve oneself deeply in a particular activity or interest; to surround completely.",
+            "example_sentence": "Immerse yourself in the new language.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইমারস ইয়োরসেলফ ইন দ্য নিউ ল্যাঙ্গুয়েজ।"
+            },
+            "position": 9,
+            "synonyms": "submerge, absorb, engross, involve, engage, surround",
+            "antonyms": "detach, withdraw, surface, emerge, separate, distance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ডুবে থাকা",
+                    "word_transliteration": "dube thaka",
+                    "example_sentence_translation": "নিজেকে নতুন ভাষায় নিমজ্জিত করুন।",
+                    "example_sentence_transliteration": "Nijeke notun bhashai nimojjito korun.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "movies",
+            "phonetic": "ˈmuːviz",
+            "word_native_transliteration": {
+                "bn": "মুভিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎬",
+            "meaning": "A story or event recorded by a camera as a set of moving images and shown in a theater or on television.",
+            "example_sentence": "Watching movies helps in language learning.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওয়াচিং মুভিস হেল্পস ইন ল্যাঙ্গুয়েজ লার্নিং।"
+            },
+            "position": 10,
+            "synonyms": "films, cinema, motion pictures, flicks, shows, videos",
+            "antonyms": "books, still images, photographs, paintings, static art, silent media",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চলচ্চিত্র",
+                    "word_transliteration": "cholochitro",
+                    "example_sentence_translation": "চলচ্চিত্র দেখা ভাষা শেখায় সহায়ক।",
+                    "example_sentence_transliteration": "Cholochitro dekha bhasha shekhay shahayok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "songs",
+            "phonetic": "sɔːŋz",
+            "word_native_transliteration": {
+                "bn": "সংস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎵",
+            "meaning": "A short poem or other set of words set to music or meant to be sung.",
+            "example_sentence": "Listen to songs to learn pronunciation.",
+            "example_sentence_native_transliteration": {
+                "bn": "লিসেন টু সংস টু লার্ন প্রোনান্সিয়েশন।"
+            },
+            "position": 11,
+            "synonyms": "music, melodies, tunes, ballads, hymns, anthems",
+            "antonyms": "silence, speechlessness, muteness, quietness, stillness, soundlessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গান",
+                    "word_transliteration": "gaan",
+                    "example_sentence_translation": "উচ্চারণ শিখতে গান শুনুন।",
+                    "example_sentence_transliteration": "Uchcharon shikhte gaan shunun.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "podcasts",
+            "phonetic": "ˈpɒdkɑːsts",
+            "word_native_transliteration": {
+                "bn": "পডকাস্টস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎙️",
+            "meaning": "A digital audio or video file or recording, usually part of a themed series, that can be downloaded from a website to a media player or computer.",
+            "example_sentence": "Podcasts are great for improving listening.",
+            "example_sentence_native_transliteration": {
+                "bn": "পডকাস্টস আর গ্রেট ফর ইমপ্রুভিং লিসেনিং।"
+            },
+            "position": 12,
+            "synonyms": "audio shows, radio programs, digital broadcasts, audio series, streaming shows, audio content",
+            "antonyms": "live radio, non-recorded audio, live broadcasts, real-time shows, unedited content, spontaneous audio",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পডকাস্ট",
+                    "word_transliteration": "podcast",
+                    "example_sentence_translation": "শ্রবণ দক্ষতা বাড়ানোর জন্য পডকাস্ট দারুণ।",
+                    "example_sentence_transliteration": "Shrobon dokkhata baranoar jonno podcast darun.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "subtitles",
+            "phonetic": "ˈsʌbˌaɪtəlz",
+            "word_native_transliteration": {
+                "bn": "সাবটাইটেলস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📺",
+            "meaning": "Captions displayed at the bottom of a movie or television screen that translate or transcribe the dialogue or narrative.",
+            "example_sentence": "Use subtitles for better understanding.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইউজ সাবটাইটেলস ফর বেটার আন্ডারস্ট্যান্ডিং।"
+            },
+            "position": 13,
+            "synonyms": "captions, text overlay, closed captions, translations, transcriptions, screen text",
+            "antonyms": "no captions, no text display, audio only, visual only, unsubsidized content, pure audio",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সাবটাইটেল",
+                    "word_transliteration": "subtitle",
+                    "example_sentence_translation": "ভালো বোঝার জন্য সাবটাইটেল ব্যবহার করুন।",
+                    "example_sentence_transliteration": "Bhalo bojhar jonno subtitle byabohar korun.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "words",
+            "phonetic": "wɜːrdz",
+            "word_native_transliteration": {
+                "bn": "ওয়ার্ডস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📝",
+            "meaning": "A single distinct meaningful element of speech or writing, used with others to form communication.",
+            "example_sentence": "Learning new words expands vocabulary.",
+            "example_sentence_native_transliteration": {
+                "bn": "লার্নিং নিউ ওয়ার্ডস এক্সপ্যান্ডস ভোক্যাবুলারি।"
+            },
+            "position": 14,
+            "synonyms": "terms, vocabulary, expressions, language, lexicon, terminology",
+            "antonyms": "silence, no sound, muteness, speechlessness, quietness, wordlessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শব্দ",
+                    "word_transliteration": "shobdo",
+                    "example_sentence_translation": "নতুন শব্দ শেখা শব্দভাণ্ডার বাড়ায়।",
+                    "example_sentence_transliteration": "Notun shobdo shekha shabdobhandar baraye.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "phrases",
+            "phonetic": "freɪzɪz",
+            "word_native_transliteration": {
+                "bn": "ফ্রেজেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💭",
+            "meaning": "A small group of words standing together as a conceptual unit, typically forming a component of a clause.",
+            "example_sentence": "Learn common phrases for daily use.",
+            "example_sentence_native_transliteration": {
+                "bn": "লার্ন কমন ফ্রেজেস ফর ডেইলি ইউজ।"
+            },
+            "position": 15,
+            "synonyms": "expressions, idioms, sayings, terms, clauses, word groups",
+            "antonyms": "sentences, paragraphs, full statements, complete thoughts, long passages, extended text",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাক্যাংশ",
+                    "word_transliteration": "bakyangsho",
+                    "example_sentence_translation": "দৈনন্দিন ব্যবহারের জন্য সাধারণ বাক্যাংশ শিখুন।",
+                    "example_sentence_transliteration": "Doinondin byaboharer jonno sadaron bakyangsho shikhun.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

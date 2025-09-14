@@ -1,0 +1,499 @@
+{
+    "position": 154,
+    "title_translation": {
+        "en": "Major Space Missions and Discoveries",
+        "bn": "প্রধান মহাকাশ মিশন এবং আবিষ্কার"
+    },
+    "content_translation": {
+        "en": "Some of the world's major space missions include **astonishing** expeditions that have exceeded our imagination. The **pioneering** efforts of the first human landing on Mars, such as the **Perseverance** rover reaching Mars, have helped us learn many unknown things.\n\nThrough **space exploration**, we have been able to learn new information about **exoplanets** and **celestial** objects. For example, through the **Hubble Space Telescope**, images of distant **galactic** systems have given reality to our imagination. Additionally, research on **gravity** and **radiation** has also become revolutionary.\n\nWith the help of **probe** and **telemetry** technology, we have entered **uncharted** regions of space and discovered various **spectacular** elements.\n\nThese missions were not only important in the **scientific** field, but have also led our thinking and future towards more **innovative** paths. Space **research** has **revolutionized** our concepts about Earth and the universe.",
+        "bn": "বিশ্বের মহাকাশ মিশনগুলোর মধ্যে কিছু **astonishing** অভিযান আমাদের কল্পনাকেও ছাড়িয়ে গিয়েছে। প্রথম মানুষ মঙ্গলগ্রহে পা রাখার **pioneering** প্রচেষ্টা, যেমন **Perseverance** রোভার মঙ্গল গ্রহে পৌঁছে আমাদের অনেক অজানা বিষয় জানতে সহায়ক হয়েছে।\n\n**Space exploration** এর মাধ্যমে আমরা **exoplanet** এবং **celestial** বস্তু সম্পর্কে নতুন তথ্য জানতে পেরেছি। যেমন, **Hubble Space Telescope**-এর মাধ্যমে দূরদূরের **galactic** সিস্টেমের ছবি আমাদের কল্পনাকে বাস্তবে রূপ দেয়। এছাড়া, **gravity** এবং **radiation** সংক্রান্ত গবেষণাও বিপ্লবী হয়ে উঠেছে।\n\n**Probe** এবং **telemetry** প্রযুক্তির সাহায্যে আমরা মহাকাশের **uncharted** অংশে প্রবেশ করেছি এবং বিভিন্ন **spectacular** উপাদান আবিষ্কার করেছি।\n\nএই মিশনগুলো শুধু বৈজ্ঞানিক ক্ষেত্রে গুরুত্বপূর্ণ ছিল না, বরং আমাদের চিন্তাধারা এবং ভবিষ্যতকে আরও **innovative** পথে এগিয়ে নিয়ে গেছে। মহাকাশ **research** আমাদের পৃথিবী ও মহাবিশ্ব সম্পর্কে ধারণা **revolutionize** করেছে।"
+    },
+    "list": [
+        {
+            "word": "astonishing",
+            "phonetic": "əˈstɒnɪʃɪŋ",
+            "word_native_transliteration": {
+                "bn": "অ্যাস্টনিশিং"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "😲",
+            "meaning": "Extremely surprising or impressive; amazing.",
+            "example_sentence": "The astonishing discovery changed the way we view the universe.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যাস্টনিশিং ডিসকভারি চেইঞ্জড দ্য ওয়ে উই ভিউ দ্য ইউনিভার্স।"
+            },
+            "position": 1,
+            "synonyms": "amazing, extraordinary, incredible, remarkable, stunning, breathtaking",
+            "antonyms": "unimpressive, ordinary, unremarkable, mundane, typical, expected",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অবিশ্বাস্য",
+                    "word_transliteration": "obishwashyo",
+                    "example_sentence_translation": "অবিশ্বাস্য আবিষ্কারটি মহাবিশ্বকে দেখার উপায় পরিবর্তন করেছে।",
+                    "example_sentence_transliteration": "Obishwashyo abishkaroti mohobisshokke dekhar upay poriborton koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pioneering",
+            "phonetic": "ˌpaɪəˈnɪərɪŋ",
+            "word_native_transliteration": {
+                "bn": "পাইওনিয়ারিং"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🚀",
+            "meaning": "Involving new ideas or methods; being the first to develop or use new methods.",
+            "example_sentence": "The pioneering research opened new avenues in medicine.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য পাইওনিয়ারিং রিসার্চ ওপেনড নিউ অ্যাভিনিউস ইন মেডিসিন।"
+            },
+            "position": 2,
+            "synonyms": "groundbreaking, innovative, trailblazing, revolutionary, cutting-edge, original",
+            "antonyms": "imitative, unoriginal, conventional, traditional, following, copying",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পথপ্রদর্শক",
+                    "word_transliteration": "pothprodarshok",
+                    "example_sentence_translation": "পথপ্রদর্শক গবেষণা চিকিৎসায় নতুন দিগন্ত উন্মোচন করেছে।",
+                    "example_sentence_transliteration": "Pothprodarshok gobeshona chikitsay notun digonto unmochon koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "perseverance",
+            "phonetic": "ˌpɜːsɪˈvɪərəns",
+            "word_native_transliteration": {
+                "bn": "পার্সিভিরেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "Persistence in doing something despite difficulty or delay in achieving success.",
+            "example_sentence": "His perseverance in the face of adversity was truly inspiring.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ পার্সিভিরেন্স ইন দ্য ফেইস অফ অ্যাডভার্সিটি ওয়াজ ট্রুলি ইনস্পায়ারিং।"
+            },
+            "position": 3,
+            "synonyms": "persistence, determination, tenacity, resolve, dedication, steadfastness",
+            "antonyms": "discouragement, giving up, surrender, abandonment, quitting, weakness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অধ্যবসায়",
+                    "word_transliteration": "oddhyoboshay",
+                    "example_sentence_translation": "বিপদে তার অধ্যবসায় সত্যিই অনুপ্রেরণামূলক ছিল।",
+                    "example_sentence_transliteration": "Bipode tar oddhyoboshay shottyi onupreronnamulok chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "rover",
+            "phonetic": "ˈrəʊvə",
+            "word_native_transliteration": {
+                "bn": "রোভার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤖",
+            "meaning": "A vehicle for driving over rough terrain, especially one driven by remote control over extraterrestrial terrain.",
+            "example_sentence": "The rover landed on Mars to begin its exploration.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রোভার ল্যান্ডেড অন মার্স টু বিগিন ইটস এক্সপ্লোরেশন।"
+            },
+            "position": 4,
+            "synonyms": "explorer, vehicle, probe, robot, spacecraft, lander",
+            "antonyms": "stationary, immobile, fixed, anchored, grounded, static",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মহাকাশযান",
+                    "word_transliteration": "mohakashyan",
+                    "example_sentence_translation": "রোভারটি মঙ্গলে অবতরণ করে তার অনুসন্ধান শুরু করেছিল।",
+                    "example_sentence_transliteration": "Rovarti mungole obotrron kore tar onushondhan shuru korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "space exploration",
+            "phonetic": "speɪs ɪksplɔːˈreɪʃən",
+            "word_native_transliteration": {
+                "bn": "স্পেস এক্সপ্লোরেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚀",
+            "meaning": "The investigation of outer space by means of manned and unmanned spacecraft.",
+            "example_sentence": "Space exploration has expanded our knowledge of the universe.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্পেস এক্সপ্লোরেশন হ্যাজ এক্সপান্ডেড আওয়ার নলেজ অফ দ্য ইউনিভার্স।"
+            },
+            "position": 5,
+            "synonyms": "space research, cosmic investigation, astronomical exploration, space study, celestial research, universe exploration",
+            "antonyms": "ground study, earth observation, terrestrial research, local investigation, planetary confinement, earthbound study",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মহাকাশ গবেষণা",
+                    "word_transliteration": "mohakash gobeshona",
+                    "example_sentence_translation": "মহাকাশ অনুসন্ধান আমাদের মহাবিশ্ব সম্পর্কে জ্ঞানের বিস্তার ঘটিয়েছে।",
+                    "example_sentence_transliteration": "Mohakash onushondhan amader mohobissho shomporke gyaner bistaar ghotiyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "exoplanet",
+            "phonetic": "ˈɛksəʊˌplænɪt",
+            "word_native_transliteration": {
+                "bn": "এক্সোপ্ল্যানেট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🪐",
+            "meaning": "A planet that orbits a star outside the solar system.",
+            "example_sentence": "Astronomers have discovered thousands of exoplanets in the last decade.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাস্ট্রোনমারস হ্যাভ ডিসকভারড থাউজেন্ডস অফ এক্সোপ্ল্যানেটস ইন দ্য লাস্ট ডিকেড।"
+            },
+            "position": 6,
+            "synonyms": "alien planet, otherworldly planet, extrasolar planet, distant planet, foreign planet, remote planet",
+            "antonyms": "earth-like planet, solar planet, local planet, familiar planet, known planet, home planet",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বহিঃসৌরজগতের গ্রহ",
+                    "word_transliteration": "bohishshourjogter groho",
+                    "example_sentence_translation": "অ্যাস্ট্রোনমাররা গত দশকে হাজার হাজার এক্সোপ্ল্যানেট আবিষ্কার করেছেন।",
+                    "example_sentence_transliteration": "Astronomarrha got doshoke hajar hajar exoplanet abishkar korechhen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "celestial",
+            "phonetic": "sɪˈlɛstʃəl",
+            "word_native_transliteration": {
+                "bn": "সেলেস্টিয়াল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "✨",
+            "meaning": "Positioned in or relating to the sky, or outer space as observed in astronomy.",
+            "example_sentence": "The celestial bodies in the sky were clearly visible last night.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সেলেস্টিয়াল বডিজ ইন দ্য স্কাই ওয়্যার ক্লিয়ারলি ভিজিবল লাস্ট নাইট।"
+            },
+            "position": 7,
+            "synonyms": "heavenly, cosmic, astronomical, divine, stellar, galactic",
+            "antonyms": "terrestrial, earthly, mundane, worldly, ground-based, material",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আকাশীয়",
+                    "word_transliteration": "akashiyo",
+                    "example_sentence_translation": "আকাশের মহাজাগতিক বস্তুগুলি গত রাতে পরিষ্কারভাবে দৃশ্যমান ছিল।",
+                    "example_sentence_transliteration": "Akasher mohajagotik bostuguli got rate porishkarrvabe drisshoman chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "galactic",
+            "phonetic": "ɡəˈlæktɪk",
+            "word_native_transliteration": {
+                "bn": "গ্যালাকটিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌌",
+            "meaning": "Of or relating to a galaxy or galaxies.",
+            "example_sentence": "The galactic phenomena observed by the telescope were mesmerizing.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গ্যালাকটিক ফেনোমেনা অবজার্ভড বাই দ্য টেলিস্কোপ ওয়্যার মেজমেরাইজিং।"
+            },
+            "position": 8,
+            "synonyms": "cosmic, universal, stellar, interstellar, astronomical, space-related",
+            "antonyms": "local, earth-bound, terrestrial, planetary, regional, limited",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গ্যালাক্সি সম্পর্কিত",
+                    "word_transliteration": "galaxy shomporkit",
+                    "example_sentence_translation": "টেলিস্কোপ দ্বারা লক্ষ্য করা গ্যালাকটিক ঘটনা মুগ্ধকর ছিল।",
+                    "example_sentence_transliteration": "Telescope dwara lokkhyo kora galactic ghotona mugdhokor chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "gravity",
+            "phonetic": "ˈɡrævɪti",
+            "word_native_transliteration": {
+                "bn": "গ্র্যাভিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⬇️",
+            "meaning": "The force that attracts a body toward the center of the earth, or toward any other physical body having mass.",
+            "example_sentence": "Gravity pulls objects towards the Earth's surface.",
+            "example_sentence_native_transliteration": {
+                "bn": "গ্র্যাভিটি পুলস অবজেক্টস টুয়ার্ডস দ্য আর্থস সারফেস।"
+            },
+            "position": 9,
+            "synonyms": "attraction, pull, gravitational force, weight, mass attraction, downward force",
+            "antonyms": "levitation, weightlessness, antigravity, repulsion, buoyancy, floating",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মহাকর্ষ",
+                    "word_transliteration": "mohakorshon",
+                    "example_sentence_translation": "মহাকর্ষ বস্তুকে পৃথিবীর পৃষ্ঠে আকর্ষণ সৃষ্টি করে।",
+                    "example_sentence_transliteration": "Mohakorshon bostuke prithibir prishthe akorshon srishti kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "radiation",
+            "phonetic": "ˌreɪdɪˈeɪʃən",
+            "word_native_transliteration": {
+                "bn": "রেডিয়েশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "☢️",
+            "meaning": "The emission of energy as electromagnetic waves or as moving subatomic particles.",
+            "example_sentence": "Radiation from the sun can be harmful without protection.",
+            "example_sentence_native_transliteration": {
+                "bn": "রেডিয়েশন ফ্রম দ্য সান ক্যান বি হার্মফুল উইদাউট প্রোটেকশন।"
+            },
+            "position": 10,
+            "synonyms": "emission, energy waves, radioactivity, rays, electromagnetic waves, nuclear energy",
+            "antonyms": "absorption, retention, containment, shielding, blocking, protection",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিকিরণ",
+                    "word_transliteration": "bikiron",
+                    "example_sentence_translation": "সূর্য থেকে বিকিরণ সুরক্ষা ছাড়া ক্ষতিকর হতে পারে।",
+                    "example_sentence_transliteration": "Shurjo theke bikiron shuroksha chhara khotikor hote pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "probe",
+            "phonetic": "prəʊb",
+            "word_native_transliteration": {
+                "bn": "প্রোব"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛰️",
+            "meaning": "An unmanned exploratory spacecraft designed to transmit information about its environment.",
+            "example_sentence": "The probe collected data from the planet's surface.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রোব কালেক্টেড ডেটা ফ্রম দ্য প্ল্যানেটস সারফেস।"
+            },
+            "position": 11,
+            "synonyms": "investigation, exploration, spacecraft, sensor, detector, scanner",
+            "antonyms": "neglect, ignore, overlook, avoid, dismiss, disregard",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনুসন্ধান যন্ত্র",
+                    "word_transliteration": "onushondhan jontro",
+                    "example_sentence_translation": "প্রোবটি গ্রহের পৃষ্ঠ থেকে ডেটা সংগ্রহ করেছে।",
+                    "example_sentence_transliteration": "Probti groher prishth theke data shonggroho koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "telemetry",
+            "phonetic": "ˈtɛlɪˌmɛtri",
+            "word_native_transliteration": {
+                "bn": "টেলিমেট্রি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📡",
+            "meaning": "The process of recording and transmitting the readings of an instrument.",
+            "example_sentence": "The spacecraft transmitted telemetry data back to Earth.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্পেসক্রাফট ট্রান্সমিটেড টেলিমেট্রি ডেটা ব্যাক টু আর্থ।"
+            },
+            "position": 12,
+            "synonyms": "remote sensing, data transmission, monitoring, measurement, communication, tracking",
+            "antonyms": "isolation, disconnection, silence, blackout, cutoff, separation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দূরবর্তী পর্যবেক্ষণ",
+                    "word_transliteration": "durborti porjobokkhon",
+                    "example_sentence_translation": "স্পেসক্রাফটটি পৃথিবীতে টেলিমেট্রি ডেটা পাঠিয়েছে।",
+                    "example_sentence_transliteration": "Spacecraftti prithibite telemetry data pathiyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "uncharted",
+            "phonetic": "ʌnˈtʃɑːtɪd",
+            "word_native_transliteration": {
+                "bn": "আনচার্টেড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🗺️",
+            "meaning": "Not mapped or surveyed; unknown or unexplored.",
+            "example_sentence": "The mission aimed to explore uncharted areas of the planet.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য মিশন এইমড টু এক্সপ্লোর আনচার্টেড এরিয়াস অফ দ্য প্ল্যানেট।"
+            },
+            "position": 13,
+            "synonyms": "unknown, unexplored, unmapped, undiscovered, virgin, untouched",
+            "antonyms": "known, documented, mapped, explored, familiar, charted",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অচিহ্নিত",
+                    "word_transliteration": "ochihhnito",
+                    "example_sentence_translation": "মিশনটি গ্রহের অচিহ্নিত অঞ্চলের অনুসন্ধান করার লক্ষ্য ছিল।",
+                    "example_sentence_transliteration": "Missionti groher ochihhnito anchaler onushondhan korar lokkhyo chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "spectacular",
+            "phonetic": "spekˈtækjʊlər",
+            "word_native_transliteration": {
+                "bn": "স্পেকটাকুলার"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎆",
+            "meaning": "Beautiful in a dramatic and eye-catching way; very impressive.",
+            "example_sentence": "The launch of the spacecraft was a spectacular event.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য লঞ্চ অফ দ্য স্পেসক্রাফট ওয়াজ এ স্পেকটাকুলার ইভেন্ট।"
+            },
+            "position": 14,
+            "synonyms": "impressive, amazing, stunning, breathtaking, magnificent, extraordinary",
+            "antonyms": "ordinary, unremarkable, dull, boring, mundane, plain",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চমকপ্রদ",
+                    "word_transliteration": "chomokprodo",
+                    "example_sentence_translation": "স্পেসক্রাফটটির উৎক্ষেপণ একটি চমকপ্রদ ঘটনা ছিল।",
+                    "example_sentence_transliteration": "Spacecraftir utkkhepn ekti chomokprodo ghotona chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "scientific",
+            "phonetic": "ˌsaɪənˈtɪfɪk",
+            "word_native_transliteration": {
+                "bn": "সায়েন্টিফিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔬",
+            "meaning": "Based on or characterized by the methods and principles of science.",
+            "example_sentence": "Scientific discoveries continue to shape our understanding of the world.",
+            "example_sentence_native_transliteration": {
+                "bn": "সায়েন্টিফিক ডিসকভারিজ কন্টিনিউ টু শেইপ আওয়ার আন্ডারস্ট্যান্ডিং অফ দ্য ওয়ার্ল্ড।"
+            },
+            "position": 15,
+            "synonyms": "experimental, research-based, empirical, methodical, systematic, analytical",
+            "antonyms": "unscientific, irrelevant, unproven, baseless, speculative, theoretical",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৈজ্ঞানিক",
+                    "word_transliteration": "boiggyanik",
+                    "example_sentence_translation": "বৈজ্ঞানিক আবিষ্কারগুলি আমাদের বিশ্বের বুঝতে সাহায্য করতে থাকে।",
+                    "example_sentence_transliteration": "Boiggyanik abishkarguli amader bissher bujhte sahajyo korte thake.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "innovative",
+            "phonetic": "ˈɪnəveɪtɪv",
+            "word_native_transliteration": {
+                "bn": "ইনোভেটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💡",
+            "meaning": "Featuring new methods; advanced and original.",
+            "example_sentence": "The innovative design of the rover allowed it to explore new regions.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইনোভেটিভ ডিজাইন অফ দ্য রোভার অ্যালাউড ইট টু এক্সপ্লোর নিউ রিজিয়নস।"
+            },
+            "position": 16,
+            "synonyms": "creative, groundbreaking, original, inventive, novel, pioneering",
+            "antonyms": "unimaginative, unoriginal, conventional, traditional, outdated, stale",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্ভাবনী",
+                    "word_transliteration": "udbhaboni",
+                    "example_sentence_translation": "রোভারটির উদ্ভাবনী নকশা এটিকে নতুন অঞ্চলগুলি অনুসন্ধান করতে সক্ষম করেছে।",
+                    "example_sentence_transliteration": "Rovarti udbhaboni noksha etikenotun ancholeguli onushondhan korte sokshhom koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "research",
+            "phonetic": "rɪˈsɜːtʃ",
+            "word_native_transliteration": {
+                "bn": "রিসার্চ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📚",
+            "meaning": "The systematic investigation into and study of materials and sources in order to establish facts and reach new conclusions.",
+            "example_sentence": "Extensive research was conducted on the potential of exoplanets.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সটেনসিভ রিসার্চ ওয়াজ কন্ডাক্টেড অন দ্য পোটেনশিয়াল অফ এক্সোপ্ল্যানেটস।"
+            },
+            "position": 17,
+            "synonyms": "study, investigation, analysis, examination, exploration, inquiry",
+            "antonyms": "guesswork, speculation, assumption, ignorance, neglect, disregard",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গবেষণা",
+                    "word_transliteration": "gobeshona",
+                    "example_sentence_translation": "এক্সোপ্ল্যানেটগুলির সম্ভাবনা নিয়ে ব্যাপক গবেষণা করা হয়েছিল।",
+                    "example_sentence_transliteration": "Exoplanetgulir shombhabona niye byapok gobeshona kora hoyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "revolutionize",
+            "phonetic": "ˌrɛvəˈluːʃənaɪz",
+            "word_native_transliteration": {
+                "bn": "রেভোলিউশনাইজ"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔄",
+            "meaning": "Change something radically or fundamentally.",
+            "example_sentence": "The new technology could revolutionize the way we explore space.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিউ টেকনোলজি কুড রেভোলিউশনাইজ দ্য ওয়ে উই এক্সপ্লোর স্পেস।"
+            },
+            "position": 18,
+            "synonyms": "transform, overturn, reform, modernize, innovate, reshape",
+            "antonyms": "stagnate, preserve, maintain, conserve, keep, stabilize",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিপ্লব সৃষ্টি করা",
+                    "word_transliteration": "biplob srishti kora",
+                    "example_sentence_translation": "নতুন প্রযুক্তি মহাকাশ অনুসন্ধানের পদ্ধতিতে বিপ্লব সৃষ্টি করতে পারে।",
+                    "example_sentence_transliteration": "Notun projukti mohakash onushondhaner poddhoti-te biplob srishti korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

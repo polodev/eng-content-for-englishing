@@ -1,0 +1,526 @@
+{
+    "position": 142,
+    "title_translation": {
+        "en": "How to Overcome Procrastination",
+        "bn": "কীভাবে বিলম্ব কাটিয়ে উঠবেন"
+    },
+    "content_translation": {
+        "en": "First, determine your **goals** clearly. Create a **specific plan** where your tasks will be **prioritized**. Start with small and **achievable steps**, because big tasks can feel **overwhelming**.\n\nUse **time blocking** to allocate specific time for your work. Set **deadlines**, which will keep you **accountable** and help you finish tasks. Also follow the **Pomodoro technique**—work for 25 minutes and take a 5-minute **break**. This will increase your **focus**.\n\nTry to stay away from **distractions**. **Eliminate** **social media**, **notifications** and other unnecessary things. **Reward** yourself after completing small tasks, because this will increase **motivation**. Keep your **mindset** positive and **visualize** yourself on the path to success before starting work.\n\n**Finally**, **review** your **progress** regularly. If you ever fall behind, don't blame yourself but **restart** quickly. Gradually, by maintaining **consistency**, you can get freedom from **procrastination** and your **productivity** will increase many times.",
+        "bn": "প্রথমে, নিজের **goals** পরিষ্কারভাবে নির্ধারণ করুন। একটি **specific plan** তৈরি করুন যেখানে আপনার কাজগুলো **prioritize** করা থাকবে। ছোট এবং **achievable steps** দিয়ে শুরু করুন, কারণ বড় কাজ **overwhelming** মনে হতে পারে।\n\n**Time blocking** ব্যবহার করে আপনার কাজের জন্য নির্দিষ্ট সময় বরাদ্দ করুন। **Deadlines** সেট করুন, যা আপনাকে **accountable** রাখবে এবং কাজ শেষ করতে সাহায্য করবে। এছাড়া **Pomodoro technique** অনুসরণ করুন—২৫ মিনিট কাজ এবং ৫ মিনিট **break** নিয়ে এগিয়ে যান। এটি আপনার **focus** বাড়াবে।\n\n**Distractions** থেকে দূরে থাকার চেষ্টা করুন। **Social media**, **notifications** এবং অন্য অপ্রয়োজনীয় জিনিসগুলোকে **eliminate** করুন। নিজেকে **reward** দিন ছোট ছোট কাজ শেষ করার পর, কারণ এটি **motivation** বাড়াবে। আপনার **mindset** ইতিবাচক রাখুন এবং কাজ শুরু করার আগে নিজেকে **visualize** করুন সফলতার পথে।\n\n**Finally**, নিজের **progress** নিয়মিত **review** করুন। যদি কখনো পিছিয়ে পড়েন, নিজেকে দোষারোপ না করে দ্রুত **restart** করুন। ধীরে ধীরে, আপনি **consistency** বজায় রেখে **procrastination** থেকে মুক্তি পেতে পারবেন এবং আপনার **productivity** বহুগুণে বাড়বে।"
+    },
+    "list": [
+        {
+            "word": "procrastination",
+            "phonetic": "/prəˌkræstɪˈneɪʃən/",
+            "word_native_transliteration": {
+                "bn": "প্রোক্রাস্টিনেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⏰",
+            "meaning": "The action of delaying or postponing something.",
+            "example_sentence": "Procrastination delays your success.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোক্রাস্টিনেশন ডিলেস ইয়োর সাকসেস।"
+            },
+            "position": 1,
+            "synonyms": "delay, postponement, deferment, stalling",
+            "antonyms": "action, efficiency, promptness, immediacy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিলম্ব",
+                    "word_transliteration": "bilombo",
+                    "example_sentence_translation": "বিলম্ব আপনার সাফল্যকে হতাশ করে।",
+                    "example_sentence_transliteration": "Bilombo apnar shafollyoke hotash kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "overcome",
+            "phonetic": "/ˌoʊvərˈkʌm/",
+            "word_native_transliteration": {
+                "bn": "ওভারকাম"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "💪",
+            "meaning": "To succeed in dealing with a problem or difficulty.",
+            "example_sentence": "You can overcome procrastination with planning.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইউ ক্যান ওভারকাম প্রোক্রাস্টিনেশন উইথ প্ল্যানিং।"
+            },
+            "position": 2,
+            "synonyms": "conquer, defeat, surmount, triumph over",
+            "antonyms": "surrender, fail, succumb, yield",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতিক্রম করা",
+                    "word_transliteration": "otikrom kora",
+                    "example_sentence_translation": "আপনি পরিকল্পনার মাধ্যমে বিলম্বকে অতিক্রম করতে পারেন।",
+                    "example_sentence_transliteration": "Apni porikolponar maddhome bilomboke otikrom korte paren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "goals",
+            "phonetic": "/ɡoʊlz/",
+            "word_native_transliteration": {
+                "bn": "গোলস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The object of a person's ambition or effort; an aim or desired result.",
+            "example_sentence": "Setting clear goals makes work easier.",
+            "example_sentence_native_transliteration": {
+                "bn": "সেটিং ক্লিয়ার গোলস মেকস ওয়ার্ক ইজিয়ার।"
+            },
+            "position": 3,
+            "synonyms": "objectives, aims, targets, purposes",
+            "antonyms": "aimlessness, indifference, purposelessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "লক্ষ্য",
+                    "word_transliteration": "lokkhyo",
+                    "example_sentence_translation": "পরিষ্কার লক্ষ্য নির্ধারণ কাজকে সহজ করে তোলে।",
+                    "example_sentence_transliteration": "Porishkar lokkhyo nirdharonkajke shohoj kore tole.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "specific",
+            "phonetic": "/spəˈsɪfɪk/",
+            "word_native_transliteration": {
+                "bn": "স্পেসিফিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📍",
+            "meaning": "Clearly defined or identified; particular; exact.",
+            "example_sentence": "Make a specific plan to beat procrastination.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেক অ্যা স্পেসিফিক প্ল্যান টু বিট প্রোক্রাস্টিনেশন।"
+            },
+            "position": 4,
+            "synonyms": "particular, precise, exact, definite",
+            "antonyms": "general, vague, indefinite, unclear",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নির্দিষ্ট",
+                    "word_transliteration": "nirdishto",
+                    "example_sentence_translation": "নির্দিষ্ট পরিকল্পনা তৈরি করুন বিলম্ব কাটিয়ে উঠতে।",
+                    "example_sentence_transliteration": "Nirdishto porikolpona tori korun bilomb katiye uthte.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "plan",
+            "phonetic": "/plæn/",
+            "word_native_transliteration": {
+                "bn": "প্ল্যান"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📋",
+            "meaning": "A detailed proposal for doing or achieving something.",
+            "example_sentence": "A good plan keeps you focused.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যা গুড প্ল্যান কিপস ইউ ফোকাসড।"
+            },
+            "position": 5,
+            "synonyms": "strategy, scheme, blueprint, design",
+            "antonyms": "chaos, disorganization, confusion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিকল্পনা",
+                    "word_transliteration": "porikolpona",
+                    "example_sentence_translation": "একটি ভালো পরিকল্পনা আপনাকে মনোযোগী রাখে।",
+                    "example_sentence_transliteration": "Ekti bhalo porikolpona apnake monojogi rakhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "prioritize",
+            "phonetic": "/praɪˈɔːrətaɪz/",
+            "word_native_transliteration": {
+                "bn": "প্রায়োরিটাইজ"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔢",
+            "meaning": "To designate or treat something as more important than other things.",
+            "example_sentence": "Always prioritize tasks to avoid delay.",
+            "example_sentence_native_transliteration": {
+                "bn": "অলওয়েজ প্রায়োরিটাইজ টাস্কস টু অ্যাভয়েড ডিলে।"
+            },
+            "position": 6,
+            "synonyms": "rank, order, arrange, organize",
+            "antonyms": "ignore, neglect, disregard",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অগ্রাধিকার দেওয়া",
+                    "word_transliteration": "ograduikar deowa",
+                    "example_sentence_translation": "বিলম্ব এড়াতে সবসময় কাজের অগ্রাধিকার দিন।",
+                    "example_sentence_transliteration": "Bilomb edate shobshomoy kajer ograduikar din.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "achievable",
+            "phonetic": "/əˈtʃiːvəbl/",
+            "word_native_transliteration": {
+                "bn": "অ্যাচিভেবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "✅",
+            "meaning": "Able to be brought about or reached successfully.",
+            "example_sentence": "Start with achievable steps to stay motivated.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্টার্ট উইথ অ্যাচিভেবল স্টেপস টু স্টে মোটিভেটেড।"
+            },
+            "position": 7,
+            "synonyms": "attainable, possible, realistic, feasible",
+            "antonyms": "unrealistic, impossible, unattainable",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অর্জনযোগ্য",
+                    "word_transliteration": "orjonyogyo",
+                    "example_sentence_translation": "অর্জনযোগ্য পদক্ষেপ দিয়ে শুরু করুন অনুপ্রাণিত থাকতে।",
+                    "example_sentence_transliteration": "Orjonyogyo podokkhep diye shuru korun onupranito thakte.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "steps",
+            "phonetic": "/stɛps/",
+            "word_native_transliteration": {
+                "bn": "স্টেপস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👣",
+            "meaning": "A measure or action, especially one of a series taken in order to deal with or achieve a particular thing.",
+            "example_sentence": "Taking small steps reduces overwhelm.",
+            "example_sentence_native_transliteration": {
+                "bn": "টেকিং স্মল স্টেপস রিডিউসেস ওভারওয়েল্ম।"
+            },
+            "position": 8,
+            "synonyms": "measures, actions, procedures, stages",
+            "antonyms": "stagnation, inactivity, immobility",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পদক্ষেপ",
+                    "word_transliteration": "podokkhep",
+                    "example_sentence_translation": "ছোট ছোট পদক্ষেপ নেওয়া অতিরিক্ত চাপ কমায়।",
+                    "example_sentence_transliteration": "Choto choto podokkhep neowa otirikto chap komay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "overwhelming",
+            "phonetic": "/ˌoʊvərˈwɛlmɪŋ/",
+            "word_native_transliteration": {
+                "bn": "ওভারওয়েল্মিং"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "😰",
+            "meaning": "Very intense; overpowering.",
+            "example_sentence": "Large tasks can feel overwhelming.",
+            "example_sentence_native_transliteration": {
+                "bn": "লার্জ টাস্কস ক্যান ফিল ওভারওয়েল্মিং।"
+            },
+            "position": 9,
+            "synonyms": "overpowering, intense, crushing, daunting",
+            "antonyms": "manageable, easy, simple, light",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিশাল",
+                    "word_transliteration": "bishal",
+                    "example_sentence_translation": "বড় কাজ অনেক সময় বিশাল মনে হতে পারে।",
+                    "example_sentence_transliteration": "Boro kaj onek shomoy bishal mone hote pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "time blocking",
+            "phonetic": "/taɪm ˈblɑːkɪŋ/",
+            "word_native_transliteration": {
+                "bn": "টাইম ব্লকিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📅",
+            "meaning": "A time management method that involves dividing your day into blocks of time.",
+            "example_sentence": "Time blocking helps you stay focused.",
+            "example_sentence_native_transliteration": {
+                "bn": "টাইম ব্লকিং হেল্পস ইউ স্টে ফোকাসড।"
+            },
+            "position": 10,
+            "synonyms": "time scheduling, time allocation, time planning",
+            "antonyms": "unorganized time, spontaneity, improvisation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সময় বরাদ্দ",
+                    "word_transliteration": "shomoy boraddo",
+                    "example_sentence_translation": "সময় বরাদ্দ আপনাকে মনোযোগী থাকতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Shomoy boraddo apnake monojogi thakte shahayyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "deadlines",
+            "phonetic": "/ˈdɛdˌlaɪnz/",
+            "word_native_transliteration": {
+                "bn": "ডেডলাইনস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⏰",
+            "meaning": "The latest time or date by which something should be completed.",
+            "example_sentence": "Setting deadlines helps finish tasks.",
+            "example_sentence_native_transliteration": {
+                "bn": "সেটিং ডেডলাইনস হেল্পস ফিনিশ টাস্কস।"
+            },
+            "position": 11,
+            "synonyms": "due dates, time limits, cutoff points",
+            "antonyms": "delay, infinity, unlimited time",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সময়সীমা",
+                    "word_transliteration": "shomoyshima",
+                    "example_sentence_translation": "সময়সীমা নির্ধারণ কাজ শেষ করতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Shomoyshima nirdharon kaj shesh korte shahayyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "accountable",
+            "phonetic": "/əˈkaʊntəbl/",
+            "word_native_transliteration": {
+                "bn": "অ্যাকাউন্টেবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📝",
+            "meaning": "Required or expected to justify actions or decisions; responsible.",
+            "example_sentence": "Staying accountable helps reduce delays.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্টেয়িং অ্যাকাউন্টেবল হেল্পস রিডিউস ডিলে।"
+            },
+            "position": 12,
+            "synonyms": "responsible, answerable, liable, obligated",
+            "antonyms": "irresponsible, unreliable, unaccountable",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দায়ী",
+                    "word_transliteration": "dayi",
+                    "example_sentence_translation": "দায়িত্বশীল থাকা বিলম্ব কমাতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Dayittwoshil thaka bilomb komate shahayyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pomodoro",
+            "phonetic": "/ˌpɒməˈdɔːrəʊ/",
+            "word_native_transliteration": {
+                "bn": "পোমোডোরো"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🍅",
+            "meaning": "A time management technique that uses a timer to break down work into intervals.",
+            "example_sentence": "The Pomodoro technique improves productivity.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য পোমোডোরো টেকনিক ইমপ্রুভস প্রোডাক্টিভিটি।"
+            },
+            "position": 13,
+            "synonyms": "time management technique, productivity method",
+            "antonyms": "continuous work, unstructured time",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পোমোডোরো",
+                    "word_transliteration": "pomodoro",
+                    "example_sentence_translation": "পোমোডোরো পদ্ধতি উৎপাদনশীলতা বাড়ায়।",
+                    "example_sentence_transliteration": "Pomodoro poddhoti utpadonsheelota baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "break",
+            "phonetic": "/breɪk/",
+            "word_native_transliteration": {
+                "bn": "ব্রেক"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "☕",
+            "meaning": "A pause in work or during an activity or event.",
+            "example_sentence": "Short breaks refresh your mind.",
+            "example_sentence_native_transliteration": {
+                "bn": "শর্ট ব্রেকস রিফ্রেশ ইয়োর মাইন্ড।"
+            },
+            "position": 14,
+            "synonyms": "pause, rest, interval, recess",
+            "antonyms": "continuation, work, persistence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিরতি",
+                    "word_transliteration": "biroति",
+                    "example_sentence_translation": "ছোট বিরতি আপনার মনকে সতেজ করে।",
+                    "example_sentence_transliteration": "Choto biroti apnar monke shotej kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "focus",
+            "phonetic": "/ˈfoʊkəs/",
+            "word_native_transliteration": {
+                "bn": "ফোকাস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The centre of interest or activity; concentrated attention or effort.",
+            "example_sentence": "Focus on one task at a time.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফোকাস অন ওয়ান টাস্ক অ্যাট অ্যা টাইম।"
+            },
+            "position": 15,
+            "synonyms": "concentration, attention, emphasis, priority",
+            "antonyms": "distraction, neglect, inattention",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মনোযোগ",
+                    "word_transliteration": "monojog",
+                    "example_sentence_translation": "এক সময়ে একটি কাজের উপর মনোযোগ দিন।",
+                    "example_sentence_transliteration": "Ek shomoye ekti kajer upor monojog din.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "distractions",
+            "phonetic": "/dɪˈstrækʃənz/",
+            "word_native_transliteration": {
+                "bn": "ডিস্ট্রাকশনস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📱",
+            "meaning": "Things that prevent someone from concentrating on something else.",
+            "example_sentence": "Eliminate distractions for better productivity.",
+            "example_sentence_native_transliteration": {
+                "bn": "এলিমিনেট ডিস্ট্রাকশনস ফর বেটার প্রোডাক্টিভিটি।"
+            },
+            "position": 16,
+            "synonyms": "interruptions, diversions, disruptions",
+            "antonyms": "concentration, focus, attention",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মনোযোগ বিভ্রাট",
+                    "word_transliteration": "monojog bibhrat",
+                    "example_sentence_translation": "বিভ্রান্তি দূর করুন উৎপাদনশীলতা বাড়ানোর জন্য।",
+                    "example_sentence_transliteration": "Bibhranti dur korun utpadonsheelota baranor jonno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "social media",
+            "phonetic": "/ˈsoʊʃəl ˈmiːdiə/",
+            "word_native_transliteration": {
+                "bn": "সোশ্যাল মিডিয়া"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📲",
+            "meaning": "Websites and applications that enable users to create and share content or to participate in social networking.",
+            "example_sentence": "Social media often causes delays.",
+            "example_sentence_native_transliteration": {
+                "bn": "সোশ্যাল মিডিয়া অফেন কজেস ডিলে।"
+            },
+            "position": 17,
+            "synonyms": "social networking, online platforms, digital media",
+            "antonyms": "offline communication, direct interaction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সামাজিক মিডিয়া",
+                    "word_transliteration": "shamajik midiya",
+                    "example_sentence_translation": "সামাজিক মিডিয়া প্রায়ই বিলম্ব ঘটায়।",
+                    "example_sentence_transliteration": "Shamajik midiya prayi bilomb ghotay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "notifications",
+            "phonetic": "/ˌnoʊtɪfɪˈkeɪʃənz/",
+            "word_native_transliteration": {
+                "bn": "নোটিফিকেশনস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔔",
+            "meaning": "A notice or announcement, especially an official one.",
+            "example_sentence": "Turn off notifications to stay focused.",
+            "example_sentence_native_transliteration": {
+                "bn": "টার্ন অফ নোটিফিকেশনস টু স্টে ফোকাসড।"
+            },
+            "position": 18,
+            "synonyms": "alerts, notices, announcements, messages",
+            "antonyms": "ignorance, silence, quiet",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নোটিফিকেশন",
+                    "word_transliteration": "notifikeশন",
+                    "example_sentence_translation": "মনোযোগী থাকতে নোটিফিকেশন বন্ধ করুন।",
+                    "example_sentence_transliteration": "Monojogi thakte notifikeশন bondho korun.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "eliminate",
+            "phonetic": "/ɪˈlɪmɪneɪt/",
+            "word_native_transliteration": {
+                "bn": "এলিমিনেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "❌",
+            "meaning": "To completely remove or get rid of something.",
+            "example_sentence": "Eliminate time-wasting habits.",
+            "example_sentence_native_transliteration": {
+                "bn": "এলিমিনেট টাইম-ওয়েস্টিং হ্যাবিটস।"
+            },
+            "position": 19,
+            "synonyms": "remove, eradicate, abolish, delete",
+            "antonyms": "keep, retain, maintain, preserve",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দূর করা",
+                    "word_transliteration": "dur kora",
+                    "example_sentence_translation": "সময় নষ্ট করার অভ্যাস দূর করুন।",
+                    "example_sentence_transliteration": "Shomoy noshto korar ovbash dur korun.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

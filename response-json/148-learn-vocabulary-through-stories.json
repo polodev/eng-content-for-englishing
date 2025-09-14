@@ -1,0 +1,418 @@
+{
+    "position": 148,
+    "title_translation": {
+        "en": "Impact of Stress on Well-being",
+        "bn": "মানসিক স্বাস্থ্যের উপর Stress এর প্রভাব"
+    },
+    "content_translation": {
+        "en": "**Stress** has a significant impact on our mental and physical health. If left uncontrolled, it can bring about **catastrophic** consequences. When humans experience pressure, **dissonance** is created in the brain, which can be **debilitating** to our thinking ability. Gradual **fluctuation** affects our emotions and increases **susceptibility**.\n\nThose who experience daily mental **turmoil** may suffer from long-term **neurosis** or anxiety. This not only affects the mind but also creates physical **impediments** that hinder normal life.\n\nHowever, through **introspection** and being **cognizant**, we can **mitigate** these problems. If we can understand ourselves and make necessary changes, stress gradually becomes **alleviated**.\n\nTherefore, stress is not just a **predicament**, but rather how it is dealt with determines an individual's overall **well-being**.",
+        "bn": "**Stress** আমাদের মানসিক এবং শারীরিক স্বাস্থ্যের উপর গুরুতর প্রভাব ফেলে। এটি যদি নিয়ন্ত্রণে না থাকে, তবে **catastrophic** পরিণতি ডেকে আনতে পারে। মানুষ যখন চাপ অনুভব করে, তখন মস্তিষ্কে **dissonance** তৈরি হয়, যা আমাদের চিন্তা করার ক্ষমতাকে **debilitating** করতে পারে। ক্রমাগত **fluctuation** আমাদের আবেগের উপর প্রভাব ফেলে এবং **susceptibility** বাড়িয়ে তোলে।\n\nযারা প্রতিদিন মানসিক **turmoil** অনুভব করেন, তারা দীর্ঘমেয়াদী **neurosis** বা উদ্বেগের শিকার হতে পারেন। এটি শুধু মনের উপর নয়, বরং শারীরিক **impediment** তৈরি করে, যা স্বাভাবিক জীবনযাত্রাকে ব্যাহত করে।\n\nতবে, **introspection** এবং **cognizant** থাকার মাধ্যমে আমরা এই সমস্যাগুলো **mitigate** করতে পারি। নিজেকে বুঝতে পারলে এবং প্রয়োজনীয় পরিবর্তন আনলে, stress ধীরে ধীরে **alleviate** হয়।\n\nঅতএব, stress শুধু একটি **predicament** নয়, বরং এটি কিভাবে মোকাবিলা করা হয় তার উপর নির্ভর করে ব্যক্তির সামগ্রিক **well-being**।"
+    },
+    "list": [
+        {
+            "word": "stress",
+            "phonetic": "/stres/",
+            "word_native_transliteration": {
+                "bn": "স্ট্রেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "😰",
+            "meaning": "Physical, mental, or emotional strain or tension.",
+            "example_sentence": "Excessive stress can lead to health issues.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সেসিভ স্ট্রেস ক্যান লিড টু হেলথ ইস্যুস।"
+            },
+            "position": 1,
+            "synonyms": "tension, anxiety, strain",
+            "antonyms": "relaxation, calmness, ease",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চাপ",
+                    "word_transliteration": "chap",
+                    "example_sentence_translation": "অতিরিক্ত চাপ স্বাস্থ্যের জন্য ক্ষতিকর হতে পারে।",
+                    "example_sentence_transliteration": "Otirikto chap swasther jonno kkhotikar hote pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "catastrophic",
+            "phonetic": "/ˌkæt.əˈstrɒf.ɪk/",
+            "word_native_transliteration": {
+                "bn": "ক্যাটাস্ট্রফিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💥",
+            "meaning": "Extremely unfortunate or unsuccessful; involving or causing sudden great damage or suffering.",
+            "example_sentence": "The earthquake had catastrophic consequences for the city.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য আর্থকোয়েক হ্যাড ক্যাটাস্ট্রফিক কনসিকোয়েন্সেস ফর দ্য সিটি।"
+            },
+            "position": 2,
+            "synonyms": "disastrous, devastating, ruinous",
+            "antonyms": "fortunate, beneficial, advantageous",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিপর্যয়কর",
+                    "word_transliteration": "biporjoykor",
+                    "example_sentence_translation": "ভূমিকম্পটি শহরের জন্য বিপর্যয়কর পরিণতি এনেছিল।",
+                    "example_sentence_transliteration": "Bhumikompto shohorer jonno biporjoykor porinoti enechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dissonance",
+            "phonetic": "/ˈdɪs.ə.nəns/",
+            "word_native_transliteration": {
+                "bn": "ডিসোন্যান্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "Lack of harmony among musical notes; disagreement or incongruity.",
+            "example_sentence": "The political dissonance made decision-making difficult.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য পলিটিক্যাল ডিসোন্যান্স মেইড ডিসিশন-মেকিং ডিফিকাল্ট।"
+            },
+            "position": 3,
+            "synonyms": "discord, conflict, discrepancy",
+            "antonyms": "harmony, agreement, concord",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৈষম্য",
+                    "word_transliteration": "boishommo",
+                    "example_sentence_translation": "রাজনৈতিক বৈষম্যের কারণে সিদ্ধান্ত গ্রহণ কঠিন হয়ে পড়েছিল।",
+                    "example_sentence_transliteration": "Rajnoitik boishommer karone siddhanto grohon kothin hoye porechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "debilitating",
+            "phonetic": "/dɪˈbɪl.ɪ.teɪ.tɪŋ/",
+            "word_native_transliteration": {
+                "bn": "ডিবিলিটেটিং"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "😵‍💫",
+            "meaning": "Making someone or something weak and infirm.",
+            "example_sentence": "The disease had a debilitating effect on his health.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডিজিজ হ্যাড এ ডিবিলিটেটিং এফেক্ট অন হিজ হেলথ।"
+            },
+            "position": 4,
+            "synonyms": "weakening, crippling, exhausting",
+            "antonyms": "strengthening, invigorating, energizing",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দুর্বলকর",
+                    "word_transliteration": "durbolkor",
+                    "example_sentence_translation": "রোগটি তার স্বাস্থ্যের ওপর দুর্বলকরণ প্রভাব ফেলেছিল।",
+                    "example_sentence_transliteration": "Rogti tar swasther opor durbolkoron prabhab felechchilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fluctuation",
+            "phonetic": "/ˌflʌk.tʃuˈeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ফ্লাকচুয়েশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "An irregular rising and falling in number or amount; a variation.",
+            "example_sentence": "The stock market is experiencing constant fluctuation.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্টক মার্কেট ইজ এক্সপেরিয়েন্সিং কনস্ট্যান্ট ফ্লাকচুয়েশন।"
+            },
+            "position": 5,
+            "synonyms": "variation, instability, oscillation",
+            "antonyms": "stability, consistency, steadiness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ওঠানামা",
+                    "word_transliteration": "othanama",
+                    "example_sentence_translation": "শেয়ারবাজারে ক্রমাগত ওঠানামা দেখা যাচ্ছে।",
+                    "example_sentence_transliteration": "Sheyarbajarey kromagoto othanama dekha jacche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "susceptibility",
+            "phonetic": "/səˌsɛp.təˈbɪl.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "সাসেপটিবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛡️",
+            "meaning": "The state or fact of being likely or liable to be influenced or harmed by a particular thing.",
+            "example_sentence": "Older adults have a higher susceptibility to infections.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওল্ডার অ্যাডাল্টস হ্যাভ এ হায়ার সাসেপটিবিলিটি টু ইনফেকশনস।"
+            },
+            "position": 6,
+            "synonyms": "vulnerability, sensitivity, inclination",
+            "antonyms": "immunity, resistance, invulnerability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংবেদনশীলতা",
+                    "word_transliteration": "shongbedonshilota",
+                    "example_sentence_translation": "বয়স্ক ব্যক্তিদের সংক্রমণের প্রতি বেশি সংবেদনশীলতা থাকে।",
+                    "example_sentence_transliteration": "Boyoshko bekktider shongkromoner proti beshi shongbedonshilota thake.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "turmoil",
+            "phonetic": "/ˈtɜː.mɔɪl/",
+            "word_native_transliteration": {
+                "bn": "টারময়েল"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌪️",
+            "meaning": "A state of great disturbance, confusion, or uncertainty.",
+            "example_sentence": "The political turmoil led to mass protests.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য পলিটিক্যাল টারময়েল লেড টু ম্যাস প্রোটেস্টস।"
+            },
+            "position": 7,
+            "synonyms": "chaos, disorder, unrest",
+            "antonyms": "peace, order, stability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিশৃঙ্খলা",
+                    "word_transliteration": "bishringkhola",
+                    "example_sentence_translation": "রাজনৈতিক অস্থিরতার ফলে ব্যাপক বিক্ষোভ দেখা দেয়।",
+                    "example_sentence_transliteration": "Rajnoitik osthirotar fole byapok bikhshov dekha dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "neurosis",
+            "phonetic": "/njʊəˈrəʊ.sɪs/",
+            "word_native_transliteration": {
+                "bn": "নিউরোসিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧠",
+            "meaning": "A relatively mild mental illness that is not caused by organic disease, involving symptoms of stress.",
+            "example_sentence": "His neurosis made social interactions difficult.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ নিউরোসিস মেইড সোশ্যাল ইন্টারঅ্যাকশনস ডিফিকাল্ট।"
+            },
+            "position": 8,
+            "synonyms": "anxiety disorder, neurosis, obsession",
+            "antonyms": "sanity, balance, rationality",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মানসিক ব্যাধি",
+                    "word_transliteration": "manoshik byadhi",
+                    "example_sentence_translation": "তার মানসিক ব্যাধি সামাজিক মেলামেশাকে কঠিন করে তুলেছিল।",
+                    "example_sentence_transliteration": "Tar manoshik byadhi shamajik melameshakey kothin kore tulechchilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "impediment",
+            "phonetic": "/ɪmˈped.ɪ.mənt/",
+            "word_native_transliteration": {
+                "bn": "ইমপেডিমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚧",
+            "meaning": "A hindrance or obstruction in doing something.",
+            "example_sentence": "Lack of resources was a major impediment to progress.",
+            "example_sentence_native_transliteration": {
+                "bn": "ল্যাক অব রিসোর্সেস ওয়াজ এ মেজর ইমপেডিমেন্ট টু প্রগ্রেস।"
+            },
+            "position": 9,
+            "synonyms": "obstruction, hurdle, hindrance",
+            "antonyms": "assistance, facilitation, support",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিবন্ধকতা",
+                    "word_transliteration": "protibandhokota",
+                    "example_sentence_translation": "সংসাধনের অভাব ছিল অগ্রগতির প্রধান প্রতিবন্ধকতা।",
+                    "example_sentence_transliteration": "Shongsadhoner ovab chhilo ogrogotir prodhan protibandhokota.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "introspection",
+            "phonetic": "/ˌɪn.trəˈspek.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ইনট্রোস্পেকশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤔",
+            "meaning": "The examination or observation of one's own mental and emotional processes.",
+            "example_sentence": "Introspection helps individuals understand their strengths and weaknesses.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনট্রোস্পেকশন হেল্পস ইনডিভিজুয়ালস আন্ডারস্ট্যান্ড দেয়ার স্ট্রেংথস অ্যান্ড উইকনেসেস।"
+            },
+            "position": 10,
+            "synonyms": "reflection, contemplation, self-examination",
+            "antonyms": "extroversion, disregard, heedlessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আত্মপর্যালোচনা",
+                    "word_transliteration": "attoporyalochona",
+                    "example_sentence_translation": "আত্মপর্যালোচনা একজন ব্যক্তিকে তার শক্তি ও দুর্বলতা বুঝতে সহায়তা করে।",
+                    "example_sentence_transliteration": "Attoporyalochona ekjon bekktikay tar shokti o durbolota bujtay sohayota kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cognizant",
+            "phonetic": "/ˈkɒɡ.nɪ.zənt/",
+            "word_native_transliteration": {
+                "bn": "কগনিজ্যান্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "👁️",
+            "meaning": "Having knowledge or awareness of something.",
+            "example_sentence": "He is cognizant of the challenges in the industry.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি ইজ কগনিজ্যান্ট অব দ্য চ্যালেঞ্জেস ইন দ্য ইন্ডাস্ট্রি।"
+            },
+            "position": 11,
+            "synonyms": "aware, informed, perceptive",
+            "antonyms": "oblivious, unaware, ignorant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সচেতন",
+                    "word_transliteration": "shocheton",
+                    "example_sentence_translation": "তিনি শিল্পের চ্যালেঞ্জ সম্পর্কে সচেতন।",
+                    "example_sentence_transliteration": "Tini shilper challenge shomporke shocheton.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "mitigate",
+            "phonetic": "/ˈmɪt.ɪ.ɡeɪt/",
+            "word_native_transliteration": {
+                "bn": "মিটিগেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🛡️",
+            "meaning": "To make less severe, serious, or painful.",
+            "example_sentence": "Effective policies can mitigate environmental damage.",
+            "example_sentence_native_transliteration": {
+                "bn": "এফেক্টিভ পলিসিজ ক্যান মিটিগেট এনভায়রনমেন্টাল ড্যামেজ।"
+            },
+            "position": 12,
+            "synonyms": "lessen, reduce, alleviate",
+            "antonyms": "exacerbate, intensify, aggravate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রশমিত করা",
+                    "word_transliteration": "proshomito kora",
+                    "example_sentence_translation": "কার্যকর নীতি পরিবেশগত ক্ষতি কমাতে পারে।",
+                    "example_sentence_transliteration": "Karjokoro neeti poribeshgoto khoti komaate pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "alleviate",
+            "phonetic": "/əˈliː.vi.eɪt/",
+            "word_native_transliteration": {
+                "bn": "অ্যালিভিয়েট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "💊",
+            "meaning": "To make suffering, deficiency, or a problem less severe.",
+            "example_sentence": "Proper medication can alleviate chronic pain.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রপার মেডিকেশন ক্যান অ্যালিভিয়েট ক্রনিক পেইন।"
+            },
+            "position": 13,
+            "synonyms": "relieve, ease, soothe",
+            "antonyms": "worsen, aggravate, intensify",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "লাঘব করা",
+                    "word_transliteration": "laghob kora",
+                    "example_sentence_translation": "সঠিক ওষুধ দীর্ঘস্থায়ী ব্যথা লাঘব করতে পারে।",
+                    "example_sentence_transliteration": "Shothik oshudh dirgosthayi bytha laghob korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "predicament",
+            "phonetic": "/prɪˈdɪk.ə.mənt/",
+            "word_native_transliteration": {
+                "bn": "প্রিডিকামেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "😰",
+            "meaning": "A difficult, unpleasant, or embarrassing situation.",
+            "example_sentence": "The unexpected loss put him in a financial predicament.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য আনএক্সপেক্টেড লস পুট হিম ইন এ ফাইনান্শিয়াল প্রিডিকামেন্ট।"
+            },
+            "position": 14,
+            "synonyms": "dilemma, hardship, quandary",
+            "antonyms": "solution, advantage, ease",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিপদ",
+                    "word_transliteration": "bipod",
+                    "example_sentence_translation": "অপ্রত্যাশিত ক্ষতি তাকে আর্থিক সংকটে ফেলে দিয়েছিল।",
+                    "example_sentence_transliteration": "Oprottashito khoti take arthik shonkotey fele diyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "well-being",
+            "phonetic": "/ˈwelˌbiː.ɪŋ/",
+            "word_native_transliteration": {
+                "bn": "ওয়েল-বিইং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌟",
+            "meaning": "The state of being comfortable, healthy, or happy.",
+            "example_sentence": "Regular exercise contributes to overall well-being.",
+            "example_sentence_native_transliteration": {
+                "bn": "রেগুলার এক্সারসাইজ কন্ট্রিবিউটস টু ওভারঅল ওয়েল-বিইং।"
+            },
+            "position": 15,
+            "synonyms": "health, prosperity, welfare",
+            "antonyms": "distress, suffering, hardship",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কল্যাণ",
+                    "word_transliteration": "kollan",
+                    "example_sentence_translation": "নিয়মিত ব্যায়াম সামগ্রিক কল্যাণে অবদান রাখে।",
+                    "example_sentence_transliteration": "Niyomito byayam shamogrik kollane obdan rakhe.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

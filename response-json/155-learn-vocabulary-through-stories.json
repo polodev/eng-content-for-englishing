@@ -1,0 +1,526 @@
+{
+    "position": 155,
+    "title_translation": {
+        "en": "Market vs. Command Economies Explained",
+        "bn": "বাজার বনাম কমান্ড অর্থনীতি ব্যাখ্যা"
+    },
+    "content_translation": {
+        "en": "The world's economic systems are mainly of two types—**market economy** and **command economy**. In a **capitalism**-based **market economy**, individual ownership and **consumerism** play important roles, where business and **commodity** prices are determined according to demand and **elasticity**.\n\nOn the other hand, in a **command economy**, economic principles are governed by **centralization**, where the government performs **nationalization** of resources and controls major industries. **Bureaucracy** is more prevalent here, which sometimes slows down development.\n\nIn a **market economy**, businesses have more freedom through **privatization** and **deregulation**, where **fiscal** and **monetary** policies become business-friendly. However, this can increase **disparity** between rich and poor.\n\nOn the other hand, in a **command economy**, the government tries to meet people's basic needs through **subsidization**, but this can create **inflationary** pressure.\n\nTherefore, making the right **trade-off** in economics is important, so that **equilibrium** is maintained and **scarcity** is reduced.",
+        "bn": "বিশ্বের অর্থনৈতিক কাঠামো মূলত দুই ধরনের—**market economy** এবং **command economy**। **Capitalism** ভিত্তিক **market economy**-তে ব্যক্তি মালিকানা এবং **consumerism** গুরুত্বপূর্ণ ভূমিকা রাখে, যেখানে ব্যবসা এবং **commodity** এর দাম নির্ধারণ হয় চাহিদা ও **elasticity** অনুযায়ী।\n\nঅন্যদিকে, **command economy**-তে অর্থনৈতিক সিদ্ধান্তগুলো **centralization** দ্বারা পরিচালিত হয়, যেখানে সরকার সম্পদের **nationalization** করে এবং মূল শিল্পগুলো নিয়ন্ত্রণ করে। **Bureaucracy** এখানে বেশি থাকে, যা কখনো কখনো উন্নয়নকে ধীরগতির করে ফেলে।\n\n**Market economy**-তে ব্যবসার স্বাধীনতা বেশি থাকায় **privatization** ও **deregulation** দেখা যায়, যেখানে **fiscal** এবং **monetary** নীতিগুলো ব্যবসা-বান্ধব হয়। কিন্তু, এতে ধনী-গরিবের মধ্যে **disparity** বেড়ে যেতে পারে।\n\nঅন্যদিকে, **command economy**-তে সরকার **subsidization** দিয়ে জনগণের মৌলিক চাহিদা মেটাতে চায়, কিন্তু এর ফলে **inflationary** চাপ তৈরি হতে পারে।\n\nতাই, অর্থনীতিতে সঠিক **trade-off** করা গুরুত্বপূর্ণ, যাতে **equilibrium** বজায় থাকে এবং **scarcity** কমে আসে।"
+    },
+    "list": [
+        {
+            "word": "market economy",
+            "phonetic": "ˈmɑːr.kɪt ɪˈkɒn.ə.mi",
+            "word_native_transliteration": {
+                "bn": "মার্কেট ইকনমি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "An economic system where production and pricing decisions are controlled by individuals and based on supply and demand.",
+            "example_sentence": "A market economy allows businesses to compete freely.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ মার্কেট ইকনমি অ্যালাউজ বিজনেসেস টু কমপিট ফ্রিলি।"
+            },
+            "position": 1,
+            "synonyms": "Free Market, Capitalist Economy, Laissez-faire System",
+            "antonyms": "Command Economy, Planned Economy, State-controlled Economy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাজার অর্থনীতি",
+                    "word_transliteration": "bajar orthoniti",
+                    "example_sentence_translation": "বাজার অর্থনীতি ব্যবসাগুলোকে স্বাধীনভাবে প্রতিযোগিতা করার সুযোগ দেয়।",
+                    "example_sentence_transliteration": "Bajar orthoniti byabsaguloke shadhinbhabe protijogita korar sujog dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "command economy",
+            "phonetic": "kəˈmɑːnd ɪˈkɒn.ə.mi",
+            "word_native_transliteration": {
+                "bn": "কমান্ড ইকনমি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏛️",
+            "meaning": "An economic system where economic activities are controlled by the government.",
+            "example_sentence": "In a command economy, the government controls production and prices.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইন এ কমান্ড ইকনমি, দ্য গভর্নমেন্ট কন্ট্রোলস প্রোডাকশন অ্যান্ড প্রাইসেস।"
+            },
+            "position": 2,
+            "synonyms": "Planned Economy, State-controlled Economy, Centralized Economy",
+            "antonyms": "Free Market Economy, Capitalism, Deregulated Economy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিয়ন্ত্রিত অর্থনীতি",
+                    "word_transliteration": "niyontrito orthoniti",
+                    "example_sentence_translation": "নিয়ন্ত্রিত অর্থনীতিতে সরকার উৎপাদন ও মূল্যের নিয়ন্ত্রণ রাখে।",
+                    "example_sentence_transliteration": "Niyontrito orthonititey shorkar utpadon o muller niyontron rakhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "capitalism",
+            "phonetic": "ˈkæp.ɪ.təl.ɪ.zəm",
+            "word_native_transliteration": {
+                "bn": "ক্যাপিটালিজম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💰",
+            "meaning": "An economic system where trade, industry and production are privately owned and operated for profit.",
+            "example_sentence": "Capitalism encourages innovation and competition.",
+            "example_sentence_native_transliteration": {
+                "bn": "ক্যাপিটালিজম এনকারেজেস ইনোভেশন অ্যান্ড কমপিটিশন।"
+            },
+            "position": 3,
+            "synonyms": "Free Enterprise, Market System, Private Ownership",
+            "antonyms": "Socialism, Communism, Collectivism",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুঁজিবাদ",
+                    "word_transliteration": "pujibad",
+                    "example_sentence_translation": "পুঁজিবাদ উদ্ভাবন ও প্রতিযোগিতাকে উৎসাহিত করে।",
+                    "example_sentence_transliteration": "Pujibad udbhabon o protijogitake utsahit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "consumerism",
+            "phonetic": "kənˈsjuː.mə.rɪ.zəm",
+            "word_native_transliteration": {
+                "bn": "কনজিউমারিজম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛒",
+            "meaning": "The tendency to increase consumption of goods and the importance given to consuming products.",
+            "example_sentence": "Modern consumerism leads to increased demand for luxury goods.",
+            "example_sentence_native_transliteration": {
+                "bn": "মডার্ন কনজিউমারিজম লিডস টু ইনক্রিসড ডিমান্ড ফর লাক্সারি গুডস।"
+            },
+            "position": 4,
+            "synonyms": "Materialism, Mass Consumption, Commercialism",
+            "antonyms": "Minimalism, Frugality, Anti-consumption",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভোক্তাবাদ",
+                    "word_transliteration": "bhoktabad",
+                    "example_sentence_translation": "আধুনিক ভোক্তাবাদ বিলাসবহুল পণ্যের চাহিদা বৃদ্ধি করে।",
+                    "example_sentence_transliteration": "Adhunik bhoktabad bilasbohul ponyer chahida briddhi kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "commodity",
+            "phonetic": "kəˈmɒd.ə.ti",
+            "word_native_transliteration": {
+                "bn": "কমডিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📦",
+            "meaning": "A raw material or primary agricultural product that can be bought and sold.",
+            "example_sentence": "Oil is a valuable commodity in the global market.",
+            "example_sentence_native_transliteration": {
+                "bn": "অয়েল ইজ এ ভ্যালুয়েবল কমডিটি ইন দ্য গ্লোবাল মার্কেট।"
+            },
+            "position": 5,
+            "synonyms": "Goods, Merchandise, Trade Product",
+            "antonyms": "Non-tradable Item, Service, Liability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভোগ্য পণ্য",
+                    "word_transliteration": "bhogjo ponyo",
+                    "example_sentence_translation": "তেল বিশ্ববাজারে একটি মূল্যবান ভোগ্য পণ্য।",
+                    "example_sentence_transliteration": "Tel bishwobajare ekti mulyoban bhogjo ponyo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "elasticity",
+            "phonetic": "ɪˌlæˈstɪs.ə.ti",
+            "word_native_transliteration": {
+                "bn": "ইলাস্টিসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "The responsiveness of demand or supply to changes in price.",
+            "example_sentence": "The elasticity of demand for luxury goods is high.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইলাস্টিসিটি অব ডিমান্ড ফর লাক্সারি গুডস ইজ হাই।"
+            },
+            "position": 6,
+            "synonyms": "Responsiveness, Flexibility, Adaptability",
+            "antonyms": "Rigidity, Inflexibility, Inelasticity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্থিতিস্থাপকতা",
+                    "word_transliteration": "stithisthapokota",
+                    "example_sentence_translation": "বিলাসবহুল পণ্যের চাহিদার স্থিতিস্থাপকতা বেশি।",
+                    "example_sentence_transliteration": "Bilasbohul ponyer chahidar stithisthapokota beshi.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "centralization",
+            "phonetic": "ˌsɛn.trə.laɪˈzeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "সেন্ট্রালাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The concentration of control and decision-making power in a central authority.",
+            "example_sentence": "Excessive centralization can slow down decision-making.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সেসিভ সেন্ট্রালাইজেশন ক্যান স্লো ডাউন ডিসিশন-মেকিং।"
+            },
+            "position": 7,
+            "synonyms": "Concentration, Central Control, Consolidation",
+            "antonyms": "Decentralization, Distribution, Delegation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কেন্দ্রীকরণ",
+                    "word_transliteration": "kendrikoron",
+                    "example_sentence_translation": "অতিরিক্ত কেন্দ্রীকরণ সিদ্ধান্ত গ্রহণের গতি কমিয়ে দিতে পারে।",
+                    "example_sentence_transliteration": "Otirikto kendrikoron siddhanto grohoner goti komiye dite pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "nationalization",
+            "phonetic": "ˌnæʃ.ən.ə.laɪˈzeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ন্যাশনালাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏛️",
+            "meaning": "The process of a government taking control of private property or industry.",
+            "example_sentence": "The nationalization of banks was aimed at stabilizing the economy.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ন্যাশনালাইজেশন অব ব্যাংকস ওয়াজ এইমড অ্যাট স্ট্যাবিলাইজিং দ্য ইকনমি।"
+            },
+            "position": 8,
+            "synonyms": "State Ownership, Public Control, Government Takeover",
+            "antonyms": "Privatization, Deregulation, Free Marketization",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রাষ্ট্রায়ত্তকরণ",
+                    "word_transliteration": "rashtrayottokoron",
+                    "example_sentence_translation": "ব্যাংকগুলোর রাষ্ট্রায়ত্তকরণের উদ্দেশ্য ছিল অর্থনীতিকে স্থিতিশীল করা।",
+                    "example_sentence_transliteration": "Bankgulor rashtrayottokoron er uddeshyo chhilo orthonitikey stitishil kora.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "bureaucracy",
+            "phonetic": "bjʊəˈrɒk.rə.si",
+            "word_native_transliteration": {
+                "bn": "বিউরোক্রেসি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📋",
+            "meaning": "A complex administrative system where strict rules and procedures are followed.",
+            "example_sentence": "Excessive bureaucracy can slow down government decision-making.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সেসিভ বিউরোক্রেসি ক্যান স্লো ডাউন গভর্নমেন্ট ডিসিশন-মেকিং।"
+            },
+            "position": 9,
+            "synonyms": "Administration, Red Tape, Officialdom",
+            "antonyms": "Efficiency, Simplicity, Flexibility",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আমলাতন্ত্র",
+                    "word_transliteration": "amlatontro",
+                    "example_sentence_translation": "অতিরিক্ত আমলাতন্ত্র সরকারি সিদ্ধান্ত গ্রহণের গতি কমিয়ে দিতে পারে।",
+                    "example_sentence_transliteration": "Otirikto amlatontro shorkari siddhanto grohoner goti komiye dite pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "privatization",
+            "phonetic": "ˌpraɪ.və.taɪˈzeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "প্রাইভেটাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏢",
+            "meaning": "The transfer of ownership of an organization or property from government to private sector.",
+            "example_sentence": "The privatization of industries has led to increased efficiency.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রাইভেটাইজেশন অব ইন্ডাস্ট্রিজ হ্যাজ লেড টু ইনক্রিসড এফিশিয়েন্সি।"
+            },
+            "position": 10,
+            "synonyms": "Private Ownership, Commercialization, Deregulation",
+            "antonyms": "Nationalization, Public Ownership, State Control",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বেসরকারীকরণ",
+                    "word_transliteration": "besorkarikoron",
+                    "example_sentence_translation": "শিল্পগুলোর বেসরকারীকরণ দক্ষতা বৃদ্ধির কারণ হয়েছে।",
+                    "example_sentence_transliteration": "Shilpogulor besorkarikoron dokkhota briddhir karon hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "deregulation",
+            "phonetic": "ˌdiːˌrɛɡ.jʊˈleɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ডিরেগুলেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔓",
+            "meaning": "The removal or reduction of government regulations in an economic sector.",
+            "example_sentence": "Deregulation has increased competition in the telecommunications sector.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিরেগুলেশন হ্যাজ ইনক্রিসড কমপিটিশন ইন দ্য টেলিকমিউনিকেশনস সেক্টর।"
+            },
+            "position": 11,
+            "synonyms": "Liberalization, Free Market, Removal of Restrictions",
+            "antonyms": "Regulation, Control, Government Intervention",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিয়ন্ত্রণমুক্তকরণ",
+                    "word_transliteration": "niyontronmuktokoron",
+                    "example_sentence_translation": "টেলিযোগাযোগ খাতে প্রতিযোগিতা বাড়াতে নিয়ন্ত্রণমুক্তকরণ কার্যকর হয়েছে।",
+                    "example_sentence_transliteration": "Telijogazog khate protijogita barate niyontronmuktokoron karjokor hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fiscal",
+            "phonetic": "ˈfɪs.kəl",
+            "word_native_transliteration": {
+                "bn": "ফিসক্যাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💸",
+            "meaning": "Related to government revenue, taxation and expenditure.",
+            "example_sentence": "The government introduced fiscal policies to control inflation.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গভর্নমেন্ট ইনট্রোডিউসড ফিসক্যাল পলিসিজ টু কন্ট্রোল ইনফ্লেশন।"
+            },
+            "position": 12,
+            "synonyms": "Financial, Budgetary, Economic",
+            "antonyms": "Non-financial, Extraneous, Unrelated",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আর্থিক",
+                    "word_transliteration": "arthik",
+                    "example_sentence_translation": "সরকার মুদ্রাস্ফীতি নিয়ন্ত্রণে আর্থিক নীতিগুলো প্রয়োগ করেছে।",
+                    "example_sentence_transliteration": "Shorkar mudraspiti niyontrone arthik nitigulo proyog koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "monetary",
+            "phonetic": "ˈmʌn.ɪ.tri",
+            "word_native_transliteration": {
+                "bn": "মনিটেরি"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🏦",
+            "meaning": "Related to money system and central bank policies.",
+            "example_sentence": "The central bank regulates monetary policies to stabilize the economy.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সেন্ট্রাল ব্যাংক রেগুলেটস মনিটেরি পলিসিজ টু স্ট্যাবিলাইজ দ্য ইকনমি।"
+            },
+            "position": 13,
+            "synonyms": "Financial, Economic, Money-related",
+            "antonyms": "Non-monetary, Barter-based, Non-financial",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মুদ্রানীতি",
+                    "word_transliteration": "mudraniti",
+                    "example_sentence_translation": "অর্থনীতিকে স্থিতিশীল রাখতে কেন্দ্রীয় ব্যাংক মুদ্রানীতি নিয়ন্ত্রণ করে।",
+                    "example_sentence_transliteration": "Orthonitikey stitishil rakhte kendriyio bank mudraniti niyontron kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "disparity",
+            "phonetic": "dɪˈspær.ə.ti",
+            "word_native_transliteration": {
+                "bn": "ডিসপ্যারিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "A difference in wealth, opportunities or facilities.",
+            "example_sentence": "The income disparity between rich and poor is increasing.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইনকাম ডিসপ্যারিটি বিটউইন রিচ অ্যান্ড পুওর ইজ ইনক্রিসিং।"
+            },
+            "position": 14,
+            "synonyms": "Inequality, Imbalance, Disproportion",
+            "antonyms": "Equality, Balance, Uniformity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৈষম্য",
+                    "word_transliteration": "boishomyo",
+                    "example_sentence_translation": "ধনী ও দরিদ্রের মধ্যে আয়ের বৈষম্য বৃদ্ধি পাচ্ছে।",
+                    "example_sentence_transliteration": "Dhoni o doridrer moddhe ayer boishomyo briddhi pachche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "subsidization",
+            "phonetic": "ˌsʌb.sɪ.dɪˈzeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "সাবসিডাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💰",
+            "meaning": "Financial assistance provided by government to make certain goods or services more affordable.",
+            "example_sentence": "Subsidization of agriculture helps farmers maintain crop production.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাবসিডাইজেশন অব এগ্রিকালচার হেল্পস ফার্মারস মেইনটেইন ক্রপ প্রোডাকশন।"
+            },
+            "position": 15,
+            "synonyms": "Financial Aid, Grant, Public Funding",
+            "antonyms": "Taxation, Cost-cutting, Self-sufficiency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভর্তুকি প্রদান",
+                    "word_transliteration": "bhortuki prodan",
+                    "example_sentence_translation": "কৃষিতে ভর্তুকি কৃষকদের ফসল উৎপাদন বজায় রাখতে সহায়তা করে।",
+                    "example_sentence_transliteration": "Krishite bhortuki krishokder foshol utpadon bojay rakhte sahayota kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "inflationary",
+            "phonetic": "ɪnˈfleɪ.ʃə.ner.i",
+            "word_native_transliteration": {
+                "bn": "ইনফ্লেশনারি"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📈",
+            "meaning": "An economic condition where prices of goods increase.",
+            "example_sentence": "The country is facing inflationary pressure due to increased demand.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কাট্রি ইজ ফেসিং ইনফ্লেশনারি প্রেশার ডিউ টু ইনক্রিসড ডিমান্ড।"
+            },
+            "position": 16,
+            "synonyms": "Price-rising, Cost-increasing, Economic Growth-related",
+            "antonyms": "Deflationary, Price-stabilized, Non-inflationary",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মুদ্রাস্ফীতিজনিত",
+                    "word_transliteration": "mudraspitijanit",
+                    "example_sentence_translation": "বর্ধিত চাহিদার কারণে দেশটি মুদ্রাস্ফীতির চাপের সম্মুখীন হচ্ছে।",
+                    "example_sentence_transliteration": "Bordhito chahidar karone deshtii mudraspiitir chaper shommukhin hocche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "trade-off",
+            "phonetic": "ˈtreɪd.ɒf",
+            "word_native_transliteration": {
+                "bn": "ট্রেড-অফ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "A situation where accepting one advantage means giving up another benefit.",
+            "example_sentence": "There is always a trade-off between price and quality.",
+            "example_sentence_native_transliteration": {
+                "bn": "দেয়ার ইজ অলওয়েজ এ ট্রেড-অফ বিটউইন প্রাইস অ্যান্ড কোয়ালিটি।"
+            },
+            "position": 17,
+            "synonyms": "Compromise, Exchange, Sacrifice",
+            "antonyms": "Retention, Gain without Loss, Absolute Choice",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিকল্প বিনিময়",
+                    "word_transliteration": "bikolpo binimoy",
+                    "example_sentence_translation": "মূল্য ও গুণগত মানের মধ্যে সর্বদা একটি ভারসাম্য বজায় রাখতে হয়।",
+                    "example_sentence_transliteration": "Mulyo o gungoto maner moddhe shorboda ekti bharshammyo bojay rakhte hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "equilibrium",
+            "phonetic": "ˌiː.kwɪˈlɪb.ri.əm",
+            "word_native_transliteration": {
+                "bn": "ইকুইলিব্রিয়াম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "A balanced state between supply and demand.",
+            "example_sentence": "The market reached an equilibrium where supply met demand.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য মার্কেট রিচড অ্যান ইকুইলিব্রিয়াম হোয়্যার সাপ্লাই মেট ডিমান্ড।"
+            },
+            "position": 18,
+            "synonyms": "Balance, Stability, Steadiness",
+            "antonyms": "Imbalance, Instability, Disproportion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভারসাম্য",
+                    "word_transliteration": "bharshammyo",
+                    "example_sentence_translation": "বাজার এমন এক ভারসাম্যে পৌঁছেছে যেখানে চাহিদা ও যোগান একে অপরের সমান হয়েছে।",
+                    "example_sentence_transliteration": "Bajar emon ek bharshammye poucheche jekhane chahida o jogan eke oporer shoman hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "scarcity",
+            "phonetic": "ˈskeə.sɪ.ti",
+            "word_native_transliteration": {
+                "bn": "স্কেয়ারসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚠️",
+            "meaning": "The state of being scarce or in short supply when demand exceeds supply.",
+            "example_sentence": "Water scarcity is a major global issue.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওয়াটার স্কেয়ারসিটি ইজ এ মেজর গ্লোবাল ইস্যু।"
+            },
+            "position": 19,
+            "synonyms": "Shortage, Deficiency, Lack",
+            "antonyms": "Abundance, Surplus, Plenty",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দুর্লভতা",
+                    "word_transliteration": "durlabhota",
+                    "example_sentence_translation": "পানির অভাব একটি প্রধান বৈশ্বিক সমস্যা।",
+                    "example_sentence_transliteration": "Panir obhab ekti prodhan boishwik shomoshya.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,472 @@
+{
+    "position": 144,
+    "title_translation": {
+        "en": "How to Set Up a Tent",
+        "bn": "ক্যাম্পিংয়ের জন্য টেন্ট সেট আপ করা"
+    },
+    "content_translation": {
+        "en": "Setting up a tent for camping is a **laborious** and **focused** task. First, you need to establish the tent's **anchorage**, so that the tent can maintain **stabilization** and **coherence**. Choose a flat space where the **foundation** remains strong. Then, the tent's **structural** parts need **erecting**, so that the **tensile** strength arrangement is correct. To ensure **reinforcement**, connect the tent firmly to the ground with **stakes** and **ropes**. Ensure the tent's **weatherization** features, so you can stay **weatherproof**. **Ventilation** requires **modulation**, so that plenty of air can circulate inside. Finally, through **deployment** and **integration**, the tent becomes completely stable and secure, and the gate must be completely closed by properly attaching the **zippers**.",
+        "bn": "ক্যাম্পিংয়ের জন্য টেন্ট সেট আপ করা একটি পরিশ্রমী এবং মনোযোগী কাজ। প্রথমে, টেন্টের **anchorage** স্থাপন করতে হবে, যাতে টেন্টটি **stabilization** এবং **coherence** ধরে রাখতে পারে। একটি সমতল স্থান বেছে নিন, যাতে **foundation** শক্তিশালী থাকে। তারপর, টেন্টের **structural** অংশগুলি **erecting** করতে হবে, যাতে **tensile** শক্তির ব্যবস্থাপনা সঠিক হয়। **Reinforcement** নিশ্চিত করতে, **stakes** এবং **ropes** দিয়ে টেন্টটি শক্তভাবে মাটিতে সংযুক্ত করুন। টেন্টের **weatherization** বৈশিষ্ট্য নিশ্চিত করুন, যাতে আপনি **weatherproof** অবস্থায় থাকতে পারেন। **Ventilation** ব্যবস্থার জন্য **modulation** প্রয়োজন, যাতে ভিতরে প্রচুর বাতাস চলাচল করতে পারে। শেষে, **deployment** এবং **integration** এর মাধ্যমে টেন্টটি পুরোপুরি স্থির এবং নিরাপদ হয়ে ওঠে, এবং **zippers** সঠিকভাবে লাগানোর মাধ্যমে গেটটি সম্পূর্ণভাবে বন্ধ করতে হবে।"
+    },
+    "list": [
+        {
+            "word": "anchorage",
+            "phonetic": "ˈæŋkərɪdʒ",
+            "word_native_transliteration": {
+                "bn": "অ্যাঙ্করেজ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚓",
+            "meaning": "A secure holding place; a place where ships can anchor safely.",
+            "example_sentence": "The boat was anchored near the shore for safety.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য বোট ওয়াস অ্যাঙ্করড নিয়ার দ্য শোর ফর সেফটি।"
+            },
+            "position": 1,
+            "synonyms": "mooring, securement",
+            "antonyms": "unmooring, displacement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নোঙর স্থাপন",
+                    "word_transliteration": "nogor sthapan",
+                    "example_sentence_translation": "নৌকা নিরাপত্তার জন্য তীরে নোঙর করা হয়েছিল।",
+                    "example_sentence_transliteration": "Nouka nirapottar jonno tire nogor kora hoyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "stabilization",
+            "phonetic": "ˌsteɪbəlaɪˈzeɪʃən",
+            "word_native_transliteration": {
+                "bn": "স্টেবিলাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "The process of making or becoming stable.",
+            "example_sentence": "The stabilization of the structure was essential after the earthquake.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্টেবিলাইজেশন অব দ্য স্ট্রাকচার ওয়াস এসেনশিয়াল আফটার দ্য আর্থকোয়েক।"
+            },
+            "position": 2,
+            "synonyms": "balance, steadiness",
+            "antonyms": "instability, imbalance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্থিতিশীলতা",
+                    "word_transliteration": "sthitishilota",
+                    "example_sentence_translation": "ভূকম্পনের পর কাঠামোর স্থিতিশীলতা নিশ্চিত করা গুরুত্বপূর্ণ ছিল।",
+                    "example_sentence_transliteration": "Bhukomponer por kathamor sthitishilota nishchit kora gurutbopurno chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "coherence",
+            "phonetic": "kəʊˈhɪərəns",
+            "word_native_transliteration": {
+                "bn": "কোহিরেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔗",
+            "meaning": "The quality of being logical and consistent.",
+            "example_sentence": "The coherence of the project plan ensured its success.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোহিরেন্স অব দ্য প্রজেক্ট প্ল্যান এনশুরড ইটস সাকসেস।"
+            },
+            "position": 3,
+            "synonyms": "consistency, unity",
+            "antonyms": "disorganization, discrepancy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সঙ্গতি",
+                    "word_transliteration": "shongoti",
+                    "example_sentence_translation": "প্রকল্পের পরিকল্পনার সঙ্গতি তার সফলতা নিশ্চিত করেছিল।",
+                    "example_sentence_transliteration": "Prokolper porikolponar shongoti tar shofolota nishchit korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "foundation",
+            "phonetic": "faʊnˈdeɪʃən",
+            "word_native_transliteration": {
+                "bn": "ফাউন্ডেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏗️",
+            "meaning": "The lowest load-bearing part of a building, typically below ground level.",
+            "example_sentence": "The foundation of the building was laid with strong materials.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফাউন্ডেশন অব দ্য বিল্ডিং ওয়াস লেইড উইথ স্ট্রং ম্যাটেরিয়ালস।"
+            },
+            "position": 4,
+            "synonyms": "base, groundwork",
+            "antonyms": "superstructure, surface",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভিত্তি",
+                    "word_transliteration": "bhitti",
+                    "example_sentence_translation": "বিল্ডিংয়ের ভিত্তি শক্তিশালী উপকরণ দিয়ে স্থাপন করা হয়েছিল।",
+                    "example_sentence_transliteration": "Bildinger bhitti shoktiishali upokoron diyo sthapan kora hoyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "structural",
+            "phonetic": "ˈstrʌktʃərəl",
+            "word_native_transliteration": {
+                "bn": "স্ট্রাকচারাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🏗️",
+            "meaning": "Relating to or forming part of a structure.",
+            "example_sentence": "The structural integrity of the bridge was tested after the storm.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্ট্রাকচারাল ইনটেগ্রিটি অব দ্য ব্রিজ ওয়াস টেস্টেড আফটার দ্য স্টর্ম।"
+            },
+            "position": 5,
+            "synonyms": "architectural, constructive",
+            "antonyms": "fragile, weak",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কাঠামোগত",
+                    "word_transliteration": "kathamogoto",
+                    "example_sentence_translation": "ব্রিজের কাঠামোগত অখণ্ডতা ঝড়ের পর পরীক্ষা করা হয়েছিল।",
+                    "example_sentence_transliteration": "Brij er kathamogoto okhondota jhorer por poriksha kora hoyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "erecting",
+            "phonetic": "ɪˈrɛktɪŋ",
+            "word_native_transliteration": {
+                "bn": "ইরেক্টিং"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🏗️",
+            "meaning": "To build; construct; set up in a vertical position.",
+            "example_sentence": "The workers were erecting a new building downtown.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ওয়ার্কারস ওয়ার ইরেক্টিং এ নিউ বিল্ডিং ডাউনটাউন।"
+            },
+            "position": 6,
+            "synonyms": "constructing, building",
+            "antonyms": "dismantling, demolishing",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নির্মাণ",
+                    "word_transliteration": "nirman",
+                    "example_sentence_translation": "কর্মচারীরা শহরের কেন্দ্রে একটি নতুন বিল্ডিং নির্মাণ করছিল।",
+                    "example_sentence_transliteration": "Kormochari ra shohorer kendre ekti notun bilding nirman korchilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "tensile",
+            "phonetic": "ˈtɛnsaɪl",
+            "word_native_transliteration": {
+                "bn": "টেনসাইল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔧",
+            "meaning": "Relating to tension; capable of being stretched.",
+            "example_sentence": "The tensile strength of the material is crucial for the construction project.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য টেনসাইল স্ট্রেংথ অব দ্য ম্যাটেরিয়াল ইজ ক্রুশিয়াল ফর দ্য কনস্ট্রাকশন প্রজেক্ট।"
+            },
+            "position": 7,
+            "synonyms": "stretchable, durable",
+            "antonyms": "fragile, brittle",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রসারণযোগ্য",
+                    "word_transliteration": "prosaronojogyo",
+                    "example_sentence_translation": "উপকরণের টেনসাইল শক্তি নির্মাণ প্রকল্পের জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Upokoroner tensail shokti nirman prokolper jonno oporiharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "reinforcement",
+            "phonetic": "ˌriːɪnˈfɔːsmənt",
+            "word_native_transliteration": {
+                "bn": "রিইনফোর্সমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "The action of strengthening or supporting an object or substance.",
+            "example_sentence": "The reinforcement of the building's walls was necessary for its stability.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রিইনফোর্সমেন্ট অব দ্য বিল্ডিংস ওয়ালস ওয়াস নেসেসারি ফর ইটস স্টেবিলিটি।"
+            },
+            "position": 8,
+            "synonyms": "strengthening, support",
+            "antonyms": "weakening, depletion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শক্তিশালীকরণ",
+                    "word_transliteration": "shoktiishaliikoron",
+                    "example_sentence_translation": "বিল্ডিংয়ের দেয়ালগুলোর শক্তিশালীকরণ তার স্থিতিশীলতার জন্য প্রয়োজনীয় ছিল।",
+                    "example_sentence_transliteration": "Bildinger deyalgulor shoktiishali koron tar sthitishilottar jonno proyojoniyo chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "stakes",
+            "phonetic": "steɪks",
+            "word_native_transliteration": {
+                "bn": "স্টেকস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📌",
+            "meaning": "A strong wooden or metal post with a point at one end, driven into the ground.",
+            "example_sentence": "The stakes were high for the success of the project.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্টেকস ওয়ার হাই ফর দ্য সাকসেস অব দ্য প্রজেক্ট।"
+            },
+            "position": 9,
+            "synonyms": "interests, investments",
+            "antonyms": "indifference, neglect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুঁজি",
+                    "word_transliteration": "punji",
+                    "example_sentence_translation": "প্রকল্পের সফলতার জন্য পুঁজি বড় ছিল।",
+                    "example_sentence_transliteration": "Prokolper shofolottar jonno punji boro chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ropes",
+            "phonetic": "roʊps",
+            "word_native_transliteration": {
+                "bn": "রোপস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🪢",
+            "meaning": "A length of thick strong cord made by twisting together strands of hemp, sisal, nylon, or similar material.",
+            "example_sentence": "The ropes were tied securely to lift the heavy load.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রোপস ওয়ার টাইড সিকিউরলি টু লিফট দ্য হেভি লোড।"
+            },
+            "position": 10,
+            "synonyms": "cords, twine",
+            "antonyms": "weakness, fragility",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দড়ি",
+                    "word_transliteration": "dori",
+                    "example_sentence_translation": "ভারী বোঝা তোলার জন্য দড়ি শক্তভাবে বাঁধা ছিল।",
+                    "example_sentence_transliteration": "Bhari bojha tolar jonno dori shokto bhabe badha chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "weatherization",
+            "phonetic": "ˌwɛðəraɪˈzeɪʃən",
+            "word_native_transliteration": {
+                "bn": "ওয়েদারাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏠",
+            "meaning": "The practice of protecting a building and its interior from the elements.",
+            "example_sentence": "The house underwent weatherization to improve energy efficiency.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য হাউস আন্ডারওয়েন্ট ওয়েদারাইজেশন টু ইমপ্রুভ এনার্জি এফিশিয়েন্সি।"
+            },
+            "position": 11,
+            "synonyms": "insulation, protection",
+            "antonyms": "exposure, vulnerability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আবহাওয়া উপযোগী করে তোলা",
+                    "word_transliteration": "abohawa upojogi kore tola",
+                    "example_sentence_translation": "বাড়িটি শক্তি দক্ষতা উন্নত করার জন্য আবহাওয়া উপযোগী করা হয়েছিল।",
+                    "example_sentence_transliteration": "Bariti shokti dokkhota unnoto korar jonno abohawa upojogi kora hoyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "weatherproof",
+            "phonetic": "ˈwɛðərpruːf",
+            "word_native_transliteration": {
+                "bn": "ওয়েদারপ্রুফ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "☔",
+            "meaning": "Able to resist or be unaffected by weather, especially rain and wind.",
+            "example_sentence": "The materials used are weatherproof, ensuring longevity.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ম্যাটেরিয়ালস ইউজড আর ওয়েদারপ্রুফ, এনশুরিং লঙ্গেভিটি।"
+            },
+            "position": 12,
+            "synonyms": "resistant, durable",
+            "antonyms": "vulnerable, fragile",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আবহাওয়া প্রতিরোধী",
+                    "word_transliteration": "abohawa protirodhi",
+                    "example_sentence_translation": "ব্যবহৃত উপকরণগুলি আবহাওয়া প্রতিরোধী, যা দীর্ঘস্থায়ীতা নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Bebohroto upokoronguli abohawa protirodhi, ja dirghosthayi ta nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ventilation",
+            "phonetic": "ˌvɛntɪˈleɪʃən",
+            "word_native_transliteration": {
+                "bn": "ভেন্টিলেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💨",
+            "meaning": "The provision of fresh air to a room, building, etc.",
+            "example_sentence": "Proper ventilation is essential for maintaining air quality.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোপার ভেন্টিলেশন ইজ এসেনশিয়াল ফর মেইনটেইনিং এয়ার কোয়ালিটি।"
+            },
+            "position": 13,
+            "synonyms": "airflow, circulation",
+            "antonyms": "stagnation, suffocation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বায়ু চলাচল",
+                    "word_transliteration": "bayu cholachol",
+                    "example_sentence_translation": "বায়ু গুণগত মান বজায় রাখার জন্য সঠিক ভেন্টিলেশন অপরিহার্য।",
+                    "example_sentence_transliteration": "Bayu gunogoto man bojae rakhar jonno shohtik ventilation oporiharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "modulation",
+            "phonetic": "ˌmɒdjuˈleɪʃən",
+            "word_native_transliteration": {
+                "bn": "মড্যুলেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎛️",
+            "meaning": "The process of varying one or more properties of a periodic waveform.",
+            "example_sentence": "The modulation of sound levels ensured a pleasant atmosphere.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য মড্যুলেশন অব সাউন্ড লেভেলস এনশুরড এ প্লেজ্যান্ট অ্যাটমসফিয়ার।"
+            },
+            "position": 14,
+            "synonyms": "adjustment, regulation",
+            "antonyms": "instability, chaos",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিবর্তন",
+                    "word_transliteration": "poriborton",
+                    "example_sentence_translation": "শব্দের স্তরের পরিবর্তন একটি মনোরম পরিবেশ নিশ্চিত করেছিল।",
+                    "example_sentence_transliteration": "Shobder storer poriborton ekti monorom poribesh nishchit korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "deployment",
+            "phonetic": "dɪˈplɔɪmənt",
+            "word_native_transliteration": {
+                "bn": "ডিপ্লয়মেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚀",
+            "meaning": "The action of bringing resources into effective action.",
+            "example_sentence": "The deployment of the new software was completed successfully.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডিপ্লয়মেন্ট অব দ্য নিউ সফটওয়্যার ওয়াস কমপ্লিটেড সাকসেসফুলি।"
+            },
+            "position": 15,
+            "synonyms": "implementation, installation",
+            "antonyms": "withdrawal, removal",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্থাপন",
+                    "word_transliteration": "sthapan",
+                    "example_sentence_translation": "নতুন সফটওয়্যারটি সফলভাবে স্থাপন করা হয়েছে।",
+                    "example_sentence_transliteration": "Notun softwarti shofolbhabe sthapan kora hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "integration",
+            "phonetic": "ˌɪntɪˈɡreɪʃən",
+            "word_native_transliteration": {
+                "bn": "ইন্টিগ্রেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔗",
+            "meaning": "The action or process of integrating; combining or coordinating separate elements into a whole.",
+            "example_sentence": "Integration of modern technology is crucial for growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইন্টিগ্রেশন অব মডার্ন টেকনোলজি ইজ ক্রুশিয়াল ফর গ্রোথ।"
+            },
+            "position": 16,
+            "synonyms": "unification, fusion",
+            "antonyms": "segregation, isolation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একীভূতকরণ",
+                    "word_transliteration": "ekibhutkoron",
+                    "example_sentence_translation": "আধুনিক প্রযুক্তির একীভূতকরণ বৃদ্ধির জন্য গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Adhunik projuktir ekibhutkoron briddhir jonno gurutbopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "zippers",
+            "phonetic": "ˈzɪpərz",
+            "word_native_transliteration": {
+                "bn": "জিপার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤐",
+            "meaning": "A device consisting of two flexible strips of metal or plastic with interlocking projections closed or opened by pulling a slide along them.",
+            "example_sentence": "Zippers are used to fasten the opening of the jacket.",
+            "example_sentence_native_transliteration": {
+                "bn": "জিপারস আর ইউজড টু ফাস্টেন দ্য ওপেনিং অব দ্য জ্যাকেট।"
+            },
+            "position": 17,
+            "synonyms": "fasteners, closures",
+            "antonyms": "openings, gaps",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জিপার",
+                    "word_transliteration": "jipar",
+                    "example_sentence_translation": "জিপারগুলি জ্যাকেটের খোলার অংশ বন্ধ করতে ব্যবহৃত হয়।",
+                    "example_sentence_transliteration": "Jiparguli jacketor kholar ongsho bondho korte bebhroto hoy.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

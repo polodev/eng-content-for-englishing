@@ -1,0 +1,499 @@
+{
+    "position": 143,
+    "title_translation": {
+        "en": "How to Protect Personal Data",
+        "bn": "ব্যক্তিগত তথ্য কীভাবে সুরক্ষিত রাখবেন"
+    },
+    "content_translation": {
+        "en": "In today's digital age, protecting **personal data** is extremely important. Maintaining our **anonymity** online is becoming difficult due to increasing **data breach** and **intrusion**.\n\nFirst, information should always be verified to protect against **phishing** and **impersonation**. Many cybercriminals use **obfuscation** techniques to avoid **forensic** analysis and steal personal information.\n\nFor security, **cryptography** and strong **cipher** should be used to make **decryption** difficult. Suspicious activities can be identified through **surveillance** and **scrutiny**.\n\nAdditionally, following **whitelisting**, **redundancy**, and **mitigation** techniques will reduce **vulnerability**. Multi-layered **tampering** prevention systems help protect personal information.\n\nTherefore, it is essential to be cautious and always keep security measures updated to protect **personal data**.",
+        "bn": "আজকের ডিজিটাল যুগে **personal data** সুরক্ষিত রাখা অত্যন্ত গুরুত্বপূর্ণ। অনলাইনে আমাদের **anonymity** বজায় রাখা কঠিন হয়ে যাচ্ছে, কারণ **data breach** এবং **intrusion** প্রতিনিয়ত বাড়ছে।\n\nপ্রথমত, **phishing** এবং **impersonation** থেকে রক্ষা পেতে সবসময় তথ্য যাচাই করা উচিত। অনেক সাইবার অপরাধী **forensic** বিশ্লেষণ এড়িয়ে **obfuscation** কৌশল ব্যবহার করে ব্যক্তিগত তথ্য চুরি করে।\n\nসুরক্ষার জন্য **cryptography** এবং শক্তিশালী **cipher** ব্যবহার করা দরকার, যাতে তথ্য **decryption** করা কঠিন হয়। **Surveillance** এবং **scrutiny** মাধ্যমে সন্দেহজনক কার্যকলাপ চিহ্নিত করা যেতে পারে।\n\nএছাড়া, **whitelisting**, **redundancy**, এবং **mitigation** কৌশল অনুসরণ করলে **vulnerability** কমবে। একাধিক স্তরের **tampering** প্রতিরোধ ব্যবস্থা ব্যক্তিগত তথ্য সুরক্ষিত রাখতে সাহায্য করে।\n\nঅতএব, **personal data** রক্ষা করার জন্য সতর্ক থাকা এবং সর্বদা নিরাপত্তা ব্যবস্থাগুলো আপডেট রাখা জরুরি।"
+    },
+    "list": [
+        {
+            "word": "personal data",
+            "phonetic": "/ˈpɜː.sən.əl ˈdeɪ.tə/",
+            "word_native_transliteration": {
+                "bn": "পার্সোনাল ডাটা"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔐",
+            "meaning": "Information that relates to an individual's private, sensitive, or identifiable data",
+            "example_sentence": "Protecting personal data is crucial in the digital age.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোটেক্টিং পার্সোনাল ডাটা ইজ ক্রুসিয়াল ইন দ্য ডিজিটাল এজ।"
+            },
+            "position": 1,
+            "synonyms": "private information, confidential data, user data",
+            "antonyms": "anonymized data, public information, non-identifiable data",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ব্যক্তিগত তথ্য",
+                    "word_transliteration": "byaktigato tothyo",
+                    "example_sentence_translation": "ডিজিটাল যুগে ব্যক্তিগত তথ্য রক্ষা করা অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Digital juge byaktigato tothyo rokkha kora ottyonto guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "anonymity",
+            "phonetic": "/ˌæn.əˈnɪm.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "অ্যানোনিমিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👤",
+            "meaning": "The condition of being anonymous, keeping personal identity hidden",
+            "example_sentence": "Online anonymity helps protect users' privacy.",
+            "example_sentence_native_transliteration": {
+                "bn": "অনলাইন অ্যানোনিমিটি হেল্পস প্রোটেক্ট ইউজার্স প্রাইভেসি।"
+            },
+            "position": 2,
+            "synonyms": "privacy, incognito, confidentiality",
+            "antonyms": "identification, public exposure, recognition",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নামহীনতা বা অজ্ঞাতপরিচয় থাকা",
+                    "word_transliteration": "namhinota ba oggatoporichy thaka",
+                    "example_sentence_translation": "অনলাইনে নামহীনতা ব্যবহারকারীদের গোপনীয়তা রক্ষা করতে সহায়তা করে।",
+                    "example_sentence_transliteration": "Online namhinota byaboharkarider goponieyota rokkha korte sahayota kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "data breach",
+            "phonetic": "/ˈdeɪ.tə briːtʃ/",
+            "word_native_transliteration": {
+                "bn": "ডাটা ব্রিচ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚠️",
+            "meaning": "Unauthorized disclosure of sensitive information through security violation",
+            "example_sentence": "A data breach exposed millions of users' passwords.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যা ডাটা ব্রিচ এক্সপোজড মিলিয়নস অব ইউজার্স পাসওয়ার্ডস।"
+            },
+            "position": 3,
+            "synonyms": "cyberattack, information leak, security violation",
+            "antonyms": "data protection, secure storage, cybersecurity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "তথ্য ফাঁস বা তথ্য চুরি",
+                    "word_transliteration": "tothyo phash ba tothyo churi",
+                    "example_sentence_translation": "একটি তথ্য ফাঁসে লক্ষাধিক ব্যবহারকারীর পাসওয়ার্ড ফাঁস হয়ে যায়।",
+                    "example_sentence_transliteration": "Ekti tothyo phase lokkhadhik byaboharkarir password phash hoye jay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "intrusion",
+            "phonetic": "/ɪnˈtruː.ʒən/",
+            "word_native_transliteration": {
+                "bn": "ইনট্রুশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚫",
+            "meaning": "Unauthorized entry into a system or place without permission",
+            "example_sentence": "The company detected an intrusion in its server.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি ডিটেক্টেড অ্যান ইনট্রুশন ইন ইটস সার্ভার।"
+            },
+            "position": 4,
+            "synonyms": "trespassing, unauthorized access, violation",
+            "antonyms": "protection, security, compliance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনধিকার প্রবেশ বা অনুপ্রবেশ",
+                    "word_transliteration": "onodhikar probesh ba onuprobesh",
+                    "example_sentence_translation": "কোম্পানি তাদের সার্ভারে অনুপ্রবেশ শনাক্ত করেছে।",
+                    "example_sentence_transliteration": "Company tader servare onuprobesh shonakto koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "phishing",
+            "phonetic": "/ˈfɪʃ.ɪŋ/",
+            "word_native_transliteration": {
+                "bn": "ফিশিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎣",
+            "meaning": "Deceptive technique for stealing personal information unauthorized",
+            "example_sentence": "Phishing emails trick users into revealing passwords.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফিশিং ইমেইলস ট্রিক ইউজার্স ইনটু রিভিলিং পাসওয়ার্ডস।"
+            },
+            "position": 5,
+            "synonyms": "online fraud, identity theft, deception",
+            "antonyms": "security awareness, cyber protection, authentication",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতারণামূলক তথ্য চুরি",
+                    "word_transliteration": "protaranamulek tothyo churi",
+                    "example_sentence_translation": "ফিশিং ইমেইল ব্যবহারকারীদের পাসওয়ার্ড প্রকাশে প্রতারণা করে।",
+                    "example_sentence_transliteration": "Phishing email byaboharkarider password prokashe protarana kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "impersonation",
+            "phonetic": "/ɪmˌpɜː.səˈneɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ইমপার্সোনেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎭",
+            "meaning": "Fraudulently acting as someone else by copying their identity",
+            "example_sentence": "Criminals use impersonation to gain access to bank accounts.",
+            "example_sentence_native_transliteration": {
+                "bn": "ক্রিমিনালস ইউজ ইমপার্সোনেশন টু গেইন অ্যাক্সেস টু ব্যাংক অ্যাকাউন্টস।"
+            },
+            "position": 6,
+            "synonyms": "identity fraud, mimicry, deception",
+            "antonyms": "authenticity, originality, genuine representation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভুয়া পরিচয়ে আচরণ করা",
+                    "word_transliteration": "vhuya poricoye acharon kora",
+                    "example_sentence_translation": "অপরাধীরা ব্যাংক অ্যাকাউন্টে প্রবেশের জন্য পরিচয় নকল করে।",
+                    "example_sentence_transliteration": "Oporadhira bank accounte probesher jonno porichoy nokol kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "forensic",
+            "phonetic": "/fəˈrɛns.ɪk/",
+            "word_native_transliteration": {
+                "bn": "ফরেনসিক"
+            },
+            "parts_of_speech": "adjective/noun",
+            "emoji": "🔍",
+            "meaning": "Scientific analysis applied to criminal or legal matters",
+            "example_sentence": "Forensic experts analyze cybercrimes using advanced tools.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফরেনসিক এক্সপার্টস অ্যানালাইজ সাইবারক্রাইমস ইউজিং অ্যাডভান্সড টুলস।"
+            },
+            "position": 7,
+            "synonyms": "investigative, analytical, legal examination",
+            "antonyms": "non-scientific, unverified, unofficial",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৈজ্ঞানিক তদন্ত বা সাইবার তদন্ত",
+                    "word_transliteration": "boiggyanik todonto ba cyber todonto",
+                    "example_sentence_translation": "ফরেনসিক বিশেষজ্ঞরা উন্নত সরঞ্জাম ব্যবহার করে সাইবার অপরাধ বিশ্লেষণ করেন।",
+                    "example_sentence_transliteration": "Forensic bisheshoggnora unnoto sorongo byabohar kore cyber oporadh bishleshan koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "obfuscation",
+            "phonetic": "/ˌɒb.fʌsˈkeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "অবফাসকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌫️",
+            "meaning": "Deliberately making information or code unclear to make it difficult to understand",
+            "example_sentence": "Code obfuscation is used to protect software from hackers.",
+            "example_sentence_native_transliteration": {
+                "bn": "কোড অবফাসকেশন ইজ ইউজড টু প্রোটেক্ট সফটওয়্যার ফ্রম হ্যাকারস।"
+            },
+            "position": 8,
+            "synonyms": "concealment, encryption, confusion",
+            "antonyms": "clarity, transparency, simplicity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জটিলতা সৃষ্টি বা বিভ্রান্ত করা",
+                    "word_transliteration": "jotilota srishti ba bivvranto kora",
+                    "example_sentence_translation": "কোডের বিভ্রান্তিকরণ সফটওয়্যারকে হ্যাকারদের হাত থেকে রক্ষা করতে ব্যবহৃত হয়।",
+                    "example_sentence_transliteration": "Coder bivvrantikoron softoware-ke hackardeer hat theke rokkha korte byabhroto hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cryptography",
+            "phonetic": "/krɪpˈtɒɡ.rə.fi/",
+            "word_native_transliteration": {
+                "bn": "ক্রিপ্টোগ্রাফি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔐",
+            "meaning": "The practice of securing information through encryption or coding techniques",
+            "example_sentence": "Modern cryptography ensures secure online transactions.",
+            "example_sentence_native_transliteration": {
+                "bn": "মডার্ন ক্রিপ্টোগ্রাফি এনশিওরস সিকিউর অনলাইন ট্রানজেকশনস।"
+            },
+            "position": 9,
+            "synonyms": "encryption, data security, encoding",
+            "antonyms": "decryption, plaintext, unprotected data",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গোপন সংকেতবিদ্যা বা এনক্রিপশন পদ্ধতি",
+                    "word_transliteration": "gopon shongketobidya ba encryption poddoti",
+                    "example_sentence_translation": "আধুনিক ক্রিপ্টোগ্রাফি অনলাইন লেনদেনকে নিরাপদ রাখে।",
+                    "example_sentence_transliteration": "Adhunik cryptography online lendenke nirapod rakhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cipher",
+            "phonetic": "/ˈsaɪ.fər/",
+            "word_native_transliteration": {
+                "bn": "সাইফার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔒",
+            "meaning": "A secret code or algorithm used to encrypt information",
+            "example_sentence": "The message was encoded using a cipher.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য মেসেজ ওয়াস এনকোডেড ইউজিং অ্যা সাইফার।"
+            },
+            "position": 10,
+            "synonyms": "code, encryption, encipherment",
+            "antonyms": "plaintext, deciphered text, readable format",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গোপন সংকেত বা এনক্রিপশন",
+                    "word_transliteration": "gopon shongket ba encryption",
+                    "example_sentence_translation": "বার্তাটি একটি গোপন সংকেত ব্যবহার করে এনক্রিপ্ট করা হয়েছিল।",
+                    "example_sentence_transliteration": "Barta-ti ekti gopon shongket byabohar kore encrypt kora hoyechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "decryption",
+            "phonetic": "/dɪˈkrɪp.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ডিক্রিপশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔓",
+            "meaning": "The process of converting encrypted information back to its original form",
+            "example_sentence": "Decryption of sensitive files requires a secure key.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিক্রিপশন অব সেনসিটিভ ফাইলস রিকোয়ার্স অ্যা সিকিউর কি।"
+            },
+            "position": 11,
+            "synonyms": "decoding, interpretation, decrypting",
+            "antonyms": "encryption, scrambling, encoding",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গোপন সংকেত ভাঙা বা পাঠোদ্ধার করা",
+                    "word_transliteration": "gopon shongket vhanga ba pathhoddhar kora",
+                    "example_sentence_translation": "সংবেদনশীল ফাইলের পাঠোদ্ধার করতে একটি নিরাপদ কী দরকার।",
+                    "example_sentence_transliteration": "Shongbedonsil failer pathhoddhar korte ekti nirapod ki dorkar.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "surveillance",
+            "phonetic": "/sɜːˈveɪ.ləns/",
+            "word_native_transliteration": {
+                "bn": "সার্ভেইলেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👁️",
+            "meaning": "Close observation or monitoring of a person or system",
+            "example_sentence": "The government uses surveillance to track cyber threats.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গভর্নমেন্ট ইউজেস সার্ভেইলেন্স টু ট্র্যাক সাইবার থ্রেটস।"
+            },
+            "position": 12,
+            "synonyms": "monitoring, observation, supervision",
+            "antonyms": "privacy, neglect, inattention",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পর্যবেক্ষণ বা নজরদারি",
+                    "word_transliteration": "porjobekkhan ba nojordari",
+                    "example_sentence_translation": "সরকার সাইবার হুমকি পর্যবেক্ষণের জন্য নজরদারি ব্যবহার করে।",
+                    "example_sentence_transliteration": "Shorkar cyber humki porjobkkhaneer jonno nojordari byabohar kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "scrutiny",
+            "phonetic": "/ˈskruː.tɪ.ni/",
+            "word_native_transliteration": {
+                "bn": "স্ক্রুটিনি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔍",
+            "meaning": "Detailed examination or critical observation of something specific",
+            "example_sentence": "Financial records undergo strict scrutiny during audits.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফাইন্যানশিয়াল রেকর্ডস আন্ডারগো স্ট্রিক্ট স্ক্রুটিনি ডিউরিং অডিটস।"
+            },
+            "position": 13,
+            "synonyms": "examination, inspection, analysis",
+            "antonyms": "neglect, superficiality, overlooking",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিরীক্ষণ বা গভীর বিশ্লেষণ",
+                    "word_transliteration": "nirikhon ba govir bishleshan",
+                    "example_sentence_translation": "অডিটের সময় আর্থিক নথিগুলো কঠোর বিশ্লেষণের মুখোমুখি হয়।",
+                    "example_sentence_transliteration": "Auditer shomoy arthik nothigulo kothor bishleshaner mukhomukhi hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "whitelisting",
+            "phonetic": "/ˈwaɪt.lɪst.ɪŋ/",
+            "word_native_transliteration": {
+                "bn": "হোয়াইটলিস্টিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✅",
+            "meaning": "Identifying specific users, software, or IP addresses as safe and trusted",
+            "example_sentence": "Only verified applications are allowed through whitelisting.",
+            "example_sentence_native_transliteration": {
+                "bn": "অনলি ভেরিফাইড অ্যাপ্লিকেশনস আর অ্যালাউড থ্রু হোয়াইটলিস্টিং।"
+            },
+            "position": 14,
+            "synonyms": "authorization, safe-listing, permission",
+            "antonyms": "blacklisting, restriction, blocking",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনুমোদিত তালিকা বা নির্দিষ্ট অনুমোদন প্রদান",
+                    "word_transliteration": "onumodito talika ba nirdishto onumodon prodan",
+                    "example_sentence_translation": "শুধুমাত্র যাচাই করা অ্যাপগুলো হোয়াইটলিস্টিংয়ের মাধ্যমে অনুমোদিত হয়।",
+                    "example_sentence_transliteration": "Shudhomatro jachai kora app-gulo whitelistinger madhyome onumodito hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "redundancy",
+            "phonetic": "/rɪˈdʌn.dən.si/",
+            "word_native_transliteration": {
+                "bn": "রিডানডেনসি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "Extra or alternative components added to a system to prevent failure",
+            "example_sentence": "Cloud storage ensures redundancy to prevent data loss.",
+            "example_sentence_native_transliteration": {
+                "bn": "ক্লাউড স্টোরেজ এনশিওরস রিডানডেনসি টু প্রিভেন্ট ডাটা লস।"
+            },
+            "position": 15,
+            "synonyms": "duplication, excess, backup",
+            "antonyms": "scarcity, insufficiency, essentiality",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতিরিক্ততা বা অপ্রয়োজনীয় পুনরাবৃত্তি",
+                    "word_transliteration": "otiriktota ba oproyojoniyo punorabvritti",
+                    "example_sentence_translation": "ক্লাউড স্টোরেজ ডাটা ক্ষয় রোধ করতে অতিরিক্ত ব্যাকআপ সরবরাহ করে।",
+                    "example_sentence_transliteration": "Cloud storage data kkhoy rodh korte otirikto backup shorborhaho kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "mitigation",
+            "phonetic": "/ˌmɪt.ɪˈɡeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "মিটিগেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "The process of reducing the severity or impact of damage or risk",
+            "example_sentence": "Disaster mitigation strategies help prevent severe damage.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিজাস্টার মিটিগেশন স্ট্র্যাটেজিস হেল্প প্রিভেন্ট সিভিয়ার ড্যামেজ।"
+            },
+            "position": 16,
+            "synonyms": "reduction, alleviation, minimization",
+            "antonyms": "aggravation, exacerbation, intensification",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রভাব কমানো বা ঝুঁকি হ্রাস করা",
+                    "word_transliteration": "provhab komano ba jhuki hras kora",
+                    "example_sentence_translation": "দুর্যোগ প্রশমনের কৌশল গুরুতর ক্ষতি প্রতিরোধ করতে সহায়তা করে।",
+                    "example_sentence_transliteration": "Durjog proshomoner koushal gurutor kkhoti protirodh korte sahayota kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "vulnerability",
+            "phonetic": "/ˌvʌl.nər.əˈbɪl.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "ভালনারেবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛡️",
+            "meaning": "The possibility of being easily harmed or put at risk",
+            "example_sentence": "Cybersecurity audits help identify system vulnerabilities.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাইবারসিকিউরিটি অডিটস হেল্প আইডেন্টিফাই সিস্টেম ভালনারেবিলিটিস।"
+            },
+            "position": 17,
+            "synonyms": "weakness, exposure, susceptibility",
+            "antonyms": "strength, resilience, protection",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দুর্বলতা বা আক্রমণের ঝুঁকি",
+                    "word_transliteration": "durbolta ba akromoner jhuki",
+                    "example_sentence_translation": "সাইবার নিরাপত্তা নিরীক্ষা সিস্টেমের দুর্বলতা চিহ্নিত করতে সহায়তা করে।",
+                    "example_sentence_transliteration": "Cyber nirapotta nirikhha systemr durbolta chihnnito korte sahayota kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "tampering",
+            "phonetic": "/ˈtæm.pər.ɪŋ/",
+            "word_native_transliteration": {
+                "bn": "ট্যাম্পারিং"
+            },
+            "parts_of_speech": "noun/verb",
+            "emoji": "🔧",
+            "meaning": "Unauthorized alteration or interference with something without permission",
+            "example_sentence": "Evidence tampering can lead to serious legal consequences.",
+            "example_sentence_native_transliteration": {
+                "bn": "এভিডেন্স ট্যাম্পারিং ক্যান লিড টু সিরিয়াস লিগাল কনসিকুয়েন্সেস।"
+            },
+            "position": 18,
+            "synonyms": "alteration, manipulation, interference",
+            "antonyms": "preservation, protection, safeguarding",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অননুমোদিত হস্তক্ষেপ বা বিকৃতি",
+                    "word_transliteration": "onumodit hostokkhep ba bikriti",
+                    "example_sentence_translation": "প্রমাণের বিকৃতি গুরুতর আইনি পরিণতির দিকে নিয়ে যেতে পারে।",
+                    "example_sentence_transliteration": "Promaner bikriti gurutor aini porinotir dike niye jete pare.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

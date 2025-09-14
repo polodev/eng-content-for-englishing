@@ -1,0 +1,472 @@
+{
+    "position": 152,
+    "title_translation": {
+        "en": "Investing vs. Saving for Wealth Growth",
+        "bn": "ধনসম্পদ বৃদ্ধির জন্য বিনিয়োগ বনাম সঞ্চয়"
+    },
+    "content_translation": {
+        "en": "Both **saving** and **investing** are important methods for wealth growth. However, there is a huge **disparity** between these two approaches, which has a direct impact on long-term wealth. **Saving** is a **monetary** habit where money is stored in a specific place, but it does not keep pace with the **inflationary** rate. On the other hand, **investing** increases money through **compounding** in the long run. A successful investor always manages their **portfolio** properly through **asset allocation**. Relying solely on **liquidity** can never create long-term **affluence**.\n\nThose who rely only on **saving** do not get true **appreciation** of money, because it faces **recessionary** pressure over time. But those who invest in **diversification** and **equity** can enjoy the **yield** of money in the long run.\n\nTherefore, **investing** is more effective for long-term wealth building, where proper **fiscal** knowledge and **speculation** need to be emphasized.",
+        "bn": "ধনসম্পদ বৃদ্ধির জন্য **saving** এবং **investing** দুটিই গুরুত্বপূর্ণ উপায়। কিন্তু এই দুটি পদ্ধতির মধ্যে বিশাল **disparity** রয়েছে, যা দীর্ঘমেয়াদে সম্পদের উপর সরাসরি প্রভাব ফেলে। **Saving** হলো এমন একটি **monetary** অভ্যাস, যেখানে অর্থ একটি নির্দিষ্ট জায়গায় জমা থাকে, কিন্তু এটি **inflationary** হারের সাথে তাল মিলিয়ে বাড়ে না। অন্যদিকে, **investing** দীর্ঘমেয়াদে **compounding** এর মাধ্যমে অর্থকে বৃদ্ধি করে। একজন সফল বিনিয়োগকারী সবসময় তার **portfolio** কে সঠিকভাবে **asset allocation** এর মাধ্যমে পরিচালনা করে। শুধুমাত্র **liquidity** এর উপর নির্ভর করা কখনোই দীর্ঘমেয়াদে **affluence** তৈরি করতে পারে না।\n\nযারা শুধুমাত্র **saving** এ নির্ভর করেন, তারা অর্থের প্রকৃত **appreciation** পান না, কারণ এটি সময়ের সাথে **recessionary** চাপের মুখে পড়ে। কিন্তু যারা **diversification** এবং **equity** তে বিনিয়োগ করেন, তারা দীর্ঘমেয়াদে অর্থের **yield** উপভোগ করতে পারেন।\n\nতাই, দীর্ঘমেয়াদে সম্পদ গঠনের জন্য **investing** বেশি কার্যকর, যেখানে সঠিক **fiscal** জ্ঞান এবং **speculation** এর উপর গুরুত্ব দেওয়া প্রয়োজন।"
+    },
+    "list": [
+        {
+            "word": "saving",
+            "phonetic": "ˈseɪ.vɪŋ",
+            "word_native_transliteration": {
+                "bn": "সেভিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💰",
+            "meaning": "The practice of keeping and accumulating money for future use rather than spending it immediately.",
+            "example_sentence": "Regular saving habits ensure financial security.",
+            "example_sentence_native_transliteration": {
+                "bn": "রেগুলার সেভিং হ্যাবিটস এনশিওর ফাইন্যানশিয়াল সিকিউরিটি।"
+            },
+            "position": 1,
+            "synonyms": "savings, preservation, economy",
+            "antonyms": "spending, expenditure, consumption",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সঞ্চয়",
+                    "word_transliteration": "sanchoy",
+                    "example_sentence_translation": "নিয়মিত সঞ্চয়ের অভ্যাস আর্থিক নিরাপত্তা নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Niomito sanchoyer ovash arthik nirapotta nishchito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "investing",
+            "phonetic": "ɪnˈvɛst.ɪŋ",
+            "word_native_transliteration": {
+                "bn": "ইনভেস্টিং"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📈",
+            "meaning": "The act of putting money into financial schemes, shares, property, or a commercial venture with the expectation of achieving a profit.",
+            "example_sentence": "Investing in stocks can generate long-term wealth.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনভেস্টিং ইন স্টকস ক্যান জেনারেট লং-টার্ম ওয়েলথ।"
+            },
+            "position": 2,
+            "synonyms": "funding, financing, capitalizing",
+            "antonyms": "withdrawing, liquidating, spending",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিনিয়োগ",
+                    "word_transliteration": "biniyog",
+                    "example_sentence_translation": "শেয়ারে বিনিয়োগ দীর্ঘমেয়াদী সম্পদ সৃষ্টি করতে পারে।",
+                    "example_sentence_transliteration": "Sheyare biniyog dirgho-meyadi shompod shrishti korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "disparity",
+            "phonetic": "dɪˈspær.ə.ti",
+            "word_native_transliteration": {
+                "bn": "ডিসপারিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "A great difference or inequality between two or more things.",
+            "example_sentence": "The disparity in wealth between rich and poor is increasing.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডিসপারিটি ইন ওয়েলথ বিটুইন রিচ অ্যান্ড পুয়র ইজ ইনক্রিসিং।"
+            },
+            "position": 3,
+            "synonyms": "inequality, difference, gap",
+            "antonyms": "equality, similarity, balance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৈষম্য",
+                    "word_transliteration": "boishommo",
+                    "example_sentence_translation": "ধনী ও দরিদ্রের মধ্যে সম্পদের বৈষম্য বাড়ছে।",
+                    "example_sentence_transliteration": "Dhoni o doridroder modhye shompoder boishommo barche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "monetary",
+            "phonetic": "ˈmʌn.ɪ.tri",
+            "word_native_transliteration": {
+                "bn": "মনেটারি"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💵",
+            "meaning": "Relating to money or currency.",
+            "example_sentence": "The government adopted strict monetary policies to control inflation.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গভর্নমেন্ট অ্যাডপ্টেড স্ট্রিক্ট মনেটারি পলিসিজ টু কন্ট্রোল ইনফ্লেশন।"
+            },
+            "position": 4,
+            "synonyms": "financial, fiscal, economic",
+            "antonyms": "non-financial, barter, non-monetary",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আর্থিক",
+                    "word_transliteration": "arthik",
+                    "example_sentence_translation": "সরকার মুদ্রাস্ফীতি নিয়ন্ত্রণে কঠোর আর্থিক নীতি গ্রহণ করেছে।",
+                    "example_sentence_transliteration": "Shorkar mudraspheeti niyontrone kothoro arthik neeti grohen koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "inflationary",
+            "phonetic": "ɪnˈfleɪ.ʃən.ər.i",
+            "word_native_transliteration": {
+                "bn": "ইনফ্লেশনারি"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📊",
+            "meaning": "Characterized by or tending to cause monetary inflation.",
+            "example_sentence": "Excessive printing of money can lead to an inflationary crisis.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সেসিভ প্রিন্টিং অফ মানি ক্যান লিড টু অ্যান ইনফ্লেশনারি ক্রাইসিস।"
+            },
+            "position": 5,
+            "synonyms": "price-rising, cost-increasing, expansionary",
+            "antonyms": "deflationary, price-reducing, contractionary",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মূল্যস্ফীতিজনিত",
+                    "word_transliteration": "mulyospheetijonito",
+                    "example_sentence_translation": "অতিরিক্ত মুদ্রা ছাপানো মূল্যস্ফীতিজনিত সংকট সৃষ্টি করতে পারে।",
+                    "example_sentence_transliteration": "Otirikto mudra chapano mulyospheetijonito shongkot shrishti korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "compounding",
+            "phonetic": "kəmˈpaʊnd.ɪŋ",
+            "word_native_transliteration": {
+                "bn": "কম্পাউন্ডিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The process in which an asset's earnings, from either capital gains or interest, are reinvested to generate additional earnings over time.",
+            "example_sentence": "Compounding allows investments to grow exponentially over time.",
+            "example_sentence_native_transliteration": {
+                "bn": "কম্পাউন্ডিং অ্যালাওস ইনভেস্টমেন্টস টু গ্রো এক্সপোনেনশিয়ালি ওভার টাইম।"
+            },
+            "position": 6,
+            "synonyms": "growth, accumulation, exponential return",
+            "antonyms": "simple interest, loss, depreciation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চক্রবৃদ্ধি",
+                    "word_transliteration": "chokrobriddhi",
+                    "example_sentence_translation": "চক্রবৃদ্ধি সুদ বিনিয়োগকে সময়ের সাথে দ্রুত বৃদ্ধি করতে সহায়তা করে।",
+                    "example_sentence_transliteration": "Chokrobriddhi shud biniyogke shomyer shathe druto briddhi korte shahayota kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "portfolio",
+            "phonetic": "ˌpɔːtˈfəʊ.li.əʊ",
+            "word_native_transliteration": {
+                "bn": "পর্টফোলিও"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "A range of investments held by a person or organization.",
+            "example_sentence": "Diversifying your portfolio reduces investment risk.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডাইভার্সিফাইং ইয়োর পর্টফোলিও রিডিউসেস ইনভেস্টমেন্ট রিস্ক।"
+            },
+            "position": 7,
+            "synonyms": "investment mix, asset collection, holdings",
+            "antonyms": "single investment, disinvestment, liquidation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিনিয়োগ সংগ্রহ",
+                    "word_transliteration": "biniyog shongroho",
+                    "example_sentence_translation": "আপনার বিনিয়োগ সংগ্রহ বৈচিত্র্যময় করা ঝুঁকি কমায়।",
+                    "example_sentence_transliteration": "Apnar biniyog shongroho boichitromoy kora jhuki komay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "asset allocation",
+            "phonetic": "ˈæ.sɛt ˌæl.əˈkeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "অ্যাসেট অ্যালোকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "An investment strategy that aims to balance risk and reward by apportioning a portfolio's assets according to an individual's goals, risk tolerance, and investment horizon.",
+            "example_sentence": "Proper asset allocation is key to financial growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রপার অ্যাসেট অ্যালোকেশন ইজ কি টু ফাইন্যানশিয়াল গ্রোথ।"
+            },
+            "position": 8,
+            "synonyms": "investment strategy, diversification, capital distribution",
+            "antonyms": "concentrated investment, poor diversification, risky allocation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সম্পদ বণ্টন",
+                    "word_transliteration": "shompod bonton",
+                    "example_sentence_translation": "সঠিক সম্পদ বণ্টন আর্থিক প্রবৃদ্ধির জন্য গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Shothik shompod bonton arthik probriddhir jonno gurutopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "liquidity",
+            "phonetic": "lɪˈkwɪd.ə.ti",
+            "word_native_transliteration": {
+                "bn": "লিকুইডিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💧",
+            "meaning": "The availability of liquid assets to a market or company; the degree to which an asset or security can be quickly bought or sold in the market without affecting the asset's price.",
+            "example_sentence": "High liquidity allows businesses to meet short-term obligations.",
+            "example_sentence_native_transliteration": {
+                "bn": "হাই লিকুইডিটি অ্যালাওস বিজনেসেস টু মিট শর্ট-টার্ম অবলিগেশনস।"
+            },
+            "position": 9,
+            "synonyms": "cash flow, marketability, convertibility",
+            "antonyms": "illiquidity, fixed assets, inaccessibility",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "তারল্য",
+                    "word_transliteration": "tarolyo",
+                    "example_sentence_translation": "উচ্চ তারল্য ব্যবসাকে স্বল্পমেয়াদী দায় পরিশোধে সহায়তা করে।",
+                    "example_sentence_transliteration": "Uchcho tarolyo byabshake sholpo-meyadi day porishode shahayota kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "affluence",
+            "phonetic": "ˈæf.lu.əns",
+            "word_native_transliteration": {
+                "bn": "অ্যাফ্লুয়েন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💎",
+            "meaning": "The state of having a great deal of money; wealth.",
+            "example_sentence": "His business success led to great affluence.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ বিজনেস সাকসেস লেড টু গ্রেট অ্যাফ্লুয়েন্স।"
+            },
+            "position": 10,
+            "synonyms": "wealth, prosperity, abundance",
+            "antonyms": "poverty, scarcity, destitution",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ধনসম্পদ",
+                    "word_transliteration": "dhonosompod",
+                    "example_sentence_translation": "তার ব্যবসায়িক সাফল্য বিশাল ধনসম্পদ সৃষ্টি করেছে।",
+                    "example_sentence_transliteration": "Tar byabshayik shafolyo bishal dhonosompod shrishti koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "appreciation",
+            "phonetic": "əˌpriː.ʃiˈeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "অ্যাপ্রিসিয়েশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "An increase in the value of an asset over time.",
+            "example_sentence": "Real estate properties often experience appreciation over time.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিয়েল এস্টেট প্রোপার্টিজ অফেন এক্সপেরিয়েন্স অ্যাপ্রিসিয়েশন ওভার টাইম।"
+            },
+            "position": 11,
+            "synonyms": "increase, growth, recognition",
+            "antonyms": "depreciation, devaluation, decline",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মূল্য বৃদ্ধি",
+                    "word_transliteration": "mulyo briddhi",
+                    "example_sentence_translation": "রিয়েল এস্টেট সম্পত্তির মূল্য সময়ের সাথে বৃদ্ধি পায়।",
+                    "example_sentence_transliteration": "Rieal estate shompottir mulyo shomyer shathe briddhi pay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "recessionary",
+            "phonetic": "rɪˈsɛʃ.ən.er.i",
+            "word_native_transliteration": {
+                "bn": "রেসেশনারি"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📉",
+            "meaning": "Relating to or characterized by economic recession.",
+            "example_sentence": "Governments introduce policies to counter recessionary effects.",
+            "example_sentence_native_transliteration": {
+                "bn": "গভর্নমেন্টস ইনট্রোডিউস পলিসিজ টু কাউন্টার রেসেশনারি এফেক্টস।"
+            },
+            "position": 12,
+            "synonyms": "economic decline, downturn, slowdown",
+            "antonyms": "expansionary, growth-oriented, prosperous",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মন্দাসংক্রান্ত",
+                    "word_transliteration": "mondashongkranto",
+                    "example_sentence_translation": "সরকার মন্দার প্রভাব মোকাবিলায় নীতি গ্রহণ করে।",
+                    "example_sentence_transliteration": "Shorkar mondar probhab mokabilay neeti grohen kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "diversification",
+            "phonetic": "daɪˌvɜː.sɪ.fɪˈkeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ডাইভার্সিফিকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔀",
+            "meaning": "The practice of spreading investments across different assets to reduce risk.",
+            "example_sentence": "Investment diversification reduces financial risk.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনভেস্টমেন্ট ডাইভার্সিফিকেশন রিডিউসেস ফাইন্যানশিয়াল রিস্ক।"
+            },
+            "position": 13,
+            "synonyms": "expansion, variety, differentiation",
+            "antonyms": "specialization, uniformity, concentration",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৈচিত্র্যকরণ",
+                    "word_transliteration": "boichitryokoron",
+                    "example_sentence_translation": "বিনিয়োগের বৈচিত্র্য ঝুঁকি কমায়।",
+                    "example_sentence_transliteration": "Biniyoger boichitryko jhuki komay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "equity",
+            "phonetic": "ˈɛk.wɪ.ti",
+            "word_native_transliteration": {
+                "bn": "ইকুইটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "The value of shares issued by a company; ownership interest in a company.",
+            "example_sentence": "He invested in company equity for long-term gains.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি ইনভেস্টেড ইন কোম্পানি ইকুইটি ফর লং-টার্ম গেইনস।"
+            },
+            "position": 14,
+            "synonyms": "ownership, stake, shareholding",
+            "antonyms": "debt, liability, unequal distribution",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অংশীদারিত্ব",
+                    "word_transliteration": "ongshidarity",
+                    "example_sentence_translation": "তিনি দীর্ঘমেয়াদী মুনাফার জন্য কোম্পানির অংশীদারিত্বে বিনিয়োগ করেছেন।",
+                    "example_sentence_transliteration": "Tini dirgho-meyadi munafar jonno kompanir ongshidaritye biniyog korechen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "yield",
+            "phonetic": "jiːld",
+            "word_native_transliteration": {
+                "bn": "ইয়িল্ড"
+            },
+            "parts_of_speech": "noun/verb",
+            "emoji": "💰",
+            "meaning": "The income return on an investment, such as the interest or dividends received.",
+            "example_sentence": "Bonds with higher yield offer better returns.",
+            "example_sentence_native_transliteration": {
+                "bn": "বন্ডস উইথ হায়ার ইয়িল্ড অফার বেটার রিটার্নস।"
+            },
+            "position": 15,
+            "synonyms": "return, profit, earnings",
+            "antonyms": "loss, decline, deficit",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ফলন",
+                    "word_transliteration": "pholon",
+                    "example_sentence_translation": "উচ্চ মুনাফাযুক্ত বন্ড বেশি আয় প্রদান করে।",
+                    "example_sentence_transliteration": "Uchcho munafajukto bond beshi ay prodan kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fiscal",
+            "phonetic": "ˈfɪs.kəl",
+            "word_native_transliteration": {
+                "bn": "ফিসক্যাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🏛️",
+            "meaning": "Relating to government revenue, especially taxes.",
+            "example_sentence": "The government introduced new fiscal policies to boost the economy.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গভর্নমেন্ট ইনট্রোডিউসড নিউ ফিসক্যাল পলিসিজ টু বুস্ট দ্য ইকোনমি।"
+            },
+            "position": 16,
+            "synonyms": "financial, monetary, budgetary",
+            "antonyms": "non-financial, unbudgeted, non-monetary",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রাজস্ব সংক্রান্ত",
+                    "word_transliteration": "rajosho shongkranto",
+                    "example_sentence_translation": "সরকার অর্থনীতি উন্নয়নের জন্য নতুন রাজস্ব নীতি চালু করেছে।",
+                    "example_sentence_transliteration": "Shorkar orthoneeti unnoyoner jonno notun rajosho neeti chalu koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "speculation",
+            "phonetic": "ˌspɛk.jʊˈleɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "স্পেকুলেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎲",
+            "meaning": "Investment in stocks, property, or other ventures in the hope of gain but with the risk of loss.",
+            "example_sentence": "Stock market speculation can lead to high volatility.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্টক মার্কেট স্পেকুলেশন ক্যান লিড টু হাই ভোলাটিলিটি।"
+            },
+            "position": 17,
+            "synonyms": "risk-taking, prediction, guesswork",
+            "antonyms": "certainty, stability, assurance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনুমানভিত্তিক বিনিয়োগ",
+                    "word_transliteration": "anumanvittik biniyog",
+                    "example_sentence_translation": "শেয়ারবাজারে অনুমানভিত্তিক বিনিয়োগ উচ্চ অস্থিরতা সৃষ্টি করতে পারে।",
+                    "example_sentence_transliteration": "Sheyarbajare anumanvittik biniyog uchcho osthirata shrishti korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

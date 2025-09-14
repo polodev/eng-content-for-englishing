@@ -1,0 +1,526 @@
+{
+    "position": 139,
+    "title_translation": {
+        "en": "How to Improve Public Speaking",
+        "bn": "Public speaking দক্ষতা উন্নত করার উপায়"
+    },
+    "content_translation": {
+        "en": "To improve **public speaking** skills, you need to perfect **articulation** and **diction**. A speaker's **cadence** and **modulation** are crucial for keeping the audience engaged. Good speakers attract audiences with their **charisma** and **eloquence**. Adding a powerful **anecdote** to a speech creates more **engagement**.\n\nA speech needs **cohesion** to ensure the message is delivered coherently. **Concise** speaking increases audience interest, while **intonation** and **inflection** make the meaning clearer.\n\nA skilled speaker should maintain confident **poise** and bring their message to life with body **gestures**. Having **projection** and **resonance** in their voice makes it more impactful.\n\nMost importantly, a speaker must maintain **veracity** in their words so that their **persuasion** ability becomes more effective and the audience can trust their message.",
+        "bn": "Public speaking দক্ষতা উন্নত করতে হলে **articulation** এবং **diction** পরিষ্কার হওয়া জরুরি। একজন বক্তার **cadence** এবং **modulation** শ্রোতাদের মনোযোগ ধরে রাখার জন্য অত্যন্ত গুরুত্বপূর্ণ। ভালো বক্তারা তাদের **charisma** এবং **eloquence** দিয়ে দর্শকদের আকৃষ্ট করেন। একটি শক্তিশালী **anecdote** বক্তৃতার মধ্যে সংযোজন করলে তা আরও বেশি **engagement** তৈরি করে।\n\nবক্তৃতায় **cohesion** থাকা প্রয়োজন, যাতে বক্তব্য গুছিয়ে বলা যায়। **Concise** কথা বলা শ্রোতাদের আগ্রহ বাড়ায়, আর **intonation** এবং **inflection** কথার অর্থ আরও স্পষ্ট করে তোলে।\n\nএকজন দক্ষ বক্তার উচিত আত্মবিশ্বাসী **poise** বজায় রাখা এবং শরীরের **gestures** দিয়ে বক্তব্যকে প্রাণবন্ত করা। তার কণ্ঠে **projection** এবং **resonance** থাকলে তা আরও প্রভাবশালী হয়।\n\nসবচেয়ে গুরুত্বপূর্ণ বিষয় হলো, একজন বক্তাকে অবশ্যই **veracity** বজায় রেখে কথা বলতে হবে, যাতে তার **persuasion** ক্ষমতা আরও কার্যকর হয় এবং শ্রোতারা তার বক্তব্য বিশ্বাস করতে পারে।"
+    },
+    "list": [
+        {
+            "word": "public speaking",
+            "phonetic": "ˈpʌb.lɪk ˈspiː.kɪŋ",
+            "word_native_transliteration": {
+                "bn": "পাবলিক স্পিকিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎤",
+            "meaning": "The skill of speaking confidently in front of an audience.",
+            "example_sentence": "Public speaking skills are essential for leadership roles.",
+            "example_sentence_native_transliteration": {
+                "bn": "পাবলিক স্পিকিং স্কিলস আর এসেনশিয়াল ফর লিডারশিপ রোলস।"
+            },
+            "position": 1,
+            "synonyms": "oratory, speech delivery, presentation",
+            "antonyms": "silence, reticence, inarticulateness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জনসম্মুখে বক্তৃতা",
+                    "word_transliteration": "jonshommukhe boktrita",
+                    "example_sentence_translation": "নেতৃত্বের জন্য জনসম্মুখে বক্তৃতার দক্ষতা অপরিহার্য।",
+                    "example_sentence_transliteration": "Netrittbor jonno jonshommukhe boktritaar dokkhota oporiharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "articulation",
+            "phonetic": "ɑːrˌtɪk.jəˈleɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "আর্টিকুলেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🗣️",
+            "meaning": "The ability to express ideas or sounds clearly and distinctly.",
+            "example_sentence": "Good articulation makes a speaker more persuasive.",
+            "example_sentence_native_transliteration": {
+                "bn": "গুড আর্টিকুলেশন মেইকস আ স্পিকার মোর পারসুয়েসিভ।"
+            },
+            "position": 2,
+            "synonyms": "expression, enunciation, clarity",
+            "antonyms": "mumbling, incoherence, slurring",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সুস্পষ্ট উচ্চারণ বা ভাবপ্রকাশ",
+                    "word_transliteration": "shusposhtho uchcharon ba bhabprokash",
+                    "example_sentence_translation": "সুস্পষ্ট উচ্চারণ একজন বক্তাকে আরও প্রভাবশালী করে তোলে।",
+                    "example_sentence_transliteration": "Shusposhtho uchcharon ekjon boktake aro probhabshali kore tole.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "diction",
+            "phonetic": "ˈdɪk.ʃən",
+            "word_native_transliteration": {
+                "bn": "ডিকশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📝",
+            "meaning": "The style of pronunciation and word choice in speaking or writing.",
+            "example_sentence": "A strong diction enhances communication skills.",
+            "example_sentence_native_transliteration": {
+                "bn": "আ স্ট্রং ডিকশন এনহ্যান্সেস কমিউনিকেশন স্কিলস।"
+            },
+            "position": 3,
+            "synonyms": "pronunciation, wording, expression",
+            "antonyms": "inaccuracy, ambiguity, mispronunciation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উচ্চারণ বা শব্দচয়ন",
+                    "word_transliteration": "uchcharon ba shabdochoyon",
+                    "example_sentence_translation": "শক্তিশালী শব্দচয়ন যোগাযোগ দক্ষতা বৃদ্ধি করে।",
+                    "example_sentence_transliteration": "Shoktishali shabdochoyon jogajog dokkhota briddhi kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cadence",
+            "phonetic": "ˈkeɪ.dəns",
+            "word_native_transliteration": {
+                "bn": "কেইডেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎵",
+            "meaning": "The rhythm and flow of speech with rise and fall in tone.",
+            "example_sentence": "His speech had a natural cadence that captivated the audience.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ স্পিচ হ্যাড আ ন্যাচারাল কেইডেন্স দ্যাট ক্যাপটিভেটেড দি অডিয়েন্স।"
+            },
+            "position": 4,
+            "synonyms": "rhythm, intonation, flow",
+            "antonyms": "monotony, flatness, disruption",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সুর বা স্বরের ওঠানামা",
+                    "word_transliteration": "shur ba shorrer othanama",
+                    "example_sentence_translation": "তার বক্তৃতার স্বাভাবিক সুর দর্শকদের মুগ্ধ করেছিল।",
+                    "example_sentence_transliteration": "Tar boktritaar shabhabik shur dorshokder mugdho korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "modulation",
+            "phonetic": "ˌmɑː.dʒəˈleɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "মডুলেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔊",
+            "meaning": "The natural variation and control of voice tone and pitch.",
+            "example_sentence": "Proper modulation keeps the audience engaged in a speech.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রপার মডুলেশন কিপস দি অডিয়েন্স এনগেজড ইন আ স্পিচ।"
+            },
+            "position": 5,
+            "synonyms": "tone control, variation, inflection",
+            "antonyms": "monotony, uniformity, inflexibility",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বর নিয়ন্ত্রণ বা পরিবর্তন",
+                    "word_transliteration": "shor niontron ba poribortton",
+                    "example_sentence_translation": "সঠিক স্বর পরিবর্তন বক্তৃতায় শ্রোতাদের আগ্রহী রাখে।",
+                    "example_sentence_transliteration": "Shothik shor poribortton boktritay shrotader agrahi rakhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "charisma",
+            "phonetic": "kəˈrɪz.mə",
+            "word_native_transliteration": {
+                "bn": "ক্যারিজমা"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✨",
+            "meaning": "Natural charm and appeal that helps influence people.",
+            "example_sentence": "A speaker with charisma can easily influence an audience.",
+            "example_sentence_native_transliteration": {
+                "bn": "আ স্পিকার উইথ ক্যারিজমা ক্যান ইজিলি ইনফ্লুয়েন্স আন অডিয়েন্স।"
+            },
+            "position": 6,
+            "synonyms": "charm, magnetism, appeal",
+            "antonyms": "uninspiring, repulsiveness, dullness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ব্যক্তিত্বের আকর্ষণীয়তা",
+                    "word_transliteration": "bektittober akorshoniota",
+                    "example_sentence_translation": "একজন ব্যক্তিত্ববান বক্তা সহজেই শ্রোতাদের প্রভাবিত করতে পারেন।",
+                    "example_sentence_transliteration": "Ekjon bektittboban bokta sohojei shrotader probhabit korte paren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "eloquence",
+            "phonetic": "ˈɛl.ə.kwəns",
+            "word_native_transliteration": {
+                "bn": "এলোকুয়েন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💬",
+            "meaning": "The ability to speak fluently, persuasively, and expressively.",
+            "example_sentence": "His eloquence made the speech inspiring.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ এলোকুয়েন্স মেইড দি স্পিচ ইনস্পাইরিং।"
+            },
+            "position": 7,
+            "synonyms": "fluency, persuasiveness, expressiveness",
+            "antonyms": "inarticulateness, hesitation, ineffectiveness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাকপটুতা বা বলার দক্ষতা",
+                    "word_transliteration": "bakpotuta ba bolar dokkhota",
+                    "example_sentence_translation": "তার বাকপটুতা বক্তৃতাকে অনুপ্রেরণামূলক করে তুলেছিল।",
+                    "example_sentence_transliteration": "Tar bakpotuta boktritake onuprernamulok kore tulechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "anecdote",
+            "phonetic": "ˈæn.ɪk.doʊt",
+            "word_native_transliteration": {
+                "bn": "অ্যানেকডোট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📖",
+            "meaning": "A short interesting story used in speeches or writing.",
+            "example_sentence": "A well-placed anecdote makes a speech more relatable.",
+            "example_sentence_native_transliteration": {
+                "bn": "আ ওয়েল-প্লেসড অ্যানেকডোট মেইকস আ স্পিচ মোর রিলেটেবল।"
+            },
+            "position": 8,
+            "synonyms": "short story, narrative, illustration",
+            "antonyms": "generalization, report, rambling",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংক্ষিপ্ত গল্প বা অভিজ্ঞতা",
+                    "word_transliteration": "shongkhipto golpo ba obhiggnota",
+                    "example_sentence_translation": "একটি উপযুক্ত সংক্ষিপ্ত গল্প বক্তৃতাকে আরও আকর্ষণীয় করে তোলে।",
+                    "example_sentence_transliteration": "Ekti upojukto shongkhipto golpo boktritake aro akorshoniyo kore tole.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "engagement",
+            "phonetic": "ɪnˈɡeɪdʒ.mənt",
+            "word_native_transliteration": {
+                "bn": "এনগেজমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "The act of attracting and maintaining audience attention and connection.",
+            "example_sentence": "Good speakers maintain strong engagement with their audience.",
+            "example_sentence_native_transliteration": {
+                "bn": "গুড স্পিকারস মেইনটেইন স্ট্রং এনগেজমেন্ট উইথ দেয়ার অডিয়েন্স।"
+            },
+            "position": 9,
+            "synonyms": "interaction, participation, involvement",
+            "antonyms": "disinterest, detachment, boredom",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শ্রোতার সম্পৃক্ততা",
+                    "word_transliteration": "shrotar shomprikto ta",
+                    "example_sentence_translation": "ভালো বক্তারা শ্রোতাদের সঙ্গে শক্তিশালী সম্পৃক্ততা বজায় রাখেন।",
+                    "example_sentence_transliteration": "Bhalo boktara shrotader shonge shoktishali shomprikto ta bojay rakhen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cohesion",
+            "phonetic": "koʊˈhiː.ʒən",
+            "word_native_transliteration": {
+                "bn": "কোহিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔗",
+            "meaning": "The connection and logical flow between different parts of a speech or text.",
+            "example_sentence": "Effective cohesion ensures a speech is easy to follow.",
+            "example_sentence_native_transliteration": {
+                "bn": "এফেক্টিভ কোহিশন এনসিউরস আ স্পিচ ইজ ইজি টু ফলো।"
+            },
+            "position": 10,
+            "synonyms": "unity, consistency, logical flow",
+            "antonyms": "disorganization, fragmentation, incoherence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংযুক্তি বা ঐক্য",
+                    "word_transliteration": "shongjukti ba oikkho",
+                    "example_sentence_translation": "কার্যকর সংযুক্তি একটি বক্তৃতাকে সহজবোধ্য করে তোলে।",
+                    "example_sentence_transliteration": "Karjokor shongjukti ekti boktritake sohojbodhyo kore tole.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "concise",
+            "phonetic": "kənˈsaɪs",
+            "word_native_transliteration": {
+                "bn": "কনসাইস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📏",
+            "meaning": "Brief and clearly expressed without unnecessary details.",
+            "example_sentence": "A concise speech is more impactful than a long one.",
+            "example_sentence_native_transliteration": {
+                "bn": "আ কনসাইস স্পিচ ইজ মোর ইমপ্যাক্টফুল দ্যান আ লং ওয়ান।"
+            },
+            "position": 11,
+            "synonyms": "brief, succinct, compact",
+            "antonyms": "lengthy, wordy, redundant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংক্ষিপ্ত ও স্পষ্ট",
+                    "word_transliteration": "shongkhipto o sposhtho",
+                    "example_sentence_translation": "সংক্ষিপ্ত বক্তৃতা দীর্ঘ বক্তৃতার চেয়ে বেশি কার্যকর।",
+                    "example_sentence_transliteration": "Shongkhipto boktrita dirgho boktritaar cheye beshi karjokor.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "intonation",
+            "phonetic": "ˌɪn.toʊˈneɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ইনটোনেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎶",
+            "meaning": "The rise and fall of tone in speech and pronunciation.",
+            "example_sentence": "Proper intonation enhances the clarity of a speech.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রপার ইনটোনেশন এনহ্যান্সেস দি ক্লারিটি অব আ স্পিচ।"
+            },
+            "position": 12,
+            "synonyms": "tone, modulation, pitch variation",
+            "antonyms": "monotone, flatness, inexpressiveness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বরের ওঠানামা",
+                    "word_transliteration": "shorrer othanama",
+                    "example_sentence_translation": "সঠিক স্বরের ওঠানামা বক্তৃতার স্পষ্টতা বাড়ায়।",
+                    "example_sentence_transliteration": "Shothik shorrer othanama boktritaar sposhhto ta baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "inflection",
+            "phonetic": "ɪnˈflɛk.ʃən",
+            "word_native_transliteration": {
+                "bn": "ইনফ্লেকশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "The change in pitch or tone of voice when speaking for emphasis.",
+            "example_sentence": "His inflection kept the audience engaged.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ইনফ্লেকশন কেপ্ট দি অডিয়েন্স এনগেজড।"
+            },
+            "position": 13,
+            "synonyms": "modulation, emphasis, variation",
+            "antonyms": "monotony, flatness, uniformity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বর পরিবর্তন",
+                    "word_transliteration": "shor poribortton",
+                    "example_sentence_translation": "তার স্বরের পরিবর্তন শ্রোতাদের মনোযোগ ধরে রেখেছিল।",
+                    "example_sentence_transliteration": "Tar shorrer poribortton shrotader monojog dhore rekhechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "poise",
+            "phonetic": "pɔɪz",
+            "word_native_transliteration": {
+                "bn": "পয়েজ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧘",
+            "meaning": "Natural confidence and composure maintained under pressure.",
+            "example_sentence": "A good speaker maintains poise under pressure.",
+            "example_sentence_native_transliteration": {
+                "bn": "আ গুড স্পিকার মেইনটেইনস পয়েজ আন্ডার প্রেশার।"
+            },
+            "position": 14,
+            "synonyms": "composure, balance, confidence",
+            "antonyms": "nervousness, instability, clumsiness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আত্মবিশ্বাস ও ভারসাম্য",
+                    "word_transliteration": "attobisshash o bharshammyo",
+                    "example_sentence_translation": "একজন ভালো বক্তা চাপে থাকলেও আত্মবিশ্বাস বজায় রাখেন।",
+                    "example_sentence_transliteration": "Ekjon bhalo bokta chape thaklew attobisshash bojay rakhen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "gestures",
+            "phonetic": "ˈdʒes.tʃərz",
+            "word_native_transliteration": {
+                "bn": "জেসচারস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🙌",
+            "meaning": "Body movements, especially of hands, face, or body when speaking.",
+            "example_sentence": "Effective gestures add emphasis to a speech.",
+            "example_sentence_native_transliteration": {
+                "bn": "এফেক্টিভ জেসচারস অ্যাড এমফ্যাসিস টু আ স্পিচ।"
+            },
+            "position": 15,
+            "synonyms": "body language, movement, expression",
+            "antonyms": "stillness, rigidity, inaction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ইশারা বা অঙ্গভঙ্গি",
+                    "word_transliteration": "ishara ba ongobhongi",
+                    "example_sentence_translation": "প্রভাবী অঙ্গভঙ্গি বক্তৃতায় গুরুত্ব যোগ করে।",
+                    "example_sentence_transliteration": "Probhabi ongobhongi boktritay gurutho jog kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "projection",
+            "phonetic": "prəˈdʒɛk.ʃən",
+            "word_native_transliteration": {
+                "bn": "প্রজেকশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📢",
+            "meaning": "The strength and range of voice when speaking.",
+            "example_sentence": "Proper projection ensures that every listener hears clearly.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রপার প্রজেকশন এনসিউরস দ্যাট এভরি লিসনার হিয়ারস ক্লিয়ারলি।"
+            },
+            "position": 16,
+            "synonyms": "voice amplification, loudness, clarity",
+            "antonyms": "muffled speech, softness, inaudibility",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কণ্ঠস্বরের প্রবলতা",
+                    "word_transliteration": "konthoshorrer probolta",
+                    "example_sentence_translation": "সঠিক কণ্ঠস্বরের প্রবলতা নিশ্চিত করে যে প্রত্যেক শ্রোতা স্পষ্টভাবে শুনতে পায়।",
+                    "example_sentence_transliteration": "Shothik konthoshorrer probolta nishchit kore je prottek shrota sposhthobhabe shunte pay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "resonance",
+            "phonetic": "ˈrɛz.ə.nəns",
+            "word_native_transliteration": {
+                "bn": "রেজোন্যান্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔊",
+            "meaning": "Deep, rich, and appealing voice that attracts audience attention.",
+            "example_sentence": "A speaker with strong resonance captivates the audience.",
+            "example_sentence_native_transliteration": {
+                "bn": "আ স্পিকার উইথ স্ট্রং রেজোন্যান্স ক্যাপটিভেটস দি অডিয়েন্স।"
+            },
+            "position": 17,
+            "synonyms": "depth, vibration, richness",
+            "antonyms": "weakness, dullness, flatness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সুরেলা ও গভীর স্বর",
+                    "word_transliteration": "shurela o gobhir shor",
+                    "example_sentence_translation": "গভীর ও সুরেলা কণ্ঠস্বর শ্রোতাদের আকৃষ্ট করে।",
+                    "example_sentence_transliteration": "Gobhir o shurela konthoshor shrotader akrishto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "veracity",
+            "phonetic": "vəˈræs.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "ভেরাসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✅",
+            "meaning": "Truthfulness and reliability of information or statements.",
+            "example_sentence": "A speaker's veracity builds trust with the audience.",
+            "example_sentence_native_transliteration": {
+                "bn": "আ স্পিকারস ভেরাসিটি বিল্ডস ট্রাস্ট উইথ দি অডিয়েন্স।"
+            },
+            "position": 18,
+            "synonyms": "truthfulness, accuracy, credibility",
+            "antonyms": "falsehood, deception, inaccuracy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সত্যতা বা বিশ্বাসযোগ্যতা",
+                    "word_transliteration": "sottota ba bishashojogota",
+                    "example_sentence_translation": "একজন বক্তার সত্যনিষ্ঠা শ্রোতাদের বিশ্বাস অর্জন করে।",
+                    "example_sentence_transliteration": "Ekjon boktaar sottonishttha shrotader bisshash orjon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "persuasion",
+            "phonetic": "pərˈsweɪ.ʒən",
+            "word_native_transliteration": {
+                "bn": "পারসুয়েশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The act of convincing someone to change their viewpoint through reasoning or emotion.",
+            "example_sentence": "Effective persuasion is key to a successful speech.",
+            "example_sentence_native_transliteration": {
+                "bn": "এফেক্টিভ পারসুয়েশন ইজ কি টু আ সাকসেসফুল স্পিচ।"
+            },
+            "position": 19,
+            "synonyms": "influence, convincing, advocacy",
+            "antonyms": "disbelief, resistance, indifference",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "তর্কের মাধ্যমে কাউকে প্রভাবিত করা",
+                    "word_transliteration": "torker madhome kauke probhabit kora",
+                    "example_sentence_translation": "একটি সফল বক্তৃতার জন্য কার্যকর প্রভাব বিস্তার অপরিহার্য।",
+                    "example_sentence_transliteration": "Ekti shofol boktritaar jonno karjokor probhab bistar oporiharjo.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

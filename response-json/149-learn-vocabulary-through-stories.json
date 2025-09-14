@@ -1,0 +1,418 @@
+{
+    "position": 149,
+    "title_translation": {
+        "en": "Importance of Emergency Savings Fund",
+        "bn": "জরুরি সঞ্চয় তহবিলের গুরুত্ব"
+    },
+    "content_translation": {
+        "en": "Life is always full of uncertainties, and for this reason, maintaining an **emergency savings fund** is extremely important. When a sudden **contingency** arises, such as job loss or health problems, if there are insufficient savings, it can create **liability**.\n\nMost people spend without **foresight**, which creates financial **volatility** in the future. However, with proper planning, it's possible to maintain **solvency** by reducing **discretionary** expenses.\n\nThrough a **pragmatic** financial plan, we can create security for the future. When expenses **escalate** and **inflationary** effects occur, **accrued** savings help us.\n\nIt is necessary to have an emergency fund to **mitigate** unexpected situations, otherwise the burden of debt can **dwindle**. Therefore, to ensure a healthy financial future, an **emergency savings fund** should be built from now on.",
+        "bn": "জীবনে অনিশ্চয়তা সবসময় থাকে, আর এজন্যই **emergency savings fund** রাখা অত্যন্ত জরুরি। যখন হঠাৎ কোনো **contingency** আসে, যেমন চাকরি হারানো বা স্বাস্থ্যগত সমস্যা, তখন যদি পর্যাপ্ত সঞ্চয় না থাকে, তা **liability** তৈরি করতে পারে।\n\nবেশিরভাগ মানুষ **foresight** ছাড়াই ব্যয় করে, যা ভবিষ্যতে অর্থনৈতিক **volatility** সৃষ্টি করে। কিন্তু সঠিকভাবে পরিকল্পনা করলে, **discretionary** খরচ কমিয়ে **solvency** বজায় রাখা সম্ভব।\n\nএকটি **pragmatic** অর্থনৈতিক পরিকল্পনার মাধ্যমে, আমরা ভবিষ্যতের জন্য নিরাপত্তা তৈরি করতে পারি। যখন খরচ **escalate** হয় বা **inflationary** প্রভাব পড়ে, তখন **accrue** করা সঞ্চয় আমাদের সাহায্য করে।\n\nঅপ্রত্যাশিত পরিস্থিতিতে **mitigate** করার জন্য জরুরি তহবিল থাকা প্রয়োজন, নাহলে ঋণের বোঝা **dwindle** হয়ে যেতে পারে। তাই, সুস্থ আর্থিক ভবিষ্যৎ নিশ্চিত করতে এখন থেকেই **emergency savings fund** গড়ে তোলা উচিত।"
+    },
+    "list": [
+        {
+            "word": "emergency",
+            "phonetic": "ɪˈmɜː.dʒən.si",
+            "word_native_transliteration": {
+                "bn": "ইমার্জেন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚨",
+            "meaning": "A sudden situation that is dangerous or serious and needs immediate attention or action.",
+            "example_sentence": "A financial emergency can arise at any time.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ ফাইন্যান্সিয়াল ইমার্জেন্সি ক্যান অ্যারাইজ অ্যাট এনি টাইম।"
+            },
+            "position": 1,
+            "synonyms": "crisis, urgency, catastrophe",
+            "antonyms": "stability, safety, routine",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জরুরি অবস্থা",
+                    "word_transliteration": "joruri obostha",
+                    "example_sentence_translation": "যেকোনো সময় আর্থিক জরুরি অবস্থা দেখা দিতে পারে।",
+                    "example_sentence_transliteration": "Jekono shomoy arthik joruri obostha dekha dite pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "savings",
+            "phonetic": "ˈseɪ.vɪŋz",
+            "word_native_transliteration": {
+                "bn": "সেভিংস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💰",
+            "meaning": "Money that is kept for future use or investment.",
+            "example_sentence": "Many people invest their savings in real estate.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেনি পিপল ইনভেস্ট দেয়ার সেভিংস ইন রিয়েল এস্টেট।"
+            },
+            "position": 2,
+            "synonyms": "reserves, deposits, funds",
+            "antonyms": "expenditure, spending, debt",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সঞ্চয়",
+                    "word_transliteration": "shonchoy",
+                    "example_sentence_translation": "অনেক মানুষ তাদের সঞ্চয় রিয়েল এস্টেটে বিনিয়োগ করে।",
+                    "example_sentence_transliteration": "Onek manush tader shonchoy real estate-e biniyog kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fund",
+            "phonetic": "fʌnd",
+            "word_native_transliteration": {
+                "bn": "ফান্ড"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏦",
+            "meaning": "A sum of money saved or made available for a particular purpose.",
+            "example_sentence": "The government allocated a fund for disaster relief.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গভর্নমেন্ট অ্যালোকেটেড এ ফান্ড ফর ডিজাস্টার রিলিফ।"
+            },
+            "position": 3,
+            "synonyms": "capital, budget, investment",
+            "antonyms": "debt, deficiency, shortage",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "তহবিল",
+                    "word_transliteration": "tohobil",
+                    "example_sentence_translation": "সরকার দুর্যোগ ত্রাণের জন্য একটি তহবিল বরাদ্দ করেছে।",
+                    "example_sentence_transliteration": "Shorkar duryog tran-er jonno ekti tohobil boraddo koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "contingency",
+            "phonetic": "kən ˈtɪn.dʒən.si",
+            "word_native_transliteration": {
+                "bn": "কনটিনজেন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚠️",
+            "meaning": "A future event or circumstance which is possible but cannot be predicted with certainty.",
+            "example_sentence": "The company has a contingency plan for financial crises.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি হ্যাজ এ কনটিনজেন্সি প্ল্যান ফর ফাইন্যান্সিয়াল ক্রাইসিস।"
+            },
+            "position": 4,
+            "synonyms": "emergency plan, backup, alternative",
+            "antonyms": "certainty, assurance, predictability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনিশ্চিত পরিস্থিতি",
+                    "word_transliteration": "onishchit poristhiti",
+                    "example_sentence_translation": "কোম্পানির আর্থিক সংকটের জন্য একটি জরুরি পরিকল্পনা রয়েছে।",
+                    "example_sentence_transliteration": "Company-r arthik shongoter jonno ekti joruri porikolpona royeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "liability",
+            "phonetic": "ˌlaɪ.əˈbɪl.ə.ti",
+            "word_native_transliteration": {
+                "bn": "লায়াবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "The state of being responsible for something, especially by law; a debt or financial obligation.",
+            "example_sentence": "The company's liabilities exceeded its assets.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানিজ লায়াবিলিটিজ এক্সিডেড ইটস এসেটস।"
+            },
+            "position": 5,
+            "synonyms": "debt, obligation, responsibility",
+            "antonyms": "asset, advantage, credit",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দায়",
+                    "word_transliteration": "day",
+                    "example_sentence_translation": "কোম্পানির দায় তার সম্পদের চেয়ে বেশি ছিল।",
+                    "example_sentence_transliteration": "Company-r day tar shompoder cheye beshi chilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "foresight",
+            "phonetic": "ˈfɔː.saɪt",
+            "word_native_transliteration": {
+                "bn": "ফোরসাইট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔮",
+            "meaning": "The ability to predict or the action of predicting what will happen or be needed in the future.",
+            "example_sentence": "His foresight helped him avoid financial trouble.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ফোরসাইট হেল্পড হিম অ্যাভয়েড ফাইন্যান্সিয়াল ট্রাবল।"
+            },
+            "position": 6,
+            "synonyms": "vision, planning, anticipation",
+            "antonyms": "shortsightedness, impulsiveness, carelessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দূরদর্শিতা",
+                    "word_transliteration": "durdorshita",
+                    "example_sentence_translation": "তার দূরদর্শিতা তাকে আর্থিক সমস্যার হাত থেকে রক্ষা করেছে।",
+                    "example_sentence_transliteration": "Tar durdorshita take arthik shomosshar hat theke rakkha koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "volatility",
+            "phonetic": "ˌvɒl.əˈtɪl.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "ভোলাটিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "Liability to change rapidly and unpredictably, especially for the worse.",
+            "example_sentence": "The stock market is known for its volatility.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্টক মার্কেট ইজ নোন ফর ইটস ভোলাটিলিটি।"
+            },
+            "position": 7,
+            "synonyms": "instability, fluctuation, uncertainty",
+            "antonyms": "stability, consistency, predictability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অস্থিরতা",
+                    "word_transliteration": "osthirata",
+                    "example_sentence_translation": "শেয়ার বাজার তার অস্থিরতার জন্য পরিচিত।",
+                    "example_sentence_transliteration": "Share bajar tar osthiratar jonno porichito.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "discretionary",
+            "phonetic": "dɪ ˈskrɛʃ.ən.er.i",
+            "word_native_transliteration": {
+                "bn": "ডিসক্রেশনারি"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎯",
+            "meaning": "Available for use at the discretion of the user; not required or mandatory.",
+            "example_sentence": "He set aside some discretionary income for travel.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি সেট অ্যাসাইড সাম ডিসক্রেশনারি ইনকাম ফর ট্রাভেল।"
+            },
+            "position": 8,
+            "synonyms": "optional, flexible, voluntary",
+            "antonyms": "mandatory, obligatory, required",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বাধীন বিবেচনাধীন",
+                    "word_transliteration": "shadhin bibechonadhin",
+                    "example_sentence_translation": "তিনি ভ্রমণের জন্য কিছু স্বাধীন ব্যয়যোগ্য অর্থ সংরক্ষণ করেছিলেন।",
+                    "example_sentence_transliteration": "Tini bhromon-er jonno kichu shadhin bayyojoggo ortho shongrokkhon korechilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "solvency",
+            "phonetic": "ˈsɒl.vən.si",
+            "word_native_transliteration": {
+                "bn": "সলভেন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "The ability to meet one's debts and financial obligations; financial soundness.",
+            "example_sentence": "The company's solvency improved after reducing expenses.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানিজ সলভেন্সি ইমপ্রুভড আফটার রিডিউসিং এক্সপেনসেস।"
+            },
+            "position": 9,
+            "synonyms": "financial stability, creditworthiness, liquidity",
+            "antonyms": "insolvency, bankruptcy, debt",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিশোধ ক্ষমতা",
+                    "word_transliteration": "porishod khomota",
+                    "example_sentence_translation": "ব্যয় হ্রাসের পর কোম্পানির পরিশোধ ক্ষমতা বৃদ্ধি পেয়েছে।",
+                    "example_sentence_transliteration": "Bayy hraser por company-r porishod khomota briddhi peyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pragmatic",
+            "phonetic": "præɡ ˈmæt.ɪk",
+            "word_native_transliteration": {
+                "bn": "প্র্যাগম্যাটিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎯",
+            "meaning": "Dealing with things sensibly and realistically in a way that is based on practical rather than idealistic considerations.",
+            "example_sentence": "He took a pragmatic approach to solving the problem.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি টুক এ প্র্যাগম্যাটিক অ্যাপ্রোচ টু সলভিং দ্য প্রবলেম।"
+            },
+            "position": 10,
+            "synonyms": "practical, realistic, sensible",
+            "antonyms": "idealistic, impractical, unrealistic",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাস্তববাদী",
+                    "word_transliteration": "bastobbadi",
+                    "example_sentence_translation": "তিনি সমস্যাটির বাস্তবসম্মত সমাধানের দিকে মনোযোগ দিলেন।",
+                    "example_sentence_transliteration": "Tini shomosshati-r bastobshommoto somadhaner dike monojog dilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "escalate",
+            "phonetic": "ˈɛs.kə.leɪt",
+            "word_native_transliteration": {
+                "bn": "এস্কালেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📈",
+            "meaning": "To increase rapidly; become or make greater, more intense, or more serious.",
+            "example_sentence": "The conflict escalated into a full-blown crisis.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কনফ্লিক্ট এস্কালেটেড ইনটু এ ফুল-ব্লোন ক্রাইসিস।"
+            },
+            "position": 11,
+            "synonyms": "increase, intensify, amplify",
+            "antonyms": "decrease, reduce, diminish",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৃদ্ধি পাওয়া",
+                    "word_transliteration": "briddhi paowa",
+                    "example_sentence_translation": "সংঘর্ষটি ধীরে ধীরে একটি সম্পূর্ণ সংকটে পরিণত হলো।",
+                    "example_sentence_transliteration": "Shonghorshoti dhire dhire ekti shompurno shongkote porinoto holo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "inflationary",
+            "phonetic": "ɪn ˈfleɪ.ʃə.ner.i",
+            "word_native_transliteration": {
+                "bn": "ইনফ্লেশনারি"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💹",
+            "meaning": "Characterized by or tending to cause monetary inflation; relating to rising prices.",
+            "example_sentence": "The government took measures to control inflationary pressures.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গভর্নমেন্ট টুক মেজারস টু কনট্রোল ইনফ্লেশনারি প্রেশারস।"
+            },
+            "position": 12,
+            "synonyms": "price-increasing, economic expansion, cost-raising",
+            "antonyms": "deflationary, price-stabilizing, cost-reducing",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মুদ্রাস্ফীতিজনিত",
+                    "word_transliteration": "mudraspitijito",
+                    "example_sentence_translation": "সরকার মুদ্রাস্ফীতিজনিত চাপ নিয়ন্ত্রণের জন্য ব্যবস্থা নিয়েছে।",
+                    "example_sentence_transliteration": "Shorkar mudraspitijito chap niyontron-er jonno babostha niyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "accrue",
+            "phonetic": "əˈkruː",
+            "word_native_transliteration": {
+                "bn": "অ্যাক্রু"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📊",
+            "meaning": "To accumulate or receive (payments or benefits) over time.",
+            "example_sentence": "Interest accrues on the savings account every month.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইন্টারেস্ট অ্যাক্রুজ অন দ্য সেভিংস অ্যাকাউন্ট এভরি মানথ।"
+            },
+            "position": 13,
+            "synonyms": "accumulate, amass, collect",
+            "antonyms": "diminish, deplete, lose",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংগ্রহ হওয়া",
+                    "word_transliteration": "shongroho howa",
+                    "example_sentence_translation": "সঞ্চয় অ্যাকাউন্টে প্রতি মাসে সুদ জমা হয়।",
+                    "example_sentence_transliteration": "Shonchoy account-e proti mashe shud joma hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "mitigate",
+            "phonetic": "ˈmɪt.ɪ.ɡeɪt",
+            "word_native_transliteration": {
+                "bn": "মিটিগেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🛡️",
+            "meaning": "To make less severe, serious, or painful; to lessen the intensity of something harmful.",
+            "example_sentence": "Proper measures can mitigate environmental damage.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রপার মেজারস ক্যান মিটিগেট এনভায়রনমেন্টাল ড্যামেজ।"
+            },
+            "position": 14,
+            "synonyms": "alleviate, reduce, lessen",
+            "antonyms": "aggravate, intensify, exacerbate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রশমিত করা",
+                    "word_transliteration": "proshomito kora",
+                    "example_sentence_translation": "সঠিক পদক্ষেপ পরিবেশগত ক্ষতি কমাতে পারে।",
+                    "example_sentence_transliteration": "Shotik podokkhep poribeshgoto khoti komate pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dwindle",
+            "phonetic": "ˈdwɪn.dl",
+            "word_native_transliteration": {
+                "bn": "ডুইন্ডল"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📉",
+            "meaning": "To diminish gradually in size, amount, or strength; to become progressively smaller.",
+            "example_sentence": "His savings dwindled due to unexpected expenses.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ সেভিংস ডুইন্ডলড ডিউ টু আনএক্সপেক্টেড এক্সপেনসেস।"
+            },
+            "position": 15,
+            "synonyms": "diminish, shrink, decline",
+            "antonyms": "increase, expand, grow",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "হ্রাস পাওয়া",
+                    "word_transliteration": "hras paowa",
+                    "example_sentence_translation": "অপ্রত্যাশিত ব্যয়ের কারণে তার সঞ্চয় কমে গিয়েছিল।",
+                    "example_sentence_transliteration": "Oprottyashito bayy-er karone tar shonchoy kome giyechilo.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

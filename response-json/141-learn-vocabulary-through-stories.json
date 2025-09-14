@@ -1,0 +1,553 @@
+{
+    "position": 141,
+    "title_translation": {
+        "en": "How to Manage Business Finances",
+        "bn": "কীভাবে ব্যবসায়িক অর্থায়ন পরিচালনা করবেন"
+    },
+    "content_translation": {
+        "en": "Proper **fiscal** planning is crucial for successful business operations. Many entrepreneurs initially struggle with **capitalization**, as without investment **liquidity**, it becomes difficult to expand the business. Without proper **diversification**, a business can fall victim to market **volatility**. Therefore, risk **mitigation** strategies should be developed to maintain **solvency**. To increase business **profitability**, it is necessary to reduce **overhead** expenses. Calculating **depreciation** and **amortization** makes it easier to create an accurate balance sheet. Market **inflation** and **escalation** affect the business, so **feasibility** studies are necessary. Using **arbitrage** strategies can further increase profits. Therefore, for successful **business finance** management, ensuring proper **equity**, **collateral**, and correct **disbursement** should be maintained to preserve business **sustainability**.",
+        "bn": "কটি ব্যবসা সফলভাবে পরিচালনার জন্য সঠিক **fiscal** পরিকল্পনা অত্যন্ত গুরুত্বপূর্ণ। অনেক উদ্যোক্তা শুরুতে **capitalization** নিয়ে সমস্যায় পড়েন, কারণ বিনিয়োগের **liquidity** না থাকলে ব্যবসা বাড়ানো কঠিন হয়ে যায়। সঠিকভাবে **diversification** না করলে ব্যবসা বাজারের **volatility**-এর শিকার হতে পারে। তাই, ঝুঁকি **mitigation** কৌশল তৈরি করা উচিত, যাতে **solvency** বজায় রাখা যায়। ব্যবসার **profitability** বাড়াতে হলে **overhead** খরচ কমানো জরুরি। **Depreciation** এবং **amortization** হিসেব করলে সঠিক ব্যালেন্স শিট তৈরি করা সহজ হয়। বাজারের **inflation** এবং **escalation** ব্যবসার ওপর প্রভাব ফেলে, তাই **feasibility** স্টাডি করা প্রয়োজন। **Arbitrage** কৌশল ব্যবহার করলে মুনাফা আরও বৃদ্ধি পায়। অতএব, সফল **business finance** পরিচালনার জন্য **equity**, **collateral**, এবং সঠিক **disbursement** নিশ্চিত করা উচিত, যাতে ব্যবসার **sustainability** বজায় থাকে।"
+    },
+    "list": [
+        {
+            "word": "fiscal",
+            "phonetic": "ˈfɪs.kəl",
+            "word_native_transliteration": {
+                "bn": "ফিসকাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💰",
+            "meaning": "Relating to government revenue, especially taxes; relating to financial matters.",
+            "example_sentence": "The government's fiscal policies impact national growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গভর্নমেন্টস ফিসকাল পলিসিস ইমপ্যাক্ট ন্যাশনাল গ্রোথ।"
+            },
+            "position": 1,
+            "synonyms": "financial, monetary, economic",
+            "antonyms": "non-financial, unrelated, extraneous",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আর্থিক, রাজস্ব সংক্রান্ত, অর্থনৈতিক",
+                    "word_transliteration": "arthik, rajashba shangkranto, orthonoitik",
+                    "example_sentence_translation": "সরকারের আর্থিক নীতিমালা জাতীয় প্রবৃদ্ধিতে প্রভাব ফেলে।",
+                    "example_sentence_transliteration": "Shorkarers arthik nitimala jatio probriddhite probhab fele.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "capitalization",
+            "phonetic": "ˌkæp.ɪ.təl.aɪˈzeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ক্যাপিটালাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💼",
+            "meaning": "The provision of capital for a company or the total value of a company's stocks and bonds.",
+            "example_sentence": "The startup secured high capitalization for expansion.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্টার্টআপ সিকিউর্ড হাই ক্যাপিটালাইজেশন ফর এক্সপান্শন।"
+            },
+            "position": 2,
+            "synonyms": "investment, funding, endowment",
+            "antonyms": "devaluation, undercapitalization, liquidation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুঁজি বিনিয়োগ, বাজার মূলধন, সম্পদ ব্যবস্থাপনা",
+                    "word_transliteration": "punji biniyog, bajar muldhan, shompod byabsthapona",
+                    "example_sentence_translation": "স্টার্টআপটি সম্প্রসারণের জন্য উচ্চ মূলধন সংগ্রহ করেছে।",
+                    "example_sentence_transliteration": "Startupti somprosharoner jonno uchcho muldhan songroho koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "liquidity",
+            "phonetic": "lɪˈkwɪd.ə.ti",
+            "word_native_transliteration": {
+                "bn": "লিকুইডিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌊",
+            "meaning": "The availability of liquid assets to a market or company; the ability to convert assets into cash quickly.",
+            "example_sentence": "The company improved its liquidity to ensure stability.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি ইমপ্রুভড ইটস লিকুইডিটি টু এনশিওর স্ট্যাবিলিটি।"
+            },
+            "position": 3,
+            "synonyms": "cash flow, solvency, convertibility",
+            "antonyms": "illiquidity, insolvency, asset lock",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহজে নগদে রূপান্তরিত হওয়ার ক্ষমতা, তরল সম্পদ",
+                    "word_transliteration": "shohoje nogde rupantorito howar khomota, torol shompod",
+                    "example_sentence_translation": "কোম্পানিটি স্থিতিশীলতা নিশ্চিত করতে তার নগদ প্রবাহ উন্নত করেছে।",
+                    "example_sentence_transliteration": "Companiti sthitishilota nishchit korte tar nogod probaho unnoto koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "diversification",
+            "phonetic": "daɪˌvɜː.sɪ.fɪˈkeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ডাইভার্সিফিকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The process of a business enlarging or varying its range of products or field of operation.",
+            "example_sentence": "Diversification in investments reduces financial risks.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডাইভার্সিফিকেশন ইন ইনভেস্টমেন্টস রিডিউসেস ফিনান্সিয়াল রিস্কস।"
+            },
+            "position": 4,
+            "synonyms": "variety, expansion, variation",
+            "antonyms": "homogeneity, uniformity, monotony",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৈচিত্র্য করণ, ঝুঁকি হ্রাসের জন্য বিনিয়োগের বিভাজন",
+                    "word_transliteration": "boichittro koron, jhuki hrasher jonno biniyoger bibhajon",
+                    "example_sentence_translation": "বিনিয়োগে বৈচিত্র্য ঝুঁকি হ্রাস করে।",
+                    "example_sentence_transliteration": "Biniyoge boichittro jhuki hrash kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "volatility",
+            "phonetic": "ˌvɒl.əˈtɪl.ə.ti",
+            "word_native_transliteration": {
+                "bn": "ভোলাটিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "Liability to change rapidly and unpredictably, especially for the worse.",
+            "example_sentence": "Market volatility creates uncertainty among investors.",
+            "example_sentence_native_transliteration": {
+                "bn": "মার্কেট ভোলাটিলিটি ক্রিয়েটস আনসার্টেইনটি অ্যামং ইনভেস্টরস।"
+            },
+            "position": 5,
+            "synonyms": "unpredictability, instability, fluctuation",
+            "antonyms": "stability, consistency, predictability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অস্থিরতা, অনিশ্চয়তা, অপ্রত্যাশিত পরিবর্তন",
+                    "word_transliteration": "osthirata, onishchoyota, oprotiashito poribortton",
+                    "example_sentence_translation": "বাজারের অস্থিরতা বিনিয়োগকারীদের মধ্যে অনিশ্চয়তা তৈরি করে।",
+                    "example_sentence_transliteration": "Bajarer osthirata biniyogkarider moddhe onishchoyota toiri kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "mitigation",
+            "phonetic": "ˌmɪt.ɪˈɡeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "মিটিগেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛡️",
+            "meaning": "The action of reducing the severity, seriousness, or painfulness of something.",
+            "example_sentence": "Climate change mitigation strategies are essential.",
+            "example_sentence_native_transliteration": {
+                "bn": "ক্লাইমেট চেঞ্জ মিটিগেশন স্ট্র্যাটেজিস আর এসেন্শিয়াল।"
+            },
+            "position": 6,
+            "synonyms": "reduction, alleviation, moderation",
+            "antonyms": "aggravation, intensification, worsening",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "হ্রাস, প্রশমন, ঝুঁকি বা ক্ষতির কমানো",
+                    "word_transliteration": "hrash, proshomon, jhuki ba khotir komano",
+                    "example_sentence_translation": "জলবায়ু পরিবর্তন প্রশমনের কৌশলগুলি অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Jolbayu poribortton proshomoner kousholguoli ottyonto guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "solvency",
+            "phonetic": "ˈsɒl.vən.si",
+            "word_native_transliteration": {
+                "bn": "সলভেন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "The possession of assets in excess of liabilities; ability to pay debts.",
+            "example_sentence": "The company's solvency improved after restructuring.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানিজ সলভেন্সি ইমপ্রুভড আফটার রিস্ট্রাকচারিং।"
+            },
+            "position": 7,
+            "synonyms": "financial stability, creditworthiness, viability",
+            "antonyms": "insolvency, bankruptcy, default",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ঋণ পরিশোধের ক্ষমতা, আর্থিক স্থিতিশীলতা",
+                    "word_transliteration": "rin porishother khomota, arthik sthitishilota",
+                    "example_sentence_translation": "পুনর্গঠনের পরে কোম্পানির ঋণ পরিশোধের ক্ষমতা উন্নত হয়েছে।",
+                    "example_sentence_transliteration": "Punorgothoner pore companir rin porishother khomota unnoto hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "profitability",
+            "phonetic": "ˌprɒf.ɪ.təˈbɪl.ə.ti",
+            "word_native_transliteration": {
+                "bn": "প্রফিট্যাবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "The degree to which a business or activity yields profit or financial gain.",
+            "example_sentence": "Increased efficiency enhances business profitability.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনক্রিজড এফিশিয়েন্সি এনহান্সেস বিজনেস প্রফিট্যাবিলিটি।"
+            },
+            "position": 8,
+            "synonyms": "revenue, earnings, gain",
+            "antonyms": "loss, deficit, unprofitability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "লাভজনকতা, আয়ের পরিমাণ, আর্থিক সাফল্য",
+                    "word_transliteration": "labhojonkota, ayer poriman, arthik shafolyo",
+                    "example_sentence_translation": "দক্ষতা বৃদ্ধি ব্যবসার লাভজনকতা উন্নত করে।",
+                    "example_sentence_transliteration": "Dokhkhota briddhi byabshar labhojonkota unnoto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "overhead",
+            "phonetic": "ˈəʊ.və.hed",
+            "word_native_transliteration": {
+                "bn": "ওভারহেড"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💸",
+            "meaning": "Ongoing business expenses not directly attributable to creating a product or service.",
+            "example_sentence": "High overhead costs reduce overall profits.",
+            "example_sentence_native_transliteration": {
+                "bn": "হাই ওভারহেড কস্টস রিডিউস ওভারঅল প্রফিটস।"
+            },
+            "position": 9,
+            "synonyms": "operating cost, fixed expenses, administrative cost",
+            "antonyms": "variable cost, direct expenses, reduced spending",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্থায়ী ব্যয়, উৎপাদন ব্যতীত ব্যবসার খরচ",
+                    "word_transliteration": "sthayi byoy, utpadon bytito byabshar khoroch",
+                    "example_sentence_translation": "উচ্চ ওভারহেড খরচ মোট লাভ কমিয়ে দেয়।",
+                    "example_sentence_transliteration": "Uchcho overhead khoroch mot labh komiye dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "depreciation",
+            "phonetic": "dɪˌpriː.ʃiˈeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ডিপ্রিসিয়েশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📉",
+            "meaning": "A reduction in the value of an asset with the passage of time, due in particular to wear and tear.",
+            "example_sentence": "Property depreciation lowers resale value.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোপার্টি ডিপ্রিসিয়েশন লোয়ারস রিসেল ভ্যালু।"
+            },
+            "position": 10,
+            "synonyms": "devaluation, asset decline, wear and tear",
+            "antonyms": "appreciation, value increase, growth",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সম্পদের মূল্য হ্রাস, অবচয়",
+                    "word_transliteration": "shompoder mulyo hrash, obochoy",
+                    "example_sentence_translation": "সম্পত্তির মূল্য হ্রাস পুনরায় বিক্রির মূল্য কমিয়ে দেয়।",
+                    "example_sentence_transliteration": "Shompottir mulyo hrash punoray bikrir mulyo komiye dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "amortization",
+            "phonetic": "əˌmɔː.tɪˈzeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "অ্যামর্টাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📋",
+            "meaning": "The action or process of gradually writing off the initial cost of an asset.",
+            "example_sentence": "Smart amortization prevents financial strain.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্মার্ট অ্যামর্টাইজেশন প্রিভেন্টস ফিনান্সিয়াল স্ট্রেইন।"
+            },
+            "position": 11,
+            "synonyms": "loan repayment, installment reduction, debt allocation",
+            "antonyms": "accumulation, default, non-payment",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ঋণের কিস্তিতে পরিশোধ, মূলধনের অবচয়",
+                    "word_transliteration": "riner kistite porishoth, mulddhaner obochoy",
+                    "example_sentence_translation": "সঠিক অ্যামর্টাইজেশন আর্থিক চাপ প্রতিরোধ করে।",
+                    "example_sentence_transliteration": "Sothik amortization arthik chap protirodh kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "inflation",
+            "phonetic": "ɪnˈfleɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ইনফ্লেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "A general increase in prices and fall in the purchasing value of money.",
+            "example_sentence": "Inflation reduces purchasing power.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনফ্লেশন রিডিউসেস পারচেজিং পাওয়ার।"
+            },
+            "position": 12,
+            "synonyms": "price surge, economic rise, currency devaluation",
+            "antonyms": "deflation, price stability, economic downturn",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মুদ্রাস্ফীতি, পণ্য মূল্য বৃদ্ধির হার",
+                    "word_transliteration": "mudrashfiti, ponyo mulyo briddhir har",
+                    "example_sentence_translation": "মুদ্রাস্ফীতি ক্রয়ক্ষমতা হ্রাস করে।",
+                    "example_sentence_transliteration": "Mudrashfiti kroykhomota hrash kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "escalation",
+            "phonetic": "ˌes.kəˈleɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "এস্ক্যালেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⬆️",
+            "meaning": "A rapid increase; a rise.",
+            "example_sentence": "The escalation of production costs impacts profitability.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এস্ক্যালেশন অফ প্রোডাকশন কস্টস ইমপ্যাক্টস প্রফিট্যাবিলিটি।"
+            },
+            "position": 13,
+            "synonyms": "surge, intensification, expansion",
+            "antonyms": "reduction, decrease, stabilization",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "খরচ বা পরিস্থিতির দ্রুত বৃদ্ধি",
+                    "word_transliteration": "khoroch ba poristhitir druto briddhi",
+                    "example_sentence_translation": "উৎপাদন খরচের বৃদ্ধি লাভজনকতায় প্রভাব ফেলে।",
+                    "example_sentence_transliteration": "Utpadon khorcher briddhi labhojonkotay probhab fele.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "feasibility",
+            "phonetic": "ˌfiː.zəˈbɪl.ə.ti",
+            "word_native_transliteration": {
+                "bn": "ফিজিবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✅",
+            "meaning": "The state or degree of being easily or conveniently done.",
+            "example_sentence": "The feasibility study confirmed project success.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফিজিবিলিটি স্টাডি কনফার্মড প্রজেক্ট সাকসেস।"
+            },
+            "position": 14,
+            "synonyms": "viability, practicality, implementability",
+            "antonyms": "impracticality, unworkability, infeasibility",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সম্ভাব্যতা, বাস্তবায়নযোগ্যতা",
+                    "word_transliteration": "shombhabyota, bastobayon yogyota",
+                    "example_sentence_translation": "সম্ভাব্যতা বিশ্লেষণ প্রকল্পের সফলতা নিশ্চিত করেছে।",
+                    "example_sentence_transliteration": "Shombhabyota bishlesho prokolper shofolota nishchit koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "arbitrage",
+            "phonetic": "ˈɑː.bɪ.trɑːʒ",
+            "word_native_transliteration": {
+                "bn": "আরবিট্রাজ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "The practice of taking advantage of a price difference between two or more markets.",
+            "example_sentence": "Arbitrage opportunities exist in volatile markets.",
+            "example_sentence_native_transliteration": {
+                "bn": "আরবিট্রাজ অপোর্চুনিটিজ এগজিস্ট ইন ভোলাটাইল মার্কেটস।"
+            },
+            "position": 15,
+            "synonyms": "market exploitation, price advantage, trading profit",
+            "antonyms": "loss, speculation failure, risky investment",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিভিন্ন বাজারের মূল্যের পার্থক্য থেকে মুনাফা অর্জন",
+                    "word_transliteration": "bibhinno bajarer mulyrer parthokko theke munafa orjon",
+                    "example_sentence_translation": "পরিবর্তনশীল বাজারে আরবিট্রাজের সুযোগ থাকে।",
+                    "example_sentence_transliteration": "Poriborttonshil bajare arbitrager shujog thake.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "business finance",
+            "phonetic": "ˈbɪz.nɪs ˈfaɪ.næns",
+            "word_native_transliteration": {
+                "bn": "বিজনেস ফিনান্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏢",
+            "meaning": "The area of finance that deals with sources of funding and the capital structure of corporations.",
+            "example_sentence": "Effective business finance enhances profitability.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইফেক্টিভ বিজনেস ফিনান্স এনহান্সেস প্রফিট্যাবিলিটি।"
+            },
+            "position": 16,
+            "synonyms": "corporate finance, commercial capital, financial planning",
+            "antonyms": "personal finance, non-commercial funds, insolvency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ব্যবসার আর্থিক ব্যবস্থাপনা, মূলধন পরিচালনা",
+                    "word_transliteration": "byabshar arthik byabsthapona, muldhan porichalona",
+                    "example_sentence_translation": "সঠিক ব্যবসায়িক আর্থিক ব্যবস্থাপনা লাভজনকতা বৃদ্ধি করে।",
+                    "example_sentence_transliteration": "Sothik byabshayik arthik byabsthapona labhojonkota briddhi kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "equity",
+            "phonetic": "ˈek.wɪ.ti",
+            "word_native_transliteration": {
+                "bn": "ইকুইটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "The quality of being fair and impartial; the value of shares issued by a company.",
+            "example_sentence": "Shareholders invest in equity for long-term gains.",
+            "example_sentence_native_transliteration": {
+                "bn": "শেয়ারহোল্ডারস ইনভেস্ট ইন ইকুইটি ফর লং-টার্ম গেইনস।"
+            },
+            "position": 17,
+            "synonyms": "fairness, ownership, stakeholding",
+            "antonyms": "inequality, debt, liability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ন্যায্যতা, মালিকানা মূলধন, শেয়ারের প্রকৃত মূল্য",
+                    "word_transliteration": "nyayyota, malikana muldhan, sharer prokrito mulyo",
+                    "example_sentence_translation": "শেয়ারহোল্ডাররা দীর্ঘমেয়াদী লাভের জন্য ইকুইটিতে বিনিয়োগ করেন।",
+                    "example_sentence_transliteration": "Shareholderrara dighomeadi laver jonno equitite biniyog koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "collateral",
+            "phonetic": "kəˈlæt.ər.əl",
+            "word_native_transliteration": {
+                "bn": "কোল্যাটেরাল"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏠",
+            "meaning": "Something pledged as security for repayment of a loan, to be forfeited in the event of a default.",
+            "example_sentence": "The bank requires collateral for loan approval.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ব্যাংক রিকুয়ারস কোল্যাটেরাল ফর লোন অ্যাপ্রুভাল।"
+            },
+            "position": 18,
+            "synonyms": "security, guarantee, pledge",
+            "antonyms": "unsecured loan, risky investment, liability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জামানত, ঋণের নিরাপত্তা হিসেবে রাখা সম্পদ",
+                    "word_transliteration": "jamanot, riner niropottar hishebe rakha shompod",
+                    "example_sentence_translation": "ঋণ অনুমোদনের জন্য ব্যাংক জামানত চায়।",
+                    "example_sentence_transliteration": "Rin onumodoner jonno bank jamanot chay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "disbursement",
+            "phonetic": "dɪsˈbɜːs.mənt",
+            "word_native_transliteration": {
+                "bn": "ডিসবার্সমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💳",
+            "meaning": "The payment of money from a fund.",
+            "example_sentence": "The company's disbursement of salaries was delayed.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানিজ ডিসবার্সমেন্ট অফ স্যালারিজ ওয়াজ ডিলেইড।"
+            },
+            "position": 19,
+            "synonyms": "expenditure, fund allocation, payment",
+            "antonyms": "withholding, retention, collection",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অর্থ বিতরণ, খরচ নির্বাহ",
+                    "word_transliteration": "ortho bitoron, khoroch nirbaho",
+                    "example_sentence_translation": "কোম্পানির বেতন বিতরণ বিলম্বিত হয়েছিল।",
+                    "example_sentence_transliteration": "Companir beton bitoron bilombito hoyechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sustainability",
+            "phonetic": "səˌsteɪ.nəˈbɪl.ə.ti",
+            "word_native_transliteration": {
+                "bn": "সাসটেইনেবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌱",
+            "meaning": "The ability to be maintained at a certain rate or level; avoidance of the depletion of natural resources.",
+            "example_sentence": "Green energy ensures environmental sustainability.",
+            "example_sentence_native_transliteration": {
+                "bn": "গ্রিন এনার্জি এনশিওরস এনভায়রনমেন্টাল সাসটেইনেবিলিটি।"
+            },
+            "position": 20,
+            "synonyms": "endurance, eco-friendliness, long-term viability",
+            "antonyms": "unsustainability, depletion, instability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দীর্ঘমেয়াদী স্থায়িত্ব, পরিবেশবান্ধব উন্নয়ন",
+                    "word_transliteration": "dighomeadi thayitto, poribeshobandhob unnoyonn",
+                    "example_sentence_translation": "সবুজ জ্বালানি পরিবেশগত স্থায়িত্ব নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Shobuj jjalani poribesho got sthaitto nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

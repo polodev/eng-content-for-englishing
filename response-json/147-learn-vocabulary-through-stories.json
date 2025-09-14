@@ -1,0 +1,499 @@
+{
+    "position": 147,
+    "title_translation": {
+        "en": "How Traditions Keep Families United",
+        "bn": "পারিবারিক ঐতিহ্যগুলি পরিবারকে ঐক্যবদ্ধ রাখে"
+    },
+    "content_translation": {
+        "en": "**Traditions** help create **cohesion** but can sometimes cause **ambivalence**. However, these traditions provide long-term **sustenance**, creating a sense of **confluence** within the family. The **symbolism** and historical **legacy** make these relationships **pervasive**.\n\nThey build strong **resilience** and **fortitude** within the family, which helps face any **adversity**. **Traditions** **transcend** time boundaries, even **ephemeral** moments remain permanent in memory, especially when they pass through generations.\n\nOn one hand, the **juxtaposition** of traditions provides deep **introspection** into our family heritage and values. On the other hand, **reconciliation** and **sanctity** create steadfast commitment and stability toward the family. All together, this helps maintain family unity and preserve **zeal** and **tenacity** in relationships.",
+        "bn": "পারিবারিক ঐতিহ্যগুলি **cohesion** তৈরি করতে সাহায্য করে, কিন্তু কিছু ক্ষেত্রে **ambivalence** বা দ্বিধাবিভক্তি সৃষ্টি করতে পারে। তবুও, এই ঐতিহ্যগুলি দীর্ঘকাল ধরে **sustenance** সরবরাহ করে, যা পরিবারের মধ্যে একটি **confluence** বা একাত্মতার অনুভূতি সৃষ্টি করে। প্রথাগুলির **symbolism** এবং ঐতিহাসিক **legacy** এই সম্পর্কগুলোকে **pervasive** করে তোলে।\n\nএগুলি পরিবারের ভিতরে শক্তিশালী **resilience** এবং **fortitude** গড়ে তোলে, যা কোন **adversity** মোকাবিলা করতে সহায়ক। প্রথাগুলি **transcend** করে সময়ের সীমা, এমনকি **ephemeral** মুহূর্তগুলোও স্মৃতিতে দীর্ঘস্থায়ী হয়ে থাকে, বিশেষ করে যখন তা প্রজন্মের পর প্রজন্মে চলে আসে।\n\nএকদিকে, প্রথাগুলির **juxtaposition** আমাদের পরিবারের ঐতিহ্য এবং মূল্যবোধের প্রতি একটি গভীর **introspection** প্রদান করে। অন্যদিকে, **reconciliation** ও **sanctity** প্রতি পরিবারের প্রতি একগুঁয়ে মিার স্থায়িত্ব তৈরি করে। এই সব মিলিয়ে, এটি পরিবারের ঐক্য বজায় রাখতে এবং সম্পর্কগুলির মধ্যে **zeal** এবং **tenacity** বজায় রাখতে সাহায্য করে।"
+    },
+    "list": [
+        {
+            "word": "cohesion",
+            "phonetic": "koʊˈhiːʒən",
+            "word_native_transliteration": {
+                "bn": "কোহিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "The state of being united or sticking together; unity and solidarity.",
+            "example_sentence": "The cohesion of the team was essential for achieving success.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোহিশন অব দ্য টিম ওয়াস এসেনশিয়াল ফর অ্যাচিভিং সাকসেস।"
+            },
+            "position": 1,
+            "synonyms": "unity, solidarity, togetherness, bond, connection, harmony",
+            "antonyms": "disintegration, fragmentation, division, separation, discord, conflict",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একতা",
+                    "word_transliteration": "ekota",
+                    "example_sentence_translation": "দলের একতা সফলতা অর্জনের জন্য অপরিহার্য ছিল।",
+                    "example_sentence_transliteration": "Doler ekota shofolota orjoner jonno oporhharjo chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ambivalence",
+            "phonetic": "æmˈbɪvələns",
+            "word_native_transliteration": {
+                "bn": "এম্বিভালেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤔",
+            "meaning": "Having mixed feelings or contradictory ideas about something; uncertainty or confusion.",
+            "example_sentence": "She felt ambivalence about taking the job offer.",
+            "example_sentence_native_transliteration": {
+                "bn": "শী ফেল্ট এম্বিভালেন্স অ্যাবাউট টেকিং দ্য জব অফার।"
+            },
+            "position": 2,
+            "synonyms": "uncertainty, confusion, doubt, indecision, mixed feelings, vacillation",
+            "antonyms": "certainty, assurance, confidence, clarity, conviction, decisiveness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্বিধা",
+                    "word_transliteration": "dwidha",
+                    "example_sentence_translation": "সে চাকরির প্রস্তাব গ্রহণ করার বিষয়ে দ্বিধাগ্রস্ত ছিল।",
+                    "example_sentence_transliteration": "She chakorir prostab grhon korar bishoe dwidhagrosto chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sustenance",
+            "phonetic": "ˈsʌstənəns",
+            "word_native_transliteration": {
+                "bn": "সাসটেনেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🍞",
+            "meaning": "Food and drink regarded as a source of strength; nourishment or support.",
+            "example_sentence": "The community relied on local resources for sustenance.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কমিউনিটি রিলাইড অন লোকাল রিসোর্সেস ফর সাসটেনেন্স।"
+            },
+            "position": 3,
+            "synonyms": "nourishment, support, food, nutrition, provisions, maintenance",
+            "antonyms": "deprivation, starvation, malnourishment, hunger, want, lack",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "টিকিয়ে রাখার উপকরণ",
+                    "word_transliteration": "tikiye rakhar upokoron",
+                    "example_sentence_translation": "কমিউনিটি জীবনধারণের জন্য স্থানীয় সম্পদের উপর নির্ভর করত।",
+                    "example_sentence_transliteration": "Community jibondharon er jonno sthanio shompoder upor nirvor korot.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "confluence",
+            "phonetic": "ˈkɒnfluəns",
+            "word_native_transliteration": {
+                "bn": "কনফ্লুয়েন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌊",
+            "meaning": "A place where two rivers meet; a flowing together or meeting point.",
+            "example_sentence": "The confluence of rivers created a fertile land for agriculture.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কনফ্লুয়েন্স অব রিভারস ক্রিয়েটেড এ ফার্টাইল ল্যান্ড ফর এগ্রিকালচার।"
+            },
+            "position": 4,
+            "synonyms": "junction, convergence, meeting point, merger, union, intersection",
+            "antonyms": "divergence, separation, split, division, branching, parting",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মিলনস্থল",
+                    "word_transliteration": "milonsthal",
+                    "example_sentence_translation": "নদীর মিলনস্থলে কৃষির জন্য উর্বর ভূমি তৈরি হয়েছিল।",
+                    "example_sentence_transliteration": "Nodir milonsthale krishir jonno urbor bhumi toire hoyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "symbolism",
+            "phonetic": "ˈsɪmbəlɪzəm",
+            "word_native_transliteration": {
+                "bn": "সিম্বলিজম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🕊️",
+            "meaning": "The use of symbols to represent ideas or qualities; symbolic meaning.",
+            "example_sentence": "The dove is a symbol of peace in many cultures.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডাভ ইজ এ সিম্বল অব পিস ইন মেনি কালচারস।"
+            },
+            "position": 5,
+            "synonyms": "representation, metaphor, imagery, allegory, sign, emblem",
+            "antonyms": "literal meaning, directness, explicitness, plainness, clarity, obviousness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতীকী অর্থ",
+                    "word_transliteration": "protiki ortho",
+                    "example_sentence_translation": "পায়রা অনেক সংস্কৃতিতে শান্তির প্রতীক।",
+                    "example_sentence_transliteration": "Payra onek sonskkritite shantir protik.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "legacy",
+            "phonetic": "ˈlɛɡəsi",
+            "word_native_transliteration": {
+                "bn": "লেগ্যাসি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏛️",
+            "meaning": "Something left or handed down by a predecessor; heritage or inheritance.",
+            "example_sentence": "His legacy continues to inspire generations.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ লেগ্যাসি কন্টিনিউস টু ইন্সপায়ার জেনারেশনস।"
+            },
+            "position": 6,
+            "synonyms": "inheritance, heritage, bequest, tradition, gift, endowment",
+            "antonyms": "oblivion, anonymity, insignificance, obscurity, forgetting, neglect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ঐতিহ্য",
+                    "word_transliteration": "oitihjo",
+                    "example_sentence_translation": "তার উত্তরাধিকার প্রজন্মের পর প্রজন্মকে অনুপ্রাণিত করতে থাকে।",
+                    "example_sentence_transliteration": "Tar uttarodhikar projomer por projomke onupranito korte thake.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pervasive",
+            "phonetic": "pərˈveɪsɪv",
+            "word_native_transliteration": {
+                "bn": "পেভেইসিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌐",
+            "meaning": "Spreading widely throughout an area or group; prevalent everywhere.",
+            "example_sentence": "The pervasive influence of technology shapes modern life.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য পেভেইসিভ ইনফ্লুয়েন্স অব টেকনোলজি শেইপস মডার্ন লাইফ।"
+            },
+            "position": 7,
+            "synonyms": "widespread, ubiquitous, prevalent, extensive, omnipresent, far-reaching",
+            "antonyms": "limited, restricted, confined, localized, isolated, contained",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ব্যাপক",
+                    "word_transliteration": "byapok",
+                    "example_sentence_translation": "প্রযুক্তির ব্যাপক প্রভাব আধুনিক জীবনকে গড়ে তোলে।",
+                    "example_sentence_transliteration": "Projuktir byapok prabhab adhunik jibonke gore tole.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "resilience",
+            "phonetic": "rɪˈzɪlɪəns",
+            "word_native_transliteration": {
+                "bn": "রেজিলিয়েন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "The ability to recover quickly from difficulties; toughness and endurance.",
+            "example_sentence": "Her resilience in overcoming challenges was remarkable.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার রেজিলিয়েন্স ইন ওভারকামিং চ্যালেঞ্জেস ওয়াস রিমার্কেবল।"
+            },
+            "position": 8,
+            "synonyms": "toughness, endurance, strength, durability, fortitude, tenacity",
+            "antonyms": "fragility, vulnerability, weakness, brittleness, delicacy, frailty",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্থিতিস্থাপকতা",
+                    "word_transliteration": "sthitisthapokota",
+                    "example_sentence_translation": "চ্যালেঞ্জগুলি কাটিয়ে উঠতে তার স্থিতিস্থাপকতা চমকপ্রদ ছিল।",
+                    "example_sentence_transliteration": "Challengeguli katiye uthte tar sthitisthapokota chomomkprod chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fortitude",
+            "phonetic": "ˈfɔːtɪtjuːd",
+            "word_native_transliteration": {
+                "bn": "ফোর্টিটিউড"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛡️",
+            "meaning": "Courage in pain or adversity; mental and emotional strength.",
+            "example_sentence": "He showed great fortitude during the crisis.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি শোড গ্রেট ফোর্টিটিউড ডিউরিং দ্য ক্রাইসিস।"
+            },
+            "position": 9,
+            "synonyms": "courage, strength, bravery, valor, determination, resolve",
+            "antonyms": "weakness, cowardice, timidity, fear, frailty, pusillanimity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ধৈর্য",
+                    "word_transliteration": "dhoirjo",
+                    "example_sentence_translation": "সঙ্কটের সময় সে অসাধারণ সাহস দেখিয়েছিল।",
+                    "example_sentence_transliteration": "Songkoter shomoy she oshadharon shahos dekhiyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "adversity",
+            "phonetic": "ædˈvɜːsəti",
+            "word_native_transliteration": {
+                "bn": "এডভারসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⛈️",
+            "meaning": "Difficulties or misfortune; a difficult or unpleasant situation.",
+            "example_sentence": "They overcame adversity and achieved their goals.",
+            "example_sentence_native_transliteration": {
+                "bn": "দে ওভারকেম এডভারসিটি অ্যান্ড অ্যাচিভড দেয়ার গোলস।"
+            },
+            "position": 10,
+            "synonyms": "hardship, misfortune, difficulty, trouble, challenge, setback",
+            "antonyms": "prosperity, success, fortune, advantage, ease, comfort",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দুঃখকষ্ট",
+                    "word_transliteration": "dukhokoshto",
+                    "example_sentence_translation": "তারা বিপদকে কাটিয়ে নিজেদের লক্ষ্য অর্জন করেছে।",
+                    "example_sentence_transliteration": "Tara bipoddoke katiye nijeder lokkho orjon korechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "transcend",
+            "phonetic": "trænˈsɛnd",
+            "word_native_transliteration": {
+                "bn": "ট্রানসেন্ড"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🚀",
+            "meaning": "To go beyond the range or limits of; to surpass or exceed.",
+            "example_sentence": "The athlete transcended all expectations with his performance.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যাথলেট ট্রানসেন্ডেড অল এক্সপেকটেশনস উইথ হিজ পারফরমেন্স।"
+            },
+            "position": 11,
+            "synonyms": "surpass, exceed, overcome, rise above, go beyond, outstrip",
+            "antonyms": "fall short, fail, succumb, surrender, yield, submit",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতিক্রম করা",
+                    "word_transliteration": "otikrom kora",
+                    "example_sentence_translation": "এথলেট তার পারফরম্যান্স দিয়ে সমস্ত প্রত্যাশাকে অতিক্রম করেছে।",
+                    "example_sentence_transliteration": "Athlete tar performance diye shomosto prottyashake otikrom koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ephemeral",
+            "phonetic": "ɪˈfɛmərəl",
+            "word_native_transliteration": {
+                "bn": "এফিমেরাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌸",
+            "meaning": "Lasting for a very short time; temporary or fleeting.",
+            "example_sentence": "The beauty of the sunset was ephemeral but breathtaking.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য বিউটি অব দ্য সানসেট ওয়াস এফিমেরাল বাট ব্রেথটেকিং।"
+            },
+            "position": 12,
+            "synonyms": "temporary, fleeting, brief, short-lived, transient, momentary",
+            "antonyms": "permanent, everlasting, enduring, lasting, eternal, persistent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অস্থায়ী",
+                    "word_transliteration": "osthayee",
+                    "example_sentence_translation": "সূর্যাস্তের সৌন্দর্য ক্ষণস্থায়ী ছিল কিন্তু মনোমুগ্ধকর ছিল।",
+                    "example_sentence_transliteration": "Shurjasher shoundorjo khonothayee chhilo kintu monomugdhkor chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "juxtaposition",
+            "phonetic": "ˌdʒʌkstəpəˈzɪʃən",
+            "word_native_transliteration": {
+                "bn": "জাক্সটাপজিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "The fact of two things being seen or placed close together with contrasting effect.",
+            "example_sentence": "The juxtaposition of old and new architecture was striking.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য জাক্সটাপজিশন অব ওল্ড অ্যান্ড নিউ আর্কিটেকচার ওয়াস স্ট্রাইকিং।"
+            },
+            "position": 13,
+            "synonyms": "contrast, comparison, opposition, placement, arrangement, positioning",
+            "antonyms": "separation, division, isolation, distance, disconnection, segregation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পাশাপাশি রাখা",
+                    "word_transliteration": "pashapashi rakha",
+                    "example_sentence_translation": "পুরনো এবং নতুন স্থাপত্যের তুলনা আকর্ষণীয় ছিল।",
+                    "example_sentence_transliteration": "Purono ebong notun stapotter tulona akorshoniyo chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "introspection",
+            "phonetic": "ˌɪntrəˈspɛkʃən",
+            "word_native_transliteration": {
+                "bn": "ইন্ট্রোস্পেকশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤔",
+            "meaning": "The examination or observation of one's own mental and emotional processes.",
+            "example_sentence": "After the failure, he engaged in deep introspection to understand the cause.",
+            "example_sentence_native_transliteration": {
+                "bn": "আফটার দ্য ফেইলিউর, হি এনগেজড ইন ডিপ ইন্ট্রোস্পেকশন টু আন্ডারস্ট্যান্ড দ্য কজ।"
+            },
+            "position": 14,
+            "synonyms": "self-reflection, self-examination, contemplation, meditation, soul-searching, rumination",
+            "antonyms": "external observation, superficiality, shallowness, ignorance, unawareness, thoughtlessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অন্তঃসত্য পরীক্ষা",
+                    "word_transliteration": "onthoshtyo porikka",
+                    "example_sentence_translation": "ব্যর্থতার পর, তিনি কারণ বুঝতে গভীর আত্মসমীক্ষা করেছিলেন।",
+                    "example_sentence_transliteration": "Byorthatar por, tini karon bujhte gobhir attomoshikka korechhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "reconciliation",
+            "phonetic": "ˌrɛkənsɪlɪˈeɪʃən",
+            "word_native_transliteration": {
+                "bn": "রেকনসিলিয়েশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "The restoration of friendly relations; the action of making one view compatible with another.",
+            "example_sentence": "The reconciliation between the two parties was a pivotal moment.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রেকনসিলিয়েশন বিটুইন দ্য টু পার্টিজ ওয়াস এ পিভোটাল মোমেন্ট।"
+            },
+            "position": 15,
+            "synonyms": "settlement, resolution, agreement, peace, harmony, accord",
+            "antonyms": "estrangement, disagreement, conflict, discord, hostility, division",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মীমাংসা",
+                    "word_transliteration": "mimangsha",
+                    "example_sentence_translation": "দুইদু পক্ষের মধ্যে মিলন একটি গুরুত্বপূর্ণ মুহূর্ত ছিল।",
+                    "example_sentence_transliteration": "Duidu pokkher moddhe milon ekti guruttoporno muhurto chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sanctity",
+            "phonetic": "ˈsæŋktɪti",
+            "word_native_transliteration": {
+                "bn": "স্যাঙ্কটিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🙏",
+            "meaning": "The state or quality of being holy, sacred, or saintly; ultimate importance.",
+            "example_sentence": "The sanctity of life should never be compromised.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্যাঙ্কটিটি অব লাইফ শুড নেভার বি কম্প্রোমাইজড।"
+            },
+            "position": 16,
+            "synonyms": "sacredness, holiness, purity, divinity, reverence, inviolability",
+            "antonyms": "profanity, impurity, desecration, corruption, violation, sacrilege",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পবিত্রতা",
+                    "word_transliteration": "pobitrata",
+                    "example_sentence_translation": "জীবনের পবিত্রতা কখনও কম্প্রোমাইজ করা উচিত নয়।",
+                    "example_sentence_transliteration": "Jiboner pobitrata kokhono compromise kora uchit noy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "zeal",
+            "phonetic": "ziːl",
+            "word_native_transliteration": {
+                "bn": "জিল"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔥",
+            "meaning": "Great energy or enthusiasm in pursuit of a cause or objective; passion.",
+            "example_sentence": "She approached the project with great zeal and determination.",
+            "example_sentence_native_transliteration": {
+                "bn": "শী অ্যাপ্রোচড দ্য প্রজেক্ট উইথ গ্রেট জিল অ্যান্ড ডিটারমিনেশন।"
+            },
+            "position": 17,
+            "synonyms": "passion, enthusiasm, fervor, ardor, dedication, devotion",
+            "antonyms": "apathy, indifference, lethargy, disinterest, coolness, detachment",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উৎসাহ",
+                    "word_transliteration": "utsaho",
+                    "example_sentence_translation": "সে প্রকল্পটি অত্যন্ত উৎসাহ ও দৃঢ়তার সাথে শুরু করেছিল।",
+                    "example_sentence_transliteration": "She prokalpoti ottyonto utsaho o dridhotar shathe shuru korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "tenacity",
+            "phonetic": "tɪˈnæsɪti",
+            "word_native_transliteration": {
+                "bn": "টেনাসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The quality or fact of being able to grip something firmly; persistence and determination.",
+            "example_sentence": "His tenacity helped him to overcome all the obstacles.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ টেনাসিটি হেল্পড হিম টু ওভারকাম অল দ্য অবস্ট্যাকেলস।"
+            },
+            "position": 18,
+            "synonyms": "persistence, determination, perseverance, resolve, steadfastness, doggedness",
+            "antonyms": "weakness, surrender, giving up, capitulation, abandonment, quitting",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অধ্যবসায়",
+                    "word_transliteration": "oddhyoboshay",
+                    "example_sentence_translation": "তার দৃঢ়তা তাকে সমস্ত প্রতিবন্ধকতা অতিক্রম করতে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Tar dridhota take shomosto protibondhokota otikrom korte shahajjo koreche.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

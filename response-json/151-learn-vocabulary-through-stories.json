@@ -1,0 +1,364 @@
+{
+    "position": 151,
+    "title_translation": {
+        "en": "Innovation Leadership Frameworks",
+        "bn": "Innovation Leadership Frameworks"
+    },
+    "content_translation": {
+        "en": "In today's **business world**, **innovation leadership** is a crucial concept that helps **organizations** achieve **growth** and **competitive advantage**. **Innovation Leadership Frameworks** are a set of **strategies** and **principles** that help **leaders** develop new ideas and guide **teams** in the right direction.\n\n1. **Vision and Strategy**\nThe first task of an **innovation leader** is to set a clear **vision** and **strategy**. **Leaders** set goals for their **team** and encourage creative thinking.\n\n2. **Collaboration** and Networking\n**Collaboration** is essential for **innovation**. Working with Cross-functional teams brings diverse perspectives and leads to better ideas. Networking allows for external insights.\n\n3. Risk-Taking and **Experimentation**\nRisk-taking is extremely important in **innovation**. Failure must be taken as a learning opportunity. New products and processes are created through **experimentation**.\n\n4. **Agility** and **Adaptability**\nIn a dynamic environment, **leaders** need **agility** and **adaptability**. The ability to adapt to change ensures sustainability.\n\n**Innovation leadership frameworks** make a **leader** skilled in **problem-solving** and **change management**, which is essential for **business success**.",
+        "bn": "আজকের **business world**-এ, **innovation leadership** একটি গুরুত্বপূর্ণ ধারণা, যা **organizations**-কে **growth** এবং **competitive advantage** অর্জনে সহায়তা করে। **Innovation Leadership Frameworks** এমন কিছু **strategies** এবং **principles** এর সমষ্টি, যা **leaders**-কে নতুন ধারণা **develop** করতে এবং **teams**-কে সঠিক পথে পরিচালনা করতে সাহায্য করে।\n\n1. **Vision** and **Strategy**\nএকজন **innovation leader** এর প্রথম কাজ হল clear **vision** এবং **strategy** নির্ধারণ করা। **Leaders** তাদের **team**-এর জন্য goals সেট করেন এবং creative thinking উৎসাহিত করেন।\n\n2. **Collaboration** and Networking\n**Innovation**-এর জন্য **collaboration** অপরিহার্য। Cross-functional teams তৈরি করে diverse perspectives নিয়ে কাজ করলে better ideas পাওয়া যায়। Networking-এর মাধ্যমে external insights গ্রহণ করা যায়।\n\n3. Risk-Taking and **Experimentation**\n**Innovation**-এ risk-taking অত্যন্ত গুরুত্বপূর্ণ। Failure-কে learning opportunity হিসেবে নিতে হয়। **Experimentation**-এর মাধ্যমে new products এবং processes তৈরি হয়।\n\n4. **Agility** and **Adaptability**\nএকটি dynamic environment-এ **leaders**-দের **agility** এবং **adaptability** প্রয়োজন। পরিবর্তনের সাথে adapt করার ক্ষমতা sustainability নিশ্চিত করে।\n\n**Innovation leadership frameworks** একজন **leader**-কে **problem-solving** এবং **change management**-এ দক্ষ করে তোলে, যা **business success** এর জন্য অপরিহার্য।"
+    },
+    "list": [
+        {
+            "word": "innovation",
+            "phonetic": "/ˌɪnəˈveɪʃən/",
+            "word_native_transliteration": {
+                "bn": "ইনোভেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💡",
+            "meaning": "The action or process of innovating; a new method, idea, product, etc.",
+            "example_sentence": "Innovation drives business growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনোভেশন ড্রাইভস বিজনেস গ্রোথ।"
+            },
+            "position": 1,
+            "synonyms": "novelty, invention, creativity, modernization, development, breakthrough",
+            "antonyms": "stagnation, imitation, tradition, conservatism, conformity, replication",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্ভাবন",
+                    "word_transliteration": "uddhaban",
+                    "example_sentence_translation": "উদ্ভাবন ব্যবসার বৃদ্ধি চালিত করে।",
+                    "example_sentence_transliteration": "Uddhaban byabashar briddhi chalit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "leadership",
+            "phonetic": "/ˈliːdərʃɪp/",
+            "word_native_transliteration": {
+                "bn": "লিডারশিপ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👨‍💼",
+            "meaning": "The action of leading a group of people or an organization.",
+            "example_sentence": "Strong leadership ensures team success.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্ট্রং লিডারশিপ এনশিউরস টিম সাকসেস।"
+            },
+            "position": 2,
+            "synonyms": "guidance, direction, management, command, authority, supervision",
+            "antonyms": "followership, subordination, compliance, submission, obedience, passivity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নেতৃত্ব",
+                    "word_transliteration": "netritho",
+                    "example_sentence_translation": "শক্তিশালী নেতৃত্ব দলগত সফলতা নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Shoktishali netritho dolgoto shoflota nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "framework",
+            "phonetic": "/ˈfreɪmˌwɜːrk/",
+            "word_native_transliteration": {
+                "bn": "ফ্রেমওয়ার্ক"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏗️",
+            "meaning": "A basic structure underlying a system, concept, or text.",
+            "example_sentence": "The framework helps structure the process.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফ্রেমওয়ার্ক হেল্পস স্ট্রাকচার দ্য প্রসেস।"
+            },
+            "position": 3,
+            "synonyms": "structure, system, skeleton, foundation, outline, blueprint",
+            "antonyms": "chaos, disorganization, disorder, confusion, randomness, anarchy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কাঠামো",
+                    "word_transliteration": "kathamo",
+                    "example_sentence_translation": "কাঠামো প্রক্রিয়াকে সংগঠিত করতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Kathamo prokriyake shonggothito korte shahayyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "strategy",
+            "phonetic": "/ˈstrætɪdʒi/",
+            "word_native_transliteration": {
+                "bn": "স্ট্র্যাটেজি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "A plan of action designed to achieve a long-term or overall aim.",
+            "example_sentence": "Strategy guides long-term business growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্ট্র্যাটেজি গাইডস লং-টার্ম বিজনেস গ্রোথ।"
+            },
+            "position": 4,
+            "synonyms": "plan, approach, method, scheme, blueprint, roadmap",
+            "antonyms": "tactics, spontaneity, improvisation, randomness, disorder, chaos",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কৌশল",
+                    "word_transliteration": "koushol",
+                    "example_sentence_translation": "কৌশল দীর্ঘমেয়াদী ব্যবসার বৃদ্ধির নির্দেশ দেয়।",
+                    "example_sentence_transliteration": "Koushol dirghomeyadi byabashar briddhir nirdesho deyo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "principle",
+            "phonetic": "/ˈprɪnsɪpl/",
+            "word_native_transliteration": {
+                "bn": "প্রিন্সিপল"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📏",
+            "meaning": "A fundamental truth or proposition that serves as the foundation for a system of belief or behavior.",
+            "example_sentence": "Honesty is a key principle of leadership.",
+            "example_sentence_native_transliteration": {
+                "bn": "অনেস্টি ইজ আ কী প্রিন্সিপল অফ লিডারশিপ।"
+            },
+            "position": 5,
+            "synonyms": "rule, guideline, standard, doctrine, tenet, maxim",
+            "antonyms": "exception, deviation, violation, breach, departure, anomaly",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নীতি",
+                    "word_transliteration": "niti",
+                    "example_sentence_translation": "সততা নেতৃত্বের একটি মূল নীতি।",
+                    "example_sentence_transliteration": "Shottota netritther ekti mul niti.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "vision",
+            "phonetic": "/ˈvɪʒən/",
+            "word_native_transliteration": {
+                "bn": "ভিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👁️",
+            "meaning": "The ability to think about or plan the future with imagination or wisdom.",
+            "example_sentence": "A strong vision drives successful innovation.",
+            "example_sentence_native_transliteration": {
+                "bn": "আ স্ট্রং ভিশন ড্রাইভস সাকসেসফুল ইনোভেশন।"
+            },
+            "position": 6,
+            "synonyms": "foresight, insight, perception, imagination, dream, aspiration",
+            "antonyms": "blindness, myopia, shortsightedness, ignorance, oversight, tunnel vision",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দৃষ্টিভঙ্গি",
+                    "word_transliteration": "drishtibhongi",
+                    "example_sentence_translation": "একটি শক্তিশালী দৃষ্টিভঙ্গি সফল উদ্ভাবনকে চালিত করে।",
+                    "example_sentence_transliteration": "Ekti shoktishali drishtibhongi shofol uddhabanke chalit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "collaboration",
+            "phonetic": "/kəˈlæbəˈreɪʃən/",
+            "word_native_transliteration": {
+                "bn": "কল্যাবোরেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "The action of working with someone to produce or create something.",
+            "example_sentence": "Collaboration leads to better innovation.",
+            "example_sentence_native_transliteration": {
+                "bn": "কল্যাবোরেশন লিডস টু বেটার ইনোভেশন।"
+            },
+            "position": 7,
+            "synonyms": "cooperation, partnership, teamwork, alliance, joint effort, coordination",
+            "antonyms": "isolation, competition, rivalry, independence, separation, discord",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহযোগিতা",
+                    "word_transliteration": "shohyogita",
+                    "example_sentence_translation": "সহযোগিতা উন্নত উদ্ভাবনের দিকে পরিচালিত করে।",
+                    "example_sentence_transliteration": "Shohyogita unnoto uddhaboner dike porichalit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "experimentation",
+            "phonetic": "/ɪkˌsperɪˈmɛnteɪʃən/",
+            "word_native_transliteration": {
+                "bn": "এক্সপেরিমেন্টেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔬",
+            "meaning": "The process of performing a scientific procedure to make a discovery, test a hypothesis, or demonstrate a known fact.",
+            "example_sentence": "Experimentation leads to groundbreaking products.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সপেরিমেন্টেশন লিডস টু গ্রাউন্ডব্রেকিং প্রোডাক্টস।"
+            },
+            "position": 8,
+            "synonyms": "testing, trial, investigation, research, exploration, analysis",
+            "antonyms": "routine, habitual action, conformity, tradition, repetition, standardization",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরীক্ষা",
+                    "word_transliteration": "porikha",
+                    "example_sentence_translation": "পরীক্ষা যুগান্তকারী পণ্য তৈরিতে সহায়তা করে।",
+                    "example_sentence_transliteration": "Porikha yugantokari ponyo toirite shohayota kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "agility",
+            "phonetic": "/əˈdʒɪləti/",
+            "word_native_transliteration": {
+                "bn": "অ্যাজিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏃",
+            "meaning": "Ability to move quickly and easily; nimbleness in thinking and understanding.",
+            "example_sentence": "Agility allows companies to adapt quickly.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাজিলিটি অ্যালাউস কোম্পানিজ টু অ্যাডাপ্ট কুইকলি।"
+            },
+            "position": 9,
+            "synonyms": "nimbleness, flexibility, quickness, dexterity, adaptability, responsiveness",
+            "antonyms": "rigidity, stiffness, inflexibility, slowness, clumsiness, inertia",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নমনীয়তা",
+                    "word_transliteration": "nomoniota",
+                    "example_sentence_translation": "নমনীয়তা কোম্পানিগুলোকে দ্রুত মানিয়ে নিতে সক্ষম করে।",
+                    "example_sentence_transliteration": "Nomoniota companiguloke druto maniye nite shokkho kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "adaptability",
+            "phonetic": "/əˌdæptəˈbɪləti/",
+            "word_native_transliteration": {
+                "bn": "অ্যাডাপটাবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌿",
+            "meaning": "The quality of being able to adjust to new conditions or circumstances.",
+            "example_sentence": "Adaptability is essential in a changing market.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাডাপটাবিলিটি ইজ এসেনশিয়াল ইন আ চেঞ্জিং মার্কেট।"
+            },
+            "position": 10,
+            "synonyms": "flexibility, versatility, adjustability, resilience, malleability, plasticity",
+            "antonyms": "rigidity, inflexibility, stubbornness, immutability, resistance, fixedness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অভিযোজনযোগ্যতা, মানিয়ে নেওয়ার ক্ষমতা",
+                    "word_transliteration": "abhiyojonyogota, maniye neoar kkhomota",
+                    "example_sentence_translation": "পরিবর্তনশীল বাজারে অভিযোজনযোগ্যতা অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Poribortenshil bajare abhiyojonyogota ottonto gurutopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "problem-solving",
+            "phonetic": "/ˈprɒbləm ˈsɒlvɪŋ/",
+            "word_native_transliteration": {
+                "bn": "প্রব্লেম-সলভিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧩",
+            "meaning": "The process of finding solutions to difficult or complex issues.",
+            "example_sentence": "Problem-solving skills are key to leadership.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রব্লেম-সলভিং স্কিলস আর কী টু লিডারশিপ।"
+            },
+            "position": 11,
+            "synonyms": "troubleshooting, resolution, analysis, solution-finding, debugging, fixing",
+            "antonyms": "problem-making, avoidance, ignorance, neglect, procrastination, denial",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সমস্যা সমাধান",
+                    "word_transliteration": "shomoshya shomadhan",
+                    "example_sentence_translation": "সমস্যা সমাধানের দক্ষতা নেতৃত্বের জন্য গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Shomoshya somadahaner dokkhota netritther jonno gurutopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "change management",
+            "phonetic": "/ˈʃeɪndʒ ˈmænɪdʒmənt/",
+            "word_native_transliteration": {
+                "bn": "চেঞ্জ ম্যানেজমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The discipline that guides how we prepare, equip and support individuals, teams and organizations in making organizational change.",
+            "example_sentence": "Change management ensures smooth transitions.",
+            "example_sentence_native_transliteration": {
+                "bn": "চেঞ্জ ম্যানেজমেন্ট এনশিউরস স্মুথ ট্রানজিশনস।"
+            },
+            "position": 12,
+            "synonyms": "transition management, transformation, reorganization, adaptation, evolution, reform",
+            "antonyms": "resistance to change, stagnation, status quo, inertia, rigidity, conservatism",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিবর্তন ব্যবস্থাপনা",
+                    "word_transliteration": "poribortron byabosthapona",
+                    "example_sentence_translation": "পরিবর্তন ব্যবস্থাপনা মসৃণ রূপান্তর নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Poribortron byabosthapona moshrun rupantor nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "business success",
+            "phonetic": "/bɪzˈnɛs sʌˈsɛs/",
+            "word_native_transliteration": {
+                "bn": "বিজনেস সাকসেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "The achievement of desired outcomes in business operations, typically measured by profitability, growth, and sustainability.",
+            "example_sentence": "Innovation drives business success.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনোভেশন ড্রাইভস বিজনেস সাকসেস।"
+            },
+            "position": 13,
+            "synonyms": "profitability, prosperity, achievement, growth, triumph, accomplishment",
+            "antonyms": "business failure, loss, bankruptcy, decline, setback, collapse",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ব্যবসায়িক সফলতা",
+                    "word_transliteration": "byabosayik shoflota",
+                    "example_sentence_translation": "উদ্ভাবন ব্যবসার সফলতা চালিত করে।",
+                    "example_sentence_transliteration": "Uddhaban byabashar shoflota chalit kore.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

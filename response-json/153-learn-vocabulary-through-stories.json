@@ -1,0 +1,661 @@
+{
+    "position": 153,
+    "title_translation": {
+        "en": "Largest Oceans and Their Importance",
+        "bn": "বিশ্বের সবচেয়ে বড় মহাসাগরগুলো এবং তাদের গুরুত্ব"
+    },
+    "content_translation": {
+        "en": "Among the world's largest **oceans**, the **abyssal** zones are the most **mysterious**. **Sunlight** does not reach here, and strange **biodiversity** is observed in the **deep sea's** **pelagic** layers. The **Pacific Ocean** is the largest and contains countless **archipelagos**, which are unique examples of natural beauty.\n\nThe **bathymetry** analysis of these **oceans** shows that the **salinity** and **thermocline** layers in deep waters are highly variable. **Tectonic** plate movements create **subduction**, which results in **earthquakes** and **volcanic eruptions**.\n\nThe **upwelling** and **gyre** currents of the **ocean** help maintain **maritime biodiversity**. However, **anthropogenic** effects such as **pollution** and **eutrophication** are causing severe damage to this environment.\n\nThe largest **oceans** are not just water bodies, but are essential for our **weather**, **maritime** transport, and **biodiversity**. Therefore, their **conservation** is our responsibility.",
+        "bn": "বিশ্বের সবচেয়ে বড় মহাসাগরগুলোর মধ্যে **abyssal** অঞ্চলগুলো সবথেকে রহস্যময়। এখানে সূর্যের আলো পৌঁছায় না, এবং গভীর সমুদ্রের **pelagic** স্তরে অদ্ভুত জীববৈচিত্র্য দেখা যায়। প্রশান্ত মহাসাগর সবচেয়ে বড় এবং এতে রয়েছে অসংখ্য **archipelago**, যা প্রাকৃতিক সৌন্দর্যের এক অনন্য নিদর্শন।\n\nএই মহাসাগরগুলোর **bathymetry** বিশ্লেষণ করলে দেখা যায় যে গভীর জলের **salinity** এবং **thermocline** স্তর অনেক পরিবর্তনশীল। **Tectonic** প্লেটগুলোর নড়াচড়া **subduction** সৃষ্টি করে, যার ফলে ভূমিকম্প এবং আগ্নেয়গিরির বিস্ফোরণ হয়।\n\nমহাসাগরের **upwelling** এবং **gyre** ধারা সামুদ্রিক **biodiversity** বজায় রাখতে সাহায্য করে। তবে, **anthropogenic** প্রভাব যেমন দূষণ এবং **eutrophication**, এই পরিবেশের উপর মারাত্মক ক্ষতি করছে।\n\nবৃহত্তম মহাসাগরগুলো শুধু জলরাশি নয়, এটি আমাদের আবহাওয়া, **maritime** পরিবহন, এবং জীববৈচিত্র্যের জন্য অপরিহার্য। তাই এর সংরক্ষণ আমাদের দায়িত্ব।"
+    },
+    "list": [
+        {
+            "word": "abyssal",
+            "phonetic": "/əˈbɪs.əl/",
+            "word_native_transliteration": {
+                "bn": "অ্যাবিসাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌊",
+            "meaning": "Related to or characteristic of the deep ocean, especially the zone below 4000 meters.",
+            "example_sentence": "Abyssal creatures survive in extreme pressure conditions.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাবিসাল ক্রিচারস সারভাইভ ইন এক্সট্রিম প্রেশার কন্ডিশনস।"
+            },
+            "position": 1,
+            "synonyms": "deep-sea, profound, bottomless",
+            "antonyms": "shallow, surface-level, elevated",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতল, গভীর সমুদ্র সংক্রান্ত",
+                    "word_transliteration": "otol, gobhir shomudro shongkranto",
+                    "example_sentence_translation": "অতল প্রাণীগুলো চরম চাপের পরিবেশে বেঁচে থাকে।",
+                    "example_sentence_transliteration": "Otol pranigulo chorom chaper poribeshey beche thake.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ocean",
+            "phonetic": "/ˈoʊ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ওশান"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌊",
+            "meaning": "A very large expanse of sea, especially the main areas of sea between continents.",
+            "example_sentence": "The ocean covers more than 70% of the Earth's surface.",
+            "example_sentence_native_transliteration": {
+                "bn": "দি ওশান কভারস মোর দ্যান সেভেন্টি পারসেন্ট অফ দি আর্থস সারফেস।"
+            },
+            "position": 2,
+            "synonyms": "sea, marine body, waters",
+            "antonyms": "land, desert, continent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মহাসাগর, সমুদ্র",
+                    "word_transliteration": "mohashagor, shomudro",
+                    "example_sentence_translation": "মহাসাগর পৃথিবীর ৭০% এর বেশি অংশ জুড়ে রয়েছে।",
+                    "example_sentence_transliteration": "Mohashagor prithibir 70% er beshi angshho jure royeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "mysterious",
+            "phonetic": "/mɪˈstɪə.ri.əs/",
+            "word_native_transliteration": {
+                "bn": "মিস্টিরিয়াস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "❓",
+            "meaning": "Difficult or impossible to understand, explain, or identify.",
+            "example_sentence": "The deep sea remains one of the most mysterious places on Earth.",
+            "example_sentence_native_transliteration": {
+                "bn": "দি ডিপ সি রিমেইনস ওয়ান অফ দি মোস্ট মিস্টিরিয়াস প্লেসেস অন আর্থ।"
+            },
+            "position": 3,
+            "synonyms": "enigmatic, cryptic, unknown",
+            "antonyms": "obvious, clear, transparent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রহস্যময়, গোপন",
+                    "word_transliteration": "rohoshshomoy, gopon",
+                    "example_sentence_translation": "গভীর সমুদ্র পৃথিবীর সবচেয়ে রহস্যময় স্থানগুলোর মধ্যে একটি।",
+                    "example_sentence_transliteration": "Gobhir shomudro prithibir shobcheye rohoshshomoy sthangulor moddhe ekti.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sunlight",
+            "phonetic": "/ˈsʌn.laɪt/",
+            "word_native_transliteration": {
+                "bn": "সানলাইট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "☀️",
+            "meaning": "Direct light from the sun.",
+            "example_sentence": "Sunlight does not reach the abyssal depths of the ocean.",
+            "example_sentence_native_transliteration": {
+                "bn": "সানলাইট ডাজ নট রিচ দি অ্যাবিসাল ডেপথস অফ দি ওশান।"
+            },
+            "position": 4,
+            "synonyms": "sun rays, natural light, solar glow",
+            "antonyms": "darkness, shadow, night",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সূর্যালোক, রোদ",
+                    "word_transliteration": "shurjaloк, rod",
+                    "example_sentence_translation": "সূর্যের আলো মহাসাগরের অতল গভীরে পৌঁছায় না।",
+                    "example_sentence_transliteration": "Shurjer alo mohashagorer otol gobhire pouchay na.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "deep sea",
+            "phonetic": "/diːp siː/",
+            "word_native_transliteration": {
+                "bn": "ডিপ সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌊",
+            "meaning": "The deep parts of the sea or ocean, typically beyond the continental shelf.",
+            "example_sentence": "Many deep-sea creatures produce bioluminescence for survival.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেনি ডিপ সি ক্রিচারস প্রোডিউস বায়োলুমিনেসেন্স ফর সারভাইভাল।"
+            },
+            "position": 5,
+            "synonyms": "abyss, open ocean, hadal zone",
+            "antonyms": "shallow waters, shore, coastline",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গভীর সমুদ্র",
+                    "word_transliteration": "gobhir shomudro",
+                    "example_sentence_translation": "অনেক গভীর সমুদ্রের প্রাণী বেঁচে থাকার জন্য জৈব আলোক উৎপন্ন করে।",
+                    "example_sentence_transliteration": "Onek gobhir shumdrer prani beche thakar jonno joibo alok utponno kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pelagic",
+            "phonetic": "/pəˈlædʒ.ɪk/",
+            "word_native_transliteration": {
+                "bn": "পেলাজিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🐟",
+            "meaning": "Relating to the open sea or ocean water column, away from the shore.",
+            "example_sentence": "Pelagic fish like tuna are found far from the coast.",
+            "example_sentence_native_transliteration": {
+                "bn": "পেলাজিক ফিশ লাইক টুনা আর ফাউন্ড ফার ফ্রম দি কোস্ট।"
+            },
+            "position": 6,
+            "synonyms": "open-sea, marine, oceanic",
+            "antonyms": "coastal, inland, littoral",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মুক্ত সমুদ্র সংক্রান্ত",
+                    "word_transliteration": "mukto shomudro shongkranto",
+                    "example_sentence_translation": "টুনার মতো পেলাজিক মাছ উপকূল থেকে অনেক দূরে পাওয়া যায়।",
+                    "example_sentence_transliteration": "Tunar moto pelajik mach upokul theke onek dure paoya jay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "biodiversity",
+            "phonetic": "/ˌbaɪ.oʊ.dɪˈvɝː.sə.t̬i/",
+            "word_native_transliteration": {
+                "bn": "বায়োডাইভারসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌿",
+            "meaning": "The variety of plant and animal life in the world or in a particular habitat.",
+            "example_sentence": "The coral reefs support immense marine biodiversity.",
+            "example_sentence_native_transliteration": {
+                "bn": "দি কোরাল রিফস সাপোর্ট ইমেন্স মেরিন বায়োডাইভারসিটি।"
+            },
+            "position": 7,
+            "synonyms": "variety, ecosystem richness, biological diversity",
+            "antonyms": "homogeneity, uniformity, similarity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জীববৈচিত্র্য",
+                    "word_transliteration": "jibbobichitro",
+                    "example_sentence_translation": "প্রবালপ্রাচীর বিশাল সামুদ্রিক জীববৈচিত্র্যকে সমর্থন করে।",
+                    "example_sentence_transliteration": "Probalprachusr bishal shamudrik jibbobichitroке shomorthon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Pacific Ocean",
+            "phonetic": "/pəˈsɪf.ɪk ˈoʊ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "প্যাসিফিক ওশান"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌊",
+            "meaning": "The largest and deepest ocean on Earth, stretching from Asia to the Americas.",
+            "example_sentence": "The Pacific Ocean is the largest ocean on Earth.",
+            "example_sentence_native_transliteration": {
+                "bn": "দি প্যাসিফিক ওশান ইজ দি লার্জেস্ট ওশান অন আর্থ।"
+            },
+            "position": 8,
+            "synonyms": "the Pacific, great ocean, Pacific waters",
+            "antonyms": "Atlantic Ocean, Indian Ocean, Arctic Ocean",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রশান্ত মহাসাগর",
+                    "word_transliteration": "proshanto mohashagor",
+                    "example_sentence_translation": "প্রশান্ত মহাসাগর পৃথিবীর বৃহত্তম মহাসাগর।",
+                    "example_sentence_transliteration": "Proshanto mohashagor prithibir brihotom mohashagor.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "archipelago",
+            "phonetic": "/ˌɑːr.kəˈpɛl.əˌɡoʊ/",
+            "word_native_transliteration": {
+                "bn": "আর্কিপেলাগো"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏝️",
+            "meaning": "A group of islands clustered together in a body of water.",
+            "example_sentence": "Indonesia is an archipelago with thousands of islands.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইন্দোনেশিয়া ইজ অ্যান আর্কিপেলাগো উইথ থাউজ্যান্ডস অফ আইল্যান্ডস।"
+            },
+            "position": 9,
+            "synonyms": "island chain, isles, atoll",
+            "antonyms": "mainland, continent, peninsula",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্বীপমালা",
+                    "word_transliteration": "dhipmala",
+                    "example_sentence_translation": "ইন্দোনেশিয়া হাজার হাজার দ্বীপ নিয়ে গঠিত একটি দ্বীপমালা।",
+                    "example_sentence_transliteration": "Indonesia hajar hajar dhip niye gothit ekti dhipmala.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "bathymetry",
+            "phonetic": "/bəˈθɪm.ə.tri/",
+            "word_native_transliteration": {
+                "bn": "ব্যাথিমেট্রি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "The measurement of depth of water in oceans, seas, or lakes.",
+            "example_sentence": "Bathymetry is essential for understanding oceanic topography.",
+            "example_sentence_native_transliteration": {
+                "bn": "ব্যাথিমেট্রি ইজ এসেন্শিয়াল ফর আন্ডারস্ট্যান্ডিং ওশেনিক টোপোগ্রাফি।"
+            },
+            "position": 10,
+            "synonyms": "ocean depth study, seafloor mapping, hydrography",
+            "antonyms": "land survey, topography, elevation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সমুদ্রের গভীরতা পরিমাপক বিদ্যা",
+                    "word_transliteration": "shumdrer gobhirota porimap bidhya",
+                    "example_sentence_translation": "সমুদ্রের ভূপ্রকৃতি বোঝার জন্য ব্যাথিমেট্রি অপরিহার্য।",
+                    "example_sentence_transliteration": "Shumdrer bhuprokriti bojhar jonno bathymetry oporisharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "salinity",
+            "phonetic": "/səˈlɪn.ə.t̬i/",
+            "word_native_transliteration": {
+                "bn": "সালিনিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧂",
+            "meaning": "The salt content of soil or water, typically measured as a concentration.",
+            "example_sentence": "The salinity of the ocean varies depending on depth and location.",
+            "example_sentence_native_transliteration": {
+                "bn": "দি সালিনিটি অফ দি ওশান ভ্যারিজ ডিপেন্ডিং অন ডেপথ অ্যান্ড লোকেশন।"
+            },
+            "position": 11,
+            "synonyms": "salt concentration, brininess, saltiness",
+            "antonyms": "freshness, purity, soft water",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "লবণাক্ততা, লবণের ঘনত্ব",
+                    "word_transliteration": "lobonakto, loboner ghontho",
+                    "example_sentence_translation": "মহাসাগরের লবণাক্ততা গভীরতা ও অবস্থানের উপর নির্ভর করে পরিবর্তিত হয়।",
+                    "example_sentence_transliteration": "Mohashagorer lobonakto gobhirota o obosthaner upor nirbhor kore poribortito hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "thermocline",
+            "phonetic": "/ˈθɝː.moʊ.klaɪn/",
+            "word_native_transliteration": {
+                "bn": "থার্মোক্লাইন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌡️",
+            "meaning": "A layer in a body of water in which temperature changes rapidly with depth.",
+            "example_sentence": "The thermocline separates warm surface water from cold deep water.",
+            "example_sentence_native_transliteration": {
+                "bn": "দি থার্মোক্লাইন সেপারেটস ওয়ার্ম সারফেস ওয়াটার ফ্রম কোল্ড ডিপ ওয়াটার।"
+            },
+            "position": 12,
+            "synonyms": "temperature gradient, thermal layer, oceanic boundary",
+            "antonyms": "uniform temperature, surface layer, constant warmth",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সামুদ্রিক তাপমাত্রার স্তর",
+                    "word_transliteration": "shamudrik tapmatrar stor",
+                    "example_sentence_translation": "থার্মোক্লাইন উষ্ণ পৃষ্ঠের পানি ও ঠান্ডা গভীর পানির মধ্যে বিভাজন তৈরি করে।",
+                    "example_sentence_transliteration": "Thermocline ushno prishtther pani o thanda gobhir panir moddhe bibhajon toiri kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "tectonic",
+            "phonetic": "/tɛkˈtɑː.nɪk/",
+            "word_native_transliteration": {
+                "bn": "টেকটনিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌍",
+            "meaning": "Relating to the structure of the earth's crust and the large-scale processes that take place within it.",
+            "example_sentence": "Tectonic movements cause earthquakes and mountain formation.",
+            "example_sentence_native_transliteration": {
+                "bn": "টেকটনিক মুভমেন্টস কজ আর্থকোয়েকস অ্যান্ড মাউন্টেইন ফরমেশন।"
+            },
+            "position": 13,
+            "synonyms": "geological, structural, seismic",
+            "antonyms": "stable, fixed, unmoving",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভূত্বকীয়, ভূপৃষ্ঠ সংক্রান্ত",
+                    "word_transliteration": "bhutwokio, bhuprishtho shongkranto",
+                    "example_sentence_translation": "টেকটনিক গতিবিধি ভূমিকম্প ও পর্বত গঠনের কারণ হয়।",
+                    "example_sentence_transliteration": "Tectonic gotibidhii bhumikompо о porboto gothoner karon hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "subduction",
+            "phonetic": "/səbˈdʌk.ʃən/",
+            "word_native_transliteration": {
+                "bn": "সাবডাকশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⛰️",
+            "meaning": "The lateral and downward movement of the edge of a plate of the earth's crust into the mantle beneath another plate.",
+            "example_sentence": "The Pacific Ring of Fire is an area of intense subduction.",
+            "example_sentence_native_transliteration": {
+                "bn": "দি প্যাসিফিক রিং অফ ফায়ার ইজ অ্যান এরিয়া অফ ইন্টেন্স সাবডাকশন।"
+            },
+            "position": 14,
+            "synonyms": "plate sinking, crustal movement, earth compression",
+            "antonyms": "uplift, emergence, surface expansion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভূত্বকের এক স্তর আরেকটির নিচে চলে যাওয়া",
+                    "word_transliteration": "bhutwоker ek stor arekotir niche chole jaoya",
+                    "example_sentence_translation": "প্রশান্ত মহাসাগরের রিং অফ ফায়ার এলাকায় প্রবল সাবডাকশন ঘটে।",
+                    "example_sentence_transliteration": "Proshanto mohashagorer ring of fire elakay probol subduction ghote.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "earthquake",
+            "phonetic": "/ˈɝːθ.kweɪk/",
+            "word_native_transliteration": {
+                "bn": "আর্থকোয়েক"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌀",
+            "meaning": "A sudden and violent shaking of the ground as a result of movements within the earth's crust.",
+            "example_sentence": "A powerful earthquake struck Japan last night.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ পাওয়ারফুল আর্থকোয়েক স্ট্রাক জাপান লাস্ট নাইট।"
+            },
+            "position": 15,
+            "synonyms": "tremor, seismic activity, shockwave",
+            "antonyms": "stability, stillness, motionlessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভূমিকম্প, কম্পন",
+                    "word_transliteration": "bhumikompо, kоmpоn",
+                    "example_sentence_translation": "গত রাতে জাপানে শক্তিশালী ভূমিকম্প আঘাত হানে।",
+                    "example_sentence_transliteration": "Goto rate japane shоktishali bhumikоmpо aghat hane.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "volcanic eruption",
+            "phonetic": "/vɒlˈkæn.ɪk ɪˈrʌp.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ভলকানিক ইরাপশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌋",
+            "meaning": "The discharge of lava, ash, and gases from a volcano.",
+            "example_sentence": "The volcanic eruption covered the town in ash.",
+            "example_sentence_native_transliteration": {
+                "bn": "দি ভলকানিক ইরাপশন কভার্ড দি টাউন ইন অ্যাশ।"
+            },
+            "position": 16,
+            "synonyms": "lava explosion, magma discharge, volcanism",
+            "antonyms": "dormancy, inactivity, extinct volcano",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আগ্নেয়গিরির অগ্ন্যুৎপাত",
+                    "word_transliteration": "agneyogirir оgnuttopat",
+                    "example_sentence_translation": "আগ্নেয়গিরির অগ্ন্যুৎপাত শহরটিকে ছাইয়ে ঢেকে দেয়।",
+                    "example_sentence_transliteration": "Agneyogirir оgnuttopat shohrotiке chaye dheke dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "upwelling",
+            "phonetic": "/ˈʌp.wel.ɪŋ/",
+            "word_native_transliteration": {
+                "bn": "আপওয়েলিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "↗️",
+            "meaning": "An oceanographic phenomenon that involves wind-driven motion of dense, cooler, and nutrient-rich water towards the ocean surface.",
+            "example_sentence": "Upwelling brings nutrients to the ocean surface.",
+            "example_sentence_native_transliteration": {
+                "bn": "আপওয়েলিং ব্রিংস নিউট্রিয়েন্টস টু দি ওশান সারফেস।"
+            },
+            "position": 17,
+            "synonyms": "oceanic rising, nutrient flow, seawater circulation",
+            "antonyms": "downwelling, stagnation, retention",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গভীর সমুদ্রের ঠান্ডা পানি উপরে উঠে আসা",
+                    "word_transliteration": "gobhir shumdrer thanda pani upore uthe asha",
+                    "example_sentence_translation": "আপওয়েলিং সমুদ্রের পৃষ্ঠে পুষ্টি উপাদান সরবরাহ করে।",
+                    "example_sentence_transliteration": "Upwelling shumdrer prishtthe pushti upadan shorboorah kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "gyre",
+            "phonetic": "/ˈdʒaɪər/",
+            "word_native_transliteration": {
+                "bn": "জাইয়ার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌀",
+            "meaning": "A circular or spiral motion or form, especially a giant circular oceanic surface current.",
+            "example_sentence": "The Great Pacific Garbage Patch is trapped in a gyre.",
+            "example_sentence_native_transliteration": {
+                "bn": "দি গ্রেট প্যাসিফিক গারবেজ প্যাচ ইজ ট্র্যাপড ইন এ জাইয়ার।"
+            },
+            "position": 18,
+            "synonyms": "ocean current, vortex, whirlpool",
+            "antonyms": "still water, stagnation, immobility",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মহাসাগরীয় ঘূর্ণি, বিশাল জলীয় প্রবাহ",
+                    "word_transliteration": "mohashagorio ghurni, bishal jolio probaho",
+                    "example_sentence_translation": "প্রশান্ত মহাসাগরের বিশাল আবর্জনার স্তূপ একটি ঘূর্ণিতে আটকে আছে।",
+                    "example_sentence_transliteration": "Proshanto mohashagorer bishal abоrjonar stup ekti ghurnite atke ache.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "anthropogenic",
+            "phonetic": "/ˌæn.θrə.pəˈdʒen.ɪk/",
+            "word_native_transliteration": {
+                "bn": "অ্যানথ্রোপোজেনিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🏭",
+            "meaning": "Originating in human activity; caused by humans.",
+            "example_sentence": "Climate change is largely due to anthropogenic activities.",
+            "example_sentence_native_transliteration": {
+                "bn": "ক্লাইমেট চেইঞ্জ ইজ লার্জলি ডিউ টু অ্যানথ্রোপোজেনিক অ্যাক্টিভিটিজ।"
+            },
+            "position": 19,
+            "synonyms": "human-induced, man-made, industrial",
+            "antonyms": "natural, organic, biogenic",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মানবসৃষ্ট, মানুষের কারণে ঘটিত",
+                    "word_transliteration": "manobshrishto, manusher karone ghotito",
+                    "example_sentence_translation": "জলবায়ু পরিবর্তন মূলত মানবসৃষ্ট কর্মকাণ্ডের ফলে ঘটছে।",
+                    "example_sentence_transliteration": "Jolbayu poribоrton muloto manobshrishto kоrmokander fоle ghotche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pollution",
+            "phonetic": "/pəˈluː.ʃən/",
+            "word_native_transliteration": {
+                "bn": "পলিউশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "☠️",
+            "meaning": "The presence in or introduction into the environment of a substance which has harmful or poisonous effects.",
+            "example_sentence": "Industrial pollution harms marine life.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইন্ডাস্ট্রিয়াল পলিউশন হার্মস মেরিন লাইফ।"
+            },
+            "position": 20,
+            "synonyms": "contamination, degradation, toxification",
+            "antonyms": "purification, cleanliness, preservation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দূষণ, পরিবেশ নষ্ট হওয়া",
+                    "word_transliteration": "dushan, poribesh noshto hoya",
+                    "example_sentence_translation": "শিল্প দূষণ সামুদ্রিক জীবের জন্য ক্ষতিকর।",
+                    "example_sentence_transliteration": "Shilpо dushan shamudrik jiber jonno khotikar.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "eutrophication",
+            "phonetic": "/juːˌtrɑː.fɪˈkeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ইউট্রোফিকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌊",
+            "meaning": "Excessive richness of nutrients in a lake or other body of water, frequently due to runoff from the land, which causes a dense growth of plant life and death of animal life from lack of oxygen.",
+            "example_sentence": "Excess fertilizers lead to eutrophication in lakes.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সেস ফার্টিলাইজারস লিড টু ইউট্রোফিকেশন ইন লেইকস।"
+            },
+            "position": 21,
+            "synonyms": "nutrient pollution, algal bloom, water degradation",
+            "antonyms": "water purity, oligotrophy, clean ecosystem",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতিরিক্ত পুষ্টি উপাদান জমে জলাশয়ের ভারসাম্য নষ্ট হওয়া",
+                    "word_transliteration": "otiriкto pushti upadan jоme jolashоyer bharshammо noshto hoya",
+                    "example_sentence_translation": "অতিরিক্ত সার ব্যবহারে হ্রদে ইউট্রোফিকেশন ঘটে।",
+                    "example_sentence_transliteration": "Otiriкto shar byobohare hride eutrophication ghote.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "weather",
+            "phonetic": "/ˈwɛð.ɚ/",
+            "word_native_transliteration": {
+                "bn": "ওয়েদার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌤️",
+            "meaning": "The state of the atmosphere at a place and time as regards heat, dryness, sunshine, wind, rain, etc.",
+            "example_sentence": "The weather forecast predicts heavy rain tomorrow.",
+            "example_sentence_native_transliteration": {
+                "bn": "দি ওয়েদার ফোরকাস্ট প্রেডিক্টস হেভি রেইন টুমরো।"
+            },
+            "position": 22,
+            "synonyms": "climate, meteorology, atmospheric condition",
+            "antonyms": "stability, constant climate, unchanging weather",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আবহাওয়া, জলবায়ু পরিস্থিতি",
+                    "word_transliteration": "abohaya, jolbayu porishtithi",
+                    "example_sentence_translation": "আবহাওয়ার পূর্বাভাস অনুযায়ী আগামীকাল ভারী বৃষ্টি হবে।",
+                    "example_sentence_transliteration": "Abohayar purbavas оnuzayi agamika bhari brishti hobe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "maritime",
+            "phonetic": "/ˈmær.ɪ.taɪm/",
+            "word_native_transliteration": {
+                "bn": "ম্যারিটাইম"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚓",
+            "meaning": "Connected with the sea, especially in relation to seaborne trade or naval matters.",
+            "example_sentence": "Bangladesh has a significant maritime boundary.",
+            "example_sentence_native_transliteration": {
+                "bn": "বাংলাদেশ হ্যাজ এ সিগনিফিক্যান্ট ম্যারিটাইম বাউন্ডারি।"
+            },
+            "position": 23,
+            "synonyms": "nautical, oceanic, seafaring",
+            "antonyms": "inland, terrestrial, land-based",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সামুদ্রিক, সমুদ্রসংক্রান্ত",
+                    "word_transliteration": "shamudrik, shumdreshоngkranto",
+                    "example_sentence_translation": "বাংলাদেশের বিশাল সামুদ্রিক সীমানা রয়েছে।",
+                    "example_sentence_transliteration": "Bangladesher bishal shamudrik shimana royeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "conservation",
+            "phonetic": "/ˌkɒn.səˈveɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "কনজারভেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌍",
+            "meaning": "The action of conserving something, in particular preservation, protection, or restoration of the natural environment and of wildlife.",
+            "example_sentence": "Conservation efforts aim to protect endangered species.",
+            "example_sentence_native_transliteration": {
+                "bn": "কনজারভেশন এফোর্টস এইম টু প্রোটেক্ট এনডেইনজার্ড স্পিসিস।"
+            },
+            "position": 24,
+            "synonyms": "preservation, protection, sustainability",
+            "antonyms": "destruction, exploitation, degradation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংরক্ষণ, রক্ষা",
+                    "word_transliteration": "shоngrokhon, roksha",
+                    "example_sentence_translation": "সংরক্ষণ প্রচেষ্টা বিপন্ন প্রজাতি রক্ষায় সহায়ক।",
+                    "example_sentence_transliteration": "Shоngrokhon procheshta bipоnnо projati rokshay shohayok.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}
