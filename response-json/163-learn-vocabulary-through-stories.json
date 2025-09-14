@@ -1,0 +1,526 @@
+{
+    "position": 163,
+    "title_translation": {
+        "en": "Overcoming Barriers in Communication",
+        "bn": "যোগাযোগের ক্ষেত্রে Barriers অতিক্রম করা"
+    },
+    "content_translation": {
+        "en": "Communication can face various types of **barriers** - **verbal**, **non-verbal**, or **cognitive**. When we talk to others, **ambiguity** or misunderstandings can arise. **Clarification** is extremely important to eliminate these issues. Additionally, there may be **discrepancy** between what someone wants to say and how they **convey** it. If there is **empathy** and **engagement**, correct **perception** and reaction become easier. However, **stereotyping** affects our thought process, which can create communication **barriers**. By bringing clarity through **enunciation** and **vocalization**, **impediments** are reduced. However, many times **subtle** gestures and **tactile** communication are also important, which work more than verbal language or words. By understanding **contextual** meaning, we can establish better relationships with each other, making communication more effective.",
+        "bn": "যো গা যো গে র ক্ষে ত্রে **barriers** অনে ক ধরনে র হতে পা রে —**verbal**, **non-verbal**, কিং বা **cognitive**। যখন আমরা অন্য দে র সা থে কথা বলি , **ambiguity** বা ভুল বো ঝা বুঝি সৃষ্টি হতে পা রে । একে দূরদূ করতে **clarification** অত্য ন্ত গুরু ত্বপূর্ণ। এছা ড়া , **discrepancy** থা কতে পা রে যে , একজন কি বলতে চা ইছে ন এবং অন্য জন কি ভা বে সে টা **convey** করছে । **Empathy** এবং **engagement** যদি থা কে , তা হলে সঠিক **perception** এবং প্রতি ক্রি য়া সহজ হয়। কি ন্তু, **stereotyping** আমা দে র বি চা রে র প্রক্রি য়া কে প্রভা বি ত করে , যা যো গা যো গে বা ধা সৃষ্টি করতে পা রে । **Enunciation** এবং **vocalization** এর মা ধ্য মে স্পষ্টতা আনলে **impediments** কমে আসে । তবে , অনে ক সময় **subtle** ভঙ্গি এবং **tactile** যো গা যো গও গুরু ত্বপূর্ণ, যা মুখে র ভা ষা বা শব্দে র চে য়ে ও বে শি কা জ করে । **Contextual** মা নে বুঝে আমরা আরো ভা লো ভা বে একে অপরে র সা থে সম্পর্ক স্থা পন করতে পা রি , যা যো গা যো গকে আরও কা র্যকর করে ।"
+    },
+    "list": [
+        {
+            "word": "barriers",
+            "phonetic": "/ˈbæɹɪəz/",
+            "word_native_transliteration": {
+                "bn": "ব্যারিয়ারস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚧",
+            "meaning": "Something that prevents progress or access; obstacles or hindrances.",
+            "example_sentence": "Language barriers can make communication difficult.",
+            "example_sentence_native_transliteration": {
+                "bn": "ল্যাংগুয়েজ ব্যারিয়ারস ক্যান মেইক কমিউনিকেশন ডিফিকাল্ট।"
+            },
+            "position": 1,
+            "synonyms": "obstacles, hindrances, blockages, obstructions, impediments, hurdles",
+            "antonyms": "openings, opportunities, pathways, gateways, access, clearances",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিবন্ধকতা, বাধা, আড়াল",
+                    "word_transliteration": "protibondhokota, badha, aral",
+                    "example_sentence_translation": "ভাষাগত প্রতিবন্ধকতা যোগাযোগকে কঠিন করে তুলতে পারে।",
+                    "example_sentence_transliteration": "Bhashagoto protibondhokota jogajogke kothin kore tulte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "verbal",
+            "phonetic": "/ˈvɜː.bəl/",
+            "word_native_transliteration": {
+                "bn": "ভার্বাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🗣️",
+            "meaning": "Relating to or in the form of words; spoken rather than written.",
+            "example_sentence": "Verbal communication is essential in most situations.",
+            "example_sentence_native_transliteration": {
+                "bn": "ভার্বাল কমিউনিকেশন ইজ এসেনশিয়াল ইন মোস্ট সিচুয়েশনস।"
+            },
+            "position": 2,
+            "synonyms": "oral, spoken, vocal, articulated, uttered, expressed",
+            "antonyms": "non-verbal, written, silent, unspoken, tacit, implied",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মৌখিক, মুখের মাধ্যমে প্রকাশিত",
+                    "word_transliteration": "moukhik, mukher madhome prokashito",
+                    "example_sentence_translation": "মৌখিক যোগাযোগ বেশিরভাগ পরিস্থিতিতে গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Moukhik jogajog beshirbhag poristhititey guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "non-verbal",
+            "phonetic": "/ˌnɒnˈvɜː.bəl/",
+            "word_native_transliteration": {
+                "bn": "ননভার্বাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🤐",
+            "meaning": "Not involving or using words or speech; communicated through gestures, body language, or facial expressions.",
+            "example_sentence": "Non-verbal cues are just as important as words.",
+            "example_sentence_native_transliteration": {
+                "bn": "ননভার্বাল কিউজ আর জাস্ট অ্যাজ ইমপরট্যান্ট অ্যাজ ওয়ার্ডস।"
+            },
+            "position": 3,
+            "synonyms": "gesture-based, silent, wordless, unspoken, tacit, implied",
+            "antonyms": "verbal, oral, spoken, articulated, vocal, expressed",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মৌখিক নয়, শরীরী ভাষা বা চেহারা দিয়ে প্রকাশিত",
+                    "word_transliteration": "moukhik noy, shoriri bhasha ba chehara diye prokashito",
+                    "example_sentence_translation": "মৌখিক নয় এমন সংকেতও শব্দের মতোই গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Moukhik noy emon sonketeo shobder motoyi guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cognitive",
+            "phonetic": "/ˈkɒɡ.nɪ.tɪv/",
+            "word_native_transliteration": {
+                "bn": "কগনিটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧠",
+            "meaning": "Related to the mental processes of perception, memory, judgment, and reasoning.",
+            "example_sentence": "Cognitive skills are essential for problem-solving.",
+            "example_sentence_native_transliteration": {
+                "bn": "কগনিটিভ স্কিলস আর এসেনশিয়াল ফর প্রবলেম সলভিং।"
+            },
+            "position": 4,
+            "synonyms": "intellectual, mental, cerebral, rational, thinking, reasoning",
+            "antonyms": "non-cognitive, physical, emotional, instinctive, intuitive, automatic",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বুদ্ধিবৃত্তিক, মানসিক প্রক্রিয়া সম্পর্কিত",
+                    "word_transliteration": "buddhibrittik, manoshik prokriya somporkito",
+                    "example_sentence_translation": "সমস্যা সমাধানের জন্য কগনিটিভ দক্ষতা অপরিহার্য।",
+                    "example_sentence_transliteration": "Shomoshsha somadhanor jonno cognitive dokkhota oporoharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ambiguity",
+            "phonetic": "/ˌæm.bɪˈɡjuː.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "অ্যাম্বিগুইটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "❓",
+            "meaning": "The quality of being open to more than one interpretation; having a double meaning or uncertainty.",
+            "example_sentence": "The ambiguity in his answer made it difficult to understand.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যাম্বিগুইটি ইন হিজ আনসার মেইড ইট ডিফিকাল্ট টু আন্ডারস্ট্যান্ড।"
+            },
+            "position": 5,
+            "synonyms": "vagueness, uncertainty, confusion, obscurity, unclearness, indefiniteness",
+            "antonyms": "clarity, precision, certainty, definiteness, explicitness, unambiguousness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অস্পষ্টতা, দ্ব্যর্থকতা, অনিশ্চয়তা",
+                    "word_transliteration": "oshposhtota, dorthokota, onishshoytota",
+                    "example_sentence_translation": "তার উত্তরের অস্পষ্টতা বোঝা কঠিন করে তোলে।",
+                    "example_sentence_transliteration": "Tar uttorer oshposhtota bojha kothin kore tole.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "clarification",
+            "phonetic": "/ˌklærɪfɪˈkeɪʃən/",
+            "word_native_transliteration": {
+                "bn": "ক্ল্যারিফিকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💡",
+            "meaning": "The action of making a statement or situation less confused and more clearly comprehensible.",
+            "example_sentence": "The manager requested clarification on the project details.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ম্যানেজার রিকোয়েস্টেড ক্ল্যারিফিকেশন অন দ্য প্রজেক্ট ডিটেইলস।"
+            },
+            "position": 6,
+            "synonyms": "explanation, elucidation, illumination, interpretation, explication, enlightenment",
+            "antonyms": "confusion, ambiguity, obfuscation, mystification, obscuration, complication",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিষ্কারকরণ, ব্যাখ্যা",
+                    "word_transliteration": "porishkarkoron, byakha",
+                    "example_sentence_translation": "ব্যবস্থাপক প্রকল্পের বিস্তারিত বিষয়ে পরিষ্কারকরণ চেয়েছিলেন।",
+                    "example_sentence_transliteration": "Bebosthapok prokoper bistarito bishoye porishkarkoron cheyechhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "discrepancy",
+            "phonetic": "/dɪsˈkrɛpənsi/",
+            "word_native_transliteration": {
+                "bn": "ডিসক্রেপেন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "A lack of compatibility or similarity between two or more facts or claims; inconsistency.",
+            "example_sentence": "There was a discrepancy between the two reports.",
+            "example_sentence_native_transliteration": {
+                "bn": "দেয়ার ওয়াজ এ ডিসক্রেপেন্সি বিটুইন দ্য টু রিপোর্টস।"
+            },
+            "position": 7,
+            "synonyms": "inconsistency, disagreement, difference, variance, disparity, contradiction",
+            "antonyms": "consistency, agreement, harmony, correspondence, compatibility, uniformity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অমিল, অস্বীকৃতি, অসামঞ্জস্য",
+                    "word_transliteration": "omil, oshokriti, oshamongjoshyo",
+                    "example_sentence_translation": "দুটি প্রতিবেদনের মধ্যে একটি অমিল ছিল।",
+                    "example_sentence_transliteration": "Duti protibedoner moddhe ekti omil chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "convey",
+            "phonetic": "/kənˈveɪ/",
+            "word_native_transliteration": {
+                "bn": "কনভে"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📢",
+            "meaning": "To communicate or make known; to transport or carry from one place to another.",
+            "example_sentence": "The teacher conveys the lesson clearly to students.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য টিচার কনভেজ দ্য লেসন ক্লিয়ারলি টু স্টুডেন্টস।"
+            },
+            "position": 8,
+            "synonyms": "communicate, transmit, express, impart, relay, deliver",
+            "antonyms": "conceal, withhold, suppress, hide, retain, keep",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "যোগাযোগ করা, পৌঁছে দেওয়া, প্রকাশ করা",
+                    "word_transliteration": "jogajog kora, pounche dewa, prokash kora",
+                    "example_sentence_translation": "শিক্ষক ছাত্রদের কাছে পাঠ স্পষ্টভাবে পৌঁছান।",
+                    "example_sentence_transliteration": "Shikkhok chhatroder kachhe path spishtobhabe pounshan.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "empathy",
+            "phonetic": "/ˈɛmpəθi/",
+            "word_native_transliteration": {
+                "bn": "এমপ্যাথি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "❤️",
+            "meaning": "The ability to understand and share the feelings of another person.",
+            "example_sentence": "Empathy is crucial for building strong relationships.",
+            "example_sentence_native_transliteration": {
+                "bn": "এমপ্যাথি ইজ ক্রুসিয়াল ফর বিল্ডিং স্ট্রং রিলেশনশিপস।"
+            },
+            "position": 9,
+            "synonyms": "compassion, understanding, sympathy, sensitivity, caring, concern",
+            "antonyms": "indifference, apathy, callousness, insensitivity, coldness, detachment",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহানুভূতি, অন্যের অনুভূতি বোঝার ক্ষমতা",
+                    "word_transliteration": "shohanubhuti, onner onubhuti bojhar khomota",
+                    "example_sentence_translation": "সহানুভূতি শক্তিশালী সম্পর্ক গড়ে তোলার জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Shohanubhuti shokti shali shompork gore tolar jonno oporoharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "engagement",
+            "phonetic": "/ɪnˈɡeɪdʒ.mənt/",
+            "word_native_transliteration": {
+                "bn": "এনগেজমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "The action of engaging or being engaged; participation or involvement in an activity.",
+            "example_sentence": "Active engagement in discussions leads to better learning.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাকটিভ এনগেজমেন্ট ইন ডিসকাশনস লিডস টু বেটার লার্নিং।"
+            },
+            "position": 10,
+            "synonyms": "involvement, participation, commitment, interaction, contribution, collaboration",
+            "antonyms": "disengagement, indifference, detachment, withdrawal, non-participation, apathy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অংশগ্রহণ, সম্পৃক্ততা, জড়িত হওয়া",
+                    "word_transliteration": "ongshogrohon, shomprikto, jorito howa",
+                    "example_sentence_translation": "আলোচনায় সক্রিয় অংশগ্রহণ ভালো শেখার দিকে নিয়ে যায়।",
+                    "example_sentence_transliteration": "Alochonay shokriyo ongshogrohon bhalo shekhar dike niye jay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "perception",
+            "phonetic": "/pəˈsɛpʃən/",
+            "word_native_transliteration": {
+                "bn": "পারসেপশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👁️",
+            "meaning": "The ability to see, hear, or become aware of something through the senses; a way of regarding or understanding something.",
+            "example_sentence": "People's perception of the situation was clouded.",
+            "example_sentence_native_transliteration": {
+                "bn": "পিপলস পারসেপশন অব দ্য সিচুয়েশন ওয়াজ ক্লাউডেড।"
+            },
+            "position": 11,
+            "synonyms": "insight, awareness, understanding, recognition, comprehension, realization",
+            "antonyms": "misunderstanding, confusion, ignorance, unawareness, misconception, blindness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উপলব্ধি, ধারণা, দৃষ্টিভঙ্গি",
+                    "word_transliteration": "upolodhi, dharona, drishtibhongi",
+                    "example_sentence_translation": "পরিস্থিতি সম্পর্কে মানুষের উপলব্ধি ঝাপসা হয়ে গিয়েছিল।",
+                    "example_sentence_transliteration": "Poristhiti shomporke manusher upolodhi jhapsha hoye giyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "reaction",
+            "phonetic": "/rɪˈækʃən/",
+            "word_native_transliteration": {
+                "bn": "রিঅ্যাকশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "An action performed or a feeling experienced in response to a situation or event.",
+            "example_sentence": "His reaction to the news was one of shock.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ রিঅ্যাকশন টু দ্য নিউজ ওয়াজ ওয়ান অব শক।"
+            },
+            "position": 12,
+            "synonyms": "response, reply, feedback, answer, reflex, consequence",
+            "antonyms": "indifference, apathy, inaction, non-response, passivity, stillness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিক্রিয়া, উত্তরে প্রতিক্রিয়া, প্রতিক্রিয়া সৃষ্টি",
+                    "word_transliteration": "protikriya, uttore protikriya, protikriya srishti",
+                    "example_sentence_translation": "সংবাদে তার প্রতিক্রিয়া ছিল অবাক হওয়া।",
+                    "example_sentence_transliteration": "Shongbade tar protikriya chhilo obak howa.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "stereotyping",
+            "phonetic": "/ˈstɛə.rɪ.əʊˌtaɪ.pɪŋ/",
+            "word_native_transliteration": {
+                "bn": "স্টিরিওটাইপিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏷️",
+            "meaning": "A widely held but fixed and oversimplified image or idea of a particular type of person or thing.",
+            "example_sentence": "Stereotyping people based on their race is harmful.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্টিরিওটাইপিং পিপল বেইসড অন দেয়ার রেইস ইজ হার্মফুল।"
+            },
+            "position": 13,
+            "synonyms": "generalization, oversimplification, categorization, labeling, pigeonholing, typecasting",
+            "antonyms": "individuality, uniqueness, personalization, specificity, distinctiveness, originality",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পূর্বধারণা, সাধারণীকরণ, একপেশে ধারণা তৈরি করা",
+                    "word_transliteration": "purbodarona, sadharonikaron, ekpeshe dharona toiri kora",
+                    "example_sentence_translation": "তাদের বর্ণের উপর ভিত্তি করে মানুষের প্রতি স্টিরিওটাইপিং ক্ষতিকর।",
+                    "example_sentence_transliteration": "Tader borner upor bhitti kore manusher proti stereotyping khotikor.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "enunciation",
+            "phonetic": "/ɪˌnʌn.siˈeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "এনুনসিয়েশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🗣️",
+            "meaning": "The act of saying or pronouncing words clearly and distinctly.",
+            "example_sentence": "His enunciation was clear during the presentation.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ এনুনসিয়েশন ওয়াজ ক্লিয়ার ডিউরিং দ্য প্রেজেন্টেশন।"
+            },
+            "position": 14,
+            "synonyms": "articulation, pronunciation, diction, delivery, expression, utterance",
+            "antonyms": "mumble, murmur, slur, garble, mutter, whisper",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উচ্চারণ, প্রকাশ, সঠিকভাবে বলা",
+                    "word_transliteration": "uccharon, prokash, shothikbhabe bola",
+                    "example_sentence_translation": "প্রস্তাবনার সময় তার উচ্চারণ পরিষ্কার ছিল।",
+                    "example_sentence_transliteration": "Prostabonay shomoy tar uccharon porishkar chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "vocalization",
+            "phonetic": "/ˌvəʊ.kəl.aɪˈzeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ভোকালাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎵",
+            "meaning": "The action of producing sounds with the voice; the expression of thoughts or feelings in spoken words.",
+            "example_sentence": "The vocalization of the singer captivated the audience.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ভোকালাইজেশন অব দ্য সিংগার ক্যাপটিভেটেড দ্য অডিয়েন্স।"
+            },
+            "position": 15,
+            "synonyms": "sound, speech, utterance, voice, expression, articulation",
+            "antonyms": "silence, quietness, muteness, stillness, speechlessness, voicelessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আওয়াজ করা, শব্দ তৈরি করা, উচ্চারণ",
+                    "word_transliteration": "awaj kora, shobdo toiri kora, uccharon",
+                    "example_sentence_translation": "গায়কীর ভোকালাইজেশন শ্রোতাদের মুগ্ধ করেছিল।",
+                    "example_sentence_transliteration": "Gayokir vocalization shrotader mugdho krechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "impediments",
+            "phonetic": "/ɪmˈpɛdɪmənt/",
+            "word_native_transliteration": {
+                "bn": "ইমপেডিমেন্টস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚫",
+            "meaning": "A hindrance or obstruction in doing something; things that prevent progress or achievement.",
+            "example_sentence": "Economic impediments often hinder social development.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইকোনমিক ইমপেডিমেন্টস অফটেন হিন্ডার সোশাল ডেভেলপমেন্ট।"
+            },
+            "position": 16,
+            "synonyms": "obstacle, hindrance, barrier, obstruction, difficulty, drawback",
+            "antonyms": "aid, assistance, help, support, advantage, benefit",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিবন্ধকতা, বাধা, অন্তরায়",
+                    "word_transliteration": "protibondhokota, badha, onthoray",
+                    "example_sentence_translation": "অর্থনৈতিক প্রতিবন্ধকতা প্রায়ই সামাজিক উন্নয়নকে বাধাগ্রস্ত করে।",
+                    "example_sentence_transliteration": "Orthonotikok protibondhokota prayoi shamajik unnoyonke badhagrostho kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "subtle",
+            "phonetic": "/ˈsʌt.əl/",
+            "word_native_transliteration": {
+                "bn": "সাবটল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔍",
+            "meaning": "So delicate or precise as to be difficult to analyze or describe; making use of clever and indirect methods.",
+            "example_sentence": "The artist's use of color was subtle yet powerful.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য আর্টিস্ট'স ইউজ অব কালার ওয়াজ সাবটল ইয়েট পাওয়ারফুল।"
+            },
+            "position": 17,
+            "synonyms": "delicate, refined, understated, nuanced, gentle, mild",
+            "antonyms": "obvious, blatant, crude, harsh, stark, glaring",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সূক্ষ্ম, অল্প, নিখুঁত",
+                    "word_transliteration": "shukkhshmo, olpo, nikhunto",
+                    "example_sentence_translation": "শিল্পীর রঙের ব্যবহার সূক্ষ্ম হলেও শক্তিশালী ছিল।",
+                    "example_sentence_transliteration": "Shilpir ronger bebohaar shukkhshmo holeo shokti shali chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "tactile",
+            "phonetic": "/ˈtæk.taɪl/",
+            "word_native_transliteration": {
+                "bn": "ট্যাকটাইল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "✋",
+            "meaning": "Connected with the sense of touch; perceptible by touch or giving a sensation when touched.",
+            "example_sentence": "The tactile experience of the fabric was soft and smooth.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ট্যাকটাইল এক্সপেরিয়েন্স অব দ্য ফ্যাব্রিক ওয়াজ সফট অ্যান্ড স্মুথ।"
+            },
+            "position": 18,
+            "synonyms": "touchable, perceptible, tangible, palpable, physical, material",
+            "antonyms": "intangible, impalpable, imperceptible, untouchable, immaterial, abstract",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্পর্শজনিত, স্পর্শযোগ্য, অনুভূতিশীল",
+                    "word_transliteration": "sporshojonito, sporshjogjo, onubhutishil",
+                    "example_sentence_translation": "বস্ত্রের স্পর্শজনিত অভিজ্ঞতা নরম এবং মসৃণ ছিল।",
+                    "example_sentence_transliteration": "Bostrer sporshojonito ovigota norom ebong moshrin chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "contextual",
+            "phonetic": "/kənˈtɛk.stju.əl/",
+            "word_native_transliteration": {
+                "bn": "কনটেক্সচুয়াল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📚",
+            "meaning": "Depending on or relating to the context or circumstances in which something occurs.",
+            "example_sentence": "His actions were understood in a broader contextual framework.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ অ্যাকশনস ওয়ার আন্ডারস্টুড ইন এ ব্রডার কনটেক্সচুয়াল ফ্রেইমওয়ার্ক।"
+            },
+            "position": 19,
+            "synonyms": "situational, circumstantial, environmental, conditional, relative, dependent",
+            "antonyms": "out-of-context, irrelevant, absolute, independent, unconditional, isolated",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রেক্ষিত সম্পর্কিত, প্রেক্ষিত ভিত্তিক",
+                    "word_transliteration": "prekkhito somporkito, prekkhito bhittik",
+                    "example_sentence_translation": "তার কাজগুলি একটি বৃহত্তর প্রেক্ষিত কাঠামোতে বোঝা হয়েছিল।",
+                    "example_sentence_transliteration": "Tar kajguli ekti brihottoro prekkhito kathamoto bojha hoyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

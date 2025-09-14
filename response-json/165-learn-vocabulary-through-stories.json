@@ -1,0 +1,445 @@
+{
+    "position": 165,
+    "title_translation": {
+        "en": "Overcoming Procrastination with Smart Planning",
+        "bn": "স্মার্ট পরিকল্পনার সাহায্যে Procrastination কাটিয়ে ওঠা"
+    },
+    "content_translation": {
+        "en": "**Procrastination** is the biggest **impediment** to our progress. When we have important work to do, we waste time on various **superfluous** activities, which prevents us from maintaining **diligence** in achieving our goals.\n\nWithout proper **planning**, our work becomes **haphazard**, and progress starts to **fluctuate**. With **meticulous** planning, we can use time with maximum **efficacy**.\n\nSome people suffer from **complacency** and think that there is no harm in delaying, but this can eventually create a **debacle**. We should remove **ambiguity** from our work and **scrutinize** every step so that there is no **discrepancy**.\n\nTherefore, it is necessary to develop **indispensable** skills to overcome **procrastination**, which will protect us from **repercussions** and help us move forward on the path of progress.",
+        "bn": "**Procrastination** আমাদের উন্নতির জন্য সবচেয়ে বড় **impediment**। যখন আমাদের কোনো গুরুত্বপূর্ণ কাজ থাকে, তখন আমরা বিভিন্ন **superfluous** কাজে সময় নষ্ট করি, যা আমাদের লক্ষ্য অর্জনে **diligence** বজায় রাখতে বাধা দেয়।\n\nসঠিক **planning** না থাকলে, আমাদের কাজ **haphazard** হয়ে পড়ে, এবং অগ্রগতি **fluctuate** করতে থাকে। **Meticulous** পরিকল্পনা থাকলে আমরা সময়কে সর্বোচ্চ **efficacy**-তে ব্যবহার করতে পারি।\n\nকিছু মানুষ **complacency**-তে ভোগে এবং মনে করে যে দেরি করলেও কোনো ক্ষতি নেই, কিন্তু এটি এক সময় **debacle** তৈরি করতে পারে। আমাদের উচিত কাজের **ambiguity** দূর করা এবং প্রতিটি ধাপ **scrutinize** করা, যাতে কোনো **discrepancy** না থাকে।\n\nঅতএব, **procrastination** থেকে মুক্তি পেতে **indispensable** কৌশল তৈরি করা প্রয়োজন, যা আমাদের **repercussion** থেকে রক্ষা করবে এবং উন্নতির পথে এগিয়ে নিতে সাহায্য করবে।"
+    },
+    "list": [
+        {
+            "word": "procrastination",
+            "phonetic": "/prəˌkræs.tɪˈneɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "প্রোক্রাস্টিনেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⏳",
+            "meaning": "The action of delaying or postponing something important.",
+            "example_sentence": "Procrastination often leads to last-minute stress.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোক্রাস্টিনেশন অফটেন লিডস টু লাস্ট-মিনিট স্ট্রেস।"
+            },
+            "position": 1,
+            "synonyms": "delay, postponement, hesitation",
+            "antonyms": "efficiency, promptness, proactiveness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কাজ ফেলে রাখার প্রবণতা",
+                    "word_transliteration": "kaj fele rakhar probonota",
+                    "example_sentence_translation": "কাজ ফেলে রাখার প্রবণতা প্রায়ই শেষ মুহূর্তের চাপ সৃষ্টি করে।",
+                    "example_sentence_transliteration": "Kaj fele rakhar probonota prayoi shesh muhurter chap srishti kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "impediment",
+            "phonetic": "/ɪmˈpɛd.ɪ.mənt/",
+            "word_native_transliteration": {
+                "bn": "ইম্পেডিমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚧",
+            "meaning": "A hindrance or obstruction in doing or achieving something.",
+            "example_sentence": "Lack of funds is a major impediment to the project.",
+            "example_sentence_native_transliteration": {
+                "bn": "ল্যাক অফ ফান্ডস ইজ এ মেজর ইম্পেডিমেন্ট টু দ্য প্রজেক্ট।"
+            },
+            "position": 2,
+            "synonyms": "obstacle, hindrance, barrier",
+            "antonyms": "aid, assistance, facilitation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিবন্ধকতা",
+                    "word_transliteration": "protibondhokota",
+                    "example_sentence_translation": "তহবিলের অভাব প্রকল্পের জন্য একটি বড় বাধা।",
+                    "example_sentence_transliteration": "Tohobiler ovab prokolper jonno ekti boro badha.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "superfluous",
+            "phonetic": "/suːˈpɜːr.flu.əs/",
+            "word_native_transliteration": {
+                "bn": "সুপারফ্লুয়াস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "♻️",
+            "meaning": "Unnecessary, especially through being more than enough.",
+            "example_sentence": "His speech contained too many superfluous details.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ স্পিচ কনটেইনড টু মেনি সুপারফ্লুয়াস ডিটেইলস।"
+            },
+            "position": 3,
+            "synonyms": "unnecessary, excessive, redundant",
+            "antonyms": "essential, necessary, relevant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অপ্রয়োজনীয়",
+                    "word_transliteration": "oproyojoneeyo",
+                    "example_sentence_translation": "তার বক্তৃতায় অত্যধিক অপ্রয়োজনীয় বিবরণ ছিল।",
+                    "example_sentence_transliteration": "Tar boktritay otydhik oproyojoneeyo biboron chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "diligence",
+            "phonetic": "/ˈdɪl.ɪ.dʒəns/",
+            "word_native_transliteration": {
+                "bn": "ডিলিজেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "Careful and persistent work or effort.",
+            "example_sentence": "His diligence earned him a promotion.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ডিলিজেন্স আর্নড হিম এ প্রোমোশন।"
+            },
+            "position": 4,
+            "synonyms": "hard work, perseverance, dedication",
+            "antonyms": "negligence, laziness, carelessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অধ্যবসায়",
+                    "word_transliteration": "odhybosha",
+                    "example_sentence_translation": "তার অধ্যবসায় তাকে পদোন্নতি এনে দিয়েছে।",
+                    "example_sentence_transliteration": "Tar odhybosha take podonnoti ene diyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "planning",
+            "phonetic": "/ˈplæn.ɪŋ/",
+            "word_native_transliteration": {
+                "bn": "প্ল্যানিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📋",
+            "meaning": "The process of making plans for something.",
+            "example_sentence": "Proper planning ensures efficiency and success.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোপার প্ল্যানিং এনশিওরস এফিশিয়েন্সি অ্যান্ড সাকসেস।"
+            },
+            "position": 5,
+            "synonyms": "strategy, preparation, organization",
+            "antonyms": "disorganization, improvisation, chaos",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিকল্পনা",
+                    "word_transliteration": "porikolpona",
+                    "example_sentence_translation": "সঠিক পরিকল্পনা দক্ষতা ও সাফল্য নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Sothik porikolpona dokkhota o shafolyo nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "haphazard",
+            "phonetic": "/ˌhæpˈhæz.ɚd/",
+            "word_native_transliteration": {
+                "bn": "হ্যাফহ্যাজার্ড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌪️",
+            "meaning": "Lacking any obvious principle of organization; random.",
+            "example_sentence": "His haphazard approach led to project failure.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ হ্যাফহ্যাজার্ড অ্যাপ্রোচ লেড টু প্রজেক্ট ফেইলিওর।"
+            },
+            "position": 6,
+            "synonyms": "random, disorganized, unsystematic",
+            "antonyms": "systematic, organized, methodical",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "এলোমেলো",
+                    "word_transliteration": "elomelo",
+                    "example_sentence_translation": "তার এলোমেলো পদ্ধতি প্রকল্প ব্যর্থতার কারণ হয়েছিল।",
+                    "example_sentence_transliteration": "Tar elomelo poddoti prokolpo byrthhotar karon hoyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fluctuate",
+            "phonetic": "/ˈflʌk.tʃu.eɪt/",
+            "word_native_transliteration": {
+                "bn": "ফ্লাকচুয়েট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📈",
+            "meaning": "Rise and fall irregularly in number or amount.",
+            "example_sentence": "Stock prices fluctuate daily in the market.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্টক প্রাইসেস ফ্লাকচুয়েট ডেইলি ইন দ্য মার্কেট।"
+            },
+            "position": 7,
+            "synonyms": "vary, oscillate, change",
+            "antonyms": "stabilize, remain constant, steady",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উত্থান-পতন",
+                    "word_transliteration": "utthan-poton",
+                    "example_sentence_translation": "শেয়ারবাজারে প্রতিদিন দাম ওঠানামা করে।",
+                    "example_sentence_transliteration": "Sheyarbajare protidin dam otthanama kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "meticulous",
+            "phonetic": "/məˈtɪk.jə.ləs/",
+            "word_native_transliteration": {
+                "bn": "মেটিকুলাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔍",
+            "meaning": "Showing great attention to detail; very careful and precise.",
+            "example_sentence": "The architect was meticulous in designing the blueprint.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য আর্কিটেক্ট ওয়াজ মেটিকুলাস ইন ডিজাইনিং দ্য ব্লুপ্রিন্ট।"
+            },
+            "position": 8,
+            "synonyms": "precise, thorough, detail-oriented",
+            "antonyms": "careless, inaccurate, negligent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "যত্নবান",
+                    "word_transliteration": "jotnoban",
+                    "example_sentence_translation": "স্থপতি নকশা তৈরিতে অত্যন্ত যত্নবান ছিলেন।",
+                    "example_sentence_transliteration": "Sthopoti noksha toirite ottyonto jotnoban chhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "efficacy",
+            "phonetic": "/ˈɛf.ɪ.kə.si/",
+            "word_native_transliteration": {
+                "bn": "এফিকেসি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "The ability to produce a desired or intended result.",
+            "example_sentence": "The efficacy of the new drug was tested in clinical trials.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এফিকেসি অফ দ্য নিউ ড্রাগ ওয়াজ টেস্টেড ইন ক্লিনিক্যাল ট্রায়ালস।"
+            },
+            "position": 9,
+            "synonyms": "effectiveness, efficiency, success",
+            "antonyms": "ineffectiveness, failure, weakness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কার্যকারিতা",
+                    "word_transliteration": "karjokarita",
+                    "example_sentence_translation": "নতুন ওষুধের কার্যকারিতা ক্লিনিক্যাল পরীক্ষায় পরীক্ষা করা হয়েছিল।",
+                    "example_sentence_transliteration": "Notun osudher karjokarita clinical porikkhay porikha kora hoyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "complacency",
+            "phonetic": "/kəmˈpleɪ.sən.si/",
+            "word_native_transliteration": {
+                "bn": "কমপ্লেসেন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "😌",
+            "meaning": "A feeling of smug or uncritical satisfaction with oneself or one's achievements.",
+            "example_sentence": "His complacency led to a decline in performance.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ কমপ্লেসেন্সি লেড টু এ ডিক্লাইন ইন পারফরম্যান্স।"
+            },
+            "position": 10,
+            "synonyms": "self-satisfaction, smugness, contentment",
+            "antonyms": "ambition, concern, dissatisfaction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আত্মতুষ্টি",
+                    "word_transliteration": "attotushti",
+                    "example_sentence_translation": "তার আত্মতুষ্টির কারণে কর্মদক্ষতা কমে গিয়েছিল।",
+                    "example_sentence_transliteration": "Tar attotusthtir karone kormodokkhota kome giyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "debacle",
+            "phonetic": "/deɪˈbɑː.kəl/",
+            "word_native_transliteration": {
+                "bn": "ডেবাকল"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💥",
+            "meaning": "A sudden and ignominious failure; a fiasco.",
+            "example_sentence": "The company's poor management led to a financial debacle.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানিজ পুওর ম্যানেজমেন্ট লেড টু এ ফাইন্যান্সিয়াল ডেবাকল।"
+            },
+            "position": 11,
+            "synonyms": "disaster, failure, collapse",
+            "antonyms": "success, triumph, victory",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিপর্যয়",
+                    "word_transliteration": "biporjoy",
+                    "example_sentence_translation": "কোম্পানির দুর্বল ব্যবস্থাপনা একটি আর্থিক বিপর্যয়ের কারণ হয়েছিল।",
+                    "example_sentence_transliteration": "Companir durbol byobosthapona ekti arthik biporjoyer karon hoyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ambiguity",
+            "phonetic": "/ˌæm.bɪˈɡjuː.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "অ্যাম্বিগুইটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "❓",
+            "meaning": "The quality of being open to more than one interpretation; inexactness.",
+            "example_sentence": "The ambiguity in his statement created confusion.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যাম্বিগুইটি ইন হিজ স্টেটমেন্ট ক্রিয়েটেড কনফিউশন।"
+            },
+            "position": 12,
+            "synonyms": "vagueness, uncertainty, doubt",
+            "antonyms": "clarity, certainty, precision",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অস্পষ্টতা",
+                    "word_transliteration": "osposhtota",
+                    "example_sentence_translation": "তার বক্তব্যের অস্পষ্টতা বিভ্রান্তির সৃষ্টি করেছিল।",
+                    "example_sentence_transliteration": "Tar boktobyer osposhtota vibhrantir srishti korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "scrutinize",
+            "phonetic": "/ˈskruː.tɪ.naɪz/",
+            "word_native_transliteration": {
+                "bn": "স্ক্রুটিনাইজ"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔎",
+            "meaning": "Examine or inspect closely and thoroughly.",
+            "example_sentence": "The lawyer scrutinized the contract for any loopholes.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ল অয়ার স্ক্রুটিনাইজড দ্য কনট্র্যাক্ট ফর এনি লুফোলস।"
+            },
+            "position": 13,
+            "synonyms": "examine, inspect, analyze",
+            "antonyms": "overlook, ignore, neglect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সতর্কভাবে পরীক্ষা করা",
+                    "word_transliteration": "shotorkovabe porikha kora",
+                    "example_sentence_translation": "আইনজীবী চুক্তিটি যে কোনো ফাঁকফোকর খুঁজে পেতে সতর্কভাবে পরীক্ষা করেছিলেন।",
+                    "example_sentence_transliteration": "Ainojibi chuktiti je kono fankfokor khuje pete shotorkovabe porikha korechhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "discrepancy",
+            "phonetic": "/dɪˈskrep.ən.si/",
+            "word_native_transliteration": {
+                "bn": "ডিসক্রিপেন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "A lack of compatibility or similarity between two or more facts.",
+            "example_sentence": "The financial report showed a discrepancy in the accounts.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফাইন্যান্সিয়াল রিপোর্ট শো এ ডিসক্রিপেন্সি ইন দ্য অ্যাকাউন্টস।"
+            },
+            "position": 14,
+            "synonyms": "difference, inconsistency, mismatch",
+            "antonyms": "consistency, agreement, similarity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অমিল",
+                    "word_transliteration": "omil",
+                    "example_sentence_translation": "আর্থিক প্রতিবেদনে হিসাবের মধ্যে একটি অমিল দেখা গিয়েছিল।",
+                    "example_sentence_transliteration": "Arthik protibedone hishaber moddhe ekti omil dekha giyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "indispensable",
+            "phonetic": "/ˌɪn.dɪˈspɛn.sə.bəl/",
+            "word_native_transliteration": {
+                "bn": "ইনডিসপেনসেবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔑",
+            "meaning": "Absolutely necessary; essential.",
+            "example_sentence": "Water is indispensable for human survival.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওয়াটার ইজ ইনডিসপেনসেবল ফর হিউম্যান সারভাইভাল।"
+            },
+            "position": 15,
+            "synonyms": "essential, crucial, necessary",
+            "antonyms": "optional, unnecessary, dispensable",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অপরিহার্য",
+                    "word_transliteration": "oporiharjo",
+                    "example_sentence_translation": "জীবনধারণের জন্য পানি অপরিহার্য।",
+                    "example_sentence_transliteration": "Jibondharono jonno pani oporiharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "repercussion",
+            "phonetic": "/ˌriː.pəˈkʌʃ.ən/",
+            "word_native_transliteration": {
+                "bn": "রিপারকাশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌊",
+            "meaning": "An unintended consequence occurring some time after an event or action.",
+            "example_sentence": "The economic crisis had severe repercussions on global trade.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইকোনমিক ক্রাইসিস হ্যাড সিভিয়ার রিপারকাশন্স অন গ্লোবাল ট্রেড।"
+            },
+            "position": 16,
+            "synonyms": "consequence, outcome, effect",
+            "antonyms": "cause, origin, beginning",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ফলাফল",
+                    "word_transliteration": "folafol",
+                    "example_sentence_translation": "অর্থনৈতিক সংকটের ফলে বৈশ্বিক বাণিজ্যের উপর গুরুতর প্রভাব পড়েছিল।",
+                    "example_sentence_transliteration": "Orthonaitik songkoter fole boishbik banijyer upor gurutor prabhab porechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

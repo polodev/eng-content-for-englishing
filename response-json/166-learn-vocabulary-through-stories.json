@@ -1,0 +1,445 @@
+{
+    "position": 166,
+    "title_translation": {
+        "en": "Parenting Styles and Their Impact",
+        "bn": "Parenting Styles and Their Impact"
+    },
+    "content_translation": {
+        "en": "A child's upbringing depends on their **parenting** style. Mainly, there are three types of **parenting** — **authoritarian**, **permissive**, and **equitable**. In the **authoritarian** approach, parents have strict rules and children have very little **autonomy**. Children might learn **compliance**, but they don't learn to make their own decisions, which can create a **hindrance** in their **cognitive** development in the future. On the other hand, in the **permissive** approach, parents follow loose rules, as a result children don't develop **intrinsic** discipline. This creates **disparity**, where some children become responsible, while others show **obstinacy**. The most effective approach is **equitable** parenting, where there is a **juxtaposition** between discipline and **nurturing**. This **fostering** builds children's confidence and ensures their **metamorphosis**, which is important for future success. Therefore, the right **pedagogical** approach should be adopted, so that positive **resonance** is created in children's mental development and they can build their own lives.",
+        "bn": "একজন শিশুর বেড়ে ওঠা নির্ভর করে তার **parenting** style-এর উপর। মূলত, তিন ধরনের **parenting** রয়েছে — **authoritarian**, **permissive**, এবং **equitable**। **Authoritarian** পদ্ধতিতে বাবা-মায়ের কড়া নিয়ম থাকে এবং শিশুর **autonomy** খুব কম থাকে। শিশুরা হয়তো **compliance** শিখে, কিন্তু তারা নিজের সিদ্ধান্ত নিতে শেখে না, যা তাদের ভবিষ্যতে **cognitive** উন্নয়নে **hindrance** সৃষ্টি করতে পারে। অন্যদিকে, **permissive** পদ্ধতিতে বাবা-মায়েরা শিথিল নিয়ম অনুসরণ করেন, যার ফলে শিশুর **intrinsic** শৃঙ্খলা গড়ে ওঠে না। এতে **disparity** দেখা যায়, যেখানে কিছু শিশু দায়িত্বশীল হয়ে ওঠে, আবার কিছু **obstinacy** প্রদর্শন করে। সবচেয়ে কার্যকর পদ্ধতি হলো **equitable** parenting, যেখানে শৃঙ্খলা ও **nurturing** এর মধ্যে **juxtaposition** থাকে। এটি শিশুর আত্মবিশ্বাস **fostering** করে এবং তাদের **metamorphosis** নিশ্চিত করে, যা ভবিষ্যতে সফলতার জন্য গুরুত্বপূর্ণ। অতএব, সঠিক **pedagogical** দৃষ্টিভঙ্গি অবলম্বন করা উচিত, যাতে শিশুর মানসিক বিকাশে ইতিবাচক **resonance** তৈরি হয় এবং তারা নিজেদের জীবন গড়ে তুলতে পারে।"
+    },
+    "list": [
+        {
+            "word": "parenting",
+            "phonetic": "/ˈpeə.rən.tɪŋ/",
+            "word_native_transliteration": {
+                "bn": "পেয়ারেন্টিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👨‍👩‍👧‍👦",
+            "meaning": "The care and training a child receives while growing up, involving the development of their mental, physical, and social aspects.",
+            "example_sentence": "Effective parenting helps children develop confidence and independence.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইফেক্টিভ পেয়ারেন্টিং হেল্পস চিলড্রেন ডেভেলপ কনফিডেন্স এন্ড ইন্ডিপেন্ডেন্স।"
+            },
+            "position": 1,
+            "synonyms": "child-rearing, upbringing, nurturing",
+            "antonyms": "neglect, abandonment, indifference",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পিতামাতার পালন-পদ্ধতি",
+                    "word_transliteration": "pitamathar palon-poddhoti",
+                    "example_sentence_translation": "সফল পিতামাতার পালন-পদ্ধতি শিশুদের আত্মবিশ্বাসী ও স্বনির্ভর হতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Sofol pitamathar palon-poddhoti shishuderk atmobishshashi o shonirbhor hotey sahajjo korey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "authoritarian",
+            "phonetic": "/ɔːˌθɒr.ɪˈteə.ri.ən/",
+            "word_native_transliteration": {
+                "bn": "অথরিটেরিয়ান"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "👮",
+            "meaning": "Demanding absolute obedience to authority; excessively controlling or strict in governance.",
+            "example_sentence": "Authoritarian parenting often limits a child's independence.",
+            "example_sentence_native_transliteration": {
+                "bn": "অথরিটেরিয়ান পেয়ারেন্টিং অফেন লিমিটস আ চাইল্ডস ইন্ডিপেন্ডেন্স।"
+            },
+            "position": 2,
+            "synonyms": "strict, controlling, dictatorial",
+            "antonyms": "lenient, democratic, permissive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কর্তৃত্ববাদী",
+                    "word_transliteration": "kortrittobbadi",
+                    "example_sentence_translation": "কঠোর নিয়ন্ত্রক পিতামাতা শিশুর স্বাধীনতা সীমিত করতে পারে।",
+                    "example_sentence_transliteration": "Kothor niyontrok pitamata shishur shadhinota shimito korotey parey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "permissive",
+            "phonetic": "/pəˈmɪs.ɪv/",
+            "word_native_transliteration": {
+                "bn": "পারমিসিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🤷",
+            "meaning": "Allowing or characterized by great or excessive freedom of behavior; very lenient or indulgent.",
+            "example_sentence": "Permissive parenting can sometimes lead to a lack of discipline in children.",
+            "example_sentence_native_transliteration": {
+                "bn": "পারমিসিভ পেয়ারেন্টিং ক্যান সামটাইমস লিড টু আ ল্যাক অফ ডিসিপ্লিন ইন চিলড্রেন।"
+            },
+            "position": 3,
+            "synonyms": "lenient, indulgent, relaxed",
+            "antonyms": "restrictive, strict, authoritarian",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতি উদার",
+                    "word_transliteration": "oti udar",
+                    "example_sentence_translation": "অতি উদার পিতামাতার পালন-পদ্ধতি কখনও কখনও শিশুদের শৃঙ্খলার অভাব তৈরি করতে পারে।",
+                    "example_sentence_transliteration": "Oti udar pitamathar palon-poddhoti kokhono kokhono shishuderk shrinkholar abhab teyri korotey parey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "equitable",
+            "phonetic": "/ˈɛk.wɪ.tə.bəl/",
+            "word_native_transliteration": {
+                "bn": "একুইটেবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚖️",
+            "meaning": "Fair and impartial; treating all parties with justice and without bias.",
+            "example_sentence": "Equitable treatment in parenting fosters a healthy family environment.",
+            "example_sentence_native_transliteration": {
+                "bn": "একুইটেবল ট্রিটমেন্ট ইন পেয়ারেন্টিং ফস্টারস আ হেলথি ফ্যামিলি এনভায়রনমেন্ট।"
+            },
+            "position": 4,
+            "synonyms": "fair, just, impartial",
+            "antonyms": "unfair, biased, unequal",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ন্যায়সঙ্গত",
+                    "word_transliteration": "nyayshongoto",
+                    "example_sentence_translation": "ন্যায়সঙ্গত অভিভাবকত্ব একটি সুস্থ পারিবারিক পরিবেশ গড়ে তোলে।",
+                    "example_sentence_transliteration": "Nyayshongoto obhibhabokotto ekti shustho paribarik poribesh gorey toley.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "autonomy",
+            "phonetic": "/ɔːˈtɒn.ə.mi/",
+            "word_native_transliteration": {
+                "bn": "অটোনমি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🗽",
+            "meaning": "The right or condition of self-government; independence and the ability to make one's own decisions.",
+            "example_sentence": "Encouraging autonomy in children helps them build confidence.",
+            "example_sentence_native_transliteration": {
+                "bn": "এনকারেজিং অটোনমি ইন চিলড্রেন হেল্পস দেম বিল্ড কনফিডেন্স।"
+            },
+            "position": 5,
+            "synonyms": "independence, self-governance, freedom",
+            "antonyms": "dependence, subordination, restriction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বাধীনতা",
+                    "word_transliteration": "shadhinota",
+                    "example_sentence_translation": "শিশুদের আত্মনির্ভরতা গড়ে তুলতে উৎসাহিত করা তাদের আত্মবিশ্বাস বাড়াতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Shishuderk atmonirbhorata gorey tulotey utsahito kora taderk atmobishshash baratey sahajjo korey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "compliance",
+            "phonetic": "/kəmˈplaɪ.əns/",
+            "word_native_transliteration": {
+                "bn": "কমপ্লায়েন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✅",
+            "meaning": "The practice of conforming to rules, regulations, or laws; obedience to orders or instructions.",
+            "example_sentence": "Schools expect compliance with their rules and policies.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্কুলস এক্সপেক্ট কমপ্লায়েন্স উইথ দেয়ার রুলস এন্ড পলিসিস।"
+            },
+            "position": 6,
+            "synonyms": "obedience, adherence, conformity",
+            "antonyms": "defiance, resistance, rebellion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিয়ম মেনে চলা",
+                    "word_transliteration": "niyom meney chola",
+                    "example_sentence_translation": "বিদ্যালয়গুলো তাদের নিয়ম ও নীতির প্রতি আনুগত্য আশা করে।",
+                    "example_sentence_transliteration": "Bidhyaloyogulo taderk niyom o nitir proti anugotto asha korey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cognitive",
+            "phonetic": "/ˈkɒɡ.nɪ.tɪv/",
+            "word_native_transliteration": {
+                "bn": "কগনিটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧠",
+            "meaning": "Related to the mental processes of perception, memory, judgment, and reasoning; concerning thinking and understanding.",
+            "example_sentence": "Reading improves a child's cognitive skills.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিডিং ইমপ্রুভস আ চাইল্ডস কগনিটিভ স্কিলস।"
+            },
+            "position": 7,
+            "synonyms": "intellectual, mental, psychological",
+            "antonyms": "ignorant, unaware, uninformed",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জ্ঞানসংক্রান্ত",
+                    "word_transliteration": "gyanshongkranto",
+                    "example_sentence_translation": "পড়াশোনা শিশুর মানসিক দক্ষতা বৃদ্ধি করে।",
+                    "example_sentence_transliteration": "Porashona shishur manoshik dokkhota briddhi korey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "hindrance",
+            "phonetic": "/ˈhɪn.drəns/",
+            "word_native_transliteration": {
+                "bn": "হিনড্রেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚧",
+            "meaning": "A thing that provides resistance, delay, or obstruction to something or someone; an impediment.",
+            "example_sentence": "Lack of resources is a major hindrance to education.",
+            "example_sentence_native_transliteration": {
+                "bn": "ল্যাক অফ রিসোর্সেস ইজ আ মেজর হিনড্রেন্স টু এডুকেশন।"
+            },
+            "position": 8,
+            "synonyms": "obstacle, impediment, barrier",
+            "antonyms": "aid, assistance, facilitation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাধা",
+                    "word_transliteration": "badha",
+                    "example_sentence_translation": "সম্পদের অভাব শিক্ষার জন্য একটি বড় বাধা।",
+                    "example_sentence_transliteration": "Shompoder abhab shikkhar jonnyo ekti boro badha.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "intrinsic",
+            "phonetic": "/ɪnˈtrɪn.zɪk/",
+            "word_native_transliteration": {
+                "bn": "ইনট্রিনসিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💎",
+            "meaning": "Belonging naturally; essential; inherent in the nature of something rather than coming from external factors.",
+            "example_sentence": "A child's intrinsic curiosity drives them to learn.",
+            "example_sentence_native_transliteration": {
+                "bn": "আ চাইল্ডস ইনট্রিনসিক কিউরিওসিটি ড্রাইভস দেম টু লার্ন।"
+            },
+            "position": 9,
+            "synonyms": "inherent, essential, fundamental",
+            "antonyms": "extrinsic, superficial, external",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অন্তর্নিহিত",
+                    "word_transliteration": "antornihito",
+                    "example_sentence_translation": "একজন শিশুর অন্তর্নিহিত কৌতূহল তাকে শেখার দিকে ধাবিত করে।",
+                    "example_sentence_transliteration": "Ekjon shishur antornihito kouthol takei shekhar dikei dhabito korey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "disparity",
+            "phonetic": "/dɪˈspær.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "ডিসপারিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "A great difference or inequality; lack of equality or similarity between things being compared.",
+            "example_sentence": "The disparity in wealth distribution is a major global issue.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডিসপারিটি ইন ওয়েলথ ডিস্ট্রিবিউশন ইজ আ মেজর গ্লোবাল ইস্যু।"
+            },
+            "position": 10,
+            "synonyms": "inequality, difference, imbalance",
+            "antonyms": "equality, similarity, parity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পার্থক্য",
+                    "word_transliteration": "parthokyo",
+                    "example_sentence_translation": "সম্পদের বণ্টনের বৈষম্য একটি প্রধান বৈশ্বিক সমস্যা।",
+                    "example_sentence_transliteration": "Shompoder bontoner boishomyo ekti prodhan boishbhik shomoshya.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "obstinacy",
+            "phonetic": "/ˈɒb.stɪ.nə.si/",
+            "word_native_transliteration": {
+                "bn": "অবস্টিনেসি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "😤",
+            "meaning": "Stubborn refusal to change one's opinion or chosen course of action, despite attempts to persuade one to do so.",
+            "example_sentence": "His obstinacy made negotiations difficult.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ অবস্টিনেসি মেড নেগোসিয়েশনস ডিফিকাল্ট।"
+            },
+            "position": 11,
+            "synonyms": "stubbornness, inflexibility, tenacity",
+            "antonyms": "flexibility, open-mindedness, compliance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একগুঁয়েমি",
+                    "word_transliteration": "ekguyemi",
+                    "example_sentence_translation": "তার একগুঁয়েমি আলোচনাকে কঠিন করে তুলেছিল।",
+                    "example_sentence_transliteration": "Tar ekguyemi alochonakei kothin korey tulechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "juxtaposition",
+            "phonetic": "/ˌdʒʌk.stə.pəˈzɪʃ.ən/",
+            "word_native_transliteration": {
+                "bn": "জাক্সটাপজিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The fact of two things being seen or placed close together with contrasting effect; side-by-side comparison.",
+            "example_sentence": "The juxtaposition of modern and traditional architecture was striking.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য জাক্সটাপজিশন অফ মডার্ন এন্ড ট্র্যাডিশনাল আর্কিটেকচার ওয়াজ স্ট্রাইকিং।"
+            },
+            "position": 12,
+            "synonyms": "comparison, contrast, alignment",
+            "antonyms": "separation, disconnection, isolation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পারস্পরিক তুলনা",
+                    "word_transliteration": "paroshporik tulona",
+                    "example_sentence_translation": "আধুনিক ও ঐতিহ্যবাহী স্থাপত্যের তুলনা চমকপ্রদ ছিল।",
+                    "example_sentence_transliteration": "Adhunik o oitihyobahi sthapotter tulona chomokprodo chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fostering",
+            "phonetic": "/ˈfɒs.tər.ɪŋ/",
+            "word_native_transliteration": {
+                "bn": "ফস্টারিং"
+            },
+            "parts_of_speech": "noun/verb",
+            "emoji": "🌱",
+            "meaning": "The process of encouraging or promoting the development or growth of something; nurturing and caring for.",
+            "example_sentence": "Good teachers play a key role in fostering creativity in students.",
+            "example_sentence_native_transliteration": {
+                "bn": "গুড টিচারস প্লে আ কি রোল ইন ফস্টারিং ক্রিয়েটিভিটি ইন স্টুডেন্টস।"
+            },
+            "position": 13,
+            "synonyms": "nurturing, encouraging, promoting",
+            "antonyms": "neglecting, suppressing, hindering",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "লালন-পালন",
+                    "word_transliteration": "lalon-palon",
+                    "example_sentence_translation": "ভালো শিক্ষকরা শিক্ষার্থীদের সৃজনশীলতা লালন করতে গুরুত্বপূর্ণ ভূমিকা পালন করেন।",
+                    "example_sentence_transliteration": "Bhalo shikkhokra shikkharthiderk srijonshilota lalon korotey gurutbopurno bhumika palon korey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "metamorphosis",
+            "phonetic": "/ˌmɛt.əˈmɔːr.fə.sɪs/",
+            "word_native_transliteration": {
+                "bn": "মেটামরফোসিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🦋",
+            "meaning": "A change of the form or nature of a thing or person into a completely different one; transformation.",
+            "example_sentence": "The caterpillar undergoes metamorphosis to become a butterfly.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ক্যাটারপিলার আন্ডারগোজ মেটামরফোসিস টু বিকাম আ বাটারফ্লাই।"
+            },
+            "position": 14,
+            "synonyms": "transformation, evolution, change",
+            "antonyms": "stagnation, stability, consistency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রূপান্তর",
+                    "word_transliteration": "rupantor",
+                    "example_sentence_translation": "শুঁয়োপোকা প্রজাপতিতে পরিণত হতে রূপান্তরের মধ্য দিয়ে যায়।",
+                    "example_sentence_transliteration": "Shuyopoka projapotitey porinoto hotey rupantorer modhyo diyei jay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pedagogical",
+            "phonetic": "/ˌpɛd.əˈɡɒdʒ.ɪ.kəl/",
+            "word_native_transliteration": {
+                "bn": "পেডাগজিক্যাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📚",
+            "meaning": "Relating to teaching and education; concerned with the methods and practice of teaching.",
+            "example_sentence": "The school adopted new pedagogical techniques to improve learning.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্কুল এডপটেড নিউ পেডাগজিক্যাল টেকনিকস টু ইমপ্রুভ লার্নিং।"
+            },
+            "position": 15,
+            "synonyms": "educational, instructional, teaching-related",
+            "antonyms": "uneducational, uninstructive, non-academic",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শিক্ষাদান সংক্রান্ত",
+                    "word_transliteration": "shikkhadan shongkranto",
+                    "example_sentence_translation": "বিদ্যালয়টি শিক্ষার উন্নতির জন্য নতুন শিক্ষাদান পদ্ধতি গ্রহণ করেছে।",
+                    "example_sentence_transliteration": "Bidhyaloiti shikkhar unnotir jonnyo notun shikkhadan poddhoti grohon koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "resonance",
+            "phonetic": "/ˈrɛz.ə.nəns/",
+            "word_native_transliteration": {
+                "bn": "রেজোনেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔊",
+            "meaning": "The quality of being deep, full, and reverberating; a deep and continuing impact or effect.",
+            "example_sentence": "His speech had a strong resonance with the audience.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ স্পিচ হ্যাড আ স্ট্রং রেজোনেন্স উইথ দ্য অডিয়েন্স।"
+            },
+            "position": 16,
+            "synonyms": "reverberation, echo, impact",
+            "antonyms": "dissonance, insignificance, weakness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রভাব",
+                    "word_transliteration": "probhab",
+                    "example_sentence_translation": "তার বক্তৃতা শ্রোতাদের মনে গভীর প্রতিফলন সৃষ্টি করেছিল।",
+                    "example_sentence_transliteration": "Tar boktrita shrotaderk money gobhir protifolon srishti koreche.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

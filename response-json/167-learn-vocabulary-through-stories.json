@@ -1,0 +1,472 @@
+{
+    "position": 167,
+    "title_translation": {
+        "en": "Pomodoro Technique",
+        "bn": "পমোডোরো কৌশল"
+    },
+    "content_translation": {
+        "en": "The **Pomodoro** technique is a time management method that enhances work **productivity** through **diligence** and focused attention. After working for 25 minutes, a break is taken, and through this process, the quality of work can be **ameliorated**. This technique essentially divides your work into small sessions, which helps maintain focus and **punctuality**.\n\nFirst, you select a task and set a **pomodoro timer**. Then, you start working and when the timer rings, you put a **tick mark** and take a short 3-5 minute break. This results in **optimized** work because it doesn't force you to work without breaks and allows for **meticulous** focused work.\n\nAt the end of each session, if you have four **tangible** tick marks, you prepare for a **subsequent** long break. Through this, your attention becomes **synergized** and both the speed and energy of work experience a **resurgence**.\n\nThis is not just a type of **fluctuate**, but a **zealous** initiative that increases your **vigilance** and work efficiency. The Pomodoro technique is an extremely effective method to bring **congruence** to your daily work.",
+        "bn": "পমোডোরো কৌশল একটি সময় ব্যবস্থাপনা পদ্ধতি যা **diligence** এবং মনোযোগের মাধ্যমে কাজের **productivity** বৃদ্ধির জন্য ব্যবহৃত হয়। ২৫ মিনিটের কাজের পর একটি বিরতি নেওয়া হয়, এবং এর মাধ্যমে কাজের গুণগত মান **ameliorate** করা যায়। এই কৌশলটি মূলত আপনার কাজকে ছোট ছোট সেশনগুলিতে বিভক্ত করে, যাতে মনোযোগ বজায় থাকে এবং **punctuality** বজায় রাখা সম্ভব হয়।\n\nপ্রথমে, আপনি একটি কাজ নির্বাচন করেন এবং **pomodoro timer** সেট করেন। এরপর, আপনি কাজ শুরু করেন এবং যখন টাইমার বেজে উঠবে, তখন আপনি একটি **tick** চিহ্ন দেন এবং ৩-৫ মিনিটের একটি ছোট বিরতি নেন। এই পদ্ধতি **optimized** কাজে পরিণত হয়, কারণ এটি আপনাকে বিরতিহীন কাজ করতে বাধ্য করে না এবং **meticulous** মনোযোগে কাজ করার সুযোগ দেয়।\n\nপ্রতিটি সেশনের শেষে, আপনি যদি চারটি **tangible** টিক চিহ্ন পান, তবে আপনি **subsequent** দীর্ঘ বিরতির জন্য প্রস্তুত হন। এর মাধ্যমে আপনার মনোযোগ **synergize** হয় এবং কাজের গতি এবং শক্তি উভয়ই **resurgence** পায়।\n\nএটি শুধু এক ধরনের **fluctuate** হওয়া নয়, বরং একটি **zealous** উদ্যোগ যা আপনার **vigilance** এবং কাজের দক্ষতা আরও বাড়ায়। আপনার প্রতিদিনের কাজে **congruence** আনতে পমোডোরো কৌশল একটি অত্যন্ত কার্যকর পদ্ধতি।"
+    },
+    "list": [
+        {
+            "word": "diligence",
+            "phonetic": "ˈdɪlɪdʒəns",
+            "word_native_transliteration": {
+                "bn": "ডিলিজেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "Careful and persistent work or effort; conscientiousness in paying proper attention to a task.",
+            "example_sentence": "His diligence in completing tasks earned him a promotion.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ডিলিজেন্স ইন কমপ্লিটিং ট্যাস্কস আর্নড হিম এ প্রমোশন।"
+            },
+            "position": 1,
+            "synonyms": "persistence, effort, attentiveness, assiduity, industriousness",
+            "antonyms": "negligence, laziness, carelessness, indolence, slackness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অধ্যবসায়, নিষ্ঠা, যত্নশীলতা",
+                    "word_transliteration": "oddhyoboshay, nishtha, jotnoshilota",
+                    "example_sentence_translation": "কার্য সম্পন্ন করতে তার অধ্যবসায় তাকে পদোন্নতি এনে দিয়েছে।",
+                    "example_sentence_transliteration": "Karjo shomponto korote tar oddhyoboshay take podonnoти ene diyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "productivity",
+            "phonetic": "prəˈdʌktɪvɪti",
+            "word_native_transliteration": {
+                "bn": "প্রোডাক্টিভিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "The effectiveness of productive effort, especially in industry, as measured in terms of the rate of output per unit of input.",
+            "example_sentence": "The company's productivity has increased due to improved processes.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানিজ প্রোডাক্টিভিটি হ্যাজ ইনক্রিজড ডিউ টু ইমপ্রুভড প্রসেসেস।"
+            },
+            "position": 2,
+            "synonyms": "efficiency, output, performance, effectiveness, fruitfulness",
+            "antonyms": "inefficiency, unproductiveness, stagnation, inactivity, idleness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উৎপাদনশীলতা, কার্যক্ষমতা",
+                    "word_transliteration": "utpadonsheelota, karjokkhomota",
+                    "example_sentence_translation": "উন্নত প্রক্রিয়ার কারণে কোম্পানির উৎপাদনশীলতা বৃদ্ধি পেয়েছে।",
+                    "example_sentence_transliteration": "Unnotо prokria'r karone kompanir utpadonsheelota briddhi peyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ameliorate",
+            "phonetic": "əˈmiːljəreɪt",
+            "word_native_transliteration": {
+                "bn": "এমিলিওরেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⬆️",
+            "meaning": "To make better; improve or enhance something.",
+            "example_sentence": "The new policies are designed to ameliorate living conditions.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিউ পলিসিজ আর ডিজাইনড টু এমিলিওরেট লিভিং কন্ডিশনস।"
+            },
+            "position": 3,
+            "synonyms": "improve, enhance, better, upgrade, refine",
+            "antonyms": "worsen, deteriorate, aggravate, decline, degrade",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উন্নত করা, মান উন্নয়ন করা",
+                    "word_transliteration": "unnoto kora, man unnoyon kora",
+                    "example_sentence_translation": "নতুন নীতি জীবনযাত্রার শর্ত উন্নত করার জন্য ডিজাইন করা হয়েছে।",
+                    "example_sentence_transliteration": "Notun neeti jibonjaṯrar shorto unnoto korar jonno design kora hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sessions",
+            "phonetic": "ˈsɛʃənz",
+            "word_native_transliteration": {
+                "bn": "সেশনস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🕒",
+            "meaning": "A meeting of an official body, especially a court of law, to conduct its business; a period devoted to a particular activity.",
+            "example_sentence": "The sessions lasted for three hours.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সেশনস লাস্টেড ফর থ্রি আওয়ারস।"
+            },
+            "position": 4,
+            "synonyms": "meetings, gatherings, assemblies, conferences, seminars",
+            "antonyms": "breaks, intervals, pauses, intermissions, recesses",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অধিবেশন, মিটিং, সময়সীমা",
+                    "word_transliteration": "odhibeshon, meeting, shomoysheema",
+                    "example_sentence_translation": "অধিবেশনগুলো তিন ঘন্টা চলেছিল।",
+                    "example_sentence_transliteration": "Odhibeshongulo tin ghonta cholechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "punctuality",
+            "phonetic": "ˌpʌŋkˈtʃʊəlɪti",
+            "word_native_transliteration": {
+                "bn": "পাংকচুয়ালিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⏰",
+            "meaning": "The quality of being on time; the habit of arriving or doing things at the agreed or proper time.",
+            "example_sentence": "Punctuality is a valued trait in professional settings.",
+            "example_sentence_native_transliteration": {
+                "bn": "পাংকচুয়ালিটি ইজ এ ভ্যালুড ট্রেইট ইন প্রফেশনাল সেটিংস।"
+            },
+            "position": 5,
+            "synonyms": "timeliness, promptness, regularity, reliability, precision",
+            "antonyms": "tardiness, delay, lateness, unpunctuality, procrastination",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সময়নিষ্ঠা, নির্ধারিত সময়ে উপস্থিত হওয়া",
+                    "word_transliteration": "shomoynishtha, nirdhariто shomoy'e uposthito hoya",
+                    "example_sentence_translation": "পেশাদার পরিবেশে সময়নিষ্ঠা একটি মূল্যবান গুণ।",
+                    "example_sentence_transliteration": "Peshadar poribesh'e shomoynishtha ekti mulyoban gun.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "timer",
+            "phonetic": "ˈtaɪmər",
+            "word_native_transliteration": {
+                "bn": "টাইমার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⏲️",
+            "meaning": "An automatic mechanism for activating a device at a preset time; a device that measures time intervals.",
+            "example_sentence": "He set the timer for 30 minutes to complete the task.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি সেট দ্য টাইমার ফর থার্টি মিনিটস টু কমপ্লিট দ্য ট্যাস্ক।"
+            },
+            "position": 6,
+            "synonyms": "clock, stopwatch, counter, chronometer, timepiece",
+            "antonyms": "disregard, delay, neglect, ignore, postponement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সময়সীমা নির্ধারণকারী, সময় গণনা যন্ত্র",
+                    "word_transliteration": "shomoysheema nirdharnokari, shomoy gonona jontro",
+                    "example_sentence_translation": "সে কাজটি সম্পন্ন করতে ৩০ মিনিটের জন্য টাইমার সেট করেছিল।",
+                    "example_sentence_transliteration": "She kajti shomponto korote 30 miniter jonno timer set korechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "tick mark",
+            "phonetic": "tɪk mɑːrk",
+            "word_native_transliteration": {
+                "bn": "টিক মার্ক"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✅",
+            "meaning": "A mark (✓) used to indicate that something is correct or has been chosen, checked, or dealt with.",
+            "example_sentence": "I put a tick mark on all the completed tasks.",
+            "example_sentence_native_transliteration": {
+                "bn": "আই পুট এ টিক মার্ক অন অল দ্য কমপ্লিটেড ট্যাস্কস।"
+            },
+            "position": 7,
+            "synonyms": "check mark, cross, indicator, symbol, sign",
+            "antonyms": "x, cross mark, disapproval, rejection, error mark",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চিহ্ন, সঠিক হওয়ার চিহ্ন",
+                    "word_transliteration": "chinho, shothik hoyar chinho",
+                    "example_sentence_translation": "আমি সব সম্পন্ন কাজের উপর একটি টিক মার্ক দিয়েছিলাম।",
+                    "example_sentence_transliteration": "Ami shob shomponto kajer upor ekti tick mark diyechhilam.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "optimized",
+            "phonetic": "ˈɒptɪmaɪzd",
+            "word_native_transliteration": {
+                "bn": "অপটিমাইজড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎯",
+            "meaning": "Made as fully perfect, functional, or effective as possible; improved to achieve maximum efficiency.",
+            "example_sentence": "The system has been optimized for faster performance.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সিস্টেম হ্যাজ বিন অপটিমাইজড ফর ফাস্টার পারফরমেন্স।"
+            },
+            "position": 8,
+            "synonyms": "improved, refined, enhanced, perfected, streamlined",
+            "antonyms": "inefficient, suboptimal, faulty, impaired, degraded",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সর্বোত্তম, উন্নত, আরও কার্যকরী",
+                    "word_transliteration": "shorbottom, unnoto, aro karjokori",
+                    "example_sentence_translation": "সিস্টেমটি দ্রুততর কর্মক্ষমতার জন্য অপটিমাইজড হয়েছে।",
+                    "example_sentence_transliteration": "System-ti drutottor kormokkhomotar jonno optimized hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "meticulous",
+            "phonetic": "mɪˈtɪkjʊləs",
+            "word_native_transliteration": {
+                "bn": "মেটিকিউলাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔍",
+            "meaning": "Showing great attention to detail; very careful and precise.",
+            "example_sentence": "She is meticulous in her work, ensuring every detail is perfect.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি ইজ মেটিকিউলাস ইন হার ওয়ার্ক, এনশিউরিং এভরি ডিটেইল ইজ পারফেক্ট।"
+            },
+            "position": 9,
+            "synonyms": "detailed, careful, precise, thorough, conscientious",
+            "antonyms": "careless, hasty, sloppy, negligent, inattentive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিস্তারিত মনোযোগী, সূক্ষ্ম",
+                    "word_transliteration": "bistarito monojogi, shukkho",
+                    "example_sentence_translation": "সে তার কাজে অত্যন্ত মনোযোগী, নিশ্চিত করে যে প্রতিটি বিস্তারিত নিখুঁত।",
+                    "example_sentence_transliteration": "She tar kaj'e ottyonto monojogi, nishchito kore je protiti bistarito nikhunto.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "tangible",
+            "phonetic": "ˈtændʒəbl",
+            "word_native_transliteration": {
+                "bn": "ট্যাংগিবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "👁️",
+            "meaning": "Perceptible by touch; clear and definite; real.",
+            "example_sentence": "There was no tangible evidence to support the accusation.",
+            "example_sentence_native_transliteration": {
+                "bn": "দেয়ার ওয়াজ নো ট্যাংগিবল এভিডেন্স টু সাপোর্ট দ্য অ্যাকিউজেশন।"
+            },
+            "position": 10,
+            "synonyms": "perceptible, touchable, concrete, solid, real",
+            "antonyms": "intangible, abstract, immaterial, theoretical, conceptual",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্পষ্ট, বাস্তব, দৃশ্যমান",
+                    "word_transliteration": "sposhto, bastob, drishhoman",
+                    "example_sentence_translation": "অভিযোগ সমর্থন করার জন্য কোনও দৃশ্যমান প্রমাণ ছিল না।",
+                    "example_sentence_transliteration": "Obhijog shomorthon korar jonno kono drishhoman proman chhilo na.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "subsequent",
+            "phonetic": "ˈsʌbsɪkwənt",
+            "word_native_transliteration": {
+                "bn": "সাবসিকুয়েন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "➡️",
+            "meaning": "Coming after something in time; following in time or order.",
+            "example_sentence": "The subsequent steps were more complicated than expected.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সাবসিকুয়েন্ট স্টেপস ওয়ার মোর কমপ্লিকেটেড দ্যান এক্সপেক্টেড।"
+            },
+            "position": 11,
+            "synonyms": "following, succeeding, afterward, later, ensuing",
+            "antonyms": "preceding, prior, former, earlier, previous",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরবর্তী, পরবর্তী সময়ে",
+                    "word_transliteration": "porobortee, porobortee shomoy'e",
+                    "example_sentence_translation": "পরবর্তী পদক্ষেপগুলো প্রত্যাশার চেয়ে বেশি জটিল ছিল।",
+                    "example_sentence_transliteration": "Porobortee podokkhepgulo protyashar cheye beshi jotil chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "synergize",
+            "phonetic": "ˈsɪnərdʒaɪz",
+            "word_native_transliteration": {
+                "bn": "সিনারজাইজ"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🤝",
+            "meaning": "To combine in such a way that the total effect is greater than the sum of the individual effects; to work together cooperatively.",
+            "example_sentence": "The two companies plan to synergize their efforts for greater success.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য টু কোম্পানিজ প্ল্যান টু সিনারজাইজ দেয়ার এফোর্টস ফর গ্রেটার সাকসেস।"
+            },
+            "position": 12,
+            "synonyms": "cooperate, collaborate, integrate, combine, unite",
+            "antonyms": "disband, separate, dismiss, divide, disconnect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহযোগিতা করা, মিলিত হওয়া",
+                    "word_transliteration": "shohojogita kora, milito hoya",
+                    "example_sentence_translation": "দুটি কোম্পানি বৃহত্তর সাফল্যের জন্য তাদের প্রচেষ্টাগুলি মিলিত করার পরিকল্পনা করেছে।",
+                    "example_sentence_transliteration": "Duti kompani brihottoro shafollyer jonno tader procheshtaguli milito korar porikalpona koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "resurgence",
+            "phonetic": "rɪˈsɜːdʒəns",
+            "word_native_transliteration": {
+                "bn": "রিসারজেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "An increase or revival after a period of little activity, popularity, or occurrence; a renewal of strength or activity.",
+            "example_sentence": "There has been a resurgence in interest in traditional arts.",
+            "example_sentence_native_transliteration": {
+                "bn": "দেয়ার হ্যাজ বিন এ রিসারজেন্স ইন ইন্টারেস্ট ইন ট্রাডিশনাল আর্টস।"
+            },
+            "position": 13,
+            "synonyms": "revival, rebirth, restoration, renewal, comeback",
+            "antonyms": "decline, deterioration, collapse, downfall, weakening",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুনরুত্থান, পুনর্জীবন",
+                    "word_transliteration": "punorutthan, punorjibon",
+                    "example_sentence_translation": "প্রথাগত শিল্পে আগ্রহের পুনরুত্থান ঘটেছে।",
+                    "example_sentence_transliteration": "Prothagoto shilpe agroher punorutthan ghoteche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fluctuate",
+            "phonetic": "ˈflʌktʃʊeɪt",
+            "word_native_transliteration": {
+                "bn": "ফ্লাকচুয়েট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📊",
+            "meaning": "To rise and fall irregularly in number or amount; to change continually; to be unstable or vary.",
+            "example_sentence": "Prices of raw materials fluctuate due to market demand.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রাইসেস অব র ম্যাটেরিয়ালস ফ্লাকচুয়েট ডিউ টু মার্কেট ডিমান্ড।"
+            },
+            "position": 14,
+            "synonyms": "vary, oscillate, shift, change, waver",
+            "antonyms": "stabilize, steady, maintain, fix, constant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ওঠা-নামা করা, পরিবর্তিত হওয়া",
+                    "word_transliteration": "otha-nama kora, poribortito hoya",
+                    "example_sentence_translation": "কাঁচা মালের দাম বাজারের চাহিদার কারণে ওঠানামা করে।",
+                    "example_sentence_transliteration": "Kancha maler dam bajarer chahidar karone othanama kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "zealous",
+            "phonetic": "ˈzɛləs",
+            "word_native_transliteration": {
+                "bn": "জিলাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔥",
+            "meaning": "Having or showing great energy or enthusiasm in pursuit of a cause or objective; fervent.",
+            "example_sentence": "The zealous volunteers worked tirelessly for the cause.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য জিলাস ভলান্টিয়ারস ওয়ার্কড টায়ারলেসলি ফর দ্য কজ।"
+            },
+            "position": 15,
+            "synonyms": "enthusiastic, passionate, fervent, devoted, ardent",
+            "antonyms": "indifferent, apathetic, unconcerned, lukewarm, halfhearted",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উত্তেজিত, উদ্দীপিত",
+                    "word_transliteration": "uttejito, uddepito",
+                    "example_sentence_translation": "উত্তেজিত স্বেচ্ছাসেবকরা উদ্দেশ্যের জন্য অবিচলভাবে কাজ করেছেন।",
+                    "example_sentence_transliteration": "Uttejito swecchashebokra uddeshhyer jonno obicholbhabe kaj korechen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "vigilance",
+            "phonetic": "ˈvɪdʒɪləns",
+            "word_native_transliteration": {
+                "bn": "ভিজিল্যান্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👁️",
+            "meaning": "The action or state of keeping careful watch for possible danger or difficulties; alertness.",
+            "example_sentence": "Vigilance is necessary to ensure safety in the workplace.",
+            "example_sentence_native_transliteration": {
+                "bn": "ভিজিল্যান্স ইজ নেসেসারি টু এনশিউর সেফটি ইন দ্য ওয়ার্কপ্লেস।"
+            },
+            "position": 16,
+            "synonyms": "alertness, watchfulness, caution, attention, surveillance",
+            "antonyms": "negligence, carelessness, laxness, inattention, neglect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সতর্কতা, নজরদারি",
+                    "word_transliteration": "shotorkota, nojordari",
+                    "example_sentence_translation": "কর্মস্থলে নিরাপত্তা নিশ্চিত করতে সতর্কতা প্রয়োজন।",
+                    "example_sentence_transliteration": "Kormosthol'e nirappotta nishchito korote shotorkota proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "congruence",
+            "phonetic": "ˈkɒŋɡruːəns",
+            "word_native_transliteration": {
+                "bn": "কংগ্রুয়েন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "Agreement or harmony; compatibility between opinions or actions; the quality or state of agreeing or corresponding.",
+            "example_sentence": "The congruence of their ideas led to a successful partnership.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কংগ্রুয়েন্স অব দেয়ার আইডিয়াজ লেড টু এ সাকসেসফুল পার্টনারশিপ।"
+            },
+            "position": 17,
+            "synonyms": "consistency, harmony, agreement, compatibility, accord",
+            "antonyms": "discrepancy, disparity, inconsistency, disagreement, conflict",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সামঞ্জস্য, একত্রিত হওয়া",
+                    "word_transliteration": "shamongshho, ektrito hoya",
+                    "example_sentence_translation": "তাদের ধারণাগুলির সামঞ্জস্য সফল অংশীদারিত্বের দিকে নিয়ে গেছে।",
+                    "example_sentence_transliteration": "Tader dharonagulir shamongshho shofol ongshedarittyer dike niye geche.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

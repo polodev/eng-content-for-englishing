@@ -1,0 +1,553 @@
+{
+    "position": 164,
+    "title_translation": {
+        "en": "Overcoming Procrastination with Discipline",
+        "bn": "শৃঙ্খলার মাধ্যমে গড়িমসি কাটিয়ে ওঠা"
+    },
+    "content_translation": {
+        "en": "**Procrastination** is a **pernicious** enemy in our lives that causes our potential to **languish**. When we want to tackle difficult tasks, **ambivalence** holds us back. It is difficult to **circumvent** this mindset, but proper **discipline** can free us.\n\nFirst, we must emerge from **complacency** and show **tenacity** in overcoming **predicament**. Building small habits acts as a **catalyst** and increases **diligence**. Often starting work seems **daunting**, but once started, **efficacy** continues to improve.\n\nGenerally, **intermittent** work does not **reinforce** us but increases **exasperation**. Therefore, we need to maintain **unwavering** focus and move forward without being **oblivious**.\n\nFinally, **discipline** helps us **mitigate** problems and shows the path to true success. When we remain steadfast without **relinquishing**, **procrastination** no longer stands as a barrier.",
+        "bn": "**Procrastination** আমাদের জীবনের এক **pernicious** শত্রু, যা আমাদের সম্ভাবনাকে **languish** করতে বাধ্য করে। আমরা যখন কোনো কঠিন কাজে হাত দিতে চাই, তখন **ambivalence** আমাদের পেছনে টেনে ধরে। এই মানসিকতা **circumvent** করা কঠিন, কিন্তু সঠিক **discipline** আমাদের মুক্ত করতে পারে।\n\nপ্রথমে, আমাদের **complacency** থেকে বের হতে হবে এবং **predicament** কাটিয়ে উঠতে **tenacity** দেখাতে হবে। ছোট ছোট অভ্যাস গড়ে তোলা **catalyst** হিসেবে কাজ করে এবং **diligence** বাড়ায়। অনেক সময় কাজ শুরু করা **daunting** মনে হয়, কিন্তু একবার শুরু করলে **efficacy** বাড়তে থাকে।\n\nসাধারণত, **intermittent** কাজ আমাদের **reinforce** না করে বরং **exasperation** বাড়িয়ে দেয়। তাই, আমাদের **unwavering** মনোযোগ রাখতে হবে এবং **oblivious** না হয়ে এগিয়ে যেতে হবে।\n\nশেষ পর্যন্ত, **discipline** আমাদের **mitigate** করতে সাহায্য করে এবং প্রকৃত সফলতার পথ দেখায়। যখন আমরা **relinquish** না করে অটুট থাকি, তখন **procrastination** আর বাধা হয়ে দাঁড়ায় না।"
+    },
+    "list": [
+        {
+            "word": "procrastination",
+            "phonetic": "prəˌkræs.tɪˈneɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "প্রোক্র্যাসটিনেইশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⏰",
+            "meaning": "The tendency to delay important tasks or work.",
+            "example_sentence": "Excessive procrastination affects work performance.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সেসিভ প্রোক্র্যাসটিনেইশন অ্যাফেক্টস ওয়ার্ক পারফরমেন্স।"
+            },
+            "position": 1,
+            "synonyms": "Delay, Postponement, Avoidance",
+            "antonyms": "Action, Productivity, Efficiency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গড়িমসি বা কাজ পেছানো",
+                    "word_transliteration": "gorimoshi ba kaj pechano",
+                    "example_sentence_translation": "অতিরিক্ত গড়িমসি কাজের দক্ষতার ওপর প্রভাব ফেলে।",
+                    "example_sentence_transliteration": "Otirikto gorimoshi kajer dokkhatar opor prabhab fele.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pernicious",
+            "phonetic": "pɚˈnɪʃ.əs",
+            "word_native_transliteration": {
+                "bn": "পার্নিশাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "☠️",
+            "meaning": "Having the capability to cause severe and gradual harm or damage.",
+            "example_sentence": "Misinformation can have pernicious effects on society.",
+            "example_sentence_native_transliteration": {
+                "bn": "মিসইনফরমেইশন ক্যান হ্যাভ পার্নিশাস ইফেক্টস অন সোসাইটি।"
+            },
+            "position": 2,
+            "synonyms": "Harmful, Destructive, Malicious",
+            "antonyms": "Harmless, Beneficial, Constructive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিপজ্জনক বা ধ্বংসাত্মক",
+                    "word_transliteration": "bipojjonok ba dhongshatmok",
+                    "example_sentence_translation": "ভুল তথ্য সমাজের ওপর ধ্বংসাত্মক প্রভাব ফেলতে পারে।",
+                    "example_sentence_transliteration": "Bhul tothyo shomajer opor dhongshatmok prabhab felte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "languish",
+            "phonetic": "ˈlæŋ.ɡwɪʃ",
+            "word_native_transliteration": {
+                "bn": "ল্যাঙ্গুইশ"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🥀",
+            "meaning": "To remain in a state of neglect or decline for a long time without improvement.",
+            "example_sentence": "The project began to languish due to a lack of funding.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রোজেক্ট বিগান টু ল্যাঙ্গুইশ ডিউ টু আ ল্যাক অফ ফান্ডিং।"
+            },
+            "position": 3,
+            "synonyms": "Weaken, Decline, Deteriorate",
+            "antonyms": "Thrive, Flourish, Strengthen",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দুর্বল হয়ে পড়া বা স্থবির হয়ে পড়া",
+                    "word_transliteration": "durbol hoye pora ba sthabir hoye pora",
+                    "example_sentence_translation": "তহবিলের অভাবে প্রকল্পটি স্থবির হয়ে পড়েছিল।",
+                    "example_sentence_transliteration": "Tohobiler obhabe prokolpoti sthabir hoye porechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ambivalence",
+            "phonetic": "æmˈbɪv.ə.ləns",
+            "word_native_transliteration": {
+                "bn": "অ্যামবিভ্যালেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤔",
+            "meaning": "Having conflicting feelings or opinions about the same subject.",
+            "example_sentence": "She felt ambivalence about moving to a new city.",
+            "example_sentence_native_transliteration": {
+                "bn": "শী ফেল্ট অ্যামবিভ্যালেন্স অ্যাবাউট মুভিং টু আ নিউ সিটি।"
+            },
+            "position": 4,
+            "synonyms": "Uncertainty, Indecisiveness, Mixed Feelings",
+            "antonyms": "Certainty, Clarity, Determination",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্বিধা বা মিশ্র অনুভূতি",
+                    "word_transliteration": "dwidha ba mishra onubhuti",
+                    "example_sentence_translation": "নতুন শহরে স্থানান্তরিত হওয়া নিয়ে তিনি দ্বিধাগ্রস্ত ছিলেন।",
+                    "example_sentence_transliteration": "Notun shohore sthanantorito howa niye tini dwidhagrosto chilena.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "circumvent",
+            "phonetic": "ˌsɝː.kəmˈvent",
+            "word_native_transliteration": {
+                "bn": "সার্কামভেন্ট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🚫",
+            "meaning": "To cleverly avoid or find a way around obstacles or rules.",
+            "example_sentence": "He tried to circumvent the security system.",
+            "example_sentence_native_transliteration": {
+                "bn": "হী ট্রাইড টু সার্কামভেন্ট দ্য সিকিউরিটি সিস্টেম।"
+            },
+            "position": 5,
+            "synonyms": "Bypass, Evade, Outmaneuver",
+            "antonyms": "Confront, Face, Comply",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চতুরতার সাথে এড়ানো বা পাশ কাটানো",
+                    "word_transliteration": "choturar sathe erano ba pash katano",
+                    "example_sentence_translation": "তিনি নিরাপত্তা ব্যবস্থা পাশ কাটানোর চেষ্টা করেছিলেন।",
+                    "example_sentence_transliteration": "Tini nirapotta bebostha pash katanor chesta korechilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "discipline",
+            "phonetic": "ˈdɪs.ə.plɪn",
+            "word_native_transliteration": {
+                "bn": "ডিসিপ্লিন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "The habit of following rules and maintaining self-control or regulation skills.",
+            "example_sentence": "Regular exercise requires discipline and consistency.",
+            "example_sentence_native_transliteration": {
+                "bn": "রেগুলার এক্সারসাইজ রিকোয়ারস ডিসিপ্লিন অ্যান্ড কনসিস্টেন্সি।"
+            },
+            "position": 6,
+            "synonyms": "Self-control, Order, Regulation",
+            "antonyms": "Chaos, Disorder, Negligence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শৃঙ্খলা বা নিয়মানুবর্তিতা",
+                    "word_transliteration": "shringkhola ba niyamanubortita",
+                    "example_sentence_translation": "নিয়মিত ব্যায়ামের জন্য শৃঙ্খলা ও ধারাবাহিকতা প্রয়োজন।",
+                    "example_sentence_transliteration": "Niyomito byayamer jonno shringkhola o dharabahikota proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "complacency",
+            "phonetic": "kəmˈpleɪ.sən.si",
+            "word_native_transliteration": {
+                "bn": "কমপ্লেইসেনসি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "😌",
+            "meaning": "Being satisfied with current state and not trying to improve.",
+            "example_sentence": "Too much complacency can hinder personal growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "টু মাচ কমপ্লেইসেনসি ক্যান হিন্ডার পারসোনাল গ্রোথ।"
+            },
+            "position": 7,
+            "synonyms": "Self-satisfaction, Contentment, Smugness",
+            "antonyms": "Awareness, Concern, Vigilance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আত্মসন্তুষ্টি বা অসতর্কতা",
+                    "word_transliteration": "attoshontushti ba oshotkorkota",
+                    "example_sentence_translation": "অতিরিক্ত আত্মসন্তুষ্টি ব্যক্তিগত উন্নতির পথে বাধা হয়ে দাঁড়াতে পারে।",
+                    "example_sentence_transliteration": "Otirikto attoshontushti bektigoto onnotir pothe badha hoye darate pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "predicament",
+            "phonetic": "prɪˈdɪk.ə.mənt",
+            "word_native_transliteration": {
+                "bn": "প্রিডিক্যামেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "😰",
+            "meaning": "A difficult or confusing situation.",
+            "example_sentence": "He found himself in a financial predicament.",
+            "example_sentence_native_transliteration": {
+                "bn": "হী ফাউন্ড হিমসেল্ফ ইন আ ফাইন্যান্সিয়াল প্রিডিক্যামেন্ট।"
+            },
+            "position": 8,
+            "synonyms": "Dilemma, Difficulty, Hardship",
+            "antonyms": "Solution, Advantage, Ease",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংকট বা জটিল পরিস্থিতি",
+                    "word_transliteration": "shongkot ba jotil poristhiti",
+                    "example_sentence_translation": "তিনি নিজেকে আর্থিক সংকটে আবিষ্কার করলেন।",
+                    "example_sentence_transliteration": "Tini nijeke arthik shongkote abishkar korlen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "tenacity",
+            "phonetic": "təˈnæs.ə.ti",
+            "word_native_transliteration": {
+                "bn": "টেনাসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The ability to persist in difficult situations.",
+            "example_sentence": "His tenacity helped him achieve success despite obstacles.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ টেনাসিটি হেল্পড হিম অ্যাচিভ সাকসেস ডিসপাইট অবস্ট্যাকেলস।"
+            },
+            "position": 9,
+            "synonyms": "Determination, Persistence, Perseverance",
+            "antonyms": "Weakness, Indecision, Surrender",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অবিচলতা বা দৃঢ় সংকল্প",
+                    "word_transliteration": "obicholota ba dridho shongkolpo",
+                    "example_sentence_translation": "তার অবিচলতা তাকে বাধা সত্ত্বেও সাফল্য অর্জনে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Tar obicholota take badha sotteo shafolyo orjone shahajyo koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "catalyst",
+            "phonetic": "ˈkæt̬.ə.lɪst",
+            "word_native_transliteration": {
+                "bn": "ক্যাটালিস্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "An element that speeds up a process or change.",
+            "example_sentence": "The new policy acted as a catalyst for economic growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিউ পলিসি অ্যাক্টেড অ্যাজ আ ক্যাটালিস্ট ফর ইকোনমিক গ্রোথ।"
+            },
+            "position": 10,
+            "synonyms": "Stimulus, Accelerator, Trigger",
+            "antonyms": "Hindrance, Obstacle, Prevention",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিবর্তনের উদ্দীপক বা অনুঘটক",
+                    "word_transliteration": "poribortoner uddipok ba onughotok",
+                    "example_sentence_translation": "নতুন নীতিটি অর্থনৈতিক প্রবৃদ্ধির জন্য অনুঘটক হিসেবে কাজ করেছে।",
+                    "example_sentence_transliteration": "Notun nititi orthonoitik probriddhir jonno onughotok hishebe kaj koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "diligence",
+            "phonetic": "ˈdɪl.ɪ.dʒəns",
+            "word_native_transliteration": {
+                "bn": "ডিলিজেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📚",
+            "meaning": "Dedication and focus towards work.",
+            "example_sentence": "Success comes with patience and diligence.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাকসেস কামস উইথ পেইশেন্স অ্যান্ড ডিলিজেন্স।"
+            },
+            "position": 11,
+            "synonyms": "Hard work, Attentiveness, Perseverance",
+            "antonyms": "Carelessness, Negligence, Laziness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিশ্রম ও অধ্যবসায়",
+                    "word_transliteration": "porishrom o adhyoboshay",
+                    "example_sentence_translation": "সফলতা আসে ধৈর্য ও পরিশ্রমের মাধ্যমে।",
+                    "example_sentence_transliteration": "Shofolota ashe dhoirjo o porishromer madhyome.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "daunting",
+            "phonetic": "ˈdɔːn.tɪŋ",
+            "word_native_transliteration": {
+                "bn": "ডন্টিং"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "😨",
+            "meaning": "Something that seems intimidating or challenging.",
+            "example_sentence": "The task seemed daunting, but she completed it successfully.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য টাস্ক সিমড ডন্টিং, বাট শী কমপ্লিটেড ইট সাকসেসফুলি।"
+            },
+            "position": 12,
+            "synonyms": "Intimidating, Overwhelming, Challenging",
+            "antonyms": "Encouraging, Easy, Manageable",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভয়ঙ্কর বা কঠিন",
+                    "word_transliteration": "bhoyonkor ba kothin",
+                    "example_sentence_translation": "কাজটি ভীতিজনক মনে হলেও, তিনি সফলভাবে শেষ করেছেন।",
+                    "example_sentence_transliteration": "Kajoti bhitijonok mone holeyo, tini shofolbhabe shesh korechen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "efficacy",
+            "phonetic": "ˈɛf.ɪ.kə.si",
+            "word_native_transliteration": {
+                "bn": "এফিক্যাসি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✅",
+            "meaning": "The degree of being effective in achieving specific goals.",
+            "example_sentence": "The efficacy of a new drug must be tested before approval.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এফিক্যাসি অফ আ নিউ ড্রাগ মাস্ট বি টেস্টেড বিফোর অ্যাপ্রুভাল।"
+            },
+            "position": 13,
+            "synonyms": "Effectiveness, Success, Performance",
+            "antonyms": "Inefficiency, Failure, Weakness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কার্যকারিতা বা দক্ষতা",
+                    "word_transliteration": "karjokkarita ba dokkhota",
+                    "example_sentence_translation": "একটি নতুন ওষুধের কার্যকারিতা অনুমোদনের আগে পরীক্ষা করা আবশ্যক।",
+                    "example_sentence_transliteration": "Ekti notun osudher karjokkarita onumodoner age porikha kora aboshyok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "intermittent",
+            "phonetic": "ˌɪn.təˈmɪt.ənt",
+            "word_native_transliteration": {
+                "bn": "ইন্টারমিটেন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⏰",
+            "meaning": "Happening irregularly, not continuously.",
+            "example_sentence": "The rain was intermittent throughout the day.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রেইন ওয়াস ইন্টারমিটেন্ট থ্রুআউট দ্য ডে।"
+            },
+            "position": 14,
+            "synonyms": "Sporadic, Irregular, Periodic",
+            "antonyms": "Continuous, Constant, Unceasing",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "থেমে থেমে হওয়া",
+                    "word_transliteration": "theme theme howa",
+                    "example_sentence_translation": "সারা দিন বৃষ্টি থেমে থেমে হচ্ছিল।",
+                    "example_sentence_transliteration": "Shara din brishti theme theme hochhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "reinforce",
+            "phonetic": "ˌriː.ɪnˈfɔːrs",
+            "word_native_transliteration": {
+                "bn": "রিইনফোর্স"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "💪",
+            "meaning": "To help improve or strengthen something.",
+            "example_sentence": "The teacher used examples to reinforce the lesson.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য টিচার ইউজড এক্সাম্পেলস টু রিইনফোর্স দ্য লেসন।"
+            },
+            "position": 15,
+            "synonyms": "Strengthen, Fortify, Enhance",
+            "antonyms": "Weaken, Diminish, Undermine",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শক্তিশালী করা বা মজবুত করা",
+                    "word_transliteration": "shoktishali kora ba mojbut kora",
+                    "example_sentence_translation": "শিক্ষক পাঠটিকে শক্তিশালী করতে উদাহরণ ব্যবহার করেছিলেন।",
+                    "example_sentence_transliteration": "Shikhok pathotike shoktishali korte udahoron bebhar korechilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "exasperation",
+            "phonetic": "ɪɡˌzæs.pəˈreɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "এক্সাসপারেইশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "😤",
+            "meaning": "Extreme irritation or frustration.",
+            "example_sentence": "He sighed in exasperation after hearing the same excuse again.",
+            "example_sentence_native_transliteration": {
+                "bn": "হী সাইড ইন এক্সাসপারেইশন আফটার হিয়ারিং দ্য সেইম এক্সকিউজ এগেইন।"
+            },
+            "position": 16,
+            "synonyms": "Frustration, Annoyance, Irritation",
+            "antonyms": "Patience, Calmness, Tolerance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতিরিক্ত বিরক্তি বা ক্ষোভ",
+                    "word_transliteration": "otirikto birokti ba khobh",
+                    "example_sentence_translation": "তিনি একই অজুহাত আবার শুনে অতিরিক্ত বিরক্তিতে দীর্ঘশ্বাস ফেললেন।",
+                    "example_sentence_transliteration": "Tini ekoi ojuhat abar shune otirikto birokitte dirghoshwash fellen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "unwavering",
+            "phonetic": "ʌnˈweɪ.vər.ɪŋ",
+            "word_native_transliteration": {
+                "bn": "আনওয়েভারিং"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎯",
+            "meaning": "Remaining steadfast and determined in any situation.",
+            "example_sentence": "She showed unwavering commitment to her goals.",
+            "example_sentence_native_transliteration": {
+                "bn": "শী শোড আনওয়েভারিং কমিটমেন্ট টু হার গোলস।"
+            },
+            "position": 17,
+            "synonyms": "Steadfast, Resolute, Determined",
+            "antonyms": "Uncertain, Hesitant, Unstable",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অটল বা দৃঢ়",
+                    "word_transliteration": "otol ba dridho",
+                    "example_sentence_translation": "তিনি তার লক্ষ্যের প্রতি অটল প্রতিশ্রুতি দেখিয়েছেন।",
+                    "example_sentence_transliteration": "Tini tar lokkhyar proti otol protishruti dekhiyechen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "oblivious",
+            "phonetic": "əˈblɪv.i.əs",
+            "word_native_transliteration": {
+                "bn": "অবলিভিয়াস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "😶",
+            "meaning": "Being completely unaware of surrounding events.",
+            "example_sentence": "He was oblivious to the noise around him while reading.",
+            "example_sentence_native_transliteration": {
+                "bn": "হী ওয়াস অবলিভিয়াস টু দ্য নয়েজ এরাউন্ড হিম হোয়াইল রিডিং।"
+            },
+            "position": 18,
+            "synonyms": "Unaware, Unmindful, Distracted",
+            "antonyms": "Aware, Conscious, Attentive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অসচেতন বা ভুলে যাওয়া",
+                    "word_transliteration": "oshocheton ba bhule jaoya",
+                    "example_sentence_translation": "তিনি পড়ার সময় আশেপাশের শব্দ সম্পর্কে সম্পূর্ণ অসচেতন ছিলেন।",
+                    "example_sentence_transliteration": "Tini porar shomoy ashepasher shobdo shomporke shompurno oshocheton chilena.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "mitigate",
+            "phonetic": "ˈmɪt.ɪ.ɡeɪt",
+            "word_native_transliteration": {
+                "bn": "মিটিগেইট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🛡️",
+            "meaning": "To reduce the severity of damage or problems.",
+            "example_sentence": "Proper planning can mitigate financial risks.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোপার প্ল্যানিং ক্যান মিটিগেইট ফাইন্যান্সিয়াল রিস্কস।"
+            },
+            "position": 19,
+            "synonyms": "Alleviate, Reduce, Lessen",
+            "antonyms": "Aggravate, Exacerbate, Intensify",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রশমিত করা বা কমানো",
+                    "word_transliteration": "proshomito kora ba komano",
+                    "example_sentence_translation": "সঠিক পরিকল্পনা আর্থিক ঝুঁকি প্রশমিত করতে পারে।",
+                    "example_sentence_transliteration": "Sothik porikolpona arthik jhuki proshomito korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "relinquish",
+            "phonetic": "rɪˈlɪŋ.kwɪʃ",
+            "word_native_transliteration": {
+                "bn": "রিলিঙ্কুইশ"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "✋",
+            "meaning": "To give up any authority, responsibility, or property.",
+            "example_sentence": "He decided to relinquish his position as CEO.",
+            "example_sentence_native_transliteration": {
+                "bn": "হী ডিসাইডেড টু রিলিঙ্কুইশ হিজ পজিশন অ্যাজ সিইও।"
+            },
+            "position": 20,
+            "synonyms": "Surrender, Abandon, Resign",
+            "antonyms": "Retain, Keep, Hold",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ত্যাগ করা বা পরিত্যাগ করা",
+                    "word_transliteration": "tyag kora ba porityag kora",
+                    "example_sentence_translation": "তিনি সিইও পদ থেকে সরে যাওয়ার সিদ্ধান্ত নিয়েছিলেন।",
+                    "example_sentence_transliteration": "Tini CEO pod theke shore jawar siddhanto niyechilen.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

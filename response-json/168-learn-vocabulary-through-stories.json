@@ -1,0 +1,499 @@
+{
+    "position": 168,
+    "title_translation": {
+        "en": "Preventing Pest Infestations in Your Home",
+        "bn": "আপনার বাড়িতে পেস্ট ইনফেস্টেশন প্রতিরোধ"
+    },
+    "content_translation": {
+        "en": "**Pests** or **vermin** can cause problems in your home. Sometimes **infestations** can damage the home environment. For **prevention**, first, all corners of the house must be properly **sealed** to prevent **harborage**. **Sanitation** is extremely important. It is necessary to keep the surroundings of the house clean and to be careful in food storage. If some **biocides** and **pesticides** are used, they can act as a **deterrent**. On the other hand, keeping the **insulation** of the house proper and using **fumigation** methods can prevent the spread of **pests** at the **reproductive** level. Through **surveillance** and adequate **monitoring**, it is possible to take action before crossing the **threshold**. It must be remembered that all measures must be **sustainable** and safe methods should always be followed to eliminate **allergens**.",
+        "bn": "**পেস্টস** বা **vermin** আপনার বাড়িতে সমস্যা সৃষ্টি করতে পারে। অনেক সময় **infestation** এর কারণে বাড়ির পরিবেশ ক্ষতিগ্রস্ত হয়। **Prevention**-এর জন্য, প্রথমত, বাড়ির কোণ-প্রান্ত ভালোভাবে **sealing** করতে হবে, যাতে **harborage** তৈরি না হয়। **Sanitation** অত্যন্ত গুরুত্বপূর্ণ। বাড়ির চারপাশ পরিষ্কার রাখা এবং খাদ্য সংরক্ষণে সতর্ক থাকা প্রয়োজন। কিছু **biocide** এবং **pesticide** ব্যবহার করা হলে, তা **deterrent** হিসেবে কাজ করতে পারে। অন্যদিকে, বাড়িতে **insulation** ঠিক রাখা এবং **fumigation** পদ্ধতি ব্যবহার করে **reproductive** স্তরে **pests** এর বিস্তার রোধ করা যায়। **Surveillance** এবং পর্যাপ্ত **monitoring** এর মাধ্যমে, **threshold** ছাড়ানোর আগে ব্যবস্থা নেওয়া সম্ভব। এটা মনে রাখতে হবে যে, সব ব্যবস্থা **sustainable** হতে হবে এবং **allergen** দূর করতে সবসময় নিরাপদ উপায় অনুসরণ করা উচিত।"
+    },
+    "list": [
+        {
+            "word": "pests",
+            "phonetic": "pɛsts",
+            "word_native_transliteration": {
+                "bn": "পেস্টস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🐛",
+            "meaning": "Harmful or troublesome creatures, especially insects or small animals that damage crops, food, or living spaces.",
+            "example_sentence": "Pests can damage crops and cause diseases.",
+            "example_sentence_native_transliteration": {
+                "bn": "পেস্টস ক্যান ড্যামেজ ক্রপস অ্যান্ড কজ ডিজিজেস।"
+            },
+            "position": 1,
+            "synonyms": "vermin, insects",
+            "antonyms": "beneficial organisms, pollinators",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পোকামাকড়, ক্ষতিকর প্রাণী",
+                    "word_transliteration": "pokamakod, khotikar prani",
+                    "example_sentence_translation": "পোকামাকড় ফসলের ক্ষতি করতে পারে এবং রোগ সৃষ্টি করতে পারে।",
+                    "example_sentence_transliteration": "Pokamakod fosher khoti korte pare ebong rog srishti korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "vermin",
+            "phonetic": "ˈvɜːmɪn",
+            "word_native_transliteration": {
+                "bn": "ভারমিন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🐀",
+            "meaning": "Small harmful animals or insects that are difficult to control and carry disease.",
+            "example_sentence": "The house was infested with vermin, requiring immediate action.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য হাউস ওয়াস ইনফেস্টেড উইথ ভারমিন, রিকোয়ারিং ইমিডিয়েট অ্যাকশন।"
+            },
+            "position": 2,
+            "synonyms": "pests, rodents",
+            "antonyms": "beneficial insects, natural predators",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্ষতিকর প্রাণী, অনুর্বর প্রাণী",
+                    "word_transliteration": "khotikar prani, anurbor prani",
+                    "example_sentence_translation": "বাড়িটি ভারমিন দ্বারা আক্রান্ত ছিল, যা তাৎক্ষণিক পদক্ষেপ প্রয়োজন ছিল।",
+                    "example_sentence_transliteration": "Bariti bharmin dwara akranto chhilo, ja tatkhhonik podokhhep proyojon chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "infestation",
+            "phonetic": "ˌɪnfɛsˈteɪʃən",
+            "word_native_transliteration": {
+                "bn": "ইনফেস্টেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏠",
+            "meaning": "The presence of an unusually large number of insects or animals in a place, causing damage or disease.",
+            "example_sentence": "The infestation of ants in the kitchen led to immediate pest control measures.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইনফেস্টেশন অব অ্যান্টস ইন দ্য কিচেন লেড টু ইমিডিয়েট পেস্ট কন্ট্রোল মেজারস।"
+            },
+            "position": 3,
+            "synonyms": "invasion, overrun",
+            "antonyms": "clearance, purification",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আক্রান্ত হওয়া, পোকামাকড়ের আক্রমণ",
+                    "word_transliteration": "akranto howa, pokamakorer akromont",
+                    "example_sentence_translation": "রান্নাঘরে পিঁপড়ের আক্রমণ জরুরি পোকামাকড় নিয়ন্ত্রণ ব্যবস্থার দিকে নিয়ে গেছে।",
+                    "example_sentence_transliteration": "Rannaghore piprer akromont joruri pokamakod niyontron bebosthar dike niye geche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "prevention",
+            "phonetic": "prɪˈvɛnʃən",
+            "word_native_transliteration": {
+                "bn": "প্রিভেনশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛡️",
+            "meaning": "The action of stopping something from happening or arising.",
+            "example_sentence": "Effective pest prevention strategies reduce health risks.",
+            "example_sentence_native_transliteration": {
+                "bn": "এফেকটিভ পেস্ট প্রিভেনশন স্ট্র্যাটেজিস রিডিউস হেলথ রিস্কস।"
+            },
+            "position": 4,
+            "synonyms": "protection, safeguarding",
+            "antonyms": "cure, treatment",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিরোধ, বাঁচানো",
+                    "word_transliteration": "protirodh, bachano",
+                    "example_sentence_translation": "কার্যকর পোকামাকড় প্রতিরোধ কৌশল স্বাস্থ্য ঝুঁকি কমায়।",
+                    "example_sentence_transliteration": "Karjokori pokamakod protirodh koushal swasthyo jhuki komay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sealing",
+            "phonetic": "ˈsiːlɪŋ",
+            "word_native_transliteration": {
+                "bn": "সিলিং"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔒",
+            "meaning": "The action of closing or blocking something to prevent entry or escape.",
+            "example_sentence": "Sealing cracks in the walls can prevent pests from entering.",
+            "example_sentence_native_transliteration": {
+                "bn": "সিলিং ক্র্যাকস ইন দ্য ওয়ালস ক্যান প্রিভেন্ট পেস্টস ফ্রম এন্টারিং।"
+            },
+            "position": 5,
+            "synonyms": "closing, closing off",
+            "antonyms": "opening, unsealing",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বন্ধ করা, বন্ধন করা",
+                    "word_transliteration": "bondho kora, bondhon kora",
+                    "example_sentence_translation": "দেয়ালের ফাটল সিল করা পোকামাকড় প্রবেশ করতে বাধা দিতে পারে।",
+                    "example_sentence_transliteration": "Deyaler fatol sil kora pokamakod probesh korte badha dite pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "harborage",
+            "phonetic": "ˈhɑːrbərɪdʒ",
+            "word_native_transliteration": {
+                "bn": "হারবরেজ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏠",
+            "meaning": "A place of shelter or refuge for pests or animals.",
+            "example_sentence": "Pests need a harborage site to survive and breed.",
+            "example_sentence_native_transliteration": {
+                "bn": "পেস্টস নিড এ হারবরেজ সাইট টু সারভাইভ অ্যান্ড ব্রিড।"
+            },
+            "position": 6,
+            "synonyms": "shelter, refuge",
+            "antonyms": "exposure, vulnerability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আশ্রয়, বসবাসের স্থান",
+                    "word_transliteration": "ashroy, boshbasher sthan",
+                    "example_sentence_translation": "পোকামাকড়দের বাঁচতে এবং প্রজনন করতে আশ্রয়স্থল প্রয়োজন।",
+                    "example_sentence_transliteration": "Pokamakorder bachte ebong projnon korte ashroysthal proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sanitation",
+            "phonetic": "ˌsænɪˈteɪʃən",
+            "word_native_transliteration": {
+                "bn": "স্যানিটেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧽",
+            "meaning": "Conditions relating to public health, especially the provision of clean drinking water and adequate sewage disposal.",
+            "example_sentence": "Good sanitation practices are key to preventing infestations.",
+            "example_sentence_native_transliteration": {
+                "bn": "গুড স্যানিটেশন প্র্যাকটিসেস আর কি টু প্রিভেন্টিং ইনফেস্টেশনস।"
+            },
+            "position": 7,
+            "synonyms": "cleanliness, hygiene",
+            "antonyms": "filth, dirt",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সাফ-সুতরা, পরিষ্কার রাখা",
+                    "word_transliteration": "saaf-sutra, porishkar rakha",
+                    "example_sentence_translation": "ভাল স্যানিটেশন পদ্ধতিগুলি ইনফেস্টেশন প্রতিরোধের জন্য গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Bhal sanitation poddhotigu infestation protirodher jonno gurutwopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "biocide",
+            "phonetic": "ˈbaɪəʊˌsaɪd",
+            "word_native_transliteration": {
+                "bn": "বায়োসাইড"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💊",
+            "meaning": "A chemical substance or microorganism intended to destroy, deter, render harmless, or exert a controlling effect on any harmful organism.",
+            "example_sentence": "Biocides help control pests and reduce the spread of diseases.",
+            "example_sentence_native_transliteration": {
+                "bn": "বায়োসাইডস হেল্প কন্ট্রোল পেস্টস অ্যান্ড রিডিউস দ্য স্প্রেড অব ডিজিজেস।"
+            },
+            "position": 8,
+            "synonyms": "pesticide, disinfectant",
+            "antonyms": "fertilizer, growth stimulant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জীবাণুনাশক, পোকামাকড় ধ্বংসকারী",
+                    "word_transliteration": "jibanunashok, pokamakod dhongshokari",
+                    "example_sentence_translation": "বায়োসাইডগুলি পোকামাকড় নিয়ন্ত্রণ করতে এবং রোগের বিস্তার কমাতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Biosaidguli pokamakod niyontron korte ebong roger bistar komate sahajjo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pesticide",
+            "phonetic": "ˈpɛstɪˌsaɪd",
+            "word_native_transliteration": {
+                "bn": "পেস্টিসাইড"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧪",
+            "meaning": "A substance used for destroying insects or other organisms harmful to cultivated plants or to animals.",
+            "example_sentence": "The pesticide sprayed in the field killed the harmful insects.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য পেস্টিসাইড স্প্রেড ইন দ্য ফিল্ড কিল্ড দ্য হার্মফুল ইনসেক্টস।"
+            },
+            "position": 9,
+            "synonyms": "insecticide, herbicide",
+            "antonyms": "fertilizer, biodegradable substance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কীটনাশক, পোকামাকড়ের জন্য বিষ",
+                    "word_transliteration": "kitonashok, pokamakoder jonno bish",
+                    "example_sentence_translation": "ক্ষেতে স্প্রে করা কীটনাশক ক্ষতিকর পোকামাকড় মেরে ফেলেছিল।",
+                    "example_sentence_transliteration": "Kkhete spre kora kitonashok khotikar pokamakod mere phelechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "deterrent",
+            "phonetic": "dɪˈtɛrənt",
+            "word_native_transliteration": {
+                "bn": "ডিটেরেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚠️",
+            "meaning": "A thing that discourages or is intended to discourage someone from doing something.",
+            "example_sentence": "The presence of a deterrent made the pests stay away from the crops.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রেজেন্স অব এ ডিটেরেন্ট মেড দ্য পেস্টস স্টে অ্যাওয়ে ফ্রম দ্য ক্রপস।"
+            },
+            "position": 10,
+            "synonyms": "obstacle, hindrance",
+            "antonyms": "encouragement, incentive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিরোধক, বাধা প্রদানকারী",
+                    "word_transliteration": "protirodok, badha prodankari",
+                    "example_sentence_translation": "প্রতিরোধকের উপস্থিতি পোকামাকড়গুলিকে ফসল থেকে দূরে রেখেছিল।",
+                    "example_sentence_transliteration": "Protirodhker upasthiti pokamakodgulike fosol theke dure rekhechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "insulation",
+            "phonetic": "ˌɪnsjʊˈleɪʃən",
+            "word_native_transliteration": {
+                "bn": "ইনসুলেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧱",
+            "meaning": "Material used to prevent heat, sound, or electricity from being transmitted from one area to another.",
+            "example_sentence": "Insulation of food storage areas can prevent pests from entering.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনসুলেশন অব ফুড স্টোরেজ এরিয়াস ক্যান প্রিভেন্ট পেস্টস ফ্রম এন্টারিং।"
+            },
+            "position": 11,
+            "synonyms": "protection, barrier",
+            "antonyms": "exposure, vulnerability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উত্তাপ প্রতিরোধ, আবরণ",
+                    "word_transliteration": "uttap protirodh, aboron",
+                    "example_sentence_translation": "খাবার সংরক্ষণ এলাকা ইনসুলেট করা পোকামাকড় প্রবেশ করতে বাধা দিতে পারে।",
+                    "example_sentence_transliteration": "Khabar songrokkhon elaka insulate kora pokamakod probesh korte badha dite pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fumigation",
+            "phonetic": "ˌfjuːmɪˈɡeɪʃən",
+            "word_native_transliteration": {
+                "bn": "ফিউমিগেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💨",
+            "meaning": "The practice of disinfecting or purifying an area using gas or smoke.",
+            "example_sentence": "Fumigation is an effective method to control pest infestations.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফিউমিগেশন ইজ অ্যান এফেকটিভ মেথড টু কন্ট্রোল পেস্ট ইনফেস্টেশনস।"
+            },
+            "position": 12,
+            "synonyms": "disinfection, sterilization",
+            "antonyms": "cleanliness, decontamination",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ধোঁয়া দ্বারা জীবাণুনাশক প্রয়োগ",
+                    "word_transliteration": "dhoya dwara jibanunashok proyog",
+                    "example_sentence_translation": "ফিউমিগেশন একটি কার্যকর পদ্ধতি পোকামাকড়ের আক্রমণ নিয়ন্ত্রণে।",
+                    "example_sentence_transliteration": "Fumigation ekti karjokor poddhoti pokamakoder akromont niyontre.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "reproductive",
+            "phonetic": "ˌriːprəˈdʌktɪv",
+            "word_native_transliteration": {
+                "bn": "রিপ্রোডাকটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔄",
+            "meaning": "Relating to the reproduction of offspring.",
+            "example_sentence": "The reproductive cycle of pests can cause rapid infestations.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রিপ্রোডাকটিভ সাইকেল অব পেস্টস ক্যান কজ র‍্যাপিড ইনফেস্টেশনস।"
+            },
+            "position": 13,
+            "synonyms": "procreative, reproductive",
+            "antonyms": "sterile, infertile",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রজননক্ষম, বংশবৃদ্ধির সম্পর্কিত",
+                    "word_transliteration": "projnonokkhom, bongshobriddhir somporkito",
+                    "example_sentence_translation": "পোকামাকড়ের প্রজনন চক্র দ্রুত ইনফেস্টেশন সৃষ্টি করতে পারে।",
+                    "example_sentence_transliteration": "Pokamakoder projnon chokro druto infestation srishti korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "surveillance",
+            "phonetic": "sɜːˈveɪləns",
+            "word_native_transliteration": {
+                "bn": "সারভেইলান্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👁️",
+            "meaning": "Close observation, especially of a suspected spy or criminal.",
+            "example_sentence": "Surveillance of pest populations is crucial to controlling outbreaks.",
+            "example_sentence_native_transliteration": {
+                "bn": "সারভেইলান্স অব পেস্ট পপুলেশনস ইজ ক্রুশিয়াল টু কন্ট্রোলিং আউটব্রেকস।"
+            },
+            "position": 14,
+            "synonyms": "monitoring, observation",
+            "antonyms": "inattention, neglect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নজরদারি, পর্যবেক্ষণ",
+                    "word_transliteration": "nojordari, porjobeksho",
+                    "example_sentence_translation": "পোকামাকড়ের জনসংখ্যার নজরদারি আক্রমণ নিয়ন্ত্রণের জন্য গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Pokamakoder jonsongkhyar nojordari akromont niyontrer jonno gurutwopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "monitoring",
+            "phonetic": "ˈmɒnɪtərɪŋ",
+            "word_native_transliteration": {
+                "bn": "মনিটরিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "The action of observing and checking the progress or quality of something over a period of time.",
+            "example_sentence": "Continuous monitoring ensures pests do not spread across the field.",
+            "example_sentence_native_transliteration": {
+                "bn": "কন্টিনিউয়াস মনিটরিং এনসিউর পেস্টস ডু নট স্প্রেড অ্যাক্রস দ্য ফিল্ড।"
+            },
+            "position": 15,
+            "synonyms": "supervision, oversight",
+            "antonyms": "ignoring, disregard",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পর্যবেক্ষণ, নিয়মিত পর্যালোচনা",
+                    "word_transliteration": "porjobeksho, niyomito porjalocha",
+                    "example_sentence_translation": "অবিরত মনিটরিং নিশ্চিত করে যে পোকামাকড় মাঠের মধ্যে ছড়িয়ে পড়বে না।",
+                    "example_sentence_transliteration": "Abirato monitoring nishchito kore je pokamakod mather moddhe chhorie porbe na.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "threshold",
+            "phonetic": "ˈθrɛʃhəʊld",
+            "word_native_transliteration": {
+                "bn": "থ্রেশহোল্ড"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚪",
+            "meaning": "A point of entry or beginning; the magnitude or intensity that must be exceeded for a certain reaction to occur.",
+            "example_sentence": "Once the threshold for pest population is reached, measures must be taken.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওয়ানস দ্য থ্রেশহোল্ড ফর পেস্ট পপুলেশন ইজ রিচড, মেজারস মাস্ট বি টেকেন।"
+            },
+            "position": 16,
+            "synonyms": "limit, boundary",
+            "antonyms": "excess, overload",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সীমা, পরিসীমা",
+                    "word_transliteration": "sima, porisima",
+                    "example_sentence_translation": "যখন পোকামাকড়ের জনসংখ্যা সীমা পৌঁছায়, পদক্ষেপ নিতে হবে।",
+                    "example_sentence_transliteration": "Jokhon pokamakoder jonsongkhya sima pouchay, podokkhep nite hobe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sustainable",
+            "phonetic": "səˈsteɪnəbl",
+            "word_native_transliteration": {
+                "bn": "সাস্টেইনেবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "♻️",
+            "meaning": "Able to be maintained at a certain rate or level without depleting natural resources or causing severe ecological damage.",
+            "example_sentence": "Sustainable pest control methods reduce long-term risks.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাস্টেইনেবল পেস্ট কন্ট্রোল মেথডস রিডিউস লং-টার্ম রিস্কস।"
+            },
+            "position": 17,
+            "synonyms": "renewable, viable",
+            "antonyms": "unsustainable, depletable",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "টেকসই, দীর্ঘমেয়াদী, স্থিতিশীল",
+                    "word_transliteration": "teksho, dirghomeyadi, sthitishil",
+                    "example_sentence_translation": "টেকসই পোকামাকড় নিয়ন্ত্রণ পদ্ধতিগুলি দীর্ঘমেয়াদী ঝুঁকি কমায়।",
+                    "example_sentence_transliteration": "Teksho pokamakod niyontron poddhotigu dirghomeyadi jhuki komay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "allergen",
+            "phonetic": "ˈælərdʒən",
+            "word_native_transliteration": {
+                "bn": "অ্যালার্জেন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤧",
+            "meaning": "A substance that causes an allergic reaction.",
+            "example_sentence": "Pollen is a common allergen that affects many people.",
+            "example_sentence_native_transliteration": {
+                "bn": "পলেন ইজ এ কমন অ্যালার্জেন দ্যাট অ্যাফেক্টস মেনি পিপল।"
+            },
+            "position": 18,
+            "synonyms": "irritant, trigger",
+            "antonyms": "non-reactive, hypoallergenic",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অ্যালার্জি সৃষ্টি করে এমন পদার্থ",
+                    "word_transliteration": "allergy srishti kore emon podartho",
+                    "example_sentence_translation": "পরাগ একটি সাধারণ অ্যালার্জেন যা অনেক মানুষকে প্রভাবিত করে।",
+                    "example_sentence_transliteration": "Porag ekti sadharon allergen ja onek manushke probhabito kore.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}
