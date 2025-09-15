@@ -1,0 +1,526 @@
+{
+    "position": 211,
+    "title_translation": {
+        "en": "The Role of Creativity in Skills",
+        "bn": "দক্ষতায় Creativity এর ভূমিকা"
+    },
+    "content_translation": {
+        "en": "**Creativity** is an important **catalyst** in developing human skills. It's not just about creating something new, but rather **synthesizing** existing ideas to create new paths. Anyone who truly wants to achieve **adeptness** must not only follow rules but also demonstrate **ingenuity**. **Fluidity** and **versatility** are essential behind every skill development.\n\nOften, **ambiguity** hinders our thinking. However, through **discernment** and **ideation**, it's possible to find new solutions. By applying **juxtaposition** techniques, different types of ideas can be brought together, which is essential for skill enhancement. When **assimilation** and **extrapolation** work together, skills undergo **metamorphosis**. Having **propensity** and **dexterity** allows a person to succeed quickly in skill acquisition.\n\nTherefore, **creativity** is not just imagination; it's an **intrinsic** part of skills that helps create **coherence** and **divergence** of new thinking in the real world.",
+        "bn": "**Creativity** মানুষের দক্ষতার বিকাশে একটি গুরুত্বপূর্ণ **catalyst**। এটি শুধু নতুন কিছু তৈরি করা নয়, বরং বিদ্যমান ধারণাগুলোর **synthesis** করে নতুন পথ তৈরি করা। যেকেউ যদি সত্যিকারের **adeptness** অর্জন করতে চায়, তাকে কেবল নিয়ম মেনে চললে হবে না, বরং **ingenuity** প্রদর্শন করতে হবে। প্রতিটি দক্ষতা বিকাশের পেছনে **fluidity** এবং **versatility** থাকা জরুরি।\n\nঅনেক সময়, **ambiguity** আমাদের চিন্তাকে বাঁধাগ্রস্ত করে। কিন্তু **discernment** এবং **ideation** এর মাধ্যমে নতুন সমাধান খুঁজে পাওয়া সম্ভব। **Juxtaposition** কৌশল প্রয়োগ করে ভিন্ন ধারার ধারণাগুলো একত্র করা যায়, যা দক্ষতা বৃদ্ধির জন্য অপরিহার্য। যখন **assimilation** এবং **extrapolation** একত্রে কাজ করে, তখন দক্ষতায় **metamorphosis** ঘটে। দক্ষতা অর্জনে **propensity** এবং **dexterity** থাকলে একজন ব্যক্তি দ্রুত সফল হতে পারে।\n\nঅতএব, **creativity** কেবল কল্পনাশক্তি নয়, এটি দক্ষতার **intrinsic** অংশ, যা বাস্তব জগতে **coherence** এবং নতুন চিন্তার **divergence** তৈরি করতে সহায়তা করে।"
+    },
+    "list": [
+        {
+            "word": "creativity",
+            "phonetic": "ˌkriː.eɪˈtɪv.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "ক্রিয়েটিভিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎨",
+            "meaning": "The ability to use imagination to produce original ideas or to make something new or imaginative.",
+            "example_sentence": "His creativity was evident in his artwork.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ক্রিয়েটিভিটি ওয়াজ এভিডেন্ট ইন হিজ আর্টওয়ার্ক।"
+            },
+            "position": 1,
+            "synonyms": "imagination, originality, innovation, inventiveness, inspiration, resourcefulness",
+            "antonyms": "stagnation, conventionality, conformity, unoriginality, unimaginativeness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সৃজনশীলতা",
+                    "word_transliteration": "srijonshilota",
+                    "example_sentence_translation": "তার চিত্রকর্মে তার ক্রিয়েটিভিটি স্পষ্ট ছিল।",
+                    "example_sentence_transliteration": "Tar chitrokormo tar creativity sposhto chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "catalyst",
+            "phonetic": "ˈkæt.ə.lɪst",
+            "word_native_transliteration": {
+                "bn": "ক্যাটালিস্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "A person or thing that precipitates an event or causes change or action.",
+            "example_sentence": "The new policy acted as a catalyst for economic growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিউ পলিসি অ্যাক্টেড অ্যাজ এ ক্যাটালিস্ট ফর ইকোনমিক গ্রোথ।"
+            },
+            "position": 2,
+            "synonyms": "stimulus, trigger, impetus, accelerator, promoter, facilitator",
+            "antonyms": "hindrance, obstacle, impediment, deterrent, brake",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনুঘটক",
+                    "word_transliteration": "anughotok",
+                    "example_sentence_translation": "নতুন নীতিটি অর্থনৈতিক প্রবৃদ্ধির ক্যাটালিস্ট হিসেবে কাজ করেছে।",
+                    "example_sentence_transliteration": "Notun nititi orthonoitik probriddhir catalyst hisebe kaj koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "synthesis",
+            "phonetic": "ˈsɪn.θə.sɪs",
+            "word_native_transliteration": {
+                "bn": "সিন্থেসিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔗",
+            "meaning": "The combination of ideas to form a theory or system; the production of chemical compounds by reaction from simpler materials.",
+            "example_sentence": "The synthesis of ideas led to an innovative project.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সিন্থেসিস অব আইডিয়াজ লেড টু অ্যান ইনোভেটিভ প্রজেক্ট।"
+            },
+            "position": 3,
+            "synonyms": "integration, combination, fusion, merger, amalgamation, unification",
+            "antonyms": "fragmentation, disjunction, separation, division, analysis",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংমিশ্রণ",
+                    "word_transliteration": "songmishron",
+                    "example_sentence_translation": "ধারণাগুলোর সিন্থেসিস একটি উদ্ভাবনী প্রকল্পের জন্ম দিয়েছে।",
+                    "example_sentence_transliteration": "Dharonagulor synthesis ekti udbhaboni prokolper jonmo diyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "adeptness",
+            "phonetic": "əˈdept.nəs",
+            "word_native_transliteration": {
+                "bn": "অ্যাডেপ্টনেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The quality of being very skilled or proficient at something.",
+            "example_sentence": "His adeptness at solving problems impressed his colleagues.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ অ্যাডেপ্টনেস অ্যাট সলভিং প্রবলেমস ইমপ্রেসড হিজ কলিগস।"
+            },
+            "position": 4,
+            "synonyms": "expertise, mastery, skill, proficiency, competence, dexterity",
+            "antonyms": "ineptitude, incompetence, clumsiness, inexperience, amateurishness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষতা",
+                    "word_transliteration": "dokkhota",
+                    "example_sentence_translation": "সমস্যার সমাধানে তার অ্যাডেপ্টনেস সহকর্মীদের মুগ্ধ করেছিল।",
+                    "example_sentence_transliteration": "Shomosshar somadhan tar adeptness shohokormider mugdho koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ingenuity",
+            "phonetic": "ˌɪn.dʒəˈnjuː.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "ইনজেনুইটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💡",
+            "meaning": "The quality of being clever, original, and inventive; skill in devising or combining.",
+            "example_sentence": "His ingenuity helped him design a unique product.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ইনজেনুইটি হেল্পড হিম ডিজাইন এ ইউনিক প্রোডাক্ট।"
+            },
+            "position": 5,
+            "synonyms": "creativity, resourcefulness, inventiveness, cleverness, originality, innovation",
+            "antonyms": "unimaginativeness, conventionality, banality, unoriginality, dullness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্ভাবনশীলতা",
+                    "word_transliteration": "udbhabonshilota",
+                    "example_sentence_translation": "তার ইনজেনুইটি তাকে একটি অনন্য পণ্য ডিজাইন করতে সহায়তা করেছে।",
+                    "example_sentence_transliteration": "Tar ingenuity take ekti ononno ponyo design korte shahayota koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fluidity",
+            "phonetic": "fluˈɪd.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "ফ্লুইডিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌊",
+            "meaning": "The ability of a substance to flow easily; smooth and graceful movement or style.",
+            "example_sentence": "The fluidity of the dancer's movements was mesmerizing.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফ্লুইডিটি অব দ্য ড্যান্সারস মুভমেন্টস ওয়াজ মেসমেরাইজিং।"
+            },
+            "position": 6,
+            "synonyms": "adaptability, flexibility, smoothness, grace, ease, suppleness",
+            "antonyms": "rigidity, stagnation, stiffness, inflexibility, awkwardness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রবাহমানতা",
+                    "word_transliteration": "probahomanota",
+                    "example_sentence_translation": "নৃত্যশিল্পীর গতির ফ্লুইডিটি মোহনীয় ছিল।",
+                    "example_sentence_transliteration": "Nrittyoshilpir gotir fluidity mohoniyo chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "versatility",
+            "phonetic": "ˌvɜː.səˈtɪl.ə.ti",
+            "word_native_transliteration": {
+                "bn": "ভার্সাটিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "Ability to adapt or be adapted to many different functions or activities.",
+            "example_sentence": "His versatility allows him to excel in multiple fields.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ভার্সাটিলিটি অ্যালাউজ হিম টু এক্সেল ইন মাল্টিপল ফিল্ডস।"
+            },
+            "position": 7,
+            "synonyms": "adaptability, flexibility, multi-talented, all-around, resourcefulness",
+            "antonyms": "inflexibility, specialization, rigidity, limitation, narrowness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বহুমুখিতা",
+                    "word_transliteration": "bohumukhita",
+                    "example_sentence_translation": "তার ভার্সাটিলিটি তাকে একাধিক ক্ষেত্রে দক্ষতা দেখাতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Tar versatility take ekadhik kshetre dokkhota dekhate shahajyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ambiguity",
+            "phonetic": "ˌæm.bɪˈɡjuː.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "অ্যাম্বিগুইটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "❓",
+            "meaning": "The quality of being open to more than one interpretation; inexactness.",
+            "example_sentence": "The ambiguity in his statement created confusion.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যাম্বিগুইটি ইন হিজ স্টেটমেন্ট ক্রিয়েটেড কনফিউশন।"
+            },
+            "position": 8,
+            "synonyms": "vagueness, obscurity, uncertainty, doubt, confusion, indefiniteness",
+            "antonyms": "clarity, definiteness, precision, certainty, explicitness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অস্পষ্টতা",
+                    "word_transliteration": "osposhtota",
+                    "example_sentence_translation": "তার বক্তব্যের অ্যাম্বিগুইটি বিভ্রান্তি তৈরি করেছিল।",
+                    "example_sentence_transliteration": "Tar boktobyer ambiguity bibhranti toiri koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "discernment",
+            "phonetic": "dɪˈsɜːn.mənt",
+            "word_native_transliteration": {
+                "bn": "ডিসার্নমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👁️",
+            "meaning": "The ability to judge well; keen insight and good judgment.",
+            "example_sentence": "Her discernment in decision-making saved the company.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার ডিসার্নমেন্ট ইন ডিসিশন-মেকিং সেভড দ্য কোম্পানি।"
+            },
+            "position": 9,
+            "synonyms": "insight, perception, judgment, wisdom, acumen, discrimination",
+            "antonyms": "ignorance, misjudgment, blindness, obtuseness, naivety",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিচক্ষণতা",
+                    "word_transliteration": "bichokkhonota",
+                    "example_sentence_translation": "সিদ্ধান্ত গ্রহণে তার ডিসার্নমেন্ট কোম্পানিকে রক্ষা করেছিল।",
+                    "example_sentence_transliteration": "Siddhanto grohone tar discernment companike rokkhha koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ideation",
+            "phonetic": "ˌaɪ.diˈeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "আইডিয়েশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💭",
+            "meaning": "The formation of ideas or concepts; the process of forming new ideas.",
+            "example_sentence": "The team's ideation phase was crucial for the project.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য টিমস আইডিয়েশন ফেজ ওয়াজ ক্রুশিয়াল ফর দ্য প্রজেক্ট।"
+            },
+            "position": 10,
+            "synonyms": "conceptualization, brainstorming, creativity, invention, imagination",
+            "antonyms": "execution, implementation, stagnation, mental block",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ধারণা সৃষ্টি",
+                    "word_transliteration": "dharona srishti",
+                    "example_sentence_translation": "দলের আইডিয়েশন ধাপটি প্রকল্পের জন্য অত্যন্ত গুরুত্বপূর্ণ ছিল।",
+                    "example_sentence_transliteration": "Doler ideation dhapti prokolper jonno otyonto guruttopurno chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "juxtaposition",
+            "phonetic": "ˌdʒʌk.stə.pəˈzɪʃ.ən",
+            "word_native_transliteration": {
+                "bn": "জাক্সটাপজিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "The fact of two things being seen or placed close together with contrasting effect.",
+            "example_sentence": "The juxtaposition of light and shadow created a dramatic effect.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য জাক্সটাপজিশন অব লাইট অ্যান্ড শ্যাডো ক্রিয়েটেড এ ড্রামাটিক ইফেক্ট।"
+            },
+            "position": 11,
+            "synonyms": "contrast, proximity, comparison, placement, arrangement",
+            "antonyms": "separation, detachment, isolation, distance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পাশাপাশি স্থাপন",
+                    "word_transliteration": "pashapashi sthapan",
+                    "example_sentence_translation": "আলো ও ছায়ার জাক্সটাপজিশন একটি নাটকীয় প্রভাব তৈরি করেছিল।",
+                    "example_sentence_transliteration": "Alo o chhayar juxtaposition ekti natkiyo probhab toiri koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "assimilation",
+            "phonetic": "əˌsɪm.ɪˈleɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "অ্যাসিমিলেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The process of taking in and fully understanding information or ideas.",
+            "example_sentence": "The immigrant's assimilation into the new culture was smooth.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইমিগ্রান্টস অ্যাসিমিলেশন ইনটু দ্য নিউ কালচার ওয়াজ স্মুথ।"
+            },
+            "position": 12,
+            "synonyms": "integration, incorporation, absorption, adaptation, adoption",
+            "antonyms": "rejection, segregation, exclusion, isolation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শোষণ",
+                    "word_transliteration": "shoshon",
+                    "example_sentence_translation": "অভিবাসীর নতুন সংস্কৃতির সাথে অ্যাসিমিলেশন সহজ ছিল।",
+                    "example_sentence_transliteration": "Obhibashir notun sonshrittir sathe assimilation shohoj chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "extrapolation",
+            "phonetic": "ɪkˌstræp.əˈleɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "এক্সট্রাপোলেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "The action of estimating or concluding something by assuming that existing trends will continue.",
+            "example_sentence": "His extrapolation of market trends helped in financial planning.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ এক্সট্রাপোলেশন অব মার্কেট ট্রেন্ডস হেল্পড ইন ফাইনান্শিয়াল প্ল্যানিং।"
+            },
+            "position": 13,
+            "synonyms": "projection, estimation, inference, prediction, forecasting",
+            "antonyms": "miscalculation, imprecision, interpolation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পূর্বানুমান",
+                    "word_transliteration": "purbanuman",
+                    "example_sentence_translation": "বাজার প্রবণতার এক্সট্রাপোলেশন আর্থিক পরিকল্পনায় সহায়ক হয়েছিল।",
+                    "example_sentence_transliteration": "Bajar probontar extrapolation arthik porikolpanay shahayok hoyechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "metamorphosis",
+            "phonetic": "ˌmet.əˈmɔː.fə.sɪs",
+            "word_native_transliteration": {
+                "bn": "মেটামরফোসিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🦋",
+            "meaning": "A change of the form or nature of a thing or person into a completely different one.",
+            "example_sentence": "The caterpillar's metamorphosis into a butterfly is fascinating.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ক্যাটারপিলারস মেটামরফোসিস ইনটু এ বাটারফ্লাই ইজ ফ্যাসিনেটিং।"
+            },
+            "position": 14,
+            "synonyms": "transformation, evolution, change, conversion, mutation",
+            "antonyms": "stagnation, constancy, permanence, stability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রূপান্তর",
+                    "word_transliteration": "rupantor",
+                    "example_sentence_translation": "শুঁয়োপোকার প্রজাপতিতে মেটামরফোসিস চমকপ্রদ।",
+                    "example_sentence_transliteration": "Shuyopokkar projapotite metamorphosis chomokprod.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "propensity",
+            "phonetic": "prəˈpen.sə.ti",
+            "word_native_transliteration": {
+                "bn": "প্রোপেনসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "An inclination or natural tendency to behave in a particular way.",
+            "example_sentence": "He has a propensity for taking risks in business.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি হ্যাজ এ প্রোপেনসিটি ফর টেকিং রিস্কস ইন বিজনেস।"
+            },
+            "position": 15,
+            "synonyms": "inclination, tendency, disposition, proclivity, predisposition",
+            "antonyms": "aversion, disinclination, reluctance, opposition",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রবণতা",
+                    "word_transliteration": "probonota",
+                    "example_sentence_translation": "তার ব্যবসায় ঝুঁকি নেওয়ার প্রোপেনসিটি রয়েছে।",
+                    "example_sentence_transliteration": "Tar byabshay jhuki neowar propensity royeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dexterity",
+            "phonetic": "dekˈster.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "ডেক্সটেরিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤹",
+            "meaning": "Skill in performing tasks, especially with the hands; mental skill or adroitness.",
+            "example_sentence": "The surgeon's dexterity was crucial during the operation.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সার্জনস ডেক্সটেরিটি ওয়াজ ক্রুশিয়াল ডিউরিং দ্য অপারেশন।"
+            },
+            "position": 16,
+            "synonyms": "skillfulness, agility, adroitness, expertness, finesse",
+            "antonyms": "clumsiness, ineptitude, awkwardness, incompetence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চাতুর্য",
+                    "word_transliteration": "chaturyo",
+                    "example_sentence_translation": "অস্ত্রোপচারের সময় সার্জনের ডেক্সটেরিটি গুরুত্বপূর্ণ ছিল।",
+                    "example_sentence_transliteration": "Ostropocharr somoy surgeonr dexterity guruttopurno chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "intrinsic",
+            "phonetic": "ɪnˈtrɪn.zɪk",
+            "word_native_transliteration": {
+                "bn": "ইনট্রিনসিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔑",
+            "meaning": "Belonging naturally; essential; inherent.",
+            "example_sentence": "Honesty is an intrinsic value in strong leadership.",
+            "example_sentence_native_transliteration": {
+                "bn": "অনেস্টি ইজ অ্যান ইনট্রিনসিক ভ্যালু ইন স্ট্রং লিডারশিপ।"
+            },
+            "position": 17,
+            "synonyms": "inherent, essential, fundamental, innate, natural",
+            "antonyms": "extrinsic, superficial, external, acquired, foreign",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহজাত",
+                    "word_transliteration": "shohojato",
+                    "example_sentence_translation": "সততা শক্তিশালী নেতৃত্বের একটি ইনট্রিনসিক গুণ।",
+                    "example_sentence_transliteration": "Shottota shoktishali netrittoer ekti intrinsic gun.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "coherence",
+            "phonetic": "kəʊˈhɪə.rəns",
+            "word_native_transliteration": {
+                "bn": "কোহিরেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧩",
+            "meaning": "The quality of being logical and consistent; the quality of forming a unified whole.",
+            "example_sentence": "His argument lacked coherence, making it difficult to understand.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ আর্গুমেন্ট ল্যাকড কোহিরেন্স, মেকিং ইট ডিফিকাল্ট টু আন্ডারস্ট্যান্ড।"
+            },
+            "position": 18,
+            "synonyms": "consistency, logicality, clarity, unity, connection",
+            "antonyms": "incoherence, disorganization, confusion, inconsistency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংহতি",
+                    "word_transliteration": "songhoti",
+                    "example_sentence_translation": "তার যুক্তিতে কোহিরেন্স ছিল না, যা বোঝা কঠিন করে তুলেছিল।",
+                    "example_sentence_transliteration": "Tar yuktite coherence chhilo na, ja bojha kothin kore tulecho.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "divergence",
+            "phonetic": "daɪˈvɜː.dʒəns",
+            "word_native_transliteration": {
+                "bn": "ডাইভারজেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔀",
+            "meaning": "The process or state of diverging; a difference in opinion, character, etc.",
+            "example_sentence": "The divergence of their opinions led to heated debates.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডাইভারজেন্স অব দেয়ার ওপিনিয়নস লেড টু হিটেড ডিবেটস।"
+            },
+            "position": 19,
+            "synonyms": "deviation, disparity, difference, separation, branching",
+            "antonyms": "convergence, similarity, agreement, unity, conformity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিচ্যুতি",
+                    "word_transliteration": "bichyuti",
+                    "example_sentence_translation": "তাদের মতামতের ডাইভারজেন্স উত্তপ্ত বিতর্কের সৃষ্টি করেছিল।",
+                    "example_sentence_transliteration": "Tader motamoter divergence uttapto bitorker srishti koreche.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

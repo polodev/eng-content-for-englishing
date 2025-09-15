@@ -1,0 +1,391 @@
+{
+    "position": 207,
+    "title_translation": {
+        "en": "The Power of Positive Thinking",
+        "bn": "Positive Thinking এর শক্তি"
+    },
+    "content_translation": {
+        "en": "**Positive thinking** is a powerful **transformative** force in human life. When we think with **optimism**, both our mind and body become stronger. **Self-affirmation** and **resilience** help us tackle the challenges of daily life.\n\nLet's say you are in the midst of a big problem, but an **unwavering** mindset and positive thinking will help you **transcend** that problem. This is a **paradox**, because many times we feel that the problem is big, but **positive thinking** makes us stronger.\n\n**Euphoria** and **fortitude** play a **conducive** role in your thoughts and feelings, and you become more determined to achieve your goals. **Introspection** and **tenacity** help you go deep into problems and overcome **hindrances**.\n\nTherefore, **positive thinking** not only increases morale, it can bring a new **metamorphosis** to our lives.",
+        "bn": "**Positive thinking** মানুষের জীবনে এক শক্তিশালী **transformative** শক্তি। যখন আমরা **optimism** নিয়ে চিন্তা করি, তখন আমাদের মন ও শরীর উভয়ই শক্তিশালী হয়। **Self-affirmation** এবং **resilience** আমাদের দৈনন্দিন জীবনের চ্যালেঞ্জগুলোকে মোকাবিলা করতে সাহায্য করে।\n\nধরা যাক, আপনি কোনো বড় সমস্যার মধ্যে আছেন, কিন্তু **unwavering** মনোভাব এবং ইতিবাচক চিন্তা আপনাকে সেই সমস্যাকে **transcend** করতে সাহায করবে। এটি একটি **paradox**, কারণ অনেক সময় আমাদের মনে হয় যে সমস্যা বড়, কিন্তু **positive thinking** আমাদের শক্তিশালী করে।\n\n**Euphoria** এবং **fortitude** আপনার চিন্তাভাবনায় **conducive** ভূমিকা রাখে, এবং আপনি আপনার লক্ষ্য অর্জনে আরও দৃঢ়দৃ হন। **Introspection** এবং **tenacity** আপনাকে সমস্যার গভীরে গিয়ে **hindrance** কাটিয়ে উঠতে সাহায্য করে।\n\nঅতএব, **positive thinking** শুধু মনোবল বৃদ্ধি করে না, এটি আমাদের জীবনে এক নতুন **metamorphosis** আনতে পারে।"
+    },
+    "list": [
+        {
+            "word": "transformative",
+            "phonetic": "/trænsˈfɔː.mə.tɪv/",
+            "word_native_transliteration": {
+                "bn": "ট্রান্সফর্মেটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔄",
+            "meaning": "Causing a marked change in someone or something.",
+            "example_sentence": "His transformative ideas changed the direction of the company.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ট্রান্সফর্মেটিভ আইডিয়াজ চেঞ্জড দ্য ডিরেকশন অব দ্য কোম্পানি।"
+            },
+            "position": 1,
+            "synonyms": "revolutionary, pioneering, life-changing",
+            "antonyms": "static, stagnant, unchanging",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রূপান্তরকারী",
+                    "word_transliteration": "rupantorkari",
+                    "example_sentence_translation": "তার রূপান্তরকারী ধারণাগুলো কোম্পানির দিক পরিবর্তন করেছে।",
+                    "example_sentence_transliteration": "Tar rupantorkari dharonagulo companir dik poriborton koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "optimism",
+            "phonetic": "/ˈɒp.tɪ.mɪ.zəm/",
+            "word_native_transliteration": {
+                "bn": "অপটিমিজম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌟",
+            "meaning": "Hopefulness and confidence about the future or the successful outcome of something.",
+            "example_sentence": "Her optimism helped her overcome difficult times.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার অপটিমিজম হেল্পড হার ওভারকাম ডিফিকাল্ট টাইমস।"
+            },
+            "position": 2,
+            "synonyms": "hopefulness, positivity, confidence",
+            "antonyms": "pessimism, negativity, doubt",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আশাবাদিতা",
+                    "word_transliteration": "ashabadita",
+                    "example_sentence_translation": "তার আশাবাদিতা তাকে কঠিন সময় অতিক্রম করতে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Tar ashabadita take kothin somoy otikrom korte sahajyo koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "self-affirmation",
+            "phonetic": "/ˌsɛlf əˌfɜːˈmeɪʃən/",
+            "word_native_transliteration": {
+                "bn": "সেল্ফ-অ্যাফার্মেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "The practice of affirming one's own worthiness and value as an individual.",
+            "example_sentence": "Daily self-affirmation can boost your confidence.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডেইলি সেল্ফ-অ্যাফার্মেশন ক্যান বুস্ট ইয়োর কনফিডেন্স।"
+            },
+            "position": 3,
+            "synonyms": "self-empowerment, self-acceptance, confidence",
+            "antonyms": "self-doubt, insecurity, uncertainty",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্ব-প্রত্যয়",
+                    "word_transliteration": "sho-protyoy",
+                    "example_sentence_translation": "দৈনিক আত্মবিশ্বাসী বার্তা আপনার আত্মবিশ্বাস বৃদ্ধি করতে সাহায্য করতে পারে।",
+                    "example_sentence_transliteration": "Doinik attobisshasi barta apnar attobisshas briddhi korte sahajyo korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "resilience",
+            "phonetic": "/rɪˈzɪl.jəns/",
+            "word_native_transliteration": {
+                "bn": "রেজিলিয়েন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌱",
+            "meaning": "The ability to recover quickly from difficulties; toughness.",
+            "example_sentence": "The resilience of the community after the disaster was remarkable.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রেজিলিয়েন্স অব দ্য কমিউনিটি আফটার দ্য ডিজাস্টার ওয়াজ রিমার্কেবল।"
+            },
+            "position": 4,
+            "synonyms": "toughness, endurance, flexibility",
+            "antonyms": "fragility, weakness, vulnerability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্থিতিস্থাপকতা",
+                    "word_transliteration": "stithisthapokota",
+                    "example_sentence_translation": "দুর্যোগের পর সম্প্রদায়ের স্থিতিস্থাপকতা অসাধারণ ছিল।",
+                    "example_sentence_transliteration": "Durjoger por somprodayer stithisthapokota osadaron chilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "unwavering",
+            "phonetic": "/ʌnˈweɪ.vərɪŋ/",
+            "word_native_transliteration": {
+                "bn": "আনওয়েভারিং"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🗿",
+            "meaning": "Steady or resolute; not wavering.",
+            "example_sentence": "His unwavering support for the cause inspired others.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ আনওয়েভারিং সাপোর্ট ফর দ্য কজ ইনস্পায়ার্ড আদারস।"
+            },
+            "position": 5,
+            "synonyms": "steadfast, resolute, unyielding",
+            "antonyms": "wavering, hesitant, indecisive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অটল",
+                    "word_transliteration": "otol",
+                    "example_sentence_translation": "তার অটল সমর্থন অন্যান্যদের অনুপ্রাণিত করেছে।",
+                    "example_sentence_transliteration": "Tar otol sohorthon onnanoder onupranit koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "transcend",
+            "phonetic": "/trænˈsɛnd/",
+            "word_native_transliteration": {
+                "bn": "ট্রান্সেন্ড"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🚀",
+            "meaning": "Be or go beyond the range or limits of something abstract, typically a conceptual field or division.",
+            "example_sentence": "The artist's work transcends cultural boundaries.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য আর্টিস্টস ওয়ার্ক ট্রান্সেন্ডস কালচারেল বাউন্ডারিজ।"
+            },
+            "position": 6,
+            "synonyms": "exceed, surpass, outdo",
+            "antonyms": "limit, constrain, bound",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতিক্রম",
+                    "word_transliteration": "otikrom",
+                    "example_sentence_translation": "শিল্পীর কাজ সাংস্কৃতিক সীমানা অতিক্রম করে।",
+                    "example_sentence_transliteration": "Shilpir kaj sangskritik simana otikrom kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "paradox",
+            "phonetic": "/ˈpær.ə.dɒks/",
+            "word_native_transliteration": {
+                "bn": "প্যারাডক্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤔",
+            "meaning": "A seemingly absurd or contradictory statement or proposition which when investigated may prove to be well founded or true.",
+            "example_sentence": "The paradox of freedom is that it requires rules.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্যারাডক্স অব ফ্রিডম ইজ দ্যাট ইট রিকোয়ারস রুলস।"
+            },
+            "position": 7,
+            "synonyms": "contradiction, irony, inconsistency",
+            "antonyms": "consistency, harmony, agreement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৈপরীত্য",
+                    "word_transliteration": "boiporito",
+                    "example_sentence_translation": "স্বাধীনতার বৈপরীত্য হলো এটি নিয়মের প্রয়োজনীয়তা সৃষ্টি করে।",
+                    "example_sentence_transliteration": "Shadhinotar boiporito holo eti niyomer proyojoniyota srishti kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "euphoria",
+            "phonetic": "/juːˈfɔː.ri.ə/",
+            "word_native_transliteration": {
+                "bn": "ইউফোরিয়া"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎉",
+            "meaning": "A feeling or state of intense excitement and happiness.",
+            "example_sentence": "Winning the championship filled him with euphoria.",
+            "example_sentence_native_transliteration": {
+                "bn": "উইনিং দ্য চ্যাম্পিয়নশিপ ফিল্ড হিম উইথ ইউফোরিয়া।"
+            },
+            "position": 8,
+            "synonyms": "elation, bliss, ecstasy",
+            "antonyms": "misery, depression, sorrow",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতি আনন্দ",
+                    "word_transliteration": "oti anondo",
+                    "example_sentence_translation": "চ্যাম্পিয়নশিপ জেতার আনন্দ তাকে প্রবল উচ্ছ্বাসে ভরিয়ে তুলেছিল।",
+                    "example_sentence_transliteration": "Championshipder jetar anondo take probol ucchhashe bhoriye tulechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fortitude",
+            "phonetic": "/ˈfɔːr.tɪ.tjuːd/",
+            "word_native_transliteration": {
+                "bn": "ফর্টিটিউড"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "Courage in pain or adversity.",
+            "example_sentence": "She faced adversity with great fortitude.",
+            "example_sentence_native_transliteration": {
+                "bn": "শী ফেসড অ্যাডভার্সিটি উইথ গ্রেট ফর্টিটিউড।"
+            },
+            "position": 9,
+            "synonyms": "courage, resilience, endurance",
+            "antonyms": "weakness, cowardice, fear",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মানসিক শক্তি",
+                    "word_transliteration": "manoshik shokti",
+                    "example_sentence_translation": "তিনি প্রতিকূলতাকে অসাধারণ মানসিক শক্তির সাথে মোকাবিলা করেছেন।",
+                    "example_sentence_transliteration": "Tini protikultake osadaron manoshik shktir sathe mokabila korechen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "conducive",
+            "phonetic": "/kənˈdjuː.sɪv/",
+            "word_native_transliteration": {
+                "bn": "কন্ডুসিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "✅",
+            "meaning": "Making a certain situation or outcome likely or possible.",
+            "example_sentence": "A quiet environment is conducive to studying.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ কোয়ায়েট এনভায়রনমেন্ট ইজ কন্ডুসিভ টু স্টাডিইং।"
+            },
+            "position": 10,
+            "synonyms": "favorable, beneficial, supportive",
+            "antonyms": "detrimental, harmful, discouraging",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উপকারী",
+                    "word_transliteration": "upokari",
+                    "example_sentence_translation": "একটি শান্ত পরিবেশ পড়াশোনার জন্য উপকারী।",
+                    "example_sentence_transliteration": "Ekti shanto poribesh porashonار jonno upokari.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "introspection",
+            "phonetic": "/ˌɪn.trəˈspek.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ইন্ট্রোস্পেকশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧘",
+            "meaning": "The examination or observation of one's own mental and emotional processes.",
+            "example_sentence": "Through introspection, she gained insight into her emotions.",
+            "example_sentence_native_transliteration": {
+                "bn": "থ্রু ইন্ট্রোস্পেকশন, শী গেইনড ইনসাইট ইনটু হার ইমোশনস।"
+            },
+            "position": 11,
+            "synonyms": "reflection, self-examination, contemplation",
+            "antonyms": "extrospection, distraction, negligence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আত্মজিজ্ঞাসা",
+                    "word_transliteration": "attojiggyasha",
+                    "example_sentence_translation": "আত্মজিজ্ঞাসার মাধ্যমে তিনি তার অনুভূতি সম্পর্কে গভীর উপলব্ধি লাভ করেন।",
+                    "example_sentence_transliteration": "Attojiggyashar madhome tini tar onubhuti shomporke gobhir upolbdhi labh koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "tenacity",
+            "phonetic": "/təˈnæs.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "টেনাসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The quality or fact of being able to grip something firmly; grip.",
+            "example_sentence": "His tenacity in solving problems led to his success.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ টেনাসিটি ইন সলভিং প্রবলেমস লেড টু হিজ সাকসেস।"
+            },
+            "position": 12,
+            "synonyms": "determination, persistence, resilience",
+            "antonyms": "indecision, weakness, hesitation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দৃঢ় সংকল্প",
+                    "word_transliteration": "dridho shongkolpo",
+                    "example_sentence_translation": "সমস্যা সমাধানে তার দৃঢ় সংকল্প তাকে সাফল্যের পথে নিয়ে গেছে।",
+                    "example_sentence_transliteration": "Shomossha shamadhane tar dridho shongkolpo take shafoller pothe niye geche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "hindrance",
+            "phonetic": "/ˈhɪn.drəns/",
+            "word_native_transliteration": {
+                "bn": "হিনড্রান্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚧",
+            "meaning": "A thing that provides resistance, delay, or obstruction to something or someone.",
+            "example_sentence": "Lack of resources is a hindrance to the project's progress.",
+            "example_sentence_native_transliteration": {
+                "bn": "ল্যাক অব রিসোর্সেস ইজ এ হিনড্রান্স টু দ্য প্রজেক্টস প্রগ্রেস।"
+            },
+            "position": 13,
+            "synonyms": "obstacle, barrier, impediment",
+            "antonyms": "aid, help, facilitation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাধা",
+                    "word_transliteration": "badha",
+                    "example_sentence_translation": "সম্পদের অভাব প্রকল্পের অগ্রগতির জন্য একটি বাধা।",
+                    "example_sentence_transliteration": "Shompoder obhab prokolper agrogotir jonno ekti badha.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "metamorphosis",
+            "phonetic": "/ˌmɛt.əˈmɔːr.fə.sɪs/",
+            "word_native_transliteration": {
+                "bn": "মেটামরফোসিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🦋",
+            "meaning": "A change of the form or nature of a thing or person into a completely different one.",
+            "example_sentence": "The company's metamorphosis into a global brand took years.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানিজ মেটামরফোসিস ইনটু এ গ্লোবাল ব্র্যান্ড টুক ইয়ারস।"
+            },
+            "position": 14,
+            "synonyms": "transformation, evolution, conversion",
+            "antonyms": "stagnation, constancy, sameness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিবর্তন",
+                    "word_transliteration": "poriborton",
+                    "example_sentence_translation": "কোম্পানির একটি বিশ্বব্যাপী ব্র্যান্ডে রূপান্তর হতে কয়েক বছর লেগেছে।",
+                    "example_sentence_transliteration": "Companir ekti bishshobapi brande rupantor hote koyez bochor legeche.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

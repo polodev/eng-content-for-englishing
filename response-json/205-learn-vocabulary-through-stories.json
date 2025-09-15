@@ -1,0 +1,499 @@
+{
+    "position": 205,
+    "title_translation": {
+        "en": "The Obstacle Is the Way",
+        "bn": "বাধাই হচ্ছে পথ"
+    },
+    "content_translation": {
+        "en": "Every **adversity** in life actually creates opportunities for us to move forward. Many consider challenges as **hindrance** and fall behind, but in reality, these obstacles increase our **fortitude** and **tenacity**. Each **conundrum** gives us a chance to change our mentality. If we can maintain **perseverance** and **indomitable** mentality in difficult situations, we can overcome any **ordeal**. **Predicament** in life is **inevitable**, but only those succeed who **scrutiny** obstacles and find ways to **rectify** them properly. Instead of trying to **mitigate** obstacles, we should build a mentality to learn from them. If we move forward with **unwavering** confidence, then every obstacle will one day bring **auspicious** results. Life creates a **dichotomy** for us—on one side the easy path, on the other side the difficult path. But real winners choose the path where there is more **tribulation**, because within it lies true **efficacy**.",
+        "bn": "জীবনের প্রতিটি **adversity** আসলে আমাদের এগিয়ে যাওয়ার সুযোগ তৈরি করে। অনেকেই চ্যালেঞ্জকে **hindrance** মনে করে পিছিয়ে যায়, কিন্তু প্রকৃতপক্ষে, এই বাধাগুলোই আমাদের **fortitude** এবং **tenacity** বৃদ্ধি করে। প্রত্যেকটি **conundrum** আমাদের মানসিকতা পরিবর্তনের সুযোগ দেয়। কঠিন পরিস্থিতিতে **perseverance** এবং **indomitable** মানসিকতা ধরে রাখতে পারলেই আমরা যেকোনো **ordeal** কাটিয়ে উঠতে পারি। জীবনে **predicament** আসা **inevitable**, কিন্তু কেবল তারাই সফল হয় যারা বাধাকে **scrutiny** করে এবং সঠিকভাবে **rectify** করার উপায় খোঁজে। বাধাগুলোকে **mitigate** না করে, সেগুলো থেকে শেখার মানসিকতা তৈরি করা উচিত। যদি আমরা **unwavering** আত্মবিশ্বাস নিয়ে এগিয়ে যাই, তবে প্রতিটি বাধাই একদিন **auspicious** ফল নিয়ে আসবে। জীবন আমাদের সামনে **dichotomy** তৈরি করে—একদিকে সহজ পথ, অন্যদিকে কঠিন পথ। কিন্তু আসল বিজয়ীরা সেই পথকেই বেছে নেয়, যেখানে **tribulation** বেশি, কারণ তার মধ্যেই প্রকৃত **efficacy** লুকিয়ে থাকে।"
+    },
+    "list": [
+        {
+            "word": "adversity",
+            "phonetic": "ædˈvɜːsəti",
+            "word_native_transliteration": {
+                "bn": "অ্যাডভার্সিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "A difficult or challenging situation that tests one's endurance",
+            "example_sentence": "He showed great courage in the face of adversity.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি শোড গ্রেট কারেজ ইন দি ফেস অফ অ্যাডভার্সিটি।"
+            },
+            "position": 1,
+            "synonyms": "hardship, misfortune, difficulty",
+            "antonyms": "prosperity, success, comfort",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দুর্দশা",
+                    "word_transliteration": "durdosha",
+                    "example_sentence_translation": "তিনি প্রতিকূলতার মুখে দুর্দান্ত সাহস দেখিয়েছেন।",
+                    "example_sentence_transliteration": "Tini protikulotar mukhe durdanto shahos dekhiyechhen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "hindrance",
+            "phonetic": "ˈhɪndrəns",
+            "word_native_transliteration": {
+                "bn": "হিন্ড্রান্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚧",
+            "meaning": "Something that causes delay or makes progress difficult",
+            "example_sentence": "Lack of funds was a hindrance to the project's completion.",
+            "example_sentence_native_transliteration": {
+                "bn": "ল্যাক অফ ফান্ডস ওয়াস এ হিন্ড্রান্স টু দি প্রজেক্টস কমপ্লিশন।"
+            },
+            "position": 2,
+            "synonyms": "obstacle, impediment, barrier",
+            "antonyms": "aid, assistance, facilitation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাধা",
+                    "word_transliteration": "badha",
+                    "example_sentence_translation": "তহবিলের অভাব প্রকল্পের সমাপ্তিতে বাধা হয়ে দাঁড়িয়েছিল।",
+                    "example_sentence_transliteration": "Tohobiler obhab prokolper shomaptite badha hoye dariyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fortitude",
+            "phonetic": "ˈfɔːrtɪtjuːd",
+            "word_native_transliteration": {
+                "bn": "ফর্টিটিউড"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "The ability to remain steady in the face of prolonged hardship or adversity",
+            "example_sentence": "She faced her illness with remarkable fortitude.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি ফেসড হার ইলনেস উইথ রিমার্কেবল ফর্টিটিউড।"
+            },
+            "position": 3,
+            "synonyms": "courage, resilience, endurance",
+            "antonyms": "weakness, cowardice, fear",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মানসিক সহনশীলতা",
+                    "word_transliteration": "manoshik shohonshilota",
+                    "example_sentence_translation": "তিনি অসুস্থতাকে অসাধারণ মানসিক সহনশীলতার সাথে মোকাবিলা করেছেন।",
+                    "example_sentence_transliteration": "Tini osusthotake oshadharon manoshik shohonshilotar shathe mokabila korechhen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "tenacity",
+            "phonetic": "təˈnæsəti",
+            "word_native_transliteration": {
+                "bn": "টেনাসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "Staying persistent or not giving up in pursuing specific goals",
+            "example_sentence": "His tenacity in pursuing his dreams led to success.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ টেনাসিটি ইন পারসুইং হিজ ড্রিমস লেড টু সাকসেস।"
+            },
+            "position": 4,
+            "synonyms": "determination, persistence, perseverance",
+            "antonyms": "indecision, weakness, hesitation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দৃঢ়তা",
+                    "word_transliteration": "dridhota",
+                    "example_sentence_translation": "তার স্বপ্ন অনুসরণে দৃঢ়তা তাকে সাফল্যের পথে নিয়ে গেছে।",
+                    "example_sentence_transliteration": "Tar shopno onushorone dridhota take shafolyer pothe niye geche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "conundrum",
+            "phonetic": "kəˈnʌndrəm",
+            "word_native_transliteration": {
+                "bn": "কনান্ড্রাম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧩",
+            "meaning": "A problem that has no easy solution",
+            "example_sentence": "The ethical conundrum puzzled the researchers.",
+            "example_sentence_native_transliteration": {
+                "bn": "দি এথিক্যাল কনান্ড্রাম পাজলড দি রিসার্চারস।"
+            },
+            "position": 5,
+            "synonyms": "puzzle, dilemma, enigma",
+            "antonyms": "solution, clarity, simplicity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জটিল সমস্যা",
+                    "word_transliteration": "jotil shomoshya",
+                    "example_sentence_translation": "নৈতিক জটিল সমস্যাটি গবেষকদের বিভ্রান্ত করেছে।",
+                    "example_sentence_transliteration": "Noitik jotil shomoshyati gobeshokder bibhranto koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "perseverance",
+            "phonetic": "ˌpɜːsɪˈvɪərəns",
+            "word_native_transliteration": {
+                "bn": "পার্সিভিয়ারেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏃",
+            "meaning": "Maintaining hard work and patience for a long time",
+            "example_sentence": "His perseverance helped him achieve his dreams.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ পার্সিভিয়ারেন্স হেল্পড হিম অ্যাচিভ হিজ ড্রিমস।"
+            },
+            "position": 6,
+            "synonyms": "persistence, determination, tenacity",
+            "antonyms": "laziness, weakness, giving up",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অধ্যবসায়",
+                    "word_transliteration": "odhyaboshay",
+                    "example_sentence_translation": "তার অধ্যবসায় তাকে স্বপ্ন পূরণে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Tar odhyaboshay take shopno purone shahajyo koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "indomitable",
+            "phonetic": "ɪnˈdɒmɪtəbəl",
+            "word_native_transliteration": {
+                "bn": "ইন্ডমিটেবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🛡️",
+            "meaning": "A spirit or strength that is not easily defeated",
+            "example_sentence": "Her indomitable spirit helped her overcome all obstacles.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার ইন্ডমিটেবল স্পিরিট হেল্পড হার ওভারকাম অল অবস্ট্যাকলস।"
+            },
+            "position": 7,
+            "synonyms": "unconquerable, unyielding, resilient",
+            "antonyms": "weak, defeated, surrendering",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অপরাজেয়",
+                    "word_transliteration": "oporajey",
+                    "example_sentence_translation": "তার অপরাজেয় মনোবল তাকে সব বাধা অতিক্রম করতে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Tar oporajey monobol take shob badha otikrom korte shahajyo koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ordeal",
+            "phonetic": "ɔːrˈdiːl",
+            "word_native_transliteration": {
+                "bn": "অর্ডিয়াল"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔥",
+            "meaning": "A physical or mental painful experience that must be endured",
+            "example_sentence": "Surviving the wilderness was a tough ordeal for them.",
+            "example_sentence_native_transliteration": {
+                "bn": "সারভাইভিং দি ওয়াইল্ডারনেস ওয়াস এ টাফ অর্ডিয়াল ফর দেম।"
+            },
+            "position": 8,
+            "synonyms": "trial, hardship, struggle",
+            "antonyms": "comfort, relief, ease",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কঠিন পরীক্ষা",
+                    "word_transliteration": "kothin porikha",
+                    "example_sentence_translation": "বন্য পরিবেশে বেঁচে থাকা তাদের জন্য একটি কঠিন পরীক্ষা ছিল।",
+                    "example_sentence_transliteration": "Bonyo poribeshey beche thaka tader jonyo ekti kothin porikha chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "predicament",
+            "phonetic": "prɪˈdɪkəmənt",
+            "word_native_transliteration": {
+                "bn": "প্রিডিকামেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "😰",
+            "meaning": "A situation that is uncomfortable or requires difficult decision making",
+            "example_sentence": "Losing his passport put him in a difficult predicament.",
+            "example_sentence_native_transliteration": {
+                "bn": "লুজিং হিজ পাসপোর্ট পুট হিম ইন এ ডিফিকাল্ট প্রিডিকামেন্ট।"
+            },
+            "position": 9,
+            "synonyms": "dilemma, difficulty, quandary",
+            "antonyms": "solution, certainty, ease",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিপদ",
+                    "word_transliteration": "bipod",
+                    "example_sentence_translation": "পাসপোর্ট হারানো তাকে কঠিন পরিস্থিতিতে ফেলে দিয়েছিল।",
+                    "example_sentence_transliteration": "Passport harano take kothin poristhitite phele diyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "inevitable",
+            "phonetic": "ɪnˈɛvɪtəbəl",
+            "word_native_transliteration": {
+                "bn": "ইনেভিটেবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⏰",
+            "meaning": "Something that cannot be avoided or prevented",
+            "example_sentence": "Change is inevitable in every aspect of life.",
+            "example_sentence_native_transliteration": {
+                "bn": "চেঞ্জ ইজ ইনেভিটেবল ইন এভরি অ্যাসপেক্ট অফ লাইফ।"
+            },
+            "position": 10,
+            "synonyms": "unavoidable, certain, inescapable",
+            "antonyms": "avoidable, preventable, uncertain",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অপরিহার্য",
+                    "word_transliteration": "oporhario",
+                    "example_sentence_translation": "জীবনের প্রতিটি ক্ষেত্রে পরিবর্তন অনিবার্য।",
+                    "example_sentence_transliteration": "Jiboner protiti kkhetre poribortone onibarjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "scrutiny",
+            "phonetic": "ˈskruːtɪni",
+            "word_native_transliteration": {
+                "bn": "স্ক্রুটিনি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔍",
+            "meaning": "Careful examination or observation of something deeply",
+            "example_sentence": "The financial documents are under scrutiny.",
+            "example_sentence_native_transliteration": {
+                "bn": "দি ফাইন্যান্সিয়াল ডকুমেন্টস আর আন্ডার স্ক্রুটিনি।"
+            },
+            "position": 11,
+            "synonyms": "inspection, examination, analysis",
+            "antonyms": "neglect, disregard, ignorance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সতর্ক পর্যবেক্ষণ",
+                    "word_transliteration": "shotorko porjobeksho",
+                    "example_sentence_translation": "আর্থিক নথিগুলো সতর্কভাবে পর্যালোচনার অধীনে রয়েছে।",
+                    "example_sentence_transliteration": "Arthik nothigulo shotorkovabe porjalochar odhiney royeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "rectify",
+            "phonetic": "ˈrɛktɪfaɪ",
+            "word_native_transliteration": {
+                "bn": "রেক্টিফাই"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔧",
+            "meaning": "To correct a mistake or error",
+            "example_sentence": "The company took steps to rectify the error.",
+            "example_sentence_native_transliteration": {
+                "bn": "দি কোম্পানি টুক স্টেপস টু রেক্টিফাই দি এরর।"
+            },
+            "position": 12,
+            "synonyms": "correct, amend, fix",
+            "antonyms": "worsen, damage, exacerbate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংশোধন করা",
+                    "word_transliteration": "shongshodhon kora",
+                    "example_sentence_translation": "কোম্পানি ভুল সংশোধনের জন্য পদক্ষেপ নিয়েছে।",
+                    "example_sentence_transliteration": "Company vul shongshdhoner jonyo podokkhep niyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "mitigate",
+            "phonetic": "ˈmɪtɪɡeɪt",
+            "word_native_transliteration": {
+                "bn": "মিটিগেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📉",
+            "meaning": "To reduce a problem or negative impact",
+            "example_sentence": "Measures were taken to mitigate the effects of climate change.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেজারস ওয়ার টেকেন টু মিটিগেট দি ইফেক্টস অফ ক্লাইমেট চেঞ্জ।"
+            },
+            "position": 13,
+            "synonyms": "alleviate, reduce, lessen",
+            "antonyms": "aggravate, intensify, worsen",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রশমিত করা",
+                    "word_transliteration": "proshomito kora",
+                    "example_sentence_translation": "জলবায়ু পরিবর্তনের প্রভাব কমানোর জন্য ব্যবস্থা নেওয়া হয়েছে।",
+                    "example_sentence_transliteration": "Jolbayu poribortoner prothab komanor jonyo byobostha neowa hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "unwavering",
+            "phonetic": "ʌnˈweɪvərɪŋ",
+            "word_native_transliteration": {
+                "bn": "আনওয়েভারিং"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🗿",
+            "meaning": "Staying firm in something or maintaining strong resolve",
+            "example_sentence": "His unwavering dedication led to his success.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ আনওয়েভারিং ডেডিকেশন লেড টু হিজ সাকসেস।"
+            },
+            "position": 14,
+            "synonyms": "steadfast, resolute, determined",
+            "antonyms": "hesitant, uncertain, fickle",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অটল",
+                    "word_transliteration": "otol",
+                    "example_sentence_translation": "তার অটল নিষ্ঠা তাকে সাফল্যের পথে নিয়ে গেছে।",
+                    "example_sentence_transliteration": "Tar otol nishtha take shafolyer pothe niye geche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "auspicious",
+            "phonetic": "ɔːˈspɪʃəs",
+            "word_native_transliteration": {
+                "bn": "অস্পিশাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🍀",
+            "meaning": "Something that indicates future success or good fortune",
+            "example_sentence": "The wedding was held on an auspicious day.",
+            "example_sentence_native_transliteration": {
+                "bn": "দি ওয়েডিং ওয়াস হেল্ড অন অ্যান অস্পিশাস ডে।"
+            },
+            "position": 15,
+            "synonyms": "favorable, promising, fortunate",
+            "antonyms": "inauspicious, unlucky, ominous",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শুভ",
+                    "word_transliteration": "shubho",
+                    "example_sentence_translation": "বিয়ে একটি শুভ দিনে অনুষ্ঠিত হয়েছিল।",
+                    "example_sentence_transliteration": "Biye ekti shubho diney onushtito hoyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dichotomy",
+            "phonetic": "daɪˈkɒtəmi",
+            "word_native_transliteration": {
+                "bn": "ডাইকটমি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "A clear division between two opposite concepts",
+            "example_sentence": "There is a clear dichotomy between science and religion.",
+            "example_sentence_native_transliteration": {
+                "bn": "দেয়ার ইজ এ ক্লিয়ার ডাইকটমি বিটুইন সাইন্স অ্যান্ড রিলিজিওন।"
+            },
+            "position": 16,
+            "synonyms": "division, contrast, duality",
+            "antonyms": "unity, similarity, agreement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৈপরীত্য",
+                    "word_transliteration": "boiporito",
+                    "example_sentence_translation": "বিজ্ঞান ও ধর্মের মধ্যে একটি সুস্পষ্ট বৈপরীত্য রয়েছে।",
+                    "example_sentence_transliteration": "Biggan o dhormer moddhe ekti shushposshto boiporito royeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "tribulation",
+            "phonetic": "ˌtrɪbjʊˈleɪʃən",
+            "word_native_transliteration": {
+                "bn": "ট্রিবুলেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "😤",
+            "meaning": "A difficult time or suffering experience",
+            "example_sentence": "He endured many tribulations in his early years.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি এন্ডিউর্ড মেনি ট্রিবুলেশনস ইন হিজ আর্লি ইয়ারস।"
+            },
+            "position": 17,
+            "synonyms": "hardship, suffering, misery",
+            "antonyms": "comfort, relief, ease",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কষ্ট",
+                    "word_transliteration": "koshto",
+                    "example_sentence_translation": "তিনি তার শৈশবে বহু দুর্দশা সহ্য করেছেন।",
+                    "example_sentence_transliteration": "Tini tar shoishobe bohu durdosha shojhyo korechen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "efficacy",
+            "phonetic": "ˈɛfɪkəsi",
+            "word_native_transliteration": {
+                "bn": "এফিকেসি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✅",
+            "meaning": "The ability of something to be effective in achieving specific goals",
+            "example_sentence": "The efficacy of the vaccine has been proven in trials.",
+            "example_sentence_native_transliteration": {
+                "bn": "দি এফিকেসি অফ দি ভ্যাকসিন হ্যাজ বিন প্রুভেন ইন ট্রায়ালস।"
+            },
+            "position": 18,
+            "synonyms": "effectiveness, efficiency, success",
+            "antonyms": "inefficacy, failure, uselessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কার্যকারিতা",
+                    "word_transliteration": "karyokarita",
+                    "example_sentence_translation": "এই টিকার কার্যকারিতা পরীক্ষায় প্রমাণিত হয়েছে।",
+                    "example_sentence_transliteration": "Ei tikar karyokarita porikhay promanito hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

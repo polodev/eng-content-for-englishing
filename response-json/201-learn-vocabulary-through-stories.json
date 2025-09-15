@@ -1,0 +1,499 @@
+{
+    "position": 201,
+    "title_translation": {
+        "en": "The Importance of Quality Sleep",
+        "bn": "গুণগত ঘুমের গুরুত্ব"
+    },
+    "content_translation": {
+        "en": "**Quality sleep** is essential for healthy living, as it helps maintain the body's **homeostasis**. However, in today's busy life, **sleep deprivation** has become a common problem, causing physical and mental **deterioration**.\n\nWhen the regular **circadian rhythm** is disrupted, the body and brain's **equilibrium** is destroyed. This weakens **neurocognitive** functions and reduces **vigilance**. **Prolonged** sleep deficiency creates **fatigue** and **lethargic** feelings, affecting daily activities.\n\nSleep helps our brain with information **consolidation** and keeps the body's **regeneration** process active. However, **disruptive** lifestyles can **exacerbate** this, causing **impairment**.\n\nAdequate sleep is extremely important for staying healthy. It's not just for **recuperation**, but also helps to reduce disease resistance and **susceptibility**. Therefore, it is necessary to ensure regular and adequate **quality sleep**.",
+        "bn": "সুস্থ জীবনযাপনের জন্য **quality sleep** অপরিহার্য, কারণ এটি শরীরের **homeostasis** বজায় রাখতে সহায়তা করে। কিন্তু বর্তমান ব্যস্ত জীবনে **sleep deprivation** একটি সাধারণ সমস্যা হয়ে দাঁড়িয়েছে, যা শারীরিক ও মানসিক **deterioration** ঘটায়।\n\nনিয়মিত **circadian rhythm** ব্যাহত হলে, শরীর ও মস্তিষ্কের **equilibrium** নষ্ট হয়। এতে **neurocognitive** কার্যকারিতা দুর্বল হয়ে যায় এবং **vigilance** কমে যায়। **Prolonged** ঘুমের অভাব **fatigue** এবং **lethargic** অনুভূতি তৈরি করে, যা দৈনন্দিন কাজে প্রভাব ফেলে।\n\nঘুম আমাদের মস্তিষ্কের তথ্য **consolidation** করতে সাহায্য করে এবং শরীরের **regeneration** প্রক্রিয়া সক্রিয় রাখে। তবে, **disruptive** জীবনধারা এটি **exacerbate** করতে পারে, যা **impairment** সৃষ্টি করে।\n\nসুস্থ থাকার জন্য পর্যাপ্ত ঘুম অত্যন্ত গুরুত্বপূর্ণ। এটি শুধু **recuperation** এর জন্য নয়, বরং এটি রোগ প্রতিরোধ ক্ষমতা এবং **susceptibility** হ্রাস করতেও সাহায্য করে। তাই, নিয়মিত ও পর্যাপ্ত **quality sleep** নিশ্চিত করা প্রয়োজন।"
+    },
+    "list": [
+        {
+            "word": "quality sleep",
+            "phonetic": "ˈkwɒlɪti sliːp",
+            "word_native_transliteration": {
+                "bn": "কোয়ালিটি স্লিপ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "😴",
+            "meaning": "Deep and healthy sleep that is adequate and restorative, ensuring physical and mental well-being",
+            "example_sentence": "Quality sleep improves cognitive function and overall health.",
+            "example_sentence_native_transliteration": {
+                "bn": "কোয়ালিটি স্লিপ ইমপ্রুভস কগনিটিভ ফাংশন অ্যান্ড ওভারঅল হেলথ।"
+            },
+            "position": 1,
+            "synonyms": "Restorative Sleep, Deep Sleep, Sound Sleep",
+            "antonyms": "Sleep Deprivation, Insomnia, Restlessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গুণগত ঘুম",
+                    "word_transliteration": "gunogoto ghum",
+                    "example_sentence_translation": "গুণগত ঘুম মানসিক কার্যক্ষমতা ও সামগ্রিক স্বাস্থ্য উন্নত করে।",
+                    "example_sentence_transliteration": "Gunogoto ghum manoshik karyokkhomota o shamogrik shasthyo unnoto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "homeostasis",
+            "phonetic": "ˌhoʊmiˈoʊstəsɪs",
+            "word_native_transliteration": {
+                "bn": "হোমিওস্ট্যাসিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "The process of maintaining balance in the body's internal environment",
+            "example_sentence": "The body maintains homeostasis through temperature regulation.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য বডি মেইনটেইনস হোমিওস্ট্যাসিস থ্রু টেম্পারেচার রেগুলেশন।"
+            },
+            "position": 2,
+            "synonyms": "Balance, Stability, Equilibrium",
+            "antonyms": "Imbalance, Disruption, Instability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সুষম অবস্থা",
+                    "word_transliteration": "shushom obostha",
+                    "example_sentence_translation": "শরীর তাপমাত্রা নিয়ন্ত্রণের মাধ্যমে সুষম অবস্থা বজায় রাখে।",
+                    "example_sentence_transliteration": "Shorir tapmatra niyontroner madhyome shushom obostha bojay rakhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sleep deprivation",
+            "phonetic": "sliːp dɛprɪˈveɪʃən",
+            "word_native_transliteration": {
+                "bn": "স্লিপ ডেপ্রিভেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "😵",
+            "meaning": "Lack of adequate sleep, which has negative effects on physical and mental health",
+            "example_sentence": "Sleep deprivation leads to cognitive decline and fatigue.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্লিপ ডেপ্রিভেশন লিডস টু কগনিটিভ ডিক্লাইন অ্যান্ড ফ্যাটিগ।"
+            },
+            "position": 3,
+            "synonyms": "Sleep Loss, Insomnia, Sleep Deficiency",
+            "antonyms": "Quality Sleep, Restfulness, Rejuvenation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিদ্রার অভাব",
+                    "word_transliteration": "nidrar abhab",
+                    "example_sentence_translation": "নিদ্রার অভাব মানসিক কার্যক্ষমতা কমায় ও অবসাদ সৃষ্টি করে।",
+                    "example_sentence_transliteration": "Nidrar abhab manoshik karyokkhomota komay o obsad srishti kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "deterioration",
+            "phonetic": "dɪˌtɪəriəˈreɪʃən",
+            "word_native_transliteration": {
+                "bn": "ডিটেরিওরেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📉",
+            "meaning": "Decline in physical, mental or environmental condition",
+            "example_sentence": "Poor sleep habits contribute to health deterioration.",
+            "example_sentence_native_transliteration": {
+                "bn": "পুর স্লিপ হ্যাবিটস কন্ট্রিবিউট টু হেলথ ডিটেরিওরেশন।"
+            },
+            "position": 4,
+            "synonyms": "Decline, Degradation, Degeneration",
+            "antonyms": "Improvement, Enhancement, Restoration",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অবনতি",
+                    "word_transliteration": "obonoti",
+                    "example_sentence_translation": "খারাপ ঘুমের অভ্যাস স্বাস্থ্যের অবনতি ঘটায়।",
+                    "example_sentence_transliteration": "Kharap ghumr ovhyas shasthyer obonoti ghotay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "circadian rhythm",
+            "phonetic": "sɜːrˈkeɪdiən ˈrɪðəm",
+            "word_native_transliteration": {
+                "bn": "সার্কাডিয়ান রিদম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🕐",
+            "meaning": "The body's natural sleep-wake cycle that occurs within 24 hours",
+            "example_sentence": "Exposure to natural light regulates the circadian rhythm.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সপোজার টু ন্যাচারাল লাইট রেগুলেটস দ্য সার্কাডিয়ান রিদম।"
+            },
+            "position": 5,
+            "synonyms": "Biological Clock, Sleep Cycle, Day-Night Cycle",
+            "antonyms": "Irregular Sleep Pattern, Sleep Disruption, Disorder",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জৈবিক ঘড়ি",
+                    "word_transliteration": "joibik ghori",
+                    "example_sentence_translation": "প্রাকৃতিক আলো শরীরের জৈবিক ঘড়ি নিয়ন্ত্রণ করতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Prakritik alo shorirer joibik ghori niyontron korte sahayyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "equilibrium",
+            "phonetic": "ˌiːkwɪˈlɪbriəm",
+            "word_native_transliteration": {
+                "bn": "ইকুইলিব্রিয়াম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "Maintaining harmony in physical or mental state",
+            "example_sentence": "Proper sleep restores the body's equilibrium.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রপার স্লিপ রিস্টোরস দ্য বডিজ ইকুইলিব্রিয়াম।"
+            },
+            "position": 6,
+            "synonyms": "Balance, Stability, Harmony",
+            "antonyms": "Disequilibrium, Imbalance, Instability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভারসাম্য",
+                    "word_transliteration": "bharsamyo",
+                    "example_sentence_translation": "উপযুক্ত ঘুম শরীরের ভারসাম্য পুনরুদ্ধার করে।",
+                    "example_sentence_transliteration": "Upojukto ghum shorirer bharsamyo punoruddhar kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "neurocognitive",
+            "phonetic": "ˌnjʊəroʊˈkɒɡnɪtɪv",
+            "word_native_transliteration": {
+                "bn": "নিউরোকগনিটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧠",
+            "meaning": "Related to brain information processing and memory power",
+            "example_sentence": "Neurocognitive functions decline due to lack of sleep.",
+            "example_sentence_native_transliteration": {
+                "bn": "নিউরোকগনিটিভ ফাংশনস ডিক্লাইন ডিউ টু ল্যাক অফ স্লিপ।"
+            },
+            "position": 7,
+            "synonyms": "Cognitive, Brain Function, Mental Processing",
+            "antonyms": "Non-cognitive, Physical, Peripheral",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্নায়বিক ও জ্ঞানসংক্রান্ত",
+                    "word_transliteration": "snayobik o gyansongkranto",
+                    "example_sentence_translation": "পর্যাপ্ত ঘুমের অভাবে স্নায়বিক ও জ্ঞানসংক্রান্ত কার্যক্ষমতা হ্রাস পায়।",
+                    "example_sentence_transliteration": "Porjapto ghumr abhabe snayobik o gyansongkranto karyokkhomota hras pay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "vigilance",
+            "phonetic": "ˈvɪdʒɪləns",
+            "word_native_transliteration": {
+                "bn": "ভিজিল্যান্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👁️",
+            "meaning": "Being alert about possible dangers or problems",
+            "example_sentence": "Sleep improves vigilance and reaction time.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্লিপ ইমপ্রুভস ভিজিল্যান্স অ্যান্ড রিঅ্যাকশন টাইম।"
+            },
+            "position": 8,
+            "synonyms": "Alertness, Awareness, Watchfulness",
+            "antonyms": "Negligence, Carelessness, Inattention",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সতর্কতা",
+                    "word_transliteration": "shotorkota",
+                    "example_sentence_translation": "ঘুম সতর্কতা ও প্রতিক্রিয়া সময় বৃদ্ধি করে।",
+                    "example_sentence_transliteration": "Ghum shotorkota o protikriya shomoy briddhi kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "prolonged",
+            "phonetic": "prəˈlɒŋd",
+            "word_native_transliteration": {
+                "bn": "প্রোলংড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⏰",
+            "meaning": "Something that continues for longer than normal",
+            "example_sentence": "Prolonged sleep deprivation affects overall well-being.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোলংড স্লিপ ডেপ্রিভেশন অ্যাফেক্টস ওভারঅল ওয়েল-বিইং।"
+            },
+            "position": 9,
+            "synonyms": "Extended, Lengthened, Persistent",
+            "antonyms": "Brief, Short-lived, Temporary",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দীর্ঘস্থায়ী",
+                    "word_transliteration": "dirghosthayi",
+                    "example_sentence_translation": "দীর্ঘস্থায়ী নিদ্রার অভাব সামগ্রিক সুস্থতার উপর প্রভাব ফেলে।",
+                    "example_sentence_transliteration": "Dirghosthayi nidrar abhab shamogrik sushtotar upor probhab fele.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fatigue",
+            "phonetic": "fəˈtiːɡ",
+            "word_native_transliteration": {
+                "bn": "ফ্যাটিগ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "😫",
+            "meaning": "Physical or mental exhaustion due to prolonged exertion or mental stress",
+            "example_sentence": "Lack of sleep leads to extreme fatigue.",
+            "example_sentence_native_transliteration": {
+                "bn": "ল্যাক অফ স্লিপ লিডস টু এক্সট্রিম ফ্যাটিগ।"
+            },
+            "position": 10,
+            "synonyms": "Exhaustion, Weariness, Tiredness",
+            "antonyms": "Energy, Vitality, Strength",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতিরিক্ত ক্লান্তি",
+                    "word_transliteration": "otirikto klanti",
+                    "example_sentence_translation": "পর্যাপ্ত ঘুমের অভাব চরম ক্লান্তির কারণ হতে পারে।",
+                    "example_sentence_transliteration": "Porjapto ghumr abhab chorom klantir karon hote pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "lethargic",
+            "phonetic": "ləˈθɑːrdʒɪk",
+            "word_native_transliteration": {
+                "bn": "লেথার্জিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "😴",
+            "meaning": "Being inactive due to lack of physical or mental energy",
+            "example_sentence": "After a heavy meal, he felt lethargic and sleepy.",
+            "example_sentence_native_transliteration": {
+                "bn": "আফটার এ হেভি মিল, হি ফেল্ট লেথার্জিক অ্যান্ড স্লিপি।"
+            },
+            "position": 11,
+            "synonyms": "Sluggish, Inactive, Drowsy",
+            "antonyms": "Energetic, Active, Alert",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অলস",
+                    "word_transliteration": "olosh",
+                    "example_sentence_translation": "ভারী খাবারের পর তিনি অলস ও ঘুমঘুম অনুভব করছিলেন।",
+                    "example_sentence_transliteration": "Bhari khabarer por tini olosh o ghumghum onubhob korchilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "consolidation",
+            "phonetic": "kənˌsɒlɪˈdeɪʃən",
+            "word_native_transliteration": {
+                "bn": "কনসলিডেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧩",
+            "meaning": "Strengthening information, memory or organization by bringing them together",
+            "example_sentence": "Sleep plays a key role in memory consolidation.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্লিপ প্লেস এ কি রোল ইন মেমোরি কনসলিডেশন।"
+            },
+            "position": 12,
+            "synonyms": "Strengthening, Reinforcement, Unification",
+            "antonyms": "Weakening, Fragmentation, Dissolution",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দৃঢ়ীকরণ",
+                    "word_transliteration": "dridhikoron",
+                    "example_sentence_translation": "স্মৃতি দৃঢ়ীকরণে ঘুম গুরুত্বপূর্ণ ভূমিকা পালন করে।",
+                    "example_sentence_transliteration": "Smriti dridhikorne ghum guruttopurno bhumika palon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "regeneration",
+            "phonetic": "rɪˌdʒɛnəˈreɪʃən",
+            "word_native_transliteration": {
+                "bn": "রিজেনারেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "Renewal, growth and development of cells, tissues or energy",
+            "example_sentence": "Proper rest allows muscle regeneration after exercise.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রপার রেস্ট অ্যালাউস মাসল রিজেনারেশন আফটার এক্সারসাইজ।"
+            },
+            "position": 13,
+            "synonyms": "Renewal, Restoration, Rejuvenation",
+            "antonyms": "Degeneration, Deterioration, Decline",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুনরুজ্জীবন",
+                    "word_transliteration": "punorudjibon",
+                    "example_sentence_translation": "সঠিক বিশ্রাম ব্যায়ামের পর পেশির পুনরুজ্জীবন নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Sothik bishram byayamer por peshir punorudjibon nishchito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "disruptive",
+            "phonetic": "dɪsˈrʌptɪv",
+            "word_native_transliteration": {
+                "bn": "ডিসরাপটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚠️",
+            "meaning": "Something that disturbs or interferes with normal processes or peaceful environment",
+            "example_sentence": "Loud noise at night is disruptive to sleep.",
+            "example_sentence_native_transliteration": {
+                "bn": "লাউড নয়েজ অ্যাট নাইট ইজ ডিসরাপটিভ টু স্লিপ।"
+            },
+            "position": 14,
+            "synonyms": "Disturbing, Interfering, Troublesome",
+            "antonyms": "Stabilizing, Harmonious, Constructive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিঘ্ন সৃষ্টিকারী",
+                    "word_transliteration": "bighno srishtikari",
+                    "example_sentence_translation": "রাতের উচ্চ শব্দ ঘুমের জন্য বিঘ্ন সৃষ্টিকারী।",
+                    "example_sentence_transliteration": "Rater uchcho shobdo ghumr jonno bighno srishtikari.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "exacerbate",
+            "phonetic": "ɪɡˈzæsərbeɪt",
+            "word_native_transliteration": {
+                "bn": "এক্সাসারবেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📈",
+            "meaning": "To make a situation worse or more severe",
+            "example_sentence": "Stress can exacerbate sleep disorders.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্ট্রেস ক্যান এক্সাসারবেট স্লিপ ডিসঅর্ডারস।"
+            },
+            "position": 15,
+            "synonyms": "Worsen, Aggravate, Intensify",
+            "antonyms": "Alleviate, Mitigate, Improve",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অবনতি ঘটানো",
+                    "word_transliteration": "obonoti ghotano",
+                    "example_sentence_translation": "চাপ ঘুমের সমস্যাকে আরও তীব্র করতে পারে।",
+                    "example_sentence_transliteration": "Chap ghumr shomshyake aro tibro korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "impairment",
+            "phonetic": "ɪmˈpɛərmənt",
+            "word_native_transliteration": {
+                "bn": "ইমপেয়ারমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚫",
+            "meaning": "Decline in physical or mental functionality",
+            "example_sentence": "Sleep deprivation leads to cognitive impairment.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্লিপ ডেপ্রিভেশন লিডস টু কগনিটিভ ইমপেয়ারমেন্ট।"
+            },
+            "position": 16,
+            "synonyms": "Dysfunction, Deficiency, Disability",
+            "antonyms": "Enhancement, Improvement, Recovery",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অক্ষমতা",
+                    "word_transliteration": "okkhomota",
+                    "example_sentence_translation": "নিদ্রার অভাব মানসিক কার্যকারিতার ক্ষতি ঘটায়।",
+                    "example_sentence_transliteration": "Nidrar abhab manoshik karyokaritari khoti ghotay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "recuperation",
+            "phonetic": "rɪˌkuːpərˈeɪʃən",
+            "word_native_transliteration": {
+                "bn": "রিকুপারেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The process of gradually recovering from illness or fatigue",
+            "example_sentence": "Rest is essential for recuperation after illness.",
+            "example_sentence_native_transliteration": {
+                "bn": "রেস্ট ইজ এসেনশিয়াল ফর রিকুপারেশন আফটার ইলনেস।"
+            },
+            "position": 17,
+            "synonyms": "Recovery, Healing, Rehabilitation",
+            "antonyms": "Relapse, Deterioration, Worsening",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুনরুদ্ধার",
+                    "word_transliteration": "punoruddhar",
+                    "example_sentence_translation": "অসুস্থতার পর পুনরুদ্ধারের জন্য বিশ্রাম অপরিহার্য।",
+                    "example_sentence_transliteration": "Osushthyotar por punoruddharer jonno bishram oporiharyyo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "susceptibility",
+            "phonetic": "səˌsɛptəˈbɪləti",
+            "word_native_transliteration": {
+                "bn": "সাসেপটিবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🦠",
+            "meaning": "Vulnerability or weakness to the influence or infection of something",
+            "example_sentence": "Lack of sleep increases susceptibility to infections.",
+            "example_sentence_native_transliteration": {
+                "bn": "ল্যাক অফ স্লিপ ইনক্রিসেস সাসেপটিবিলিটি টু ইনফেকশনস।"
+            },
+            "position": 18,
+            "synonyms": "Vulnerability, Sensitivity, Predisposition",
+            "antonyms": "Resistance, Immunity, Strength",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংবেদনশীলতা",
+                    "word_transliteration": "shongbedonshilota",
+                    "example_sentence_translation": "ঘুমের অভাব সংক্রমণের প্রতি সংবেদনশীলতা বাড়ায়।",
+                    "example_sentence_transliteration": "Ghumr abhab shongkromner proti shongbedonshilota baray.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

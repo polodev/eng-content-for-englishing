@@ -1,0 +1,445 @@
+{
+    "position": 210,
+    "title_translation": {
+        "en": "The Rise of Virtual Reality",
+        "bn": "Virtual Reality এর উত্থান"
+    },
+    "content_translation": {
+        "en": "**Virtual reality** (VR) technology has an undeniable **inevitability**. It is no longer just for entertainment, but has achieved **integration** in education systems, healthcare services, and businesses.\n\nCurrently, through **sensory** improvements, **immersion** is becoming more realistic. Using **augmentation** technology, humans can work in **simulated** environments, creating **emulation** with reality.\n\nAlthough VR still faces some **latency** issues, its **trajectory** for the future is extremely bright. **Metamorphosis** is happening in the entertainment world, and it has now gained **ubiquity** everywhere.\n\nThe **convergence** of this technology is having a profound impact on human thinking. Although it is still **ephemeral** in some areas, its **plausibility** is becoming more acceptable day by day.\n\nTherefore, **virtual reality** is an inevitable **spectacle** of the future, creating a new chapter in our lives.",
+        "bn": "**Virtual reality** (VR) প্রযুক্তির **inevitability** নিয়ে কোনো সন্দেহ নেই। এটি এখন শুধুমাত্র বিনোদনের জন্য নয়, বরং শিক্ষা ব্যবস্থা, স্বাস্থ্য সেবা এবং ব্যবসায়ও **integration** ঘটিয়েছে।\n\nবর্তমানে **sensory** উন্নতির মাধ্যমে **immersion** আরও বাস্তবসম্মত হয়ে উঠছে। **Augmentation** প্রযুক্তি ব্যবহার করে মানুষ **simulated** পরিবেশে কাজ করতে পারছে, যা বাস্তবতার সঙ্গে **emulation** তৈরি করছে।\n\nযদিও VR এখনো কিছু **latency** সমস্যার সম্মুখীন হয়, তবে এর **trajectory** ভবিষ্যতে অত্যন্ত উজ্জ্বল। **Metamorphosis** ঘটছে বিনোদন জগতে, এবং এটি এখন সর্বত্র **ubiquity** পেয়েছে।\n\nএই প্রযুক্তির **convergence** মানুষের চিন্তাভাবনার উপর ব্যাপক প্রভাব ফেলছে। যদিও এটি এখনও কিছু ক্ষেত্রে **ephemeral**, তবুও এর **plausibility** দিনে দিনে আরও গ্রহণযোগ্য হয়ে উঠছে।\n\nঅতএব, **virtual reality** ভবিষ্যতের এক অনিবার্য **spectacle**, যা আমাদের জীবনে এক নতুন অধ্যায় তৈরি করছে।"
+    },
+    "list": [
+        {
+            "word": "virtual reality",
+            "phonetic": "/ˈvɜː.tʃu.əl riˈæl.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "ভার্চুয়াল রিয়ালিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🥽",
+            "meaning": "Computer technology that creates an artificial three-dimensional environment where users can feel like they are in a real environment.",
+            "example_sentence": "Virtual reality (VR) is widely used in gaming and training simulations.",
+            "example_sentence_native_transliteration": {
+                "bn": "ভার্চুয়াল রিয়ালিটি (ভিআর) ইজ ওয়াইডলি ইউজড ইন গেমিং অ্যান্ড ট্রেনিং সিমুলেশনস।"
+            },
+            "position": 1,
+            "synonyms": "Digital Simulation, Immersive Technology, Artificial Environment",
+            "antonyms": "Physical Reality, Actual World, Real-life Experience",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভার্চুয়াল বাস্তবতা",
+                    "word_transliteration": "bhartuyal bastobota",
+                    "example_sentence_translation": "ভার্চুয়াল বাস্তবতা (VR) গেমিং ও প্রশিক্ষণ অনুকরণে ব্যাপকভাবে ব্যবহৃত হয়।",
+                    "example_sentence_transliteration": "Bhartuyal bastobota (VR) gaming o proshikkhon onukorone byapokbhabe byabohrito hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "inevitability",
+            "phonetic": "/ɪˌnɛv.ɪ.təˈbɪl.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "ইনেভিটেবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "Something that will definitely happen and cannot be avoided.",
+            "example_sentence": "The inevitability of technological advancement cannot be ignored.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইনেভিটেবিলিটি অব টেকনোলজিক্যাল অ্যাডভান্সমেন্ট ক্যানট বি ইগনোর্ড।"
+            },
+            "position": 2,
+            "synonyms": "Certainty, Unavoidability, Necessity",
+            "antonyms": "Avoidability, Uncertainty, Improbability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অপরিহার্যতা",
+                    "word_transliteration": "oporharyota",
+                    "example_sentence_translation": "প্রযুক্তিগত অগ্রগতির অপরিহার্যতা উপেক্ষা করা যায় না।",
+                    "example_sentence_transliteration": "Prajuktiot agrogotir oporharyota upekkha kora jay na.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "integration",
+            "phonetic": "/ˌɪn.tɪˈɡreɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ইনটিগ্রেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔗",
+            "meaning": "Combining different elements together to create an effective system.",
+            "example_sentence": "The integration of AI in education enhances learning.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইনটিগ্রেশন অব এআই ইন এডুকেশন এনহান্সেস লার্নিং।"
+            },
+            "position": 3,
+            "synonyms": "Incorporation, Combination, Unification",
+            "antonyms": "Separation, Segregation, Disconnection",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একীভূতকরণ",
+                    "word_transliteration": "ekibhutokoron",
+                    "example_sentence_translation": "শিক্ষায় কৃত্রিম বুদ্ধিমত্তার একীভূতকরণ শেখার অভিজ্ঞতা উন্নত করে।",
+                    "example_sentence_transliteration": "Shikkhay krittim buddhimottar ekibhutokoron shekhar obhiggyota unnoto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sensory",
+            "phonetic": "/ˈsɛn.sər.i/",
+            "word_native_transliteration": {
+                "bn": "সেনসরি"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "👁️",
+            "meaning": "Related to the five human senses (sight, hearing, taste, touch, smell).",
+            "example_sentence": "Sensory feedback enhances the VR experience.",
+            "example_sentence_native_transliteration": {
+                "bn": "সেনসরি ফিডব্যাক এনহান্সেস দ্য ভিআর এক্সপেরিয়েন্স।"
+            },
+            "position": 4,
+            "synonyms": "Perceptual, Neural, Experiential",
+            "antonyms": "Non-sensory, Abstract, Conceptual",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ইন্দ্রিয়গত",
+                    "word_transliteration": "indriygot",
+                    "example_sentence_translation": "ইন্দ্রিয়গত প্রতিক্রিয়া ভার্চুয়াল বাস্তবতার অভিজ্ঞতা উন্নত করে।",
+                    "example_sentence_transliteration": "Indriygot protikriya bhartuyal bastobtar obhiggyota unnoto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "immersion",
+            "phonetic": "/ɪˈmɜː.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ইমার্শন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌊",
+            "meaning": "Complete engagement in an environment or experience.",
+            "example_sentence": "Immersion in VR games makes users feel like they are inside the virtual world.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইমার্শন ইন ভিআর গেমস মেকস ইউজারস ফিল লাইক দে আর ইনসাইড দ্য ভার্চুয়াল ওয়ার্ল্ড।"
+            },
+            "position": 5,
+            "synonyms": "Engagement, Submersion, Deep Involvement",
+            "antonyms": "Detachment, Disengagement, Withdrawal",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিমজ্জন",
+                    "word_transliteration": "nimojjon",
+                    "example_sentence_translation": "ভার্চুয়াল বাস্তবতার গেমে নিমজ্জন ব্যবহারকারীদের মনে করায় যে তারা কৃত্রিম জগতের ভেতরে রয়েছে।",
+                    "example_sentence_transliteration": "Bhartuyal bastobtar game nimojjon byaboharkaridir mone koray je tara krittim jogter bhetore royeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "augmentation",
+            "phonetic": "/ˌɔːɡ.mɛnˈteɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "অগমেন্টেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⬆️",
+            "meaning": "Enhancing or increasing the effectiveness or quality of something.",
+            "example_sentence": "Augmented reality (AR) enables augmentation of real-world experiences.",
+            "example_sentence_native_transliteration": {
+                "bn": "অগমেন্টেড রিয়ালিটি (এআর) এনেবলস অগমেন্টেশন অব রিয়েল-ওয়ার্ল্ড এক্সপেরিয়েন্সেস।"
+            },
+            "position": 6,
+            "synonyms": "Enhancement, Expansion, Amplification",
+            "antonyms": "Reduction, Diminishment, Decrease",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৃদ্ধি",
+                    "word_transliteration": "briddhi",
+                    "example_sentence_translation": "বর্ধিত বাস্তবতা (AR) বাস্তব অভিজ্ঞতার উন্নতি করতে সহায়ক।",
+                    "example_sentence_transliteration": "Bordhito bastobta (AR) bastob obhiggyotar unnoti korte sahayok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "simulated",
+            "phonetic": "/ˈsɪm.jʊ.leɪ.tɪd/",
+            "word_native_transliteration": {
+                "bn": "সিমুলেটেড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎭",
+            "meaning": "Artificially created to look real but not actually real.",
+            "example_sentence": "The pilot trained in a simulated flight environment.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য পাইলট ট্রেইনড ইন এ সিমুলেটেড ফ্লাইট এনভায়রনমেন্ট।"
+            },
+            "position": 7,
+            "synonyms": "Artificial, Imitated, Replicated",
+            "antonyms": "Real, Authentic, Genuine",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনুকরণকৃত",
+                    "word_transliteration": "onukoronkrito",
+                    "example_sentence_translation": "পাইলট একটি কৃত্রিম উড়ান পরিবেশে প্রশিক্ষণ নিয়েছিলেন।",
+                    "example_sentence_transliteration": "Pilot ekti krittim uran poribeshey proshikkhon niyechhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "emulation",
+            "phonetic": "/ˌɛmjʊˈleɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "এমুলেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "Reproducing something or following someone to achieve success.",
+            "example_sentence": "The software allows the emulation of old video games on modern devices.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সফটওয়্যার অ্যালাউস দ্য এমুলেশন অব ওল্ড ভিডিও গেমস অন মডার্ন ডিভাইসেস।"
+            },
+            "position": 8,
+            "synonyms": "Imitation, Mimicry, Reproduction",
+            "antonyms": "Originality, Innovation, Distinction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনুকরণ",
+                    "word_transliteration": "onukoron",
+                    "example_sentence_translation": "সফটওয়্যারটি আধুনিক ডিভাইসে পুরানো ভিডিও গেমের অনুকরণ করতে সক্ষম।",
+                    "example_sentence_transliteration": "Softwareoti adhunik devicey purano video gamer onukoron korte sokkhom.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "latency",
+            "phonetic": "/ˈleɪ.tən.si/",
+            "word_native_transliteration": {
+                "bn": "লেটেন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⏱️",
+            "meaning": "The delay in processing signals or data.",
+            "example_sentence": "High latency in online gaming can cause lagging issues.",
+            "example_sentence_native_transliteration": {
+                "bn": "হাই লেটেন্সি ইন অনলাইন গেমিং ক্যান কজ ল্যাগিং ইস্যুস।"
+            },
+            "position": 9,
+            "synonyms": "Delay, Lag, Waiting Time",
+            "antonyms": "Instantaneousness, Immediacy, Promptness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিলম্ব",
+                    "word_transliteration": "bilambo",
+                    "example_sentence_translation": "অনলাইন গেমিংয়ে উচ্চ বিলম্ব প্রতিক্রিয়ার ধীরগতি সৃষ্টি করতে পারে।",
+                    "example_sentence_transliteration": "Online gamingy uchcho bilambo protikriyar dhirogoti srishti korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "trajectory",
+            "phonetic": "/trəˈdʒɛk.tɚ.i/",
+            "word_native_transliteration": {
+                "bn": "ট্র্যাজেক্টরি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚀",
+            "meaning": "The path or direction of movement of an object or progress.",
+            "example_sentence": "The rocket followed a precise trajectory to reach Mars.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রকেট ফলোড এ প্রিসাইজ ট্র্যাজেক্টরি টু রিচ মার্স।"
+            },
+            "position": 10,
+            "synonyms": "Path, Course, Arc",
+            "antonyms": "Deviation, Displacement, Randomness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গতিপথ",
+                    "word_transliteration": "gotipoth",
+                    "example_sentence_translation": "রকেটটি মঙ্গল গ্রহে পৌঁছানোর জন্য নির্দিষ্ট গতিপথ অনুসরণ করেছিল।",
+                    "example_sentence_transliteration": "Roketti mongol grohe pouchanor jonno nirdishto gotipoth onusoron korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "metamorphosis",
+            "phonetic": "/ˌmɛt.əˈmɔːr.fə.sɪs/",
+            "word_native_transliteration": {
+                "bn": "মেটামর্ফোসিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🦋",
+            "meaning": "A complete transformation or development process.",
+            "example_sentence": "The caterpillar undergoes metamorphosis to become a butterfly.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ক্যাটারপিলার আন্ডারগোজ মেটামর্ফোসিস টু বিকাম এ বাটারফ্লাই।"
+            },
+            "position": 11,
+            "synonyms": "Transformation, Evolution, Change",
+            "antonyms": "Stagnation, Stability, Consistency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রূপান্তর",
+                    "word_transliteration": "rupantor",
+                    "example_sentence_translation": "শুঁয়োপোকা প্রজাপতিতে পরিণত হতে রূপান্তরের মধ্য দিয়ে যায়।",
+                    "example_sentence_transliteration": "Shunyopoka projapotite porinoto hote rupantorer moddho diye jay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ubiquity",
+            "phonetic": "/juːˈbɪk.wɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "ইউবিকুইটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌍",
+            "meaning": "Being present everywhere or widespread existence.",
+            "example_sentence": "The ubiquity of smartphones has changed communication.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইউবিকুইটি অব স্মার্টফোনস হ্যাজ চেঞ্জড কমিউনিকেশন।"
+            },
+            "position": 12,
+            "synonyms": "Omnipresence, Pervasiveness, Universality",
+            "antonyms": "Rarity, Uncommonness, Scarcity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সর্বব্যাপী উপস্থিতি",
+                    "word_transliteration": "sorbbobyapi uposthiti",
+                    "example_sentence_translation": "স্মার্টফোনের সর্বব্যাপী উপস্থিতি যোগাযোগ ব্যবস্থাকে পরিবর্তন করেছে।",
+                    "example_sentence_transliteration": "Smartphoner sorbbobyapi uposthiti jogajog byabosthake poriborton koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "convergence",
+            "phonetic": "/kənˈvɜː.dʒəns/",
+            "word_native_transliteration": {
+                "bn": "কনভার্জেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "The coming together or merging of different elements.",
+            "example_sentence": "The convergence of science and technology has led to innovation.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কনভার্জেন্স অব সায়েন্স অ্যান্ড টেকনোলজি হ্যাজ লেড টু ইনোভেশন।"
+            },
+            "position": 13,
+            "synonyms": "Union, Merging, Alignment",
+            "antonyms": "Divergence, Separation, Deviation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংযোগ",
+                    "word_transliteration": "shongjog",
+                    "example_sentence_translation": "বিজ্ঞান ও প্রযুক্তির সংযোগ উদ্ভাবনের পথ সুগম করেছে।",
+                    "example_sentence_transliteration": "Biggan o projuktir shongjog udbhaboner poth sugom koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ephemeral",
+            "phonetic": "/ɪˈfɛm.ər.əl/",
+            "word_native_transliteration": {
+                "bn": "এফেমেরাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⏳",
+            "meaning": "Lasting for a very short time.",
+            "example_sentence": "Beauty is often ephemeral, fading with time.",
+            "example_sentence_native_transliteration": {
+                "bn": "বিউটি ইজ অফেন এফেমেরাল, ফেডিং উইথ টাইম।"
+            },
+            "position": 14,
+            "synonyms": "Short-lived, Fleeting, Temporary",
+            "antonyms": "Permanent, Long-lasting, Enduring",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অস্থায়ী",
+                    "word_transliteration": "osthayi",
+                    "example_sentence_translation": "সৌন্দর্য প্রায়শই স্বল্পস্থায়ী হয়, যা সময়ের সাথে ম্লান হয়ে যায়।",
+                    "example_sentence_transliteration": "Shoundrjo prayshoi swolposthayi hoy, ja shomoyer shathe mlan hoye jay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "plausibility",
+            "phonetic": "/ˌplɔː.zəˈbɪl.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "প্লজিবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✅",
+            "meaning": "The quality of being reasonable or probable.",
+            "example_sentence": "The plausibility of his explanation convinced the jury.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্লজিবিলিটি অব হিজ এক্সপ্লেনেশন কনভিনসড দ্য জুরি।"
+            },
+            "position": 15,
+            "synonyms": "Credibility, Believability, Probability",
+            "antonyms": "Implausibility, Unlikelihood, Improbability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিশ্বাসযোগ্যতা",
+                    "word_transliteration": "bishashojoggyota",
+                    "example_sentence_translation": "তার ব্যাখ্যার বিশ্বাসযোগ্যতা বিচারকদের সন্তুষ্ট করেছিল।",
+                    "example_sentence_transliteration": "Tar byakhyar bishashojoggyota bicharokder shontushto korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "spectacle",
+            "phonetic": "/ˈspɛk.tə.kəl/",
+            "word_native_transliteration": {
+                "bn": "স্পেক্টাকল"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎪",
+            "meaning": "An impressive display or performance for viewers.",
+            "example_sentence": "The fireworks created a breathtaking spectacle in the night sky.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফায়ারওয়ার্কস ক্রিয়েটেড এ ব্রেথটেকিং স্পেক্টাকল ইন দ্য নাইট স্কাই।"
+            },
+            "position": 16,
+            "synonyms": "Display, Show, Performance",
+            "antonyms": "Plainness, Simplicity, Insignificance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চমকপ্রদ দৃশ্য",
+                    "word_transliteration": "chomokprodo drishyo",
+                    "example_sentence_translation": "আতশবাজি গুলো রাতের আকাশে একটি চমকপ্রদ দৃশ্য তৈরি করেছিল।",
+                    "example_sentence_transliteration": "Atoshbaji gulo rater akashe ekti chomokprodo drishyo toiri korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

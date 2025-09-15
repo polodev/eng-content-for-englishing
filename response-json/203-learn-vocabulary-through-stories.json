@@ -1,0 +1,364 @@
+{
+    "position": 203,
+    "title_translation": {
+        "en": "The Let Them Theory",
+        "bn": "Let Them Theory"
+    },
+    "content_translation": {
+        "en": "In life, we often want to change other people's behavior, but the **let them theory** teaches us that the most **pragmatic** principle is not to try to control anyone. If someone behaves in a **belligerent** manner, let them. If they show **complacency** and don't try to improve in life, let them. We often feel **ambivalence**, especially when people close to us don't behave as we expect. However, maintaining **fortitude**, we must give them freedom. Life is a **dichotomy**, where some people make **meticulous** plans, while others make **impetuous** decisions. Forcing someone into **conformity** can be **inequitable**. **Discernment** is important, so we can understand when to intervene and when to show **deference** and let others live their way. The Let them policy helps preserve our mental peace, because some things cannot be changed.",
+        "bn": "জীবনে অনেক সময় আমরা অন্যের আচরণ পরিবর্তন করতে চাই, কিন্তু **let them theory** আমাদের শেখায়, কাউকে নিয়ন্ত্রণের চেষ্টা না করাই সবচেয়ে **pragmatic** সিদ্ধান্ত। যদি কেউ **belligerent** আচরণ করে, let them। তারা যদি **complacency** দেখায় এবং জীবনে উন্নতির চেষ্টা না করে, let them। আমরা প্রায়ই **ambivalence** অনুভব করি, বিশেষ করে যখন কাছের মানুষ আমাদের প্রত্যাশা মতো আচরণ না করে। তবে, **fortitude** ধরে রেখে, তাদের স্বাধীনতা দিতে হয়। জীবন একটি **dichotomy**, যেখানে কিছু মানুষ **meticulous** পরিকল্পনা নিয়ে চলে, আবার কেউ **impetuous** সিদ্ধান্ত নেয়। কাউকে জোর করে **conformity** তে বাধ্য করা **inequitable** হতে পারে। **Discernment** থাকা জরুরি, যাতে আমরা বুঝতে পারি কবে হস্তক্ষেপ করা উচিত, আর কখন **deference** দেখিয়ে অন্যকে তাদের মতো চলতে দেওয়া উচিত। Let them নীতি আমাদের মানসিক শান্তি রক্ষা করতে সাহায্য করে, কারণ কিছু বিষয় বদলানোর নয়।"
+    },
+    "list": [
+        {
+            "word": "let them theory",
+            "phonetic": "/lɛt ðɛm ˈθɪə.ri/",
+            "word_native_transliteration": {
+                "bn": "লেট দেম থিওরি"
+            },
+            "parts_of_speech": "phrase",
+            "emoji": "🤷‍♀️",
+            "meaning": "A philosophy of not trying to control others' actions or opinions and allowing them to be themselves.",
+            "example_sentence": "He follows the Let them theory and ignores negativity.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি ফলোজ দ্য লেট দেম থিওরি এন্ড ইগনোরস নেগেটিভিটি।"
+            },
+            "position": 1,
+            "synonyms": "Indifference to Opinion, Self-Assurance, Confidence",
+            "antonyms": "Overthinking, Self-Doubt, Insecurity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অন্যদের যা খুশি ভাবতে দেওয়ার মতবাদ",
+                    "word_transliteration": "onnyoder ja khushi bhabte deowar motobad",
+                    "example_sentence_translation": "তিনি \"Let them theory\" অনুসরণ করেন এবং নেতিবাচকতা উপেক্ষা করেন।",
+                    "example_sentence_transliteration": "Tini \"Let them theory\" onushoron koren ebong netibachokta upeksha koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pragmatic",
+            "phonetic": "/præɡˈmæt.ɪk/",
+            "word_native_transliteration": {
+                "bn": "প্র্যাগম্যাটিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎯",
+            "meaning": "Dealing with things sensibly and realistically in a way that is based on practical rather than idealistic considerations.",
+            "example_sentence": "His pragmatic approach helped solve the crisis efficiently.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ প্র্যাগম্যাটিক অ্যাপ্রোচ হেল্পড সলভ দ্য ক্রাইসিস ইফিশিয়েন্টলি।"
+            },
+            "position": 2,
+            "synonyms": "Practical, Realistic, Sensible",
+            "antonyms": "Idealistic, Theoretical, Impractical",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাস্তববাদী বা ব্যবহারিক",
+                    "word_transliteration": "bastobadi ba byboharik",
+                    "example_sentence_translation": "তার বাস্তববাদী দৃষ্টিভঙ্গি সংকট সমাধানে সহায়ক হয়েছে।",
+                    "example_sentence_transliteration": "Tar bastobadi drishtibhongi shongkot shomadhane shohayok hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "belligerent",
+            "phonetic": "/bəˈlɪdʒ.ər.ənt/",
+            "word_native_transliteration": {
+                "bn": "বেলিজেরেন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "😠",
+            "meaning": "Hostile and aggressive, ready to fight or argue.",
+            "example_sentence": "His belligerent attitude often leads to conflicts.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ বেলিজেরেন্ট অ্যাটিটিউড অফেন লিডস টু কনফ্লিক্টস।"
+            },
+            "position": 3,
+            "synonyms": "Hostile, Aggressive, Combative",
+            "antonyms": "Peaceful, Friendly, Cooperative",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আক্রমণাত্মক বা যুদ্ধপ্রবণ",
+                    "word_transliteration": "akromnatmok ba juddho probon",
+                    "example_sentence_translation": "তার আক্রমণাত্মক মনোভাব প্রায়শই দ্বন্দ্ব সৃষ্টি করে।",
+                    "example_sentence_transliteration": "Tar akromnatmok monobhab prayoshoi donddo srishti kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "complacency",
+            "phonetic": "/kəmˈpleɪ.sən.si/",
+            "word_native_transliteration": {
+                "bn": "কমপ্লেসেন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "😌",
+            "meaning": "A feeling of smug or uncritical satisfaction with oneself or one's achievements.",
+            "example_sentence": "His complacency led to a decline in his performance.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ কমপ্লেসেন্সি লেড টু এ ডিক্লাইন ইন হিজ পারফরম্যান্স।"
+            },
+            "position": 4,
+            "synonyms": "Self-satisfaction, Contentment, Smugness",
+            "antonyms": "Ambition, Dissatisfaction, Motivation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আত্মতুষ্টি বা অতিরিক্ত আত্মবিশ্বাস",
+                    "word_transliteration": "attotushti ba otirikto attobishshash",
+                    "example_sentence_translation": "তার আত্মতুষ্টি তার পারফরম্যান্সের অবনতি ঘটিয়েছে।",
+                    "example_sentence_transliteration": "Tar attotushti tar performancer obonoti ghatiyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ambivalence",
+            "phonetic": "/æmˈbɪv.ə.ləns/",
+            "word_native_transliteration": {
+                "bn": "অ্যাম্বিভ্যালেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤔",
+            "meaning": "The state of having mixed feelings or contradictory ideas about something or someone.",
+            "example_sentence": "She felt ambivalence about accepting the new job offer.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি ফেল্ট অ্যাম্বিভ্যালেন্স অ্যাবাউট অ্যাকসেপটিং দ্য নিউ জব অফার।"
+            },
+            "position": 5,
+            "synonyms": "Uncertainty, Indecision, Contradiction",
+            "antonyms": "Certainty, Resolution, Conviction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্বৈততা বা দ্বিধা",
+                    "word_transliteration": "dwoitota ba dweidha",
+                    "example_sentence_translation": "তিনি নতুন চাকরির প্রস্তাব গ্রহণ করা নিয়ে দ্বিধাগ্রস্ত ছিলেন।",
+                    "example_sentence_transliteration": "Tini notun chakrir prostab grohon kora niye dwidhagrosto chillen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fortitude",
+            "phonetic": "/ˈfɔːr.tɪ.tjuːd/",
+            "word_native_transliteration": {
+                "bn": "ফর্টিটিউড"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "Courage in pain or adversity; mental and emotional strength in facing difficulty.",
+            "example_sentence": "She faced adversity with great fortitude.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি ফেসড অ্যাডভার্সিটি উইথ গ্রেট ফর্টিটিউড।"
+            },
+            "position": 6,
+            "synonyms": "Courage, Resilience, Endurance",
+            "antonyms": "Weakness, Cowardice, Fear",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মানসিক শক্তি বা সহনশীলতা",
+                    "word_transliteration": "manoshik shokti ba shohonshilota",
+                    "example_sentence_translation": "তিনি প্রতিকূলতাকে অসাধারণ মানসিক শক্তির সাথে মোকাবিলা করেছেন।",
+                    "example_sentence_transliteration": "Tini protikulotake oshadharon manoshik shoktir sathe mokabila korechen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dichotomy",
+            "phonetic": "/daɪˈkɒt.ə.mi/",
+            "word_native_transliteration": {
+                "bn": "ডাইকোটমি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "A division or contrast between two things that are or are represented as being opposed or entirely different.",
+            "example_sentence": "There is a clear dichotomy between theory and practice.",
+            "example_sentence_native_transliteration": {
+                "bn": "দেয়ার ইজ এ ক্লিয়ার ডাইকোটমি বিটুইন থিওরি অ্যান্ড প্র্যাকটিস।"
+            },
+            "position": 7,
+            "synonyms": "Division, Contrast, Duality",
+            "antonyms": "Unity, Similarity, Agreement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৈপরীত্য বা দ্বৈততা",
+                    "word_transliteration": "boiporito ba dwoitota",
+                    "example_sentence_translation": "তত্ত্ব ও বাস্তবতার মধ্যে একটি সুস্পষ্ট বৈপরীত্য রয়েছে।",
+                    "example_sentence_transliteration": "Totto o bastobtar moddhe ekti susposshto boiporito royeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "meticulous",
+            "phonetic": "/məˈtɪk.jə.ləs/",
+            "word_native_transliteration": {
+                "bn": "মেটিকুলাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔍",
+            "meaning": "Showing great attention to detail; very careful and precise.",
+            "example_sentence": "A meticulous researcher checks every detail before publishing.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ মেটিকুলাস রিসার্চার চেকস এভরি ডিটেইল বিফোর পাবলিশিং।"
+            },
+            "position": 8,
+            "synonyms": "Precise, Thorough, Detail-oriented",
+            "antonyms": "Careless, Inaccurate, Negligent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অত্যন্ত যত্নবান বা নিখুঁতভাবে কাজ করা",
+                    "word_transliteration": "ottyonto jotnoban ba nikhuntobhabe kaj kora",
+                    "example_sentence_translation": "একজন নিখুঁত গবেষক প্রকাশের আগে প্রতিটি বিশদ পরীক্ষা করেন।",
+                    "example_sentence_transliteration": "Ekjon nikhunto gobeshok prokasher aghe protiti bishod poriksha koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "impetuous",
+            "phonetic": "/ɪmˈpɛtʃ.u.əs/",
+            "word_native_transliteration": {
+                "bn": "ইমপেচুয়াস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🏃‍♂️",
+            "meaning": "Acting or done quickly and without thought or care; impulsive.",
+            "example_sentence": "His impetuous decision led to unexpected consequences.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ইমপেচুয়াস ডিসিশন লেড টু আনএক্সপেক্টেড কনসিকুয়েন্সেস।"
+            },
+            "position": 9,
+            "synonyms": "Rash, Hasty, Reckless",
+            "antonyms": "Cautious, Thoughtful, Deliberate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অভিনিবেশহীন বা আবেগপ্রবণভাবে কাজ করা",
+                    "word_transliteration": "abhinibeshhin ba abegprobonbhabe kaj kora",
+                    "example_sentence_translation": "তার আবেগপ্রবণ সিদ্ধান্ত অপ্রত্যাশিত পরিণতি ডেকে এনেছিল।",
+                    "example_sentence_transliteration": "Tar abegprobon siddhanto oprottashito porinoti deke anechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "conformity",
+            "phonetic": "/kənˈfɔː.mɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "কনফর্মিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👥",
+            "meaning": "Compliance with standards, rules, or laws; behavior in accordance with socially accepted conventions.",
+            "example_sentence": "The school enforces strict conformity to its dress code.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্কুল এনফোর্সেস স্ট্রিক্ট কনফর্মিটি টু ইটস ড্রেস কোড।"
+            },
+            "position": 10,
+            "synonyms": "Compliance, Obedience, Agreement",
+            "antonyms": "Deviation, Nonconformity, Rebellion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মানিয়ে চলা বা নিয়ম অনুসরণ",
+                    "word_transliteration": "maniye chola ba niyom onushoron",
+                    "example_sentence_translation": "স্কুল তাদের পোশাকবিধি অনুসরণের উপর কঠোর নিয়ম প্রয়োগ করে।",
+                    "example_sentence_transliteration": "School tader poshakbidhi onushoroner upor kothor niyom proyog kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "inequitable",
+            "phonetic": "/ɪnˈɛk.wɪ.tə.bəl/",
+            "word_native_transliteration": {
+                "bn": "ইনইকুইটেবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚖️",
+            "meaning": "Not fair or just; lacking in fairness or equality.",
+            "example_sentence": "The distribution of resources was inequitable among the workers.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডিস্ট্রিবিউশন অব রিসোর্সেস ওয়াজ ইনইকুইটেবল অ্যামং দ্য ওয়ার্কারস।"
+            },
+            "position": 11,
+            "synonyms": "Unfair, Biased, Discriminatory",
+            "antonyms": "Fair, Just, Impartial",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অন্যায্য বা অসামঞ্জস্যপূর্ণ",
+                    "word_transliteration": "onnyayyo ba osamojjoshyopurno",
+                    "example_sentence_translation": "কর্মীদের মধ্যে সম্পদের বণ্টন অন্যায্য ছিল।",
+                    "example_sentence_transliteration": "Kormider moddhe shompoder bonton onnyayyo chilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "discernment",
+            "phonetic": "/dɪˈsɜːn.mənt/",
+            "word_native_transliteration": {
+                "bn": "ডিসার্নমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧠",
+            "meaning": "The ability to judge well; good judgment and understanding.",
+            "example_sentence": "His discernment in business decisions made him successful.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ডিসার্নমেন্ট ইন বিজনেস ডিসিশনস মেড হিম সাকসেসফুল।"
+            },
+            "position": 12,
+            "synonyms": "Insight, Perception, Judgment",
+            "antonyms": "Ignorance, Indiscretion, Foolishness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "তীক্ষ্ণ বিচার-বুদ্ধি বা বোঝার ক্ষমতা",
+                    "word_transliteration": "tikkhno bichar-buddhi ba bojhar khomota",
+                    "example_sentence_translation": "ব্যবসায়িক সিদ্ধান্ত নেওয়ার তার বিচক্ষণতা তাকে সফল করেছে।",
+                    "example_sentence_transliteration": "Bybasayik siddhanto neowar tar bichokkhonota take shofol koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "deference",
+            "phonetic": "/ˈdɛf.ər.əns/",
+            "word_native_transliteration": {
+                "bn": "ডেফারেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🙏",
+            "meaning": "Humble submission and respect; polite submission to someone's wishes or opinions.",
+            "example_sentence": "Out of deference, he followed his mentor's advice.",
+            "example_sentence_native_transliteration": {
+                "bn": "আউট অব ডেফারেন্স, হি ফলোড হিজ মেন্টরস অ্যাডভাইস।"
+            },
+            "position": 13,
+            "synonyms": "Respect, Reverence, Submission",
+            "antonyms": "Disrespect, Defiance, Disobedience",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শ্রদ্ধা বা নম্রতা",
+                    "word_transliteration": "shroddha ba nomrota",
+                    "example_sentence_translation": "শ্রদ্ধার কারণে তিনি তার পরামর্শকের উপদেশ অনুসরণ করেছিলেন।",
+                    "example_sentence_transliteration": "Shraddhar karone tini tar poramorshoker upodesho onushoron korechilen.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

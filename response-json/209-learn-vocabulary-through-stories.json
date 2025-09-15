@@ -1,0 +1,526 @@
+{
+    "position": 209,
+    "title_translation": {
+        "en": "The Psychology of Decision-Making",
+        "bn": "সিদ্ধান্ত গ্রহণের মনোবিজ্ঞান"
+    },
+    "content_translation": {
+        "en": "In every moment of life, we make decisions, but how are these decisions formed? **Cognition** and the **subconscious** mind work together, where **intuition** and **bias** often influence. Many people think decision-making is a completely rational process, but in reality, **emotionality** and **impulsivity** play major roles. Often **dilemmas** are created, where **contemplation** and **deliberation** are needed. Human **judgment** and **assessment** depend on various **heuristic** methods. However, when **ambiguity** exists, **irrationality** can often influence our **evaluation**. To make the right decision, we need to understand our **predisposition** and think about the **consequences**. By analyzing the **determinant** factors, we can make better decisions that will improve the quality of our lives.",
+        "bn": "জীবনের প্রতিটি মুহূর্তে আমরা সিদ্ধান্ত নেই, কিন্তু এই সিদ্ধান্তগুলো কিভাবে গঠিত হয়? **Cognition** এবং **subconscious** মন কাজ করে একসঙ্গে, যেখানে অনেক সময় **intuition** এবং **bias** প্রভাব ফেলে। অনেকেই ভাবেন, সিদ্ধান্ত নেওয়া একটি সম্পূর্ণ **rationalization** প্রক্রিয়া, কিন্তু বাস্তবে **emotionality** এবং **impulsivity** এর বড় ভূমিকা রাখে। অনেক সময় **dilemma** তৈরি হয়, যেখানে **contemplation** এবং **deliberation** প্রয়োজন হয়। মানুষের **judgment** এবং **assessment** বিভিন্ন **heuristic** পদ্ধতির ওপর নির্ভর করে। কিন্তু **ambiguity** থাকলে অনেক সময় **irrationality** আমাদের **evaluation** প্রভাবিত করতে পারে। একটি সঠিক সিদ্ধান্ত নেওয়ার জন্য, আমাদের **predisposition** বুঝতে হবে এবং **consequence** সম্পর্কে ভাবতে হবে। **Determinant** ফ্যাক্টরগুলো বিশ্লেষণ করলে আমরা ভালো সিদ্ধান্ত নিতে পারব, যা আমাদের জীবনের মান উন্নত করবে।"
+    },
+    "list": [
+        {
+            "word": "cognition",
+            "phonetic": "kɒɡˈnɪʃ.ən",
+            "word_native_transliteration": {
+                "bn": "কগনিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧠",
+            "meaning": "The mental process of acquiring knowledge and understanding through thought, experience, and the senses.",
+            "example_sentence": "Cognition plays a crucial role in learning.",
+            "example_sentence_native_transliteration": {
+                "bn": "কগনিশন প্লেইজ এ ক্রুশিয়াল রোল ইন লার্নিং।"
+            },
+            "position": 1,
+            "synonyms": "perception, awareness, understanding, knowledge",
+            "antonyms": "ignorance, unawareness, unconsciousness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জ্ঞান, উপলব্ধি, বুদ্ধিবৃত্তিক প্রক্রিয়া",
+                    "word_transliteration": "gyan, upolabdhi, buddhibrittik prokriya",
+                    "example_sentence_translation": "শেখার ক্ষেত্রে জ্ঞান অত্যন্ত গুরুত্বপূর্ণ ভূমিকা পালন করে।",
+                    "example_sentence_transliteration": "Shekhar kshetre gyan ottyonto guruttopurno bhumika palon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "subconscious",
+            "phonetic": "ˌsʌbˈkɒn.ʃəs",
+            "word_native_transliteration": {
+                "bn": "সাবকনশাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌙",
+            "meaning": "Concerning the part of the mind of which one is not fully aware but which influences one's actions and feelings.",
+            "example_sentence": "His fears were rooted in his subconscious.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ফিয়ারস ওয়্যার রুটেড ইন হিজ সাবকনশাস।"
+            },
+            "position": 2,
+            "synonyms": "unconscious, latent, subliminal",
+            "antonyms": "conscious, aware, deliberate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অবচেতন, অর্ধসচেতন, অগোচর মানসিক ক্রিয়া",
+                    "word_transliteration": "obocheton, ordhosocheton, goochor manoshik kriya",
+                    "example_sentence_translation": "তার ভয় অবচেতনে নিহিত ছিল।",
+                    "example_sentence_transliteration": "Tar bhoy obochetone nihit chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "intuition",
+            "phonetic": "ˌɪn.tʃuˈɪʃ.ən",
+            "word_native_transliteration": {
+                "bn": "ইনটুইশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💡",
+            "meaning": "The ability to understand something immediately, without the need for conscious reasoning.",
+            "example_sentence": "Her intuition helped her make the right choice.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার ইনটুইশন হেল্পড হার মেক দ্য রাইট চয়েস।"
+            },
+            "position": 3,
+            "synonyms": "instinct, perception, insight, feeling",
+            "antonyms": "logic, analysis, reasoning",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অন্তর্দৃষ্টি, অনুভবশক্তি, অনুমান ক্ষমতা",
+                    "word_transliteration": "ontordrishti, onubhobshokti, onuman khomota",
+                    "example_sentence_translation": "তার অন্তর্দৃষ্টি তাকে সঠিক সিদ্ধান্ত নিতে সহায়তা করেছিল।",
+                    "example_sentence_transliteration": "Tar ontordrishti take shothik siddhanto nite shohayota korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "bias",
+            "phonetic": "ˈbaɪ.əs",
+            "word_native_transliteration": {
+                "bn": "বায়াস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "Prejudice in favor of or against one thing, person, or group compared with another, usually in a way considered to be unfair.",
+            "example_sentence": "The judge must remain free from bias.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য জাজ মাস্ট রিমেইন ফ্রি ফ্রম বায়াস।"
+            },
+            "position": 4,
+            "synonyms": "prejudice, partiality, favoritism",
+            "antonyms": "impartiality, neutrality, fairness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পক্ষপাত, কুসংস্কার, একপেশে দৃষ্টিভঙ্গি",
+                    "word_transliteration": "pokkhopat, kushongshkar, ekpeshe drishtibhongi",
+                    "example_sentence_translation": "বিচারককে পক্ষপাতমুক্ত থাকতে হবে।",
+                    "example_sentence_transliteration": "Bicharokke pokkhopatomukto thakte hobe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "rationalization",
+            "phonetic": "ˌræʃ.ən.əl.aɪˈzeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "র‍্যাশনালাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔍",
+            "meaning": "The process of creating logical explanations for behavior or beliefs that are actually based on other motives.",
+            "example_sentence": "His rationalization for being late was unconvincing.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ র‍্যাশনালাইজেশন ফর বিইং লেট ওয়াজ আনকনভিন্সিং।"
+            },
+            "position": 5,
+            "synonyms": "justification, explanation, reasoning",
+            "antonyms": "misinterpretation, misjudgment",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "যৌক্তিক ব্যাখ্যা, সুনির্দিষ্ট ব্যাখ্যা",
+                    "word_transliteration": "youktik byakhya, shunirdishto byakhya",
+                    "example_sentence_translation": "দেরি করার তার যৌক্তিক ব্যাখ্যাটি অবিশ্বাস্য ছিল।",
+                    "example_sentence_transliteration": "Deri korar tar youktik byakhyati obishashyo chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "emotionality",
+            "phonetic": "ɪˌməʊ.ʃəˈnæl.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "ইমোশনালিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💭",
+            "meaning": "The quality of being driven by emotions rather than reason; emotional responsiveness.",
+            "example_sentence": "His emotionality often influenced his decisions.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ইমোশনালিটি অফেন ইনফ্লুয়েন্সড হিজ ডিসিশনস।"
+            },
+            "position": 6,
+            "synonyms": "sensitivity, passion, feeling",
+            "antonyms": "indifference, apathy, coldness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আবেগপ্রবণতা, সংবেদনশীলতা, অনুভূতিশীলতা",
+                    "word_transliteration": "abegprobonota, shongbedonshilota, onubhutishilota",
+                    "example_sentence_translation": "তার আবেগপ্রবণতা প্রায়ই তার সিদ্ধান্তকে প্রভাবিত করত।",
+                    "example_sentence_transliteration": "Tar abegprobonota prayoi tar siddhantokte probhabito koroto.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "impulsivity",
+            "phonetic": "ˌɪm.pʌlˈsɪv.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "ইমপালসিভিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "The tendency to act quickly and without thought or care; lack of self-control.",
+            "example_sentence": "His impulsivity led him to make reckless choices.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ইমপালসিভিটি লেড হিম টু মেক রেকলেস চয়েসেস।"
+            },
+            "position": 7,
+            "synonyms": "spontaneity, rashness, hastiness",
+            "antonyms": "caution, thoughtfulness, deliberation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আবেগপ্রবণ আচরণ, হঠাৎ সিদ্ধান্ত গ্রহণের প্রবণতা",
+                    "word_transliteration": "abegprobon achron, hothat siddhanto gohoner probonota",
+                    "example_sentence_translation": "তার আবেগপ্রবণতা তাকে অবিবেচক সিদ্ধান্ত নিতে বাধ্য করেছিল।",
+                    "example_sentence_transliteration": "Tar abegprobonota take obibechok siddhanto nite badhyo korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dilemma",
+            "phonetic": "daɪˈlem.ə",
+            "word_native_transliteration": {
+                "bn": "ডাইলেমা"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤔",
+            "meaning": "A situation in which a difficult choice has to be made between two or more alternatives.",
+            "example_sentence": "She faced a moral dilemma at work.",
+            "example_sentence_native_transliteration": {
+                "bn": "শী ফেসড এ মোরাল ডাইলেমা অ্যাট ওয়ার্ক।"
+            },
+            "position": 8,
+            "synonyms": "predicament, quandary, problem",
+            "antonyms": "solution, certainty, clarity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দোটানা, কঠিন সিদ্ধান্তের অবস্থা, উভয়সংকট",
+                    "word_transliteration": "dotana, kothin siddhanter obostha, ubhoyshongkot",
+                    "example_sentence_translation": "তিনি কর্মক্ষেত্রে নৈতিক দোটানার সম্মুখীন হয়েছিলেন।",
+                    "example_sentence_transliteration": "Tini kormokkhetre noitik dotanar shommukheen hoyechhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "contemplation",
+            "phonetic": "ˌkɒn.təmˈpleɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "কন্টেমপ্লেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧘",
+            "meaning": "The action of looking thoughtfully at something for a long time; deep reflective thought.",
+            "example_sentence": "He spent hours in contemplation about his future.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি স্পেন্ট আওয়ারস ইন কন্টেমপ্লেশন অ্যাবাউট হিজ ফিউচার।"
+            },
+            "position": 9,
+            "synonyms": "reflection, meditation, thought",
+            "antonyms": "disregard, neglect, inattention",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গভীর চিন্তাভাবনা, ধ্যান, বিবেচনা",
+                    "word_transliteration": "gobhir chintabhabona, dhyan, bibechona",
+                    "example_sentence_translation": "তিনি তার ভবিষ্যৎ নিয়ে গভীর চিন্তাভাবনায় সময় কাটালেন।",
+                    "example_sentence_transliteration": "Tini tar bhobishyot niye gobhir chintabhabonay shomoy katalen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "deliberation",
+            "phonetic": "dɪˌlɪb.əˈreɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ডিলিবারেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "Long and careful consideration or discussion of a matter.",
+            "example_sentence": "The committee engaged in thorough deliberation.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কমিটি এনগেজড ইন থরো ডিলিবারেশন।"
+            },
+            "position": 10,
+            "synonyms": "consideration, discussion, consultation",
+            "antonyms": "impulsiveness, recklessness, haste",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সুচিন্তিত পর্যালোচনা, বিচার-বিবেচনা, মনোযোগী আলোচনা",
+                    "word_transliteration": "shuchintito porjalocha, bichar-bibechona, monojogi alocha",
+                    "example_sentence_translation": "কমিটি গভীর বিচার-বিবেচনা করল।",
+                    "example_sentence_transliteration": "Komiti gobhir bichar-bibechona korolo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "judgment",
+            "phonetic": "ˈdʒʌdʒ.mənt",
+            "word_native_transliteration": {
+                "bn": "জাজমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "The ability to make considered decisions or come to sensible conclusions.",
+            "example_sentence": "The judge's judgment was fair and just.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য জাজেস জাজমেন্ট ওয়াজ ফেয়ার অ্যান্ড জাস্ট।"
+            },
+            "position": 11,
+            "synonyms": "decision, verdict, ruling",
+            "antonyms": "indecision, misjudgment, bias",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রায়, বিচার, সিদ্ধান্ত",
+                    "word_transliteration": "ray, bichar, siddhanto",
+                    "example_sentence_translation": "বিচারকের রায় ন্যায়সঙ্গত এবং সুবিচারমূলক ছিল।",
+                    "example_sentence_transliteration": "Bicharoker ray nyaysongoto ebong shubicharmulok chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "assessment",
+            "phonetic": "əˈses.mənt",
+            "word_native_transliteration": {
+                "bn": "অ্যাসেসমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "The evaluation or estimation of the nature, quality, or ability of someone or something.",
+            "example_sentence": "His assessment of the situation was accurate.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ অ্যাসেসমেন্ট অফ দ্য সিচুয়েশন ওয়াজ অ্যাকুরেট।"
+            },
+            "position": 12,
+            "synonyms": "evaluation, appraisal, analysis",
+            "antonyms": "misjudgment, inaccuracy, misestimation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মূল্যায়ন, পর্যালোচনা, বিশ্লেষণ",
+                    "word_transliteration": "mullayon, porjalocha, bishlejon",
+                    "example_sentence_translation": "পরিস্থিতির তার মূল্যায়ন যথাযথ ছিল।",
+                    "example_sentence_transliteration": "Poristhitir tar mullayon jothajotho chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "heuristic",
+            "phonetic": "hjʊəˈrɪs.tɪk",
+            "word_native_transliteration": {
+                "bn": "হিউরিস্টিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔍",
+            "meaning": "Enabling a person to discover or learn something for themselves; using practical experience rather than theory.",
+            "example_sentence": "The scientist used a heuristic approach to solve the problem.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সায়েন্টিস্ট ইউজড এ হিউরিস্টিক অ্যাপ্রোচ টু সলভ দ্য প্রবলেম।"
+            },
+            "position": 13,
+            "synonyms": "exploratory, investigative, experimental",
+            "antonyms": "inactive, non-exploratory, theoretical",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনুসন্ধানমূলক, অভিজ্ঞতাভিত্তিক, আবিষ্কারমূলক",
+                    "word_transliteration": "onushondhanmulok, obhiggyotabhittik, abishkarmulok",
+                    "example_sentence_translation": "বিজ্ঞানী সমস্যাটি সমাধান করতে একটি অনুসন্ধানমূলক পদ্ধতি ব্যবহার করেছিলেন।",
+                    "example_sentence_transliteration": "Biggani shomoshyati shomadhaan korte ekti onushondhanmulok poddhoti byobohar korechhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ambiguity",
+            "phonetic": "ˌæm.bɪˈɡjuː.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "অ্যামবিগুইটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "❓",
+            "meaning": "The quality of being open to more than one interpretation; inexactness.",
+            "example_sentence": "The ambiguity in his speech confused the audience.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যামবিগুইটি ইন হিজ স্পিচ কনফিউজড দ্য অডিয়েন্স।"
+            },
+            "position": 14,
+            "synonyms": "vagueness, uncertainty, confusion",
+            "antonyms": "clarity, precision, certainty",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অস্পষ্টতা, দ্ব্যর্থকতা, অনিশ্চয়তা",
+                    "word_transliteration": "oshposhtota, dbyorthokota, onishchoyta",
+                    "example_sentence_translation": "তার বক্তৃতার অস্পষ্টতা শ্রোতাদের বিভ্রান্ত করেছিল।",
+                    "example_sentence_transliteration": "Tar boktrittar oshposhtota shrotader bihhranto korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "irrationality",
+            "phonetic": "ɪˌræʃ.ənˈæl.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "ইর‍্যাশনালিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌀",
+            "meaning": "The quality of being illogical or unreasonable; lack of rational thought.",
+            "example_sentence": "His decision was driven by complete irrationality.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ডিসিশন ওয়াজ ড্রিভেন বাই কমপ্লিট ইর‍্যাশনালিটি।"
+            },
+            "position": 15,
+            "synonyms": "illogicality, foolishness, unreasonableness",
+            "antonyms": "rationality, reason, logic",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অযৌক্তিকতা, অবিবেচনা, অসংগতিবাদ",
+                    "word_transliteration": "oyouktikota, obibechona, oshongotibad",
+                    "example_sentence_translation": "তার সিদ্ধান্ত সম্পূর্ণ অযৌক্তিকতায় চালিত ছিল।",
+                    "example_sentence_transliteration": "Tar siddhanto shompurno oyouktikotay chalito chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "evaluation",
+            "phonetic": "ɪˌvæl.juˈeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ইভালুয়েশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📋",
+            "meaning": "The making of a judgment about the amount, number, or value of something; assessment.",
+            "example_sentence": "The teacher conducted a fair evaluation of students.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য টিচার কনডাক্টেড এ ফেয়ার ইভালুয়েশন অফ স্টুডেন্টস।"
+            },
+            "position": 16,
+            "synonyms": "assessment, appraisal, review",
+            "antonyms": "misjudgment, neglect, disregard",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মূল্যায়ন, বিশ্লেষণ, পর্যালোচনা",
+                    "word_transliteration": "mullayon, bishlejon, porjalocha",
+                    "example_sentence_translation": "শিক্ষক শিক্ষার্থীদের সঠিক মূল্যায়ন করেছিলেন।",
+                    "example_sentence_transliteration": "Shikhok shikkharthider shothik mullayon korechhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "predisposition",
+            "phonetic": "ˌpriː.dɪs.pəˈzɪʃ.ən",
+            "word_native_transliteration": {
+                "bn": "প্রিডিসপজিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧬",
+            "meaning": "A liability or tendency to suffer from a particular condition, hold a particular attitude, or act in a particular way.",
+            "example_sentence": "His genetic predisposition made him more susceptible to diabetes.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ জেনেটিক প্রিডিসপজিশন মেড হিম মোর সাসেপটিবল টু ডায়াবিটিস।"
+            },
+            "position": 17,
+            "synonyms": "inclination, propensity, tendency",
+            "antonyms": "disinclination, neutrality, resistance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রবণতা, পূর্বপ্রবণতা, সহজাত প্রবণতা",
+                    "word_transliteration": "probonota, purboprobonota, shohjat probonota",
+                    "example_sentence_translation": "তার জেনেটিক প্রবণতা তাকে ডায়াবেটিসের প্রতি বেশি সংবেদনশীল করেছে।",
+                    "example_sentence_transliteration": "Tar genetic probonota take diabeteser proti beshi shongbedonshil koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "consequence",
+            "phonetic": "ˈkɒn.sɪ.kwəns",
+            "word_native_transliteration": {
+                "bn": "কনসিকোয়েন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "A result or effect of an action or condition.",
+            "example_sentence": "Every action has a consequence.",
+            "example_sentence_native_transliteration": {
+                "bn": "এভ্রি অ্যাকশন হ্যাজ এ কনসিকোয়েন্স।"
+            },
+            "position": 18,
+            "synonyms": "outcome, ramification, result",
+            "antonyms": "cause, insignificance, origin",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিণতি, ফলাফল, প্রতিক্রিয়া",
+                    "word_transliteration": "porinoti, pholafol, protikriya",
+                    "example_sentence_translation": "প্রত্যেক কাজের একটি পরিণতি থাকে।",
+                    "example_sentence_transliteration": "Prottyekoto kajer ekti porinoti thake.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "determinant",
+            "phonetic": "dɪˈtɜː.mɪ.nənt",
+            "word_native_transliteration": {
+                "bn": "ডিটারমিন্যান্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔑",
+            "meaning": "A factor that decisively affects the nature or outcome of something.",
+            "example_sentence": "Education is a key determinant of success.",
+            "example_sentence_native_transliteration": {
+                "bn": "এডুকেশন ইজ এ কি ডিটারমিন্যান্ট অফ সাকসেস।"
+            },
+            "position": 19,
+            "synonyms": "factor, influencer, element",
+            "antonyms": "insignificance, nonfactor, irrelevance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নির্ধারক উপাদান, প্রধান কারণ, সিদ্ধান্তমূলক প্রভাব",
+                    "word_transliteration": "nirdharak upadan, prodhan karon, siddhantonulok prohab",
+                    "example_sentence_translation": "শিক্ষা সাফল্যের একটি প্রধান নির্ধারক।",
+                    "example_sentence_transliteration": "Shikkha shafoler ekti prodhan nirdharak.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

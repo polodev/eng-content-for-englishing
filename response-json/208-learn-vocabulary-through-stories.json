@@ -1,0 +1,499 @@
+{
+    "position": 208,
+    "title_translation": {
+        "en": "The Power of Written Goals",
+        "bn": "**Written goals** বা লিখিত লক্ষ্যের শক্তি"
+    },
+    "content_translation": {
+        "en": "Setting **goals** is very important, but **written goals** give you more **accountability** and **discipline**. A written goal clarifies your **vision** and brings it **explicitly** to the forefront. Written goals create **cohesion** in our work and make **prioritization** easier. These goals can **manifest** if we can show proper **engagement** and **resilience**. Most of the time, **procrastination** stands in our way, but written goals help us **delineate** those barriers. It creates a **strategic** plan for our work, which ensures **optimization** and **efficacy**. A written goal can make our **success** **tangible**, because it helps to focus our attention and energy in one place. Written goals give us **inspiration** and change our perspective on life.",
+        "bn": "লক্ষ্য স্থির করা খুবই গুরুত্বপূর্ণ, কিন্তু **written goals** বা লিখিত লক্ষ্য আপনাকে আরও বেশি **accountability** এবং **discipline** দেয়। একটি লিখিত লক্ষ্য আপনার **vision** স্পষ্ট করে এবং সেটি **explicit** রূপে সামনে আনে। লিখিত লক্ষ্যগুলো আমাদের কাজের মধ্যে **cohesion** তৈরি করে এবং **prioritization** সহজ করে তোলে। এই লক্ষ্যগুলি **manifestation** হতে পারে যদি আমরা সঠিকভাবে **engagement** এবং **resilience** দেখাতে পারি। বেশিরভাগ সময়, **procrastination** আমাদের রুখে দাঁড়ায়, কিন্তু লিখিত লক্ষ্য আমাদেরকে সেই বাধাগুলো **delineate** করতে সাহায্য করে। আমাদের কাজের জন্য একটি **strategic** পরিকল্পনা তৈরি করে, যা **optimization** এবং **efficacy** নিশ্চিত করে। একটি লিখিত লক্ষ্য **tangible** করতে পারে আমাদের সাফল্য, কারণ এটি আমাদের মনোযোগ এবং শক্তি এক জায়গায় কেন্দ্রীভূত করতে সহায়তা করে। লিখিত লক্ষ্য আমাদেরকে **inspiration** দেয় এবং জীবনের প্রতি আমাদের দৃষ্টিভঙ্গি বদলে দেয়।"
+    },
+    "list": [
+        {
+            "word": "goals",
+            "phonetic": "ɡoʊlz",
+            "word_native_transliteration": {
+                "bn": "গোলস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "An aim or desired result; something that you want to achieve.",
+            "example_sentence": "Setting clear goals helps in achieving success.",
+            "example_sentence_native_transliteration": {
+                "bn": "সেটিং ক্লিয়ার গোলস হেল্পস ইন এচিভিং সাকসেস।"
+            },
+            "position": 1,
+            "synonyms": "objectives, targets, aims, purposes, intentions, aspirations",
+            "antonyms": "aimlessness, vagueness, confusion, randomness, uncertainty, directionlessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "লক্ষ্য, উদ্দেশ্য",
+                    "word_transliteration": "lokkhyo, uddeshyo",
+                    "example_sentence_translation": "স্পষ্ট লক্ষ্য নির্ধারণ সফলতা অর্জনে সহায়ক।",
+                    "example_sentence_transliteration": "Sposhto lokkhyo nirdharon shofolota orjone shohayok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "accountability",
+            "phonetic": "əˌkaʊntəˈbɪləti",
+            "word_native_transliteration": {
+                "bn": "অ্যাকাউন্টেবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "The fact or condition of being accountable; responsibility.",
+            "example_sentence": "Accountability is key to maintaining trust in any system.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাকাউন্টেবিলিটি ইজ কি টু মেইনটেইনিং ট্রাস্ট ইন এনি সিস্টেম।"
+            },
+            "position": 2,
+            "synonyms": "responsibility, liability, answerability, obligation, duty, ownership",
+            "antonyms": "irresponsibility, unaccountability, exemption, immunity, freedom, release",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দায়িত্বশীলতা, জবাবদিহি",
+                    "word_transliteration": "dayittoshilota, jobabdihi",
+                    "example_sentence_translation": "যেকোনো ব্যবস্থায় বিশ্বাস বজায় রাখার জন্য দায়িত্বশীলতা অপরিহার্য।",
+                    "example_sentence_transliteration": "Jekono byabosthay bishash bojay rakhar jonno dayittoshilota oporiharyyo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "discipline",
+            "phonetic": "ˈdɪsɪplɪn",
+            "word_native_transliteration": {
+                "bn": "ডিসিপ্লিন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎖️",
+            "meaning": "The practice of training people to obey rules or a code of behavior, using punishment to correct disobedience.",
+            "example_sentence": "Discipline is necessary for success in any endeavor.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিসিপ্লিন ইজ নেসেসারি ফর সাকসেস ইন এনি এন্ডেভার।"
+            },
+            "position": 3,
+            "synonyms": "orderliness, self-control, regulation, training, order, structure",
+            "antonyms": "disorder, chaos, confusion, anarchy, lawlessness, indiscipline",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শৃঙ্খলা, নিয়মনীতি",
+                    "word_transliteration": "shringkhola, niyom-niti",
+                    "example_sentence_translation": "যেকোনো প্রচেষ্টায় সফলতার জন্য শৃঙ্খলা প্রয়োজন।",
+                    "example_sentence_transliteration": "Jekono prochestay shofoltar jonno shringkhola proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "vision",
+            "phonetic": "ˈvɪʒən",
+            "word_native_transliteration": {
+                "bn": "ভিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👁️",
+            "meaning": "The ability to think about or plan the future with imagination or wisdom.",
+            "example_sentence": "A clear vision is essential for long-term success.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ ক্লিয়ার ভিশন ইজ এসেনশিয়াল ফর লং-টার্ম সাকসেস।"
+            },
+            "position": 4,
+            "synonyms": "insight, perception, foresight, imagination, dream, goal",
+            "antonyms": "blindness, short-sightedness, myopia, ignorance, unawareness, confusion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দৃষ্টিভঙ্গি, উদ্দেশ্য",
+                    "word_transliteration": "drishtibhongi, uddeshyo",
+                    "example_sentence_translation": "দীর্ঘমেয়াদী সফলতার জন্য একটি স্পষ্ট দৃষ্টিভঙ্গি অপরিহার্য।",
+                    "example_sentence_transliteration": "Dirghomeyadi shofoltar jonno ekti sposhto drishtibhongi oporiharyyo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "explicit",
+            "phonetic": "ɪkˈsplɪsɪt",
+            "word_native_transliteration": {
+                "bn": "এক্সপ্লিসিট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔍",
+            "meaning": "Stated clearly and in detail, leaving no room for confusion or doubt.",
+            "example_sentence": "The instructions were explicit, leaving no room for confusion.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইনস্ট্রাকশনস ওয়ার এক্সপ্লিসিট, লিভিং নো রুম ফর কনফিউশন।"
+            },
+            "position": 5,
+            "synonyms": "clear, unambiguous, definite, precise, specific, direct",
+            "antonyms": "implicit, vague, unclear, ambiguous, indefinite, obscure",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্পষ্ট, সুস্পষ্ট",
+                    "word_transliteration": "sposhto, shusposhto",
+                    "example_sentence_translation": "নির্দেশনাগুলি স্পষ্ট ছিল, বিভ্রান্তির জন্য কোন জায়গা ছাড়েনি।",
+                    "example_sentence_transliteration": "Nirdeshonaguli sposhto chhilo, bibhrantir jonno kono jayga chhareni.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cohesion",
+            "phonetic": "kəʊˈhiːʒən",
+            "word_native_transliteration": {
+                "bn": "কোহেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "The action or fact of forming a united whole.",
+            "example_sentence": "Team cohesion is essential for achieving collective goals.",
+            "example_sentence_native_transliteration": {
+                "bn": "টিম কোহেশন ইজ এসেনশিয়াল ফর এচিভিং কালেকটিভ গোলস।"
+            },
+            "position": 6,
+            "synonyms": "unity, bonding, solidarity, harmony, togetherness, coordination",
+            "antonyms": "disunity, fragmentation, division, separation, discord, conflict",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ঐক্য, সংহতি",
+                    "word_transliteration": "oikkyo, shonghoti",
+                    "example_sentence_translation": "দলীয় ঐক্য সমষ্টিগত লক্ষ্য অর্জনের জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Doliyô oikkyo shomoshtigoto lokkhyo orjoner jonno oporiharyyo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "prioritization",
+            "phonetic": "ˌpraɪɔːrɪtaɪˈzeɪʃən",
+            "word_native_transliteration": {
+                "bn": "প্রায়োরিটাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📋",
+            "meaning": "The action or process of deciding the relative importance or urgency of things.",
+            "example_sentence": "Effective prioritization ensures resources are used efficiently.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইফেকটিভ প্রায়োরিটাইজেশন এনশিওরস রিসোর্সেস আর ইউজড ইফিশিয়েন্টলি।"
+            },
+            "position": 7,
+            "synonyms": "ranking, preference, ordering, classification, arrangement, sorting",
+            "antonyms": "neglect, indifference, disregard, randomness, confusion, disorder",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অগ্রাধিকারের নির্ধারণ",
+                    "word_transliteration": "ogradhikarer nirdharon",
+                    "example_sentence_translation": "কার্যকর অগ্রাধিকার নির্ধারণ নিশ্চিত করে যে সম্পদ দক্ষতার সাথে ব্যবহার হচ্ছে।",
+                    "example_sentence_transliteration": "Karjokor ogradhikar nirdharon nishchito kore je shompod dokkhhotar shathe byabohar hochhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "manifestation",
+            "phonetic": "ˌmænɪfɛˈsteɪʃən",
+            "word_native_transliteration": {
+                "bn": "ম্যানিফেস্টেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✨",
+            "meaning": "An event, action, or object that clearly shows or embodies something, especially a theory or an abstract idea.",
+            "example_sentence": "The manifestation of hard work is success.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ম্যানিফেস্টেশন অফ হার্ড ওয়ার্ক ইজ সাকসেস।"
+            },
+            "position": 8,
+            "synonyms": "expression, display, demonstration, revelation, embodiment, realization",
+            "antonyms": "concealment, suppression, hiding, covering, obscuring, masking",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রকাশ, বাস্তবায়ন",
+                    "word_transliteration": "prokash, bastobayôn",
+                    "example_sentence_translation": "কঠোর পরিশ্রমের প্রকাশ হল সফলতা।",
+                    "example_sentence_transliteration": "Kothor porishomer prokash holo shofolota.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "engagement",
+            "phonetic": "ɪnˈɡeɪdʒmənt",
+            "word_native_transliteration": {
+                "bn": "এনগেজমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "The action of engaging or being engaged; involvement or participation.",
+            "example_sentence": "Employee engagement is crucial for a productive workplace.",
+            "example_sentence_native_transliteration": {
+                "bn": "এমপ্লয়ি এনগেজমেন্ট ইজ ক্রুশিয়াল ফর এ প্রোডাকটিভ ওয়ার্কপ্লেস।"
+            },
+            "position": 9,
+            "synonyms": "involvement, participation, commitment, activity, interaction, connection",
+            "antonyms": "disengagement, detachment, withdrawal, isolation, disconnection, indifference",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অংশগ্রহণ, সম্পর্ক স্থাপন",
+                    "word_transliteration": "ongshogrohon, shomporko sthapôn",
+                    "example_sentence_translation": "কর্মচারী অংশগ্রহণ একটি উৎপাদনশীল কর্মক্ষেত্রের জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Kormochari ongshogrohon ekti utpadônshil kormokkhetre r jonno oporiharyyo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "resilience",
+            "phonetic": "rɪˈzɪlɪəns",
+            "word_native_transliteration": {
+                "bn": "রেজিলিয়েন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "The capacity to recover quickly from difficulties; toughness.",
+            "example_sentence": "Resilience helps individuals recover quickly from setbacks.",
+            "example_sentence_native_transliteration": {
+                "bn": "রেজিলিয়েন্স হেল্পস ইন্ডিভিজুয়ালস রিকভার কুইকলি ফ্রম সেটব্যাকস।"
+            },
+            "position": 10,
+            "synonyms": "toughness, endurance, strength, fortitude, stamina, perseverance",
+            "antonyms": "fragility, weakness, vulnerability, brittleness, delicacy, frailty",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্থিতিস্থাপকতা, দৃঢ়তা",
+                    "word_transliteration": "sthitishthapokota, drirhota",
+                    "example_sentence_translation": "স্থিতিস্থাপকতা মানুষকে বাধা থেকে দ্রুত পুনরুদ্ধার করতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Sthitishthapokota manushke badha theke druto punoruddhar korte shahajjo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "procrastination",
+            "phonetic": "prəˌkræstɪˈneɪʃən",
+            "word_native_transliteration": {
+                "bn": "প্রোক্রাস্টিনেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⏰",
+            "meaning": "The action of delaying or postponing something.",
+            "example_sentence": "Procrastination can lead to unnecessary stress and pressure.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোক্রাস্টিনেশন ক্যান লিড টু আনেসেসারি স্ট্রেস অ্যান্ড প্রেশার।"
+            },
+            "position": 11,
+            "synonyms": "delay, postponement, deferment, hesitation, stalling, avoidance",
+            "antonyms": "promptness, immediate action, urgency, haste, speed, efficiency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পিছিয়ে দেওয়া, স্থগিত করা",
+                    "word_transliteration": "pichiye deowa, sthogito kora",
+                    "example_sentence_translation": "পিছিয়ে দেওয়া অপ্রয়োজনীয় চাপ এবং মানসিক চাপ সৃষ্টি করতে পারে।",
+                    "example_sentence_transliteration": "Pichiye deowa oproyojoniyô chap ebong manoshik chap srishti korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "delineate",
+            "phonetic": "dɪˈlɪnɪeɪt",
+            "word_native_transliteration": {
+                "bn": "ডেলিনিয়েট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📝",
+            "meaning": "Describe or portray something precisely.",
+            "example_sentence": "The manager delineated the project requirements clearly to the team.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ম্যানেজার ডেলিনিয়েটেড দ্য প্রোজেক্ট রিকোয়ারমেন্টস ক্লিয়ারলি টু দ্য টিম।"
+            },
+            "position": 12,
+            "synonyms": "outline, define, describe, sketch, detail, specify",
+            "antonyms": "confuse, obscure, blur, muddle, complicate, distort",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বর্ণনা করা, সঠিকভাবে চিত্রিত করা",
+                    "word_transliteration": "bornona kora, shothikbhabe chitrito kora",
+                    "example_sentence_translation": "ম্যানেজার দলকে প্রকল্পের চাহিদাগুলি স্পষ্টভাবে বর্ণনা করেছেন।",
+                    "example_sentence_transliteration": "Manager dolke prokolper chahidaguli sposhthobhabe bornona korechen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "strategic",
+            "phonetic": "strəˈtiːdʒɪk",
+            "word_native_transliteration": {
+                "bn": "স্ট্র্যাটেজিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎯",
+            "meaning": "Relating to the identification of long-term or overall aims and interests and the means of achieving them.",
+            "example_sentence": "A strategic approach is required to tackle complex issues.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ স্ট্র্যাটেজিক অ্যাপ্রোচ ইজ রিকোয়ার্ড টু ট্যাকল কমপ্লেক্স ইস্যুস।"
+            },
+            "position": 13,
+            "synonyms": "tactical, planned, calculated, deliberate, systematic, methodical",
+            "antonyms": "unorganized, haphazard, random, spontaneous, unplanned, improvised",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কৌশলগত, পরিকল্পনামূলক",
+                    "word_transliteration": "kousholôgoto, porikolpanamulok",
+                    "example_sentence_translation": "জটিল সমস্যা মোকাবিলায় একটি কৌশলগত পন্থা প্রয়োজন।",
+                    "example_sentence_transliteration": "Jotil shomoshya mokabilay ekti kousholôgoto pontha proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "optimization",
+            "phonetic": "ˌɒptɪmaɪˈzeɪʃən",
+            "word_native_transliteration": {
+                "bn": "অপটিমাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "The action of making the best or most effective use of a situation or resource.",
+            "example_sentence": "Optimization of resources leads to increased productivity.",
+            "example_sentence_native_transliteration": {
+                "bn": "অপটিমাইজেশন অফ রিসোর্সেস লিডস টু ইনক্রিজড প্রোডাকটিভিটি।"
+            },
+            "position": 14,
+            "synonyms": "enhancement, refinement, improvement, maximization, efficiency, perfection",
+            "antonyms": "deterioration, decline, worsening, degradation, inefficiency, waste",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সর্বাধিক করা, উন্নতি সাধন",
+                    "word_transliteration": "shorbadhik kora, unnoti shadôn",
+                    "example_sentence_translation": "সম্পদগুলির অপটিমাইজেশন উৎপাদনশীলতা বৃদ্ধি করে।",
+                    "example_sentence_transliteration": "Shompodgulir optimization utpadônshilota briddhi kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "efficacy",
+            "phonetic": "ˈɛfɪkəsi",
+            "word_native_transliteration": {
+                "bn": "এফিকেসি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✅",
+            "meaning": "The ability to produce a desired or intended result; effectiveness.",
+            "example_sentence": "The efficacy of the new policy was immediately apparent.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এফিকেসি অফ দ্য নিউ পলিসি ওয়াজ ইমিডিয়েটলি অ্যাপারেন্ট।"
+            },
+            "position": 15,
+            "synonyms": "effectiveness, efficiency, potency, power, capability, competence",
+            "antonyms": "inefficiency, ineffectiveness, incompetence, weakness, failure, inability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কার্যকারিতা, ফলপ্রসূতা",
+                    "word_transliteration": "karjokarìta, pholôproshuta",
+                    "example_sentence_translation": "নতুন নীতির কার্যকারিতা তৎক্ষণাৎ স্পষ্ট ছিল।",
+                    "example_sentence_transliteration": "Notun nitir karjokarìta totkhonath sposhto chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "tangible",
+            "phonetic": "ˈtændʒɪbəl",
+            "word_native_transliteration": {
+                "bn": "ট্যাঞ্জিবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "👆",
+            "meaning": "Perceptible by touch; clear and definite; real.",
+            "example_sentence": "The tangible results of the project were evident after six months.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ট্যাঞ্জিবল রেজাল্টস অফ দ্য প্রোজেক্ট ওয়ার এভিডেন্ট আফটার সিক্স মান্থস।"
+            },
+            "position": 16,
+            "synonyms": "concrete, real, physical, solid, substantial, material",
+            "antonyms": "intangible, abstract, theoretical, conceptual, imaginary, unreal",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দৃশ্যমান, স্পষ্টভাবে উপলব্ধ",
+                    "word_transliteration": "drishyôman, sposhthobhabe upolôbdho",
+                    "example_sentence_translation": "প্রকল্পের দৃশ্যমান ফলাফল ছয় মাস পরে স্পষ্ট ছিল।",
+                    "example_sentence_transliteration": "Prokolper drishyôman pholaphol chhoy mash pore sposhto chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "success",
+            "phonetic": "səkˈsɛs",
+            "word_native_transliteration": {
+                "bn": "সাকসেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏆",
+            "meaning": "The accomplishment of an aim or purpose; the attainment of popularity or profit.",
+            "example_sentence": "Hard work and dedication are the keys to success.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার্ড ওয়ার্ক অ্যান্ড ডেডিকেশন আর দ্য কিস টু সাকসেস।"
+            },
+            "position": 17,
+            "synonyms": "achievement, victory, triumph, accomplishment, attainment, prosperity",
+            "antonyms": "failure, defeat, loss, disappointment, setback, downfall",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সফলতা, অর্জন",
+                    "word_transliteration": "shofolota, orjon",
+                    "example_sentence_translation": "কঠোর পরিশ্রম এবং প্রতিশ্রুতি সফলতার চাবিকাঠি।",
+                    "example_sentence_transliteration": "Kothor porishrom ebong protishruti shofoltar chabikathi.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "inspiration",
+            "phonetic": "ˌɪnspɪˈreɪʃən",
+            "word_native_transliteration": {
+                "bn": "ইন্সপিরেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💡",
+            "meaning": "The process of being mentally stimulated to do or feel something, especially to do something creative.",
+            "example_sentence": "His journey to success became an inspiration for many.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ জার্নি টু সাকসেস বিকেম অ্যান ইন্সপিরেশন ফর মেনি।"
+            },
+            "position": 18,
+            "synonyms": "motivation, encouragement, stimulation, influence, creativity, enlightenment",
+            "antonyms": "discouragement, dejection, demotivation, depression, despair, hopelessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনুপ্রেরণা, প্রেরণা",
+                    "word_transliteration": "onuprerona, prerona",
+                    "example_sentence_translation": "তার সফলতার যাত্রা অনেকের জন্য অনুপ্রেরণা হয়ে উঠেছে।",
+                    "example_sentence_transliteration": "Tar shofoltar jatra oneker jonno onuprerona hoye utheche.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

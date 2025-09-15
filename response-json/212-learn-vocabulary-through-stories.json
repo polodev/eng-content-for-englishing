@@ -1,0 +1,553 @@
+{
+    "position": 212,
+    "title_translation": {
+        "en": "The Role of Focus in Learning",
+        "bn": "শেখার ক্ষেত্রে Focus এর ভূমিকা"
+    },
+    "content_translation": {
+        "en": "For a student, **focus** is not only necessary but also the **epitome** of success. In any educational field, **concentration** and **discernment** are essential, which help in the **assimilation** of new knowledge.\n\nIf any subject seems very **convoluted**, then patience is needed to learn through an **incremental** method to enhance **comprehension**. Often our attention gets **attenuated** because we try to multitask, which destroys **coherence**.\n\nTo achieve true **erudition**, just memorizing information is not enough; rather, one must develop the ability to **synthesis** and **extrapolate**. **Meticulous** practice and **fortitude** are helpful in overcoming obstacles on the path of learning.\n\nThose who truly have a **propensity** for learning can **elucidate** difficult subjects. Therefore, to increase **retention**, one must increase **endeavor** during learning time, not **evasion**.",
+        "bn": "একজন শিক্ষার্থীর জন্য **focus** শুধু প্রয়োজনীয় নয়, এটি সফলতার **epitome**। যেকোনো শিক্ষার ক্ষেত্রে **concentration** এবং **discernment** থাকা জরুরি, যা নতুন জ্ঞান **assimilation** করতে সাহায্য করে।\n\nযদি কোনো বিষয় খুব **convoluted** মনে হয়, তাহলে ধৈর্য ধরে **comprehension** বাড়ানোর জন্য **incremental** পদ্ধতিতে শেখা প্রয়োজন। অনেক সময় আমাদের মনোযোগ **attenuate** হয়ে যায়, কারণ আমরা বহুমুখী কাজ করার চেষ্টা করি, যা **coherence** নষ্ট করে।\n\nপ্রকৃত **erudition** অর্জন করতে হলে, শুধু তথ্য মুখস্থ করলেই হবে না; বরং **synthesis** ও **extrapolate** করার ক্ষমতা গড়ে তুলতে হবে। **Meticulous** অনুশীলন এবং **fortitude** শিক্ষার পথে বাধাগুলো দূর করতে সহায়ক।\n\nএকজন সত্যিকারের শেখার **propensity** যাদের আছে, তারা **elucidate** করতে পারে কঠিন বিষয়গুলোকে। তাই, **retention** বাড়াতে হলে শেখার সময় **evasion** নয়, বরং **endeavor** বাড়াতে হবে।"
+    },
+    "list": [
+        {
+            "word": "focus",
+            "phonetic": "ˈfoʊ.kəs",
+            "word_native_transliteration": {
+                "bn": "ফোকাস"
+            },
+            "parts_of_speech": "noun/verb",
+            "emoji": "🎯",
+            "meaning": "To concentrate attention or effort on something specific; the center of interest or activity.",
+            "example_sentence": "To succeed, you must focus on your goals.",
+            "example_sentence_native_transliteration": {
+                "bn": "টু সাকসিড, ইউ মাস্ট ফোকাস অন ইউর গোলস।"
+            },
+            "position": 1,
+            "synonyms": "attention, concentration, emphasis",
+            "antonyms": "distraction, neglect, inattention",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মনোযোগ বা কেন্দ্রীভূত করা",
+                    "word_transliteration": "monojog ba kendribhut kora",
+                    "example_sentence_translation": "সফল হতে হলে আপনাকে আপনার লক্ষ্যের প্রতি মনোযোগ দিতে হবে।",
+                    "example_sentence_transliteration": "Sofol hote hole apnake apnar lokkhyer proti monojog dite hobe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "epitome",
+            "phonetic": "ɪˈpɪt.ə.mi",
+            "word_native_transliteration": {
+                "bn": "এপিটোমি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⭐",
+            "meaning": "A perfect example of a particular quality or type; the essence of something.",
+            "example_sentence": "She is the epitome of patience and kindness.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি ইজ দ্য এপিটোমি অব পেশেন্স অ্যান্ড কাইন্ডনেস।"
+            },
+            "position": 2,
+            "synonyms": "embodiment, essence, ideal",
+            "antonyms": "imperfection, antithesis, opposite",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উৎকৃষ্ট উদাহরণ বা প্রতীক",
+                    "word_transliteration": "utkrishto udaharon ba protik",
+                    "example_sentence_translation": "তিনি ধৈর্য ও দয়ার উৎকৃষ্ট উদাহরণ।",
+                    "example_sentence_transliteration": "Tini dhoirjo o doyar utkrishto udaharon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "concentration",
+            "phonetic": "ˌkɒn.sənˈtreɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "কনসেনট্রেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧠",
+            "meaning": "The ability to give your attention to one particular thing; focused mental effort.",
+            "example_sentence": "Meditation improves concentration and mental clarity.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেডিটেশন ইমপ্রুভস কনসেনট্রেশন অ্যান্ড মেন্টাল ক্লারিটি।"
+            },
+            "position": 3,
+            "synonyms": "focus, attention, mindfulness",
+            "antonyms": "distraction, confusion, diversion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গভীর মনোযোগ বা কেন্দ্রীভূত অবস্থা",
+                    "word_transliteration": "gobhir monojog ba kendribhut obostha",
+                    "example_sentence_translation": "ধ্যান মনোযোগ ও মানসিক স্বচ্ছতা বৃদ্ধি করে।",
+                    "example_sentence_transliteration": "Dhyan monojog o manoshik sochhhota briddhi kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "discernment",
+            "phonetic": "dɪˈsɜːn.mənt",
+            "word_native_transliteration": {
+                "bn": "ডিসার্নমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👁️",
+            "meaning": "The ability to judge well; keen insight and good judgment.",
+            "example_sentence": "His discernment helped him make wise decisions.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ডিসার্নমেন্ট হেল্পড হিম মেক ওয়াইজ ডিসিশনস।"
+            },
+            "position": 4,
+            "synonyms": "insight, perception, judgement",
+            "antonyms": "ignorance, misjudgment, indiscretion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "তীক্ষ্ণ বিচারশক্তি বা অনুধাবন ক্ষমতা",
+                    "word_transliteration": "tikshno bicharshokti ba anudhaban khomota",
+                    "example_sentence_translation": "তার অনুধাবন ক্ষমতা তাকে সুবিবেচিত সিদ্ধান্ত নিতে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Tar anudhaban khomota take subibechito siddhanto nite sahajyo korechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "assimilation",
+            "phonetic": "əˌsɪm.ɪˈleɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "অ্যাসিমিলেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧩",
+            "meaning": "The process of taking in and fully understanding information or ideas.",
+            "example_sentence": "Language assimilation is easier for young children.",
+            "example_sentence_native_transliteration": {
+                "bn": "ল্যাঙ্গুয়েজ অ্যাসিমিলেশন ইজ ইজিয়ার ফর ইয়াং চিলড্রেন।"
+            },
+            "position": 5,
+            "synonyms": "integration, absorption, adaptation",
+            "antonyms": "rejection, isolation, resistance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গ্রহণ বা আত্মীকরণ",
+                    "word_transliteration": "grohon ba atmikaron",
+                    "example_sentence_translation": "ভাষা আত্মীকরণ ছোট বাচ্চাদের জন্য সহজ।",
+                    "example_sentence_transliteration": "Bhasha atmikaron chhoto bachhader jonno sohoj.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "convoluted",
+            "phonetic": "ˈkɒn.və.luː.tɪd",
+            "word_native_transliteration": {
+                "bn": "কনভলিউটেড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌀",
+            "meaning": "Extremely complex and difficult to follow; twisted or intricate.",
+            "example_sentence": "His argument was so convoluted that no one understood it.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ আর্গুমেন্ট ওয়াজ সো কনভলিউটেড দ্যাট নো ওয়ান আন্ডারস্টুড ইট।"
+            },
+            "position": 6,
+            "synonyms": "complex, complicated, intricate",
+            "antonyms": "simple, clear, straightforward",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জটিল বা বিভ্রান্তিকর",
+                    "word_transliteration": "jotil ba bibhrantikor",
+                    "example_sentence_translation": "তার যুক্তিটি এত জটিল ছিল যে কেউ তা বুঝতে পারেনি।",
+                    "example_sentence_transliteration": "Tar juktiti eto jotil chhilo je keu ta bujhte pareni.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "comprehension",
+            "phonetic": "ˌkɒm.prɪˈhɛn.ʃən",
+            "word_native_transliteration": {
+                "bn": "কমপ্রিহেনশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💡",
+            "meaning": "The ability to understand something; understanding or grasp of meaning.",
+            "example_sentence": "Reading improves vocabulary and comprehension skills.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিডিং ইমপ্রুভস ভোক্যাবুলারি অ্যান্ড কমপ্রিহেনশন স্কিলস।"
+            },
+            "position": 7,
+            "synonyms": "understanding, grasp, interpretation",
+            "antonyms": "misunderstanding, confusion, ignorance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বোঝার ক্ষমতা বা উপলব্ধি",
+                    "word_transliteration": "bojhar khomota ba upolbdhi",
+                    "example_sentence_translation": "পড়াশোনা শব্দভান্ডার ও বোঝার দক্ষতা বৃদ্ধি করে।",
+                    "example_sentence_transliteration": "Porashona shobdobhandar o bojhar dokkhota briddhi kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "incremental",
+            "phonetic": "ˌɪn.krəˈmɛn.təl",
+            "word_native_transliteration": {
+                "bn": "ইনক্রিমেন্টাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📈",
+            "meaning": "Relating to or denoting an increase or addition; gradual step-by-step progress.",
+            "example_sentence": "The company is making incremental improvements to its services.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি ইজ মেকিং ইনক্রিমেন্টাল ইমপ্রুভমেন্টস টু ইটস সার্ভিসেস।"
+            },
+            "position": 8,
+            "synonyms": "gradual, progressive, step-by-step",
+            "antonyms": "sudden, drastic, immediate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্রমশ বৃদ্ধি বা পর্যায়ক্রমিক উন্নতি",
+                    "word_transliteration": "kromosho briddhi ba porjayokromik unnoti",
+                    "example_sentence_translation": "কোম্পানিটি তার পরিষেবাগুলোর ধাপে ধাপে উন্নতি করছে।",
+                    "example_sentence_transliteration": "Kompaniti tar porishebagulor dhape dhape unnoti korchhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "attenuate",
+            "phonetic": "əˈtɛn.ju.eɪt",
+            "word_native_transliteration": {
+                "bn": "অ্যাটেনুয়েট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📉",
+            "meaning": "To reduce the force, effect, or value of something; to make weak or thin.",
+            "example_sentence": "The medicine helps attenuate the pain.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য মেডিসিন হেল্পস অ্যাটেনুয়েট দ্য পেইন।"
+            },
+            "position": 9,
+            "synonyms": "weaken, reduce, diminish",
+            "antonyms": "strengthen, intensify, enhance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "হ্রাস করা বা দুর্বল করা",
+                    "word_transliteration": "hrash kora ba durbol kora",
+                    "example_sentence_translation": "ঔষধটি ব্যথা কমাতে সহায়তা করে।",
+                    "example_sentence_transliteration": "Oushodhoti byatha komate sahajota kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "coherence",
+            "phonetic": "koʊˈhɪə.rəns",
+            "word_native_transliteration": {
+                "bn": "কোহিরেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔗",
+            "meaning": "The quality of being logical and consistent; clarity and logical flow.",
+            "example_sentence": "His speech lacked coherence, making it hard to follow.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ স্পিচ ল্যাকড কোহিরেন্স, মেকিং ইট হার্ড টু ফলো।"
+            },
+            "position": 10,
+            "synonyms": "consistency, logical flow, clarity",
+            "antonyms": "incoherence, disorder, confusion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংলগ্নতা বা সংযোগ",
+                    "word_transliteration": "snglogota ba songjog",
+                    "example_sentence_translation": "তার বক্তৃতায় সংলগ্নতার অভাব ছিল, যা বুঝতে কঠিন করে তুলেছিল।",
+                    "example_sentence_transliteration": "Tar boktritay snglogotir obhab chhilo, ja bujhte kothin kore tulechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "erudition",
+            "phonetic": "ˌɛr.jʊˈdɪʃ.ən",
+            "word_native_transliteration": {
+                "bn": "এরুডিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📚",
+            "meaning": "The quality of having or showing great knowledge or learning; scholarship.",
+            "example_sentence": "His erudition in history impressed the entire audience.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ এরুডিশন ইন হিস্টরি ইমপ্রেসড দ্য এনটায়ার অডিয়েন্স।"
+            },
+            "position": 11,
+            "synonyms": "scholarship, knowledge, learning",
+            "antonyms": "ignorance, illiteracy, inexperience",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গভীর জ্ঞান বা বিদ্যাশক্তি",
+                    "word_transliteration": "gobhir gyan ba bidyashokti",
+                    "example_sentence_translation": "ইতিহাসে তার গভীর জ্ঞান পুরো শ্রোতাদের মুগ্ধ করেছিল।",
+                    "example_sentence_transliteration": "Itihase tar gobhir gyan puro shrotader mugdho korechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "synthesis",
+            "phonetic": "ˈsɪn.θə.sɪs",
+            "word_native_transliteration": {
+                "bn": "সিনথেসিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚗️",
+            "meaning": "The combination of ideas to form a theory or system; the composition of complex entities from simpler ones.",
+            "example_sentence": "The research paper presents a synthesis of multiple theories.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রিসার্চ পেপার প্রেজেন্টস এ সিনথেসিস অব মাল্টিপল থিওরিজ।"
+            },
+            "position": 12,
+            "synonyms": "combination, integration, fusion",
+            "antonyms": "separation, division, fragmentation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সমন্বয় বা সংমিশ্রণ",
+                    "word_transliteration": "somonnoy ba songmishron",
+                    "example_sentence_translation": "গবেষণা পত্রটি বিভিন্ন তত্ত্বের সমন্বয় উপস্থাপন করে।",
+                    "example_sentence_transliteration": "Gobeshona pottroti bibhinno tottver somonnoy uposthapan kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "extrapolate",
+            "phonetic": "ɪkˈstræp.ə.leɪt",
+            "word_native_transliteration": {
+                "bn": "এক্সট্রাপোলেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔮",
+            "meaning": "To extend the application of a method or conclusion to an unknown situation by assuming that existing trends will continue.",
+            "example_sentence": "Scientists extrapolate climate trends based on past data.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাইনটিস্টস এক্সট্রাপোলেট ক্লাইমেট ট্রেন্ডস বেসড অন পাস্ট ডেটা।"
+            },
+            "position": 13,
+            "synonyms": "infer, predict, deduce",
+            "antonyms": "misinterpret, misjudge, distort",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনুমান বা প্রসারণ করা",
+                    "word_transliteration": "anuman ba prosaron kora",
+                    "example_sentence_translation": "বিজ্ঞানীরা অতীতের তথ্যের ভিত্তিতে জলবায়ুর প্রবণতা অনুমান করেন।",
+                    "example_sentence_transliteration": "Bigganira atiter tothyer bhittite jolbayur probonota anuman koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "meticulous",
+            "phonetic": "məˈtɪk.jə.ləs",
+            "word_native_transliteration": {
+                "bn": "মেটিকুলাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔍",
+            "meaning": "Showing great attention to detail; very careful and precise.",
+            "example_sentence": "She is meticulous about every detail in her work.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি ইজ মেটিকুলাস অ্যাবাউট এভরি ডিটেইল ইন হার ওয়ার্ক।"
+            },
+            "position": 14,
+            "synonyms": "precise, careful, thorough",
+            "antonyms": "careless, inaccurate, negligent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অত্যন্ত যত্নশীল বা নিখুঁত",
+                    "word_transliteration": "ottyonto jotnoshil ba nikhunto",
+                    "example_sentence_translation": "তিনি তার কাজের প্রতিটি বিষয়ে অত্যন্ত যত্নশীল।",
+                    "example_sentence_transliteration": "Tini tar kajer protiti bishoy-e ottyonto jotnoshil.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fortitude",
+            "phonetic": "ˈfɔːr.tɪ.tjuːd",
+            "word_native_transliteration": {
+                "bn": "ফর্টিটিউড"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "Courage in pain or adversity; mental and emotional strength in facing difficulty.",
+            "example_sentence": "She showed great fortitude during the crisis.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি শোড গ্রেট ফর্টিটিউড ডিউরিং দ্য ক্রাইসিস।"
+            },
+            "position": 15,
+            "synonyms": "resilience, courage, perseverance",
+            "antonyms": "weakness, fear, cowardice",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অটল মনোবল বা ধৈর্য",
+                    "word_transliteration": "otol monobol ba dhoirjo",
+                    "example_sentence_translation": "তিনি সংকটের সময় অসাধারণ ধৈর্য ও সাহস দেখিয়েছেন।",
+                    "example_sentence_transliteration": "Tini songkoter somoy oshadharon dhoirjo o sahos dekhiyechhen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "propensity",
+            "phonetic": "prəˈpɛn.sə.ti",
+            "word_native_transliteration": {
+                "bn": "প্রোপেনসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "An inclination or natural tendency to behave in a particular way.",
+            "example_sentence": "He has a propensity to take risks in business.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি হ্যাজ এ প্রোপেনসিটি টু টেক রিস্কস ইন বিজনেস।"
+            },
+            "position": 16,
+            "synonyms": "tendency, inclination, predisposition",
+            "antonyms": "aversion, disinclination, avoidance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রবণতা বা স্বভাবগত ঝোঁক",
+                    "word_transliteration": "probonota ba shobhabgoto jhok",
+                    "example_sentence_translation": "তার ব্যবসায় ঝুঁকি নেওয়ার প্রবণতা রয়েছে।",
+                    "example_sentence_transliteration": "Tar byabsay jhuki neowar probonota royechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "elucidate",
+            "phonetic": "ɪˈluː.sɪ.deɪt",
+            "word_native_transliteration": {
+                "bn": "এলুসিডেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "💬",
+            "meaning": "To make something clear; to explain in detail.",
+            "example_sentence": "The professor elucidated the complex theory in simple terms.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রফেসর এলুসিডেটেড দ্য কমপ্লেক্স থিওরি ইন সিম্পল টার্মস।"
+            },
+            "position": 17,
+            "synonyms": "explain, clarify, illuminate",
+            "antonyms": "confuse, obscure, muddle",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্পষ্টভাবে ব্যাখ্যা করা",
+                    "word_transliteration": "sposhto bhabe byakhya kora",
+                    "example_sentence_translation": "প্রফেসর জটিল তত্ত্বটি সহজ ভাষায় ব্যাখ্যা করলেন।",
+                    "example_sentence_transliteration": "Professor jotil tottvoti sohoj bhashay byakhya korlen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "retention",
+            "phonetic": "rɪˈtɛn.ʃən",
+            "word_native_transliteration": {
+                "bn": "রিটেনশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧠",
+            "meaning": "The continued possession, use, or control of something; the ability to retain knowledge or memory.",
+            "example_sentence": "Regular practice improves knowledge retention.",
+            "example_sentence_native_transliteration": {
+                "bn": "রেগুলার প্র্যাকটিস ইমপ্রুভস নলেজ রিটেনশন।"
+            },
+            "position": 18,
+            "synonyms": "preservation, memory, maintenance",
+            "antonyms": "loss, forgetfulness, discarding",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংরক্ষণ বা ধরে রাখার ক্ষমতা",
+                    "word_transliteration": "songrokkhon ba dhore rakhar khomota",
+                    "example_sentence_translation": "নিয়মিত অনুশীলন জ্ঞান সংরক্ষণ ক্ষমতা বৃদ্ধি করে।",
+                    "example_sentence_transliteration": "Niyomito onushilon gyan songrokkhon khomota briddhi kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "evasion",
+            "phonetic": "ɪˈveɪ.ʒən",
+            "word_native_transliteration": {
+                "bn": "ইভেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏃‍♂️",
+            "meaning": "The practice of avoiding or escaping from something, especially responsibility or duty.",
+            "example_sentence": "His evasion of responsibilities frustrated his colleagues.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ইভেশন অব রেসপনসিবিলিটিজ ফ্রাস্ট্রেটেড হিজ কলিগস।"
+            },
+            "position": 19,
+            "synonyms": "avoidance, dodging, escape",
+            "antonyms": "confrontation, engagement, compliance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "এড়ানো বা ফাঁকি দেওয়া",
+                    "word_transliteration": "erano ba fanki deoya",
+                    "example_sentence_translation": "তার দায়িত্ব এড়ানোর প্রবণতা সহকর্মীদের বিরক্ত করেছিল।",
+                    "example_sentence_transliteration": "Tar dayitto eranor probonota sohokormider birokto korechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "endeavor",
+            "phonetic": "ɪnˈdɛv.ɚ",
+            "word_native_transliteration": {
+                "bn": "এনডেভার"
+            },
+            "parts_of_speech": "noun/verb",
+            "emoji": "🚀",
+            "meaning": "An attempt to achieve a goal; to try hard to do or achieve something.",
+            "example_sentence": "His endeavor to start a business was successful.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ এনডেভার টু স্টার্ট এ বিজনেস ওয়াজ সাকসেসফুল।"
+            },
+            "position": 20,
+            "synonyms": "attempt, effort, struggle",
+            "antonyms": "inactivity, neglect, idleness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রচেষ্টা বা কঠোর পরিশ্রম",
+                    "word_transliteration": "procheshta ba kothor porishrom",
+                    "example_sentence_translation": "তার ব্যবসা শুরু করার প্রচেষ্টা সফল হয়েছে।",
+                    "example_sentence_transliteration": "Tar byabsa shuru korar procheshta sofol hoyechhe.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

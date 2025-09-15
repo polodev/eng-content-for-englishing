@@ -1,0 +1,472 @@
+{
+    "position": 206,
+    "title_translation": {
+        "en": "The Power of Now",
+        "bn": "বর্তমানের শক্তি"
+    },
+    "content_translation": {
+        "en": "We often have **preoccupation** with the future or get stuck in memories of the past, which prevents us from enjoying the present. The Power of Now teaches us how to keep **consciousness** awake and fully experience every moment.\n\nLife is essentially **ephemeral**, every moment quickly becomes **fleeting**. But if we practice **mindfulness**, it is possible to enjoy the **serenity** of the present. Many people experience **disillusionment** because they have **fixation** on past mistakes, whereas the reality is that life is controlled by **impermanence**.\n\nBy consciously doing **introspection**, we can understand that true **euphoria** and **profundity** are hidden in the present. Every moment of the present is a unique **manifestation**, which can bring **transcendence** into our lives.\n\nTherefore, to fully comprehend life, the right path is to free ourselves from **reverie** of the past and **ambivalence** of the future and accept the present while maintaining **lucidity**.",
+        "bn": "আমরা প্রায়ই ভবিষ্যৎ নিয়ে **preoccupation** করি বা অতীতের স্মৃতিতে আটকে থাকি, যা আমাদের বর্তমানকে উপভোগ করতে বাধা দেয়। The Power of Now আমাদের শেখায় কিভাবে **consciousness** বজায় রেখে প্রতিটি মুহূর্তকে পূর্ণভাবে অনুভব করতে হয়।\n\nজীবন মূলত **ephemeral**, প্রতিটি মুহূর্ত দ্রুত **fleeting** হয়ে যায়। কিন্তু আমরা যদি **mindfulness** চর্চা করি, তবে বর্তমানের **serenity** উপভোগ করা সম্ভব। অনেক মানুষ **disillusionment** অনুভব করে কারণ তারা অতীতের ভুল নিয়ে **fixation** করে থাকে, অথচ বাস্তবতা হলো জীবন **impermanence** দ্বারা নিয়ন্ত্রিত।\n\nসচেতনভাবে **introspection** করলে আমরা বুঝতে পারি, সত্যিকারের **euphoria** এবং **profundity** বর্তমানেই লুকিয়ে আছে। বর্তমানের প্রতিটি মুহূর্ত এক অনন্য **manifestation**, যা আমাদের জীবনে **transcendence** নিয়ে আসতে পারে।\n\nঅতএব, জীবনকে সম্পূর্ণরূপে উপলব্ধি করতে হলে, অতীতের **reverie** এবং ভবিষ্যতের **ambivalence** থেকে মুক্ত হয়ে **lucidity** বজায় রেখে বর্তমানকে গ্রহণ করাই সঠিক পথ।"
+    },
+    "list": [
+        {
+            "word": "preoccupation",
+            "phonetic": "/ˌpriːˌɒk.jʊˈpeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "প্রিঅকুপেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤔",
+            "meaning": "The state of being preoccupied or having excessive concern about a particular matter.",
+            "example_sentence": "His preoccupation with work affected his personal life.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ প্রিঅকুপেশন উইথ ওয়ার্ক অ্যাফেক্টেড হিজ পার্সোনাল লাইফ।"
+            },
+            "position": 1,
+            "synonyms": "obsession, concern, fixation",
+            "antonyms": "indifference, disinterest, neglect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মনোযোগের কেন্দ্রীকরণ বা চিন্তায় ডুবে থাকা",
+                    "word_transliteration": "monoyoger kendrikikoron ba chintay dube thaka",
+                    "example_sentence_translation": "কাজ নিয়ে তার অতিরিক্ত মনোযোগ ব্যক্তিগত জীবনে প্রভাব ফেলেছিল।",
+                    "example_sentence_transliteration": "Kaj niye tar otirikto monoyog byktikgoto jibne probhab feleche chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "consciousness",
+            "phonetic": "/ˈkɒn.ʃəs.nəs/",
+            "word_native_transliteration": {
+                "bn": "কনশাসনেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧠",
+            "meaning": "The state of being aware of and able to think about one's existence, sensations, thoughts, and surroundings.",
+            "example_sentence": "Meditation helps improve consciousness and clarity of thought.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেডিটেশন হেল্পস ইমপ্রুভ কনশাসনেস অ্যান্ড ক্ল্যারিটি অফ থট।"
+            },
+            "position": 2,
+            "synonyms": "awareness, perception, alertness",
+            "antonyms": "unconsciousness, ignorance, oblivion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সচেতনতা বা উপলব্ধি",
+                    "word_transliteration": "sochetnota ba upolbdhi",
+                    "example_sentence_translation": "ধ্যান সচেতনতা ও চিন্তার স্বচ্ছতা উন্নত করতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Dhyan sochetnota o chintar sochchhota unnoto korte sahayyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ephemeral",
+            "phonetic": "/ɪˈfɛm.ər.əl/",
+            "word_native_transliteration": {
+                "bn": "ইফেমেরাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌸",
+            "meaning": "Lasting for a very short time; transitory.",
+            "example_sentence": "The beauty of a rainbow is ephemeral.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য বিউটি অফ এ রেইনবো ইজ ইফেমেরাল।"
+            },
+            "position": 3,
+            "synonyms": "short-lived, transient, fleeting",
+            "antonyms": "permanent, lasting, enduring",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অস্থায়ী বা স্বল্পস্থায়ী",
+                    "word_transliteration": "osthayi ba swolposthayi",
+                    "example_sentence_translation": "রংধনুর সৌন্দর্য অস্থায়ী।",
+                    "example_sentence_transliteration": "Rongdhonur soundoryo osthayi.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fleeting",
+            "phonetic": "/ˈfliː.tɪŋ/",
+            "word_native_transliteration": {
+                "bn": "ফ্লিটিং"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⏰",
+            "meaning": "Lasting for a very short time; passing quickly.",
+            "example_sentence": "Happiness can be fleeting, so cherish every moment.",
+            "example_sentence_native_transliteration": {
+                "bn": "হ্যাপিনেস ক্যান বি ফ্লিটিং, সো চেরিশ এভরি মোমেন্ট।"
+            },
+            "position": 4,
+            "synonyms": "brief, momentary, transitory",
+            "antonyms": "lasting, eternal, enduring",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্ষণস্থায়ী বা দ্রুত বিলীন হওয়া",
+                    "word_transliteration": "khonnosthayi ba druto bilin howa",
+                    "example_sentence_translation": "সুখ ক্ষণস্থায়ী হতে পারে, তাই প্রতিটি মুহূর্তকে উপভোগ করো।",
+                    "example_sentence_transliteration": "Shukh khonnosthayi hote pare, tai protiti muhurtoke upobhog koro.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "mindfulness",
+            "phonetic": "/ˈmaɪnd.fʊl.nəs/",
+            "word_native_transliteration": {
+                "bn": "মাইন্ডফুলনেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧘",
+            "meaning": "The quality or state of being conscious or aware of something; a mental state achieved by focusing one's awareness on the present moment.",
+            "example_sentence": "Practicing mindfulness reduces stress and anxiety.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্র্যাক্টিসিং মাইন্ডফুলনেস রিডিউসেস স্ট্রেস অ্যান্ড অ্যাংজাইটি।"
+            },
+            "position": 5,
+            "synonyms": "awareness, attentiveness, presence",
+            "antonyms": "mindlessness, distraction, carelessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সচেতন উপস্থিতি বা মনোযোগ",
+                    "word_transliteration": "socheton uposthiti ba monoyog",
+                    "example_sentence_translation": "সচেতন উপস্থিতি অনুশীলন চাপ ও উদ্বেগ কমায়।",
+                    "example_sentence_transliteration": "Socheton uposthiti onushilon chap o udbeg komay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "serenity",
+            "phonetic": "/səˈrɛn.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "সেরেনিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🕊️",
+            "meaning": "The state of being calm, peaceful, and untroubled.",
+            "example_sentence": "The sound of ocean waves brings a sense of serenity.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সাউন্ড অফ ওশান ওয়েভস ব্রিংস এ সেন্স অফ সেরেনিটি।"
+            },
+            "position": 6,
+            "synonyms": "calmness, tranquility, peacefulness",
+            "antonyms": "turmoil, anxiety, chaos",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শান্তি বা প্রশান্তি",
+                    "word_transliteration": "shanti ba proshanti",
+                    "example_sentence_translation": "সমুদ্রের ঢেউয়ের শব্দ মানসিক প্রশান্তি নিয়ে আসে।",
+                    "example_sentence_transliteration": "Somudrr dheuyer shobdo manoshik proshanti niye ashe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "disillusionment",
+            "phonetic": "/ˌdɪs.ɪˈluː.ʒən.mənt/",
+            "word_native_transliteration": {
+                "bn": "ডিসইলুশনমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💔",
+            "meaning": "A feeling of disappointment resulting from the discovery that something is not as good as one believed it to be.",
+            "example_sentence": "His disillusionment with politics made him withdraw from activism.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ডিসইলুশনমেন্ট উইথ পলিটিক্স মেড হিম উইথড্র ফ্রম অ্যাক্টিভিজম।"
+            },
+            "position": 7,
+            "synonyms": "disenchantment, disappointment, cynicism",
+            "antonyms": "optimism, hopefulness, satisfaction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভ্রমভঙ্গ বা আশাভঙ্গ",
+                    "word_transliteration": "bhromobhongo ba ashabongo",
+                    "example_sentence_translation": "রাজনীতির প্রতি তার ভ্রমভঙ্গ তাকে সক্রিয়তা থেকে বিরত রেখেছে।",
+                    "example_sentence_transliteration": "Rajnitir proti tar bhromobhongo take sokriyota theke birot rekheche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fixation",
+            "phonetic": "/fɪkˈseɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ফিক্সেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "An obsessive interest in or feeling about someone or something.",
+            "example_sentence": "His fixation on perfectionism delayed project completion.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ফিক্সেশন অন পারফেকশনিজম ডিলেড প্রজেক্ট কমপ্লিশন।"
+            },
+            "position": 8,
+            "synonyms": "obsession, attachment, preoccupation",
+            "antonyms": "detachment, indifference, apathy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতিরিক্ত আসক্তি বা নির্দিষ্ট কিছুর প্রতি অতিরিক্ত মনোযোগ",
+                    "word_transliteration": "otirikto ashokti ba nirdhishto kichur proti otirikto monoyog",
+                    "example_sentence_translation": "তার নিখুঁততার প্রতি অতিরিক্ত মনোযোগ প্রকল্প শেষ করতে বিলম্ব করেছিল।",
+                    "example_sentence_transliteration": "Tar nikhuntotar proti otirikto monoyog prokolpo shesh korte bilombo koreche chilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "impermanence",
+            "phonetic": "/ɪmˈpɜː.mə.nəns/",
+            "word_native_transliteration": {
+                "bn": "ইমপারমানেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🍃",
+            "meaning": "The state or fact of lasting for only a limited period of time.",
+            "example_sentence": "The philosophy of Buddhism emphasizes the impermanence of life.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফিলোসফি অফ বুদ্ধিজম এমফাসাইজেস দ্য ইমপারমানেন্স অফ লাইফ।"
+            },
+            "position": 9,
+            "synonyms": "transience, temporariness, fickleness",
+            "antonyms": "permanence, stability, endurance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অস্থায়িত্ব বা নশ্বরতা",
+                    "word_transliteration": "osthayitto ba noshworota",
+                    "example_sentence_translation": "বৌদ্ধ দর্শন জীবনের অস্থায়িত্বের ওপর গুরুত্ব দেয়।",
+                    "example_sentence_transliteration": "Bouddho dorshon jiboner osthayittoper opor gurutbo dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "introspection",
+            "phonetic": "/ˌɪn.trəˈspek.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ইন্ট্রোস্পেকশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🪞",
+            "meaning": "The examination or observation of one's own mental and emotional processes.",
+            "example_sentence": "Through introspection, she gained insight into her emotions.",
+            "example_sentence_native_transliteration": {
+                "bn": "থ্রু ইন্ট্রোস্পেকশন, শি গেইনড ইনসাইট ইনটু হার ইমোশনস।"
+            },
+            "position": 10,
+            "synonyms": "reflection, self-examination, contemplation",
+            "antonyms": "extrospection, distraction, negligence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আত্মজিজ্ঞাসা বা আত্মপর্যালোচনা",
+                    "word_transliteration": "attojijnyasha ba attoporyalochona",
+                    "example_sentence_translation": "আত্মজিজ্ঞাসার মাধ্যমে তিনি তার অনুভূতি সম্পর্কে গভীর উপলব্ধি লাভ করেন।",
+                    "example_sentence_transliteration": "Attojijnyashar madhyome tini tar onubhuti somporke gobhir upolbdhi labh koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "euphoria",
+            "phonetic": "/juːˈfɔː.ri.ə/",
+            "word_native_transliteration": {
+                "bn": "ইউফোরিয়া"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎉",
+            "meaning": "A feeling or state of intense excitement and happiness.",
+            "example_sentence": "Winning the championship filled him with euphoria.",
+            "example_sentence_native_transliteration": {
+                "bn": "উইনিং দ্য চ্যাম্পিয়নশিপ ফিল্ড হিম উইথ ইউফোরিয়া।"
+            },
+            "position": 11,
+            "synonyms": "elation, bliss, ecstasy",
+            "antonyms": "misery, depression, sorrow",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতি আনন্দ বা উচ্ছ্বাস",
+                    "word_transliteration": "oti anondo ba uchchash",
+                    "example_sentence_translation": "চ্যাম্পিয়নশিপ জেতার আনন্দ তাকে প্রবল উচ্ছ্বাসে ভরিয়ে তুলেছিল।",
+                    "example_sentence_transliteration": "Championship jetar anondo take probol uchchashe bhoriye tulche chilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "profundity",
+            "phonetic": "/prəˈfʌn.dɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "প্রোফান্ডিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌊",
+            "meaning": "Deep insight; great depth of knowledge or thought.",
+            "example_sentence": "The profundity of his words left a lasting impact.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রোফান্ডিটি অফ হিজ ওয়ার্ডস লেফট এ ল্যাস্টিং ইমপ্যাক্ট।"
+            },
+            "position": 12,
+            "synonyms": "depth, wisdom, insight",
+            "antonyms": "superficiality, shallowness, simplicity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গভীরতা বা অন্তর্দৃষ্টি",
+                    "word_transliteration": "gobhirota ba antordrishti",
+                    "example_sentence_translation": "তার কথার গভীরতা একটি দীর্ঘস্থায়ী প্রভাব ফেলেছিল।",
+                    "example_sentence_transliteration": "Tar kothar gobhirota ekti dirghosthayi probhab feleche chilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "manifestation",
+            "phonetic": "/ˌmæn.ɪ.fɛsˈteɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ম্যানিফেস্টেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✨",
+            "meaning": "An event, action, or object that clearly shows or embodies something, especially a theory or an abstract idea.",
+            "example_sentence": "His generosity was a manifestation of his kind nature.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ জেনেরোসিটি ওয়াজ এ ম্যানিফেস্টেশন অফ হিজ কাইন্ড নেচার।"
+            },
+            "position": 13,
+            "synonyms": "expression, display, demonstration",
+            "antonyms": "concealment, obscurity, disguise",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রকাশ বা প্রতিফলন",
+                    "word_transliteration": "prokash ba protifolon",
+                    "example_sentence_translation": "তার উদারতা তার দয়ালু প্রকৃতির প্রতিফলন ছিল।",
+                    "example_sentence_transliteration": "Tar udarota tar doyalu prokritir protifolon chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "transcendence",
+            "phonetic": "/trænˈsɛnd.əns/",
+            "word_native_transliteration": {
+                "bn": "ট্রান্সেন্ডেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚀",
+            "meaning": "Existence or experience beyond the normal or physical level.",
+            "example_sentence": "Meditation leads to a state of transcendence beyond worldly concerns.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেডিটেশন লিডস টু এ স্টেট অফ ট্রান্সেন্ডেন্স বিয়ন্ড ওয়ার্ল্ডলি কনসার্নস।"
+            },
+            "position": 14,
+            "synonyms": "superiority, supremacy, elevation",
+            "antonyms": "limitation, confinement, inferiority",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতিক্রম করা বা সীমার বাইরে যাওয়া",
+                    "word_transliteration": "otikrom kora ba shimar baire jaowa",
+                    "example_sentence_translation": "ধ্যান পার্থিব চিন্তার ঊর্ধ্বে একটি অবস্থায় নিয়ে যায়।",
+                    "example_sentence_transliteration": "Dhyan parthib chintar urdhye ekti obosthay niye jay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "reverie",
+            "phonetic": "/ˈrɛv.ər.i/",
+            "word_native_transliteration": {
+                "bn": "রেভেরি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "☁️",
+            "meaning": "A state of being pleasantly lost in one's thoughts; a daydream.",
+            "example_sentence": "Lost in reverie, he didn't hear his name being called.",
+            "example_sentence_native_transliteration": {
+                "bn": "লস্ট ইন রেভেরি, হি ডিডন্ট হিয়ার হিজ নেম বিয়িং কল্ড।"
+            },
+            "position": 15,
+            "synonyms": "daydream, trance, fantasy",
+            "antonyms": "reality, awareness, consciousness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বপ্নজগতে হারিয়ে যাওয়া বা কল্পনা",
+                    "word_transliteration": "shopnojogte hariye jaowa ba kolpona",
+                    "example_sentence_translation": "স্বপ্নজগতে হারিয়ে গিয়ে তিনি তার নাম ডাকা শুনতে পাননি।",
+                    "example_sentence_transliteration": "Shopnojogte hariye giye tini tar nam daka shunte panonnee.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ambivalence",
+            "phonetic": "/æmˈbɪv.ə.ləns/",
+            "word_native_transliteration": {
+                "bn": "অ্যাম্বিভ্যালেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "The state of having mixed feelings or contradictory ideas about something or someone.",
+            "example_sentence": "She felt ambivalence about accepting the new job offer.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি ফেল্ট অ্যাম্বিভ্যালেন্স অ্যাবাউট অ্যাকসেপ্টিং দ্য নিউ জব অফার।"
+            },
+            "position": 16,
+            "synonyms": "uncertainty, indecision, contradiction",
+            "antonyms": "certainty, resolution, conviction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্বৈততা বা দ্বিধা",
+                    "word_transliteration": "dhoittota ba dhidha",
+                    "example_sentence_translation": "তিনি নতুন চাকরির প্রস্তাব গ্রহণ করা নিয়ে দ্বিধাগ্রস্ত ছিলেন।",
+                    "example_sentence_transliteration": "Tini notun chakrir prostab grohon kora niye dhidhagrosto chhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "lucidity",
+            "phonetic": "/luːˈsɪd.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "লুসিডিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💡",
+            "meaning": "Clarity of thought or style; the quality of being easily understood.",
+            "example_sentence": "His explanation had great lucidity, making it easy to understand.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ এক্সপ্ল্যানেশন হ্যাড গ্রেট লুসিডিটি, মেকিং ইট ইজি টু আন্ডারস্ট্যান্ড।"
+            },
+            "position": 17,
+            "synonyms": "clarity, transparency, coherence",
+            "antonyms": "confusion, ambiguity, obscurity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্পষ্টতা বা বোধগম্যতা",
+                    "word_transliteration": "sphoshttota ba bodhgomyota",
+                    "example_sentence_translation": "তার ব্যাখ্যায় দুর্দান্ত স্পষ্টতা ছিল, যা বুঝতে সহজ করে তুলেছে।",
+                    "example_sentence_transliteration": "Tar byakhyay durdanto sphoshttota chhilo, ja bujhte sohoj kore tulche.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

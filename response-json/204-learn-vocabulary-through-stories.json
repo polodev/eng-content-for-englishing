@@ -1,0 +1,499 @@
+{
+    "position": 204,
+    "title_translation": {
+        "en": "The Magic of Thinking Big",
+        "bn": "বড় চিন্তার জাদু"
+    },
+    "content_translation": {
+        "en": "**Ambition** is extremely important for success in life. Those who think big usually become more **prolific**. But can everyone achieve great things? The answer is yes—if they have **conviction** and **tenacity**. Many times, we face various **conundrums** that can divert us from our goals. However, with **perseverance** and **fortitude**, we can overcome obstacles and move forward. Thinking big doesn't just mean dreaming, but being **cognizant** of reality and taking **pragmatic** steps. When someone wants to change a **paradigm**, they need to apply **ingenuity** and **discernment**. Big thinking can bring **metamorphosis** to human life because it creates new **resonance**. Therefore, we must keep our **aspiration** and **determination** intact and move forward. With **optimism** and the right **strategy**, achieving great things is possible.",
+        "bn": "জীবনে সফলতার জন্য **ambition** অত্যন্ত গুরুত্বপূর্ণ। যারা বড় চিন্তা করে, তারা সাধারণত বেশি **prolific** হয়ে ওঠে। কিন্তু সবাই কি বড় কিছু অর্জন করতে পারে? উত্তর হলো—হ্যাঁ, যদি তাদের মধ্যে **conviction** এবং **tenacity** থাকে। অনেক সময়, আমাদের সামনে নানা **conundrum** আসে, যা আমাদের লক্ষ্য থেকে বিচ্যুত করতে পারে। তবে, **perseverance** এবং **fortitude** থাকলে, আমরা বাধা পেরিয়ে এগিয়ে যেতে পারি। বড় চিন্তা করা মানে শুধু স্বপ্ন দেখা নয়, বরং বাস্তবতা সম্পর্কে **cognizant** থাকা এবং **pragmatic** পদক্ষেপ নেওয়া। যখন কেউ **paradigm** পরিবর্তন করতে চায়, তখন তাকে **ingenuity** এবং **discernment** কাজে লাগাতে হয়। বড় চিন্তা মানুষের জীবনে **metamorphosis** আনতে পারে, কারণ এটি নতুন **resonance** তৈরি করে। তাই, আমাদের **aspiration** এবং **determination** বজায় রেখে এগিয়ে যেতে হবে। **Optimism** এবং সঠিক **strategy** থাকলে, বড় কিছু অর্জন করা সম্ভব।"
+    },
+    "list": [
+        {
+            "word": "ambition",
+            "phonetic": "/æmˈbɪʃ.ən/",
+            "word_native_transliteration": {
+                "bn": "অ্যাম্বিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "A strong desire to do or achieve something that demands determination and hard work.",
+            "example_sentence": "His ambition to become a doctor kept him motivated.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ অ্যাম্বিশন টু বিকাম এ ডক্টর কেপ্ট হিম মোটিভেটেড।"
+            },
+            "position": 1,
+            "synonyms": "aspiration, determination, drive",
+            "antonyms": "apathy, indifference, lethargy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উচ্চাকাঙ্ক্ষা",
+                    "word_transliteration": "uchchakangkha",
+                    "example_sentence_translation": "ডাক্তার হওয়ার উচ্চাকাঙ্ক্ষা তাকে অনুপ্রাণিত রেখেছিল।",
+                    "example_sentence_transliteration": "Daktar howar uchchakangkha take onupranit rekhechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "prolific",
+            "phonetic": "/prəˈlɪf.ɪk/",
+            "word_native_transliteration": {
+                "bn": "প্রোলিফিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📈",
+            "meaning": "Producing much work or many results; very productive.",
+            "example_sentence": "The author is known for being a prolific writer.",
+            "example_sentence_native_transliteration": {
+                "bn": "দি অথর ইজ নোন ফর বিইং এ প্রোলিফিক রাইটার।"
+            },
+            "position": 2,
+            "synonyms": "productive, creative, abundant",
+            "antonyms": "unproductive, barren, inefficient",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উৎপাদনশীল",
+                    "word_transliteration": "utpadanshil",
+                    "example_sentence_translation": "লেখক তার উৎপাদনশীল লেখার জন্য পরিচিত।",
+                    "example_sentence_transliteration": "Lekhok tar utpadanshil lekhar jonno porichito.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "conviction",
+            "phonetic": "/kənˈvɪk.ʃən/",
+            "word_native_transliteration": {
+                "bn": "কনভিকশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "A firmly held belief or opinion; confidence in one's beliefs or judgments.",
+            "example_sentence": "She spoke with conviction about her goals.",
+            "example_sentence_native_transliteration": {
+                "bn": "শী স্পোক উইথ কনভিকশন অ্যাবাউট হার গোলস।"
+            },
+            "position": 3,
+            "synonyms": "certainty, confidence, assurance",
+            "antonyms": "doubt, uncertainty, hesitation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দৃঢ় বিশ্বাস",
+                    "word_transliteration": "dridho bishwas",
+                    "example_sentence_translation": "তিনি তার লক্ষ্যের বিষয়ে দৃঢ় বিশ্বাসের সাথে কথা বললেন।",
+                    "example_sentence_transliteration": "Tini tar lokkhyer bishoyee dridho bishwaser sathe kotha bollen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "tenacity",
+            "phonetic": "/təˈnæs.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "টেনাসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "The quality or fact of being determined; persistence in maintaining something valued or desired.",
+            "example_sentence": "His tenacity in solving problems led to his success.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ টেনাসিটি ইন সল্ভিং প্রবলেমস লেড টু হিজ সাকসেস।"
+            },
+            "position": 4,
+            "synonyms": "determination, persistence, resilience",
+            "antonyms": "indecision, weakness, hesitation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দৃঢ় সংকল্প",
+                    "word_transliteration": "dridho shongkolpo",
+                    "example_sentence_translation": "সমস্যা সমাধানে তার দৃঢ় সংকল্প তাকে সাফল্যের পথে নিয়ে গেছে।",
+                    "example_sentence_transliteration": "Shomoshya somadhaney tar dridho shongkolpo take shafolyer pothe niye gechhee.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "conundrum",
+            "phonetic": "/kəˈnʌn.drəm/",
+            "word_native_transliteration": {
+                "bn": "কনানড্রাম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤔",
+            "meaning": "A confusing and difficult problem or question; a puzzle or riddle.",
+            "example_sentence": "The ethical conundrum puzzled the researchers.",
+            "example_sentence_native_transliteration": {
+                "bn": "দি এথিক্যাল কনানড্রাম পাজলড দি রিসার্চারস।"
+            },
+            "position": 5,
+            "synonyms": "puzzle, dilemma, enigma",
+            "antonyms": "solution, clarity, simplicity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জটিল সমস্যা",
+                    "word_transliteration": "jotil shomoshya",
+                    "example_sentence_translation": "নৈতিক জটিল সমস্যাটি গবেষকদের বিভ্রান্ত করেছে।",
+                    "example_sentence_transliteration": "Noitik jotil shomoshyati gobeshokder bibhranto korechhee.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "perseverance",
+            "phonetic": "/ˌpɜː.sɪˈvɪə.rəns/",
+            "word_native_transliteration": {
+                "bn": "পার্সিভিয়ারেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏃‍♂️",
+            "meaning": "Persistence in doing something despite difficulty or delay in achieving success.",
+            "example_sentence": "His perseverance helped him achieve his dreams.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ পার্সিভিয়ারেন্স হেল্পড হিম অ্যাচিভ হিজ ড্রিমস।"
+            },
+            "position": 6,
+            "synonyms": "persistence, determination, endurance",
+            "antonyms": "laziness, weakness, giving up",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অধ্যবসায়",
+                    "word_transliteration": "odhyaboshay",
+                    "example_sentence_translation": "তার অধ্যবসায় তাকে স্বপ্ন পূরণে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Tar odhyaboshay take shopno purone shahajyo korechhee.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fortitude",
+            "phonetic": "/ˈfɔːr.tɪ.tjuːd/",
+            "word_native_transliteration": {
+                "bn": "ফর্টিটিউড"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛡️",
+            "meaning": "Courage in pain or adversity; mental and emotional strength in facing difficulty.",
+            "example_sentence": "She faced adversity with great fortitude.",
+            "example_sentence_native_transliteration": {
+                "bn": "শী ফেসড অ্যাডভার্সিটি উইথ গ্রেট ফর্টিটিউড।"
+            },
+            "position": 7,
+            "synonyms": "courage, resilience, endurance",
+            "antonyms": "weakness, cowardice, fear",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মানসিক শক্তি",
+                    "word_transliteration": "manoshik shokti",
+                    "example_sentence_translation": "তিনি প্রতিকূলতাকে অসাধারণ মানসিক শক্তির সাথে মোকাবিলা করেছেন।",
+                    "example_sentence_transliteration": "Tini protikultake oshadadon manoshik shoktir sathe mokabila korechhen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cognizant",
+            "phonetic": "/ˈkɒɡ.nɪ.zənt/",
+            "word_native_transliteration": {
+                "bn": "কগনিজেন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "👁️",
+            "meaning": "Having knowledge or being aware of; conscious of something.",
+            "example_sentence": "He was cognizant of the risks involved in the project.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি ওয়াজ কগনিজেন্ট অব দি রিস্কস ইনভলভড ইন দি প্রজেক্ট।"
+            },
+            "position": 8,
+            "synonyms": "aware, mindful, conscious",
+            "antonyms": "unaware, oblivious, ignorant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সচেতন",
+                    "word_transliteration": "shocheton",
+                    "example_sentence_translation": "তিনি প্রকল্পে অন্তর্নিহিত ঝুঁকিগুলোর সম্পর্কে সচেতন ছিলেন।",
+                    "example_sentence_transliteration": "Tini prokolpee ontornihito jhunkigulor shomporke shocheton chhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pragmatic",
+            "phonetic": "/præɡˈmæt.ɪk/",
+            "word_native_transliteration": {
+                "bn": "প্র্যাগম্যাটিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔧",
+            "meaning": "Dealing with things sensibly and realistically; practical rather than idealistic.",
+            "example_sentence": "His pragmatic approach helped solve the crisis efficiently.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ প্র্যাগম্যাটিক অ্যাপ্রোচ হেল্পড সল্ভ দি ক্রাইসিস এফিশিয়েন্টলি।"
+            },
+            "position": 9,
+            "synonyms": "practical, realistic, sensible",
+            "antonyms": "idealistic, theoretical, impractical",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাস্তববাদী",
+                    "word_transliteration": "bashtobbadi",
+                    "example_sentence_translation": "তার বাস্তববাদী দৃষ্টিভঙ্গি সংকট সমাধানে সহায়ক হয়েছে।",
+                    "example_sentence_transliteration": "Tar bashtobbadi drishtibhongi shongkot somadhaney shahayok hoyechhee.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "paradigm",
+            "phonetic": "/ˈpær.ə.daɪm/",
+            "word_native_transliteration": {
+                "bn": "প্যারাডাইম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "A typical example or pattern of something; a model or framework for thinking.",
+            "example_sentence": "The scientific paradigm on climate change is evolving.",
+            "example_sentence_native_transliteration": {
+                "bn": "দি সায়েন্টিফিক প্যারাডাইম অন ক্লাইমেট চেঞ্জ ইজ ইভলভিং।"
+            },
+            "position": 10,
+            "synonyms": "model, framework, prototype",
+            "antonyms": "chaos, disorganization, disorder",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আদর্শ কাঠামো",
+                    "word_transliteration": "adorsho kathamo",
+                    "example_sentence_translation": "জলবায়ু পরিবর্তন সম্পর্কিত বৈজ্ঞানিক কাঠামো বিকশিত হচ্ছে।",
+                    "example_sentence_transliteration": "Jolbayu poriborton shomporikito boijganik kathamo bikoshito hochhee.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ingenuity",
+            "phonetic": "/ˌɪn.dʒəˈnjuː.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "ইনজেনিউইটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💡",
+            "meaning": "The quality of being clever, original, and inventive; creativity in solving problems.",
+            "example_sentence": "His ingenuity led to the invention of a groundbreaking device.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ইনজেনিউইটি লেড টু দি ইনভেনশন অব এ গ্রাউন্ডব্রেকিং ডিভাইস।"
+            },
+            "position": 11,
+            "synonyms": "creativity, innovation, resourcefulness",
+            "antonyms": "incompetence, unimaginativeness, stagnation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সৃজনশীলতা",
+                    "word_transliteration": "srijonshilota",
+                    "example_sentence_translation": "তার সৃজনশীলতা একটি যুগান্তকারী ডিভাইস আবিষ্কারের পথ দেখিয়েছে।",
+                    "example_sentence_transliteration": "Tar srijonshilota ekti yugantokari divais abishkarer poth dekhiyechhee.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "discernment",
+            "phonetic": "/dɪˈsɜːn.mənt/",
+            "word_native_transliteration": {
+                "bn": "ডিসার্নমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧠",
+            "meaning": "The ability to judge well; good judgment and understanding.",
+            "example_sentence": "His discernment in business decisions made him successful.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ডিসার্নমেন্ট ইন বিজনেস ডিসিশনস মেড হিম সাকসেসফুল।"
+            },
+            "position": 12,
+            "synonyms": "insight, perception, judgment",
+            "antonyms": "ignorance, indiscretion, foolishness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিচারবুদ্ধি",
+                    "word_transliteration": "bicharbuddhi",
+                    "example_sentence_translation": "ব্যবসায়িক সিদ্ধান্ত নেওয়ার তার বিচক্ষণতা তাকে সফল করেছে।",
+                    "example_sentence_transliteration": "Byaboshayik siddhanto neowar tar bichokkhonota take shofol korechhee.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "metamorphosis",
+            "phonetic": "/ˌmɛt.əˈmɔːr.fə.sɪs/",
+            "word_native_transliteration": {
+                "bn": "মেটামরফোসিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🦋",
+            "meaning": "A change of the form or nature of a thing into a completely different one; transformation.",
+            "example_sentence": "The company's metamorphosis into a global brand took years.",
+            "example_sentence_native_transliteration": {
+                "bn": "দি কোম্পানিজ মেটামরফোসিস ইনটু এ গ্লোবাল ব্র্যান্ড টুক ইয়ারস।"
+            },
+            "position": 13,
+            "synonyms": "transformation, evolution, conversion",
+            "antonyms": "stagnation, constancy, sameness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রূপান্তর",
+                    "word_transliteration": "rupantor",
+                    "example_sentence_translation": "কোম্পানির একটি বিশ্বব্যাপী ব্র্যান্ডে রূপান্তর হতে কয়েক বছর লেগেছে।",
+                    "example_sentence_transliteration": "Kompanir ekti bishwobapi braande rupantor hote koyeek bochor legechhee.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "resonance",
+            "phonetic": "/ˈrɛz.ə.nəns/",
+            "word_native_transliteration": {
+                "bn": "রেজোনেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎵",
+            "meaning": "The quality of being resonant; a deep, full, and reverberating sound or strong impact.",
+            "example_sentence": "His speech had a strong resonance with the audience.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ স্পিচ হ্যাড এ স্ট্রং রেজোনেন্স উইথ দি অডিয়েন্স।"
+            },
+            "position": 14,
+            "synonyms": "echo, reverberation, impact",
+            "antonyms": "dissonance, weakness, insignificance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিক্রিয়া",
+                    "word_transliteration": "protikriya",
+                    "example_sentence_translation": "তার বক্তব্য শ্রোতাদের মধ্যে গভীর প্রতিক্রিয়া তৈরি করেছিল।",
+                    "example_sentence_transliteration": "Tar boktobyo shrotader modhye gobhir protikriya toiri korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "aspiration",
+            "phonetic": "/ˌæs.pɪˈreɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "অ্যাসপিরেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌟",
+            "meaning": "A hope or ambition of achieving something; a strong desire to achieve a goal.",
+            "example_sentence": "Her aspiration is to become a renowned scientist.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার অ্যাসপিরেশন ইজ টু বিকাম এ রিনাউন্ড সায়েন্টিস্ট।"
+            },
+            "position": 15,
+            "synonyms": "ambition, goal, desire",
+            "antonyms": "apathy, indifference, lethargy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উচ্চাকাঙ্ক্ষা",
+                    "word_transliteration": "uchchakangkha",
+                    "example_sentence_translation": "তার উচ্চাকাঙ্ক্ষা একজন খ্যাতিমান বিজ্ঞানী হওয়া।",
+                    "example_sentence_transliteration": "Tar uchchakangkha ekjon khyatiman biggani howa.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "determination",
+            "phonetic": "/dɪˌtɜː.mɪˈneɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ডিটারমিনেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💎",
+            "meaning": "Firmness of purpose; the quality of being determined; resolve.",
+            "example_sentence": "His determination to succeed was unwavering.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ডিটারমিনেশন টু সাকসিড ওয়াজ আনওয়েভারিং।"
+            },
+            "position": 16,
+            "synonyms": "resolve, perseverance, tenacity",
+            "antonyms": "indecision, weakness, hesitation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দৃঢ় সংকল্প",
+                    "word_transliteration": "dridho shongkolpo",
+                    "example_sentence_translation": "সফল হওয়ার তার দৃঢ় সংকল্প ছিল অটল।",
+                    "example_sentence_transliteration": "Shofol howar tar dridho shongkolpo chhilo otol.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "optimism",
+            "phonetic": "/ˈɒp.tɪ.mɪ.zəm/",
+            "word_native_transliteration": {
+                "bn": "অপটিমিজম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "☀️",
+            "meaning": "Hopefulness and confidence about the future or the successful outcome of something.",
+            "example_sentence": "Her optimism helped her overcome difficult times.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার অপটিমিজম হেল্পড হার ওভারকাম ডিফিকাল্ট টাইমস।"
+            },
+            "position": 17,
+            "synonyms": "hopefulness, positivity, confidence",
+            "antonyms": "pessimism, negativity, doubt",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আশাবাদিতা",
+                    "word_transliteration": "ashabadita",
+                    "example_sentence_translation": "তার আশাবাদিতা তাকে কঠিন সময় অতিক্রম করতে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Tar ashabadita take kothin shomoy otikrom korte shahajyo korechhee.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "strategy",
+            "phonetic": "/ˈstræt.ə.dʒi/",
+            "word_native_transliteration": {
+                "bn": "স্ট্র্যাটেজি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "♟️",
+            "meaning": "A plan of action designed to achieve a long-term or overall aim; strategic planning.",
+            "example_sentence": "The company developed a new strategy to increase sales.",
+            "example_sentence_native_transliteration": {
+                "bn": "দি কোম্পানি ডেভেলপড এ নিউ স্ট্র্যাটেজি টু ইনক্রিজ সেলস।"
+            },
+            "position": 18,
+            "synonyms": "plan, tactic, approach",
+            "antonyms": "improvisation, disorganization, spontaneity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিকল্পনা",
+                    "word_transliteration": "porikolpona",
+                    "example_sentence_translation": "কোম্পানিটি বিক্রয় বৃদ্ধির জন্য একটি নতুন কৌশল তৈরি করেছে।",
+                    "example_sentence_transliteration": "Kompaniti bikroy briddhir jonno ekti notun kousol toiri korechhee.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}
