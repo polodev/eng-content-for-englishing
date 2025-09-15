@@ -1,0 +1,580 @@
+{
+    "position": 187,
+    "title_translation": {
+        "en": "The Economic Value of Forest Resources",
+        "bn": "বন সম্পদের অর্থনৈতিক মূল্য"
+    },
+    "content_translation": {
+        "en": "Forest resources play an indispensable role in the global economy. Their **utilization** in various industries creates significant **capitalization**, such as **wood**, **medicine**, and even **eco-tourism**. Forest **biodiversity** is not just a natural wonder; it provides **raw materials** for industries, supporting the **economy**.\n\nHowever, **exploitation** of these resources, if not properly managed, creates environmental **externalities** that affect **ecological balance**. To ensure long-term **sustainability**, **reforestation** and **conservation** programs are essential. Forests' ability to **sequester** **carbon** is crucial in mitigating **climate change** and enhancing global **resilience**.\n\nEconomists are increasingly focusing on **monetization**, recognizing the **endowment** of forest resources. Economic **valuation** of forests should be improved and should include the long-term benefits of maintaining healthy **ecosystems**.",
+        "bn": "বন সম্পদ বৈশ্বিক অর্থনীতিতে একটি অপরিহার্য ভূমিকা পালন করে। এগুলোর **utilization** বিভিন্ন শিল্পে **capitalization** সৃষ্টি করতে গুরুত্বপূর্ণ ভূমিকা রাখে, যেমন **wood**, ওষুধ এবং এমনকি ইকো-টুরিজম। বনগুলির **biodiversity** শুধু প্রাকৃতিক আশ্চর্য নয়; এটি শিল্পের জন্য কাঁচামাল সরবরাহ করে অর্থনীতির সহায়তা করে।\n\nতবে, এই সম্পদগুলির **exploitation**, যদি সঠিকভাবে পরিচালিত না হয়, তবে পরিবেশগত **externalities** সৃষ্টি করে যা **ecological** ভারসাম্যকে প্রভাবিত করে। দীর্ঘমেয়াদী **sustainability** নিশ্চিত করতে, **reforestation** এবং **conservation** কার্যক্রম অপরিহার্য। বনগুলির যে ক্ষমতা **sequester** কার্বন তা জলবায়ু পরিবর্তন কমাতে এবং বৈশ্বিক **resilience** বৃদ্ধিতে গুরুত্বপূর্ণ ভূমিকা রাখে।\n\nঅর্থনীতিবিদরা **increasingly** **monetization** এর দিকে মনোযোগ দিচ্ছেন, বন সম্পদের যে **endowment** রয়েছে তা চিনে নেয়ার মাধ্যমে। বনগুলির অর্থৈতিক **valuation** আরও উন্নত পন্থায় হওয়া উচিত এবং এটি সুস্থ **ecosystem** রক্ষার দীর্ঘমেয়াদী লাভগুলোও অন্তর্ভুক্ত করা উচিত।"
+    },
+    "list": [
+        {
+            "word": "utilization",
+            "phonetic": "ˌjuːtɪlaɪˈzeɪʃən",
+            "word_native_transliteration": {
+                "bn": "ইউটিলাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚙️",
+            "meaning": "The action of making practical and effective use of something.",
+            "example_sentence": "The efficient utilization of resources is key to success.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এফিশেন্ট ইউটিলাইজেশন অব রিসোর্সেস ইজ কি টু সাকসেস।"
+            },
+            "position": 1,
+            "synonyms": "usage, application, deployment",
+            "antonyms": "waste, misuse, inefficiency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ব্যবহার, সদ্ব্যবহার",
+                    "word_transliteration": "byabohar, shod-byabohar",
+                    "example_sentence_translation": "সম্পদগুলির দক্ষ ব্যবহার সাফল্যের চাবিকাঠি।",
+                    "example_sentence_transliteration": "Shompadgulir dokkhho byabohar shafolyer chabikathi.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "capitalization",
+            "phonetic": "ˌkæpɪtəlaɪˈzeɪʃən",
+            "word_native_transliteration": {
+                "bn": "ক্যাপিটালাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💰",
+            "meaning": "The provision of capital for a company or the total value of a company's shares.",
+            "example_sentence": "The company's capitalization grew rapidly after the merger.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানিজ ক্যাপিটালাইজেশন গ্রু র‍্যাপিডলি আফটার দ্য মার্জার।"
+            },
+            "position": 2,
+            "synonyms": "investment, funding, financial growth",
+            "antonyms": "devaluation, diminution, decline",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মূলধনের পরিমাণ",
+                    "word_transliteration": "mulddhoner poriman",
+                    "example_sentence_translation": "কোম্পানির মূলধন মেলজারের পর দ্রুত বেড়েছে।",
+                    "example_sentence_transliteration": "Companir muldhon meljarer por druto boreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "wood",
+            "phonetic": "wʊd",
+            "word_native_transliteration": {
+                "bn": "উড"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🪵",
+            "meaning": "The hard fibrous material that forms the main substance of the trunk or branches of a tree.",
+            "example_sentence": "The furniture is made from high-quality wood.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফার্নিচার ইজ মেড ফ্রম হাই-কোয়ালিটি উড।"
+            },
+            "position": 3,
+            "synonyms": "timber, lumber, wood material",
+            "antonyms": "metal, plastic, concrete",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কাঠ, গাছ",
+                    "word_transliteration": "kath, gach",
+                    "example_sentence_translation": "ফার্নিচারটি উচ্চমানের কাঠ দিয়ে তৈরি।",
+                    "example_sentence_transliteration": "Furniture-ti uchcho-maner kath diye toiri.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "medicine",
+            "phonetic": "ˈmɛdɪsɪn",
+            "word_native_transliteration": {
+                "bn": "মেডিসিন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💊",
+            "meaning": "A compound or preparation used for the treatment or prevention of disease.",
+            "example_sentence": "Modern medicine has made great strides in treating diseases.",
+            "example_sentence_native_transliteration": {
+                "bn": "মর্ডান মেডিসিন হ্যাজ মেড গ্রেট স্ট্রাইডস ইন ট্রিটিং ডিজিজেস।"
+            },
+            "position": 4,
+            "synonyms": "medication, treatment, cure",
+            "antonyms": "poison, toxin, harmful substance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ঔষধ, চিকিৎসা",
+                    "word_transliteration": "oushodh, chikitsha",
+                    "example_sentence_translation": "আধুনিক চিকিৎসা রোগের চিকিৎসায় অনেক উন্নতি করেছে।",
+                    "example_sentence_transliteration": "Adhunik chikitsha roger chikitshay onek unnoti koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "eco-tourism",
+            "phonetic": "ˈiːkəʊˈtʊəˌrɪzəm",
+            "word_native_transliteration": {
+                "bn": "ইকো-টুরিজম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌿",
+            "meaning": "Tourism directed toward exotic, often threatened, natural environments.",
+            "example_sentence": "Eco-tourism promotes environmental conservation through travel.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইকো-টুরিজম প্রোমোটস এনভায়রনমেন্টাল কনজারভেশন থ্রু ট্র্যাভেল।"
+            },
+            "position": 5,
+            "synonyms": "green tourism, sustainable travel, nature-based tourism",
+            "antonyms": "mass tourism, over-tourism, destructive tourism",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিবেশবান্ধব পর্যটন",
+                    "word_transliteration": "poribesh-bandhob porjton",
+                    "example_sentence_translation": "ইকো-টুরিজম ভ্রমণের মাধ্যমে পরিবেশ সংরক্ষণের প্রচার করে।",
+                    "example_sentence_transliteration": "Eco-tourism bhromoner maddhome poribesh shongrokkhoner prochar kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "biodiversity",
+            "phonetic": "ˌbaɪəʊdaɪˈvɜːsɪti",
+            "word_native_transliteration": {
+                "bn": "বায়োডাইভারসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🦋",
+            "meaning": "The variety of life in the world or in a particular habitat or ecosystem.",
+            "example_sentence": "Protecting biodiversity is crucial for maintaining ecosystems.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোটেক্টিং বায়োডাইভারসিটি ইজ ক্রুশিয়াল ফর মেইনটেইনিং ইকোসিস্টেমস।"
+            },
+            "position": 6,
+            "synonyms": "variety, diversity, biological diversity",
+            "antonyms": "homogeneity, uniformity, similarity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জীববৈচিত্র্য",
+                    "word_transliteration": "jibboichitryo",
+                    "example_sentence_translation": "জীববৈচিত্র্য রক্ষা করা বাস্তুতন্ত্র বজায় রাখার জন্য গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Jibboichitryo rokkha kora bastutontro bojay rakhar jonyo guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "raw materials",
+            "phonetic": "rɔː mətɪˈrɪəlz",
+            "word_native_transliteration": {
+                "bn": "র মেটেরিয়ালস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧱",
+            "meaning": "The basic material from which a product is made.",
+            "example_sentence": "The factory imports raw materials for production.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফ্যাক্টরি ইমপোর্টস র মেটেরিয়ালস ফর প্রোডাকশন।"
+            },
+            "position": 7,
+            "synonyms": "resources, unprocessed goods, natural resources",
+            "antonyms": "finished goods, manufactured products, processed materials",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কাঁচামাল",
+                    "word_transliteration": "kachamal",
+                    "example_sentence_translation": "কারখানাটি উৎপাদনের জন্য কাঁচামাল আমদানি করে।",
+                    "example_sentence_transliteration": "Karkhana-ti utpadoner jonyo kachamal amdani kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "economy",
+            "phonetic": "ɪˈkɒnəmi",
+            "word_native_transliteration": {
+                "bn": "ইকোনমি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "The wealth and resources of a country or region.",
+            "example_sentence": "The global economy is recovering after the pandemic.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গ্লোবাল ইকোনমি ইজ রিকাভারিং আফটার দ্য প্যান্ডেমিক।"
+            },
+            "position": 8,
+            "synonyms": "market, financial system, trade system",
+            "antonyms": "poverty, recession, depression",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অর্থনীতি",
+                    "word_transliteration": "orthoniti",
+                    "example_sentence_translation": "মহামারির পর বৈশ্বিক অর্থনীতি পুনরুদ্ধার হচ্ছে।",
+                    "example_sentence_transliteration": "Mohamarir por boishbik orthoniti punoruddhar hochche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "exploitation",
+            "phonetic": "ˌɛksplɔɪˈteɪʃən",
+            "word_native_transliteration": {
+                "bn": "এক্সপ্লয়টেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚠️",
+            "meaning": "The action of making use of and benefiting from resources.",
+            "example_sentence": "The exploitation of workers for low wages is a serious issue.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এক্সপ্লয়টেশন অব ওয়ার্কারস ফর লো ওয়েজেস ইজ এ সিরিয়াস ইস্যু।"
+            },
+            "position": 9,
+            "synonyms": "abuse, misuse, manipulation",
+            "antonyms": "protection, conservation, preservation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শোষণ",
+                    "word_transliteration": "shoshon",
+                    "example_sentence_translation": "কম মজুরিতে শ্রমিকদের শোষণ একটি গুরুতর সমস্যা।",
+                    "example_sentence_transliteration": "Kom mojurite shromikder shoshon ekti gurutor shomoshya.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "externalities",
+            "phonetic": "ˌɛkstərˈnælɪtiz",
+            "word_native_transliteration": {
+                "bn": "এক্সটারনালিটিজ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌊",
+            "meaning": "A side effect or consequence of an industrial or commercial activity.",
+            "example_sentence": "Pollution is a negative externality of industrialization.",
+            "example_sentence_native_transliteration": {
+                "bn": "পলুশন ইজ এ নেগেটিভ এক্সটারনালিটি অব ইন্ডাস্ট্রিয়ালাইজেশন।"
+            },
+            "position": 10,
+            "synonyms": "side effects, consequences, impacts",
+            "antonyms": "internalities, benefits, advantages",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাইরের প্রভাব",
+                    "word_transliteration": "bairer prabhab",
+                    "example_sentence_translation": "দূষণ শিল্পায়নের একটি নেতিবাচক বাইরের প্রভাব।",
+                    "example_sentence_transliteration": "Dushon shilpayoner ekti netibachok bairer prabhab.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ecological",
+            "phonetic": "ˌiːkəˈlɒdʒɪkəl",
+            "word_native_transliteration": {
+                "bn": "ইকোলজিক্যাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌍",
+            "meaning": "Relating to ecology or the environment.",
+            "example_sentence": "Deforestation threatens the ecological balance of the planet.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডেফরেস্টেশন থ্রেটেনস দ্য ইকোলজিক্যাল ব্যালান্স অব দ্য প্ল্যানেট।"
+            },
+            "position": 11,
+            "synonyms": "environmental balance, ecological equilibrium, ecosystem stability",
+            "antonyms": "ecological imbalance, disruption, degradation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাস্তুতান্ত্রিক ভারসাম্য",
+                    "word_transliteration": "bastutantrik bharsamyo",
+                    "example_sentence_translation": "বনাঞ্চল ধ্বংস বিশ্বগ্রহের বাস্তুতান্ত্রিক ভারসাম্যকে হুমকির মুখে ফেলে।",
+                    "example_sentence_transliteration": "Bonanchol dhongso bishbograher bastutantrik bharsamyoke humkir mukhe fele.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sustainability",
+            "phonetic": "səsˌteɪnəˈbɪləti",
+            "word_native_transliteration": {
+                "bn": "সাসটেইনেবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "♻️",
+            "meaning": "The ability to be maintained at a certain rate or level.",
+            "example_sentence": "Sustainability is important for the long-term health of our planet.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাসটেইনেবিলিটি ইজ ইমপর্ট্যান্ট ফর দ্য লং-টার্ম হেলথ অব আওয়ার প্ল্যানেট।"
+            },
+            "position": 12,
+            "synonyms": "durability, viability, endurance",
+            "antonyms": "unsustainability, depletion, exhaustion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "টেকসইতা",
+                    "word_transliteration": "tekshoita",
+                    "example_sentence_translation": "টেকসইতা আমাদের পৃথিবীর দীর্ঘমেয়াদী স্বাস্থ্য বজায় রাখতে গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Tekshoita amader prithibir dirgho-meyadi shasthyo bojay rakhte guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "reforestation",
+            "phonetic": "ˌriːfɔːrɪˈsteɪʃən",
+            "word_native_transliteration": {
+                "bn": "রিফরেস্টেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌱",
+            "meaning": "The process of replanting an area with trees.",
+            "example_sentence": "Reforestation helps combat climate change by absorbing carbon.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিফরেস্টেশন হেলপস কমব্যাট ক্লাইমেট চেঞ্জ বাই অ্যাবজর্বিং কার্বন।"
+            },
+            "position": 13,
+            "synonyms": "replanting, forest restoration, afforestation",
+            "antonyms": "deforestation, desertification, land degradation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বনায়ন, বন পুনঃস্থাপন",
+                    "word_transliteration": "bonayon, bon punoshthapan",
+                    "example_sentence_translation": "বনায়ন কার্বন শোষণ করে জলবায়ু পরিবর্তনের মোকাবিলা করতে সহায়ক।",
+                    "example_sentence_transliteration": "Bonayon carbon shoshon kore jolobayu poribortonер mokabila korte shohayok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "conservation",
+            "phonetic": "ˌkɒnsəˈveɪʃən",
+            "word_native_transliteration": {
+                "bn": "কনসারভেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛡️",
+            "meaning": "The action of conserving something, in particular.",
+            "example_sentence": "Conservation of wildlife is essential for maintaining biodiversity.",
+            "example_sentence_native_transliteration": {
+                "bn": "কনসারভেশন অব ওয়াইল্ডলাইফ ইজ এসেনশিয়াল ফর মেইনটেইনিং বায়োডাইভারসিটি।"
+            },
+            "position": 14,
+            "synonyms": "preservation, protection, maintenance",
+            "antonyms": "destruction, depletion, waste",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংরক্ষণ, রক্ষা",
+                    "word_transliteration": "shongrokkhon, rokkha",
+                    "example_sentence_translation": "বন্যপ্রাণী সংরক্ষণ জীববৈচিত্র্য বজায় রাখার জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Bonnyoprani shongrokkhon jibboichitryo bojay rakhar jonyo oporihairyo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sequester",
+            "phonetic": "sɪˈkwɛstər",
+            "word_native_transliteration": {
+                "bn": "সিকুয়েস্টার"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔒",
+            "meaning": "To isolate or hide away.",
+            "example_sentence": "The carbon captured by trees can be sequestered for years.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কার্বন ক্যাপচার্ড বাই ট্রিজ ক্যান বি সিকুয়েস্টার্ড ফর ইয়ারস।"
+            },
+            "position": 15,
+            "synonyms": "isolate, seclude, segregate",
+            "antonyms": "unite, join, integrate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আলাদা করা, পৃথক করা",
+                    "word_transliteration": "alada kora, prithok kora",
+                    "example_sentence_translation": "গাছগুলো দ্বারা ধরা কার্বন বছরের পর বছর সংরক্ষণ করা যেতে পারে।",
+                    "example_sentence_transliteration": "Gachgulo dwara dhora carbon bochhorer por bochor shongrokkhon kora jete pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "carbon",
+            "phonetic": "ˈkɑːbən",
+            "word_native_transliteration": {
+                "bn": "কার্বন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚫",
+            "meaning": "The chemical element of atomic number 6.",
+            "example_sentence": "Carbon is essential for life on Earth.",
+            "example_sentence_native_transliteration": {
+                "bn": "কার্বন ইজ এসেনশিয়াল ফর লাইফ অন আর্থ।"
+            },
+            "position": 16,
+            "synonyms": "element, gas, compound",
+            "antonyms": "oxygen, nitrogen, helium",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একটি মৌলিক উপাদান",
+                    "word_transliteration": "ekti moulik upodan",
+                    "example_sentence_translation": "কার্বন পৃথিবীতে জীবনের জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Carbon prithibite jiboner jonyo oporihairyo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "resilience",
+            "phonetic": "rɪˈzɪlɪəns",
+            "word_native_transliteration": {
+                "bn": "রেজিলিয়েন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "The capacity to recover quickly from difficulties.",
+            "example_sentence": "Resilience is the ability to bounce back from adversity.",
+            "example_sentence_native_transliteration": {
+                "bn": "রেজিলিয়েন্স ইজ দ্য এবিলিটি টু বাউন্স ব্যাক ফ্রম অ্যাডভার্সিটি।"
+            },
+            "position": 17,
+            "synonyms": "toughness, endurance, flexibility",
+            "antonyms": "fragility, weakness, vulnerability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্থিতিস্থাপকতা, সহনশীলতা",
+                    "word_transliteration": "sthitisthapokta, shohonshilota",
+                    "example_sentence_translation": "রেজিলিয়েন্স হল প্রতিকূলতা থেকে ফিরে আসার ক্ষমতা।",
+                    "example_sentence_transliteration": "Resilience hol protikultota theke phire ashar kkhomota.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "monetization",
+            "phonetic": "ˌmɒnɪtaɪˈzeɪʃən",
+            "word_native_transliteration": {
+                "bn": "মনেটাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💵",
+            "meaning": "The process of converting or establishing something as legal tender.",
+            "example_sentence": "The company focused on the monetization of its online platform.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি ফোকাসড অন দ্য মনেটাইজেশন অব ইটস অনলাইন প্ল্যাটফর্ম।"
+            },
+            "position": 18,
+            "synonyms": "profitability, revenue generation, capitalization",
+            "antonyms": "loss, expenditure, waste",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অর্থোপার্জন, অর্থনৈতিক মূল্য",
+                    "word_transliteration": "orthoparzjon, orthonaitik mulyo",
+                    "example_sentence_translation": "কোম্পানি তার অনলাইন প্ল্যাটফর্মের অর্থোপার্জনের ওপর মনোযোগ দিয়েছে।",
+                    "example_sentence_transliteration": "Company tar online platformer orthoparzjoner opor monojog diyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "endowment",
+            "phonetic": "ɪnˈdaʊmənt",
+            "word_native_transliteration": {
+                "bn": "এন্ডাউমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎁",
+            "meaning": "An income or form of property given or bequeathed to someone.",
+            "example_sentence": "The university received a large endowment for research.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইউনিভার্সিটি রিসিভড এ লার্জ এন্ডাউমেন্ট ফর রিসার্চ।"
+            },
+            "position": 19,
+            "synonyms": "donation, grant, contribution",
+            "antonyms": "withdrawal, deprivation, subtraction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দান, উপহার",
+                    "word_transliteration": "dan, upohar",
+                    "example_sentence_translation": "বিশ্ববিদ্যালয় গবেষণার জন্য একটি বড় দান পেয়েছে।",
+                    "example_sentence_transliteration": "Bishbobidyaloy gobeshonnar jonyo ekti boro dan peyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "valuation",
+            "phonetic": "ˌvæljuˈeɪʃən",
+            "word_native_transliteration": {
+                "bn": "ভ্যালুয়েশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "An estimation of the worth of something.",
+            "example_sentence": "The valuation of the property was much higher than expected.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ভ্যালুয়েশন অব দ্য প্রপার্টি ওয়াজ মাচ হায়ার দ্যান এক্সপেক্টেড।"
+            },
+            "position": 20,
+            "synonyms": "appraisal, assessment, evaluation",
+            "antonyms": "devaluation, depreciation, decline",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মূল্যায়ন, মূল্য নির্ধারণ",
+                    "word_transliteration": "mullayon, mulyo nirdharon",
+                    "example_sentence_translation": "সম্পত্তির মূল্যায়ন প্রত্যাশার চেয়ে অনেক বেশি ছিল।",
+                    "example_sentence_transliteration": "Shompottir mullayon prottyashar cheye onek beshi chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ecosystem",
+            "phonetic": "ˈiːkəʊˌsɪstəm",
+            "word_native_transliteration": {
+                "bn": "ইকোসিস্টেম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌱",
+            "meaning": "A biological community of interacting organisms and their physical environment.",
+            "example_sentence": "Protecting ecosystems is crucial for maintaining biodiversity.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোটেক্টিং ইকোসিস্টেমস ইজ ক্রুশিয়াল ফর মেইনটেইনিং বায়োডাইভারসিটি।"
+            },
+            "position": 21,
+            "synonyms": "environment, habitat, biome",
+            "antonyms": "desert, barren land, lifeless",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাস্তুতন্ত্র",
+                    "word_transliteration": "bastutontro",
+                    "example_sentence_translation": "বাস্তুতন্ত্র সংরক্ষণ করা জীববৈচিত্র্য বজায় রাখার জন্য গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Bastutontro shongrokkhon kora jibboichitryo bojay rakhar jonyo guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

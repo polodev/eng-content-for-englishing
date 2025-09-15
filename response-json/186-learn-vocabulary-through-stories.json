@@ -1,0 +1,499 @@
+{
+    "position": 186,
+    "title_translation": {
+        "en": "The Different Types of Economies",
+        "bn": "বিভিন্ন ধরনের অর্থনীতি"
+    },
+    "content_translation": {
+        "en": "A country's **economy** depends on its **fiscal** and **monetary** policies. Generally, four types of **economy** are seen— **capitalism**, **socialism**, **mixed economy**, and **traditional economy**. **Capitalism** is a system where **laissez-faire** policy is followed, meaning the government intervenes very little. It has more **privatization** and **commodification**, which emphasizes individual ownership. On the other hand, in **socialism** the government uses **nationalization** and **redistribution** processes, so that wealth can be shared equally. Here there is more **interventionism** in the market and **subsidy** is provided in many sectors. In a **mixed economy**, **deregulation** and government **interventionism** work together, where the government operates some sectors and the private sector controls some. In **traditional economy**, generally **barter system** is prevalent, where goods and services are used as medium of exchange. Therefore, each **economic system** has its own advantages and disadvantages and appropriate policies are needed to maintain a country's **equilibrium**.",
+        "bn": "একটি দেশের **economy** তার **fiscal** এবং **monetary** নীতির ওপর নির্ভরশীল। সাধারণত চার ধরনের **economy** দেখা যায়— **capitalism**, **socialism**, **mixed economy**, এবং **traditional economy**। **Capitalism** এমন একটি পদ্ধতি যেখানে **laissez-faire** নীতি অনুসরণ করা হয়, অর্থাৎ সরকার খুব কম হস্তক্ষেপ করে। এতে **privatization** এবং **commodification** বেশি থাকে, যা ব্যক্তিগত মালিকানার ওপর গুরুত্ব দেয়। অন্যদিকে, **socialism**-এ সরকার **nationalization** এবং **redistribution** প্রক্রিয়া ব্যবহার করে, যাতে সম্পদ সমানভাবে ভাগ করা যায়। এখানে বাজারে **interventionism** বেশি থাকে এবং অনেক ক্ষেত্রেই **subsidy** প্রদান করা হয়। একটি **mixed economy** তে **deregulation** এবং সরকারি **interventionism** একসঙ্গে কাজ করে, যেখানে কিছু খাত সরকার পরিচালনা করে এবং কিছু **private sector** নিয়ন্ত্রণ করে। **Traditional economy**-তে সাধারণত **barter system** চালু থাকে, যেখানে বিনিময়ের মাধ্যম হিসেবে পণ্য ও সেবা ব্যবহার করা হয়। অতএব, প্রতিটি **economic system**-এর নিজস্ব সুবিধা ও অসুবিধা রয়েছে এবং একটি দেশের **equilibrium** বজায় রাখতে উপযুক্ত নীতির প্রয়োজন হয়।"
+    },
+    "list": [
+        {
+            "word": "economy",
+            "phonetic": "/ɪˈkɒn.ə.mi/",
+            "word_native_transliteration": {
+                "bn": "ইকনমি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💰",
+            "meaning": "The system of production, distribution, and consumption of goods and services in a country or region.",
+            "example_sentence": "The country's economy is growing rapidly.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কান্ট্রিজ ইকনমি ইজ গ্রোয়িং র্যাপিডলি।"
+            },
+            "position": 1,
+            "synonyms": "Financial System, Market, Trade",
+            "antonyms": "Stagnation, Recession, Instability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অর্থনীতি",
+                    "word_transliteration": "orthoniti",
+                    "example_sentence_translation": "দেশের অর্থনীতি দ্রুত বৃদ্ধি পাচ্ছে।",
+                    "example_sentence_transliteration": "Desher orthoniti druto briddhi pacche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fiscal",
+            "phonetic": "/ˈfɪs.kəl/",
+            "word_native_transliteration": {
+                "bn": "ফিস্কাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📊",
+            "meaning": "Related to government revenue, especially taxes and government spending.",
+            "example_sentence": "The government introduced new fiscal policies.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গভর্নমেন্ট ইন্ট্রোডিউসড নিউ ফিস্কাল পলিসিজ।"
+            },
+            "position": 2,
+            "synonyms": "Budgetary, Financial, Economic",
+            "antonyms": "Non-financial, Unrelated, Irrelevant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রাজস্ব বা সরকারি অর্থ সংক্রান্ত",
+                    "word_transliteration": "rajshob ba sorkari ortho shongkranto",
+                    "example_sentence_translation": "সরকার নতুন রাজস্ব নীতি চালু করেছে।",
+                    "example_sentence_transliteration": "Sorkar notun rajshob niti chalu koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "monetary",
+            "phonetic": "/ˈmʌn.ɪ.tri/",
+            "word_native_transliteration": {
+                "bn": "মনিটারি"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💱",
+            "meaning": "Related to money, currency, and financial control by central banks.",
+            "example_sentence": "The central bank controls monetary policy.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সেন্ট্রাল ব্যাংক কন্ট্রোলস মনিটারি পলিসি।"
+            },
+            "position": 3,
+            "synonyms": "Financial, Economic, Banking",
+            "antonyms": "Non-monetary, Barter, Non-financial",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মুদ্রা বা আর্থিক নীতি সম্পর্কিত",
+                    "word_transliteration": "mudra ba arthik niti shomporkit",
+                    "example_sentence_translation": "কেন্দ্রীয় ব্যাংক মুদ্রা নীতি নিয়ন্ত্রণ করে।",
+                    "example_sentence_transliteration": "Kendriyo bank mudra niti niyontron kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "capitalism",
+            "phonetic": "/ˈkæp.ɪ.təl.ɪ.zəm/",
+            "word_native_transliteration": {
+                "bn": "ক্যাপিটালিজম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏭",
+            "meaning": "An economic system based on private ownership and free market competition.",
+            "example_sentence": "Capitalism promotes competition and private ownership.",
+            "example_sentence_native_transliteration": {
+                "bn": "ক্যাপিটালিজম প্রোমোটস কম্পিটিশন অ্যান্ড প্রাইভেট ওনারশিপ।"
+            },
+            "position": 4,
+            "synonyms": "Free Market, Private Enterprise, Laissez-faire",
+            "antonyms": "Socialism, Communism, Collectivism",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুঁজিবাদ",
+                    "word_transliteration": "pujibad",
+                    "example_sentence_translation": "পুঁজিবাদ প্রতিযোগিতা ও ব্যক্তিগত মালিকানাকে উৎসাহিত করে।",
+                    "example_sentence_transliteration": "Pujibad protijogita o bektigoto malikanake utsahit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "socialism",
+            "phonetic": "/ˈsəʊ.ʃəl.ɪ.zəm/",
+            "word_native_transliteration": {
+                "bn": "সোশ্যালিজম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "An economic system where the means of production are owned by the state or community.",
+            "example_sentence": "In socialism, resources are distributed equally among citizens.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইন সোশ্যালিজম, রিসোর্সেস আর ডিস্ট্রিবিউটেড ইকুয়ালি অ্যামাং সিটিজেনস।"
+            },
+            "position": 5,
+            "synonyms": "Collectivism, Public Ownership, State Control",
+            "antonyms": "Capitalism, Free Market, Privatization",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সমাজতন্ত্র",
+                    "word_transliteration": "shamajtantro",
+                    "example_sentence_translation": "সমাজতন্ত্রে সম্পদ নাগরিকদের মধ্যে সমানভাবে বণ্টন করা হয়।",
+                    "example_sentence_transliteration": "Shamajtantre shompod nagorikder modhye shomanvabe bonton kora hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "mixed economy",
+            "phonetic": "/mɪkst ɪˈkɒn.ə.mi/",
+            "word_native_transliteration": {
+                "bn": "মিক্সড ইকনমি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "An economic system where both government and private sector operate together.",
+            "example_sentence": "Most countries today follow a mixed economy model.",
+            "example_sentence_native_transliteration": {
+                "bn": "মোস্ট কান্ট্রিজ টুডে ফলো এ মিক্সড ইকনমি মডেল।"
+            },
+            "position": 6,
+            "synonyms": "Hybrid System, Regulated Market, Balanced Economy",
+            "antonyms": "Pure Capitalism, Pure Socialism, Command Economy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মিশ্র অর্থনীতি",
+                    "word_transliteration": "mishro orthoniti",
+                    "example_sentence_translation": "আজকের বেশিরভাগ দেশ মিশ্র অর্থনীতি মডেল অনুসরণ করে।",
+                    "example_sentence_transliteration": "Ajker beshirvag desh mishro orthoniti model onushoron kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "traditional economy",
+            "phonetic": "/trəˈdɪʃ.ən.əl ɪˈkɒn.ə.mi/",
+            "word_native_transliteration": {
+                "bn": "ট্র্যাডিশনাল ইকনমি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌾",
+            "meaning": "An economic system based on customs and traditions, often involving barter trade.",
+            "example_sentence": "Tribes still practice a traditional economy based on barter trade.",
+            "example_sentence_native_transliteration": {
+                "bn": "ট্রাইবস স্টিল প্র্যাকটিস এ ট্র্যাডিশনাল ইকনমি বেসড অন বার্টার ট্রেড।"
+            },
+            "position": 7,
+            "synonyms": "Subsistence Economy, Barter System, Rural Economy",
+            "antonyms": "Industrial Economy, Modern Economy, Market Economy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ঐতিহ্যগত অর্থনীতি",
+                    "word_transliteration": "oitihyogoto orthoniti",
+                    "example_sentence_translation": "উপজাতিরা এখনও বিনিময় ব্যবস্থার ভিত্তিতে ঐতিহ্যগত অর্থনীতি অনুসরণ করে।",
+                    "example_sentence_transliteration": "Upojatira ekhono binimoy bebosthar vittite oitihyogoto orthoniti onushoron kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "laissez-faire",
+            "phonetic": "/ˌlɛ.seɪ ˈfɛər/",
+            "word_native_transliteration": {
+                "bn": "লেসেজ ফেয়ার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚫",
+            "meaning": "An economic policy where government does not intervene in business affairs.",
+            "example_sentence": "Laissez-faire policies encourage private enterprise.",
+            "example_sentence_native_transliteration": {
+                "bn": "লেসেজ ফেয়ার পলিসিজ এনকারেজ প্রাইভেট এন্টারপ্রাইজ।"
+            },
+            "position": 8,
+            "synonyms": "Free Market, Non-Interventionism, Hands-off Approach",
+            "antonyms": "Regulation, Government Control, Socialism",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিঃসঙ্গ অর্থনীতি নীতি",
+                    "word_transliteration": "nihshongo orthoniti niti",
+                    "example_sentence_translation": "নিঃসঙ্গ অর্থনীতি নীতিগুলি ব্যক্তিগত ব্যবসাকে উৎসাহিত করে।",
+                    "example_sentence_transliteration": "Nihshongo orthoniti nitiguli bektigoto beboshake utsahit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "privatization",
+            "phonetic": "/ˌpraɪ.və.taɪˈzeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "প্রাইভেটাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏢",
+            "meaning": "The transfer of ownership from government to private sector.",
+            "example_sentence": "The government initiated privatization of the energy sector.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গভর্নমেন্ট ইনিশিয়েটেড প্রাইভেটাইজেশন অব দ্য এনার্জি সেক্টর।"
+            },
+            "position": 9,
+            "synonyms": "Deregulation, Free Market Reform, Corporate Takeover",
+            "antonyms": "Nationalization, State Ownership, Socialization",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বেসরকারীকরণ",
+                    "word_transliteration": "beshorokarikoron",
+                    "example_sentence_translation": "সরকার শক্তি খাতের বেসরকারীকরণ শুরু করেছে।",
+                    "example_sentence_transliteration": "Shorkar shokti khater beshorokarikoron shuru koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "commodification",
+            "phonetic": "/kəˌmɒd.ɪ.fɪˈkeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "কমোডিফিকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛒",
+            "meaning": "The transformation of goods, services, ideas, or social relations into market commodities.",
+            "example_sentence": "The commodification of education has increased tuition costs.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কমোডিফিকেশন অব এডুকেশন হ্যাজ ইনক্রিজড টিউশন কস্টস।"
+            },
+            "position": 10,
+            "synonyms": "Commercialization, Marketization, Productization",
+            "antonyms": "Decommodification, Non-commercialization, Public Good",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পণ্যায়ন",
+                    "word_transliteration": "ponnyayon",
+                    "example_sentence_translation": "শিক্ষার পণ্যায়নের ফলে টিউশন ফি বেড়ে গেছে।",
+                    "example_sentence_transliteration": "Shikkhar ponnyayoner fole tuishon fi bere geche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "nationalization",
+            "phonetic": "/ˌnæʃ.ən.ə.laɪˈzeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ন্যাশনালাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏛️",
+            "meaning": "The transfer of private property or business to government ownership.",
+            "example_sentence": "The nationalization of banks increased state control over finance.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ন্যাশনালাইজেশন অব ব্যাংকস ইনক্রিজড স্টেট কন্ট্রোল ওভার ফাইন্যান্স।"
+            },
+            "position": 11,
+            "synonyms": "State Ownership, Public Control, Government Takeover",
+            "antonyms": "Privatization, Deregulation, Free Market",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জাতীয়করণ",
+                    "word_transliteration": "jatiyokoron",
+                    "example_sentence_translation": "ব্যাংকগুলোর জাতীয়করণ অর্থনীতিতে রাষ্ট্রের নিয়ন্ত্রণ বাড়িয়েছে।",
+                    "example_sentence_transliteration": "Bankgulor jatiyokoron orthonititre rastrer niyontron bariyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "redistribution",
+            "phonetic": "/ˌriː.dɪs.trɪˈbjuː.ʃən/",
+            "word_native_transliteration": {
+                "bn": "রিডিস্ট্রিবিউশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "♻️",
+            "meaning": "The sharing of wealth or resources more equally among society.",
+            "example_sentence": "The government introduced a redistribution policy to reduce inequality.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গভর্নমেন্ট ইন্ট্রোডিউসড এ রিডিস্ট্রিবিউশন পলিসি টু রিডিউস ইনইকুয়ালিটি।"
+            },
+            "position": 12,
+            "synonyms": "Reallocation, Reassignment, Reapportionment",
+            "antonyms": "Concentration, Hoarding, Retention",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুনর্বণ্টন",
+                    "word_transliteration": "punorbonton",
+                    "example_sentence_translation": "সরকার বৈষম্য কমাতে পুনর্বণ্টন নীতি চালু করেছে।",
+                    "example_sentence_transliteration": "Shorkar boishomyo komate punorbonton niti chalu koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "interventionism",
+            "phonetic": "/ˌɪn.təˈvɛn.ʃə.nɪ.zəm/",
+            "word_native_transliteration": {
+                "bn": "ইন্টারভেনশনিজম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "Government policy of active involvement in economic affairs.",
+            "example_sentence": "The central bank's interventionism helped stabilize inflation.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সেন্ট্রাল ব্যাংকস ইন্টারভেনশনিজম হেল্পড স্ট্যাবিলাইজ ইনফ্লেশন।"
+            },
+            "position": 13,
+            "synonyms": "Regulation, Government Control, Market Oversight",
+            "antonyms": "Laissez-faire, Non-intervention, Free Market",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "হস্তক্ষেপবাদ",
+                    "word_transliteration": "hostokkhepbad",
+                    "example_sentence_translation": "কেন্দ্রীয় ব্যাংকের হস্তক্ষেপবাদ মুদ্রাস্ফীতি স্থিতিশীল রাখতে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Kendriyo banker hostokkhepbad mudrasphiti stitishil rakhte shahajyo koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "subsidy",
+            "phonetic": "/ˈsʌb.sɪ.di/",
+            "word_native_transliteration": {
+                "bn": "সাবসিডি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💸",
+            "meaning": "Financial assistance provided by government to reduce costs of goods or services.",
+            "example_sentence": "The government provides a fuel subsidy to control prices.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গভর্নমেন্ট প্রোভাইডস এ ফিউয়েল সাবসিডি টু কন্ট্রোল প্রাইসেস।"
+            },
+            "position": 14,
+            "synonyms": "Grant, Financial Aid, Support",
+            "antonyms": "Taxation, Cost Increase, Cutback",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনুদান বা ভর্তুকি",
+                    "word_transliteration": "anudan ba bhortuki",
+                    "example_sentence_translation": "সরকার জ্বালানি মূল্য নিয়ন্ত্রণে ভর্তুকি প্রদান করে।",
+                    "example_sentence_transliteration": "Shorkar jwalani mulyo niyonrone bhortuki prodan kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "deregulation",
+            "phonetic": "/ˌdiː.rɛɡ.jʊˈleɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ডিরেগুলেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔓",
+            "meaning": "The removal or reduction of government rules and restrictions in business.",
+            "example_sentence": "Deregulation allows businesses to operate with fewer restrictions.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিরেগুলেশন অ্যালাউজ বিজনেসেস টু অপারেট উইথ ফিউয়ার রেস্ট্রিকশনস।"
+            },
+            "position": 15,
+            "synonyms": "Liberalization, Free Market Reform, Privatization",
+            "antonyms": "Regulation, Government Oversight, Interventionism",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিয়ন্ত্রণমুক্তকরণ",
+                    "word_transliteration": "niyontronmuktkoron",
+                    "example_sentence_translation": "নিয়ন্ত্রণমুক্তকরণ ব্যবসাগুলিকে কম বিধিনিষেধের সাথে পরিচালনা করতে দেয়।",
+                    "example_sentence_transliteration": "Niyontronmuktkoron beboshagulke kom bidhinirshedher shathe porichalona korte deoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "barter system",
+            "phonetic": "/ˈbɑːr.tər ˌsɪs.təm/",
+            "word_native_transliteration": {
+                "bn": "বার্টার সিস্টেম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "A system of exchange where goods and services are traded directly without using money.",
+            "example_sentence": "Ancient civilizations used the barter system for trade.",
+            "example_sentence_native_transliteration": {
+                "bn": "এনশিয়েন্ট সিভিলাইজেশনস ইউজড দ্য বার্টার সিস্টেম ফর ট্রেড।"
+            },
+            "position": 16,
+            "synonyms": "Exchange System, Trade-by-Barter, Swap Economy",
+            "antonyms": "Monetary System, Cash Economy, Capitalism",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিনিময় ব্যবস্থা",
+                    "word_transliteration": "binimoy bebostha",
+                    "example_sentence_translation": "প্রাচীন সভ্যতাগুলো ব্যবসার জন্য বিনিময় ব্যবস্থা ব্যবহার করত।",
+                    "example_sentence_transliteration": "Prachin shobhyotagulo beboshar jonno binimoy bebostha bebhar korot.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "economic system",
+            "phonetic": "/ˌiː.kəˈnɒm.ɪk ˈsɪs.təm/",
+            "word_native_transliteration": {
+                "bn": "ইকনমিক সিস্টেম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏗️",
+            "meaning": "The organized framework for production, distribution, and consumption of goods and services in society.",
+            "example_sentence": "Capitalism, socialism, and mixed economies are types of economic systems.",
+            "example_sentence_native_transliteration": {
+                "bn": "ক্যাপিটালিজম, সোশ্যালিজম, অ্যান্ড মিক্সড ইকনমিজ আর টাইপস অব ইকনমিক সিস্টেমস।"
+            },
+            "position": 17,
+            "synonyms": "Financial Structure, Market System, Political Economy",
+            "antonyms": "Disorder, Anarchy, Unstructured Market",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অর্থনৈতিক ব্যবস্থা",
+                    "word_transliteration": "orthnoitik bebostha",
+                    "example_sentence_translation": "পুঁজিবাদ, সমাজতন্ত্র এবং মিশ্র অর্থনীতি হল অর্থনৈতিক ব্যবস্থার ধরন।",
+                    "example_sentence_transliteration": "Pujibad, shamajtantro ebong mishro orthoniti hol orthnoitik bebosthar dhoron.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "equilibrium",
+            "phonetic": "/ˌiː.kwɪˈlɪb.ri.əm/",
+            "word_native_transliteration": {
+                "bn": "ইকুইলিব্রিয়াম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "A state of balance between economic supply and demand, or between different economic forces.",
+            "example_sentence": "The market reached equilibrium when supply met demand.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য মার্কেট রিচড ইকুইলিব্রিয়াম হোয়েন সাপ্লাই মেট ডিমান্ড।"
+            },
+            "position": 18,
+            "synonyms": "Balance, Stability, Steadiness",
+            "antonyms": "Disequilibrium, Instability, Imbalance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্থিতিশীলতা বা ভারসাম্য",
+                    "word_transliteration": "stitishilota ba bharshomyo",
+                    "example_sentence_translation": "বাজার তখনই স্থিতিশীল অবস্থায় পৌঁছায় যখন সরবরাহ ও চাহিদা সমান হয়।",
+                    "example_sentence_transliteration": "Bajar tokhoni stitishil obosthay pouchay jokhon shorboraho o chahida shoman hoy.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,526 @@
+{
+    "position": 183,
+    "title_translation": {
+        "en": "The Art of Effective Communication",
+        "bn": "কার্যকর যোগাযোগের শিল্প"
+    },
+    "content_translation": {
+        "en": "A person's **articulation** skill is one of the most important aspects of their personality. For successful communication, not only speaking is needed, but also **assimilation**, **inflection**, and **modulation** skills are required.\n\nUsing proper **rhetoric** increases the **persuasion** power of speech and has a deep impact on listeners. Moreover, when **eloquence** and **oratory** skills improve, people become capable of giving more **cogent** arguments.\n\nMany times, even when there is fluency in using **colloquial** language, wrong **connotation** can create confusion in meaning. Therefore, understanding the **nuance** of words is essential. Similarly, when the **lexicon** is enriched, **verbatim** communication becomes easier.\n\nA skilled speaker can create **consensus** and successfully carry out the **dissemination** of their words. Using **euphemism** makes even difficult messages easy to understand, which is one of the techniques of skilled communication.\n\nTherefore, skilled **communication** is not just word play, but it is a **prolific** art of expressing human thoughts and emotions.",
+        "bn": "একজন মানুষের **articulation** দক্ষতা তার ব্যক্তিত্বের অন্যতম গুরুত্বপূর্ণ দিক। সফল যোগাযোগের জন্য শুধু কথা বলা নয়, বরং **assimilation**, **inflection**, এবং **modulation** দক্ষতার প্রয়োজন হয়।\n\nসঠিক **rhetoric** ব্যবহার করলে কথার **persuasion** ক্ষমতা বাড়ে এবং শ্রোতাদের ওপর গভীর প্রভাব ফেলে। তাছাড়া, **eloquence** এবং **oratory** দক্ষতা উন্নত হলে মানুষ আরও **cogent** যুক্তি দিতে সক্ষম হয়।\n\nঅনেক সময়, **colloquial** ভাষা ব্যবহারে সাবলীলতা থাকলেও, ভুল **connotation** অর্থের বিভ্রান্তি সৃষ্টি করতে পারে। ফলে, শব্দের **nuance** বোঝা জরুরি। একইভাবে, **lexicon** সমৃদ্ধ হলে **verbatim** যোগাযোগ সহজ হয়ে যায়।\n\nএকজন দক্ষ বক্তা **consensus** তৈরি করতে পারে এবং তার কথার **dissemination** সফলভাবে ঘটাতে পারে। **Euphemism** ব্যবহার করলে কঠিন বার্তাগুলোও সহজবোধ্য হয়ে ওঠে, যা দক্ষ যোগাযোগের অন্যতম কৌশল।\n\nতাই, দক্ষ **communication** কেবল শব্দের খেলা নয়, বরং এটি মানুষের চিন্তা ও আবেগ প্রকাশের এক **prolific** শিল্প।"
+    },
+    "list": [
+        {
+            "word": "articulation",
+            "phonetic": "/ˌɑːr.tɪ.kjʊˈleɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "আর্টিকুলেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🗣️",
+            "meaning": "The clear and effective expression of thoughts, ideas, or speech; the ability to speak clearly and express oneself well.",
+            "example_sentence": "His articulation of ideas made the speech impactful.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ আর্টিকুলেশন অফ আইডিয়াজ মেইড দ্য স্পিচ ইমপ্যাক্টফুল।"
+            },
+            "position": 1,
+            "synonyms": "clarity, expression, enunciation",
+            "antonyms": "mumbling, incoherence, vagueness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্পষ্ট উচ্চারণ বা ভাব প্রকাশ",
+                    "word_transliteration": "sposhto uchcharon ba bhab prokash",
+                    "example_sentence_translation": "তার ধারণাগুলোর স্পষ্ট উচ্চারণ বক্তৃতাকে প্রভাবশালী করে তুলেছিল।",
+                    "example_sentence_transliteration": "Tar dharonagulor sposhto uchcharon boktritake probhabshali kore tulechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "assimilation",
+            "phonetic": "/əˌsɪm.ɪˈleɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "অ্যাসিমিলেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The process of absorbing and integrating new ideas, language, or culture into one's understanding.",
+            "example_sentence": "Language assimilation is easier for children than adults.",
+            "example_sentence_native_transliteration": {
+                "bn": "ল্যাঙ্গুয়েজ অ্যাসিমিলেশন ইজ ইজিয়ার ফর চিলড্রেন দ্যান অ্যাডাল্টস।"
+            },
+            "position": 2,
+            "synonyms": "integration, absorption, adaptation",
+            "antonyms": "rejection, isolation, resistance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গ্রহণ বা আত্মীকরণ",
+                    "word_transliteration": "grohon ba atmikron",
+                    "example_sentence_translation": "ভাষা আত্মীকরণ শিশুদের জন্য প্রাপ্তবয়স্কদের তুলনায় সহজ।",
+                    "example_sentence_transliteration": "Bhasha atmikron shishudor jonno praptoboyoskoder tulonay shohoj.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "inflection",
+            "phonetic": "/ɪnˈflɛk.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ইনফ্লেকশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "A change in the tone or pitch of the voice when speaking, which helps convey meaning and emotion.",
+            "example_sentence": "Her voice inflection conveyed deep emotion in the speech.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার ভয়েস ইনফ্লেকশন কনভেয়েড ডিপ ইমোশন ইন দ্য স্পিচ।"
+            },
+            "position": 3,
+            "synonyms": "intonation, modulation, tone",
+            "antonyms": "monotone, flatness, unvaried pitch",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বর পরিবর্তন বা টান",
+                    "word_transliteration": "shor poriborton ba taan",
+                    "example_sentence_translation": "তার কণ্ঠের স্বর পরিবর্তন বক্তৃতায় গভীর আবেগ প্রকাশ করেছে।",
+                    "example_sentence_transliteration": "Tar konther shor poriborton boktritay gobhir abeg prokash korechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "modulation",
+            "phonetic": "/ˌmɒd.jʊˈleɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "মড্যুলেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎵",
+            "meaning": "The natural variation and control of tone, pitch, or volume in speech or voice.",
+            "example_sentence": "Proper modulation in speaking enhances audience engagement.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রপার মড্যুলেশন ইন স্পিকিং এনহান্সেস অডিয়েন্স এনগেজমেন্ট।"
+            },
+            "position": 4,
+            "synonyms": "adjustment, variation, regulation",
+            "antonyms": "uniformity, unchanging tone, imbalance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সুর বা স্বরের নিয়ন্ত্রণ",
+                    "word_transliteration": "shur ba shorer niyontron",
+                    "example_sentence_translation": "সঠিক স্বর নিয়ন্ত্রণ শ্রোতাদের মনোযোগ আকর্ষণে সহায়তা করে।",
+                    "example_sentence_transliteration": "Shothik shor niyontron shrotader monojog akorshone shohayota kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "rhetoric",
+            "phonetic": "/ˈrɛt.ər.ɪk/",
+            "word_native_transliteration": {
+                "bn": "রেটরিক"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The art of effective or persuasive speaking or writing; skillful use of language to influence others.",
+            "example_sentence": "Political leaders often use rhetoric to influence people.",
+            "example_sentence_native_transliteration": {
+                "bn": "পলিটিক্যাল লিডারস অফেন ইউজ রেটরিক টু ইনফ্লুয়েন্স পিপল।"
+            },
+            "position": 5,
+            "synonyms": "oratory, eloquence, persuasive speech",
+            "antonyms": "simplicity, plain speaking, inarticulateness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শক্তিশালী ও প্রভাবশালী ভাষা",
+                    "word_transliteration": "shoktishali o probhabshali bhasha",
+                    "example_sentence_translation": "রাজনৈতিক নেতারা প্রায়ই মানুষকে প্রভাবিত করতে বাগ্মিতা ব্যবহার করেন।",
+                    "example_sentence_transliteration": "Rajnoitik netara prayoi manushke probhabit korte bagmita bybohar koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "persuasion",
+            "phonetic": "/pɜːˈsweɪ.ʒən/",
+            "word_native_transliteration": {
+                "bn": "পারসুয়েশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "The ability to convince someone to believe or do something through reasoning or argument.",
+            "example_sentence": "His persuasion skills helped close the business deal.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ পারসুয়েশন স্কিলস হেল্পড ক্লোজ দ্য বিজনেস ডিল।"
+            },
+            "position": 6,
+            "synonyms": "convincing, influence, argumentation",
+            "antonyms": "disbelief, discouragement, opposition",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রভাবিত করার ক্ষমতা",
+                    "word_transliteration": "probhabit korar khomota",
+                    "example_sentence_translation": "তার প্রভাবিত করার দক্ষতা ব্যবসায়িক চুক্তি সম্পন্ন করতে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Tar probhabit korar dokkhota byabshayik chuktি shomponnno korte shahajjo korechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "eloquence",
+            "phonetic": "/ˈɛl.ə.kwəns/",
+            "word_native_transliteration": {
+                "bn": "এলোকুয়েন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✨",
+            "meaning": "Fluent and persuasive speaking or writing; the ability to speak beautifully and effectively.",
+            "example_sentence": "Her eloquence made the speech captivating.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার এলোকুয়েন্স মেইড দ্য স্পিচ ক্যাপটিভেটিং।"
+            },
+            "position": 7,
+            "synonyms": "fluency, expressiveness, articulateness",
+            "antonyms": "inarticulateness, ineffectiveness, hesitation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাগ্মিতা বা সাবলীল ভাষা",
+                    "word_transliteration": "bagmita ba shablil bhasha",
+                    "example_sentence_translation": "তার বাগ্মিতা বক্তৃতাকে আকর্ষণীয় করে তুলেছিল।",
+                    "example_sentence_transliteration": "Tar bagmita boktritake akorshoniyo kore tulechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "oratory",
+            "phonetic": "/ˈɔːr.ə.tɔːr.i/",
+            "word_native_transliteration": {
+                "bn": "অরেটরি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎤",
+            "meaning": "The art of public speaking; skilled and confident delivery of speeches to an audience.",
+            "example_sentence": "His exceptional oratory skills won him the debate competition.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ এক্সেপশনাল অরেটরি স্কিলস ওয়ান হিম দ্য ডিবেট কম্পিটিশন।"
+            },
+            "position": 8,
+            "synonyms": "public speaking, rhetoric, verbal artistry",
+            "antonyms": "muteness, incoherence, poor speech",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাগ্মিতা বা জনসমক্ষে কথা বলার দক্ষতা",
+                    "word_transliteration": "bagmita ba jonshomokkhe kotha bolar dokkhota",
+                    "example_sentence_translation": "তার অসাধারণ বাগ্মিতা তাকে বিতর্ক প্রতিযোগিতায় বিজয়ী করেছে।",
+                    "example_sentence_transliteration": "Tar oshadharon bagmita take bitorko protijogitay bijoyi korechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cogent",
+            "phonetic": "/ˈkəʊ.dʒənt/",
+            "word_native_transliteration": {
+                "bn": "কোজেন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💡",
+            "meaning": "Clear, logical, and convincing; having a strong basis in reason and evidence.",
+            "example_sentence": "His cogent argument left no room for doubt.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ কোজেন্ট আর্গুমেন্ট লেফট নো রুম ফর ডাউট।"
+            },
+            "position": 9,
+            "synonyms": "convincing, logical, persuasive",
+            "antonyms": "weak, illogical, unconvincing",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "যুক্তিসঙ্গত ও বিশ্বাসযোগ্য",
+                    "word_transliteration": "juktishongot o bishwashjoggyo",
+                    "example_sentence_translation": "তার যুক্তিসঙ্গত বক্তব্য সন্দেহের অবকাশ রাখেনি।",
+                    "example_sentence_transliteration": "Tar juktishongot boktobyo shondeher obokash rakheni.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "colloquial",
+            "phonetic": "/kəˈləʊ.kwi.əl/",
+            "word_native_transliteration": {
+                "bn": "কলোকুয়িয়াল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💬",
+            "meaning": "Used in ordinary conversation rather than formal speech or writing; informal language.",
+            "example_sentence": "His colloquial expressions made the speech relatable.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ কলোকুয়িয়াল এক্সপ্রেশনস মেইড দ্য স্পিচ রিলেটেবল।"
+            },
+            "position": 10,
+            "synonyms": "informal, conversational, vernacular",
+            "antonyms": "formal, literary, standard",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সাধারণ কথাবার্তা বা চলিত ভাষা",
+                    "word_transliteration": "shadharon kothabarta ba cholit bhasha",
+                    "example_sentence_translation": "তার চলিত ভাষার ব্যবহার বক্তৃতাকে সহজবোধ্য করে তুলেছিল।",
+                    "example_sentence_transliteration": "Tar cholit bashar bybohar boktritake shohojbodhyo kore tulechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "connotation",
+            "phonetic": "/ˌkɒn.əˈteɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "কনোটেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔍",
+            "meaning": "An implied or suggested meaning of a word or phrase, beyond its literal definition.",
+            "example_sentence": "The word \"home\" has a warm connotation of comfort and safety.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ওয়ার্ড 'হোম' হ্যাজ এ ওয়ার্ম কনোটেশন অফ কমফোর্ট অ্যান্ড সেফটি।"
+            },
+            "position": 11,
+            "synonyms": "implication, undertone, hidden meaning",
+            "antonyms": "denotation, literal meaning, explicitness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অর্থের পার্শ্বপ্রভাব বা গূঢ় অর্থ",
+                    "word_transliteration": "orther parshoprobhab ba gudho ortho",
+                    "example_sentence_translation": "\"Home\" শব্দের অর্থের মধ্যে আরাম ও নিরাপত্তার অনুভূতি রয়েছে।",
+                    "example_sentence_transliteration": "'Home' shobder orther modhye aram o nirapottar onubhuti royechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "nuance",
+            "phonetic": "/ˈnuː.ɑːns/",
+            "word_native_transliteration": {
+                "bn": "নুয়ান্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎨",
+            "meaning": "A subtle difference in expression, meaning, or response; a slight variation in tone or feeling.",
+            "example_sentence": "Understanding the nuance of different accents takes practice.",
+            "example_sentence_native_transliteration": {
+                "bn": "আন্ডারস্ট্যান্ডিং দ্য নুয়ান্স অফ ডিফারেন্ট অ্যাক্সেন্টস টেকস প্র্যাকটিস।"
+            },
+            "position": 12,
+            "synonyms": "subtlety, distinction, refinement",
+            "antonyms": "obviousness, simplicity, bluntness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সূক্ষ্ম পার্থক্য বা সংবেদনশীলতা",
+                    "word_transliteration": "shukkho parthokko ba shongbedonshhilota",
+                    "example_sentence_translation": "বিভিন্ন উচ্চারণের সূক্ষ্ম পার্থক্য বোঝার জন্য অনুশীলন প্রয়োজন।",
+                    "example_sentence_transliteration": "Bibhinno uchchoroner shukkho parthokko bojhar jonno onushilon proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "lexicon",
+            "phonetic": "/ˈlɛk.sɪ.kɒn/",
+            "word_native_transliteration": {
+                "bn": "লেক্সিকন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📚",
+            "meaning": "The vocabulary of a person, language, or branch of knowledge; a collection of words and terms.",
+            "example_sentence": "A translator must have a vast lexicon of both languages.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ ট্রান্সলেটর মাস্ট হ্যাভ এ ভাস্ট লেক্সিকন অফ বোথ ল্যাঙ্গুয়েজেস।"
+            },
+            "position": 13,
+            "synonyms": "vocabulary, dictionary, terminology",
+            "antonyms": "illiteracy, lack of words, silence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শব্দভাণ্ডার বা নির্দিষ্ট বিষয়ের শব্দ সংগ্রহ",
+                    "word_transliteration": "shobdabhandar ba nirdishto bishoyher shobdo shonggroho",
+                    "example_sentence_translation": "একজন অনুবাদককে উভয় ভাষার বিশাল শব্দভাণ্ডার জানতে হয়।",
+                    "example_sentence_transliteration": "Ekjon onubadokke ubhoy bashar bishal shobdabhandar jante hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "verbatim",
+            "phonetic": "/vɜːˈbeɪ.tɪm/",
+            "word_native_transliteration": {
+                "bn": "ভার্বেটিম"
+            },
+            "parts_of_speech": "adverb/adjective",
+            "emoji": "📝",
+            "meaning": "In exactly the same words as were used originally; word for word repetition.",
+            "example_sentence": "She repeated his instructions verbatim to avoid errors.",
+            "example_sentence_native_transliteration": {
+                "bn": "শী রিপিটেড হিজ ইনস্ট্রাকশনস ভার্বেটিম টু অ্যাভয়েড এররস।"
+            },
+            "position": 14,
+            "synonyms": "word-for-word, exact, literal",
+            "antonyms": "paraphrased, summarized, altered",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শব্দশঃ বা হুবহু",
+                    "word_transliteration": "shobdosho ba hubhu",
+                    "example_sentence_translation": "তিনি ভুল এড়াতে তার নির্দেশনাগুলো হুবহু পুনরাবৃত্তি করেছিলেন।",
+                    "example_sentence_transliteration": "Tini bhul edate tar nirdeshonagulo hubhu punorabritti korechhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "consensus",
+            "phonetic": "/kənˈsɛns.əs/",
+            "word_native_transliteration": {
+                "bn": "কনসেনসাস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "A general agreement or common opinion reached by a group; unanimous decision or shared view.",
+            "example_sentence": "The team reached a consensus on the project deadline.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য টিম রিচড এ কনসেনসাস অন দ্য প্রজেক্ট ডেডলাইন।"
+            },
+            "position": 15,
+            "synonyms": "agreement, accord, unity",
+            "antonyms": "disagreement, discord, dissent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ঐক্যমত বা সম্মিলিত সিদ্ধান্ত",
+                    "word_transliteration": "oikkomotь ba shommilito shiddhanto",
+                    "example_sentence_translation": "দলটি প্রকল্পের সময়সীমা নিয়ে একটি সম্মিলিত সিদ্ধান্তে পৌঁছেছে।",
+                    "example_sentence_transliteration": "Dolti prokolfeer shomoyshima niye ekti shommilito shiddhante pounchechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dissemination",
+            "phonetic": "/dɪˌsɛm.ɪˈneɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ডিসেমিনেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📡",
+            "meaning": "The action of spreading information, knowledge, or ideas widely; distribution or circulation.",
+            "example_sentence": "The dissemination of information through social media is rapid.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডিসেমিনেশন অফ ইনফরমেশন থ্রু সোশ্যাল মিডিয়া ইজ র‍্যাপিড।"
+            },
+            "position": 16,
+            "synonyms": "distribution, spreading, circulation",
+            "antonyms": "suppression, concealment, withholding",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রচার বা বিস্তার",
+                    "word_transliteration": "prochar ba bistar",
+                    "example_sentence_translation": "সামাজিক মাধ্যমে তথ্যের প্রচার খুব দ্রুত হয়।",
+                    "example_sentence_transliteration": "Shamajik madhyome tothyer prochar khub druto hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "euphemism",
+            "phonetic": "/ˈjuː.fə.mɪ.zəm/",
+            "word_native_transliteration": {
+                "bn": "ইউফেমিজম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌸",
+            "meaning": "A mild or indirect term substituted for one considered too harsh or direct; polite expression for something unpleasant.",
+            "example_sentence": "The phrase \"passed away\" is a euphemism for \"died\".",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফ্রেজ 'পাসড অ্যাওয়ে' ইজ এ ইউফেমিজম ফর 'ডাইড'।"
+            },
+            "position": 17,
+            "synonyms": "politeness, indirect expression, softened term",
+            "antonyms": "bluntness, harshness, directness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শ্রুতিকটু শব্দের পরিবর্তে কোমল শব্দ ব্যবহার",
+                    "word_transliteration": "shrutikotu shobder poribortey komol shobdo bybohar",
+                    "example_sentence_translation": "\"Passed away\" শব্দগুচ্ছ \"Died\" শব্দের একটি কোমল রূপ।",
+                    "example_sentence_transliteration": "'Passed away' shobdoguchho 'Died' shobder ekti komol rup.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "communication",
+            "phonetic": "/kəˌmjuː.nɪˈkeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "কমিউনিকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💬",
+            "meaning": "The exchange of information, ideas, or feelings between people; the act of conveying meaning.",
+            "example_sentence": "Effective communication is key to building strong relationships.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইফেক্টিভ কমিউনিকেশন ইজ কি টু বিল্ডিং স্ট্রং রিলেশনশিপস।"
+            },
+            "position": 18,
+            "synonyms": "interaction, expression, conveyance",
+            "antonyms": "miscommunication, silence, isolation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "যোগাযোগ বা তথ্য আদান-প্রদান",
+                    "word_transliteration": "jogajog ba tothyo adan-prodan",
+                    "example_sentence_translation": "কার্যকর যোগাযোগ শক্তিশালী সম্পর্ক গঠনের মূল চাবিকাঠি।",
+                    "example_sentence_transliteration": "Karjokor jogajog shoktishali sompork gothoner mul chabikathi.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "prolific",
+            "phonetic": "/prəˈlɪf.ɪk/",
+            "word_native_transliteration": {
+                "bn": "প্রোলিফিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌱",
+            "meaning": "Present in large numbers or quantities; plentiful; producing many works, results, or offspring.",
+            "example_sentence": "The author is a prolific writer, publishing multiple books yearly.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অথর ইজ এ প্রোলিফিক রাইটার, পাবলিশিং মাল্টিপল বুকস ইয়ার্লি।"
+            },
+            "position": 19,
+            "synonyms": "productive, creative, abundant",
+            "antonyms": "unproductive, inefficient, scarce",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উৎপাদনশীল বা সৃজনশীল",
+                    "word_transliteration": "utpadonshhil ba srijonshil",
+                    "example_sentence_translation": "লেখক একজন উৎপাদনশীল ব্যক্তি, প্রতি বছর একাধিক বই প্রকাশ করেন।",
+                    "example_sentence_transliteration": "Lekhok ekjon utpadonshhil byakti, proti bochhor ekadhik boi prokash koren.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

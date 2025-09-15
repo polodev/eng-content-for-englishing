@@ -1,0 +1,472 @@
+{
+    "position": 184,
+    "title_translation": {
+        "en": "The Challenges of Freelancing Career",
+        "bn": "ফ্রিল্যান্সিং ক্যারিয়ারের চ্যালেঞ্জসমূহ"
+    },
+    "content_translation": {
+        "en": "Freelancing is an **arduous** journey where new **challenges** emerge every day. There is a lot of **unpredictability** in a freelancer's work, and one has to cope with **vicissitude**. Expectations from clients are never clear, which creates **ambivalence**.\n\n**Time management** is a big problem for freelancers, because often **procrastination** or delays **exacerbate** the pace of work. Without proper **discretion**, on one hand too much work pressure comes, on the other hand **lackluster** **presentation** faces **scrutiny**.\n\nHowever, there are many possibilities with **solitude** and **freedom** in freelancing life. A **maverick** by nature moves forward naturally without **subjugating** oneself through one's work. Through **perseverance** and **finesse**, a freelancer can succeed, but for this constant effort and attention to every aspect is necessary.",
+        "bn": "ফ্রিল্যান্সিং একটি **arduous** যাত্রা, যেখানে প্রতিদিন নতুন **challenges** সামনে আসে। একজন ফ্রিল্যান্সারের কাজের মধ্যে **unpredictability** অনেক বেশি, এবং **vicissitude** এর সাথে মানিয়ে চলতে হয়। ক্লায়েন্টের থেকে প্রত্যাশা কখনো স্পষ্ট থাকে না, যা **ambivalence** তৈরি করে।\n\nফ্রিল্যান্সারের জন্য সময়ের ব্যবস্থাপনা একটি বড় সমস্যা, কারণ অনেক সময় **procrastination** বা টালমাটাল অবস্থা কাজের গতি **exacerbate** করে। সঠিক **discretion** না থাকলে, একদিকে যেমন অতিরিক্ত কাজের চাপ চলে আসে, অন্যদিকে **lackluster** প্রেজেন্টেশন থেকে **scrutiny** এর মুখোমুখি হতে হয়।\n\nতবে, ফ্রিল্যান্সিং জীবনে **solitude** এবং **freedom** নিয়ে অনেক সম্ভাবনা থাকে। একজন **maverick** প্রকৃতিগতভাবে নিজের কাজের মাধ্যমে নিজেকে **subjugate** না করেই এগিয়ে চলে। **Perseverance** এবং **finesse** এর মাধ্যমে একজন ফ্রিল্যান্সার সফল হতে পারে, তবে এজন্য নিরলস পরিশ্রম এবং প্রতিটি দিকের প্রতি নজর রাখা জরুরি।"
+    },
+    "list": [
+        {
+            "word": "arduous",
+            "phonetic": "/ˈɑːdjuəs/",
+            "word_native_transliteration": {
+                "bn": "আর্দিউয়াস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⛰️",
+            "meaning": "Involving or requiring strenuous effort; difficult and tiring.",
+            "example_sentence": "The journey to success was long and arduous.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য জার্নি টু সাকসেস ওয়াস লং অ্যান্ড আর্দিউয়াস।"
+            },
+            "position": 1,
+            "synonyms": "difficult, exhausting, demanding, challenging",
+            "antonyms": "easy, simple, effortless, straightforward",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কষ্টকর",
+                    "word_transliteration": "koshtokoro",
+                    "example_sentence_translation": "সাফল্যের পথে যাত্রা দীর্ঘ এবং কষ্টকর ছিল।",
+                    "example_sentence_transliteration": "Shafollyer pothe jatra dirgho ebong koshtokoro chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "challenges",
+            "phonetic": "/ˈtʃælɪndʒɪz/",
+            "word_native_transliteration": {
+                "bn": "চ্যালেঞ্জেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "Difficult tasks or situations that test someone's abilities or resources.",
+            "example_sentence": "Overcoming challenges is the key to personal growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওভারকামিং চ্যালেঞ্জেস ইজ দ্য কি টু পার্সোনাল গ্রোথ।"
+            },
+            "position": 2,
+            "synonyms": "obstacles, hurdles, difficulties, problems",
+            "antonyms": "solutions, answers, aids, helps",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চ্যালেঞ্জ",
+                    "word_transliteration": "challenge",
+                    "example_sentence_translation": "চ্যালেঞ্জগুলো অতিক্রম করা ব্যক্তিগত উন্নতির চাবিকাঠি।",
+                    "example_sentence_transliteration": "Challengegulo otikrom kora byoktigoto unnotiir chabikathi.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "unpredictability",
+            "phonetic": "/ˌʌnprɪˈdɪktəˌbɪləti/",
+            "word_native_transliteration": {
+                "bn": "আনপ্রেডিক্টাবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎲",
+            "meaning": "The quality of being impossible to predict or anticipate.",
+            "example_sentence": "The unpredictability of the weather made the trip uncertain.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য আনপ্রেডিক্টাবিলিটি অব দ্য ওয়েদার মেইড দ্য ট্রিপ আনসার্টেইন।"
+            },
+            "position": 3,
+            "synonyms": "uncertainty, instability, variability",
+            "antonyms": "predictability, certainty, stability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অপ্রত্যাশিততা",
+                    "word_transliteration": "oprotyashitota",
+                    "example_sentence_translation": "আবহাওয়ার অপ্রত্যাশিততা সফরকে অনিশ্চিত করে দিয়েছিল।",
+                    "example_sentence_transliteration": "Abhaowyer oprotyashitota shoforke onishchito kore diyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "vicissitude",
+            "phonetic": "/vɪˈsɪsɪtjuːd/",
+            "word_native_transliteration": {
+                "bn": "ভিসিসিটিউড"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎢",
+            "meaning": "A natural change or succession of one thing to another; the ups and downs of life.",
+            "example_sentence": "The vicissitude of life often teaches resilience.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ভিসিসিটিউড অব লাইফ অফটেন টিচেস রেজিলিয়েন্স।"
+            },
+            "position": 4,
+            "synonyms": "fluctuations, variability, changes",
+            "antonyms": "consistency, stability, permanence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জীবনের পরিবর্তনশীলতা",
+                    "word_transliteration": "jiboner poribortonsheelota",
+                    "example_sentence_translation": "জীবনের পরিবর্তনশীলতা প্রায়ই স্থিতিস্থাপকতা শেখায়।",
+                    "example_sentence_transliteration": "Jiboner poribortonsheelota prayoi sthitisthapokota shekhay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ambivalence",
+            "phonetic": "/æmˈbɪvələns/",
+            "word_native_transliteration": {
+                "bn": "অ্যামবিভ্যালেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤔",
+            "meaning": "The state of having mixed feelings or contradictory ideas about something or someone.",
+            "example_sentence": "She felt ambivalence about making a final decision.",
+            "example_sentence_native_transliteration": {
+                "bn": "শী ফেল্ট অ্যামবিভ্যালেন্স অ্যাবাউট মেকিং এ ফাইনাল ডিসিশন।"
+            },
+            "position": 5,
+            "synonyms": "uncertainty, hesitation, doubt",
+            "antonyms": "certainty, clarity, decisiveness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্বন্দ্ব",
+                    "word_transliteration": "dhondho",
+                    "example_sentence_translation": "তিনি চূড়ান্ত সিদ্ধান্ত নেওয়ার বিষয়ে দ্বন্দ্ব অনুভব করেছিলেন।",
+                    "example_sentence_transliteration": "Tini churanto siddhanto newar bishoy-e dhondho onubhob korechhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "procrastination",
+            "phonetic": "/prəˌkræstɪˈneɪʃən/",
+            "word_native_transliteration": {
+                "bn": "প্রোক্রাস্টিনেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⏰",
+            "meaning": "The action of delaying or postponing something.",
+            "example_sentence": "Procrastination can negatively affect your goals.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোক্রাস্টিনেশন ক্যান নেগেটিভলি অ্যাফেক্ট ইয়োর গোলস।"
+            },
+            "position": 6,
+            "synonyms": "delay, dilly-dallying, postponement",
+            "antonyms": "promptness, punctuality, immediacy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্থগিতকরণ",
+                    "word_transliteration": "sthogitkoron",
+                    "example_sentence_translation": "স্থগিতকরণ আপনার লক্ষ্যগুলিকে নেতিবাচকভাবে প্রভাবিত করতে পারে।",
+                    "example_sentence_transliteration": "Sthogitkoron apnar lokkhoguloke netibachokbhabe probhabito korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "exacerbate",
+            "phonetic": "/ɪɡˈzæsəbeɪt/",
+            "word_native_transliteration": {
+                "bn": "এক্সাসারবেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📈",
+            "meaning": "To make a problem, bad situation, or negative feeling worse.",
+            "example_sentence": "His actions only served to exacerbate the problem.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ অ্যাকশনস অনলি সার্ভড টু এক্সাসারবেট দ্য প্রবলেম।"
+            },
+            "position": 7,
+            "synonyms": "aggravate, intensify, worsen",
+            "antonyms": "alleviate, soothe, improve",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আরও খারাপ করা",
+                    "word_transliteration": "aro kharap kora",
+                    "example_sentence_translation": "তার কাজগুলি কেবল সমস্যা আরও খারাপ করে তুলেছিল।",
+                    "example_sentence_transliteration": "Tar kajguli kebol shomoshya aro kharap kore tulechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "discretion",
+            "phonetic": "/dɪˈskrɛʃən/",
+            "word_native_transliteration": {
+                "bn": "ডিসক্রেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "The quality of behaving or speaking in such a way as to avoid causing offense or revealing private information.",
+            "example_sentence": "Use discretion when making important decisions.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইউজ ডিসক্রেশন হোয়েন মেকিং ইমপরটেন্ট ডিসিশনস।"
+            },
+            "position": 8,
+            "synonyms": "judgment, prudence, wisdom",
+            "antonyms": "carelessness, impulsiveness, recklessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিচক্ষণতা",
+                    "word_transliteration": "bichokkhonota",
+                    "example_sentence_translation": "গুরুত্বপূর্ণ সিদ্ধান্ত নেয়ার সময় বিচক্ষণতা ব্যবহার করুন।",
+                    "example_sentence_transliteration": "Guruttopoorno siddhanto newar shomoy bichokkhonota bybohar korun.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "lackluster",
+            "phonetic": "/ˈlækˌlʌstər/",
+            "word_native_transliteration": {
+                "bn": "ল্যাকলাস্টার"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "😴",
+            "meaning": "Lacking in vitality, force, or conviction; uninspired or uninspiring.",
+            "example_sentence": "The lackluster performance disappointed the audience.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ল্যাকলাস্টার পারফরমেন্স ডিসঅ্যাপয়েন্টেড দ্য অডিয়েন্স।"
+            },
+            "position": 9,
+            "synonyms": "dull, uninspiring, mediocre",
+            "antonyms": "vibrant, enthusiastic, inspiring",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিষ্প্রভ",
+                    "word_transliteration": "nisprob",
+                    "example_sentence_translation": "নিষ্প্রভ পারফরম্যান্স দর্শকদের হতাশ করেছে।",
+                    "example_sentence_transliteration": "Nisprob performance dorshokder hotash korechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "presentation",
+            "phonetic": "/ˌprezənˈteɪʃən/",
+            "word_native_transliteration": {
+                "bn": "প্রেজেন্টেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "The manner or style in which something is given, offered, or displayed.",
+            "example_sentence": "The presentation of the new product was well received.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রেজেন্টেশন অব দ্য নিউ প্রোডাক্ট ওয়াস ওয়েল রিসিভড।"
+            },
+            "position": 10,
+            "synonyms": "demonstration, display, exhibition",
+            "antonyms": "concealment, hiding, withholding",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উপস্থাপনা",
+                    "word_transliteration": "uposthapona",
+                    "example_sentence_translation": "নতুন পণ্যের উপস্থাপনা ভালভাবে গ্রহণ করা হয়েছে।",
+                    "example_sentence_transliteration": "Notun ponyer uposthapona bhalbhabe grahon kora hoyechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "scrutiny",
+            "phonetic": "/ˈskruːtɪni/",
+            "word_native_transliteration": {
+                "bn": "স্ক্রুটিনি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔍",
+            "meaning": "Critical observation or examination.",
+            "example_sentence": "The proposal is under intense scrutiny by the committee.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রোপোসাল ইজ আন্ডার ইনটেন্স স্ক্রুটিনি বাই দ্য কমিটি।"
+            },
+            "position": 11,
+            "synonyms": "examination, inspection, analysis",
+            "antonyms": "overlook, neglect, ignore",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিশদভাবে পর্যালোচনা",
+                    "word_transliteration": "bishodbhabe poryalochona",
+                    "example_sentence_translation": "প্রস্তাবনাটি কমিটির দ্বারা গভীরভাবে পর্যালোচনা করা হচ্ছে।",
+                    "example_sentence_transliteration": "Prostabonati komitir dwara gohirbhabe poryalochona kora hochhhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "solitude",
+            "phonetic": "/ˈsɒlɪtjuːd/",
+            "word_native_transliteration": {
+                "bn": "সোলিটিউড"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏔️",
+            "meaning": "The state or situation of being alone.",
+            "example_sentence": "Solitude can provide the opportunity for deep reflection.",
+            "example_sentence_native_transliteration": {
+                "bn": "সোলিটিউড ক্যান প্রোভাইড দ্য অপরচুনিটি ফর ডিপ রিফ্লেকশন।"
+            },
+            "position": 12,
+            "synonyms": "isolation, seclusion, loneliness",
+            "antonyms": "company, companionship, society",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একাকীত্ব",
+                    "word_transliteration": "ekakitto",
+                    "example_sentence_translation": "একাকীত্ব গভীর প্রতিফলনের সুযোগ প্রদান করতে পারে।",
+                    "example_sentence_transliteration": "Ekakitto gohir protifoloner shujog prodan korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "freedom",
+            "phonetic": "/ˈfriːdəm/",
+            "word_native_transliteration": {
+                "bn": "ফ্রিডম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🕊️",
+            "meaning": "The power or right to act, speak, or think as one wants without hindrance or restraint.",
+            "example_sentence": "Freedom is a fundamental right for every individual.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফ্রিডম ইজ এ ফান্ডামেন্টাল রাইট ফর এভরি ইন্ডিভিজুয়াল।"
+            },
+            "position": 13,
+            "synonyms": "liberty, independence, autonomy",
+            "antonyms": "restriction, confinement, captivity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বাধীনতা",
+                    "word_transliteration": "shadhinota",
+                    "example_sentence_translation": "স্বাধীনতা প্রতিটি ব্যক্তির মৌলিক অধিকার।",
+                    "example_sentence_transliteration": "Shadhinota protiti byoktir moulik odhikar.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "maverick",
+            "phonetic": "/ˈmævərɪk/",
+            "word_native_transliteration": {
+                "bn": "ম্যাভেরিক"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🦅",
+            "meaning": "An unorthodox or independent-minded person.",
+            "example_sentence": "The maverick scientist challenged established theories.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ম্যাভেরিক সাইয়েন্টিস্ট চ্যালেঞ্জড এস্টাবলিশড থিয়োরিজ।"
+            },
+            "position": 14,
+            "synonyms": "nonconformist, rebel, individualist",
+            "antonyms": "conformist, traditionalist, follower",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিচ্ছিন্নবাদী",
+                    "word_transliteration": "bichchhinnobadi",
+                    "example_sentence_translation": "বিচ্ছিন্নবাদী বিজ্ঞানী প্রতিষ্ঠিত তত্ত্বগুলিকে চ্যালেঞ্জ করেছেন।",
+                    "example_sentence_transliteration": "Bichchhinnobadi biggani protishthito tottoguloke challenge korechhen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "subjugate",
+            "phonetic": "/ˈsʌbdʒʊˌɡeɪt/",
+            "word_native_transliteration": {
+                "bn": "সাবজুগেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⛓️",
+            "meaning": "To bring under domination or control, especially by conquest.",
+            "example_sentence": "The empire sought to subjugate the neighboring kingdoms.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এমপায়ার সট টু সাবজুগেট দ্য নেইবারিং কিংডমস।"
+            },
+            "position": 15,
+            "synonyms": "conquer, overpower, dominate",
+            "antonyms": "free, liberate, empower",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অধীন করা",
+                    "word_transliteration": "adhin kora",
+                    "example_sentence_translation": "সাম্রাজ্যটি পাশের রাজ্যগুলোকে অধীন করতে চেয়েছিল।",
+                    "example_sentence_transliteration": "Shamrajyoti pasher rajyoguloke adhin korte cheyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "perseverance",
+            "phonetic": "/ˌpɜːsɪˈvɪərəns/",
+            "word_native_transliteration": {
+                "bn": "পারসিভেরেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "Persistence in doing something despite difficulty or delay in achieving success.",
+            "example_sentence": "Perseverance in the face of challenges leads to success.",
+            "example_sentence_native_transliteration": {
+                "bn": "পারসিভেরেন্স ইন দ্য ফেস অব চ্যালেঞ্জেস লিডস টু সাকসেস।"
+            },
+            "position": 16,
+            "synonyms": "persistence, determination, tenacity",
+            "antonyms": "indifference, apathy, surrender",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অধ্যবসায়",
+                    "word_transliteration": "odhyoboshay",
+                    "example_sentence_translation": "চ্যালেঞ্জের মুখে অধ্যবসায় সাফল্যের দিকে নিয়ে যায়।",
+                    "example_sentence_transliteration": "Challengeer mukhe odhyoboshay shafollyyer dike niye jay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "finesse",
+            "phonetic": "/fɪˈnɛs/",
+            "word_native_transliteration": {
+                "bn": "ফাইনেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✨",
+            "meaning": "Intricate and refined delicacy.",
+            "example_sentence": "The artist's finesse was evident in the intricate details.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য আর্টিস্টস ফাইনেস ওয়াস এভিডেন্ট ইন দ্য ইনট্রিকেট ডিটেইলস।"
+            },
+            "position": 17,
+            "synonyms": "skill, expertise, artistry",
+            "antonyms": "clumsiness, ineptitude, awkwardness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সূক্ষ্ম দক্ষতা",
+                    "word_transliteration": "shukkhmo dokkhota",
+                    "example_sentence_translation": "শিল্পীর সূক্ষ্ম দক্ষতা জটিল বিশদে স্পষ্ট ছিল।",
+                    "example_sentence_transliteration": "Shilpir shukkhmo dokkhota jotil bishode sposhto chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

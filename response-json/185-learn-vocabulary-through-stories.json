@@ -1,0 +1,472 @@
+{
+    "position": 185,
+    "title_translation": {
+        "en": "The Daily Stoic",
+        "bn": "The Daily Stoic"
+    },
+    "content_translation": {
+        "en": "In everyday life, **stoicism** is a powerful philosophy that helps us maintain mental stability. It teaches us how to remain calm by accepting **inevitability** and maintaining **detachment** by not showing excessive emotions towards **ephemeral** matters. **Austerity** and **pragmatism** are the core foundations of this philosophy. Maintaining **fortitude** during the **mundanity** of daily life and difficult times is extremely important. A **sagacious** person knows that everything in life is **transience**, so there is no need to worry excessively about unnecessary things. Through **introspection** and **circumspect** thinking, we can control our emotions and reactions. **Magnanimity** teaches us how to be magnanimous, and **perseverance** makes our perspective stronger. By following this philosophy, we can remain **unperturbed**, make decisions while remaining **imperturbable** even in difficult times, and achieve mental peace by accepting life's **dichotomy**.",
+        "bn": "প্রতিদিনের জীবনে **stoicism** একটি শক্তিশালী দর্শন যা আমাদের মানসিক স্থিতিশীলতা বজায় রাখতে সাহায্য করে। এটি আমাদের শেখায় কিভাবে **inevitability** মেনে নিয়ে শান্ত থাকা যায় এবং **ephemeral** বিষয়গুলোতে অতিরিক্ত আবেগ না দেখিয়ে **detachment** বজায় রাখা যায়। **Austerity** এবং **pragmatism** এই দর্শনের মূল ভিত্তি। প্রতিদিনের **mundanity** এবং কঠিন সময়গুলোতে **fortitude** বজায় রাখা অত্যন্ত গুরুত্বপূর্ণ। একজন **sagacious** ব্যক্তি জানেন, জীবনের সব কিছুই **transience**, তাই অপ্রয়োজনীয় জিনিস নিয়ে অতিরিক্ত ভাবার দরকার নেই। **Introspection** এবং **circumspect** চিন্তাভাবনার মাধ্যমে আমরা নিজেদের আবেগ ও প্রতিক্রিয়াকে নিয়ন্ত্রণ করতে পারি। **Magnanimity** আমাদের শেখায় কিভাবে বড় মনের হতে হয়, এবং **perseverance** আমাদের দৃষ্টিভঙ্গিকে আরও শক্তিশালী করে। এই দর্শন অনুসরণ করলে আমরা **unperturbed** থাকতে পারি, কঠিন সময়েও **imperturbable** অবস্থানে থেকে সিদ্ধান্ত নিতে পারি, এবং জীবনের **dichotomy** মেনে নিয়ে মানসিক শান্তি অর্জন করতে পারি।"
+    },
+    "list": [
+        {
+            "word": "stoicism",
+            "phonetic": "ˈstoʊ.ɪ.sɪ.zəm",
+            "word_native_transliteration": {
+                "bn": "স্টয়িসিজম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧘",
+            "meaning": "A philosophy of accepting what happens without complaining or showing emotion and controlling emotions through wisdom and patience.",
+            "example_sentence": "His stoicism helped him remain calm in difficult times.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ স্টয়িসিজম হেল্পড হিম রিমেইন কাম ইন ডিফিকাল্ট টাইমস।"
+            },
+            "position": 1,
+            "synonyms": "resilience, endurance, self-control",
+            "antonyms": "sensitivity, emotionality, impulsiveness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংযম বা আবেগ নিয়ন্ত্রণের দর্শন",
+                    "word_transliteration": "shonggom ba abeg niyontron er dorshon",
+                    "example_sentence_translation": "তার সংযম তাকে কঠিন সময়েও শান্ত থাকতে সাহায্য করেছিল।",
+                    "example_sentence_transliteration": "Tar shonggom take kothin shomoyeo shanto thakte shahajjo korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "inevitability",
+            "phonetic": "ɪnˌɛv.ɪ.təˈbɪl.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "ইনেভিটেবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⏳",
+            "meaning": "The quality of being certain to happen and impossible to avoid or prevent.",
+            "example_sentence": "The inevitability of change is a part of life.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইনেভিটেবিলিটি অব চেঞ্জ ইজ এ পার্ট অব লাইফ।"
+            },
+            "position": 2,
+            "synonyms": "certainty, unavoidability, necessity",
+            "antonyms": "uncertainty, avoidability, improbability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনিবার্যতা বা অবশ্যম্ভাবিতা",
+                    "word_transliteration": "onibartota ba oboshombhabita",
+                    "example_sentence_translation": "পরিবর্তনের অনিবার্যতা জীবনের একটি অংশ।",
+                    "example_sentence_transliteration": "Poribortoner onibartota jiboner ekti ongsho.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ephemeral",
+            "phonetic": "ɪˈfɛm.ər.əl",
+            "word_native_transliteration": {
+                "bn": "এফেমেরাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌸",
+            "meaning": "Lasting for only a short time; temporary.",
+            "example_sentence": "The beauty of cherry blossoms is ephemeral.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য বিউটি অব চেরি ব্লসমস ইজ এফেমেরাল।"
+            },
+            "position": 3,
+            "synonyms": "transient, short-lived, fleeting",
+            "antonyms": "permanent, lasting, enduring",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অস্থায়ী বা স্বল্পস্থায়ী",
+                    "word_transliteration": "osthayee ba sholposthayee",
+                    "example_sentence_translation": "চেরি ফুলের সৌন্দর্য স্বল্পস্থায়ী।",
+                    "example_sentence_transliteration": "Cheri fuler shoundarjo sholposthayee.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "detachment",
+            "phonetic": "dɪˈtætʃ.mənt",
+            "word_native_transliteration": {
+                "bn": "ডিট্যাচমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🕊️",
+            "meaning": "The state of being objective or aloof; not being emotionally involved.",
+            "example_sentence": "Buddhist philosophy encourages detachment from material desires.",
+            "example_sentence_native_transliteration": {
+                "bn": "বুড্ধিস্ট ফিলসফি এনকারেজেস ডিট্যাচমেন্ট ফ্রম ম্যাটেরিয়াল ডিজায়ারস।"
+            },
+            "position": 4,
+            "synonyms": "disengagement, objectivity, aloofness",
+            "antonyms": "attachment, involvement, engagement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিচ্ছিন্নতা বা নিরপেক্ষতা",
+                    "word_transliteration": "bicchinnota ba niropekkhota",
+                    "example_sentence_translation": "বৌদ্ধ দর্শন বস্তুগত আকাঙ্ক্ষা থেকে বিচ্ছিন্নতা উৎসাহিত করে।",
+                    "example_sentence_transliteration": "Bouddho dorshon bostugoto akangkha theke bicchinnota utshahito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "austerity",
+            "phonetic": "ɔːˈstɛr.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "অস্টেরিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🍃",
+            "meaning": "Severe self-discipline and avoidance of indulgence; simplicity and restraint.",
+            "example_sentence": "During the economic crisis, the government imposed austerity measures.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিউরিং দ্য ইকোনমিক ক্রাইসিস, দ্য গভর্নমেন্ট ইমপোজড অস্টেরিটি মেজারস।"
+            },
+            "position": 5,
+            "synonyms": "simplicity, frugality, severity",
+            "antonyms": "extravagance, luxury, indulgence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংযম বা কঠোর জীবনযাপন",
+                    "word_transliteration": "shonggom ba kothor jibonjapan",
+                    "example_sentence_translation": "অর্থনৈতিক সংকটের সময় সরকার সংযম নীতি গ্রহণ করেছিল।",
+                    "example_sentence_transliteration": "Orthonaitik shongkoter shomoy shorkar shonggom neeti grhon korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pragmatism",
+            "phonetic": "ˈpræɡ.mə.tɪ.zəm",
+            "word_native_transliteration": {
+                "bn": "প্রাগমাটিজম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "A practical approach to problems and affairs; dealing with things sensibly and realistically.",
+            "example_sentence": "His pragmatism helped the company survive the crisis.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ প্রাগমাটিজম হেল্পড দ্য কোম্পানি সারভাইভ দ্য ক্রাইসিস।"
+            },
+            "position": 6,
+            "synonyms": "practicality, realism, sensibility",
+            "antonyms": "idealism, theoretical approach, impracticality",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাস্তববাদী চিন্তাভাবনা বা ব্যবহারিক পদ্ধতি",
+                    "word_transliteration": "bastobabadi chintabhabona ba bybaharik poddhoti",
+                    "example_sentence_translation": "তার বাস্তববাদী দৃষ্টিভঙ্গি কোম্পানিকে সংকট কাটিয়ে উঠতে সাহায্য করেছিল।",
+                    "example_sentence_transliteration": "Tar bastobabadi drishtibhongi companiake shongkot katiey uthte shahajjo korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "mundanity",
+            "phonetic": "mʌnˈdeɪ.nɪ.ti",
+            "word_native_transliteration": {
+                "bn": "মান্ডানিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📅",
+            "meaning": "The quality of being ordinary, routine, or lacking excitement.",
+            "example_sentence": "The mundanity of office life can be exhausting.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য মান্ডানিটি অব অফিস লাইফ ক্যান বি এক্সহস্টিং।"
+            },
+            "position": 7,
+            "synonyms": "ordinariness, boredom, routine",
+            "antonyms": "excitement, uniqueness, novelty",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সাধারণত্ব বা একঘেয়েমি",
+                    "word_transliteration": "sadharonotto ba ekgheyemi",
+                    "example_sentence_translation": "অফিস জীবনের একঘেয়েমি ক্লান্তিকর হতে পারে।",
+                    "example_sentence_transliteration": "Office jiboner ekgheyemi klantikor hote pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fortitude",
+            "phonetic": "ˈfɔːr.tɪ.tjuːd",
+            "word_native_transliteration": {
+                "bn": "ফর্টিটুড"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "Courage in pain or adversity; mental and emotional strength.",
+            "example_sentence": "She faced adversity with great fortitude.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি ফেসড অ্যাডভার্সিটি উইথ গ্রেট ফর্টিটুড।"
+            },
+            "position": 8,
+            "synonyms": "courage, resilience, endurance",
+            "antonyms": "weakness, cowardice, fear",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মানসিক শক্তি বা সহনশীলতা",
+                    "word_transliteration": "manoshik shokti ba shohonshilota",
+                    "example_sentence_translation": "তিনি প্রতিকূলতাকে অসাধারণ মানসিক শক্তির সাথে মোকাবিলা করেছেন।",
+                    "example_sentence_transliteration": "Tini protikultake oshadharon manoshik shoktir sathe mokabila korechen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sagacious",
+            "phonetic": "səˈɡeɪ.ʃəs",
+            "word_native_transliteration": {
+                "bn": "সেগেশাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🦉",
+            "meaning": "Having or showing keen mental discernment and good judgment; wise.",
+            "example_sentence": "His sagacious leadership saved the company from failure.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ সেগেশাস লিডারশিপ সেভড দ্য কোম্পানি ফ্রম ফেইলিউর।"
+            },
+            "position": 9,
+            "synonyms": "wise, insightful, perceptive",
+            "antonyms": "foolish, shortsighted, unwise",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিচক্ষণ বা দূরদর্শী",
+                    "word_transliteration": "bichokkhon ba durodorhshi",
+                    "example_sentence_translation": "তার বিচক্ষণ নেতৃত্ব কোম্পানিকে ব্যর্থতা থেকে রক্ষা করেছে।",
+                    "example_sentence_transliteration": "Tar bichokkhon netritbo companiake byorthhota theke rakkha koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "transience",
+            "phonetic": "ˈtræn.zi.əns",
+            "word_native_transliteration": {
+                "bn": "ট্র্যানসিয়েন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⏰",
+            "meaning": "The state or fact of lasting only for a short time; impermanence.",
+            "example_sentence": "The transience of youth makes it more precious.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ট্র্যানসিয়েন্স অব ইউথ মেকস ইট মোর প্রেশাস।"
+            },
+            "position": 10,
+            "synonyms": "impermanence, fleetingness, temporariness",
+            "antonyms": "permanence, stability, endurance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অস্থায়িত্ব বা ক্ষণস্থায়িতা",
+                    "word_transliteration": "osthayitto ba kkhonasthayita",
+                    "example_sentence_translation": "যৌবনের অস্থায়িত্ব এটিকে আরও মূল্যবান করে তোলে।",
+                    "example_sentence_transliteration": "Youboner osthayitto etike aro mulyoban kore tole.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "introspection",
+            "phonetic": "ˌɪn.trəˈspek.ʃən",
+            "word_native_transliteration": {
+                "bn": "ইন্ট্রোস্পেকশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🪞",
+            "meaning": "The examination or observation of one's own mental and emotional processes.",
+            "example_sentence": "Through introspection, she gained insight into her emotions.",
+            "example_sentence_native_transliteration": {
+                "bn": "থ্রু ইন্ট্রোস্পেকশন, শি গেইনড ইনসাইট ইনটু হার ইমোশনস।"
+            },
+            "position": 11,
+            "synonyms": "reflection, self-examination, contemplation",
+            "antonyms": "extrospection, distraction, negligence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আত্মজিজ্ঞাসা বা আত্মপর্যালোচনা",
+                    "word_transliteration": "attojigasa ba attoparyalochona",
+                    "example_sentence_translation": "আত্মজিজ্ঞাসার মাধ্যমে তিনি তার অনুভূতি সম্পর্কে গভীর উপলব্ধি লাভ করেন।",
+                    "example_sentence_transliteration": "Attojigashar maddhome tini tar onubhuti shomporke gobhir upoloddhi labh koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "circumspect",
+            "phonetic": "ˈsɜː.kəm.spekt",
+            "word_native_transliteration": {
+                "bn": "সার্কামস্পেক্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔍",
+            "meaning": "Wary and unwilling to take risks; careful to consider all circumstances.",
+            "example_sentence": "He was circumspect in making financial decisions.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি ওয়াজ সার্কামস্পেক্ট ইন মেকিং ফাইন্যান্সিয়াল ডিসিশনস।"
+            },
+            "position": 12,
+            "synonyms": "cautious, prudent, vigilant",
+            "antonyms": "reckless, careless, impulsive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সতর্ক বা বিবেচনাশীল",
+                    "word_transliteration": "shotorko ba bibechonashil",
+                    "example_sentence_translation": "তিনি আর্থিক সিদ্ধান্ত নেওয়ার ক্ষেত্রে সতর্ক ছিলেন।",
+                    "example_sentence_transliteration": "Tini arthik siddhanto newar kkhetre shotorko chhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "magnanimity",
+            "phonetic": "ˌmæɡ.nəˈnɪm.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "ম্যাগনানিমিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤲",
+            "meaning": "Generosity in forgiving an insult or injury; nobility of spirit.",
+            "example_sentence": "His magnanimity in forgiving his enemies was admirable.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ম্যাগনানিমিটি ইন ফরগিভিং হিজ এনিমিজ ওয়াজ অ্যাডমিরেবল।"
+            },
+            "position": 13,
+            "synonyms": "generosity, nobility, kindness",
+            "antonyms": "pettiness, selfishness, meanness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদারতা বা মহানুভবতা",
+                    "word_transliteration": "udarota ba mohanubbhobota",
+                    "example_sentence_translation": "তার শত্রুদের ক্ষমা করার মহানুভবতা প্রশংসনীয় ছিল।",
+                    "example_sentence_transliteration": "Tar shotruder kkhoma korar mohanubbhobota proshongshoniyo chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "perseverance",
+            "phonetic": "ˌpɜː.sɪˈvɪə.rəns",
+            "word_native_transliteration": {
+                "bn": "পার্সিভিয়ারেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏔️",
+            "meaning": "Persistence in doing something despite difficulty or delay in achieving success.",
+            "example_sentence": "His perseverance helped him achieve his dreams.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ পার্সিভিয়ারেন্স হেল্পড হিম অ্যাচিভ হিজ ড্রিমস।"
+            },
+            "position": 14,
+            "synonyms": "persistence, determination, endurance",
+            "antonyms": "laziness, weakness, giving up",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অধ্যবসায় বা টিকে থাকার ক্ষমতা",
+                    "word_transliteration": "addhoboshay ba tike thakar kkhomota",
+                    "example_sentence_translation": "তার অধ্যবসায় তাকে স্বপ্ন পূরণে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Tar addhoboshay take shopno purone shahajjo koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "unperturbed",
+            "phonetic": "ˌʌn.pəˈtɜːbd",
+            "word_native_transliteration": {
+                "bn": "আনপার্টার্বড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧘‍♂️",
+            "meaning": "Not worried or disturbed by something; calm and composed.",
+            "example_sentence": "She remained unperturbed despite the challenges.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি রিমেইনড আনপার্টার্বড ডেসপাইট দ্য চ্যালেঞ্জেস।"
+            },
+            "position": 15,
+            "synonyms": "calm, composed, undisturbed",
+            "antonyms": "anxious, distressed, agitated",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অশান্ত না হওয়া বা শান্ত থাকা",
+                    "word_transliteration": "ashanto na howa ba shanto thaka",
+                    "example_sentence_translation": "তিনি চ্যালেঞ্জগুলোর মধ্যেও শান্ত ছিলেন।",
+                    "example_sentence_transliteration": "Tini challengegulor moddheo shanto chhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "imperturbable",
+            "phonetic": "ˌɪm.pəˈtɜː.bə.bəl",
+            "word_native_transliteration": {
+                "bn": "ইমপার্টার্বেবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🗿",
+            "meaning": "Unable to be upset or excited; not easily disturbed.",
+            "example_sentence": "His imperturbable nature made him a great leader.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ইমপার্টার্বেবল নেচার মেড হিম এ গ্রেট লিডার।"
+            },
+            "position": 16,
+            "synonyms": "unshakable, steady, serene",
+            "antonyms": "excitable, nervous, agitated",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অস্থির না হওয়া বা অটল থাকা",
+                    "word_transliteration": "osthir na howa ba otol thaka",
+                    "example_sentence_translation": "তার অটল প্রকৃতি তাকে একজন দুর্দান্ত নেতা বানিয়েছে।",
+                    "example_sentence_transliteration": "Tar otol prokriti take ekjon durdanto neta baniyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dichotomy",
+            "phonetic": "daɪˈkɒt.ə.mi",
+            "word_native_transliteration": {
+                "bn": "ডাইকটমি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "A division or contrast between two things that are opposed or entirely different.",
+            "example_sentence": "There is a clear dichotomy between science and religion.",
+            "example_sentence_native_transliteration": {
+                "bn": "দেয়ার ইজ এ ক্লিয়ার ডাইকটমি বিটুইন সাইয়েন্স অ্যান্ড রিলিজিয়ন।"
+            },
+            "position": 17,
+            "synonyms": "division, contrast, duality",
+            "antonyms": "unity, similarity, agreement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৈপরীত্য বা দ্বৈততা",
+                    "word_transliteration": "baiporito ba dwoitota",
+                    "example_sentence_translation": "বিজ্ঞান ও ধর্মের মধ্যে একটি সুস্পষ্ট বৈপরীত্য রয়েছে।",
+                    "example_sentence_transliteration": "Biggan o dhormer moddhey ekti shushposhto baiporito royeche.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

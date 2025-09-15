@@ -1,0 +1,634 @@
+{
+    "position": 181,
+    "title_translation": {
+        "en": "Technology's Role in Modern Homeschooling",
+        "bn": "আধুনিক homeschooling-এ technology-এর ভূমিকা"
+    },
+    "content_translation": {
+        "en": "**Technology** plays an indispensable role in modern **homeschooling**. It enhances the **efficacy** of education, making the learning process more **immersive**. Previously, educational methods were quite **conventional**, but now **digital tools** help improve students' learning **comprehension**.\n\n**Artificial intelligence** and **interactive** platforms create **autonomous** learning environments for students, where they can progress at their own pace. Online **pedagogy** uses both **synchronous** and **asynchronous** methods, increasing the **versatility** of education. **Optimization** and **adaptability** are enhanced by **virtual classrooms** and AI-driven tutors, making learning more effective.\n\nAdditionally, **homeschooling** has increased the **scalability** of education, where students can gain skills in various **interdisciplinary** subjects. **Technology** ensures educational **cohesion** while **expediting** the **dissemination** and **augmentation** processes.",
+        "bn": "আধুনিক **homeschooling**-এ **technology** একটি অপরিহার্য ভূমিকা পালন করছে। এটি শিক্ষার **efficacy** বাড়িয়ে, শেখার প্রক্রিয়াকে আরও **immersive** করে তুলেছে। আগে শিক্ষার পদ্ধতি ছিল বেশ **conventional**, কিন্তু এখন **digital tools** শিক্ষার্থীদের শেখার **comprehension** উন্নত করতে সাহায্য করছে।\n\n**Artificial intelligence** এবং **interactive platforms** শিক্ষার্থীদের **autonomous** শেখার পরিবেশ তৈরি করছে, যেখানে তারা নিজেদের গতিতে এগিয়ে যেতে পারে। অনলাইন **pedagogy**-তে **synchronous** ও **asynchronous** পদ্ধতি ব্যবহারের ফলে শিক্ষার **versatility** বেড়েছে। **Optimization** এবং **adaptability** বাড়ানোর জন্য **virtual classrooms** এবং AI-driven tutors শেখাকে আরও কার্যকর করেছে।\n\nএছাড়া, **homeschooling** শিক্ষার **scalability** বৃদ্ধি করেছে, যেখানে শিক্ষার্থীরা বিভিন্ন **interdisciplinary** বিষয়ে দক্ষতা অর্জন করতে পারে। **Technology** শিক্ষার **cohesion** নিশ্চিত করার পাশাপাশি, **dissemination** এবং **augmentation** প্রক্রিয়াকে **expedite** করেছে।"
+    },
+    "list": [
+        {
+            "word": "homeschooling",
+            "phonetic": "ˈhoʊmˌskuː.lɪŋ",
+            "word_native_transliteration": {
+                "bn": "হোমস্কুলিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏠📚",
+            "meaning": "The practice of educating children at home rather than sending them to a school.",
+            "example_sentence": "Homeschooling allows parents to tailor education to their child's needs.",
+            "example_sentence_native_transliteration": {
+                "bn": "হোমস্কুলিং অ্যালাওস প্যারেন্টস টু টেইলর এডুকেশন টু দেয়ার চাইল্ডস নিডস।"
+            },
+            "position": 1,
+            "synonyms": "Home education, Self-study, Alternative schooling",
+            "antonyms": "Traditional Schooling, Public Education, Institutional Learning",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গৃহশিক্ষা",
+                    "word_transliteration": "grihoshiksha",
+                    "example_sentence_translation": "গৃহশিক্ষা অভিভাবকদের তাদের সন্তানের প্রয়োজন অনুসারে শিক্ষা প্রদান করতে সক্ষম করে।",
+                    "example_sentence_transliteration": "Grihoshiksha ovibhabokder tader shontaner proyojon onushare shiksha prodan korte shokkkhom kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "technology",
+            "phonetic": "tɛkˈnɒl.ə.dʒi",
+            "word_native_transliteration": {
+                "bn": "টেকনোলজি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💻",
+            "meaning": "The application of scientific knowledge for practical purposes, especially in industry.",
+            "example_sentence": "Advances in technology have transformed education.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাডভান্সেস ইন টেকনোলজি হ্যাভ ট্রান্সফর্মড এডুকেশন।"
+            },
+            "position": 2,
+            "synonyms": "Innovation, Machinery, Engineering",
+            "antonyms": "Obsolescence, Backwardness, Traditional Methods",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রযুক্তি",
+                    "word_transliteration": "projukti",
+                    "example_sentence_translation": "প্রযুক্তির অগ্রগতি শিক্ষাকে রূপান্তরিত করেছে।",
+                    "example_sentence_transliteration": "Projuktir ogrogoti shikkhake rupantorito koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "efficacy",
+            "phonetic": "ˈɛf.ɪ.kə.si",
+            "word_native_transliteration": {
+                "bn": "এফিকেসি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✅",
+            "meaning": "The ability to produce a desired or intended result; effectiveness.",
+            "example_sentence": "The efficacy of online learning depends on student engagement.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এফিকেসি অব অনলাইন লার্নিং ডিপেন্ডস অন স্টুডেন্ট এনগেজমেন্ট।"
+            },
+            "position": 3,
+            "synonyms": "Effectiveness, Efficiency, Success",
+            "antonyms": "Ineffectiveness, Failure, Weakness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কার্যকারিতা",
+                    "word_transliteration": "karjokarita",
+                    "example_sentence_translation": "অনলাইন শিক্ষার কার্যকারিতা শিক্ষার্থীদের সম্পৃক্ততার উপর নির্ভর করে।",
+                    "example_sentence_transliteration": "Online shikhkhar karjokarita shikkharthider shompriktotar upor nirbhor kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "immersive",
+            "phonetic": "ɪˈmɜː.sɪv",
+            "word_native_transliteration": {
+                "bn": "ইমার্সিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌊",
+            "meaning": "Providing, involving, or characterized by deep absorption or immersion in something.",
+            "example_sentence": "Virtual reality creates an immersive learning environment.",
+            "example_sentence_native_transliteration": {
+                "bn": "ভার্চুয়াল রিয়ালিটি ক্রিয়েটস অ্যান ইমার্সিভ লার্নিং এনভায়রনমেন্ট।"
+            },
+            "position": 4,
+            "synonyms": "Engaging, Interactive, Absorbing",
+            "antonyms": "Distracting, Shallow, Unengaging",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিমগ্ন",
+                    "word_transliteration": "nimogno",
+                    "example_sentence_translation": "ভার্চুয়াল বাস্তবতা একটি নিমগ্ন শিক্ষার পরিবেশ তৈরি করে।",
+                    "example_sentence_transliteration": "Virtual bashtobota ekti nimogno shikhkhar poribesh toiri kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "conventional",
+            "phonetic": "kənˈvɛn.ʃən.əl",
+            "word_native_transliteration": {
+                "bn": "কনভেনশনাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📜",
+            "meaning": "Based on or in accordance with what is generally done or believed.",
+            "example_sentence": "Conventional education relies on classroom-based learning.",
+            "example_sentence_native_transliteration": {
+                "bn": "কনভেনশনাল এডুকেশন রিলাইস অন ক্লাসরুম-বেসড লার্নিং।"
+            },
+            "position": 5,
+            "synonyms": "Traditional, Standard, Customary",
+            "antonyms": "Innovative, Unorthodox, Modern",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রচলিত",
+                    "word_transliteration": "procholit",
+                    "example_sentence_translation": "প্রচলিত শিক্ষা শ্রেণিকক্ষে শেখার উপর নির্ভরশীল।",
+                    "example_sentence_transliteration": "Procholit shikkhka shrenikokhe shekhar upor nirbhorshil.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "digital tools",
+            "phonetic": "ˈdɪdʒ.ɪ.təl tuːlz",
+            "word_native_transliteration": {
+                "bn": "ডিজিটাল টুলস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛠️💻",
+            "meaning": "Electronic software and applications used for learning and educational purposes.",
+            "example_sentence": "Schools are integrating digital tools to enhance learning.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্কুলস আর ইন্টিগ্রেটিং ডিজিটাল টুলস টু এনহ্যান্স লার্নিং।"
+            },
+            "position": 6,
+            "synonyms": "Online Resources, E-learning Tools, Software",
+            "antonyms": "Analog Tools, Traditional Methods, Manual Resources",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ডিজিটাল সরঞ্জাম",
+                    "word_transliteration": "digital shornjam",
+                    "example_sentence_translation": "বিদ্যালয়গুলো শিক্ষার মান উন্নয়নে ডিজিটাল সরঞ্জাম সংযোজন করছে।",
+                    "example_sentence_transliteration": "Biddaloyguloo shikhkhar man unnoyene digital shornjam shongjojn korche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "comprehension",
+            "phonetic": "ˌkɒm.prɪˈhɛn.ʃən",
+            "word_native_transliteration": {
+                "bn": "কমপ্রিহেনশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧠",
+            "meaning": "The action or capability of understanding something.",
+            "example_sentence": "Reading regularly improves comprehension skills.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিডিং রেগুলারলি ইমপ্রুভস কমপ্রিহেনশন স্কিলস।"
+            },
+            "position": 7,
+            "synonyms": "Understanding, Grasp, Interpretation",
+            "antonyms": "Misunderstanding, Confusion, Ignorance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বোধগম্যতা",
+                    "word_transliteration": "bodhogomyota",
+                    "example_sentence_translation": "নিয়মিত পড়াশোনা বোধগম্যতার ক্ষমতা বাড়ায়।",
+                    "example_sentence_transliteration": "Niyomit porashona bodhogomyotar kkhomota baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "artificial intelligence",
+            "phonetic": "ˌɑː.tɪˈfɪʃ.əl ɪnˈtɛl.ɪ.dʒəns",
+            "word_native_transliteration": {
+                "bn": "আর্টিফিশিয়াল ইন্টেলিজেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤖",
+            "meaning": "The theory and development of computer systems able to perform tasks normally requiring human intelligence.",
+            "example_sentence": "Artificial intelligence is revolutionizing education through smart tutoring.",
+            "example_sentence_native_transliteration": {
+                "bn": "আর্টিফিশিয়াল ইন্টেলিজেন্স ইজ রেভোলিউশনাইজিং এডুকেশন থ্রু স্মার্ট টিউটরিং।"
+            },
+            "position": 8,
+            "synonyms": "Machine Learning, AI, Automation",
+            "antonyms": "Human Intelligence, Manual Processing, Non-digital Methods",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কৃত্রিম বুদ্ধিমত্তা",
+                    "word_transliteration": "kritrim buddhimotta",
+                    "example_sentence_translation": "কৃত্রিম বুদ্ধিমত্তা স্মার্ট টিউটরিংয়ের মাধ্যমে শিক্ষাকে বিপ্লব ঘটাচ্ছে।",
+                    "example_sentence_transliteration": "Kritrim buddhimotta smart tutoringer madhome shikkhake biplob ghotachche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "interactive",
+            "phonetic": "ˌɪn.təˈræk.tɪv",
+            "word_native_transliteration": {
+                "bn": "ইন্টারঅ্যাক্টিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🤝",
+            "meaning": "Allowing a two-way flow of information between it and a user, responding to the user's input.",
+            "example_sentence": "Interactive learning keeps students engaged in lessons.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইন্টারঅ্যাক্টিভ লার্নিং কিপস স্টুডেন্টস এনগেজড ইন লেসনস।"
+            },
+            "position": 9,
+            "synonyms": "Engaging, Participatory, Dynamic",
+            "antonyms": "Passive, Unresponsive, Static",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পারস্পরিক ক্রিয়াশীল",
+                    "word_transliteration": "parasporik kriyashil",
+                    "example_sentence_translation": "পারস্পরিক ক্রিয়াশীল শিক্ষা শিক্ষার্থীদের পাঠে সক্রিয় রাখে।",
+                    "example_sentence_transliteration": "Parasporik kriyashil shikkhka shikkharthider pathe shokriyo rakhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "autonomous",
+            "phonetic": "ɔːˈtɒn.ə.məs",
+            "word_native_transliteration": {
+                "bn": "অটোনোমাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🚗",
+            "meaning": "Having the freedom to govern itself or control its own affairs.",
+            "example_sentence": "The robot operates in an autonomous mode without human intervention.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রোবট অপারেটস ইন অ্যান অটোনোমাস মোড উইদাউট হিউমান ইন্টারভেনশন।"
+            },
+            "position": 10,
+            "synonyms": "Independent, Self-sufficient, Self-governing",
+            "antonyms": "Dependent, Subordinate, Controlled",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বায়ত্তশাসিত",
+                    "word_transliteration": "shayottoshashit",
+                    "example_sentence_translation": "রোবটটি মানুষের হস্তক্ষেপ ছাড়াই স্বায়ত্তশাসিতভাবে কাজ করে।",
+                    "example_sentence_transliteration": "Robotti manusher hostokhep charai shayottoshashitbhabe kaj kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pedagogy",
+            "phonetic": "ˈpɛd.ə.ɡɒ.dʒi",
+            "word_native_transliteration": {
+                "bn": "পেডাগজি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👨‍🏫",
+            "meaning": "The method and practice of teaching, especially as an academic subject or theoretical concept.",
+            "example_sentence": "Effective pedagogy enhances student learning experiences.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইফেক্টিভ পেডাগজি এনহ্যান্সেস স্টুডেন্ট লার্নিং এক্সপেরিয়েন্সেস।"
+            },
+            "position": 11,
+            "synonyms": "Teaching Methods, Instruction, Educational Approach",
+            "antonyms": "Miseducation, Ignorance, Non-teaching",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শিক্ষাদান পদ্ধতি",
+                    "word_transliteration": "shikkhadan poddhoti",
+                    "example_sentence_translation": "কার্যকর শিক্ষাদান পদ্ধতি শিক্ষার্থীদের শেখার অভিজ্ঞতা উন্নত করে।",
+                    "example_sentence_transliteration": "Karjokor shikkhadan poddhoti shikkharthider shekhar oviggyota unnoto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "synchronous",
+            "phonetic": "ˈsɪŋ.krə.nəs",
+            "word_native_transliteration": {
+                "bn": "সিনক্রোনাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⏰",
+            "meaning": "Existing or occurring at the same time.",
+            "example_sentence": "Synchronous learning involves live online classes.",
+            "example_sentence_native_transliteration": {
+                "bn": "সিনক্রোনাস লার্নিং ইনভলভস লাইভ অনলাইন ক্লাসেস।"
+            },
+            "position": 12,
+            "synonyms": "Real-time, Concurrent, Simultaneous",
+            "antonyms": "Asynchronous, Delayed, Sequential",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একসময়ে সংঘটিত",
+                    "word_transliteration": "ekshomoye shonghothit",
+                    "example_sentence_translation": "বাস্তবসময়িক শিক্ষা সরাসরি অনলাইন ক্লাসের মাধ্যমে পরিচালিত হয়।",
+                    "example_sentence_transliteration": "Bashtobshomoyik shikkhka shorashori online clasher madhome porichalit hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "asynchronous",
+            "phonetic": "eɪˈsɪŋ.krə.nəs",
+            "word_native_transliteration": {
+                "bn": "অ্যাসিনক্রোনাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📱",
+            "meaning": "Of or requiring a form of computer control timing protocol in which a specific operation begins upon receipt of an indication that the preceding operation has been completed.",
+            "example_sentence": "Asynchronous courses allow students to learn at their own pace.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাসিনক্রোনাস কোর্সেস অ্যালাও স্টুডেন্টস টু লার্ন অ্যাট দেয়ার ওন পেস।"
+            },
+            "position": 13,
+            "synonyms": "Self-paced, Time-independent, Delayed",
+            "antonyms": "Synchronous, Instantaneous, Simultaneous",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অসমকালীন",
+                    "word_transliteration": "oshomokalin",
+                    "example_sentence_translation": "অসমকালীন কোর্স শিক্ষার্থীদের নিজস্ব গতিতে শেখার সুযোগ দেয়।",
+                    "example_sentence_transliteration": "Oshomokalin course shikkharthider nijosho gotite shekhar shujog dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "versatility",
+            "phonetic": "ˌvɜː.səˈtɪl.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "ভার্সাটিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "Ability to adapt or be adapted to many different functions or activities.",
+            "example_sentence": "His versatility in different subjects makes him a valuable team member.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ভার্সাটিলিটি ইন ডিফারেন্ট সাবজেক্টস মেকস হিম এ ভ্যালুয়েবল টিম মেম্বার।"
+            },
+            "position": 14,
+            "synonyms": "Adaptability, Flexibility, Multifunctionality",
+            "antonyms": "Rigidity, Inflexibility, Limited Scope",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বহুমুখিতা",
+                    "word_transliteration": "bohumukhita",
+                    "example_sentence_translation": "বিভিন্ন বিষয়ে তার বহুমুখিতা তাকে একটি মূল্যবান দলীয় সদস্য করে তোলে।",
+                    "example_sentence_transliteration": "Bibhinno bishoe tar bohumukhita take ekti mulyoban doliyo shodosho kore tole.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "optimization",
+            "phonetic": "ˌɒp.tɪ.mɪˈzeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "অপটিমাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "The action of making the best or most effective use of a situation or resource.",
+            "example_sentence": "The software update focused on optimization for better performance.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সফটওয়্যার আপডেট ফোকাসড অন অপটিমাইজেশন ফর বেটার পারফরমেন্স।"
+            },
+            "position": 15,
+            "synonyms": "Efficiency, Improvement, Refinement",
+            "antonyms": "Inefficiency, Wastefulness, Mismanagement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সর্বোচ্চ কার্যকারিতা",
+                    "word_transliteration": "shorbochcho karjokarita",
+                    "example_sentence_translation": "সফটওয়্যার আপডেটটি উন্নত কার্যকারিতার জন্য সর্বোচ্চ কার্যক্ষমতায় মনোযোগ দেয়।",
+                    "example_sentence_transliteration": "Software updateti unnoto karjokaritaar jonno shorbochcho karjokhomotay monojog dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "adaptability",
+            "phonetic": "əˌdæp.təˈbɪl.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "অ্যাডাপটেবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌱",
+            "meaning": "The quality of being able to adjust to new conditions.",
+            "example_sentence": "Adaptability is crucial for success in a changing work environment.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাডাপটেবিলিটি ইজ ক্রুশিয়াল ফর সাকসেস ইন এ চেঞ্জিং ওয়ার্ক এনভায়রনমেন্ট।"
+            },
+            "position": 16,
+            "synonyms": "Flexibility, Adjustability, Resilience",
+            "antonyms": "Rigidity, Inadaptability, Inflexibility",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মানিয়ে নেওয়ার ক্ষমতা",
+                    "word_transliteration": "manieye neowar khomota",
+                    "example_sentence_translation": "পরিবর্তনশীল কর্মপরিবেশে সফলতার জন্য মানিয়ে নেওয়ার ক্ষমতা অপরিহার্য।",
+                    "example_sentence_transliteration": "Poribortonshhil kormporibehe shofoltaar jonno manieye neowar khomota oporhario.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "virtual classrooms",
+            "phonetic": "ˈvɜː.tʃu.əl ˈklɑːs.ruːmz",
+            "word_native_transliteration": {
+                "bn": "ভার্চুয়াল ক্লাসরুমস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💻🎓",
+            "meaning": "An online learning environment where teachers and students interact via digital platforms.",
+            "example_sentence": "Virtual classrooms enable remote learning for students worldwide.",
+            "example_sentence_native_transliteration": {
+                "bn": "ভার্চুয়াল ক্লাসরুমস এনেবল রিমোট লার্নিং ফর স্টুডেন্টস ওয়ার্ল্ডওয়াইড।"
+            },
+            "position": 17,
+            "synonyms": "Online Learning, E-learning, Digital Classroom",
+            "antonyms": "Physical Classroom, Traditional Learning, In-person Teaching",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভার্চুয়াল শ্রেণিকক্ষ",
+                    "word_transliteration": "virtual shrenikokho",
+                    "example_sentence_translation": "ভার্চুয়াল শ্রেণিকক্ষ শিক্ষার্থীদের জন্য দূরশিক্ষার সুযোগ প্রদান করে।",
+                    "example_sentence_transliteration": "Virtual shrenikokho shikkharthider jonno durshikkhhar shujog prodan kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "scalability",
+            "phonetic": "ˌskeɪ.ləˈbɪl.ə.ti",
+            "word_native_transliteration": {
+                "bn": "স্কেলেবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "The capacity to be changed in size or scale.",
+            "example_sentence": "The new software offers high scalability for large enterprises.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিউ সফটওয়্যার অফারস হাই স্কেলেবিলিটি ফর লার্জ এন্টারপ্রাইজেস।"
+            },
+            "position": 18,
+            "synonyms": "Expandability, Growth Potential, Adaptability",
+            "antonyms": "Limitation, Rigidity, Fixed Capacity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সম্প্রসারণযোগ্যতা",
+                    "word_transliteration": "shomprasharonjoggyota",
+                    "example_sentence_translation": "নতুন সফটওয়্যার বড় প্রতিষ্ঠানগুলোর জন্য উচ্চ সম্প্রসারণযোগ্যতা প্রদান করে।",
+                    "example_sentence_transliteration": "Notun software boro protishthanogulor jonno uchcho shomprasharonjoggyota prodan kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "interdisciplinary",
+            "phonetic": "ˌɪn.təˈdɪs.ɪ.plɪ.nər.i",
+            "word_native_transliteration": {
+                "bn": "ইন্টারডিসিপ্লিনারি"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔗",
+            "meaning": "Relating to more than one branch of knowledge.",
+            "example_sentence": "The interdisciplinary approach in education enhances problem-solving skills.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইন্টারডিসিপ্লিনারি অ্যাপ্রোচ ইন এডুকেশন এনহ্যান্সেস প্রবলেম-সলভিং স্কিলস।"
+            },
+            "position": 19,
+            "synonyms": "Multidisciplinary, Cross-disciplinary, Integrative",
+            "antonyms": "Specialized, Narrow-focused, Single-discipline",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বহুবিষয়ক",
+                    "word_transliteration": "bohubishoyk",
+                    "example_sentence_translation": "শিক্ষায় বহুবিষয়ক পদ্ধতি সমস্যা সমাধানের দক্ষতা বাড়ায়।",
+                    "example_sentence_transliteration": "Shikkhay bohubishoyk poddhoti shomoshya shomadhaner dokkhota baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cohesion",
+            "phonetic": "kəʊˈhiː.ʒən",
+            "word_native_transliteration": {
+                "bn": "কোহিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "The action or fact of forming a united whole.",
+            "example_sentence": "Team cohesion is essential for workplace productivity.",
+            "example_sentence_native_transliteration": {
+                "bn": "টিম কোহিশন ইজ এসেনশিয়াল ফর ওয়ার্কপ্লেস প্রোডাক্টিভিটি।"
+            },
+            "position": 20,
+            "synonyms": "Unity, Bonding, Integration",
+            "antonyms": "Division, Separation, Disunity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংহতি",
+                    "word_transliteration": "shonghoti",
+                    "example_sentence_translation": "দলীয় সংহতি কর্মক্ষেত্রে উৎপাদনশীলতার জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Doliyo shonghoti kormokhetre utpadonshilotar jonno oporhario.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dissemination",
+            "phonetic": "dɪˌsɛm.ɪˈneɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ডিসেমিনেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📡",
+            "meaning": "The action or fact of spreading something, especially information, widely.",
+            "example_sentence": "The dissemination of educational resources is vital for learning.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডিসেমিনেশন অব এডুকেশনাল রিসোর্সেস ইজ ভাইটাল ফর লার্নিং।"
+            },
+            "position": 21,
+            "synonyms": "Distribution, Spreading, Circulation",
+            "antonyms": "Suppression, Concealment, Withholding",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রচার",
+                    "word_transliteration": "prochar",
+                    "example_sentence_translation": "শিক্ষাগত সম্পদের প্রচার শেখার জন্য অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Shikkhagoto shompoder prochar shekhar jonno attonto guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "augmentation",
+            "phonetic": "ˌɔːɡ.mɛnˈteɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "অগমেন্টেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "The action or process of making or becoming greater in size or amount.",
+            "example_sentence": "Augmented reality (AR) enables augmentation of real-world experiences.",
+            "example_sentence_native_transliteration": {
+                "bn": "অগমেন্টেড রিয়ালিটি (এআর) এনেবলস অগমেন্টেশন অব রিয়াল-ওয়ার্ল্ড এক্সপেরিয়েন্সেস।"
+            },
+            "position": 22,
+            "synonyms": "Enhancement, Expansion, Amplification",
+            "antonyms": "Reduction, Diminishment, Decrease",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৃদ্ধি",
+                    "word_transliteration": "briddhi",
+                    "example_sentence_translation": "বর্ধিত বাস্তবতা (AR) বাস্তব অভিজ্ঞতার উন্নতি করতে সহায়ক।",
+                    "example_sentence_transliteration": "Bordhito bashtobota (AR) bashto oviggyotar unnoti korte shohayok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "expedite",
+            "phonetic": "ˈɛk.spə.daɪt",
+            "word_native_transliteration": {
+                "bn": "এক্সপেডাইট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⚡",
+            "meaning": "Make (an action or process) happen sooner or be accomplished more quickly.",
+            "example_sentence": "The new policy aims to expedite the visa approval process.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিউ পলিসি এইমস টু এক্সপেডাইট দ্য ভিসা অ্যাপ্রুভাল প্রসেস।"
+            },
+            "position": 23,
+            "synonyms": "Accelerate, Hasten, Facilitate",
+            "antonyms": "Delay, Hinder, Slow Down",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ত্বরান্বিত করা",
+                    "word_transliteration": "tboranbito kora",
+                    "example_sentence_translation": "নতুন নীতি ভিসা অনুমোদন প্রক্রিয়াকে দ্রুততর করার লক্ষ্যে তৈরি হয়েছে।",
+                    "example_sentence_transliteration": "Notun niti visa onumodon prokriyake druttor korar lokkhe toiri hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

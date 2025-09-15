@@ -1,0 +1,526 @@
+{
+    "position": 188,
+    "title_translation": {
+        "en": "The Evolution of Human Civilization",
+        "bn": "মানব সভ্যতার বিবর্তন"
+    },
+    "content_translation": {
+        "en": "The **evolutionary** path of human civilization has been a long and complex process. In **prehistoric** times, humans were **nomadic**, moving from place to place in search of food. However, the discovery of **domestication** and **agricultural** technology brought about the **genesis** of civilization.\n\nAt that time, the **cultural** foundation of human **society** was established, and humans began to move toward an organized **society**. Through **megalithic** **architecture** and ancient **civilizations**, they created concepts and histories of their lives.\n\n**Industrialization** and **urbanization** further advanced civilization, where **technological** progress and **sociopolitical** changes connected the entire world. However, within these changes, **integration** and **collectivism** are needed so that people at all levels of **society** benefit.\n\nToday, **sustainability** and environmental **responsibility** are opening new directions for the progress of human civilization.",
+        "bn": "মানব সভ্যতার **evolutionary** পথ এক দীর্ঘ এবং জটিল প্রক্রিয়া। **Prehistoric** যুগে মানুষ ছিল **nomadic**, যেখানে তারা খাবারের সন্ধানে এক জায়গা থেকে অন্য জায়গায় যেত। তবে, **domestication** এবং **agricultural** প্রযুক্তির আবিষ্কার সভ্যতার **genesis** ঘটায়।\n\nসেই সময়, মানব সমাজের **cultural** ভিত্তি তৈরি হয় এবং মানুষ একটি সংগঠিত সমাজের দিকে অগ্রসর হতে শুরু করে। **Megalithic** স্থাপত্য এবং প্রাচীন সভ্যতাগুলোর মাধ্যমে তারা তাদের জীবনের ধারণা এবং ইতিহাস রচনা করেছিল।\n\n**Industrialization** এবং **urbanization** সভ্যতাকে আরও এগিয়ে নিয়ে যায়, যেখানে **technological** অগ্রগতি এবং **sociopolitical** পরিবর্তন সমগ্র পৃথিবীকে একসূত্রে বেঁধে দেয়। তবে, এই পরিবর্তনের মধ্যে **integration** এবং **collectivism** প্রয়োজন, যাতে সমাজের সমস্ত স্তরের মানুষ উপকৃত হয়।\n\nআজকের দিনে, **sustainability** এবং পরিবেশের প্রতি **responsibility** মানব সভ্যতার অগ্রগতির নতুন দিক উন্মোচন করছে।"
+    },
+    "list": [
+        {
+            "word": "evolutionary",
+            "phonetic": "ˌiːvəˈluːʃənəri",
+            "word_native_transliteration": {
+                "bn": "ইভোলিউশনারি"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧬",
+            "meaning": "Relating to or denoting the gradual development of something, especially from a simple to a more complex form.",
+            "example_sentence": "The evolutionary changes in species are fascinating.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইভোলিউশনারি চেঞ্জেস ইন স্পিসিস আর ফ্যাসিনেটিং।"
+            },
+            "position": 1,
+            "synonyms": "progressive, developmental",
+            "antonyms": "static, unchanging",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিবর্তনীয়, পরিবর্তনশীল",
+                    "word_transliteration": "bibortoniyyo, poriborttonshil",
+                    "example_sentence_translation": "প্রজাতির বিবর্তনীয় পরিবর্তনগুলি চমকপ্রদ।",
+                    "example_sentence_transliteration": "Projatir bibortoniyyo poriborttongulio chomokprodo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "prehistoric",
+            "phonetic": "ˌpriːhɪˈstɒrɪk",
+            "word_native_transliteration": {
+                "bn": "প্রিহিস্টোরিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🦴",
+            "meaning": "Belonging to the time before written records.",
+            "example_sentence": "The prehistoric era was marked by the rise of early humans.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রিহিস্টোরিক এরা ওয়াজ মার্কড বাই দ্য রাইজ অফ আর্লি হিউম্যানস।"
+            },
+            "position": 2,
+            "synonyms": "ancient, primitive",
+            "antonyms": "modern, contemporary",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রাগৈতিহাসিক, ইতিহাসের আগের সময়কাল",
+                    "word_transliteration": "pragotihasik, itihasher ager shomoykal",
+                    "example_sentence_translation": "প্রাগৈতিহাসিক যুগটি প্রাথমিক মানুষের উত্থান দ্বারা চিহ্নিত ছিল।",
+                    "example_sentence_transliteration": "Pragotihasik zugti prathomik manusher utthan dwara chihnito chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "nomadic",
+            "phonetic": "nəʊˈmædɪk",
+            "word_native_transliteration": {
+                "bn": "নোম্যাডিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🏕️",
+            "meaning": "Living the life of a nomad; wandering.",
+            "example_sentence": "The nomadic tribes moved from place to place in search of resources.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নোম্যাডিক ট্রাইবস মুভড ফ্রম প্লেস টু প্লেস ইন সার্চ অফ রিসোর্সেস।"
+            },
+            "position": 3,
+            "synonyms": "itinerant, migratory",
+            "antonyms": "settled, stationary",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "যাযাবর, এক স্থান থেকে অন্য স্থানে চলাফেরা করা",
+                    "word_transliteration": "jayabor, ek sthan theke onno sthane cholafeira kora",
+                    "example_sentence_translation": "যাযাবর উপজাতিগুলি সম্পদ অনুসন্ধানের জন্য এক স্থান থেকে অন্য স্থানে চলে যেত।",
+                    "example_sentence_transliteration": "Jayabor upojatigulio shompod onushondhaner jonno ek sthan theke onno sthane chole jeto.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "domestication",
+            "phonetic": "dəˌmɛstɪˈkeɪʃən",
+            "word_native_transliteration": {
+                "bn": "ডোমেস্টিকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🐄",
+            "meaning": "The process of taming an animal and keeping it as a pet or for farm produce.",
+            "example_sentence": "Domestication of animals has been crucial for human survival.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডোমেস্টিকেশন অফ অ্যানিম্যালস হ্যাজ বিন ক্রুসিয়াল ফর হিউম্যান সারভাইভাল।"
+            },
+            "position": 4,
+            "synonyms": "taming, cultivation",
+            "antonyms": "wildness, feral",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গৃহপালিতকরণ, পোষা প্রাণী বা উদ্ভিদ উৎপাদন",
+                    "word_transliteration": "grihpalitkoron, posha prani ba udbhid utpadon",
+                    "example_sentence_translation": "পশুদের গৃহপালিতকরণ মানুষের জীবনের জন্য গুরুত্বপূর্ণ ছিল।",
+                    "example_sentence_transliteration": "Poshudor grihpalitkoron manusher jiboner jonno gurutbopurno chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "agricultural",
+            "phonetic": "ˌæɡrɪˈkʌltʃərəl",
+            "word_native_transliteration": {
+                "bn": "এগ্রিকালচারাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌾",
+            "meaning": "Connected with farming.",
+            "example_sentence": "Agricultural practices have evolved over centuries.",
+            "example_sentence_native_transliteration": {
+                "bn": "এগ্রিকালচারাল প্র্যাকটিসেস হ্যাভ ইভলভড ওভার সেঞ্চুরিজ।"
+            },
+            "position": 5,
+            "synonyms": "farming, cultivational",
+            "antonyms": "industrial, non-agricultural",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কৃষি-সম্পর্কিত, কৃষি বিষয়ক",
+                    "word_transliteration": "krishi-shomporkito, krishi bishoyok",
+                    "example_sentence_translation": "কৃষি পদ্ধতিগুলি শতাব্দীর পর শতাব্দী উন্নত হয়েছে।",
+                    "example_sentence_transliteration": "Krishi poddhotigolio shatabdir por shatabdi unnoto hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "genesis",
+            "phonetic": "ˈdʒɛnɪsɪs",
+            "word_native_transliteration": {
+                "bn": "জেনেসিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌱",
+            "meaning": "The origin or mode of formation of something.",
+            "example_sentence": "The genesis of the internet changed the world forever.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য জেনেসিস অফ দ্য ইন্টারনেট চেঞ্জড দ্য ওয়ার্ল্ড ফরএভার।"
+            },
+            "position": 6,
+            "synonyms": "origin, beginning",
+            "antonyms": "end, termination",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উৎপত্তি, সৃষ্টি",
+                    "word_transliteration": "utpotti, srishti",
+                    "example_sentence_translation": "ইন্টারনেটের উৎপত্তি পৃথিবীকে চিরকাল বদলে দিয়েছে।",
+                    "example_sentence_transliteration": "Interneter utpotti prithibike chirokal bodle diyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cultural",
+            "phonetic": "ˈkʌltʃərəl",
+            "word_native_transliteration": {
+                "bn": "কালচারাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎭",
+            "meaning": "Relating to the arts and to intellectual achievements.",
+            "example_sentence": "Cultural diversity enriches society and promotes tolerance.",
+            "example_sentence_native_transliteration": {
+                "bn": "কালচারাল ডাইভার্সিটি এনরিচেস সোসাইটি অ্যান্ড প্রোমোটস টলারেন্স।"
+            },
+            "position": 7,
+            "synonyms": "social, artistic",
+            "antonyms": "uncultural, non-cultural",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সাংস্কৃতিক, সংস্কৃতি সম্পর্কিত",
+                    "word_transliteration": "shangskkritik, shongskriti shomporkito",
+                    "example_sentence_translation": "সাংস্কৃতিক বৈচিত্র্য সমাজকে সমৃদ্ধ করে এবং সহিষ্ণুতা বৃদ্ধি করে।",
+                    "example_sentence_transliteration": "Shangskkritik boichitro shomajoie shomriddho kore ebong shohishnuta briddhi kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "society",
+            "phonetic": "səˈsaɪəti",
+            "word_native_transliteration": {
+                "bn": "সোসাইটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👥",
+            "meaning": "The aggregate of people living together in a more or less ordered community.",
+            "example_sentence": "Society plays a pivotal role in shaping an individual's values.",
+            "example_sentence_native_transliteration": {
+                "bn": "সোসাইটি প্লেজ এ পিভোটাল রোল ইন শেপিং অ্যান ইন্ডিভিজুয়ালস ভ্যালুজ।"
+            },
+            "position": 8,
+            "synonyms": "community, population",
+            "antonyms": "individualism, solitude",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সমাজ, জনগণ",
+                    "word_transliteration": "shomaj, jonogon",
+                    "example_sentence_translation": "সমাজ একজন ব্যক্তির মূল্যবোধ গঠনে গুরুত্বপূর্ণ ভূমিকা পালন করে।",
+                    "example_sentence_transliteration": "Shomaj ekjon bekitir mullobodh gothone gurutbopurno bhumika palon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "megalithic",
+            "phonetic": "ˌmɛɡəˈlɪθɪk",
+            "word_native_transliteration": {
+                "bn": "মেগালিথিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🗿",
+            "meaning": "Relating to or denoting prehistoric monuments made of or containing large stones.",
+            "example_sentence": "The megalithic structures in ancient civilizations are fascinating.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য মেগালিথিক স্ট্রাকচারস ইন এনসিয়েন্ট সিভিলাইজেশনস আর ফ্যাসিনেটিং।"
+            },
+            "position": 9,
+            "synonyms": "stone, monumental",
+            "antonyms": "miniature, tiny",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৃহৎ পাথরের নির্মাণকর্মের, প্রাচীন বড় পাথর ব্যবহার",
+                    "word_transliteration": "brihat pathorer nirmankormer, prachin boro pathor bebhaor",
+                    "example_sentence_translation": "প্রাচীন সভ্যতায় বৃহৎ পাথরের নির্মাণগুলি চমকপ্রদ।",
+                    "example_sentence_transliteration": "Prachin shobhotay brihat pathorer nirmangouli chomokprodo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "architecture",
+            "phonetic": "ˈɑːkɪtɛktʃər",
+            "word_native_transliteration": {
+                "bn": "আর্কিটেকচার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏛️",
+            "meaning": "The art or science of designing and constructing buildings.",
+            "example_sentence": "The architecture of ancient temples reflects the culture of the time.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য আর্কিটেকচার অফ এনসিয়েন্ট টেম্পলস রিফ্লেক্টস দ্য কালচার অফ দ্য টাইম।"
+            },
+            "position": 10,
+            "synonyms": "design, construction",
+            "antonyms": "destruction, demolition",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্থাপত্য, নির্মাণশিল্প",
+                    "word_transliteration": "sthapotyo, nirmanshilpo",
+                    "example_sentence_translation": "প্রাচীন মন্দিরগুলির স্থাপত্য সময়ের সংস্কৃতিকে প্রতিফলিত করে।",
+                    "example_sentence_transliteration": "Prachin mondirgulir sthapotyo shomyer songskritike protifolito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "civilizations",
+            "phonetic": "sɪvɪˈlɪzeɪʃənz",
+            "word_native_transliteration": {
+                "bn": "সিভিলাইজেশনস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏺",
+            "meaning": "The stage of human social development and organization that is considered most advanced.",
+            "example_sentence": "Ancient civilizations developed complex systems of governance.",
+            "example_sentence_native_transliteration": {
+                "bn": "এনসিয়েন্ট সিভিলাইজেশনস ডেভেলপড কমপ্লেক্স সিস্টেমস অফ গভর্নেন্স।"
+            },
+            "position": 11,
+            "synonyms": "societies, cultures",
+            "antonyms": "barbarism, savagery",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সভ্যতা, উন্নত সমাজ",
+                    "word_transliteration": "shobhota, unnoto shomaj",
+                    "example_sentence_translation": "প্রাচীন সভ্যতাগুলি জটিল শাসন ব্যবস্থা তৈরি করেছিল।",
+                    "example_sentence_transliteration": "Prachin shobhotaguli jotil shashon bebostha toiri korechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "industrialization",
+            "phonetic": "ɪnˌdʌstrɪəlaɪˈzeɪʃən",
+            "word_native_transliteration": {
+                "bn": "ইন্ডাস্ট্রিয়ালাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏭",
+            "meaning": "The development of industries in a country or region on a wide scale.",
+            "example_sentence": "Industrialization changed the global economy dramatically.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইন্ডাস্ট্রিয়ালাইজেশন চেঞ্জড দ্য গ্লোবাল ইকোনমি ড্রামাটিক্যালি।"
+            },
+            "position": 12,
+            "synonyms": "urbanization, mechanization",
+            "antonyms": "deindustrialization, decline",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শিল্পায়ন, কারখানা প্রতিষ্ঠা",
+                    "word_transliteration": "shilpayon, karkhana protishtha",
+                    "example_sentence_translation": "শিল্পায়ন বিশ্ব অর্থনীতিতে নাটকীয় পরিবর্তন এনেছে।",
+                    "example_sentence_transliteration": "Shilpayon bishho orthonititei natkiyo poriborton eneche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "urbanization",
+            "phonetic": "ˌɜːbənaɪˈzeɪʃən",
+            "word_native_transliteration": {
+                "bn": "আর্বানাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏙️",
+            "meaning": "The process by which towns and cities are formed and become larger as more people begin living and working in central areas.",
+            "example_sentence": "Urbanization leads to more developed infrastructure.",
+            "example_sentence_native_transliteration": {
+                "bn": "আর্বানাইজেশন লিডস টু মোর ডেভেলপড ইনফ্রাস্ট্রাকচার।"
+            },
+            "position": 13,
+            "synonyms": "city development, metropolization",
+            "antonyms": "ruralization, suburbanization",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শহুরে জীবনের প্রসার, নগরায়ন",
+                    "word_transliteration": "shohure jiboner proshar, nogorayon",
+                    "example_sentence_translation": "নগরায়ন উন্নত পরিকাঠামোর দিকে নিয়ে যায়।",
+                    "example_sentence_transliteration": "Nogorayon unnoto porikathhamor dike niye jay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "technological",
+            "phonetic": "ˌtɛkˈnɒlədʒɪkəl",
+            "word_native_transliteration": {
+                "bn": "টেকনোলজিকাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💻",
+            "meaning": "Relating to or involving the application of technology.",
+            "example_sentence": "Technological advancements are reshaping industries worldwide.",
+            "example_sentence_native_transliteration": {
+                "bn": "টেকনোলজিকাল অ্যাডভান্সমেন্টস আর রিশেপিং ইন্ডাস্ট্রিজ ওয়ার্ল্ডওয়াইড।"
+            },
+            "position": 14,
+            "synonyms": "digital, scientific",
+            "antonyms": "non-technical, primitive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রযুক্তিগত, প্রযুক্তির সম্পর্কিত",
+                    "word_transliteration": "projuktigoto, projuktir shomporkito",
+                    "example_sentence_translation": "প্রযুক্তিগত অগ্রগতি বিশ্বব্যাপী শিল্পগুলিকে নতুন করে গঠন করছে।",
+                    "example_sentence_transliteration": "Projuktigoto agrogoti bishhobeapi shilpoguloke notun kore gothon korche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sociopolitical",
+            "phonetic": "ˌsəʊsɪəʊpəˈlɪtɪkəl",
+            "word_native_transliteration": {
+                "bn": "সোশিওপলিটিক্যাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚖️",
+            "meaning": "Combining social and political factors.",
+            "example_sentence": "Sociopolitical factors often influence public policy decisions.",
+            "example_sentence_native_transliteration": {
+                "bn": "সোশিওপলিটিক্যাল ফ্যাক্টরস অফেন ইনফ্লুয়েন্স পাবলিক পলিসি ডিসিশনস।"
+            },
+            "position": 15,
+            "synonyms": "political, social",
+            "antonyms": "apolitical, indifferent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সামাজিক ও রাজনৈতিক, রাষ্ট্র সম্পর্কিত",
+                    "word_transliteration": "shamajik o rajnoitik, rashtra shomporkito",
+                    "example_sentence_translation": "সামাজিক ও রাজনৈতিক উপাদানগুলি প্রায়ই জননীতি সিদ্ধান্তকে প্রভাবিত করে।",
+                    "example_sentence_transliteration": "Shamajik o rajnoitik upadangulo proyoi jononiti siddhantoike probhabito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "integration",
+            "phonetic": "ˌɪntɪˈɡreɪʃən",
+            "word_native_transliteration": {
+                "bn": "ইন্টিগ্রেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "The action or process of integrating.",
+            "example_sentence": "Integration of technology in education has improved learning outcomes.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইন্টিগ্রেশন অফ টেকনোলজি ইন এডুকেশন হ্যাজ ইমপ্রুভড লার্নিং আউটকামস।"
+            },
+            "position": 16,
+            "synonyms": "unification, combination",
+            "antonyms": "segregation, division",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একীভূতকরণ, মিশ্রণ",
+                    "word_transliteration": "ekibhutkoron, mishron",
+                    "example_sentence_translation": "শিক্ষায় প্রযুক্তির একীভূতকরণ শেখার ফলাফল উন্নত করেছে।",
+                    "example_sentence_transliteration": "Shikkhay projuktir ekibhutkoron shekhar folafol unnoto koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "collectivism",
+            "phonetic": "kəˈlɛktɪvɪzəm",
+            "word_native_transliteration": {
+                "bn": "কলেকটিভিজম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👫",
+            "meaning": "The practice or principle of giving a group priority over each individual in it.",
+            "example_sentence": "Collectivism emphasizes the importance of group over individual interests.",
+            "example_sentence_native_transliteration": {
+                "bn": "কলেকটিভিজম এমফেসাইজেস দ্য ইমপর্ট্যান্স অফ গ্রুপ ওভার ইন্ডিভিজুয়াল ইন্টারেস্টস।"
+            },
+            "position": 17,
+            "synonyms": "cooperation, unity",
+            "antonyms": "individualism, egoism",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সমষ্টিবাদ, দলীয় মনোভাব",
+                    "word_transliteration": "shomostiibad, doliyo monobhab",
+                    "example_sentence_translation": "সমষ্টিবাদ ব্যক্তিগত স্বার্থের চেয়ে দলগত গুরুত্ব দেয়।",
+                    "example_sentence_transliteration": "Shomostiibad bektigoto sharther cheye dologoto gurutto dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sustainability",
+            "phonetic": "səˌsteɪnəˈbɪlɪti",
+            "word_native_transliteration": {
+                "bn": "সাস্টেইনেবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌍",
+            "meaning": "The ability to be maintained at a certain rate or level.",
+            "example_sentence": "Sustainability is key to maintaining ecological balance.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাস্টেইনেবিলিটি ইজ কি টু মেইনটেইনিং ইকোলজিক্যাল ব্যালান্স।"
+            },
+            "position": 18,
+            "synonyms": "endurance, viability",
+            "antonyms": "unsustainability, fragility",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্থায়িত্ব, টেকসইতা",
+                    "word_transliteration": "sthayitto, tekshoita",
+                    "example_sentence_translation": "টেকসইতা পরিবেশগত ভারসাম্য বজায় রাখতে চাবিকাঠি।",
+                    "example_sentence_transliteration": "Tekshoita poribeshgoto bharshamo bojay rakhte chabikathi.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "responsibility",
+            "phonetic": "rɪˌspɒnsəˈbɪlɪti",
+            "word_native_transliteration": {
+                "bn": "রেসপন্সিবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📋",
+            "meaning": "The state or fact of having a duty to deal with something or of having control over someone.",
+            "example_sentence": "Taking responsibility for one's actions is a sign of maturity.",
+            "example_sentence_native_transliteration": {
+                "bn": "টেকিং রেসপন্সিবিলিটি ফর ওয়ানস অ্যাকশনস ইজ এ সাইন অফ ম্যাচুরিটি।"
+            },
+            "position": 19,
+            "synonyms": "accountability, obligation",
+            "antonyms": "irresponsibility, neglect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দায়িত্ব, কর্তব্য",
+                    "word_transliteration": "dayitto, kortobbo",
+                    "example_sentence_translation": "নিজের কাজের জন্য দায়িত্ব নেওয়া পরিপক্বতার লক্ষণ।",
+                    "example_sentence_transliteration": "Nijer kajer jonno dayitto neoya poripokbotar lokkho.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}
