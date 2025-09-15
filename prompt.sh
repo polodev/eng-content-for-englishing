@@ -1,13 +1,5 @@
 #!/bin/bash
 files=(
- "prompts-single-file/213-learn-vocabulary-through-stories-prompt.md"
- "prompts-single-file/214-learn-vocabulary-through-stories-prompt.md"
- "prompts-single-file/215-learn-vocabulary-through-stories-prompt.md"
- "prompts-single-file/216-learn-vocabulary-through-stories-prompt.md"
- "prompts-single-file/217-learn-vocabulary-through-stories-prompt.md"
- "prompts-single-file/218-learn-vocabulary-through-stories-prompt.md"
- "prompts-single-file/219-learn-vocabulary-through-stories-prompt.md"
- "prompts-single-file/220-learn-vocabulary-through-stories-prompt.md"
  "prompts-single-file/221-learn-vocabulary-through-stories-prompt.md"
  "prompts-single-file/222-learn-vocabulary-through-stories-prompt.md"
  "prompts-single-file/223-learn-vocabulary-through-stories-prompt.md"

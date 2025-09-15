@@ -1,0 +1,472 @@
+{
+    "position": 219,
+    "title_translation": {
+        "en": "The Science Behind Self-Discipline",
+        "bn": "Self-discipline এর পেছনের বিজ্ঞান"
+    },
+    "content_translation": {
+        "en": "**Self-discipline** is a skill that is not just a habit; it develops through **cognizant** and **empirical** processes of the brain. It is a **manifestation** of self-control that helps us in our daily **endeavors**.\n\nResearch suggests that **self-discipline** primarily develops through the process of **modulation**. The more our **deduction** ability and **acumen** grow, the more **tenacity** we can show in achieving our goals.\n\nHowever, this can be challenging because the brain naturally creates an **impasse** and prioritizes comfortable situations. This is why **perseverance** is extremely important, which helps **augment** our strength.\n\nTo develop this skill, regular **introspection** must be done and positive habits must be **inculcated**. By using **meticulous** planning and **reinforce** techniques, we can increase our self-control and successfully deal with every **conundrum** in life.",
+        "bn": "**Self-discipline** একটি এমন দক্ষতা যা শুধুমাত্র অভ্যাস নয়, এটি মস্তিষ্কের **cognizant** এবং **empirical** কার্যপ্রক্রিয়ার মাধ্যমে গড়ে ওঠে। এটি আত্মনিয়ন্ত্রণের **manifestation**, যা আমাদের প্রতিদিনের **endeavor** গুলোতে সাহায্য করে।\n\nগবেষণা বলছে, **self-discipline** মূলত **modulation** প্রক্রিয়ার মাধ্যমে বিকশিত হয়। আমাদের **deduction** ক্ষমতা এবং **acumen** যত বাড়ে, তত বেশি আমরা আমাদের লক্ষ অর্জনে **tenacity** দেখাতে পারি।\n\nতবে, এটি চ্যালেঞ্জিং হতে পারে, কারণ মস্তিষ্ক স্বাভাবিকভাবে **impasse** সৃষ্টি করে এবং আরামদায়ক অবস্থাকে প্রাধান্য দেয়। এজন্যই **perseverance** অত্যন্ত গুরুত্বপূর্ণ, যা আমাদের শক্তি **augment** করতে সাহায্য করে।\n\nএই দক্ষতা গড়ে তুলতে হলে নিয়মিত **introspection** করতে হবে এবং ইতিবাচক অভ্যাস **inculcate** করতে হবে। **Meticulous** পরিকল্পনা এবং **reinforce** কৌশল ব্যবহার করে আমরা আমাদের আত্মনিয়ন্ত্রণ বাড়াতে পারি এবং জীবনের প্রতিটি **conundrum** সফলভাবে মোকাবিলা করতে পারি।"
+    },
+    "list": [
+        {
+            "word": "self-discipline",
+            "phonetic": "/sɛlf ˈdɪs.ə.plɪn/",
+            "word_native_transliteration": {
+                "bn": "সেলফ ডিসিপ্লিন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The ability to control one's own behavior and actions.",
+            "example_sentence": "Self-discipline is key to achieving long-term success.",
+            "example_sentence_native_transliteration": {
+                "bn": "সেলফ ডিসিপ্লিন ইজ কি টু অ্যাচিভিং লং-টার্ম সাকসেস।"
+            },
+            "position": 1,
+            "synonyms": "willpower, self-control, determination",
+            "antonyms": "indulgence, laziness, carelessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আত্মনিয়ন্ত্রণ",
+                    "word_transliteration": "atmoniyontron",
+                    "example_sentence_translation": "দীর্ঘমেয়াদী সফলতার জন্য আত্মনিয়ন্ত্রণ অপরিহার্য।",
+                    "example_sentence_transliteration": "Dirghomeyadi shofolotar jonno atmoniyontron oporoharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cognizant",
+            "phonetic": "/ˈkɒɡ.nɪ.zənt/",
+            "word_native_transliteration": {
+                "bn": "কগনিজ্যান্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧠",
+            "meaning": "Being aware of and understanding something.",
+            "example_sentence": "He was cognizant of the risks involved in the project.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি ওয়াজ কগনিজ্যান্ট অব দ্য রিস্কস ইনভলভড ইন দ্য প্রজেক্ট।"
+            },
+            "position": 2,
+            "synonyms": "aware, mindful, conscious",
+            "antonyms": "unaware, oblivious, ignorant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সচেতন",
+                    "word_transliteration": "shocheton",
+                    "example_sentence_translation": "তিনি প্রকল্পে অন্তর্নিহিত ঝুঁকিগুলোর সম্পর্কে সচেতন ছিলেন।",
+                    "example_sentence_transliteration": "Tini prokolpe ontornihito jhukigulor shomporke shocheton chhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "empirical",
+            "phonetic": "/ɪmˈpɪr.ɪ.kəl/",
+            "word_native_transliteration": {
+                "bn": "এমপিরিক্যাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔬",
+            "meaning": "Based on observation and experience rather than theory.",
+            "example_sentence": "The study is based on empirical data rather than assumptions.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্টাডি ইজ বেজড অন এমপিরিক্যাল ডেটা রাদার দ্যান এজাম্পশনস।"
+            },
+            "position": 3,
+            "synonyms": "experimental, practical, observational",
+            "antonyms": "theoretical, hypothetical, speculative",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অভিজ্ঞতালব্ধ",
+                    "word_transliteration": "obhiggyotalobdho",
+                    "example_sentence_translation": "গবেষণাটি অনুমানের পরিবর্তে অভিজ্ঞতালব্ধ তথ্যের উপর ভিত্তি করে তৈরি।",
+                    "example_sentence_transliteration": "Gobeshonati onumaner poribortey obhiggyatolobdho tothyer upor bhitti kore toiri.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "manifestation",
+            "phonetic": "/ˌmæn.ɪ.fɛsˈteɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ম্যানিফেস্টেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✨",
+            "meaning": "A visible display or expression of something.",
+            "example_sentence": "His hard work was a manifestation of his dedication.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ হার্ড ওয়ার্ক ওয়াজ আ ম্যানিফেস্টেশন অব হিজ ডেডিকেশন।"
+            },
+            "position": 4,
+            "synonyms": "display, expression, demonstration",
+            "antonyms": "concealment, suppression, hiding",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রকাশ",
+                    "word_transliteration": "prokash",
+                    "example_sentence_translation": "তার কঠোর পরিশ্রম তার নিষ্ঠার বহিঃপ্রকাশ ছিল।",
+                    "example_sentence_transliteration": "Tar kothoro porishrom tar nishthar bohihprokash chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "endeavor",
+            "phonetic": "/ɪnˈdɛv.ər/",
+            "word_native_transliteration": {
+                "bn": "এনডেভার"
+            },
+            "parts_of_speech": "noun/verb",
+            "emoji": "💪",
+            "meaning": "A serious attempt or effort to achieve something.",
+            "example_sentence": "His endeavor to start a business was successful.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ এনডেভার টু স্টার্ট আ বিজনেস ওয়াজ সাকসেসফুল।"
+            },
+            "position": 5,
+            "synonyms": "attempt, effort, pursuit",
+            "antonyms": "inactivity, idleness, neglect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রচেষ্টা",
+                    "word_transliteration": "procheshta",
+                    "example_sentence_translation": "ব্যবসা শুরু করার তার প্রচেষ্টা সফল হয়েছিল।",
+                    "example_sentence_transliteration": "Bybosa shuru korar tar procheshta shofol hoyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "modulation",
+            "phonetic": "/ˌmɒd.jʊˈleɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "মডুলেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎵",
+            "meaning": "The process of varying or controlling something.",
+            "example_sentence": "The speaker's modulation kept the audience engaged.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্পিকারস মডুলেশন কেপ্ট দ্য অডিয়েন্স এনগেজড।"
+            },
+            "position": 6,
+            "synonyms": "adjustment, variation, control",
+            "antonyms": "monotony, inflexibility, uniformity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সুর পরিবর্তন",
+                    "word_transliteration": "shur poribortom",
+                    "example_sentence_translation": "বক্তার স্বরের পরিবর্তন শ্রোতাদের মনোযোগ ধরে রেখেছিল।",
+                    "example_sentence_transliteration": "Boktar shworer poribortom shrotader monojog dhore rekhechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "deduction",
+            "phonetic": "/dɪˈdʌk.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ডিডাকশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔍",
+            "meaning": "The process of reaching a conclusion through logical reasoning.",
+            "example_sentence": "His deduction from the evidence was accurate.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ডিডাকশন ফ্রম দ্য এভিডেন্স ওয়াজ এক্যুরেট।"
+            },
+            "position": 7,
+            "synonyms": "reasoning, conclusion, inference",
+            "antonyms": "misinterpretation, guesswork, speculation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "যুক্তিগত সিদ্ধান্ত",
+                    "word_transliteration": "yuktigoto shiddhanto",
+                    "example_sentence_translation": "প্রমাণ থেকে তার যুক্তিগত সিদ্ধান্ত নির্ভুল ছিল।",
+                    "example_sentence_transliteration": "Proman theke tar yuktigoto shiddhanto nirbhul chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "acumen",
+            "phonetic": "/ˈæk.jʊ.mən/",
+            "word_native_transliteration": {
+                "bn": "অ্যাকুমেন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💡",
+            "meaning": "The ability to make quick and accurate judgments.",
+            "example_sentence": "His business acumen led to the company's success.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ বিজনেস অ্যাকুমেন লেড টু দ্য কোম্পানিজ সাকসেস।"
+            },
+            "position": 8,
+            "synonyms": "insight, intelligence, sharpness",
+            "antonyms": "foolishness, ineptitude, ignorance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "তীক্ষ্ণ বুদ্ধিমত্তা",
+                    "word_transliteration": "tikkhno buddhimotta",
+                    "example_sentence_translation": "তার ব্যবসায়িক উপলব্ধি শক্তি কোম্পানির সাফল্যের কারণ হয়েছে।",
+                    "example_sentence_transliteration": "Tar byabasayik upolabdhi shokti companir shafolyyer karon hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "tenacity",
+            "phonetic": "/təˈnæs.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "টেনাসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "The quality of being determined and persistent.",
+            "example_sentence": "Her tenacity helped her overcome challenges.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার টেনাসিটি হেল্পড হার ওভারকাম চ্যালেঞ্জেস।"
+            },
+            "position": 9,
+            "synonyms": "determination, persistence, resilience",
+            "antonyms": "weakness, indecisiveness, surrender",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অটলতা",
+                    "word_transliteration": "otolota",
+                    "example_sentence_translation": "তার দৃঢ়সংকল্প তাকে চ্যালেঞ্জ মোকাবিলা করতে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Tar dridhoshonkolpo take challenge mokabila korte shahajyo koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "impasse",
+            "phonetic": "/ˈɪm.pæs/",
+            "word_native_transliteration": {
+                "bn": "ইমপাস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚧",
+            "meaning": "A situation where no progress is possible.",
+            "example_sentence": "The negotiations reached an impasse, delaying the agreement.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিগোসিয়েশনস রিচড অ্যান ইমপাস, ডিলেয়িং দ্য এগ্রিমেন্ট।"
+            },
+            "position": 10,
+            "synonyms": "deadlock, stalemate, standstill",
+            "antonyms": "breakthrough, progress, resolution",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অচলাবস্থা",
+                    "word_transliteration": "ocholabostha",
+                    "example_sentence_translation": "আলোচনাটি অচলাবস্থায় পৌঁছায়, যার ফলে চুক্তি বিলম্বিত হয়।",
+                    "example_sentence_transliteration": "Alochonati ocholabosthai pouchhay, jar phole chukti bilombito hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "perseverance",
+            "phonetic": "/ˌpɜː.sɪˈvɪə.rəns/",
+            "word_native_transliteration": {
+                "bn": "পারসিভিয়ারেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏃‍♂️",
+            "meaning": "Persistence in doing something despite difficulty.",
+            "example_sentence": "His perseverance helped him achieve his dreams.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ পারসিভিয়ারেন্স হেল্পড হিম অ্যাচিভ হিজ ড্রিমস।"
+            },
+            "position": 11,
+            "synonyms": "persistence, determination, tenacity",
+            "antonyms": "laziness, weakness, giving up",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অধ্যবসায়",
+                    "word_transliteration": "odhyoboshay",
+                    "example_sentence_translation": "তার অধ্যবসায় তাকে স্বপ্ন পূরণে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Tar odhyoboshay take shopno purone shahajyo koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "augment",
+            "phonetic": "/ɔːɡˈmɛnt/",
+            "word_native_transliteration": {
+                "bn": "অগমেন্ট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📈",
+            "meaning": "To increase or enhance something.",
+            "example_sentence": "The company plans to augment its workforce next year.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি প্ল্যানস টু অগমেন্ট ইটস ওয়ার্কফোর্স নেক্সট ইয়ার।"
+            },
+            "position": 12,
+            "synonyms": "increase, enhance, amplify",
+            "antonyms": "reduce, decrease, diminish",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৃদ্ধি করা",
+                    "word_transliteration": "briddhi kora",
+                    "example_sentence_translation": "কোম্পানিটি আগামী বছরে তার কর্মী বাহিনী বৃদ্ধি করার পরিকল্পনা করেছে।",
+                    "example_sentence_transliteration": "Companiti agami bochhore tar kormi bahini briddhi korar porikolpona koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "introspection",
+            "phonetic": "/ˌɪn.trəˈspek.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ইন্ট্রোস্পেকশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤔",
+            "meaning": "The examination of one's own thoughts and feelings.",
+            "example_sentence": "Through introspection, he realized his mistakes.",
+            "example_sentence_native_transliteration": {
+                "bn": "থ্রু ইন্ট্রোস্পেকশন, হি রিয়ালাইজড হিজ মিস্টেকস।"
+            },
+            "position": 13,
+            "synonyms": "self-examination, reflection, contemplation",
+            "antonyms": "ignorance, neglect, disregard",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আত্মবিশ্লেষণ",
+                    "word_transliteration": "atmobishleshon",
+                    "example_sentence_translation": "আত্মবিশ্লেষণের মাধ্যমে তিনি তার ভুলগুলো বুঝতে পেরেছিলেন।",
+                    "example_sentence_transliteration": "Atmobishleshoner madhyome tini tar bhulgulo bujhte perechhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "inculcate",
+            "phonetic": "/ˈɪn.kʌl.keɪt/",
+            "word_native_transliteration": {
+                "bn": "ইনকালকেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🌱",
+            "meaning": "To instill an idea or attitude by persistent instruction.",
+            "example_sentence": "Parents should inculcate good values in their children.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্যারেন্টস শুড ইনকালকেট গুড ভ্যালুজ ইন দেয়ার চিলড্রেন।"
+            },
+            "position": 14,
+            "synonyms": "instill, teach, imprint",
+            "antonyms": "forget, neglect, ignore",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গেঁথে দেওয়া",
+                    "word_transliteration": "gethe deoya",
+                    "example_sentence_translation": "অভিভাবকদের উচিত তাদের সন্তানদের মধ্যে ভালো মূল্যবোধ গেঁথে দেওয়া।",
+                    "example_sentence_transliteration": "Obhibhabokder uchit tader shontander modhye bhalo mullyobodh gethe deoya.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "meticulous",
+            "phonetic": "/məˈtɪk.jə.ləs/",
+            "word_native_transliteration": {
+                "bn": "মেটিকুলাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔍",
+            "meaning": "Showing great attention to detail; very careful.",
+            "example_sentence": "A meticulous planner ensures that no details are overlooked.",
+            "example_sentence_native_transliteration": {
+                "bn": "আ মেটিকুলাস প্ল্যানার এনশিওরস দ্যাট নো ডিটেইলস আর ওভারলুকড।"
+            },
+            "position": 15,
+            "synonyms": "precise, thorough, detail-oriented",
+            "antonyms": "careless, inaccurate, negligent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিখুঁত",
+                    "word_transliteration": "nikhuto",
+                    "example_sentence_translation": "একজন নিখুঁত পরিকল্পনাকারী নিশ্চিত করে যে কোনো বিস্তারিত তথ্য বাদ না যায়।",
+                    "example_sentence_transliteration": "Ekjon nikhuto porikolponakarri nishchit kore je kono bishtarito tothyo bad na jay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "reinforce",
+            "phonetic": "/ˌriː.ɪnˈfɔːrs/",
+            "word_native_transliteration": {
+                "bn": "রিইনফোর্স"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "💪",
+            "meaning": "To strengthen or support something.",
+            "example_sentence": "Teachers use real-life examples to reinforce learning.",
+            "example_sentence_native_transliteration": {
+                "bn": "টিচারস ইউজ রিয়াল-লাইফ এক্সাম্পলস টু রিইনফোর্স লার্নিং।"
+            },
+            "position": 16,
+            "synonyms": "strengthen, fortify, support",
+            "antonyms": "weaken, undermine, diminish",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শক্তিশালী করা",
+                    "word_transliteration": "shoktishali kora",
+                    "example_sentence_translation": "শিক্ষকরা শেখাকে শক্তিশালী করতে বাস্তব জীবনের উদাহরণ ব্যবহার করেন।",
+                    "example_sentence_transliteration": "Shikkhokra shekhake shoktishali korte bashtob jiboner udaharon byabohar koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "conundrum",
+            "phonetic": "/kəˈnʌn.drəm/",
+            "word_native_transliteration": {
+                "bn": "কনানড্রাম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧩",
+            "meaning": "A confusing and difficult problem or question.",
+            "example_sentence": "The budget deficit presents a tough conundrum for policymakers.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য বাজেট ডেফিসিট প্রেজেন্টস আ টাফ কনানড্রাম ফর পলিসিমেকারস।"
+            },
+            "position": 17,
+            "synonyms": "puzzle, dilemma, enigma",
+            "antonyms": "solution, clarity, answer",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জটিল সমস্যা",
+                    "word_transliteration": "jotil shomoshya",
+                    "example_sentence_translation": "বাজেট ঘাটতি নীতি নির্ধারকদের জন্য একটি কঠিন সমস্যা তৈরি করেছে।",
+                    "example_sentence_transliteration": "Budget ghatoti niti nirdharkder jonno ekti kothin shomoshya toiri koreche.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

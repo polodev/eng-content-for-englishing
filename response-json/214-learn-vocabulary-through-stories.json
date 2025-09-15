@@ -1,0 +1,553 @@
+{
+    "position": 214,
+    "title_translation": {
+        "en": "The Role of Innovation in Business",
+        "bn": "ব্যবসায় **Innovation** এর ভূমিকা"
+    },
+    "content_translation": {
+        "en": "In modern business, **innovation** is not just a **strategic** advantage, but a key condition for survival. Those who can show **adaptability** are the ones who succeed in the market. In today's competitive market, **disruptive** concepts change the trajectory of business. **Benchmarking** large institutions and bringing new **ideation** ensures business **sustainability**.\n\nA successful entrepreneur always maintains an **entrepreneurial** mindset, where **ingenuity** and **feasibility** are examined to create new products or services. **Optimization** and **marketability** are important for business **scalability**.\n\nA **pioneering** enterprise is not successful just by bringing new concepts alone, proper **integration** and correct **leverage** are necessary. To work as a **catalyst**, the organization should have **agility**.\n\nFinally, for long-term development, **diversification** and **exponential** growth are needed, which is only possible through **innovation**.",
+        "bn": "আধুনিক ব্যবসায় **innovation** শুধুমাত্র একটি **strategic** সুবিধা নয়, বরং টিকে থাকার অন্যতম শর্ত। যারা **adaptability** দেখাতে পারে, তারাই বাজারে সফল হয়। আজকের প্রতিযোগিতামূলক বাজারে, **disruptive** ধারণা ব্যবসার গতিপথ পরিবর্তন করে। বড় প্রতিষ্ঠানগুলোর **benchmarking** করা এবং নতুন **ideation** নিয়ে আসা ব্যবসার **sustainability** নিশ্চিত করে।\n\nএকজন সফল উদ্যোক্তা সবসময় **entrepreneurial** মানসিকতা রাখেন, যেখানে **ingenuity** এবং **feasibility** যাচাই করে নতুন পণ্য বা পরিষেবা তৈরি করেন। ব্যবসার **scalability** বাড়ানোর জন্য **optimization** এবং **marketability** গুরুত্বপূর্ণ।\n\nএকটি **pioneering** উদ্যোগকে কেবলমাত্র নতুন ধারণ আনলেই সফল হয় না, সেটির **integration** এবং সঠিক **leverage** করা দরকার। **Catalyst** হিসেবে কাজ করতে হলে, প্রতিষ্ঠানের **agility** থাকা উচিত।\n\nপরিশেষে, দীর্ঘমেয়াদী উন্নতির জন্য **diversification** এবং **exponential** প্রবৃদ্ধি প্রয়োজন, যা কেবল **innovation** এর মাধ্যমেই সম্ভব।"
+    },
+    "list": [
+        {
+            "word": "innovation",
+            "phonetic": "/ˌɪn.əˈveɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ইনোভেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💡",
+            "meaning": "The development of new ideas, methods, or technologies",
+            "example_sentence": "Innovation drives technological progress and business growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনোভেশন ড্রাইভস টেকনোলজিক্যাল প্রোগ্রেস অ্যান্ড বিজনেস গ্রোথ।"
+            },
+            "position": 1,
+            "synonyms": "invention, creativity, advancement",
+            "antonyms": "stagnation, imitation, tradition",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্ভাবন",
+                    "word_transliteration": "uddhabhon",
+                    "example_sentence_translation": "উদ্ভাবন প্রযুক্তিগত অগ্রগতি ও ব্যবসার বৃদ্ধি চালিত করে।",
+                    "example_sentence_transliteration": "Uddhabhon projuktidgot oggrogoti o byabashar briddhi chalit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "strategic",
+            "phonetic": "/strəˈtiː.dʒɪk/",
+            "word_native_transliteration": {
+                "bn": "স্ট্রাটেজিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎯",
+            "meaning": "Well-planned method for achieving long-term goals",
+            "example_sentence": "The company took a strategic approach to expand its market.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি টুক এ স্ট্রাটেজিক অ্যাপ্রোচ টু এক্সপান্ড ইটস মার্কেট।"
+            },
+            "position": 2,
+            "synonyms": "tactical, planned, calculated",
+            "antonyms": "unplanned, random, aimless",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কৌশলগত",
+                    "word_transliteration": "kousholodgot",
+                    "example_sentence_translation": "কোম্পানিটি তার বাজার সম্প্রসারণের জন্য একটি কৌশলগত পদ্ধতি গ্রহণ করেছিল।",
+                    "example_sentence_transliteration": "Kompaniti tar bazar somprosaroner jonno ekti kousholodgot poddhoti grohon korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "adaptability",
+            "phonetic": "/əˌdæp.təˈbɪl.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "অ্যাডাপ্টাবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The ability to easily adjust to new environments or situations",
+            "example_sentence": "Adaptability is essential for success in a rapidly changing world.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাডাপ্টাবিলিটি ইজ এসেনশিয়াল ফর সাকসেস ইন এ রাপিডলি চেঞ্জিং ওয়ার্ল্ড।"
+            },
+            "position": 3,
+            "synonyms": "flexibility, versatility, adjustability",
+            "antonyms": "rigidity, inflexibility, stubbornness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অভিযোজনযোগ্যতা",
+                    "word_transliteration": "obhijojonjoggota",
+                    "example_sentence_translation": "একটি দ্রুত পরিবর্তনশীল বিশ্বে সাফল্যের জন্য অভিযোজনযোগ্যতা অপরিহার্য।",
+                    "example_sentence_transliteration": "Ekti druto poribortonsil bishshe shafollyer jonno obhijojonjoggota oporiharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "disruptive",
+            "phonetic": "/dɪsˈrʌp.tɪv/",
+            "word_native_transliteration": {
+                "bn": "ডিসরাপটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚡",
+            "meaning": "Something that brings major changes to existing markets or industries",
+            "example_sentence": "E-commerce has been disruptive to traditional retail businesses.",
+            "example_sentence_native_transliteration": {
+                "bn": "ই-কমার্স হ্যাজ বিন ডিসরাপটিভ টু ট্র্যাডিশনাল রিটেইল বিজনেসেস।"
+            },
+            "position": 4,
+            "synonyms": "innovative, transformative, game-changing",
+            "antonyms": "stabilizing, conventional, predictable",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিপ্লবী",
+                    "word_transliteration": "biplabi",
+                    "example_sentence_translation": "ই-কমার্স প্রচলিত খুচরা ব্যবসার ক্ষেত্রে বিপ্লব ঘটিয়েছে।",
+                    "example_sentence_transliteration": "I-komars procolit khuchra byabshar khetre biplab dghotiyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "benchmarking",
+            "phonetic": "/ˈbɛntʃˌmɑːr.kɪŋ/",
+            "word_native_transliteration": {
+                "bn": "বেঞ্চমার্কিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "Comparing with a specific industry or competitor to set standards",
+            "example_sentence": "Companies use benchmarking to assess their performance.",
+            "example_sentence_native_transliteration": {
+                "bn": "কোম্পানিজ ইউজ বেঞ্চমার্কিং টু অ্যাসেস দেয়ার পারফরমেন্স।"
+            },
+            "position": 5,
+            "synonyms": "standardization, evaluation, performance comparison",
+            "antonyms": "inconsistency, guesswork, non-comparison",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মানদণ্ড নির্ধারণ",
+                    "word_transliteration": "mandondo nirddharon",
+                    "example_sentence_translation": "কোম্পানিগুলো তাদের কার্যক্ষমতা মূল্যায়নে মানদণ্ড নির্ধারণ কৌশল ব্যবহার করে।",
+                    "example_sentence_transliteration": "Kompanigulo tader karyokkhomota mulyayane mandondo nirddharon koushal byabohar kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ideation",
+            "phonetic": "/ˌaɪ.diˈeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "আইডিয়েশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧠",
+            "meaning": "The process of creating new ideas",
+            "example_sentence": "Ideation is the first step in the innovation process.",
+            "example_sentence_native_transliteration": {
+                "bn": "আইডিয়েশন ইজ দ্য ফার্স্ট স্টেপ ইন দ্য ইনোভেশন প্রসেস।"
+            },
+            "position": 6,
+            "synonyms": "conceptualization, brainstorming, creativity",
+            "antonyms": "ignorance, inactivity, thoughtlessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ধারণা সৃষ্টি",
+                    "word_transliteration": "dharona srishti",
+                    "example_sentence_translation": "উদ্ভাবন প্রক্রিয়ার প্রথম ধাপ হলো ধারণা সৃষ্টি।",
+                    "example_sentence_transliteration": "Uddhabhon prokriyar prothom dhap holo dharona srishti.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sustainability",
+            "phonetic": "/səˌsteɪ.nəˈbɪl.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "সাস্টেইনাবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "♻️",
+            "meaning": "The ability to maintain environmental and social balance for the long term",
+            "example_sentence": "Sustainability ensures that future generations can meet their needs.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাস্টেইনাবিলিটি এনশুরস দ্যাট ফিউচার জেনারেশনস ক্যান মিট দেয়ার নিডস।"
+            },
+            "position": 7,
+            "synonyms": "durability, eco-friendliness, viability",
+            "antonyms": "unsustainability, instability, depletion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "টেকসইতা",
+                    "word_transliteration": "tekshoita",
+                    "example_sentence_translation": "টেকসইতা নিশ্চিত করে যে ভবিষ্যৎ প্রজন্ম তাদের চাহিদা পূরণ করতে পারবে।",
+                    "example_sentence_transliteration": "Tekshoita nishchit kore je bobishyot projonmo tader chahida puron korte parbe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "entrepreneurial",
+            "phonetic": "/ˌɒn.trə.prəˈnɜː.ri.əl/",
+            "word_native_transliteration": {
+                "bn": "এন্ট্রেপ্রেনিউরিয়াল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🚀",
+            "meaning": "Skills in business management and creating new opportunities",
+            "example_sentence": "His entrepreneurial mindset helped him build a successful company.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ এন্ট্রেপ্রেনিউরিয়াল মাইন্ডসেট হেল্পড হিম বিল্ড এ সাকসেসফুল কোম্পানি।"
+            },
+            "position": 8,
+            "synonyms": "business-minded, innovative, risk-taking",
+            "antonyms": "unenterprising, conventional, unambitious",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্যোক্তা-সম্পর্কিত",
+                    "word_transliteration": "uddokta-shomporkit",
+                    "example_sentence_translation": "তার উদ্যোক্তা মানসিকতা তাকে একটি সফল কোম্পানি গড়ে তুলতে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Tar uddokta manoshikota take ekti shofol kompani dgore tulte shahajyo koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ingenuity",
+            "phonetic": "/ˌɪn.dʒəˈnjuː.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "ইনজেনিউইটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔧",
+            "meaning": "The ability to find new and clever solutions",
+            "example_sentence": "His ingenuity led to the development of a new technology.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ইনজেনিউইটি লেড টু দ্য ডেভেলপমেন্ট অফ এ নিউ টেকনোলজি।"
+            },
+            "position": 9,
+            "synonyms": "creativity, innovation, resourcefulness",
+            "antonyms": "incompetence, ineptitude, unimaginativeness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সৃজনশীল বুদ্ধিমত্তা",
+                    "word_transliteration": "srijonshil buddhimotta",
+                    "example_sentence_translation": "তার সৃজনশীল বুদ্ধিমত্তা একটি নতুন প্রযুক্তি উদ্ভাবনের পথ তৈরি করেছে।",
+                    "example_sentence_transliteration": "Tar srijonshil buddhimotta ekti notun projukti uddhabhoner poth toiri koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "feasibility",
+            "phonetic": "/ˌfiː.zəˈbɪl.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "ফিজিবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✅",
+            "meaning": "The possibility of a project or plan being implemented",
+            "example_sentence": "The feasibility of the project depends on funding.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফিজিবিলিটি অফ দ্য প্রজেক্ট ডিপেন্ডস অন ফান্ডিং।"
+            },
+            "position": 10,
+            "synonyms": "practicality, viability, workability",
+            "antonyms": "impracticality, impossibility, unlikelihood",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সম্ভাব্যতা",
+                    "word_transliteration": "shombhabota",
+                    "example_sentence_translation": "প্রকল্পটির সম্ভাব্যতা তহবিলের উপর নির্ভর করে।",
+                    "example_sentence_transliteration": "Prokolpotir shombhabota tohobiler upor nirbhor kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "scalability",
+            "phonetic": "/ˌskeɪ.ləˈbɪl.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "স্কেলাবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "The ability to expand to larger scales while maintaining efficiency",
+            "example_sentence": "The startup focused on scalability to handle future growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্টার্টআপ ফোকাসড অন স্কেলাবিলিটি টু হ্যান্ডেল ফিউচার গ্রোথ।"
+            },
+            "position": 11,
+            "synonyms": "expandability, growth potential, flexibility",
+            "antonyms": "limitation, rigidity, constraint",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিস্তৃতকরণযোগ্যতা",
+                    "word_transliteration": "bistritkoronjoggota",
+                    "example_sentence_translation": "স্টার্টআপটি ভবিষ্যতের বৃদ্ধি সামলানোর জন্য সম্প্রসারণযোগ্যতার উপর গুরুত্ব দিয়েছে।",
+                    "example_sentence_transliteration": "Startapti bobishyoter briddhi shamlanor jonno shomprosharonjoggotaro upor gurutbo diyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "optimization",
+            "phonetic": "/ˌɒp.tɪ.maɪˈzeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "অপটিমাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚙️",
+            "meaning": "Improving processes to increase performance and efficiency",
+            "example_sentence": "SEO optimization helps websites rank higher on search engines.",
+            "example_sentence_native_transliteration": {
+                "bn": "এসইও অপটিমাইজেশন হেল্পস ওয়েবসাইটস র‍্যাঙ্ক হায়ার অন সার্চ ইঞ্জিনস।"
+            },
+            "position": 12,
+            "synonyms": "enhancement, refinement, maximization",
+            "antonyms": "inefficiency, wastefulness, suboptimization",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সর্বোত্তমকরণ",
+                    "word_transliteration": "shorbouttomkoron",
+                    "example_sentence_translation": "এসইও সর্বোত্তমকরণ ওয়েবসাইটকে সার্চ ইঞ্জিনে উচ্চতর স্থান পেতে সহায়তা করে।",
+                    "example_sentence_transliteration": "SEO shorbouttomkoron websitke search injine uchchotor sthan pete shahayyota kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "marketability",
+            "phonetic": "/ˌmɑːr.kɪ.təˈbɪl.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "মার্কেটাবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💰",
+            "meaning": "The possibility of commercial success for a product or service",
+            "example_sentence": "The new product's marketability depends on consumer demand.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিউ প্রোডাক্টস মার্কেটাবিলিটি ডিপেন্ডস অন কনজিউমার ডিমান্ড।"
+            },
+            "position": 13,
+            "synonyms": "commercial viability, demand, profitability",
+            "antonyms": "unmarketability, obscurity, unpopularity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাজারযোগ্যতা",
+                    "word_transliteration": "bazarjoggota",
+                    "example_sentence_translation": "নতুন পণ্যের বাজারযোগ্যতা ভোক্তাদের চাহিদার উপর নির্ভর করে।",
+                    "example_sentence_transliteration": "Notun ponnyer bazarjoggota bhoktader chahidar upor nirbhor kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pioneering",
+            "phonetic": "/ˌpaɪ.əˈnɪə.rɪŋ/",
+            "word_native_transliteration": {
+                "bn": "পায়োনিয়ারিং"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌟",
+            "meaning": "Developing something new or implementing for the first time",
+            "example_sentence": "The company took a pioneering approach to AI technology.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি টুক এ পায়োনিয়ারিং অ্যাপ্রোচ টু এআই টেকনোলজি।"
+            },
+            "position": 14,
+            "synonyms": "innovative, groundbreaking, revolutionary",
+            "antonyms": "conventional, traditional, unoriginal",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অগ্রগামী",
+                    "word_transliteration": "oggrogami",
+                    "example_sentence_translation": "কোম্পানিটি এআই প্রযুক্তিতে অগ্রগামী দৃষ্টিভঙ্গি গ্রহণ করেছিল।",
+                    "example_sentence_transliteration": "Kompaniti AI projuktite oggrogami drishtibhongi grohon korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "integration",
+            "phonetic": "/ˌɪn.tɪˈɡreɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ইনটিগ্রেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔗",
+            "meaning": "Bringing together different systems, components, or services",
+            "example_sentence": "The integration of AI in e-commerce enhances customer service.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইনটিগ্রেশন অফ এআই ইন ই-কমার্স এনহান্সেস কাস্টমার সার্ভিস।"
+            },
+            "position": 15,
+            "synonyms": "unification, merging, incorporation",
+            "antonyms": "segregation, disconnection, fragmentation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সমন্বয়",
+                    "word_transliteration": "shomonboy",
+                    "example_sentence_translation": "ই-কমার্সে এআই-এর সমন্বয় গ্রাহক পরিষেবা উন্নত করে।",
+                    "example_sentence_transliteration": "I-komarse AI-er shomonboy grahok porisheba unnoto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "leverage",
+            "phonetic": "/ˈlɛv.ər.ɪdʒ/",
+            "word_native_transliteration": {
+                "bn": "লিভারেজ"
+            },
+            "parts_of_speech": "noun/verb",
+            "emoji": "🎯",
+            "meaning": "Optimal use of existing resources, power, or situation",
+            "example_sentence": "The company used social media to leverage its brand awareness.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি ইউজড সোশ্যাল মিডিয়া টু লিভারেজ ইটস ব্র্যান্ড অ্যাওয়ারনেস।"
+            },
+            "position": 16,
+            "synonyms": "utilize, capitalize, maximize",
+            "antonyms": "waste, misuse, underutilize",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সুবিধা গ্রহণ",
+                    "word_transliteration": "shubidha grohon",
+                    "example_sentence_translation": "কোম্পানিটি ব্র্যান্ড সচেতনতা বাড়ানোর জন্য সোশ্যাল মিডিয়া ব্যবহার করেছে।",
+                    "example_sentence_transliteration": "Kompaniti brand shochetonota baranor jonno social media byabohar koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "catalyst",
+            "phonetic": "/ˈkæt̬.ə.lɪst/",
+            "word_native_transliteration": {
+                "bn": "ক্যাটালিস্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "An element that accelerates any process or change",
+            "example_sentence": "The new policy acted as a catalyst for economic growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিউ পলিসি অ্যাক্টেড অ্যাজ এ ক্যাটালিস্ট ফর ইকোনমিক গ্রোথ।"
+            },
+            "position": 17,
+            "synonyms": "stimulus, accelerator, trigger",
+            "antonyms": "hindrance, obstacle, prevention",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনুঘটক",
+                    "word_transliteration": "onugdhotak",
+                    "example_sentence_translation": "নতুন নীতিটি অর্থনৈতিক প্রবৃদ্ধির জন্য অনুঘটক হিসেবে কাজ করেছে।",
+                    "example_sentence_transliteration": "Notun nititi orthonaitik probriddhir jonno onugdhotak hisebe kaj koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "agility",
+            "phonetic": "/əˈdʒɪl.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "অ্যাজিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏃",
+            "meaning": "The ability to adapt quickly and effectively",
+            "example_sentence": "Business agility helps companies respond to market changes.",
+            "example_sentence_native_transliteration": {
+                "bn": "বিজনেস অ্যাজিলিটি হেল্পস কোম্পানিজ রেসপন্ড টু মার্কেট চেঞ্জেস।"
+            },
+            "position": 18,
+            "synonyms": "flexibility, nimbleness, adaptability",
+            "antonyms": "rigidity, stiffness, slowness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গতিশীলতা",
+                    "word_transliteration": "gotishilota",
+                    "example_sentence_translation": "ব্যবসায়িক গতিশীলতা কোম্পানিগুলোকে বাজার পরিবর্তনের সাথে খাপ খাওয়াতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Byabsayik gotishilota kompaniguloke bazar poribortoner shathe khap khaoyate shahajyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "diversification",
+            "phonetic": "/daɪˌvɜː.sɪ.fɪˈkeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ডাইভার্সিফিকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎨",
+            "meaning": "A common strategy for investing in different sectors or increasing income variety",
+            "example_sentence": "Companies adopt diversification strategies to reduce risk.",
+            "example_sentence_native_transliteration": {
+                "bn": "কোম্পানিজ অ্যাডপ্ট ডাইভার্সিফিকেশন স্ট্রাটেজিজ টু রিডিউস রিস্ক।"
+            },
+            "position": 19,
+            "synonyms": "expansion, variation, differentiation",
+            "antonyms": "specialization, uniformity, narrow focus",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৈচিত্র্যকরণ",
+                    "word_transliteration": "boichitryokoron",
+                    "example_sentence_translation": "সংস্থাগুলি ঝুঁকি কমাতে বৈচিত্র্যকরণ কৌশল গ্রহণ করে।",
+                    "example_sentence_transliteration": "Shongsthaguli jhuki komate boichitryokoron koushal grohon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "exponential",
+            "phonetic": "/ˌɛk.spəˈnɛn.ʃəl/",
+            "word_native_transliteration": {
+                "bn": "এক্সপোনেনশিয়াল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📊",
+            "meaning": "Rapid growth or dramatic progress within a specific time",
+            "example_sentence": "The tech industry has seen exponential growth in recent years.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য টেক ইন্ডাস্ট্রি হ্যাজ সিন এক্সপোনেনশিয়াল গ্রোথ ইন রিসেন্ট ইয়ারস।"
+            },
+            "position": 20,
+            "synonyms": "rapid, explosive, geometric",
+            "antonyms": "gradual, slow, minimal",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ব্যতিক্রমী",
+                    "word_transliteration": "byotikrimi",
+                    "example_sentence_translation": "প্রযুক্তি শিল্প সাম্প্রতিক বছরগুলোতে ব্যতিক্রমী বৃদ্ধি দেখেছে।",
+                    "example_sentence_transliteration": "Projukti shilpo shamprotik bochhorgulote byotikrimi briddhi dekheche.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

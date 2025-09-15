@@ -1,0 +1,715 @@
+{
+    "position": 213,
+    "title_translation": {
+        "en": "The Role of Inflation in Economies",
+        "bn": "অর্থনীতিতে মুদ্রাস্ফীতির ভূমিকা"
+    },
+    "content_translation": {
+        "en": "**Inflation** is a crucial economic **indicator** that relates to market **prices** and **monetary** supply. When it becomes excessive, **exorbitant** price increases reduce people's **purchasing power**, affecting **discretionary** spending.\n\nIt sometimes causes **contraction**, and sometimes leads to **proliferation**. **Inflation** is usually caused by **speculation** and increased market **volatility**. Its adverse effects are seen in the country's **sovereign** debt and **fiscal** policy.\n\nWhen **deflation** occurs in the market, the economy can go into **stagnation** or **recession**, which becomes a **crisis** for the government. However, in some cases, **inflation** can create a healthy **equilibrium** if properly controlled and **incentives** are provided.\n\nThis is an important issue for every economy around the world, and its **impact** is clearly visible in **goods**, **services**, and **revenue**.",
+        "bn": "**Inflation** একটি গুরুত্বপূর্ণ অর্থনৈতিক সূচক, যা বাজারে পণ্যের মূল্য বৃদ্ধি ও **monetary** সরবরাহের সাথে সম্পর্কিত। এটি যখন অতিরিক্ত হয়ে যায়, তখন **exorbitant** মূল্য বৃদ্ধির ফলে মানুষের ক্রয়ক্ষমতা কমে যায়, যা **discretionary** খরচে প্রভাব ফেলে।\n\nএটি কখনও **contraction** সৃষ্টি করে, আবার কখনও **proliferation** ঘটায়। **Inflation** সাধারণত **speculation** এবং বাজারের **volatility** বৃদ্ধির কারণ হয়। দেশের **sovereign** ঋণ এবং **fiscal** নীতিতে এর বিরূপ প্রভাব দেখা যায়।\n\nযখন বাজারে **deflation** ঘটে, অর্থনীতি **stagnation** বা **recession**-এ চলে যেতে পারে, যা সরকারের জন্য একটি **crisis** হয়ে দাঁড়ায়। তবে, কিছু ক্ষেত্রে, **inflation** একটি স্বাস্থ্যকর **equilibrium** সৃষ্টি করতে পারে, যদি তা সঠিকভাবে নিয়ন্ত্রিত হয় এবং **incentives** দেওয়া হয়।\n\nএটি পৃথিবী জুড়ে প্রতিটি অর্থনীতির জন্য একটি গুরুত্বপূর্ণ বিষয়, এবং এর প্রভাব পণ্য, পরিষেবা এবং রাজস্বে স্পষ্টভাবে লক্ষ্য করা যায়।"
+    },
+    "list": [
+        {
+            "word": "inflation",
+            "phonetic": "ɪnˈfleɪʃən",
+            "word_native_transliteration": {
+                "bn": "ইনফ্লেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "A general increase in prices and fall in the purchasing value of money.",
+            "example_sentence": "Inflation reduces the purchasing power of money.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনফ্লেশন রিডিউসেস দ্য পারচেসিং পাওয়ার অফ মানি।"
+            },
+            "position": 1,
+            "synonyms": "price rise, cost increase",
+            "antonyms": "deflation, decrease",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মূল্যস্ফীতি",
+                    "word_transliteration": "mulyosphiti",
+                    "example_sentence_translation": "মূল্যস্ফীতি টাকার ক্রয়ক্ষমতা কমিয়ে দেয়।",
+                    "example_sentence_transliteration": "Mulyosphiti takar kroyokkhomota komiye dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "economic",
+            "phonetic": "ˌiːkəˈnɒmɪk",
+            "word_native_transliteration": {
+                "bn": "ইকোনমিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💼",
+            "meaning": "Relating to economics or the economy.",
+            "example_sentence": "Economic growth is crucial for national prosperity.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইকোনমিক গ্রোথ ইজ ক্রুশিয়াল ফর ন্যাশনাল প্রসপেরিটি।"
+            },
+            "position": 2,
+            "synonyms": "financial, fiscal",
+            "antonyms": "non-economic, unrelated",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অর্থনৈতিক",
+                    "word_transliteration": "orthonaitik",
+                    "example_sentence_translation": "অর্থনৈতিক প্রবৃদ্ধি জাতীয় সমৃদ্ধির জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Orthonaitik probriddhi jatioyo shomriddhi`r jonyo oporhayo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "indicator",
+            "phonetic": "ˈɪndɪkeɪtə",
+            "word_native_transliteration": {
+                "bn": "ইনডিকেটর"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "A thing that indicates the state or level of something.",
+            "example_sentence": "The unemployment rate is a key indicator of economic health.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য আনএমপ্লয়মেন্ট রেট ইজ এ কী ইনডিকেটর অফ ইকোনমিক হেলথ।"
+            },
+            "position": 3,
+            "synonyms": "signal, pointer",
+            "antonyms": "obscurity, uncertainty",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সূচক",
+                    "word_transliteration": "suchok",
+                    "example_sentence_translation": "বেকারত্বের হার অর্থনৈতিক সুস্থতার একটি প্রধান সূচক।",
+                    "example_sentence_transliteration": "Bekarottor har orthonaitik shusthotar ekti prodhan suchok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "prices",
+            "phonetic": "ˈpraɪsɪz",
+            "word_native_transliteration": {
+                "bn": "প্রাইসেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💰",
+            "meaning": "The amount of money expected, required, or given in payment for something.",
+            "example_sentence": "Rising prices are affecting consumer spending.",
+            "example_sentence_native_transliteration": {
+                "bn": "রাইজিং প্রাইসেস আর অ্যাফেক্টিং কনজিউমার স্পেন্ডিং।"
+            },
+            "position": 4,
+            "synonyms": "cost, value",
+            "antonyms": "discounts, bargains",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মূল্য, দাম",
+                    "word_transliteration": "mulyo, dam",
+                    "example_sentence_translation": "বৃদ্ধমান মূল্য ভোক্তাদের খরচ প্রভাবিত করছে।",
+                    "example_sentence_transliteration": "Briddhoman mulyo voktader khoroch provabito korche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "monetary",
+            "phonetic": "ˈmʌnɪtəri",
+            "word_native_transliteration": {
+                "bn": "মনিটারি"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💵",
+            "meaning": "Relating to money or currency.",
+            "example_sentence": "The central bank controls monetary policy to stabilize the economy.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সেন্ট্রাল ব্যাংক কন্ট্রোলস মনিটারি পলিসি টু স্টেবিলাইজ দ্য ইকোনমি।"
+            },
+            "position": 5,
+            "synonyms": "financial, fiscal",
+            "antonyms": "non-monetary, in-kind",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মুদ্রা সম্পর্কিত",
+                    "word_transliteration": "mudra shomporshkito",
+                    "example_sentence_translation": "কেন্দ্রীয় ব্যাংক মুদ্রা নীতি নিয়ন্ত্রণ করে অর্থনীতিকে স্থিতিশীল করতে।",
+                    "example_sentence_transliteration": "Kendrioyo baenk mudra niti niyontron kore orthoniti ke sthitishil korte.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "exorbitant",
+            "phonetic": "ɪɡˈzɔːbɪtənt",
+            "word_native_transliteration": {
+                "bn": "এক্সওরবিট্যান্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💸",
+            "meaning": "Unreasonably high (of a price or amount charged).",
+            "example_sentence": "The prices of the new smartphones are exorbitant.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রাইসেস অফ দ্য নিউ স্মার্টফোনস আর এক্সওরবিট্যান্ট।"
+            },
+            "position": 6,
+            "synonyms": "excessive, overpriced",
+            "antonyms": "reasonable, moderate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতিরিক্ত, অত্যধিক",
+                    "word_transliteration": "otirikto, ottodhik",
+                    "example_sentence_translation": "নতুন স্মার্টফোনের দাম অতিরিক্ত।",
+                    "example_sentence_transliteration": "Notun smartphoner dam otirikto.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "purchasing power",
+            "phonetic": "ˈpɜːtʃəsɪŋ ˈpaʊər",
+            "word_native_transliteration": {
+                "bn": "পারচেসিং পাওয়ার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "The financial ability of a person or entity to buy goods and services.",
+            "example_sentence": "Inflation decreases the purchasing power of the currency.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনফ্লেশন ডিক্রিসেস দ্য পারচেসিং পাওয়ার অফ দ্য কারেন্সি।"
+            },
+            "position": 7,
+            "synonyms": "buying power, spending ability",
+            "antonyms": "impoverishment, deprivation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্রয়ক্ষমতা",
+                    "word_transliteration": "kroyokkhomota",
+                    "example_sentence_translation": "মূল্যস্ফীতি মুদ্রার ক্রয়ক্ষমতা কমিয়ে দেয়।",
+                    "example_sentence_transliteration": "Mulyosphiti mudrar kroyokkhomota komiye dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "discretionary",
+            "phonetic": "dɪˈskrɛʃəneri",
+            "word_native_transliteration": {
+                "bn": "ডিসক্রেশনারি"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎯",
+            "meaning": "Available for use at the discretion of the user; optional.",
+            "example_sentence": "Discretionary spending is the money left over after essential expenses.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিসক্রেশনারি স্পেন্ডিং ইজ দ্য মানি লেফট ওভার আফটার এসেনশিয়াল এক্সপেনসেস।"
+            },
+            "position": 8,
+            "synonyms": "optional, voluntary",
+            "antonyms": "mandatory, obligatory",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ইচ্ছামত, স্বাধীন",
+                    "word_transliteration": "ichchamot, shadhin",
+                    "example_sentence_translation": "ডিসক্রেশনারি ব্যয় হল প্রয়োজনীয় খরচের পর অবশিষ্ট টাকা।",
+                    "example_sentence_transliteration": "Discretionary byoy hol proyojoniyo khorcher por oboshishto taka.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "contraction",
+            "phonetic": "kənˈtrækʃən",
+            "word_native_transliteration": {
+                "bn": "কনট্রাকশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📉",
+            "meaning": "The process of becoming smaller; a decrease in size or quantity.",
+            "example_sentence": "The economic contraction resulted in a rise in unemployment.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইকোনমিক কনট্রাকশন রেজাল্টেড ইন এ রাইজ ইন আনএমপ্লয়মেন্ট।"
+            },
+            "position": 9,
+            "synonyms": "shrinkage, reduction",
+            "antonyms": "expansion, growth",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংকোচন",
+                    "word_transliteration": "shongkochon",
+                    "example_sentence_translation": "অর্থনৈতিক সংকোচন বেকারত্বের বৃদ্ধি ঘটিয়েছে।",
+                    "example_sentence_transliteration": "Orthonaitik shongkochon bekarottor briddhi ghotiyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "proliferation",
+            "phonetic": "prəˌlɪfəˈreɪʃən",
+            "word_native_transliteration": {
+                "bn": "প্রোলিফারেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "Rapid increase in numbers; rapid reproduction or spread.",
+            "example_sentence": "The proliferation of technology has greatly impacted all industries.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রোলিফারেশন অফ টেকনোলজি হ্যাজ গ্রেটলি ইমপ্যাক্টেড অল ইন্ডাস্ট্রিজ।"
+            },
+            "position": 10,
+            "synonyms": "spread, increase",
+            "antonyms": "reduction, decline",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিস্তার, বৃদ্ধি",
+                    "word_transliteration": "bistar, briddhi",
+                    "example_sentence_translation": "প্রযুক্তির বিস্তার সব শিল্পকে ব্যাপকভাবে প্রভাবিত করেছে।",
+                    "example_sentence_transliteration": "Projuktir bistar shob shilpke byapokbhabe provabito koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "speculation",
+            "phonetic": "ˌspɛkjʊˈleɪʃən",
+            "word_native_transliteration": {
+                "bn": "স্পেকুলেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤔",
+            "meaning": "The forming of a theory or conjecture without firm evidence.",
+            "example_sentence": "Speculation about the economy's future is rife among experts.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্পেকুলেশন অ্যাবাউট দ্য ইকোনমিজ ফিউচার ইজ রাইফ অ্যামং এক্সপার্টস।"
+            },
+            "position": 11,
+            "synonyms": "conjecture, guess",
+            "antonyms": "certainty, fact",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনুমান, জল্পনা",
+                    "word_transliteration": "onuman, jolpona",
+                    "example_sentence_translation": "অর্থনীতির ভবিষ্যৎ সম্পর্কে অনুমান বিশেষজ্ঞদের মধ্যে ব্যাপক।",
+                    "example_sentence_transliteration": "Orthoniti`r bobhisshyot shomporke onuman bisheshog-yoder moddhe byapok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "volatility",
+            "phonetic": "ˌvɒləˈtɪləti",
+            "word_native_transliteration": {
+                "bn": "ভোলাটিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎢",
+            "meaning": "Liability to change rapidly and unpredictably, especially for the worse.",
+            "example_sentence": "The stock market is known for its volatility, with prices changing rapidly.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্টক মার্কেট ইজ নোন ফর ইটস ভোলাটিলিটি, উইথ প্রাইসেস চেঞ্জিং র‌্যাপিডলি।"
+            },
+            "position": 12,
+            "synonyms": "instability, fluctuation",
+            "antonyms": "stability, consistency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অস্থিরতা, পরিবর্তনশীলতা",
+                    "word_transliteration": "osthirota, poribortonsheelota",
+                    "example_sentence_translation": "স্টক মার্কেট তার অস্থিরতার জন্য পরিচিত, যেখানে মূল্য দ্রুত পরিবর্তিত হয়।",
+                    "example_sentence_transliteration": "Stock market tar osthirotar jonyo porichito, jekhane mulyo druto poribortito hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sovereign",
+            "phonetic": "ˈsɒvrɪn",
+            "word_native_transliteration": {
+                "bn": "সোভেরিন"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "👑",
+            "meaning": "Possessing supreme or ultimate power; independent.",
+            "example_sentence": "The sovereign government has control over its currency.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সোভেরিন গভর্নমেন্ট হ্যাজ কন্ট্রোল ওভার ইটস কারেন্সি।"
+            },
+            "position": 13,
+            "synonyms": "supreme, autonomous",
+            "antonyms": "subordinate, dependent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সার্বভৌম, সর্বোচ্চ",
+                    "word_transliteration": "sharbobhoum, shorbochchho",
+                    "example_sentence_translation": "সার্বভৌম সরকার তার মুদ্রার উপর নিয়ন্ত্রণ রাখে।",
+                    "example_sentence_transliteration": "Sharbobhoum shorokar tar mudrar upor niyontron rakhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "debt",
+            "phonetic": "dɛt",
+            "word_native_transliteration": {
+                "bn": "ডেট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💳",
+            "meaning": "A sum of money that is owed or due.",
+            "example_sentence": "High levels of debt can lead to a financial crisis.",
+            "example_sentence_native_transliteration": {
+                "bn": "হাই লেভেলস অফ ডেট ক্যান লিড টু এ ফাইন্যান্সিয়াল ক্রাইসিস।"
+            },
+            "position": 14,
+            "synonyms": "liability, obligation",
+            "antonyms": "credit, surplus",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ঋণ, দেনা",
+                    "word_transliteration": "rin, dena",
+                    "example_sentence_translation": "ঋণের উচ্চ স্তর একটি আর্থিক সংকটের দিকে নিয়ে যেতে পারে।",
+                    "example_sentence_transliteration": "Riner uchchho stor ekti arthik shongkoter dike niye jete pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fiscal",
+            "phonetic": "ˈfɪskəl",
+            "word_native_transliteration": {
+                "bn": "ফিস্কাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📊",
+            "meaning": "Relating to government revenue, especially taxes.",
+            "example_sentence": "The fiscal policy of the government influences inflation.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফিস্কাল পলিসি অফ দ্য গভর্নমেন্ট ইনফ্লুয়েন্সেস ইনফ্লেশন।"
+            },
+            "position": 15,
+            "synonyms": "budgetary, monetary",
+            "antonyms": "non-financial, irrelevant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অর্থনৈতিক, সরকারি অর্থ",
+                    "word_transliteration": "orthonaitik, shorkari ortho",
+                    "example_sentence_translation": "সরকারের অর্থনৈতিক নীতি মূল্যস্ফীতিকে প্রভাবিত করে।",
+                    "example_sentence_transliteration": "Shorokarer orthonaitik niti mulyosphitike provabito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "deflation",
+            "phonetic": "dɪˈfleɪʃən",
+            "word_native_transliteration": {
+                "bn": "ডিফ্লেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📉",
+            "meaning": "Reduction of the general level of prices in an economy.",
+            "example_sentence": "Deflation often leads to decreased consumer spending.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিফ্লেশন অফটেন লিডস টু ডিক্রিসড কনজিউমার স্পেন্ডিং।"
+            },
+            "position": 16,
+            "synonyms": "decrease, contraction",
+            "antonyms": "inflation, price rise",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মূল্য হ্রাস",
+                    "word_transliteration": "mulyo hrash",
+                    "example_sentence_translation": "ডিফ্লেশন প্রায়ই ভোক্তাদের ব্যয় কমিয়ে দেয়।",
+                    "example_sentence_transliteration": "Deflation prayoi voktader byoy komiye dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "stagnation",
+            "phonetic": "stæɡˈneɪʃən",
+            "word_native_transliteration": {
+                "bn": "স্ট্যাগনেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⏸️",
+            "meaning": "A period of little or no growth in an economy.",
+            "example_sentence": "Economic stagnation leads to a lack of growth in the job market.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইকোনমিক স্ট্যাগনেশন লিডস টু এ ল্যাক অফ গ্রোথ ইন দ্য জব মার্কেট।"
+            },
+            "position": 17,
+            "synonyms": "inactivity, stasis",
+            "antonyms": "progress, advancement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্থবিরতা, অচল অবস্থা",
+                    "word_transliteration": "sthobirotas, ochol obostha",
+                    "example_sentence_translation": "অর্থনৈতিক স্থবিরতা কর্মবাজারে প্রবৃদ্ধির অভাবে পরিণত হয়।",
+                    "example_sentence_transliteration": "Orthonaitik sthobirotasormobajare probriddhi`r obhabe porinoto hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "recession",
+            "phonetic": "rɪˈsɛʃən",
+            "word_native_transliteration": {
+                "bn": "রিসেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📉",
+            "meaning": "A period of temporary economic decline during which trade and industrial activity are reduced.",
+            "example_sentence": "The economy is experiencing a recession due to external factors.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইকোনমি ইজ এক্সপেরিয়েন্সিং এ রিসেশন ডিউ টু এক্সটার্নাল ফ্যাক্টরস।"
+            },
+            "position": 18,
+            "synonyms": "downturn, decline",
+            "antonyms": "growth, recovery",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মন্দা, সংকোচন",
+                    "word_transliteration": "monda, shongkochon",
+                    "example_sentence_translation": "বহিরাগত কারণে অর্থনীতি মন্দার সম্মুখীন।",
+                    "example_sentence_transliteration": "Bohiragoto karone orthoniti mondar shommukhin.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "crisis",
+            "phonetic": "ˈkraɪsɪs",
+            "word_native_transliteration": {
+                "bn": "ক্রাইসিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚠️",
+            "meaning": "A time of intense difficulty, trouble, or danger.",
+            "example_sentence": "The financial crisis affected global markets.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফাইন্যান্সিয়াল ক্রাইসিস অ্যাফেক্টেড গ্লোবাল মার্কেটস।"
+            },
+            "position": 19,
+            "synonyms": "disaster, emergency",
+            "antonyms": "stability, solution",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সঙ্কট, বিপর্যয়",
+                    "word_transliteration": "shongkot, biporjoy",
+                    "example_sentence_translation": "আর্থিক সঙ্কট বিশ্ববাজারকে প্রভাবিত করেছে।",
+                    "example_sentence_transliteration": "Arthik shongkot bishbajarkeprovabito koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "equilibrium",
+            "phonetic": "ˌikwɪˈlɪbrɪəm",
+            "word_native_transliteration": {
+                "bn": "ইকুইলিব্রিয়াম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "A state in which opposing forces or influences are balanced.",
+            "example_sentence": "Achieving economic equilibrium is essential for long-term stability.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাচিভিং ইকোনমিক ইকুইলিব্রিয়াম ইজ এসেনশিয়াল ফর লং-টার্ম স্টেবিলিটি।"
+            },
+            "position": 20,
+            "synonyms": "balance, harmony",
+            "antonyms": "imbalance, disruption",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভারসাম্য",
+                    "word_transliteration": "bharshamy",
+                    "example_sentence_translation": "অর্থনৈতিক ভারসাম্য অর্জন দীর্ঘমেয়াদী স্থিতিশীলতার জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Orthonaitik bharshamy orjon dirghomeyadi sthitishilotar jonyo oporihajo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "incentives",
+            "phonetic": "ɪnˈsɛntɪvz",
+            "word_native_transliteration": {
+                "bn": "ইনসেন্টিভস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎁",
+            "meaning": "Things that motivate or encourage one to do something.",
+            "example_sentence": "Tax incentives are used to encourage investment in renewable energy.",
+            "example_sentence_native_transliteration": {
+                "bn": "ট্যাক্স ইনসেন্টিভস আর ইউজড টু এনকারেজ ইনভেস্টমেন্ট ইন রিনিউয়েবল এনার্জি।"
+            },
+            "position": 21,
+            "synonyms": "motivation, stimulus",
+            "antonyms": "deterrent, disincentive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রেরণা, প্রণোদনা",
+                    "word_transliteration": "preronabh, pronodona",
+                    "example_sentence_translation": "কর প্রণোদনা নবায়নযোগ্য শক্তিতে বিনিয়োগ উৎসাহিত করতে ব্যবহৃত হয়।",
+                    "example_sentence_transliteration": "Kor pronodona nobayonjo-yo shoktite biniyog utshahito korte byobrrito hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "economies",
+            "phonetic": "ɪˈkɒnəmiːz",
+            "word_native_transliteration": {
+                "bn": "ইকোনোমিজ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌍",
+            "meaning": "The wealth and resources of a country or region.",
+            "example_sentence": "Emerging economies have been growing rapidly over the past decade.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইমার্জিং ইকোনোমিজ হ্যাভ বিন গ্রোয়িং র‌্যাপিডলি ওভার দ্য পাস্ট ডেকেড।"
+            },
+            "position": 22,
+            "synonyms": "financial systems, markets",
+            "antonyms": "recessions, depressions",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অর্থনীতি",
+                    "word_transliteration": "orthoniti",
+                    "example_sentence_translation": "উদীয়মান অর্থনীতিগুলি গত দশকে দ্রুত বৃদ্ধি পেয়েছে।",
+                    "example_sentence_transliteration": "Udiyoman orthonitiguli goto doshoke druto briddhi peyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "impact",
+            "phonetic": "ˈɪmpækt",
+            "word_native_transliteration": {
+                "bn": "ইমপ্যাক্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💥",
+            "meaning": "The action of one object coming forcibly into contact with another; a marked effect or influence.",
+            "example_sentence": "The impact of climate change can be seen in rising sea levels.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইমপ্যাক্ট অফ ক্লাইমেট চেঞ্জ ক্যান বি সিন ইন রাইজিং সি লেভেলস।"
+            },
+            "position": 23,
+            "synonyms": "effect, consequence",
+            "antonyms": "inaction, indifference",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রভাব, ফলাফল",
+                    "word_transliteration": "probhab, folafol",
+                    "example_sentence_translation": "জলবায়ু পরিবর্তনের প্রভাব সমুদ্রের স্তরের বৃদ্ধি দেখা যায়।",
+                    "example_sentence_transliteration": "Jolobayupariborton probhab shmudrer strorbridhi dekha jay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "goods",
+            "phonetic": "ɡʊdz",
+            "word_native_transliteration": {
+                "bn": "গুডস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📦",
+            "meaning": "Merchandise or possessions; things that are bought and sold.",
+            "example_sentence": "The company produces high-quality goods for export.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি প্রোডিউসেস হাই-কোয়ালিটি গুডস ফর এক্সপোর্ট।"
+            },
+            "position": 24,
+            "synonyms": "products, merchandise",
+            "antonyms": "services, intangibles",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পণ্য, দ্রব্য",
+                    "word_transliteration": "ponyo, drobyo",
+                    "example_sentence_translation": "কোম্পানি রপ্তানির জন্য উচ্চমানের পণ্য উৎপাদন করে।",
+                    "example_sentence_transliteration": "Company roptanir jonyo uchchomaner ponyo utpadon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "services",
+            "phonetic": "ˈsɜːvɪsɪz",
+            "word_native_transliteration": {
+                "bn": "সার্ভিসেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "The action of helping or doing work for someone.",
+            "example_sentence": "Services in the healthcare industry are essential for well-being.",
+            "example_sentence_native_transliteration": {
+                "bn": "সার্ভিসেস ইন দ্য হেলথকেয়ার ইন্ডাস্ট্রি আর এসেনশিয়াল ফর ওয়েল-বিইং।"
+            },
+            "position": 25,
+            "synonyms": "assistance, help",
+            "antonyms": "goods, products",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সেবা, পরিষেবা",
+                    "word_transliteration": "sheba, porisheba",
+                    "example_sentence_translation": "স্বাস্থ্যসেবা শিল্পে সেবা সুস্থতার জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Shastho sheba shilpe sheba shusthotar jonyo oporihao.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "revenue",
+            "phonetic": "ˈrɛvənuː",
+            "word_native_transliteration": {
+                "bn": "রেভেনিউ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💰",
+            "meaning": "Income, especially when of a company or organization.",
+            "example_sentence": "The company's revenue grew by 10% this year.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানিজ রেভেনিউ গ্রু বাই টেন পারসেন্ট দিস ইয়ার।"
+            },
+            "position": 26,
+            "synonyms": "income, earnings",
+            "antonyms": "loss, deficit",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রাজস্ব",
+                    "word_transliteration": "rajsho",
+                    "example_sentence_translation": "কোম্পানির রাজস্ব এই বছরে ১০% বৃদ্ধি পেয়েছে।",
+                    "example_sentence_transliteration": "Companir rajsho ei bochhore 10% briddhi peyeche.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

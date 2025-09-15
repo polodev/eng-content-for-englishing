@@ -1,0 +1,634 @@
+{
+    "position": 218,
+    "title_translation": {
+        "en": "The Science Behind Healthy Eating",
+        "bn": "সুস্থ খাদ্যের পেছনের বিজ্ঞান"
+    },
+    "content_translation": {
+        "en": "Proper **metabolism** is crucial for staying healthy. Our body's **anabolism** and **catabolism** processes depend on balanced nutrition. **Macronutrients** like **carbohydrates**, **proteins**, and **fats** are the main sources of energy, while **micronutrients** help with **enzymatic** functions in the body. The **bioavailability** of food depends on how the body breaks it down through **hydrolysis** processes. Foods with proper **glycemic** index control blood sugar levels, helping maintain **homeostasis**. **Probiotics** aid digestion and **antioxidants** help reduce **oxidative** stress in the body. Proper nutrition improves brain function by controlling **neurotransmitters**. Excess **lipogenesis** increases weight, but **ketogenesis** helps burn fat. Foods rich in **phytochemicals** improve **endocrine** functions. For a healthy lifestyle, it's essential to increase **thermogenesis** processes and maintain **satiety**.",
+        "bn": "সুস্থ থাকার জন্য **metabolism** সঠিকভাবে কাজ করা খুব গুরুত্বপূর্ণ। আমাদের শরীরের **anabolism** এবং **catabolism** প্রক্রিয়া সুষম খাদ্যের ওপর নির্ভরশীল। **Macronutrients** যেমন **carbohydrates**, **proteins**, **fats** শক্তির প্রধান উৎস, আর **micronutrients** শরীরের **enzymatic** কার্যকলাপকে সহায়তা করে। খাদ্যের **bioavailability** নির্ভর করে শরীর কিভাবে এটি **hydrolysis** প্রক্রিয়ায় ভেঙে গ্রহণ করে। সঠিক **glycemic** সূচক বিশিষ্ট খাবার রক্তে শর্করার মাত্রা নিয়ন্ত্রণ করে, যা **homeostasis** বজায় রাখতে সাহায্য করে। **Probiotics** হজম প্রক্রিয়ায় সহায়ক এবং **antioxidants** শরীরের **oxidative** চাপ কমাতে সাহায্য করে। সঠিক খাদ্যাভ্যাস **neurotransmitters** নিয়ন্ত্রণের মাধ্যমে মস্তিষ্কের কার্যকারিতা বাড়ায়। অতিরিক্ত **lipogenesis** ওজন বাড়ায়, কিন্তু **ketogenesis** চর্বি পোড়াতে সাহায্য করে। পর্যাপ্ত **phytochemicals** সমৃদ্ধ খাবার **endocrine** কার্যক্রমকে উন্নত করে। সুস্থ জীবনযাত্রার জন্য **thermogenesis** প্রক্রিয়া বাড়িয়ে **satiety** বজায় রাখা খুব জরুরি।"
+    },
+    "list": [
+        {
+            "word": "metabolism",
+            "phonetic": "/məˈtæb.əl.ɪ.zəm/",
+            "word_native_transliteration": {
+                "bn": "মেটাবলিজম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "The chemical processes that occur within a living organism in order to maintain life, including energy production and cellular activity.",
+            "example_sentence": "Proper hydration boosts metabolism and energy levels.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রপার হাইড্রেশন বুস্টস মেটাবলিজম অ্যান্ড এনার্জি লেভেলস।"
+            },
+            "position": 1,
+            "synonyms": "biochemical process, energy conversion, cellular activity",
+            "antonyms": "stagnation, inactivity, deterioration",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিপাকক্রিয়া",
+                    "word_transliteration": "bipakkriya",
+                    "example_sentence_translation": "সঠিক পরিমাণে পানি পান বিপাকক্রিয়া এবং শক্তি স্তর উন্নত করে।",
+                    "example_sentence_transliteration": "Shothik porimane pani pan bipakkriya ebong shokti stor unnoto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "anabolism",
+            "phonetic": "/əˈnæb.ə.lɪ.zəm/",
+            "word_native_transliteration": {
+                "bn": "অ্যানাবলিজম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔧",
+            "meaning": "The set of metabolic pathways that construct molecules from smaller units, involving tissue repair and growth.",
+            "example_sentence": "Anabolism is essential for muscle growth and tissue repair.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যানাবলিজম ইজ এসেনশিয়াল ফর মাসল গ্রোথ অ্যান্ড টিস্যু রিপেয়ার।"
+            },
+            "position": 2,
+            "synonyms": "constructive metabolism, biosynthesis, growth mechanism",
+            "antonyms": "catabolism, breakdown, decomposition",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গঠনমূলক বিপাক",
+                    "word_transliteration": "gothonmulok bipak",
+                    "example_sentence_translation": "অ্যানাবলিজম পেশী বৃদ্ধির এবং টিস্যু পুনরুদ্ধারের জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Anabolism peshi briddhir ebong tissue punoruddarer jonno oporoharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "catabolism",
+            "phonetic": "/kəˈtæb.ə.lɪ.zəm/",
+            "word_native_transliteration": {
+                "bn": "ক্যাটাবলিজম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "The breakdown of complex molecules in living organisms to form simpler ones together with the release of energy.",
+            "example_sentence": "During fasting, catabolism helps generate energy from stored fat.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিউরিং ফাস্টিং, ক্যাটাবলিজম হেল্পস জেনারেট এনার্জি ফ্রম স্টোর্ড ফ্যাট।"
+            },
+            "position": 3,
+            "synonyms": "decomposition, breakdown process, oxidation",
+            "antonyms": "anabolism, growth, accumulation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভাঙন বিপাক",
+                    "word_transliteration": "bhangon bipak",
+                    "example_sentence_translation": "উপবাসের সময়, ক্যাটাবলিজম সঞ্চিত ফ্যাট থেকে শক্তি উৎপন্ন করে।",
+                    "example_sentence_transliteration": "Upobaser somoy, catabolism sanchito fat theke shokti utponno kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "macronutrients",
+            "phonetic": "/ˈmæk.rəʊˌnjuː.tri.ənts/",
+            "word_native_transliteration": {
+                "bn": "ম্যাক্রোনিউট্রিয়েন্টস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🥗",
+            "meaning": "Nutrients that are needed in large amounts to provide energy and building materials for the body, including carbohydrates, proteins, and fats.",
+            "example_sentence": "Proteins, fats, and carbohydrates are vital macronutrients.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোটিনস, ফ্যাটস, অ্যান্ড কার্বোহাইড্রেটস আর ভাইটাল ম্যাক্রোনিউট্রিয়েন্টস।"
+            },
+            "position": 4,
+            "synonyms": "essential nutrients, energy sources, dietary components",
+            "antonyms": "micronutrients, minor elements, trace minerals",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৃহৎ পুষ্টি উপাদান",
+                    "word_transliteration": "brihot pushti upodan",
+                    "example_sentence_translation": "প্রোটিন, ফ্যাট, এবং কার্বোহাইড্রেট গুরুত্বপূর্ণ ম্যাক্রোনিউট্রিয়েন্টস।",
+                    "example_sentence_transliteration": "Protein, fat, ebong carbohydrate guruttopurno macronutrients.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "carbohydrates",
+            "phonetic": "/ˌkɑː.bəʊˈhaɪ.dreɪts/",
+            "word_native_transliteration": {
+                "bn": "কার্বোহাইড্রেটস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🍞",
+            "meaning": "Organic compounds consisting of carbon, hydrogen, and oxygen, serving as a primary source of energy for the body.",
+            "example_sentence": "Whole grains are a great source of healthy carbohydrates.",
+            "example_sentence_native_transliteration": {
+                "bn": "হোল গ্রেইনস আর এ গ্রেট সোর্স অব হেলদি কার্বোহাইড্রেটস।"
+            },
+            "position": 5,
+            "synonyms": "starches, sugars, polysaccharides",
+            "antonyms": "proteins, fats, fibers",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শর্করা",
+                    "word_transliteration": "shorkora",
+                    "example_sentence_translation": "সম্পূর্ণ শস্য স্বাস্থ্যকর কার্বোহাইড্রেটের একটি চমৎকার উৎস।",
+                    "example_sentence_transliteration": "Shompurno shosho shasthyokor carbohydrater ekti chomotkar utso.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "proteins",
+            "phonetic": "/ˈprəʊ.tiːnz/",
+            "word_native_transliteration": {
+                "bn": "প্রোটিনস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🥩",
+            "meaning": "Large biomolecules consisting of amino acids that perform essential functions in living organisms, including building and repairing tissues.",
+            "example_sentence": "Lean meats and legumes provide high-quality proteins.",
+            "example_sentence_native_transliteration": {
+                "bn": "লিন মিটস অ্যান্ড লেগিউমস প্রোভাইড হাই-কোয়ালিটি প্রোটিনস।"
+            },
+            "position": 6,
+            "synonyms": "amino acids, muscle-building nutrients, structural biomolecules",
+            "antonyms": "carbohydrates, fats, sugars",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আমিষ",
+                    "word_transliteration": "amish",
+                    "example_sentence_translation": "চর্বিহীন মাংস ও শিম জাতীয় খাদ্য উচ্চমানের প্রোটিন সরবরাহ করে।",
+                    "example_sentence_transliteration": "Chorbiheen mangsho o shim jatiyo khadyo uchchomaner protein shoroborah kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fats",
+            "phonetic": "/fæts/",
+            "word_native_transliteration": {
+                "bn": "ফ্যাটস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🥑",
+            "meaning": "Essential macronutrients that provide energy, support cell growth, and protect organs while helping absorb vitamins.",
+            "example_sentence": "Healthy fats from nuts and avocados support brain function.",
+            "example_sentence_native_transliteration": {
+                "bn": "হেলদি ফ্যাটস ফ্রম নাটস অ্যান্ড অ্যাভোকাডোস সাপোর্ট ব্রেইন ফাংশন।"
+            },
+            "position": 7,
+            "synonyms": "lipids, triglycerides, fatty acids",
+            "antonyms": "carbohydrates, proteins, fibers",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চর্বি",
+                    "word_transliteration": "chorbi",
+                    "example_sentence_translation": "বাদাম ও অ্যাভোকাডোর স্বাস্থ্যকর ফ্যাট মস্তিষ্কের কার্যক্রম সমর্থন করে।",
+                    "example_sentence_transliteration": "Badam o avocador shasthyokor fat mostishker karjokrom shomorthon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "micronutrients",
+            "phonetic": "/ˈmaɪ.krəʊˌnjuː.tri.ənts/",
+            "word_native_transliteration": {
+                "bn": "মাইক্রোনিউট্রিয়েন্টস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💊",
+            "meaning": "Essential nutrients required in small amounts for proper body function, including vitamins and minerals.",
+            "example_sentence": "Micronutrients like iron and zinc are essential for immunity.",
+            "example_sentence_native_transliteration": {
+                "bn": "মাইক্রোনিউট্রিয়েন্টস লাইক আয়রন অ্যান্ড জিঙ্ক আর এসেনশিয়াল ফর ইমিউনিটি।"
+            },
+            "position": 8,
+            "synonyms": "vitamins, minerals, trace elements",
+            "antonyms": "macronutrients, bulk nutrients, energy providers",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্ষুদ্র পুষ্টি উপাদান",
+                    "word_transliteration": "khudro pushti upodan",
+                    "example_sentence_translation": "আয়রন ও জিঙ্কের মতো মাইক্রোনিউট্রিয়েন্টস রোগ প্রতিরোধ ক্ষমতার জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Iron o jinker moto micronutrients rog protirodh khomotar jonno oporoharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "enzymatic",
+            "phonetic": "/ˌen.zɪˈmæt.ɪk/",
+            "word_native_transliteration": {
+                "bn": "এনজাইম্যাটিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧬",
+            "meaning": "Relating to or involving enzymes, which are proteins that catalyze biochemical reactions in living organisms.",
+            "example_sentence": "Enzymatic reactions regulate metabolism in the human body.",
+            "example_sentence_native_transliteration": {
+                "bn": "এনজাইম্যাটিক রিঅ্যাকশনস রেগুলেট মেটাবলিজম ইন দ্য হিউম্যান বডি।"
+            },
+            "position": 9,
+            "synonyms": "catalytic, biochemical, reactive",
+            "antonyms": "non-enzymatic, passive, inactive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "এনজাইম সম্পর্কিত",
+                    "word_transliteration": "enzyme shomporkit",
+                    "example_sentence_translation": "এনজাইম্যাটিক প্রতিক্রিয়া মানবদেহের বিপাকক্রিয়া নিয়ন্ত্রণ করে।",
+                    "example_sentence_transliteration": "Enzymatic protikriya manobdeher bipakkriya niyontron kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "bioavailability",
+            "phonetic": "/ˌbaɪ.oʊ.əˌveɪ.ləˈbɪl.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "বায়োঅভেইলবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚗️",
+            "meaning": "The degree and rate at which a substance is absorbed or becomes available at the site of physiological activity.",
+            "example_sentence": "Vitamin C enhances the bioavailability of iron in the diet.",
+            "example_sentence_native_transliteration": {
+                "bn": "ভিটামিন সি এনহান্সেস দ্য বায়োঅভেইলবিলিটি অব আয়রন ইন দ্য ডায়েট।"
+            },
+            "position": 10,
+            "synonyms": "absorption rate, nutrient uptake, digestibility",
+            "antonyms": "poor absorption, low retention, limited uptake",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জৈব উপলব্ধতা",
+                    "word_transliteration": "joibo upolobdhota",
+                    "example_sentence_translation": "ভিটামিন সি খাদ্যে থাকা আয়রনের জৈব উপলব্ধতা বৃদ্ধি করে।",
+                    "example_sentence_transliteration": "Vitamin C khadye thaka ironer joibo upolobdhota briddhi kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "hydrolysis",
+            "phonetic": "/haɪˈdrɒl.ɪ.sɪs/",
+            "word_native_transliteration": {
+                "bn": "হাইড্রোলাইসিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💧",
+            "meaning": "A chemical process that breaks down compounds by adding water, splitting complex molecules into simpler forms.",
+            "example_sentence": "Hydrolysis breaks down complex molecules into simpler forms.",
+            "example_sentence_native_transliteration": {
+                "bn": "হাইড্রোলাইসিস ব্রেক্স ডাউন কমপ্লেক্স মলিকিউলস ইনটু সিম্পলার ফর্মস।"
+            },
+            "position": 11,
+            "synonyms": "decomposition, cleavage, breakdown",
+            "antonyms": "condensation, synthesis, formation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রাসায়নিক বিভাজন",
+                    "word_transliteration": "rashayonik bibhajon",
+                    "example_sentence_translation": "হাইড্রোলাইসিস জটিল অণুগুণুলোকে সহজ রূপে বিভক্ত করে।",
+                    "example_sentence_transliteration": "Hydrolysis jotil onuguloke shohoj rupe bibhokto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "glycemic",
+            "phonetic": "/ɡlaɪˈsiː.mɪk/",
+            "word_native_transliteration": {
+                "bn": "গ্লাইসেমিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📈",
+            "meaning": "Relating to the presence of glucose in the blood and how foods affect blood sugar levels.",
+            "example_sentence": "High-glycemic foods cause a rapid increase in blood sugar.",
+            "example_sentence_native_transliteration": {
+                "bn": "হাই-গ্লাইসেমিক ফুডস কজ এ র‍্যাপিড ইনক্রিজ ইন ব্লাড সুগার।"
+            },
+            "position": 12,
+            "synonyms": "blood sugar level, carbohydrate effect, glucose response",
+            "antonyms": "hypoglycemic, non-glycemic, stable sugar level",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রক্তে শর্করার প্রভাব",
+                    "word_transliteration": "rokte shorkorar prabhab",
+                    "example_sentence_translation": "উচ্চ-গ্লাইসেমিক খাবার দ্রুত রক্তে শর্করা বাড়ায়।",
+                    "example_sentence_transliteration": "Uccho-glycemic khabar druto rokte shorkora baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "homeostasis",
+            "phonetic": "/ˌhəʊ.mi.əʊˈsteɪ.sɪs/",
+            "word_native_transliteration": {
+                "bn": "হোমিওস্ট্যাসিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "The tendency of a living organism to maintain internal equilibrium by adjusting its physiological processes.",
+            "example_sentence": "The body maintains homeostasis through temperature regulation.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য বডি মেইনটেইনস হোমিওস্ট্যাসিস থ্রু টেম্পারেচার রেগুলেশন।"
+            },
+            "position": 13,
+            "synonyms": "equilibrium, internal balance, physiological stability",
+            "antonyms": "imbalance, dysregulation, instability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শারীরিক ভারসাম্য",
+                    "word_transliteration": "sharirik bharshamo",
+                    "example_sentence_translation": "শরীর তাপমাত্রা নিয়ন্ত্রণের মাধ্যমে হোমিওস্ট্যাসিস বজায় রাখে।",
+                    "example_sentence_transliteration": "Shorir tapomatra niyontroner maddhome homeostasis bojay rakhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "probiotics",
+            "phonetic": "/ˌprəʊ.baɪˈɒt.ɪks/",
+            "word_native_transliteration": {
+                "bn": "প্রোবায়োটিকস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🦠",
+            "meaning": "Live microorganisms that, when administered in adequate amounts, confer health benefits to the host, especially for digestive health.",
+            "example_sentence": "Probiotics improve digestion and enhance gut health.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোবায়োটিকস ইমপ্রুভ ডাইজেশন অ্যান্ড এনহান্স গাট হেলথ।"
+            },
+            "position": 14,
+            "synonyms": "beneficial bacteria, gut flora, digestive aid",
+            "antonyms": "antibiotics, pathogens, harmful microbes",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উপকারী ব্যাকটেরিয়া",
+                    "word_transliteration": "upokari bacteria",
+                    "example_sentence_translation": "প্রোবায়োটিকস হজমের উন্নতি করে এবং অন্ত্রের স্বাস্থ্য ভালো রাখে।",
+                    "example_sentence_transliteration": "Probiotics hojomer unnoti kore ebong ontrer shasthyo bhalo rakhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "antioxidants",
+            "phonetic": "/ˌæn.tiˈɒk.sɪ.dənts/",
+            "word_native_transliteration": {
+                "bn": "অ্যান্টিঅক্সিডেন্টস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛡️",
+            "meaning": "Substances that may prevent or delay cell damage caused by free radicals, potentially reducing the risk of certain diseases.",
+            "example_sentence": "Fruits and vegetables are rich in antioxidants, which prevent cell damage.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফ্রুটস অ্যান্ড ভেজিটেবলস আর রিচ ইন অ্যান্টিঅক্সিডেন্টস, হুইচ প্রিভেন্ট সেল ড্যামেজ।"
+            },
+            "position": 15,
+            "synonyms": "free radical scavenger, cell protector, anti-aging compound",
+            "antonyms": "oxidants, free radicals, harmful agents",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কোষ রক্ষা উপাদান",
+                    "word_transliteration": "kosh roksha upodan",
+                    "example_sentence_translation": "ফল ও শাকসবজিতে প্রচুর অ্যান্টিঅক্সিডেন্ট থাকে, যা কোষের ক্ষতি প্রতিরোধ করে।",
+                    "example_sentence_transliteration": "Fol o shakshobji antioxidant thake, ja kosher khoti protirodh kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "oxidative",
+            "phonetic": "/ˈɒk.sɪ.də.tɪv/",
+            "word_native_transliteration": {
+                "bn": "অক্সিডেটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔥",
+            "meaning": "Relating to or involving oxidation, particularly processes that can cause cellular damage through free radical formation.",
+            "example_sentence": "Oxidative stress contributes to aging and chronic diseases.",
+            "example_sentence_native_transliteration": {
+                "bn": "অক্সিডেটিভ স্ট্রেস কনট্রিবিউটস টু এজিং অ্যান্ড ক্রনিক ডিজিজেস।"
+            },
+            "position": 16,
+            "synonyms": "reactive oxygen, degenerative process, free radical activity",
+            "antonyms": "antioxidant, protective, reductive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অক্সিজেন সম্পর্কিত",
+                    "word_transliteration": "oxygen shomporkit",
+                    "example_sentence_translation": "অক্সিডেটিভ স্ট্রেস বার্ধক্য ও দীর্ঘস্থায়ী রোগের কারণ হতে পারে।",
+                    "example_sentence_transliteration": "Oxidative stress bardhokko o dirghosthayi roger karon hote pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "neurotransmitters",
+            "phonetic": "/ˈnjʊə.rəʊ.trænsˌmɪt.ərs/",
+            "word_native_transliteration": {
+                "bn": "নিউরোট্রান্সমিটারস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧠",
+            "meaning": "Chemical messengers that transmit signals across nerve synapses, affecting mood, behavior, and cognitive functions.",
+            "example_sentence": "Serotonin and dopamine are key neurotransmitters affecting mood.",
+            "example_sentence_native_transliteration": {
+                "bn": "সেরোটোনিন অ্যান্ড ডোপামিন আর কি নিউরোট্রান্সমিটারস অ্যাফেক্টিং মুড।"
+            },
+            "position": 17,
+            "synonyms": "brain chemicals, synaptic messengers, neurological signals",
+            "antonyms": "neuroinhibitors, blockers, suppressors",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্নায়বিক সংকেত বাহক",
+                    "word_transliteration": "snayubik shonket bahok",
+                    "example_sentence_translation": "সেরোটোনিন ও ডোপামিন মেজাজের উপর প্রভাব ফেলা প্রধান নিউরোট্রান্সমিটার।",
+                    "example_sentence_transliteration": "Serotonin o dopamine mejajer upor prabhab fela pradhan neurotransmitter.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "lipogenesis",
+            "phonetic": "/ˌlaɪ.pəˈdʒen.ɪ.sɪs/",
+            "word_native_transliteration": {
+                "bn": "লাইপোজেনেসিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🫁",
+            "meaning": "The metabolic process of fat synthesis where excess carbohydrates are converted into fatty acids and stored as triglycerides.",
+            "example_sentence": "Excess carbohydrate intake promotes lipogenesis and fat storage.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সেস কার্বোহাইড্রেট ইনটেক প্রোমোটস লাইপোজেনেসিস অ্যান্ড ফ্যাট স্টোরেজ।"
+            },
+            "position": 18,
+            "synonyms": "fat synthesis, lipid formation, energy storage",
+            "antonyms": "lipolysis, fat breakdown, energy expenditure",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ফ্যাট সংশ্লেষণ প্রক্রিয়া",
+                    "word_transliteration": "fat sangshleshhon prokriya",
+                    "example_sentence_translation": "অতিরিক্ত কার্বোহাইড্রেট গ্রহণ লাইপোজেনেসিস বাড়ায় এবং চর্বি সঞ্চয় করে।",
+                    "example_sentence_transliteration": "Otirikto carbohydrate grohon lipogenesis baray ebong chorbi sanchoy kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ketogenesis",
+            "phonetic": "/ˌkiː.təʊˈdʒen.ɪ.sɪs/",
+            "word_native_transliteration": {
+                "bn": "কেটোজেনেসিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "The metabolic process by which the liver produces ketones from fatty acids, providing an alternative energy source during low carbohydrate availability.",
+            "example_sentence": "Ketogenesis occurs during fasting or low-carb diets.",
+            "example_sentence_native_transliteration": {
+                "bn": "কেটোজেনেসিস অকারস ডিউরিং ফাস্টিং অর লো-কার্ব ডায়েটস।"
+            },
+            "position": 19,
+            "synonyms": "ketone production, fat metabolism, energy alternative",
+            "antonyms": "glycolysis, glucose metabolism, sugar oxidation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কিটোন উৎপাদন প্রক্রিয়া",
+                    "word_transliteration": "kiton utpadon prokriya",
+                    "example_sentence_translation": "উপবাস বা কম-কার্বোহাইড্রেট ডায়েটের সময় কেটোজেনেসিস ঘটে।",
+                    "example_sentence_transliteration": "Upobas ba kom-carbohydrate dieter somoy ketogenesis ghote.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "phytochemicals",
+            "phonetic": "/ˌfaɪ.təʊˈkem.ɪ.kəlz/",
+            "word_native_transliteration": {
+                "bn": "ফাইটোকেমিক্যালস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌱",
+            "meaning": "Natural chemical compounds produced by plants that provide health benefits beyond basic nutrition, often having antioxidant properties.",
+            "example_sentence": "Phytochemicals in green tea help reduce inflammation.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফাইটোকেমিক্যালস ইন গ্রিন টি হেল্প রিডিউস ইনফ্লামেশন।"
+            },
+            "position": 20,
+            "synonyms": "plant compounds, natural antioxidants, bioactive molecules",
+            "antonyms": "synthetic chemicals, artificial additives, harmful substances",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্ভিদের প্রাকৃতিক যৌগ",
+                    "word_transliteration": "uddbhider prakritik joug",
+                    "example_sentence_translation": "গ্রিন টিতে থাকা ফাইটোকেমিক্যালস প্রদাহ কমাতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Green ti-te thaka phytochemicals prodaho komate shahajyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "endocrine",
+            "phonetic": "/ˈen.də.krɪn/",
+            "word_native_transliteration": {
+                "bn": "এন্ডোক্রাইন"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🏥",
+            "meaning": "Relating to or denoting glands that secrete hormones directly into the bloodstream to regulate various body functions.",
+            "example_sentence": "The endocrine system regulates metabolism and stress responses.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এন্ডোক্রাইন সিস্টেম রেগুলেটস মেটাবলিজম অ্যান্ড স্ট্রেস রেসপনসেস।"
+            },
+            "position": 21,
+            "synonyms": "hormonal system, glandular function, regulatory mechanism",
+            "antonyms": "exocrine, non-hormonal, external secretion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "হরমোন সম্পর্কিত",
+                    "word_transliteration": "hormone shomporkit",
+                    "example_sentence_translation": "এন্ডোক্রাইন সিস্টেম বিপাক ও মানসিক চাপ প্রতিক্রিয়া নিয়ন্ত্রণ করে।",
+                    "example_sentence_transliteration": "Endocrine system bipak o manoshik chap protikriya niyontron kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "thermogenesis",
+            "phonetic": "/ˌθɜː.məʊˈdʒen.ɪ.sɪs/",
+            "word_native_transliteration": {
+                "bn": "থার্মোজেনেসিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔥",
+            "meaning": "The process of heat production in living organisms, often associated with burning calories and energy expenditure.",
+            "example_sentence": "Spicy foods can enhance thermogenesis and calorie burning.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্পাইসি ফুডস ক্যান এনহান্স থার্মোজেনেসিস অ্যান্ড ক্যালোরি বার্নিং।"
+            },
+            "position": 22,
+            "synonyms": "heat production, energy expenditure, metabolic activation",
+            "antonyms": "hypothermia, energy conservation, cold exposure",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "তাপ উৎপাদন প্রক্রিয়া",
+                    "word_transliteration": "tap utpadon prokriya",
+                    "example_sentence_translation": "মশলাযুক্ত খাবার থার্মোজেনেসিস বাড়ায় এবং ক্যালোরি পোড়ায়।",
+                    "example_sentence_transliteration": "Moshlajukto khabar thermogenesis baray ebong calorie poray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "satiety",
+            "phonetic": "/səˈtaɪ.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "সাটাইটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "😌",
+            "meaning": "The feeling of fullness and satisfaction after eating, which helps control food intake and prevent overeating.",
+            "example_sentence": "Protein-rich foods promote satiety and reduce cravings.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোটিন-রিচ ফুডস প্রোমোট সাটাইটি অ্যান্ড রিডিউস ক্রেভিংস।"
+            },
+            "position": 23,
+            "synonyms": "fullness, appetite control, satiation",
+            "antonyms": "hunger, appetite, starvation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিপূর্ণতা অনুভূতি",
+                    "word_transliteration": "poripurnota onubhuti",
+                    "example_sentence_translation": "প্রোটিন সমৃদ্ধ খাবার সাটাইটি বাড়ায় এবং ক্ষুধা কমায়।",
+                    "example_sentence_transliteration": "Protein shomriddho khabar satiety baray ebong khudha komay.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

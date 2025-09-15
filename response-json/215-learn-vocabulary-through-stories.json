@@ -1,0 +1,499 @@
+{
+    "position": 215,
+    "title_translation": {
+        "en": "The Role of Mobility Apps Today",
+        "bn": "আজকাল Mobility Apps-এর ভূমিকা"
+    },
+    "content_translation": {
+        "en": "Today **mobility apps** have become an important part of everyday life. These apps **streamline** our movement and provide **flexibility**. They create complete **harmonization** with the city's **infrastructure**, making transportation very easy.\n\nThis technology, which is **omnipresent** on one hand, is also **bridging** different types of transportation systems. For example, a **seamless** experience is created where different services work **contextually** with each other.\n\nThe **modular** design of these apps makes them **versatile** and **crucial**, especially when they work with **decentralized** urban transportation systems. Through **pragmatic** and **impactful** principles, **mobility** apps are bringing a **pioneering** change to our lives.\n\nThey are working as a **catalyst** so that we can reach our destinations more efficiently.",
+        "bn": "আজকাল **mobility apps** প্রতিদিনের জীবনের এক গুরুত্বপূর্ণ অংশ হয়ে উঠেছে। এই অ্যাপগুলি আমাদের চলাচলকে **streamline** করে এবং **flexibility** প্রদান করে। তারা শহরের **infrastructure**-এর সাথে পুরোপুরি **harmonization** তৈরি করে, ফলে যাতায়াত খুবই সহজ হয়ে যায়।\n\nএই প্রযুক্তি, একদিকে যেমন **omnipresent**, তেমনি এটি **bridging** বিভিন্ন ধরনের পরিবহন ব্যবস্থা। যেমন, একটি **seamless** অভিজ্ঞতা তৈরি করা হয়, যেখানে বিভিন্ন সার্ভিস একে অপরের সাথে **contextual** ভাবে কাজ করে।\n\nএই অ্যাপগুলোর **modular** ডিজাইন তাদেরকে **versatile** এবং **crucial** করে তোলে, বিশেষ করে তারা যখন **decentralized** শহরের পরিবহন ব্যবস্থার সাথে কাজ করে। **Pragmatic** এবং **impactful** সিদ্ধান্তগুলির মাধ্যমে, **mobility** apps আমাদের জীবনে এক **pioneering** পরিবর্তন আনছে।\n\nএগুলি **catalyst** হিসেবে কাজ করছে, যাতে আমরা আরও কার্যকরীভাবে আমাদের গন্তব্যে পৌঁছাতে পারি।"
+    },
+    "list": [
+        {
+            "word": "mobility",
+            "phonetic": "/məʊˈbɪləti/",
+            "word_native_transliteration": {
+                "bn": "মোবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚀",
+            "meaning": "The ability to move or be moved freely and easily; the quality of being mobile.",
+            "example_sentence": "The mobility of workers is essential for the success of the project.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য মোবিলিটি অফ ওয়ার্কারস ইজ এসেনশিয়াল ফর দ্য সাকসেস অফ দ্য প্রজেক্ট।"
+            },
+            "position": 1,
+            "synonyms": "movement, flexibility",
+            "antonyms": "immobility, stagnation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চলাচলের ক্ষমতা, গতিশীলতা",
+                    "word_transliteration": "cholachler khomota, gotishilota",
+                    "example_sentence_translation": "কর্মীদের গতিশীলতা প্রকল্পের সাফল্যের জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Kormider gotishilota prokolper shafolyer jonno oporihario.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "streamline",
+            "phonetic": "/ˈstriːmlaɪn/",
+            "word_native_transliteration": {
+                "bn": "স্ট্রিমলাইন"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⚡",
+            "meaning": "To make an organization or system more efficient and effective by employing faster or simpler working methods.",
+            "example_sentence": "The new software will help streamline the process and increase productivity.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিউ সফটওয়্যার উইল হেল্প স্ট্রিমলাইন দ্য প্রসেস অ্যান্ড ইনক্রিজ প্রোডাক্টিভিটি।"
+            },
+            "position": 2,
+            "synonyms": "simplify, optimize",
+            "antonyms": "complicate, hinder",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহজতর করা, সরলীকরণ করা",
+                    "word_transliteration": "shohjotoro kora, shorolikoron kora",
+                    "example_sentence_translation": "নতুন সফটওয়্যার প্রক্রিয়া সহজতর করতে সাহায্য করবে এবং উৎপাদনশীলতা বৃদ্ধি করবে।",
+                    "example_sentence_transliteration": "Notun software prokriya shohjotoro korte shahajjo korbe ebong utpadnoshilota briddhi korbe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "flexibility",
+            "phonetic": "/flɛkˈsɪbɪləti/",
+            "word_native_transliteration": {
+                "bn": "ফ্লেক্সিবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤸",
+            "meaning": "The quality of bending easily without breaking; willingness to change or compromise.",
+            "example_sentence": "The flexibility of the working hours made it easier to balance work and personal life.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফ্লেক্সিবিলিটি অফ দ্য ওয়ার্কিং আওয়ারস মেইড ইট ইজিয়ার টু ব্যালেন্স ওয়ার্ক অ্যান্ড পার্সোনাল লাইফ।"
+            },
+            "position": 3,
+            "synonyms": "adaptability, versatility",
+            "antonyms": "rigidity, inflexibility",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নমনীয়তা, অভিযোজন ক্ষমতা",
+                    "word_transliteration": "nmoniyota, obhiyojon khomota",
+                    "example_sentence_translation": "কাজের সময়ের নমনীয়তা কাজ এবং ব্যক্তিগত জীবন সমন্বয় সহজ করে দিয়েছে।",
+                    "example_sentence_transliteration": "Kajer shomyer nmoniyota kaj ebong bektigoto jibon shomonboy shohoj kore diyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "infrastructure",
+            "phonetic": "/ˈɪnfrəstrʌktʃər/",
+            "word_native_transliteration": {
+                "bn": "ইনফ্রাস্ট্রাকচার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏗️",
+            "meaning": "The basic physical and organizational structures and facilities needed for the operation of a society or enterprise.",
+            "example_sentence": "The city is investing heavily in infrastructure to support its growing population.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সিটি ইজ ইনভেস্টিং হেভিলি ইন ইনফ্রাস্ট্রাকচার টু সাপোর্ট ইটস গ্রোয়িং পপুলেশন।"
+            },
+            "position": 4,
+            "synonyms": "framework, foundation",
+            "antonyms": "disorganization, collapse",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অবকাঠামো, মৌলিক সুবিধা",
+                    "word_transliteration": "obokathamo, moulik shuvidha",
+                    "example_sentence_translation": "শহরটি তার বাড়তে থাকা জনসংখ্যাকে সহায়তা করার জন্য অবকাঠামোতে ব্যাপক বিনিয়োগ করছে।",
+                    "example_sentence_transliteration": "Shohorti tar badte thaka jonoshongkkhake shohaita korar jonno obokathamoto byapok biniyog korche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "harmonization",
+            "phonetic": "/ˌhɑːmənaɪˈzeɪʃən/",
+            "word_native_transliteration": {
+                "bn": "হারমোনাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎵",
+            "meaning": "The process of making things compatible or consistent with one another.",
+            "example_sentence": "The harmonization of different policies ensures consistent results.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য হারমোনাইজেশন অফ ডিফারেন্ট পলিসিস এনশিওরস কনসিস্টেন্ট রেজাল্টস।"
+            },
+            "position": 5,
+            "synonyms": "alignment, coordination",
+            "antonyms": "conflict, discrepancy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সঙ্গতি, সামঞ্জস্য",
+                    "word_transliteration": "shongoti, shamnjoshyo",
+                    "example_sentence_translation": "বিভিন্ন নীতির সামঞ্জস্য নিশ্চিত ফলাফলের ধারাবাহিকতা প্রদান করে।",
+                    "example_sentence_transliteration": "Bibhinno nitir shamnjoshyo nishchito pholaphler dharabahikota prodan kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "omnipresent",
+            "phonetic": "/ˌɒmnɪˈprɛzənt/",
+            "word_native_transliteration": {
+                "bn": "ওমনিপ্রেজেন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "👁️",
+            "meaning": "Present everywhere at the same time; widely or constantly encountered.",
+            "example_sentence": "Technology has become omnipresent in modern life, affecting almost every aspect of daily activities.",
+            "example_sentence_native_transliteration": {
+                "bn": "টেকনোলজি হ্যাজ বিকাম ওমনিপ্রেজেন্ট ইন মডার্ন লাইফ, অ্যাফেক্টিং অলমোস্ট এভরি অ্যাসপেক্ট অফ ডেইলি অ্যাক্টিভিটিস।"
+            },
+            "position": 6,
+            "synonyms": "ubiquitous, all-encompassing",
+            "antonyms": "rare, uncommon",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সর্বব্যাপী, সর্বত্র উপস্থিত",
+                    "word_transliteration": "shorbobyapi, sorbotro uposhthito",
+                    "example_sentence_translation": "প্রযুক্তি আধুনিক জীবনে সর্বব্যাপী হয়ে উঠেছে, যা দৈনন্দিন কাজের প্রতিটি দিককে প্রভাবিত করছে।",
+                    "example_sentence_transliteration": "Projukti adhunik jibne shorbobyapi hoye utheche, ja doinondin kajer protiti dikke probhabito korche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "bridging",
+            "phonetic": "/ˈbrɪdʒɪŋ/",
+            "word_native_transliteration": {
+                "bn": "ব্রিজিং"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🌉",
+            "meaning": "The action of building a bridge over something; connecting or reducing the distance between two things.",
+            "example_sentence": "The new initiative is bridging the gap between urban and rural development.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিউ ইনিশিয়েটিভ ইজ ব্রিজিং দ্য গ্যাপ বিটুইন আরবান অ্যান্ড রুরাল ডেভেলপমেন্ট।"
+            },
+            "position": 7,
+            "synonyms": "connecting, uniting",
+            "antonyms": "disconnecting, isolating",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সেতুবন্ধন করা, সংযোগ স্থাপন করা",
+                    "word_transliteration": "shetubondhon kora, shongjog sthapn kora",
+                    "example_sentence_translation": "নতুন উদ্যোগটি শহর ও গ্রামীণ উন্নয়নের মধ্যে ব্যবধানটি সেতুবন্ধন করছে।",
+                    "example_sentence_transliteration": "Notun uddogti shohor o gramin unnoyner moddhe byabdhanti shetubondhon korche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "seamless",
+            "phonetic": "/ˈsiːmləs/",
+            "word_native_transliteration": {
+                "bn": "সীমলেস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "✨",
+            "meaning": "Smooth and continuous, with no apparent gaps or spaces between one part and the next.",
+            "example_sentence": "The seamless integration of the two systems improved efficiency and reduced errors.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সীমলেস ইন্টিগ্রেশন অফ দ্য টু সিস্টেমস ইমপ্রুভড এফিশিয়েন্সি অ্যান্ড রিডিউসড এররস।"
+            },
+            "position": 8,
+            "synonyms": "smooth, uninterrupted",
+            "antonyms": "disjointed, interrupted",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মসৃণ, কোনও বাধা ছাড়া",
+                    "word_transliteration": "moshrun, kono badha chara",
+                    "example_sentence_translation": "দুইটি সিস্টেমের মসৃণ সংহতি কার্যকারিতা বাড়িয়েছে এবং ত্রুটিগুলি কমিয়েছে।",
+                    "example_sentence_transliteration": "Duiti systemr moshrun shonghoti karjokkarita bariyeche ebong trutigulio komiyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "contextual",
+            "phonetic": "/kənˈtɛkstʃʊəl/",
+            "word_native_transliteration": {
+                "bn": "কন্টেক্সচুয়াল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔗",
+            "meaning": "Depending on or relating to the circumstances that form the setting for an event or statement.",
+            "example_sentence": "Understanding the contextual meaning of a word is crucial for effective communication.",
+            "example_sentence_native_transliteration": {
+                "bn": "আন্ডারস্ট্যান্ডিং দ্য কন্টেক্সচুয়াল মিনিং অফ এ ওয়ার্ড ইজ ক্রুশিয়াল ফর ইফেক্টিভ কমিউনিকেশন।"
+            },
+            "position": 9,
+            "synonyms": "situational, relevant",
+            "antonyms": "irrelevant, unrelated",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রেক্ষিতভিত্তিক, পরিবেশগত",
+                    "word_transliteration": "prekkhitobhittik, poribeshgoto",
+                    "example_sentence_translation": "একটি শব্দের প্রেক্ষিতভিত্তিক মানে বোঝা কার্যকর যোগাযোগের জন্য গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Ekti shobder prekkhitobhittik mane bojha karjokor jogajogr jonno guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "modular",
+            "phonetic": "/ˈmɒdʒʊlər/",
+            "word_native_transliteration": {
+                "bn": "মডুলার"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧩",
+            "meaning": "Employing or involving a module or modules as the basis of design or construction.",
+            "example_sentence": "The modular design allows for easy customization and scalability.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য মডুলার ডিজাইন অ্যালাউজ ফর ইজি কাস্টমাইজেশন অ্যান্ড স্কেলেবিলিটি।"
+            },
+            "position": 10,
+            "synonyms": "adjustable, combinable",
+            "antonyms": "inflexible, fixed",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একাধিক অংশে বিভক্ত, পরিমাপযোগ্য",
+                    "word_transliteration": "ekadhik ongshe bibhokto, porimapjogyo",
+                    "example_sentence_translation": "মডুলার ডিজাইনটি সহজ কাস্টমাইজেশন এবং স্কেলেবিলিটির অনুমতি দেয়।",
+                    "example_sentence_transliteration": "Modular designti shohoj customizationr ebong scaleabilityr onumoti day.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "versatile",
+            "phonetic": "/ˈvɜːsətaɪl/",
+            "word_native_transliteration": {
+                "bn": "ভার্সাটাইল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎭",
+            "meaning": "Able to adapt or be adapted to many different functions or activities.",
+            "example_sentence": "His versatile skills allowed him to excel in both engineering and design.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ভার্সাটাইল স্কিলস অ্যালাউড হিম টু এক্সেল ইন বোথ ইঞ্জিনিয়ারিং অ্যান্ড ডিজাইন।"
+            },
+            "position": 11,
+            "synonyms": "adaptable, multifunctional",
+            "antonyms": "one-dimensional, limited",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বহুমুখী, সব ধরনের কাজে ব্যবহারযোগ্য",
+                    "word_transliteration": "bohumukhi, shob dhorner kaje byabharjogyo",
+                    "example_sentence_translation": "তার বহুমুখী দক্ষতা তাকে ইঞ্জিনিয়ারিং এবং ডিজাইন উভয় ক্ষেত্রেই শ্রেষ্ঠত্ব অর্জন করতে সহায়ক হয়েছিল।",
+                    "example_sentence_transliteration": "Tar bohumukhi dokkhota take engineering ebong design ubhoy khetrei shreshthottor orjon korte shahajok hoyechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "crucial",
+            "phonetic": "/ˈkruːʃəl/",
+            "word_native_transliteration": {
+                "bn": "ক্রুশিয়াল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚠️",
+            "meaning": "Extremely important or necessary; decisive in determining success or failure.",
+            "example_sentence": "Timely decision-making is crucial to the success of the project.",
+            "example_sentence_native_transliteration": {
+                "bn": "টাইমলি ডিসিশন-মেকিং ইজ ক্রুশিয়াল টু দ্য সাকসেস অফ দ্য প্রজেক্ট।"
+            },
+            "position": 12,
+            "synonyms": "vital, essential",
+            "antonyms": "unimportant, trivial",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অত্যন্ত গুরুত্বপূর্ণ",
+                    "word_transliteration": "ottonto guruttopurno",
+                    "example_sentence_translation": "সময়োপযোগী সিদ্ধান্ত গ্রহণ প্রকল্পের সাফল্যের জন্য গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Shomoyupojogi siddhanto grohon prokolper shafolyer jonno guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "decentralized",
+            "phonetic": "/diːˈsɛntrəlaɪzd/",
+            "word_native_transliteration": {
+                "bn": "ডিসেন্ট্রালাইজড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🕸️",
+            "meaning": "Controlled by several local offices or authorities rather than one single one.",
+            "example_sentence": "The decentralized system allowed for more control at local levels.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডিসেন্ট্রালাইজড সিস্টেম অ্যালাউড ফর মোর কন্ট্রোল অ্যাট লোকাল লেভেলস।"
+            },
+            "position": 13,
+            "synonyms": "dispersed, distributive",
+            "antonyms": "centralized, concentrated",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কেন্দ্রীভূত না হওয়া, বিক্ষিপ্ত",
+                    "word_transliteration": "kendribhuto na howa, bikkhipto",
+                    "example_sentence_translation": "ডিসেন্ট্রালাইজড সিস্টেমটি স্থানীয় স্তরে আরও নিয়ন্ত্রণের সুযোগ প্রদান করেছিল।",
+                    "example_sentence_transliteration": "Decentralized systemti sthaniyostore aro niyontronr shujog prodan korechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pragmatic",
+            "phonetic": "/præɡˈmætɪk/",
+            "word_native_transliteration": {
+                "bn": "প্রাগম্যাটিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎯",
+            "meaning": "Dealing with things sensibly and realistically in a way that is based on practical rather than idealistic considerations.",
+            "example_sentence": "She took a pragmatic approach to problem-solving, focusing on feasible solutions.",
+            "example_sentence_native_transliteration": {
+                "bn": "শী টুক এ প্রাগম্যাটিক অ্যাপ্রোচ টু প্রবলেম-সলভিং, ফোকাসিং অন ফিজিবল সলিউশনস।"
+            },
+            "position": 14,
+            "synonyms": "practical, realistic",
+            "antonyms": "idealistic, impractical",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাস্তববাদী, প্রাঞ্জল",
+                    "word_transliteration": "bastobobadi, pranjol",
+                    "example_sentence_translation": "সে সমস্যা সমাধানে একটি বাস্তববাদী পদ্ধতি নিয়েছিল, বাস্তবসম্মত সমাধানগুলির প্রতি মনোযোগ কেন্দ্রীভূত করেছিল।",
+                    "example_sentence_transliteration": "She shomoshya shomadhane ekti bastobobadi poddhhoti niyechilo, bastobshommmoto shomadhanguilor proti monojog kendribhuto korechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "impactful",
+            "phonetic": "/ˈɪmpæktfʊl/",
+            "word_native_transliteration": {
+                "bn": "ইমপ্যাক্টফুল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💥",
+            "meaning": "Having a major impact or effect; powerful and forceful.",
+            "example_sentence": "Her impactful speech moved the audience to take action.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার ইমপ্যাক্টফুল স্পিচ মুভড দ্য অডিয়েন্স টু টেক অ্যাকশন।"
+            },
+            "position": 15,
+            "synonyms": "influential, powerful",
+            "antonyms": "ineffective, weak",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রভাবশালী, গুরুত্বপূর্ণ",
+                    "word_transliteration": "probhabshali, guruttopurno",
+                    "example_sentence_translation": "তার প্রভাবশালী বক্তৃতা শ্রোতাদের পদক্ষেপ নিতে প্ররোচিত করেছিল।",
+                    "example_sentence_transliteration": "Tar probhabshali boktrita shrotader podokkhep nite prorochito korechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "decisions",
+            "phonetic": "/dɪˈsɪʒənz/",
+            "word_native_transliteration": {
+                "bn": "ডিসিশনস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤔",
+            "meaning": "A conclusion or resolution reached after consideration; the action or process of deciding something.",
+            "example_sentence": "Making the right decisions in time was key to the project's success.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেকিং দ্য রাইট ডিসিশনস ইন টাইম ওয়াজ কি টু দ্য প্রজেক্টস সাকসেস।"
+            },
+            "position": 16,
+            "synonyms": "choices, judgments",
+            "antonyms": "indecisions, uncertainty",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সিদ্ধান্ত",
+                    "word_transliteration": "siddhanto",
+                    "example_sentence_translation": "সময়ে সঠিক সিদ্ধান্ত গ্রহণ প্রকল্পের সাফল্যের চাবিকাঠি ছিল।",
+                    "example_sentence_transliteration": "Shomye shothik siddhanto grohon prokolper shafolyer chabikathi chilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pioneering",
+            "phonetic": "/ˌpaɪəˈnɪərɪŋ/",
+            "word_native_transliteration": {
+                "bn": "পায়নিয়ারিং"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🚀",
+            "meaning": "Involving new ideas or methods; innovative and groundbreaking.",
+            "example_sentence": "His pioneering research in AI earned him numerous accolades.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ পায়নিয়ারিং রিসার্চ ইন এআই আর্নড হিম নিউমেরাস অ্যাকোলেডস।"
+            },
+            "position": 17,
+            "synonyms": "trailblazing, groundbreaking",
+            "antonyms": "imitative, unoriginal",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পথপ্রদর্শক, নতুন পথ তৈরি করা",
+                    "word_transliteration": "pothprodorshok, notun poth toiri kora",
+                    "example_sentence_translation": "এআই-তে তার পথপ্রদর্শক গবেষণা তাকে বহু পুরস্কারে ভূষিত করেছে।",
+                    "example_sentence_transliteration": "AI-te tar pothprodorshok gobeshona take bohu puroskare bhushito koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "catalyst",
+            "phonetic": "/ˈkætəlɪst/",
+            "word_native_transliteration": {
+                "bn": "ক্যাটালিস্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "A person or thing that precipitates an event or change; an agent that provokes or speeds significant change or action.",
+            "example_sentence": "The new policy acted as a catalyst for positive change in the company.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিউ পলিসি অ্যাক্টেড অ্যাজ এ ক্যাটালিস্ট ফর পজিটিভ চেঞ্জ ইন দ্য কোম্পানি।"
+            },
+            "position": 18,
+            "synonyms": "stimulus, trigger",
+            "antonyms": "obstacle, hindrance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্দীপক, প্রেরণা",
+                    "word_transliteration": "uddipok, prerona",
+                    "example_sentence_translation": "নতুন নীতি কোম্পানিতে ইতিবাচক পরিবর্তনের জন্য উদ্দীপক হিসেবে কাজ করেছে।",
+                    "example_sentence_transliteration": "Notun niti companite itibachok poribortoner jonno uddipok hisebe kaj koreche.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

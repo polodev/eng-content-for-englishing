@@ -1,0 +1,580 @@
+{
+    "position": 217,
+    "title_translation": {
+        "en": "The Role of Soil in Farming",
+        "bn": "কৃষিতে মাটির ভূমিকা"
+    },
+    "content_translation": {
+        "en": "**Soil** is one of the main components of agriculture, on which the **fertility** of crops depends. A good **loam** soil has the ability to retain **nutrients** and can absorb water through the **infiltration** process.\n\nNatural **erosion** and **degradation** can damage soil quality. However, through **composting** and **bioremediation** methods, it is possible to restore soil **arability**.\n\n**Microbial** activity in soil helps in crop growth. **Pedology** experts say that soil becomes more fertile if it has higher **cation-exchange** capacity. In some areas, **salinization** and **calcification** damage soil quality. Therefore, **hydroponics** can be an alternative, where nutrient-rich water is used instead of soil.\n\nEvery year **alluvium** accumulates increasing soil **aggradation** and through the **humification** process, organic matter enriches the soil in **subterranean** layers. Therefore, ensuring proper **soil management** in agriculture is extremely important.",
+        "bn": "**Soil** কৃষির অন্যতম প্রধান উপাদান, যার উপর ফসলের **fertility** নির্ভর করে। একটি ভালো **loam** মাটি **nutrient** ধরে রাখার ক্ষমতা রাখে এবং **infiltration** প্রক্রিয়ায় পানি শোষণ করতে পারে।\n\nপ্রাকৃতিক **erosion** এবং **degradation** মাটির গুণমান নষ্ট করতে পারে। তবে, **composting** এবং **bioremediation** পদ্ধতির মাধ্যমে মাটির **arability** ফিরিয়ে আনা সম্ভব।\n\nমাটির মধ্যে **microbial** কার্যকলাপ ফসল বৃদ্ধিতে সাহায্য করে। **Pedology** বিশেষজ্ঞরা বলেন, **cation-exchange** ক্ষমতা বেশি থাকলে মাটি আরও উর্বর হয়। কিছু অঞ্চলে **salinization** এবং **calcification** মাটির গুণমান নষ্ট করে। তাই, **hydroponics** একটি বিকল্প হতে পারে, যেখানে মাটির পরিবর্তে পুষ্টিগুণযুক্ত জল ব্যবহার করা হয়।\n\nপ্রতি বছর **alluvium** জমে মাটির **aggradation** বাড়ায় এবং **humification** প্রক্রিয়ার মাধ্যমে **subterranean** স্তরে জৈব পদার্থ মাটিকে সমৃদ্ধ করে। তাই, কৃষিতে সঠিক **soil management** নিশ্চিত করা অত্যন্ত গুরুত্বপূর্ণ।"
+    },
+    "list": [
+        {
+            "word": "soil",
+            "phonetic": "/sɔɪl/",
+            "word_native_transliteration": {
+                "bn": "সয়েল"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌱",
+            "meaning": "The upper layer of earth's surface where plants grow.",
+            "example_sentence": "Farmers depend on soil quality for good crop yields.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফার্মারস ডিপেন্ড অন সয়েল কোয়ালিটি ফর গুড ক্রপ ইয়েল্ডস।"
+            },
+            "position": 1,
+            "synonyms": "earth, ground, dirt",
+            "antonyms": "rock, barren land, concrete",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মাটি",
+                    "word_transliteration": "mati",
+                    "example_sentence_translation": "কৃষকরা ভালো ফসলের জন্য মাটির গুণগত মানের উপর নির্ভর করেন।",
+                    "example_sentence_transliteration": "Krishokra bhalo fosholer jonno matir gunogoto maner upor nirbhor koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fertility",
+            "phonetic": "/fɜːˈtɪl.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "ফার্টিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌾",
+            "meaning": "The ability of soil to produce crops or vegetation.",
+            "example_sentence": "Proper crop rotation maintains soil fertility.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রপার ক্রপ রোটেশন মেইনটেইনস সয়েল ফার্টিলিটি।"
+            },
+            "position": 2,
+            "synonyms": "productivity, soil richness, fruitfulness",
+            "antonyms": "infertility, barren, depletion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উর্বরতা",
+                    "word_transliteration": "urborata",
+                    "example_sentence_translation": "সঠিক ফসল পরিবর্তন মাটির উর্বরতা বজায় রাখে।",
+                    "example_sentence_transliteration": "Sothik foshol poribortion matir urborata bojay rakhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "loam",
+            "phonetic": "/loʊm/",
+            "word_native_transliteration": {
+                "bn": "লোম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏞️",
+            "meaning": "Fertile soil mixture of sand, clay, and organic matter.",
+            "example_sentence": "Loam soil is ideal for agriculture due to its nutrient content.",
+            "example_sentence_native_transliteration": {
+                "bn": "লোম সয়েল ইজ আইডিয়াল ফর এগ্রিকালচার ডিউ টু ইটস নিউট্রিয়েন্ট কনটেন্ট।"
+            },
+            "position": 3,
+            "synonyms": "rich soil, humus, clayey sand",
+            "antonyms": "dry soil, infertile ground, hard clay",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উর্বর দোআঁশ মাটি",
+                    "word_transliteration": "urborodoansh mati",
+                    "example_sentence_translation": "উর্বর দোআঁশ মাটি পুষ্টিগুণের কারণে কৃষির জন্য উপযোগী।",
+                    "example_sentence_transliteration": "Urborodoansh mati pushtigunner karone krishir jonno upoyogi.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "nutrient",
+            "phonetic": "/ˈnuː.tri.ənt/",
+            "word_native_transliteration": {
+                "bn": "নিউট্রিয়েন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧪",
+            "meaning": "A substance that provides nourishment essential for growth and health of plants or animals.",
+            "example_sentence": "Plants absorb nutrients from the soil for growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্ল্যান্টস অ্যাবজর্ব নিউট্রিয়েন্টস ফ্রম দ্য সয়েল ফর গ্রোথ।"
+            },
+            "position": 4,
+            "synonyms": "minerals, vitamins, elements",
+            "antonyms": "deficiency, toxin, waste",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুষ্টি উপাদান",
+                    "word_transliteration": "pushti upadaan",
+                    "example_sentence_translation": "গাছপালা বৃদ্ধির জন্য মাটি থেকে পুষ্টি গ্রহণ করে।",
+                    "example_sentence_transliteration": "Gachpala briddhir jonno mati theke pushti grohon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "infiltration",
+            "phonetic": "/ˌɪn.fɪlˈtreɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ইনফিলট্রেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💧",
+            "meaning": "The process by which water on the ground surface enters the soil.",
+            "example_sentence": "Good soil structure promotes infiltration of rainwater.",
+            "example_sentence_native_transliteration": {
+                "bn": "গুড সয়েল স্ট্রাকচার প্রোমোটস ইনফিলট্রেশন অব রেইনওয়াটার।"
+            },
+            "position": 5,
+            "synonyms": "seepage, percolation, absorption",
+            "antonyms": "runoff, surface water accumulation, waterlogging",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রবাহন",
+                    "word_transliteration": "probahon",
+                    "example_sentence_translation": "ভালো মাটির গঠন বৃষ্টির পানির প্রবাহনকে উৎসাহিত করে।",
+                    "example_sentence_transliteration": "Bhalo matir gothon brishtir panir probahnoke utsahito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "erosion",
+            "phonetic": "/ɪˈroʊ.ʒən/",
+            "word_native_transliteration": {
+                "bn": "ইরোশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌊",
+            "meaning": "The process of eroding or being eroded by wind, water, or other natural agents.",
+            "example_sentence": "Deforestation increases erosion in hilly areas.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিফরেস্টেশন ইনক্রিসেস ইরোশন ইন হিলি এরিয়াস।"
+            },
+            "position": 6,
+            "synonyms": "degradation, wear, displacement",
+            "antonyms": "deposition, stability, preservation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্ষয়",
+                    "word_transliteration": "kshoy",
+                    "example_sentence_translation": "বন উজাড় হলে পার্বত্য এলাকায় মাটির ক্ষয় বৃদ্ধি পায়।",
+                    "example_sentence_transliteration": "Bon ujaar hole parbot-tyo elakay matir kshoy briddhi pay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "degradation",
+            "phonetic": "/ˌdɛɡ.rəˈdeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ডিগ্রেডেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📉",
+            "meaning": "The condition or process of degrading or being degraded.",
+            "example_sentence": "Soil degradation reduces agricultural productivity.",
+            "example_sentence_native_transliteration": {
+                "bn": "সয়েল ডিগ্রেডেশন রিডিউসেস এগ্রিকালচারাল প্রোডাক্টিভিটি।"
+            },
+            "position": 7,
+            "synonyms": "deterioration, decline, decay",
+            "antonyms": "improvement, restoration, enhancement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অবনতি",
+                    "word_transliteration": "obnoti",
+                    "example_sentence_translation": "মাটির অবনতি কৃষির উৎপাদনশীলতা কমিয়ে দেয়।",
+                    "example_sentence_transliteration": "Matir obnoti krishir utpadonsheelota komiye dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "composting",
+            "phonetic": "/ˈkɒm.pɒ.stɪŋ/",
+            "word_native_transliteration": {
+                "bn": "কম্পোস্টিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "♻️",
+            "meaning": "The controlled decomposition of organic matter to produce fertilizer.",
+            "example_sentence": "Composting reduces waste and enhances soil fertility.",
+            "example_sentence_native_transliteration": {
+                "bn": "কম্পোস্টিং রিডিউসেস ওয়েস্ট অ্যান্ড এনহান্সেস সয়েল ফার্টিলিটি।"
+            },
+            "position": 8,
+            "synonyms": "organic recycling, decomposition, fertilization",
+            "antonyms": "waste, landfilling, chemical fertilization",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জৈব সার তৈরি",
+                    "word_transliteration": "joibo shar toiri",
+                    "example_sentence_translation": "জৈব সার তৈরি বর্জ্য কমায় এবং মাটির উর্বরতা বাড়ায়।",
+                    "example_sentence_transliteration": "Joibo shar toiri borjjo komay ebong matir urborata baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "bioremediation",
+            "phonetic": "/ˌbaɪ.oʊ.rɪˌmiː.diˈeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "বায়োরিমিডিয়েশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🦠",
+            "meaning": "The use of living organisms to neutralize or remove environmental contaminants.",
+            "example_sentence": "Bioremediation helps remove toxins from polluted soil.",
+            "example_sentence_native_transliteration": {
+                "bn": "বায়োরিমিডিয়েশন হেল্পস রিমুভ টক্সিনস ফ্রম পলিউটেড সয়েল।"
+            },
+            "position": 9,
+            "synonyms": "environmental cleanup, microbial treatment, ecological restoration",
+            "antonyms": "pollution, contamination, toxin accumulation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জীবপ্রযুক্তি দ্বারা দূষণমুক্তকরণ",
+                    "word_transliteration": "jiboproyukti dwara dushonmuktokron",
+                    "example_sentence_translation": "জীবপ্রযুক্তির মাধ্যমে দূষিত মাটি থেকে বিষাক্ত পদার্থ সরানো হয়।",
+                    "example_sentence_transliteration": "Jiboproyuktir madhome dushito mati theke bishakto podartho shorano hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "arability",
+            "phonetic": "/ˌær.əˈbɪl.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "অ্যারাবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌾",
+            "meaning": "The quality of land being suitable for growing crops.",
+            "example_sentence": "The arability of land depends on soil quality and water availability.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যারাবিলিটি অব ল্যান্ড ডিপেন্ডস অন সয়েল কোয়ালিটি অ্যান্ড ওয়াটার অ্যাভেইলাবিলিটি।"
+            },
+            "position": 10,
+            "synonyms": "cultivability, soil productivity, farmability",
+            "antonyms": "barren land, infertility, unsuitability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কৃষির উপযোগিতা",
+                    "word_transliteration": "krishir upoyogita",
+                    "example_sentence_translation": "কোনো জমির কৃষির উপযোগিতা মাটি ও পানির প্রাপ্যতার উপর নির্ভর করে।",
+                    "example_sentence_transliteration": "Kono jomir krishir upoyogita mati o panir prapyotar upor nirbhor kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "microbial",
+            "phonetic": "/maɪˈkroʊ.bi.əl/",
+            "word_native_transliteration": {
+                "bn": "মাইক্রোবিয়াল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔬",
+            "meaning": "Relating to microorganisms, especially bacteria.",
+            "example_sentence": "Microbial activity in soil helps in nutrient cycling.",
+            "example_sentence_native_transliteration": {
+                "bn": "মাইক্রোবিয়াল অ্যাক্টিভিটি ইন সয়েল হেল্পস ইন নিউট্রিয়েন্ট সাইক্লিং।"
+            },
+            "position": 11,
+            "synonyms": "bacterial, microscopic, microorganismic",
+            "antonyms": "non-microbial, sterile, macro-organismic",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জীবাণু সংক্রান্ত",
+                    "word_transliteration": "jibanu shongkranto",
+                    "example_sentence_translation": "মাটির জীবাণু কার্যক্রম পুষ্টির চক্রে সহায়তা করে।",
+                    "example_sentence_transliteration": "Matir jibanu karyokrom pushtir chokre sahayota kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pedology",
+            "phonetic": "/pɪˈdɒl.ə.dʒi/",
+            "word_native_transliteration": {
+                "bn": "পেডোলজি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧑‍🔬",
+            "meaning": "The study of soils in their natural environment.",
+            "example_sentence": "Pedology helps scientists understand soil fertility.",
+            "example_sentence_native_transliteration": {
+                "bn": "পেডোলজি হেল্পস সাইন্টিস্টস আন্ডারস্ট্যান্ড সয়েল ফার্টিলিটি।"
+            },
+            "position": 12,
+            "synonyms": "soil science, earth science, geology",
+            "antonyms": "non-scientific study, general agriculture",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মৃত্তিকা বিজ্ঞান",
+                    "word_transliteration": "mrittika biggan",
+                    "example_sentence_translation": "মৃত্তিকা বিজ্ঞান বিজ্ঞানীদের মাটির উর্বরতা বুঝতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Mrittika biggan bigganiyder matir urborata bujhte sahayyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cation-exchange",
+            "phonetic": "/ˈkæt.aɪ.ɒn ɪksˌtʃeɪndʒ/",
+            "word_native_transliteration": {
+                "bn": "ক্যাটায়ন এক্সচেঞ্জ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚗️",
+            "meaning": "A chemical process in soil that helps retain nutrients.",
+            "example_sentence": "The cation-exchange capacity of soil affects plant growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ক্যাটায়ন এক্সচেঞ্জ ক্যাপাসিটি অব সয়েল অ্যাফেক্টস প্ল্যান্ট গ্রোথ।"
+            },
+            "position": 13,
+            "synonyms": "ion-exchange, soil chemistry, nutrient retention",
+            "antonyms": "nutrient loss, soil depletion, unstable soil",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ধনাত্মক আয়ন বিনিময়",
+                    "word_transliteration": "dhonatmok ayon binimoy",
+                    "example_sentence_translation": "মাটির ধনাত্মক আয়ন বিনিময় ক্ষমতা উদ্ভিদের বৃদ্ধিকে প্রভাবিত করে।",
+                    "example_sentence_transliteration": "Matir dhonatmok ayon binimoy khomota udbhider briddhike probhabito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "salinization",
+            "phonetic": "/ˌsæl.ɪ.naɪˈzeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "স্যালিনাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧂",
+            "meaning": "The process of increasing salt content in soil.",
+            "example_sentence": "Excessive irrigation can cause salinization of farmland.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সেসিভ ইরিগেশন ক্যান কজ স্যালিনাইজেশন অব ফার্মল্যান্ড।"
+            },
+            "position": 14,
+            "synonyms": "soil salinity, salt accumulation, degradation",
+            "antonyms": "desalination, freshwater infusion, soil restoration",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "লবণাক্ততা বৃদ্ধি",
+                    "word_transliteration": "lobonakkota briddhi",
+                    "example_sentence_translation": "অতিরিক্ত সেচের ফলে কৃষি জমিতে লবণাক্ততা বৃদ্ধি পেতে পারে।",
+                    "example_sentence_transliteration": "Otirikto shecher fole krishi jomite lobonakkota briddhi pete pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "calcification",
+            "phonetic": "/ˌkæl.sɪ.fɪˈkeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ক্যালসিফিকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🪨",
+            "meaning": "The process of calcium accumulation in soil, making it hard.",
+            "example_sentence": "Calcification reduces soil permeability and affects crop growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "ক্যালসিফিকেশন রিডিউসেস সয়েল পারমিয়াবিলিটি অ্যান্ড অ্যাফেক্টস ক্রপ গ্রোথ।"
+            },
+            "position": 15,
+            "synonyms": "hardening, mineral deposition, soil alkalinity",
+            "antonyms": "acidification, soil softening, nutrient balance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চুনযুক্ত হওয়া",
+                    "word_transliteration": "chunyukto howa",
+                    "example_sentence_translation": "চুনযুক্ত হওয়া মাটির অভ্যন্তরে পানি প্রবেশ কমিয়ে ফসলের বৃদ্ধি প্রভাবিত করে।",
+                    "example_sentence_transliteration": "Chunyukto howa matir obhyontore pani probesh komiye fosholer briddhi probhabito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "hydroponics",
+            "phonetic": "/ˌhaɪ.droʊˈpɒn.ɪks/",
+            "word_native_transliteration": {
+                "bn": "হাইড্রোপনিক্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💧",
+            "meaning": "A method of growing plants without soil using nutrient-rich water.",
+            "example_sentence": "Hydroponics allows crops to grow without soil.",
+            "example_sentence_native_transliteration": {
+                "bn": "হাইড্রোপনিক্স অ্যালাউজ ক্রপস টু গ্রো উইদাউট সয়েল।"
+            },
+            "position": 16,
+            "synonyms": "soilless farming, aquaponics, controlled agriculture",
+            "antonyms": "traditional farming, soil-based cultivation, land-dependent agriculture",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জলচাষ",
+                    "word_transliteration": "jolchash",
+                    "example_sentence_translation": "জলচাষ পদ্ধতিতে মাটির প্রয়োজন ছাড়াই ফসল চাষ করা যায়।",
+                    "example_sentence_transliteration": "Jolchash poddhhotite matir proyojon charrai foshol chash kora jay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "alluvium",
+            "phonetic": "/əˈluː.vi.əm/",
+            "word_native_transliteration": {
+                "bn": "অ্যালুভিয়াম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏞️",
+            "meaning": "Fertile soil deposited by flowing water, especially in riverbanks.",
+            "example_sentence": "The alluvium in riverbanks is highly fertile for agriculture.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যালুভিয়াম ইন রিভারব্যাঙ্কস ইজ হাইলি ফার্টাইল ফর এগ্রিকালচার।"
+            },
+            "position": 17,
+            "synonyms": "sediment, silt, deposited soil",
+            "antonyms": "bedrock, erosion, sterile land",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পলি মাটি",
+                    "word_transliteration": "poli mati",
+                    "example_sentence_translation": "নদীর তীরে থাকা পলি মাটি কৃষির জন্য অত্যন্ত উর্বর।",
+                    "example_sentence_transliteration": "Nodir tire thaka poli mati krishir jonno ottyonto urboro.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "aggradation",
+            "phonetic": "/ˌæɡ.rəˈdeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "অ্যাগ্রেডেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⬆️",
+            "meaning": "The process of land being built up by sediment deposition.",
+            "example_sentence": "Aggradation helps in the natural expansion of riverbanks.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাগ্রেডেশন হেল্পস ইন দ্য ন্যাচারাল এক্সপানশন অব রিভারব্যাঙ্কস।"
+            },
+            "position": 18,
+            "synonyms": "sediment deposition, land formation, accretion",
+            "antonyms": "erosion, land subsidence, depletion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পলি দ্বারা ভূমি উঁচু হওয়া",
+                    "word_transliteration": "poli dwara bhumi unchu howa",
+                    "example_sentence_translation": "পলির দ্বারা ভূমি উঁচু হওয়া নদী তীরের প্রাকৃতিক সম্প্রসারণে সহায়তা করে।",
+                    "example_sentence_transliteration": "Polir dwara bhumi unchu howa nodi tirer prakritik shomprosharone sahayota kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "humification",
+            "phonetic": "/ˌhjuː.mɪ.fɪˈkeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "হিউমিফিকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🍃",
+            "meaning": "The process of organic matter decomposition to form humus in soil.",
+            "example_sentence": "Humification enhances soil structure and fertility.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিউমিফিকেশন এনহান্সেস সয়েল স্ট্রাকচার অ্যান্ড ফার্টিলিটি।"
+            },
+            "position": 19,
+            "synonyms": "organic decomposition, soil enrichment, humus formation",
+            "antonyms": "decomposition prevention, organic depletion, soil sterility",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জৈব পদার্থের পচন",
+                    "word_transliteration": "joibo podarthor pochon",
+                    "example_sentence_translation": "জৈব পদার্থের পচন মাটির গঠন ও উর্বরতা বৃদ্ধি করে।",
+                    "example_sentence_transliteration": "Joibo podarthor pochon matir gothon o urborata briddhi kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "subterranean",
+            "phonetic": "/ˌsʌb.təˈreɪ.ni.ən/",
+            "word_native_transliteration": {
+                "bn": "সাবটেরেনিয়ান"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌍",
+            "meaning": "Existing, occurring, or done under the earth's surface.",
+            "example_sentence": "Subterranean water sources help sustain agriculture.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাবটেরেনিয়ান ওয়াটার সোর্সেস হেল্প সাসটেইন এগ্রিকালচার।"
+            },
+            "position": 20,
+            "synonyms": "underground, buried, concealed",
+            "antonyms": "surface-level, exposed, above-ground",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভূগর্ভস্থ",
+                    "word_transliteration": "bhugorvostho",
+                    "example_sentence_translation": "ভূগর্ভস্থ পানির উৎস কৃষি টিকিয়ে রাখতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Bhugorvostho panir uts krishi tikiye rakhte sahayyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "soil management",
+            "phonetic": "/sɔɪl ˈmæn.ɪdʒ.mənt/",
+            "word_native_transliteration": {
+                "bn": "সয়েল ম্যানেজমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌱",
+            "meaning": "The application of operations, practices, and treatments to protect soil and enhance its performance.",
+            "example_sentence": "Proper soil management improves long-term agricultural productivity.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রপার সয়েল ম্যানেজমেন্ট ইমপ্রুভস লং-টার্ম এগ্রিকালচারাল প্রোডাক্টিভিটি।"
+            },
+            "position": 21,
+            "synonyms": "land stewardship, soil conservation, agricultural maintenance",
+            "antonyms": "soil degradation, mismanagement, erosion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মাটির সুষ্ঠু ব্যবস্থাপনা",
+                    "word_transliteration": "matir sushthu byabosthapona",
+                    "example_sentence_translation": "সঠিক মাটির ব্যবস্থাপনা দীর্ঘমেয়াদে কৃষির উৎপাদনশীলতা বৃদ্ধি করে।",
+                    "example_sentence_transliteration": "Sothik matir byabosthapona dirgho-meyade krishir utpadonsheelota briddhi kore.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,499 @@
+{
+    "position": 216,
+    "title_translation": {
+        "en": "The Role of Routine in Discipline",
+        "bn": "শৃঙ্খলায় রুটিনের ভূমিকা"
+    },
+    "content_translation": {
+        "en": "The success of a person depends on the unlimited role of **routine**. No goal can be achieved without daily **diligence** and **conscientiousness**. Many people think that **ephemeral** planning is enough, but in reality, nothing can be achieved without **perseverance** and **tenacity**.\n\nProper **routine** creates **fortitude** in a person, which helps to **augment** their mental strength. Regular practice increases **efficacy**, which creates **pragmatism** and **coherence**. However, it is not easy. Often **obstinacy** hinders people's progress, and they do not show **acquiescence** to accept change.\n\nBut if there is an **unwavering** goal and work is done with **scrupulous** attitude, discipline can bring **metamorphosis** in life. If **fastidious** planning is done through **reinforcement**, success is inevitable.",
+        "bn": "একজন মানুষের সফলতার পেছনে **routine** এর ভূমিকা অপরিসীম। প্রতিদিনের **diligence** এবং **conscientiousness** ছাড়া কোনো লক্ষ্য অর্জন করা সম্ভব নয়। অনেকেই মনে করেন, **ephemeral** পরিকল্পনা করলেই যথেষ্ট, কিন্তু বাস্তবে **perseverance** এবং **tenacity** ছাড়া কিছুই অর্জন সম্ভব নয়।\n\nসঠিক **routine** একজন ব্যক্তির মধ্যে **fortitude** তৈরি করে, যা তার মানসিক দৃঢ়তাকে **augment** করতে সাহায্য করে। নিয়মিত অনুশীলন **efficacy** বাড়ায়, যা **pragmatism** এবং **coherence** তৈরি করে। তবে, এটি সহজ নয়। অনেক সময় **obstinacy** মানুষের অগ্রগতিকে বাধাগ্রস্ত করে, এবং তারা পরিবর্তন মেনে নিতে **acquiescence** দেখায় না।\n\nকিন্তু **unwavering** লক্ষ্য থাকলে এবং **scrupulous** মনোভাব নিয়ে কাজ করলে, শৃঙ্খলা জীবনে **metamorphosis** আনতে পারে। **fastidious** পরিকল্পনার মাধ্যমে **reinforcement** করা হলে, সাফল্য অবধারিত।"
+    },
+    "list": [
+        {
+            "word": "routine",
+            "phonetic": "/ruːˈtiːn/",
+            "word_native_transliteration": {
+                "bn": "রুটিন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📅",
+            "meaning": "A sequence of actions regularly followed; a fixed program.",
+            "example_sentence": "A well-structured routine improves productivity.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ ওয়েল-স্ট্রাকচার্ড রুটিন ইমপ্রুভস প্রোডাক্টিভিটি।"
+            },
+            "position": 1,
+            "synonyms": "schedule, regimen, pattern",
+            "antonyms": "irregularity, disorganization, disorder",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দৈনন্দিন কর্মসূচি, অভ্যাস, নির্ধারিত ক্রম",
+                    "word_transliteration": "doinondin kormsuchi, ovash, nirdarito krom",
+                    "example_sentence_translation": "একটি সুশৃঙ্খল রুটিন উৎপাদনশীলতা বাড়ায়।",
+                    "example_sentence_transliteration": "Ekti sushrinkhol rutin utpadonsheelota baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "diligence",
+            "phonetic": "/ˈdɪl.ɪ.dʒəns/",
+            "word_native_transliteration": {
+                "bn": "ডিলিজেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "Careful and persistent work or effort.",
+            "example_sentence": "Success requires diligence and persistence.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাকসেস রিকোয়ারস ডিলিজেন্স অ্যান্ড পারসিস্টেন্স।"
+            },
+            "position": 2,
+            "synonyms": "hard work, industriousness, dedication",
+            "antonyms": "negligence, carelessness, laziness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অধ্যবসায়, যত্নশীলতা, নিরলস প্রচেষ্টা",
+                    "word_transliteration": "odhboshay, jotnosheelota, nirolosh procheshta",
+                    "example_sentence_translation": "সফলতার জন্য অধ্যবসায় ও দৃঢ়তা প্রয়োজন।",
+                    "example_sentence_transliteration": "Sofoltay jonno odhboshay o dridhota proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "conscientiousness",
+            "phonetic": "/ˌkɒn.ʃiˈen.ʃəs.nəs/",
+            "word_native_transliteration": {
+                "bn": "কনশিয়েনশিয়াসনেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "The quality of wishing to do what is right, especially to do one's work or duty well and thoroughly.",
+            "example_sentence": "Her conscientiousness makes her a great leader.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার কনশিয়েনশিয়াসনেস মেকস হার এ গ্রেট লিডার।"
+            },
+            "position": 3,
+            "synonyms": "integrity, responsibility, attentiveness",
+            "antonyms": "irresponsibility, carelessness, neglect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সততা, দায়িত্বশীলতা, কর্মনিষ্ঠা",
+                    "word_transliteration": "shottota, dayittosheelota, kormonishtha",
+                    "example_sentence_translation": "তার কর্মনিষ্ঠা তাকে একজন অসাধারণ নেতা করে তুলেছে।",
+                    "example_sentence_transliteration": "Tar kormonishtha take ekjon oshadharon neta kore tuleche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ephemeral",
+            "phonetic": "/ɪˈfem.ər.əl/",
+            "word_native_transliteration": {
+                "bn": "ইফেমারাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌸",
+            "meaning": "Lasting for a very short time.",
+            "example_sentence": "The beauty of a sunset is ephemeral.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য বিউটি অফ এ সানসেট ইজ ইফেমারাল।"
+            },
+            "position": 4,
+            "synonyms": "temporary, fleeting, transient",
+            "antonyms": "permanent, enduring, everlasting",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বল্পস্থায়ী, ক্ষণস্থায়ী, সাময়িক",
+                    "word_transliteration": "sholposthayi, khonsthayi, shamoyik",
+                    "example_sentence_translation": "সূর্যাস্তের সৌন্দর্য ক্ষণস্থায়ী।",
+                    "example_sentence_transliteration": "Surjaster shoundorjo khonsthayi.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "perseverance",
+            "phonetic": "/ˌpɜː.sɪˈvɪə.rəns/",
+            "word_native_transliteration": {
+                "bn": "পারসিভিয়ারেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "Persistence in doing something despite difficulty or delay in achieving success.",
+            "example_sentence": "His perseverance helped him overcome failures.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ পারসিভিয়ারেন্স হেল্পড হিম ওভারকাম ফেইলিয়ারস।"
+            },
+            "position": 5,
+            "synonyms": "determination, persistence, dedication",
+            "antonyms": "hesitation, weakness, indecision",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দৃঢ়সংকল্প, অধ্যবসায়, সংকল্পবদ্ধ প্রচেষ্টা",
+                    "word_transliteration": "dridhoshonkolpo, odhboshay, shonkolpobodho procheshta",
+                    "example_sentence_translation": "তার অধ্যবসায় তাকে ব্যর্থতা অতিক্রম করতে সহায়তা করেছে।",
+                    "example_sentence_transliteration": "Tar odhboshay take borthota otikrom korte shahayeta koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "tenacity",
+            "phonetic": "/təˈnæs.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "টেনাসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔥",
+            "meaning": "The quality or fact of being able to grip something firmly; persistence.",
+            "example_sentence": "Her tenacity in achieving her goals is inspiring.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার টেনাসিটি ইন অ্যাচিভিং হার গোলস ইজ ইনস্পায়ারিং।"
+            },
+            "position": 6,
+            "synonyms": "persistence, resolve, firmness",
+            "antonyms": "weakness, indifference, fragility",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্থিতিশীলতা, অনড়তা, সংকল্পবদ্ধতা",
+                    "word_transliteration": "sthitisheelota, onorhota, shonkolpoboddhota",
+                    "example_sentence_translation": "তার লক্ষ্যে পৌঁছানোর দৃঢ় সংকল্প অনুপ্রেরণাদায়ক।",
+                    "example_sentence_transliteration": "Tar lokkhe pouchanor dridho shonkolpo onupreronandayok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fortitude",
+            "phonetic": "/ˈfɔː.tɪ.tjuːd/",
+            "word_native_transliteration": {
+                "bn": "ফর্টিটিউড"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛡️",
+            "meaning": "Courage in pain or adversity.",
+            "example_sentence": "He showed great fortitude during difficult times.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি শোড গ্রেট ফর্টিটিউড ডিউরিং ডিফিকাল্ট টাইমস।"
+            },
+            "position": 7,
+            "synonyms": "strength, bravery, endurance",
+            "antonyms": "cowardice, weakness, fear",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মানসিক দৃঢ়তা, সাহস, সহ্যশক্তি",
+                    "word_transliteration": "manoshik dridhota, shahosh, shohjoshokti",
+                    "example_sentence_translation": "সে কঠিন সময়ে অসাধারণ মানসিক দৃঢ়তা দেখিয়েছে।",
+                    "example_sentence_transliteration": "She kothin shomoye oshadharon manoshik dridhota dekhiyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "augment",
+            "phonetic": "/ɔːɡˈment/",
+            "word_native_transliteration": {
+                "bn": "অগমেন্ট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📈",
+            "meaning": "Make (something) greater by adding to it; increase.",
+            "example_sentence": "The new policy will augment the company's profits.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিউ পলিসি উইল অগমেন্ট দ্য কোম্পানিজ প্রফিটস।"
+            },
+            "position": 8,
+            "synonyms": "enhance, expand, intensify",
+            "antonyms": "reduce, diminish, weaken",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৃদ্ধি করা, প্রসারিত করা, শক্তিশালী করা",
+                    "word_transliteration": "briddhi kora, prosarito kora, shoktishali kora",
+                    "example_sentence_translation": "নতুন নীতিটি কোম্পানির মুনাফা বৃদ্ধি করবে।",
+                    "example_sentence_transliteration": "Notun neetiti kompanir munafa briddhi korbe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "efficacy",
+            "phonetic": "/ˈef.ɪ.kə.si/",
+            "word_native_transliteration": {
+                "bn": "এফিকেসি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✅",
+            "meaning": "The ability to produce a desired or intended result.",
+            "example_sentence": "The efficacy of the vaccine has been proven.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এফিকেসি অফ দ্য ভ্যাকসিন হ্যাজ বিন প্রুভেন।"
+            },
+            "position": 9,
+            "synonyms": "effectiveness, efficiency, productivity",
+            "antonyms": "inefficiency, failure, ineffectiveness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কার্যকারিতা, সফলতা, কার্যক্ষমতা",
+                    "word_transliteration": "karjokarita, sofolta, karjokhomota",
+                    "example_sentence_translation": "টিকার কার্যকারিতা প্রমাণিত হয়েছে।",
+                    "example_sentence_transliteration": "Tikar karjokarita promanito hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pragmatism",
+            "phonetic": "/ˈpræɡ.mə.tɪ.zəm/",
+            "word_native_transliteration": {
+                "bn": "প্র্যাগমাটিজম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "A pragmatic attitude or policy.",
+            "example_sentence": "Pragmatism is essential in problem-solving.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্র্যাগমাটিজম ইজ এসেনশিয়াল ইন প্রবলেম-সলভিং।"
+            },
+            "position": 10,
+            "synonyms": "practicality, realism, logic",
+            "antonyms": "idealism, impracticality, fantasy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাস্তববাদী চিন্তাধারা, কার্যকর পন্থা, বাস্তবিক দৃষ্টিভঙ্গি",
+                    "word_transliteration": "bastobadi chintadhara, karjokor pontha, bastobik drishtibhongi",
+                    "example_sentence_translation": "সমস্যা সমাধানে বাস্তববাদী দৃষ্টিভঙ্গি অপরিহার্য।",
+                    "example_sentence_transliteration": "Shomossha shomadhane bastobadi drishtibhongi oporiharto.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "coherence",
+            "phonetic": "/kəʊˈhɪə.rəns/",
+            "word_native_transliteration": {
+                "bn": "কোহিরেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔗",
+            "meaning": "The quality of being logical and consistent.",
+            "example_sentence": "His argument lacked coherence and was difficult to understand.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ আর্গুমেন্ট ল্যাকড কোহিরেন্স অ্যান্ড ওয়াজ ডিফিকাল্ট টু আন্ডারস্ট্যান্ড।"
+            },
+            "position": 11,
+            "synonyms": "consistency, logicality, unity",
+            "antonyms": "incoherence, disarray, confusion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংহতি, সামঞ্জস্য, যুক্তিসঙ্গত সংযোগ",
+                    "word_transliteration": "shonghoti, shamanjosho, juktishongoto shongjog",
+                    "example_sentence_translation": "তার যুক্তিতে সংহতি ছিল না, ফলে বোঝা কঠিন ছিল।",
+                    "example_sentence_transliteration": "Tar juktite shonghoti chilo na, fole bojha kothin chilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "obstinacy",
+            "phonetic": "/ˈɒb.stɪ.nə.si/",
+            "word_native_transliteration": {
+                "bn": "অবস্টিনাসি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚧",
+            "meaning": "Stubbornness; the refusal to change one's opinion or chosen course of action.",
+            "example_sentence": "His obstinacy made it difficult to negotiate with him.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ অবস্টিনাসি মেড ইট ডিফিকাল্ট টু নেগোসিয়েট উইথ হিম।"
+            },
+            "position": 12,
+            "synonyms": "stubbornness, inflexibility, rigidity",
+            "antonyms": "compliance, flexibility, adaptability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একগুঁয়েমি, জেদ, অনমনীয়তা",
+                    "word_transliteration": "ekguyemi, jed, onmoneeota",
+                    "example_sentence_translation": "তার একগুঁয়েমি তাকে নিয়ে আলোচনাকে কঠিন করে তুলেছিল।",
+                    "example_sentence_transliteration": "Tar ekguyemi take niye alochonake kothin kore tulechi lo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "acquiescence",
+            "phonetic": "/ˌæk.wiˈes.əns/",
+            "word_native_transliteration": {
+                "bn": "অ্যাকুইএসেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "The reluctant acceptance of something without protest.",
+            "example_sentence": "His silent acquiescence to unfair rules was surprising.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ সাইলেন্ট অ্যাকুইএসেন্স টু আনফেয়ার রুলস ওয়াজ সারপ্রাইজিং।"
+            },
+            "position": 13,
+            "synonyms": "acceptance, submission, compliance",
+            "antonyms": "resistance, defiance, opposition",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নীরব সম্মতি, অনিচ্ছাকৃত মেনে নেওয়া, বাধ্যতা",
+                    "word_transliteration": "neerob shommoti, onichchhakrito mene neoya, badhota",
+                    "example_sentence_translation": "অন্যায় নিয়মের প্রতি তার নীরব সম্মতি অবাক করেছিল।",
+                    "example_sentence_transliteration": "Onnjay niyomer proti tar neerob shommoti obak korechi lo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "unwavering",
+            "phonetic": "/ʌnˈweɪ.vər.ɪŋ/",
+            "word_native_transliteration": {
+                "bn": "আনওয়েভারিং"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🗿",
+            "meaning": "Steady or resolute; not wavering.",
+            "example_sentence": "Her unwavering determination led to success.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার আনওয়েভারিং ডিটারমিনেশন লেড টু সাকসেস।"
+            },
+            "position": 14,
+            "synonyms": "steadfast, resolute, unshakable",
+            "antonyms": "hesitant, unsteady, insecure",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দৃঢ়, অবিচল, অনমনীয়",
+                    "word_transliteration": "dridho, obichol, onmoneeyo",
+                    "example_sentence_translation": "তার অবিচল সংকল্প তাকে সফলতার পথে নিয়ে গেছে।",
+                    "example_sentence_transliteration": "Tar obichol shonkolpo take sofoltay pothe niye geche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "scrupulous",
+            "phonetic": "/ˈskruː.pjə.ləs/",
+            "word_native_transliteration": {
+                "bn": "স্ক্রুপুলাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔍",
+            "meaning": "(of a person or process) diligent, thorough, and extremely attentive to details.",
+            "example_sentence": "He is scrupulous in his work and never takes shortcuts.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি ইজ স্ক্রুপুলাস ইন হিজ ওয়ার্ক অ্যান্ড নেভার টেকস শর্টকাটস।"
+            },
+            "position": 15,
+            "synonyms": "meticulous, ethical, honest",
+            "antonyms": "dishonest, careless, negligent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সতর্ক, নীতিবান, যথাযথভাবে বিবেচনাশীল",
+                    "word_transliteration": "shotorko, neetiban, jothajothobhabe bibechonasheel",
+                    "example_sentence_translation": "সে তার কাজে সতর্ক এবং কখনো শর্টকাট গ্রহণ করে না।",
+                    "example_sentence_transliteration": "She tar kaje shotorko ebong kokhono shortcut grohon kore na.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "metamorphosis",
+            "phonetic": "/ˌmet.əˈmɔː.fə.sɪs/",
+            "word_native_transliteration": {
+                "bn": "মেটামরফোসিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🦋",
+            "meaning": "A change of the form or nature of a thing or person into a completely different one.",
+            "example_sentence": "The metamorphosis of a caterpillar into a butterfly is fascinating.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য মেটামরফোসিস অফ এ ক্যাটারপিলার ইনটু এ বাটারফ্লাই ইজ ফ্যাসিনেটিং।"
+            },
+            "position": 16,
+            "synonyms": "transformation, evolution, change",
+            "antonyms": "stagnation, constancy, stability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রূপান্তর, পরিবর্তন, বিবর্তন",
+                    "word_transliteration": "rupantor, poriborton, biborton",
+                    "example_sentence_translation": "একটি শুঁয়োপোকার প্রজাপতিতে রূপান্তর মনোমুগ্ধকর।",
+                    "example_sentence_transliteration": "Ekti shuyopokar projapotite rupantor monomugdhkor.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fastidious",
+            "phonetic": "/fæsˈtɪd.i.əs/",
+            "word_native_transliteration": {
+                "bn": "ফাস্টিডিয়াস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎨",
+            "meaning": "Very attentive to and concerned about accuracy and detail.",
+            "example_sentence": "She is fastidious about cleanliness and keeps her home spotless.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি ইজ ফাস্টিডিয়াস অ্যাবাউট ক্লিনলাইনেস অ্যান্ড কিপস হার হোম স্পটলেস।"
+            },
+            "position": 17,
+            "synonyms": "particular, perfectionist, fussy",
+            "antonyms": "careless, indifferent, unconcerned",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "খুঁতখুঁতে, অতিরিক্ত সতর্ক, সূক্ষ্মদর্শী",
+                    "word_transliteration": "khutkhute, otirikto shotorko, shukhmodorshi",
+                    "example_sentence_translation": "তিনি পরিচ্ছন্নতা সম্পর্কে খুঁতখুঁতে এবং তার বাড়ি সবসময় পরিপাটি রাখেন।",
+                    "example_sentence_transliteration": "Tini porichonnnota shomporke khutkhute ebong tar bari shobshomoy poripati rakhen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "reinforcement",
+            "phonetic": "/ˌriː.ɪnˈfɔːs.mənt/",
+            "word_native_transliteration": {
+                "bn": "রিইনফোর্সমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The action or process of reinforcing or strengthening.",
+            "example_sentence": "The teacher used positive reinforcement to encourage learning.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য টিচার ইউজড পজিটিভ রিইনফোর্সমেন্ট টু এনকারেজ লার্নিং।"
+            },
+            "position": 18,
+            "synonyms": "strengthening, augmentation, bolstering",
+            "antonyms": "weakening, reduction, undermining",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শক্তিশালী করা, পুনরাবৃত্তি, সমর্থন বৃদ্ধি",
+                    "word_transliteration": "shoktishali kora, punorabritti, shomorthon briddhi",
+                    "example_sentence_translation": "শিক্ষক শেখানোর জন্য ইতিবাচক পুনরাবৃত্তি ব্যবহার করেছেন।",
+                    "example_sentence_transliteration": "Shikhok shekhanor jonno itibachok punorabritti bebohar korechen.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,445 @@
+{
+    "position": 220,
+    "title_translation": {
+        "en": "The Science of Habit Formation",
+        "bn": "Habit Formation এর বিজ্ঞান"
+    },
+    "content_translation": {
+        "en": "**Habit formation** is a psychological process that gradually becomes **pervasive** in our daily lives through **acclimatization**. When we want to create new habits, we need **reinforcement**. To build proper habits, we need to understand our brain's **predisposition**. Often, habits that seem **intrinsically** beneficial can become **counterproductive** if not properly formed. Some habits form quickly, but they are **ephemeral** and can be **detrimental** in the long run. To create good habits, we need to **inculcate** patience and bring gradual changes through **assimilation**. Our brains have **latent** capabilities that can cause **metamorphosis** with the right **impetus**. Therefore, to build habits, we need not **coercion**, but rather gradually creating a **conducive** environment.",
+        "bn": "**Habit formation** হলো এমন একটি মানসিক প্রক্রিয়া, যা ধীরে ধীরে **acclimatization** এর মাধ্যমে আমাদের দৈনন্দিন জীবনে **pervasive** হয়ে ওঠে। যখন আমরা নতুন কোনো অভ্যাস তৈরি করতে চাই, তখন আমাদের **reinforcement** দরকার হয়। সঠিক অভ্যাস গড়ে তুলতে হলে আমাদের মস্তিষ্কের **predisposition** বুঝতে হবে। অনেক সময়, কোনো অভ্যাস **intrinsically** উপকারী মনে হলেও, এটি যদি সঠিকভাবে গড়ে না ওঠে, তবে **counterproductive** হয়ে যেতে পারে। কিছু অভ্যাস দ্রুত তৈরি হয়, কিন্তু সেগুলো **ephemeral** হয় এবং দীর্ঘমেয়াদে **detrimental** হতে পারে। ভালো অভ্যাস তৈরি করতে হলে আমাদের **inculcate** করতে হবে ধৈর্য এবং **assimilation** এর মাধ্যমে ধাপে ধাপে পরিবর্তন আনতে হবে। আমাদের মস্তিষ্কে **latent** দক্ষতা থাকে, যা সঠিক **impetus** পেলে **metamorphosis** ঘটাতে পারে। তাই, কোনো অভ্যাস গড়ে তুলতে হলে **coercion** নয়, বরং ধাপে ধাপে **conducive** পরিবেশ তৈরি করতে হবে।"
+    },
+    "list": [
+        {
+            "word": "habit formation",
+            "phonetic": "ˈhæb.ɪt fɔːrˌmeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "হ্যাবিট ফর্মেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The process of creating a habit through regular practice and repetition.",
+            "example_sentence": "Habit formation requires consistency and discipline.",
+            "example_sentence_native_transliteration": {
+                "bn": "হ্যাবিট ফর্মেশন রিকোয়ার্স কনসিস্টেন্সি অ্যান্ড ডিসিপ্লিন।"
+            },
+            "position": 1,
+            "synonyms": "routine development, behavior conditioning, adaptation",
+            "antonyms": "habit disruption, inconsistency, irregularity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অভ্যাস গঠন",
+                    "word_transliteration": "obhyash gothon",
+                    "example_sentence_translation": "অভ্যাস গঠনের জন্য ধারাবাহিকতা ও শৃঙ্খলা প্রয়োজন।",
+                    "example_sentence_transliteration": "Obhyash gothoner jonno dharabahikota o shringkhola proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "acclimatization",
+            "phonetic": "əˌklaɪ.mə.tɪˈzeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "অ্যাক্লাইমেটাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌡️",
+            "meaning": "The process of adapting to a new environment or condition.",
+            "example_sentence": "The hikers needed time for acclimatization to high altitudes.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য হাইকারস নিডেড টাইম ফর অ্যাক্লাইমেটাইজেশন টু হাই অ্যালটিটিউডস।"
+            },
+            "position": 2,
+            "synonyms": "adaptation, adjustment, familiarization",
+            "antonyms": "discomfort, maladaptation, unfamiliarity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিবেশের সাথে খাপ খাওয়ানো",
+                    "word_transliteration": "poribesh-er shathe khap khaowano",
+                    "example_sentence_translation": "উচ্চতায় অভিযোজনের জন্য পর্বতারোহীদের সময় প্রয়োজন হয়।",
+                    "example_sentence_transliteration": "Uchchotay ovhijojoner jonno porbotarohider shomoy proyojon hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pervasive",
+            "phonetic": "pərˈveɪ.sɪv",
+            "word_native_transliteration": {
+                "bn": "পারভেসিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌊",
+            "meaning": "Something that spreads everywhere or has extensive influence.",
+            "example_sentence": "Social media has a pervasive influence on modern life.",
+            "example_sentence_native_transliteration": {
+                "bn": "সোশ্যাল মিডিয়া হ্যাজ এ পারভেসিভ ইনফ্লুয়েন্স অন মডার্ন লাইফ।"
+            },
+            "position": 3,
+            "synonyms": "widespread, omnipresent, prevalent",
+            "antonyms": "limited, rare, contained",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সর্বব্যাপী বা বিস্তৃত",
+                    "word_transliteration": "shorbobyyapi ba bishtrito",
+                    "example_sentence_translation": "সোশ্যাল মিডিয়ার আধুনিক জীবনে সর্বব্যাপী প্রভাব রয়েছে।",
+                    "example_sentence_transliteration": "Social mediyar adhunik jibone shorbobyyapi probhab royeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "reinforcement",
+            "phonetic": "ˌriː.ɪnˈfɔːrs.mənt",
+            "word_native_transliteration": {
+                "bn": "রিইনফোর্সমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "Strengthening or encouraging behavior through positive motivation or repetition.",
+            "example_sentence": "Positive reinforcement helps build good habits.",
+            "example_sentence_native_transliteration": {
+                "bn": "পজিটিভ রিইনফোর্সমেন্ট হেল্পস বিল্ড গুড হ্যাবিটস।"
+            },
+            "position": 4,
+            "synonyms": "strengthening, support, encouragement",
+            "antonyms": "weakening, undermining, reduction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শক্তিশালীকরণ বা পুনঃপ্রয়োগ",
+                    "word_transliteration": "shoktiishalikoron ba punoh proyog",
+                    "example_sentence_translation": "ইতিবাচক শক্তিশালীকরণ ভালো অভ্যাস গঠনে সহায়তা করে।",
+                    "example_sentence_transliteration": "Itibachok shoktiishalikoron valo obhyash gothone shahayota kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "predisposition",
+            "phonetic": "ˌpriː.dɪs.pəˈzɪʃ.ən",
+            "word_native_transliteration": {
+                "bn": "প্রিডিস্পোজিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧬",
+            "meaning": "A natural tendency or inclination towards a particular behavior or condition.",
+            "example_sentence": "Genetic factors can influence a person's predisposition to diseases.",
+            "example_sentence_native_transliteration": {
+                "bn": "জেনেটিক ফ্যাক্টরস ক্যান ইনফ্লুয়েন্স এ পারসনস প্রিডিস্পোজিশন টু ডিজিজেস।"
+            },
+            "position": 5,
+            "synonyms": "inclination, tendency, susceptibility",
+            "antonyms": "immunity, resistance, avoidance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রবণতা বা পূর্বপ্রভাব",
+                    "word_transliteration": "probonota ba purboprobhab",
+                    "example_sentence_translation": "জেনেটিক কারণ একজন ব্যক্তির রোগের প্রবণতাকে প্রভাবিত করতে পারে।",
+                    "example_sentence_transliteration": "Genetic karon ekjon byktir roger probonotake probhabito korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "intrinsically",
+            "phonetic": "ɪnˈtrɪn.zɪ.kli",
+            "word_native_transliteration": {
+                "bn": "ইনট্রিনসিক্যালি"
+            },
+            "parts_of_speech": "adverb",
+            "emoji": "🌱",
+            "meaning": "In a way that is naturally or inherently part of something's essential nature.",
+            "example_sentence": "Some people are intrinsically motivated to learn.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাম পিপল আর ইনট্রিনসিক্যালি মোটিভেটেড টু লার্ন।"
+            },
+            "position": 6,
+            "synonyms": "inherently, essentially, naturally",
+            "antonyms": "superficially, externally, artificially",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অভ্যন্তরীণভাবে বা প্রকৃতিগতভাবে",
+                    "word_transliteration": "ovhyontorinobhabe ba prokritigatobhabe",
+                    "example_sentence_translation": "কিছু মানুষ প্রকৃতিগতভাবে শেখার প্রতি আগ্রহী।",
+                    "example_sentence_transliteration": "Kichu manush prokritigatobhabe shekhar proti agrahi.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "counterproductive",
+            "phonetic": "ˌkaʊn.tə.prəˈdʌk.tɪv",
+            "word_native_transliteration": {
+                "bn": "কাউন্টারপ্রোডাক্টিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚠️",
+            "meaning": "Having the opposite effect to what is intended, producing harmful or negative results.",
+            "example_sentence": "Too much criticism can be counterproductive in learning.",
+            "example_sentence_native_transliteration": {
+                "bn": "টু মাচ ক্রিটিসিজম ক্যান বি কাউন্টারপ্রোডাক্টিভ ইন লার্নিং।"
+            },
+            "position": 7,
+            "synonyms": "ineffective, self-defeating, harmful",
+            "antonyms": "effective, beneficial, constructive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিপরীত ফল বয়ে আনে এমন",
+                    "word_transliteration": "biporit fol boye ane emon",
+                    "example_sentence_translation": "অতিরিক্ত সমালোচনা শেখার ক্ষেত্রে বিপরীত ফল বয়ে আনতে পারে।",
+                    "example_sentence_transliteration": "Otirikto shomalochona shekhar khetre biporit fol boye ante pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ephemeral",
+            "phonetic": "ɪˈfem.ər.əl",
+            "word_native_transliteration": {
+                "bn": "ইফেমেরাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⏰",
+            "meaning": "Lasting for a very short time; temporary.",
+            "example_sentence": "Fame is often ephemeral, lasting only for a short while.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফেম ইজ অফেন ইফেমেরাল, লাস্টিং ওনলি ফর এ শর্ট হোয়াইল।"
+            },
+            "position": 8,
+            "synonyms": "short-lived, temporary, transient",
+            "antonyms": "permanent, enduring, long-lasting",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্ষণস্থায়ী",
+                    "word_transliteration": "khonoshthayee",
+                    "example_sentence_translation": "খ্যাতি প্রায়শই ক্ষণস্থায়ী হয়, খুব অল্প সময়ের জন্য স্থায়ী থাকে।",
+                    "example_sentence_transliteration": "Khyati prayoshoi khonoshthayee hoy, khub olpo shomyer jonno sthayee thake.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "detrimental",
+            "phonetic": "ˌdet.rɪˈmen.təl",
+            "word_native_transliteration": {
+                "bn": "ডেট্রিমেন্টাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "❌",
+            "meaning": "Causing harm or damage; having a negative effect.",
+            "example_sentence": "Lack of sleep is detrimental to health.",
+            "example_sentence_native_transliteration": {
+                "bn": "ল্যাক অফ স্লিপ ইজ ডেট্রিমেন্টাল টু হেলথ।"
+            },
+            "position": 9,
+            "synonyms": "harmful, damaging, adverse",
+            "antonyms": "beneficial, helpful, advantageous",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্ষতিকর বা হানিকর",
+                    "word_transliteration": "khotikar ba hanikar",
+                    "example_sentence_translation": "ঘুমের অভাব স্বাস্থ্যের জন্য ক্ষতিকর।",
+                    "example_sentence_transliteration": "Ghumer ovhab shasthyer jonno khotikar.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "inculcate",
+            "phonetic": "ˈɪn.kʌl.keɪt",
+            "word_native_transliteration": {
+                "bn": "ইনকালকেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📚",
+            "meaning": "To teach or instill beliefs or habits through repetition and emphasis.",
+            "example_sentence": "Teachers must inculcate discipline in students.",
+            "example_sentence_native_transliteration": {
+                "bn": "টিচারস মাস্ট ইনকালকেট ডিসিপ্লিন ইন স্টুডেন্টস।"
+            },
+            "position": 10,
+            "synonyms": "instill, implant, teach",
+            "antonyms": "neglect, ignore, overlook",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গেঁথে দেওয়া বা বারবার শেখানো",
+                    "word_transliteration": "gethe deoya ba barbar shekhano",
+                    "example_sentence_translation": "শিক্ষকদের শিক্ষার্থীদের মধ্যে শৃঙ্খলা গেঁথে দিতে হবে।",
+                    "example_sentence_transliteration": "Shikhokder shikharthider modhye shringkhola gethe dite hobe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "assimilation",
+            "phonetic": "əˌsɪm.ɪˈleɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "অ্যাসিমিলেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The process of absorbing and integrating new information, culture, or ideas into oneself.",
+            "example_sentence": "Language assimilation helps immigrants adapt to a new country.",
+            "example_sentence_native_transliteration": {
+                "bn": "ল্যাঙ্গুয়েজ অ্যাসিমিলেশন হেল্পস ইমিগ্রান্টস অ্যাডাপ্ট টু এ নিউ কান্ট্রি।"
+            },
+            "position": 11,
+            "synonyms": "integration, absorption, incorporation",
+            "antonyms": "rejection, isolation, separation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অভ্যন্তরীণ করা বা একীভূত হওয়া",
+                    "word_transliteration": "ovhyontorin kora ba ekibhut hooya",
+                    "example_sentence_translation": "ভাষার অভ্যন্তরীণকরণ অভিবাসীদের নতুন দেশে মানিয়ে নিতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Bhashar ovhyontorinkoron ovhibashider notun deshe maniye nite shahajyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "latent",
+            "phonetic": "ˈleɪ.tənt",
+            "word_native_transliteration": {
+                "bn": "লেটেন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💎",
+            "meaning": "Existing but not yet developed or manifested; hidden potential.",
+            "example_sentence": "His artistic talent remained latent for years.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ আর্টিস্টিক ট্যালেন্ট রিমেইনড লেটেন্ট ফর ইয়ারস।"
+            },
+            "position": 12,
+            "synonyms": "hidden, dormant, concealed",
+            "antonyms": "evident, obvious, manifest",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সুপ্ত বা লুকায়িত",
+                    "word_transliteration": "supto ba lukayito",
+                    "example_sentence_translation": "তার শিল্পী প্রতিভা বহু বছর সুপ্ত ছিল।",
+                    "example_sentence_transliteration": "Tar shilpi protibha bohu bochor supto chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "impetus",
+            "phonetic": "ˈɪm.pɪ.təs",
+            "word_native_transliteration": {
+                "bn": "ইমপেটাস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚀",
+            "meaning": "The force or motivation that drives something forward; momentum.",
+            "example_sentence": "The new policy provided an impetus for economic growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিউ পলিসি প্রোভাইডেড অ্যান ইমপেটাস ফর ইকোনমিক গ্রোথ।"
+            },
+            "position": 13,
+            "synonyms": "motivation, drive, momentum",
+            "antonyms": "hindrance, obstruction, deterrent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রেরণা বা উদ্দীপনা",
+                    "word_transliteration": "prerona ba uddipona",
+                    "example_sentence_translation": "নতুন নীতিটি অর্থনৈতিক প্রবৃদ্ধির জন্য একটি প্রেরণা দিয়েছে।",
+                    "example_sentence_transliteration": "Notun nititi orthontoitik probriddhi jonno ekti prerona diyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "metamorphosis",
+            "phonetic": "ˌmet.əˈmɔːr.fə.sɪs",
+            "word_native_transliteration": {
+                "bn": "মেটামরফোসিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🦋",
+            "meaning": "A complete change or transformation in form, nature, or character.",
+            "example_sentence": "The caterpillar undergoes metamorphosis to become a butterfly.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ক্যাটারপিলার আন্ডারগোজ মেটামরফোসিস টু বিকাম এ বাটারফ্লাই।"
+            },
+            "position": 14,
+            "synonyms": "transformation, evolution, change",
+            "antonyms": "stagnation, stability, consistency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রূপান্তর বা রূপবদল",
+                    "word_transliteration": "rupantor ba rupbodol",
+                    "example_sentence_translation": "শুঁয়োপোকা প্রজাপতিতে পরিণত হতে রূপান্তরের মধ্য দিয়ে যায়।",
+                    "example_sentence_transliteration": "Shuyopoka projapotite porinoto hote rupantorer modhyo diye jay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "coercion",
+            "phonetic": "koʊˈɜːr.ʒən",
+            "word_native_transliteration": {
+                "bn": "কোয়ার্শন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✊",
+            "meaning": "The practice of forcing someone to do something against their will.",
+            "example_sentence": "The agreement was signed under coercion.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যাগ্রিমেন্ট ওয়াজ সাইনড আন্ডার কোয়ার্শন।"
+            },
+            "position": 15,
+            "synonyms": "force, compulsion, pressure",
+            "antonyms": "freedom, choice, voluntariness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বলপ্রয়োগ বা বাধ্য করা",
+                    "word_transliteration": "bolproyog ba badhyo kora",
+                    "example_sentence_translation": "চুক্তিটি বলপ্রয়োগের মাধ্যমে স্বাক্ষরিত হয়েছিল।",
+                    "example_sentence_transliteration": "Chuktiti bolproyoger madhyome swakhhorito hoyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "conducive",
+            "phonetic": "kənˈduː.sɪv",
+            "word_native_transliteration": {
+                "bn": "কনডিউসিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌱",
+            "meaning": "Making a certain situation or outcome likely or possible; favorable.",
+            "example_sentence": "A quiet environment is conducive to studying.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ কোয়াইট এনভায়রনমেন্ট ইজ কনডিউসিভ টু স্টাডিং।"
+            },
+            "position": 16,
+            "synonyms": "favorable, beneficial, supportive",
+            "antonyms": "hindering, unfavorable, detrimental",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহায়ক",
+                    "word_transliteration": "shahayok",
+                    "example_sentence_translation": "শান্ত পরিবেশ অধ্যয়নের জন্য সহায়ক।",
+                    "example_sentence_transliteration": "Shanto poribesh odhyoyoner jonno shahayok.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}
