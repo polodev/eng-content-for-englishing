@@ -1,0 +1,607 @@
+{
+    "position": 193,
+    "title_translation": {
+        "en": "The Future of Mobile Applications",
+        "bn": "মোবাইল অ্যাপ্লিকেশনের ভবিষ্যৎ"
+    },
+    "content_translation": {
+        "en": "Mobile applications are continuously evolving through **cutting-edge** technology. In the future, **amalgamation** will occur with **artificial intelligence**, **hyperconnectivity**, and **augmented reality**, making our digital lives more **immersive**. Currently, there is **exponential** **proliferation** of new **frameworks** that can ensure **seamless** experiences. To ensure **interoperability**, different **platforms** are now achieving **convergence** with each other, which will be convenient for users. However, concerns about **infiltration** and **redundancy** are also increasing. **Mobile security** development will solve these problems. **Innovative** solutions will create **ubiquity**, where every **device's** **connectivity** will be more advanced. This change is not just about technology, but also about our daily lives. Through **disruptive** changes, mobile applications will transform our lives in **astonishing** ways.",
+        "bn": "Mobile applications প্রতিনিয়ত **cutting-edge** প্রযুক্তির মাধ্যমে পরিবর্তিত হচ্ছে। ভবিষ্যতে, **amalgamation** ঘটবে **artificial intelligence**, **hyperconnectivity**, এবং **augmented reality**-এর সঙ্গে, যা আমাদের ডিজিটাল জীবনকে আরও **immersive** করে তুলবে। বর্তমানে **exponential** হারে **proliferation** হচ্ছে নতুন **framework**-এর, যা **seamless** অভিজ্ঞতা নিশ্চিত করতে পারবে। **Interoperability** নিশ্চিত করতে বিভিন্ন **platforms** এখন একে অপরের সঙ্গে **convergence** ঘটাচ্ছে, যা ব্যবহারকারীর জন্য সুবিধাজনক হবে। তবে, **infiltration** এবং **redundancy** নিয়ে উদ্বেগও বাড়ছে। **Mobile security**-এর উন্নয়ন এই সমস্যার সমাধান করবে। **Innovative** সমাধানের ফলে **ubiquity** তৈরি হবে, যেখানে প্রতিটি **device**-এর **connectivity** আরও উন্নত হবে। এই পরিবর্তন শুধু প্রযুক্তির নয়, বরং আমাদের প্রতিদিনের জীবনযাত্রারও। **Disruptive** পরিবর্তনের মাধ্যমে মোবাইল অ্যাপ্লিকেশন আমাদের জীবনকে **astonishing** উপায়ে রূপান্তরিত করবে।"
+    },
+    "list": [
+        {
+            "word": "cutting-edge",
+            "phonetic": "ˈkʌtɪŋ ˌɛdʒ",
+            "word_native_transliteration": {
+                "bn": "কাটিং-এজ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔥",
+            "meaning": "The most advanced or innovative; at the forefront of development.",
+            "example_sentence": "This company develops cutting-edge technology.",
+            "example_sentence_native_transliteration": {
+                "bn": "দিস কোম্পানি ডেভেলপস কাটিং-এজ টেকনোলজি।"
+            },
+            "position": 1,
+            "synonyms": "advanced, innovative, state-of-the-art",
+            "antonyms": "outdated, obsolete, conventional",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সর্বাধুনিক, অত্যাধুনিক, নতুন প্রযুক্তি",
+                    "word_transliteration": "shorbadhunik, ottyhadhunik, notun projukti",
+                    "example_sentence_translation": "এই কোম্পানি কাটিং-এজ প্রযুক্তি উন্নয়ন করে।",
+                    "example_sentence_transliteration": "Ei company cutting-edge projukti unnayan kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "amalgamation",
+            "phonetic": "əˌmæl.ɡəˈmeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "অ্যামালগামেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔗",
+            "meaning": "The action, process, or result of combining or uniting.",
+            "example_sentence": "The amalgamation of AI and big data is transforming industries.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যামালগামেশন অফ এআই অ্যান্ড বিগ ডেটা ইজ ট্রান্সফর্মিং ইন্ডাস্ট্রিজ।"
+            },
+            "position": 2,
+            "synonyms": "fusion, combination, integration",
+            "antonyms": "separation, division, disintegration",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংমিশ্রণ, একীভবন, সংযুক্তি",
+                    "word_transliteration": "shongmishron, ekibhobon, shongjukti",
+                    "example_sentence_translation": "অ্যামালগামেশন এর ফলে এআই ও বিগ ডাটা শিল্প খাতে পরিবর্তন আনছে।",
+                    "example_sentence_transliteration": "Amalgamation er fole AI o big data shilpo khate poriborton anche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "artificial intelligence",
+            "phonetic": "ˌɑː.tɪˈfɪʃ.əl ɪnˈtɛl.ɪ.dʒəns",
+            "word_native_transliteration": {
+                "bn": "আর্টিফিশিয়াল ইন্টেলিজেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤖",
+            "meaning": "The simulation of human intelligence in machines that are programmed to think and learn.",
+            "example_sentence": "Artificial intelligence is reshaping modern industries.",
+            "example_sentence_native_transliteration": {
+                "bn": "আর্টিফিশিয়াল ইন্টেলিজেন্স ইজ রিশেপিং মডার্ন ইন্ডাস্ট্রিজ।"
+            },
+            "position": 3,
+            "synonyms": "AI, machine learning, neural networks",
+            "antonyms": "human intelligence, natural cognition",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কৃত্রিম বুদ্ধিমত্তা, মেশিন লার্নিং ভিত্তিক বুদ্ধি",
+                    "word_transliteration": "kritrimo buddhimotta, machine learning bhittik buddhi",
+                    "example_sentence_translation": "আর্টিফিশিয়াল ইন্টেলিজেন্স আধুনিক শিল্পকে নতুনভাবে গড়ে তুলছে।",
+                    "example_sentence_transliteration": "Artificial intelligence adhunik shilpoke notunbhabe gore tulche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "hyperconnectivity",
+            "phonetic": "ˌhaɪ.pər.kəˈnɛk.tɪ.vɪ.ti",
+            "word_native_transliteration": {
+                "bn": "হাইপারকানেক্টিভিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌐",
+            "meaning": "The use of multiple systems and devices to remain constantly connected.",
+            "example_sentence": "The era of hyperconnectivity has led to a digital revolution.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইরা অফ হাইপারকানেক্টিভিটি হ্যাজ লেড টু এ ডিজিটাল রেভোলিউশন।"
+            },
+            "position": 4,
+            "synonyms": "digital connectivity, ubiquitous networking, integrated communication",
+            "antonyms": "isolation, disconnection, fragmentation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতিরিক্ত সংযুক্তি, সর্বব্যাপী নেটওয়ার্ক সংযোগ",
+                    "word_transliteration": "otirikto shongjukti, shorbobapi network shongjog",
+                    "example_sentence_translation": "হাইপারকানেক্টিভিটি যুগ একটি ডিজিটাল বিপ্লবের দিকে নিয়ে গেছে।",
+                    "example_sentence_transliteration": "Hyperconnectivity jug ekti digital biplober dike niye geche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "augmented reality",
+            "phonetic": "ɔːɡˈmɛn.tɪd riˈæl.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "অগমেন্টেড রিয়ালিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🥽",
+            "meaning": "Technology that overlays digital information on the real world environment.",
+            "example_sentence": "Gaming has been transformed by augmented reality.",
+            "example_sentence_native_transliteration": {
+                "bn": "গেমিং হ্যাজ বিন ট্রান্সফর্মড বাই অগমেন্টেড রিয়ালিটি।"
+            },
+            "position": 5,
+            "synonyms": "AR, mixed reality, extended reality",
+            "antonyms": "reality, tangible world, physical experience",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বর্ধিত বাস্তবতা, ভার্চুয়াল ও বাস্তব জগতের মিশ্রণ",
+                    "word_transliteration": "bordhito bastobota, virtual o bastob jogter mishron",
+                    "example_sentence_translation": "অগমেন্টেড রিয়ালিটি গেমিং জগতে বিপ্লব এনেছে।",
+                    "example_sentence_transliteration": "Augmented reality gaming jogte biplob eneche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "immersive",
+            "phonetic": "ɪˈmɜː.sɪv",
+            "word_native_transliteration": {
+                "bn": "ইমারসিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎮",
+            "meaning": "Providing, involving, or characterized by deep absorption or immersion in something.",
+            "example_sentence": "The immersive experience of VR makes learning more interactive.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইমারসিভ এক্সপেরিয়েন্স অফ ভিআর মেকস লার্নিং মোর ইন্টারঅ্যাক্টিভ।"
+            },
+            "position": 6,
+            "synonyms": "engaging, enveloping, absorbing",
+            "antonyms": "detached, uninvolving, superficial",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সম্পূর্ণভাবে মনোযোগ আকর্ষণকারী, গভীরভাবে জড়ানো",
+                    "word_transliteration": "shompurnobhabe monojog akorshonkari, gobhirbhabe jrano",
+                    "example_sentence_translation": "ইমারসিভ অভিজ্ঞতা লার্নিংকে আরও ইন্টারঅ্যাক্টিভ করে তোলে।",
+                    "example_sentence_transliteration": "Immersive obhiggota learning-ke aro interactive kore tole.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "exponential",
+            "phonetic": "ˌɛk.spəˈnɛn.ʃəl",
+            "word_native_transliteration": {
+                "bn": "এক্সপোনেনশিয়াল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📈",
+            "meaning": "Becoming more and more rapid in growth or increase.",
+            "example_sentence": "The adoption of AI is growing at an exponential rate.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যাডপশন অফ এআই ইজ গ্রোয়িং অ্যাট অ্যান এক্সপোনেনশিয়াল রেট।"
+            },
+            "position": 7,
+            "synonyms": "rapid, accelerated, geometric growth",
+            "antonyms": "gradual, steady, incremental",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্রুত বৃদ্ধি, গাণিতিকভাবে বৃদ্ধি",
+                    "word_transliteration": "druto briddhi, ganitikbhabe briddhi",
+                    "example_sentence_translation": "এআই গ্রহণের হার এক্সপোনেনশিয়াল হারে বৃদ্ধি পাচ্ছে।",
+                    "example_sentence_transliteration": "AI grohoner har exponential hare briddhi pachche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "proliferation",
+            "phonetic": "prəˌlɪf.əˈreɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "প্রোলিফারেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "Rapid increase in the number or amount of something.",
+            "example_sentence": "The proliferation of mobile apps has transformed user experience.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রোলিফারেশন অফ মোবাইল অ্যাপস হ্যাজ ট্রান্সফর্মড ইউজার এক্সপেরিয়েন্স।"
+            },
+            "position": 8,
+            "synonyms": "expansion, multiplication, surge",
+            "antonyms": "decline, reduction, contraction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্রুত বিস্তার, ব্যাপক বৃদ্ধি",
+                    "word_transliteration": "druto bistar, bapok briddhi",
+                    "example_sentence_translation": "প্রোলিফারেশন এর কারণে মোবাইল অ্যাপ ব্যবহারের অভিজ্ঞতা পরিবর্তন হয়েছে।",
+                    "example_sentence_transliteration": "Proliferation er karone mobile app beboharer obhiggota poriborton hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "framework",
+            "phonetic": "ˈfreɪm.wɜːrk",
+            "word_native_transliteration": {
+                "bn": "ফ্রেমওয়ার্ক"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏗️",
+            "meaning": "A basic structure underlying a system, concept, or text.",
+            "example_sentence": "A strong framework is essential for system development.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ স্ট্রং ফ্রেমওয়ার্ক ইজ এসেনশিয়াল ফর সিস্টেম ডেভেলপমেন্ট।"
+            },
+            "position": 9,
+            "synonyms": "structure, system, foundation",
+            "antonyms": "chaos, disorganization, instability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কাঠামো, ভিত্তি, পরিকল্পনা",
+                    "word_transliteration": "kathamo, bhitti, porikalpona",
+                    "example_sentence_translation": "ফ্রেমওয়ার্ক ছাড়া সিস্টেম উন্নয়ন সম্ভব নয়।",
+                    "example_sentence_transliteration": "Framework chara system unnayan shombhob noy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "seamless",
+            "phonetic": "ˈsiːm.ləs",
+            "word_native_transliteration": {
+                "bn": "সীমলেস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔗",
+            "meaning": "Smooth and continuous, with no apparent gaps or spaces between one part and the next.",
+            "example_sentence": "The transition from one app to another was seamless.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ট্রানজিশন ফ্রম ওয়ান অ্যাপ টু অ্যানাদার ওয়াজ সীমলেস।"
+            },
+            "position": 10,
+            "synonyms": "effortless, continuous, smooth",
+            "antonyms": "disjointed, fragmented, disrupted",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাধাহীন, মসৃণ, বিরতিহীন",
+                    "word_transliteration": "badhahin, moshrun, birotiheen",
+                    "example_sentence_translation": "সীমলেস অভিজ্ঞতার মাধ্যমে অ্যাপ পরিবর্তন সহজ হয়েছে।",
+                    "example_sentence_transliteration": "Seamless obhiggotar maddhome app poriborton shohoj hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "interoperability",
+            "phonetic": "ˌɪn.tərˌɒp.ər.əˈbɪl.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "ইন্টারঅপারেবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The ability of computer systems or software to exchange and make use of information.",
+            "example_sentence": "Cloud systems rely on interoperability for efficiency.",
+            "example_sentence_native_transliteration": {
+                "bn": "ক্লাউড সিস্টেমস রিলাই অন ইন্টারঅপারেবিলিটি ফর এফিশিয়েন্সি।"
+            },
+            "position": 11,
+            "synonyms": "compatibility, integration, connectivity",
+            "antonyms": "incompatibility, isolation, fragmentation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পারস্পরিক সামঞ্জস্যতা, সহজ সংযোগ",
+                    "word_transliteration": "parasporik shamanjoshota, shohoj shongjog",
+                    "example_sentence_translation": "ইন্টারঅপারেবিলিটি নিশ্চিত করা ক্লাউড ব্যবস্থার কার্যকারিতা বাড়ায়।",
+                    "example_sentence_transliteration": "Interoperability nishchito kora cloud bebosthar karjokarita baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "platforms",
+            "phonetic": "ˈplæt.fɔːrmz",
+            "word_native_transliteration": {
+                "bn": "প্ল্যাটফর্মস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💻",
+            "meaning": "Computing environments where software applications can be developed and run.",
+            "example_sentence": "Different platforms offer diverse digital solutions.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিফারেন্ট প্ল্যাটফর্মস অফার ডাইভার্স ডিজিটাল সল্যুশনস।"
+            },
+            "position": 12,
+            "synonyms": "system, base, interface",
+            "antonyms": "limitation, restriction, constraint",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভিত্তি, সফটওয়্যার বা হার্ডওয়্যার পরিবেশ",
+                    "word_transliteration": "bhitti, software ba hardware poribesh",
+                    "example_sentence_translation": "প্ল্যাটফর্মস প্রযুক্তির বিভিন্ন সমাধান প্রদান করে।",
+                    "example_sentence_transliteration": "Platforms projuktir bibhinno somadhan prodan kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "convergence",
+            "phonetic": "kənˈvɜː.dʒəns",
+            "word_native_transliteration": {
+                "bn": "কনভারজেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "The process or state of converging; coming together from different directions.",
+            "example_sentence": "The convergence of AI and IoT is reshaping industries.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কনভারজেন্স অফ এআই অ্যান্ড আইওটি ইজ রিশেপিং ইন্ডাস্ট্রিজ।"
+            },
+            "position": 13,
+            "synonyms": "merging, unification, integration",
+            "antonyms": "divergence, separation, dispersion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মিলন, সমন্বয়, একীভূত হওয়া",
+                    "word_transliteration": "milon, shomnoy, ekibhut howa",
+                    "example_sentence_translation": "কনভারজেন্স প্রযুক্তির ভবিষ্যৎ নির্ধারণ করছে।",
+                    "example_sentence_transliteration": "Convergence projuktir bhobishyot nirdharon korche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "infiltration",
+            "phonetic": "ˌɪn.fɪlˈtreɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ইনফিলট্রেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🥷",
+            "meaning": "The process of entering or gaining access to an organization or place surreptitiously.",
+            "example_sentence": "Cybersecurity prevents infiltration into sensitive data.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাইবারসিকিউরিটি প্রিভেন্টস ইনফিলট্রেশন ইনটু সেনসিটিভ ডেটা।"
+            },
+            "position": 14,
+            "synonyms": "penetration, intrusion, encroachment",
+            "antonyms": "resistance, protection, fortification",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনুপ্রবেশ, গোপন সংযোগ",
+                    "word_transliteration": "onuprobesh, gopon shongjog",
+                    "example_sentence_translation": "ইনফিলট্রেশন রোধ করা সাইবার নিরাপত্তার অন্যতম কাজ।",
+                    "example_sentence_transliteration": "Infiltration rodh kora cyber nirapottar onnotom kaj.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "redundancy",
+            "phonetic": "rɪˈdʌn.dən.si",
+            "word_native_transliteration": {
+                "bn": "রিডান্ড্যান্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "♻️",
+            "meaning": "The state of being not or no longer needed or useful; superfluousness.",
+            "example_sentence": "Removing redundancy improves system performance.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিমুভিং রিডান্ড্যান্সি ইমপ্রুভস সিস্টেম পারফর্মেন্স।"
+            },
+            "position": 15,
+            "synonyms": "excess, superfluity, duplication",
+            "antonyms": "necessity, essentiality, efficiency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতিরিক্ততা, অপ্রয়োজনীয় পুনরাবৃত্তি",
+                    "word_transliteration": "otirikotta, oproyojoniy punorabritti",
+                    "example_sentence_translation": "রিডান্ড্যান্সি কমানো কর্মদক্ষতা বাড়ায়।",
+                    "example_sentence_transliteration": "Redundancy komano kormodokkhota baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "mobile security",
+            "phonetic": "ˈmoʊ.baɪl sɪˈkjʊr.ə.ti",
+            "word_native_transliteration": {
+                "bn": "মোবাইল সিকিউরিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔒",
+            "meaning": "Protection of mobile devices and the data stored on them from security threats.",
+            "example_sentence": "Strong mobile security protects personal information.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্ট্রং মোবাইল সিকিউরিটি প্রোটেক্টস পার্সোনাল ইনফরমেশন।"
+            },
+            "position": 16,
+            "synonyms": "data protection, cybersecurity, privacy control",
+            "antonyms": "vulnerability, exposure, risk",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মোবাইল নিরাপত্তা, সাইবার সুরক্ষা",
+                    "word_transliteration": "mobile nirapotta, cyber shurokha",
+                    "example_sentence_translation": "মোবাইল সিকিউরিটি ব্যবহারকারীদের সুরক্ষা নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Mobile security beboharkari der shurokha nishchito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "innovative",
+            "phonetic": "ˈɪn.ə.veɪ.tɪv",
+            "word_native_transliteration": {
+                "bn": "ইনোভেটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💡",
+            "meaning": "Introducing new ideas; original and creative in thinking.",
+            "example_sentence": "The company launched an innovative AI-based service.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি লঞ্চড অ্যান ইনোভেটিভ এআই-বেসড সার্ভিস।"
+            },
+            "position": 17,
+            "synonyms": "creative, groundbreaking, pioneering",
+            "antonyms": "conventional, outdated, traditional",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নতুনত্বপূর্ণ, সৃজনশীল, অনন্য",
+                    "word_transliteration": "notuntopurno, srijonsheel, onnoyo",
+                    "example_sentence_translation": "ইনোভেটিভ প্রযুক্তি বাজারে নতুনত্ব এনেছে।",
+                    "example_sentence_transliteration": "Innovative projukti bajare notunto eneche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ubiquity",
+            "phonetic": "juːˈbɪk.wə.ti",
+            "word_native_transliteration": {
+                "bn": "ইউবিকুইটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌍",
+            "meaning": "The fact of appearing everywhere or of being very common.",
+            "example_sentence": "The ubiquity of smartphones has transformed communication.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইউবিকুইটি অফ স্মার্টফোনস হ্যাজ ট্রান্সফর্মড কমিউনিকেশন।"
+            },
+            "position": 18,
+            "synonyms": "omnipresence, pervasiveness, universality",
+            "antonyms": "rarity, absence, uncommonness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সর্বত্র উপস্থিতি, সর্বব্যাপীতা, ব্যাপক বিস্তার",
+                    "word_transliteration": "shorbotto uposhthiti, shorbobapita, bapok bistar",
+                    "example_sentence_translation": "ইউবিকুইটি স্মার্টফোনের কারণে যোগাযোগ ব্যবস্থায় বিপ্লব ঘটেছে।",
+                    "example_sentence_transliteration": "Ubiquity smartphone er karone jogajog bebosthay biplob ghoteche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "device",
+            "phonetic": "dɪˈvaɪs",
+            "word_native_transliteration": {
+                "bn": "ডিভাইস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📱",
+            "meaning": "A thing made or adapted for a particular purpose, especially a piece of mechanical or electronic equipment.",
+            "example_sentence": "This device improves efficiency in data processing.",
+            "example_sentence_native_transliteration": {
+                "bn": "দিস ডিভাইস ইমপ্রুভস এফিশিয়েন্সি ইন ডেটা প্রসেসিং।"
+            },
+            "position": 19,
+            "synonyms": "gadget, instrument, apparatus",
+            "antonyms": "malfunction, nonfunctional, useless",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "যন্ত্র, উপকরণ, প্রযুক্তিগত সরঞ্জাম",
+                    "word_transliteration": "jontro, upokoron, projuktigo shoranjan",
+                    "example_sentence_translation": "ডিভাইস ব্যবহার করলে ডেটা প্রসেসিং আরও কার্যকর হয়।",
+                    "example_sentence_transliteration": "Device bebohaar korle data processing aro karjokor hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "connectivity",
+            "phonetic": "ˌkɒn.ekˈtɪv.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "কানেক্টিভিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔗",
+            "meaning": "The state of being connected or interconnected; capacity for the interconnection of platforms, systems, and applications.",
+            "example_sentence": "The connectivity in rural areas needs improvement.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কানেক্টিভিটি ইন রুরাল এরিয়াস নিডস ইমপ্রুভমেন্ট।"
+            },
+            "position": 20,
+            "synonyms": "network, linkage, accessibility",
+            "antonyms": "disconnection, isolation, inaccessibility",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংযোগ ব্যবস্থা, নেটওয়ার্কের স্থায়িত্ব, আন্তসংযোগ",
+                    "word_transliteration": "shongjog bebostha, networker sthaito, antoshongjog",
+                    "example_sentence_translation": "কানেক্টিভিটি উন্নত করা গ্রামাঞ্চলের জন্য গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Connectivity unnoto kora gramanchol er jonno guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "disruptive",
+            "phonetic": "dɪsˈrʌp.tɪv",
+            "word_native_transliteration": {
+                "bn": "ডিসরাপটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚡",
+            "meaning": "Causing or tending to cause disruption; innovative in a way that challenges established practices.",
+            "example_sentence": "AI is a disruptive force in the job market.",
+            "example_sentence_native_transliteration": {
+                "bn": "এআই ইজ এ ডিসরাপটিভ ফোর্স ইন দ্য জব মার্কেট।"
+            },
+            "position": 21,
+            "synonyms": "revolutionary, transformative, groundbreaking",
+            "antonyms": "stabilizing, constructive, traditional",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিপর্যয়কর, প্রভাবশালী পরিবর্তনকারী",
+                    "word_transliteration": "biporjoykor, probhabshali poribortonkari",
+                    "example_sentence_translation": "ডিসরাপটিভ প্রযুক্তি কর্মসংস্থানের চিত্র বদলে দিচ্ছে।",
+                    "example_sentence_transliteration": "Disruptive projukti kormo shongsthan er chitro bodle dichche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "astonishing",
+            "phonetic": "əˈstɒn.ɪ.ʃɪŋ",
+            "word_native_transliteration": {
+                "bn": "অ্যাস্টনিশিং"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "😮",
+            "meaning": "Extremely surprising or impressive; amazing.",
+            "example_sentence": "The scientist made an astonishing discovery in physics.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সায়েন্টিস্ট মেড অ্যান অ্যাস্টনিশিং ডিসকভারি ইন ফিজিক্স।"
+            },
+            "position": 22,
+            "synonyms": "incredible, breathtaking, remarkable",
+            "antonyms": "ordinary, predictable, expected",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিস্ময়কর, অভাবনীয়, চমকপ্রদ",
+                    "word_transliteration": "bish moykor, abhabnio, chomokprodo",
+                    "example_sentence_translation": "অ্যাস্টনিশিং গবেষণার মাধ্যমে বিজ্ঞানী নতুন কিছু আবিষ্কার করেছেন।",
+                    "example_sentence_transliteration": "Astonishing gobeshona r maddhome biggani notun kichu abishkar korechen.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

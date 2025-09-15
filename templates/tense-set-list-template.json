@@ -1,0 +1,57 @@
+[
+  {
+    "word": "go",
+    "phonetic": "/ɡoʊ/",
+    "word_native_transliteration": {
+      "bn": "গো",
+    },
+    "parts_of_speech": "verb",
+    "past": "went",
+    "past_native_transliteration": {
+      "bn": "ওয়েন্ট",
+    },
+    "past_participle": "gone",
+    "past_participle_native_transliteration": {
+      "bn": "গন",
+    },
+    "third_person_singular": "goes",
+    "third_person_singular_native_transliteration": {
+      "bn": "গোজ",
+    },
+    "gerund": "going",
+    "gerund_native_transliteration": {
+      "bn": "গোইং",
+    },
+    "meaning": "to move or travel somewhere; to leave",
+    "example_sentence": "I go to school every day.",
+    "example_sentence_native_transliteration": {
+      "bn": "আই গো টু স্কুল এভরি ডে।",
+    },
+    "example_expression": "Let's go!",
+    "example_expression_native_transliteration": {
+      "bn": "লেটস গো!",
+    },
+    "example_expression_meaning": "An encouraging phrase to start moving or begin something",
+    "synonyms": "move, travel, depart, leave",
+    "antonyms": "stay, come, arrive, stop",
+    "emoji": "🚀",
+    "translations": [
+      {
+        "locale": "bn",
+        "word_translation": "যাওয়া",
+        "word_transliteration": "jaowa",
+        "meaning_translation": "কোথাও সরে যাওয়া বা ভ্রমণ করা; চলে যাওয়া",
+        "meaning_transliteration": "kothao shore jaowa ba vromon kora; chole jaowa",
+        "example_sentence_translation": "আমি প্রতিদিন স্কুলে যাই।",
+        "example_sentence_transliteration": "Ami protidin schoole jai",
+        "example_expression_translation": "চলো যাই!",
+        "example_expression_transliteration": "Cholo jai!",
+        "example_expression_meaning_translation": "কিছু শুরু করার জন্য উৎসাহব্যঞ্জক বাক্য",
+        "example_expression_meaning_transliteration": "kichu shuru korar jonno utsahobanjok bakko",
+        "source": "oxford"
+      },
+    ]
+  },
+  
+  
+]

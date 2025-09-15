@@ -1,0 +1,499 @@
+{
+    "position": 198,
+    "title_translation": {
+        "en": "The Impact of Traffic on Mobility",
+        "bn": "যানজটের মোবিলিটির উপর প্রভাব"
+    },
+    "content_translation": {
+        "en": "One of the biggest problems in modern cities is **congestion**, which creates significant **disruption** in people's **commuting**. **Gridlock** during busy times reduces people's **velocity** and creates **bottlenecks**, causing overall movement barriers. Due to increased **urbanization** in various cities, road **saturation** has increased, and **overcrowding** is now a daily reality. Poor **infrastructure** and unplanned **logistics** make traffic jams even worse.\n\nTo solve this problem, **mitigation** measures are needed that can **alleviate** traffic. Through improved **transit** systems and **pedestrianization**, **accessibility** can be increased.\n\nTraffic is not just a waste of time, but also a cause of economic loss, as fuel costs become **exorbitant**. To solve this problem, proper planning and ensuring **sustainability** are necessary, which will make urban life easier for people.",
+        "bn": "আধুনিক শহরগুলোর অন্যতম বড় সমস্যা হলো **congestion**, যা মানুষের **commuting**-এ ব্যাপক **disruption** সৃষ্টি করে। ব্যস্ত সময়ের **gridlock** মানুষের **velocity** কমিয়ে দেয় এবং **bottleneck** তৈরি করে, যা সার্বিক চলাচলে বাধা সৃষ্টি করে। বিভিন্ন শহরে **urbanization** বৃদ্ধির ফলে রাস্তার **saturation** বেড়েছে, এবং **overcrowding** এখন প্রতিদিনের বাস্তবতা। দুর্বল **infrastructure** এবং অপরিকল্পিত **logistics** যানজটকে আরও বাড়িয়ে তোলে।\n\nএই সমস্যা সমাধানে প্রয়োজন **mitigation** ব্যবস্থা, যা ট্রাফিকের **alleviate** করতে পারে। উন্নত **transit** ব্যবস্থা ও **pedestrianization** এর মাধ্যমে **accessibility** বাড়ানো সম্ভব।\n\nযানজট কেবল সময়ের অপচয়ই নয়, বরং এটি অর্থনৈতিক ক্ষতির কারণ, কারণ এর ফলে জ্বালানির ব্যয় **exorbitant** হয়ে যায়। এই সমস্যা সমাধানে সঠিক পরিকল্পনা এবং **sustainability** নিশ্চিত করা প্রয়োজন, যা শহরের মানুষের জীবনযাত্রাকে সহজ করবে।"
+    },
+    "list": [
+        {
+            "word": "congestion",
+            "phonetic": "/kənˈdʒes.tʃən/",
+            "word_native_transliteration": {
+                "bn": "কনজেসশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚗",
+            "meaning": "Traffic jam or overcrowded condition in roads or areas where there is excessive presence of vehicles or people.",
+            "example_sentence": "Urban congestion leads to longer travel times.",
+            "example_sentence_native_transliteration": {
+                "bn": "আর্বান কনজেসশন লিডস টু লঙ্গার ট্রাভেল টাইমস।"
+            },
+            "position": 1,
+            "synonyms": "Traffic jam, Overcrowding, Blockage",
+            "antonyms": "Free Flow, Unclogging, Open Space",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "যানজট বা অতিরিক্ত ভিড়",
+                    "word_transliteration": "zanjot ba otiriktyo bhir",
+                    "example_sentence_translation": "নগর যানজট দীর্ঘ যাতায়াত সময়ের কারণ হয়।",
+                    "example_sentence_transliteration": "Nogor zanjot dirgho zatayat somoyer karon hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "commuting",
+            "phonetic": "/kəˈmjuː.tɪŋ/",
+            "word_native_transliteration": {
+                "bn": "কমিউটিং"
+            },
+            "parts_of_speech": "noun/verb",
+            "emoji": "🚌",
+            "meaning": "Regular travel to and from workplace, daily journey for work.",
+            "example_sentence": "He spends two hours commuting to work every day.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি স্পেন্ডস টু আওয়ারস কমিউটিং টু ওয়ার্ক এভরি ডে।"
+            },
+            "position": 2,
+            "synonyms": "Travel, Transit, Daily Journey",
+            "antonyms": "Settling, Staying, Inactivity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দৈনিক যাতায়াত বা চলাচল",
+                    "word_transliteration": "doinik zatayat ba cholachol",
+                    "example_sentence_translation": "তিনি প্রতিদিন কাজে যেতে দুই ঘণ্টা ব্যয় করেন।",
+                    "example_sentence_transliteration": "Tini protidin kaje jete dui ghonta byoy koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "disruption",
+            "phonetic": "/dɪsˈrʌp.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ডিসরাপশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚠️",
+            "meaning": "Barrier or interruption, sudden disturbance in any process or service.",
+            "example_sentence": "The road construction caused major disruption in traffic flow.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রোড কনস্ট্রাকশন কজড মেজর ডিসরাপশন ইন ট্রাফিক ফ্লো।"
+            },
+            "position": 3,
+            "synonyms": "Disturbance, Interruption, Disorder",
+            "antonyms": "Stability, Continuity, Smoothness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাধা বা ব্যাহত হওয়া",
+                    "word_transliteration": "badha ba byahot howa",
+                    "example_sentence_translation": "রাস্তা নির্মাণের ফলে যান চলাচলে বড় ধরনের বিঘ্ন ঘটে।",
+                    "example_sentence_transliteration": "Rasta nirmanrer fole zan cholachole boro dhoroner bighno ghote.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "gridlock",
+            "phonetic": "/ˈɡrɪd.lɒk/",
+            "word_native_transliteration": {
+                "bn": "গ্রিডলক"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚦",
+            "meaning": "Complete traffic jam or standstill condition where vehicles cannot move.",
+            "example_sentence": "A major accident led to gridlock in the city center.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ মেজর অ্যাক্সিডেন্ট লেড টু গ্রিডলক ইন দ্য সিটি সেন্টার।"
+            },
+            "position": 4,
+            "synonyms": "Traffic Jam, Standstill, Blockage",
+            "antonyms": "Free Flow, Movement, Clearance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সম্পূর্ণ যানজট বা অচলাবস্থা",
+                    "word_transliteration": "sompoorno zanjot ba ocholabostha",
+                    "example_sentence_translation": "একটি বড় দুর্ঘটনার কারণে শহরের কেন্দ্রস্থলে সম্পূর্ণ যানজট সৃষ্টি হয়।",
+                    "example_sentence_transliteration": "Ekti boro durghotnar karone shohorer kendrosthole sompoorno zanjot srishti hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "velocity",
+            "phonetic": "/vəˈlɒs.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "ভেলসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "Speed or acceleration, the rate of movement of any object or vehicle.",
+            "example_sentence": "High velocity trains reduce travel time significantly.",
+            "example_sentence_native_transliteration": {
+                "bn": "হাই ভেলসিটি ট্রেইনস রিডিউস ট্রাভেল টাইম সিগনিফিক্যান্টলি।"
+            },
+            "position": 5,
+            "synonyms": "Speed, Acceleration, Pace",
+            "antonyms": "Slowness, Stagnation, Immobility",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গতি বা বেগ",
+                    "word_transliteration": "goti ba beg",
+                    "example_sentence_translation": "উচ্চ গতিসম্পন্ন ট্রেন ভ্রমণের সময় উল্লেখযোগ্যভাবে কমিয়ে দেয়।",
+                    "example_sentence_transliteration": "Uccho gotishomponno train bhromoner somoy ullekhjoggyobhabe komiye dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "bottleneck",
+            "phonetic": "/ˈbɒt.əl.nek/",
+            "word_native_transliteration": {
+                "bn": "বটলনেক"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🍾",
+            "meaning": "Narrow path or obstruction, a place or situation where flow becomes slow.",
+            "example_sentence": "The narrow bridge is a major bottleneck during rush hour.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নারো ব্রিজ ইজ এ মেজর বটলনেক ডিউরিং রাশ আওয়ার।"
+            },
+            "position": 6,
+            "synonyms": "Obstruction, Chokepoint, Traffic Jam",
+            "antonyms": "Free Flow, Expansion, Ease",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংকীর্ণ পথ বা বাধা",
+                    "word_transliteration": "shongkirno poth ba badha",
+                    "example_sentence_translation": "সংকীর্ণ সেতুটি ব্যস্ত সময়ে একটি বড় বাধা।",
+                    "example_sentence_transliteration": "Shongkirno shetuti byosto somoy ekti boro badha.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "urbanization",
+            "phonetic": "/ˌɜː.bən.aɪˈzeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "আর্বানাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏙️",
+            "meaning": "City growth or urban expansion, the process of rural areas transforming into cities and urban development.",
+            "example_sentence": "Rapid urbanization has led to increased demand for housing.",
+            "example_sentence_native_transliteration": {
+                "bn": "র‍্যাপিড আর্বানাইজেশন হ্যাজ লেড টু ইনক্রিজড ডিমান্ড ফর হাউজিং।"
+            },
+            "position": 7,
+            "synonyms": "City Growth, Urban Expansion, Metropolization",
+            "antonyms": "Ruralization, Deurbanization, Countrification",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নগরায়ণ বা শহুরে সম্প্রসারণ",
+                    "word_transliteration": "nogorayon ba shohure shomprosaron",
+                    "example_sentence_translation": "দ্রুত নগরায়ণ আবাসনের চাহিদা বৃদ্ধি করেছে।",
+                    "example_sentence_transliteration": "Druto nogorayon abashoner chahida briddhi koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "saturation",
+            "phonetic": "/ˌsætʃ.əˈreɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "স্যাচুরেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💧",
+            "meaning": "Fullness or complete state, creating excessive pressure in any place or system.",
+            "example_sentence": "The city's roads have reached saturation due to high vehicle numbers.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সিটিজ রোডস হ্যাভ রিচড স্যাচুরেশন ডিউ টু হাই ভেহিকেল নাম্বারস।"
+            },
+            "position": 8,
+            "synonyms": "Overload, Full Capacity, Excess",
+            "antonyms": "Deficiency, Scarcity, Insufficiency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পূর্ণতা বা পরিপূর্ণ অবস্থা",
+                    "word_transliteration": "poornota ba poripoorno obostha",
+                    "example_sentence_translation": "অতিরিক্ত যানবাহনের কারণে শহরের রাস্তা সম্পূর্ণভাবে পূর্ণ হয়েছে।",
+                    "example_sentence_transliteration": "Otiriktyo zanbaohoner karone shohorer rasta shompoornobhabe poorno hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "overcrowding",
+            "phonetic": "/ˌoʊ.vɚˈkraʊ.dɪŋ/",
+            "word_native_transliteration": {
+                "bn": "ওভারক্রাউডিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👥",
+            "meaning": "Excessive crowd or packed condition, having more people or vehicles in a place than the approved capacity.",
+            "example_sentence": "The subway system suffers from severe overcrowding during peak hours.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সাবওয়ে সিস্টেম সাফারস ফ্রম সিভিয়ার ওভারক্রাউডিং ডিউরিং পিক আওয়ারস।"
+            },
+            "position": 9,
+            "synonyms": "Overpopulation, Congestion, Cramming",
+            "antonyms": "Spaciousness, Emptiness, Vacancy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতিরিক্ত ভিড় বা গাদাগাদি",
+                    "word_transliteration": "otiriktyo bhir ba gadagadi",
+                    "example_sentence_translation": "ব্যস্ত সময়ে পাতাল রেলব্যবস্থায় মারাত্মক অতিরিক্ত ভিড় দেখা যায়।",
+                    "example_sentence_transliteration": "Byosto somoy patal relbyabasthay maratmok otiriktyo bhir dekha jay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "infrastructure",
+            "phonetic": "/ˈɪn.frəˌstrʌk.tʃər/",
+            "word_native_transliteration": {
+                "bn": "ইনফ্রাস্ট্রাকচার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏗️",
+            "meaning": "Foundation or basic facilities, basic construction and transportation system of a country or institution.",
+            "example_sentence": "A strong infrastructure is essential for economic growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ স্ট্রং ইনফ্রাস্ট্রাকচার ইজ এসেনশিয়াল ফর ইকনমিক গ্রোথ।"
+            },
+            "position": 10,
+            "synonyms": "Framework, Foundation, Facilities",
+            "antonyms": "Disorganization, Instability, Ruin",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অবকাঠামো বা মৌলিক সুবিধা",
+                    "word_transliteration": "obokathamo ba moulik shubidha",
+                    "example_sentence_translation": "একটি শক্তিশালী অবকাঠামো অর্থনৈতিক প্রবৃদ্ধির জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Ekti shoktishali obokathamo orthonaitik probriddhir jonno aporihary.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "logistics",
+            "phonetic": "/ləˈdʒɪs.tɪks/",
+            "word_native_transliteration": {
+                "bn": "লজিস্টিকস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📦",
+            "meaning": "Supply chain management or operation, managing the flow of goods, services or information efficiently.",
+            "example_sentence": "The company improved its logistics to speed up deliveries.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি ইমপ্রুভড ইটস লজিস্টিকস টু স্পিড আপ ডেলিভারিজ।"
+            },
+            "position": 11,
+            "synonyms": "Supply Chain, Coordination, Distribution",
+            "antonyms": "Disorganization, Mismanagement, Inefficiency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সরবরাহ ব্যবস্থাপনা বা পরিচালনা",
+                    "word_transliteration": "shorboraho byabasthapon ba porichalona",
+                    "example_sentence_translation": "কোম্পানিটি সরবরাহ ব্যবস্থাপনা উন্নত করে ডেলিভারি দ্রুত করেছে।",
+                    "example_sentence_transliteration": "Companyti shorboraho byabasthapon unnoto kore delivery druto koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "mitigation",
+            "phonetic": "/ˌmɪt.ɪˈɡeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "মিটিগেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛡️",
+            "meaning": "Reduction or alleviation, measures to reduce harmful effects.",
+            "example_sentence": "Disaster mitigation plans can save lives during emergencies.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিজাস্টার মিটিগেশন প্ল্যানস ক্যান সেভ লাইভস ডিউরিং ইমার্জেন্সিজ।"
+            },
+            "position": 12,
+            "synonyms": "Reduction, Alleviation, Moderation",
+            "antonyms": "Aggravation, Intensification, Exacerbation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রশমন বা হ্রাস করা",
+                    "word_transliteration": "proshomon ba hrash kora",
+                    "example_sentence_translation": "দুর্যোগ প্রশমন পরিকল্পনা জরুরি অবস্থায় জীবন রক্ষা করতে পারে।",
+                    "example_sentence_transliteration": "Duryog proshomon porikolpona joruri obosthay jibon rokkha korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "alleviate",
+            "phonetic": "/əˈliː.vi.eɪt/",
+            "word_native_transliteration": {
+                "bn": "অ্যালিভিয়েট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "😌",
+            "meaning": "To relieve or reduce, to decrease the intensity of any problem or pain.",
+            "example_sentence": "Public transport can alleviate traffic congestion.",
+            "example_sentence_native_transliteration": {
+                "bn": "পাবলিক ট্রান্সপোর্ট ক্যান অ্যালিভিয়েট ট্রাফিক কনজেসশন।"
+            },
+            "position": 13,
+            "synonyms": "Relieve, Reduce, Ease",
+            "antonyms": "Aggravate, Intensify, Worsen",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উপশম করা বা কমানো",
+                    "word_transliteration": "uposhom kora ba komano",
+                    "example_sentence_translation": "গণপরিবহন যানজট কমাতে সাহায্য করতে পারে।",
+                    "example_sentence_transliteration": "Gonporibohon zanjot komate shahayyo korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "transit",
+            "phonetic": "/ˈtræn.zɪt/",
+            "word_native_transliteration": {
+                "bn": "ট্রানজিট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚇",
+            "meaning": "Transportation or travel system, the process of travel or transportation from one place to another.",
+            "example_sentence": "The city is investing in a new transit system.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সিটি ইজ ইনভেস্টিং ইন এ নিউ ট্রানজিট সিস্টেম।"
+            },
+            "position": 14,
+            "synonyms": "Transportation, Passage, Travel",
+            "antonyms": "Immobility, Stagnation, Inactivity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিবহন বা যাতায়াত ব্যবস্থা",
+                    "word_transliteration": "poribohon ba zatayat byabostha",
+                    "example_sentence_translation": "শহরটি একটি নতুন পরিবহন ব্যবস্থায় বিনিয়োগ করছে।",
+                    "example_sentence_transliteration": "Shohorti ekti notun poribohon byabosthai biniyog korche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pedestrianization",
+            "phonetic": "/pɪˌdɛs.tri.ə.naɪˈzeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "পেডেস্ট্রিয়ানাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚶",
+            "meaning": "Making areas pedestrian-friendly, closing any area to vehicle traffic and making it open only for pedestrians.",
+            "example_sentence": "The pedestrianization of city centers reduces pollution.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য পেডেস্ট্রিয়ানাইজেশন অফ সিটি সেন্টারস রিডিউসেস পলিউশন।"
+            },
+            "position": 15,
+            "synonyms": "Walkability, Car-free Zones, Urban Planning",
+            "antonyms": "Motorization, Traffic Access, Congestion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পথচারী বান্ধব করা",
+                    "word_transliteration": "pothchari bandhob kora",
+                    "example_sentence_translation": "শহরের কেন্দ্রস্থল পথচারী বান্ধব করায় দূষণ কমে।",
+                    "example_sentence_transliteration": "Shohorer kendrosthol pothchari bandhob koray dushon kome.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "accessibility",
+            "phonetic": "/əkˌsɛs.əˈbɪl.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "অ্যাক্সেসিবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "♿",
+            "meaning": "Accessibility or availability, easy availability of any place or service.",
+            "example_sentence": "Improved accessibility helps people with disabilities.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইমপ্রুভড অ্যাক্সেসিবিলিটি হেল্পস পিপল উইথ ডিসঅ্যাবিলিটিজ।"
+            },
+            "position": 16,
+            "synonyms": "Availability, Reachability, Inclusivity",
+            "antonyms": "Inaccessibility, Restriction, Exclusion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রবেশযোগ্যতা বা সহজলভ্যতা",
+                    "word_transliteration": "probeshjoggyota ba shohjolabdhyota",
+                    "example_sentence_translation": "উন্নত প্রবেশযোগ্যতা প্রতিবন্ধী ব্যক্তিদের সহায়তা করে।",
+                    "example_sentence_transliteration": "Unnoto probeshjoggyota protibandhi byaktider shahayota kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "exorbitant",
+            "phonetic": "/ɪɡˈzɔː.bɪ.tənt/",
+            "word_native_transliteration": {
+                "bn": "এক্সরবিটান্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💸",
+            "meaning": "Excessively expensive or unreasonably high-priced compared to normal.",
+            "example_sentence": "The exorbitant cost of housing is a major concern.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এক্সরবিটান্ট কস্ট অফ হাউজিং ইজ এ মেজর কনসার্ন।"
+            },
+            "position": 17,
+            "synonyms": "Overpriced, Excessive, Unreasonable",
+            "antonyms": "Affordable, Reasonable, Moderate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতিরিক্ত ব্যয়বহুল বা অযৌক্তিকভাবে দামি",
+                    "word_transliteration": "otiriktyo byoybohuol ba oyouktikoabhabe dami",
+                    "example_sentence_translation": "বাসস্থানের অতিরিক্ত ব্যয় একটি প্রধান উদ্বেগের বিষয়।",
+                    "example_sentence_transliteration": "Bashosthaner otiriktyo byoy ekti prodhan udbeger bishoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sustainability",
+            "phonetic": "/səˌsteɪ.nəˈbɪl.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "সাস্টেইনাবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌱",
+            "meaning": "Long-term durability or balance, the ability to maintain long-term environmental or economic balance.",
+            "example_sentence": "Sustainability is key to preserving natural ecosystems.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাস্টেইনাবিলিটি ইজ কি টু প্রিজার্ভিং ন্যাচারাল ইকোসিস্টেমস।"
+            },
+            "position": 18,
+            "synonyms": "Longevity, Eco-friendliness, Stability",
+            "antonyms": "Unsustainability, Instability, Exhaustion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "টেকসইতা বা দীর্ঘস্থায়ী ভারসাম্য",
+                    "word_transliteration": "tekshoito ba dirghosthayi bharshammyo",
+                    "example_sentence_translation": "টেকসইতা প্রাকৃতিক বাস্তুসংস্থানের সংরক্ষণের মূল চাবিকাঠি।",
+                    "example_sentence_transliteration": "Tekshoito prakritik bastushongstaner shongroksho-ner mool chabikathi.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,472 @@
+{
+    "position": 191,
+    "title_translation": {
+        "en": "The Future of Electric Vehicles",
+        "bn": "বৈদ্যুতিক গাড়ির ভবিষ্যৎ"
+    },
+    "content_translation": {
+        "en": "**Electric vehicles** (EVs) are a major **breakthrough** in reducing environmental pollution worldwide. Currently, the **adoption** in the automotive industry is increasing because using **alternative** energy sources can ensure **sustainability**. Although there are currently shortages of **charging** stations and **infrastructure** problems, rapid **innovation** and **integration** are progressing. The combination of **autonomous** technology will make cars even smarter in the future.\n\nEV **efficiency** is higher and being **carbon-neutral** will reduce pollution. Moreover, this technology will play an important role in reducing **emissions**. Although there are still some limitations regarding **range**, research is ongoing. To ensure environmental **conservation**, **grid** development and **viability** testing are needed. Over time, **electric vehicles** will **revolutionize** the transportation sector and bring about real evolution.",
+        "bn": "বিশ্বজুড়ে পরিবেশ দূষণ কমাতে **electric vehicles** (EVs) একটি বড় **breakthrough**। এখন গাড়ি শিল্পে **adoption** বেড়ে চলেছে, কারণ **alternative** শক্তির ব্যবহার **sustainability** নিশ্চিত করতে পারে। বর্তমানে **charging** স্টেশনের অভাব এবং **infrastructure** সমস্যা থাকলেও, দ্রুত **innovation** এবং **integration** এগিয়ে চলেছে। **Autonomous** প্রযুক্তির সংযোজন ভবিষ্যতে গাড়িকে আরও স্মার্ট করে তুলবে।\n\nEV-র **efficiency** বেশি এবং এটি **carbon-neutral** হওয়ায় দূষণ কমাবে। তাছাড়া, **emission** কমাতে এই প্রযুক্তি গুরুত্বপূর্ণ ভূমিকা রাখবে। যদিও **range** নিয়ে এখনো কিছু সীমাবদ্ধতা রয়েছে, তবে গবেষণা চলমান। পরিবেশের **conservation** নিশ্চিত করতে, **grid** উন্নয়ন এবং **viability** পরীক্ষা করা প্রয়োজন। সময়ের সঙ্গে সঙ্গে, **electric vehicles** পরিবহন খাতে **revolutionize** করবে এবং সত্যিকারের evolution ঘটাবে।"
+    },
+    "list": [
+        {
+            "word": "breakthrough",
+            "phonetic": "ˈbreɪk.θruː",
+            "word_native_transliteration": {
+                "bn": "ব্রেকথ্রু"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚀",
+            "meaning": "An important discovery or development that overcomes a barrier and achieves sudden progress.",
+            "example_sentence": "The scientist made a major breakthrough in renewable energy.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সাইন্টিস্ট মেড এ মেজর ব্রেকথ্রু ইন রিনিউএবল এনার্জি।"
+            },
+            "position": 1,
+            "synonyms": "discovery, advancement, progress, innovation, development, revelation",
+            "antonyms": "setback, stagnation, regression, failure, decline, obstruction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "যুগান্তকারী অগ্রগতি",
+                    "word_transliteration": "jugantokari agragoti",
+                    "example_sentence_translation": "বিজ্ঞানী নবায়নযোগ্য শক্তিতে একটি বড় অগ্রগতি অর্জন করেছেন।",
+                    "example_sentence_transliteration": "Biggani nobayonjoggyo shoktite ekti boro agragoti orjon korechhen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "adoption",
+            "phonetic": "əˈdɒp.ʃən",
+            "word_native_transliteration": {
+                "bn": "অ্যাডপশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📝",
+            "meaning": "The process of accepting, embracing, or taking up something new, such as a practice, technology, or idea.",
+            "example_sentence": "The adoption of electric vehicles is increasing worldwide.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যাডপশন অভ ইলেকট্রিক ভেহিকলস ইজ ইনক্রিসিং ওয়ার্ল্ডওয়াইড।"
+            },
+            "position": 2,
+            "synonyms": "implementation, endorsement, acceptance, embrace, utilization, integration",
+            "antonyms": "rejection, dismissal, abandonment, refusal, neglect, disuse",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গ্রহণ",
+                    "word_transliteration": "grohan",
+                    "example_sentence_translation": "বিশ্বব্যাপী বৈদ্যুতিক যানবাহনের গ্রহণযোগ্যতা বৃদ্ধি পাচ্ছে।",
+                    "example_sentence_transliteration": "Bishwobyapi boidyutik janbaahoner grohonjoggota briddhi pacchhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "alternative",
+            "phonetic": "ɔːlˈtɜː.nə.tɪv",
+            "word_native_transliteration": {
+                "bn": "অল্টারনেটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔄",
+            "meaning": "Available as another possibility or choice; different from the usual or conventional.",
+            "example_sentence": "Solar power is a great alternative to fossil fuels.",
+            "example_sentence_native_transliteration": {
+                "bn": "সোলার পাওয়ার ইজ এ গ্রেট অল্টারনেটিভ টু ফসিল ফিউলস।"
+            },
+            "position": 3,
+            "synonyms": "substitute, replacement, option, choice, different, unconventional",
+            "antonyms": "conventional, traditional, standard, usual, normal, typical",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিকল্প",
+                    "word_transliteration": "bikolpo",
+                    "example_sentence_translation": "সৌর শক্তি জীবাশ্ম জ্ালানির একটি দুর্দান্ত বিকল্প।",
+                    "example_sentence_transliteration": "Sour shokti jibashm jalanir ekti durdanto bikolpo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sustainability",
+            "phonetic": "səˌsteɪ.nəˈbɪl.ə.ti",
+            "word_native_transliteration": {
+                "bn": "সাসটেইনাবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌱",
+            "meaning": "The ability to maintain or support something continuously over time without depleting resources or causing harm.",
+            "example_sentence": "Sustainability is crucial for environmental conservation.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাসটেইনাবিলিটি ইজ ক্রুশিয়াল ফর এনভায়রনমেন্টাল কনজারভেশন।"
+            },
+            "position": 4,
+            "synonyms": "durability, longevity, continuity, permanence, viability, endurance",
+            "antonyms": "instability, unsustainability, temporariness, depletion, exhaustion, destruction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "টেকসইতা",
+                    "word_transliteration": "teksoita",
+                    "example_sentence_translation": "পরিবেশ সংরক্ষণের জন্য টেকসইতা অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Poribesh songrokkhoner jonno teksoita ottyonto guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "charging",
+            "phonetic": "ˈtʃɑː.dʒɪŋ",
+            "word_native_transliteration": {
+                "bn": "চার্জিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔌",
+            "meaning": "The process of supplying electrical energy to recharge a battery or power source.",
+            "example_sentence": "Electric vehicle charging stations are increasing in cities.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইলেকট্রিক ভেহিকল চার্জিং স্টেশনস আর ইনক্রিসিং ইন সিটিজ।"
+            },
+            "position": 5,
+            "synonyms": "powering, recharging, energizing, fueling, supplying, loading",
+            "antonyms": "depleting, discharging, draining, emptying, exhausting, consuming",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চার্জ করা",
+                    "word_transliteration": "charge kora",
+                    "example_sentence_translation": "শহরগুলোতে বৈদ্যুতিক গাড়ির চার্জিং স্টেশন বৃদ্ধি পাচ্ছে।",
+                    "example_sentence_transliteration": "Shohorgulote boidyutik garir charging station briddhi pacchhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "infrastructure",
+            "phonetic": "ˈɪn.frəˌstrʌk.tʃər",
+            "word_native_transliteration": {
+                "bn": "ইনফ্রাস্ট্রাকচার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏗️",
+            "meaning": "The basic physical and organizational structures needed for the operation of a society or enterprise.",
+            "example_sentence": "The country is investing in better road infrastructure.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কান্ট্রি ইজ ইনভেস্টিং ইন বেটার রোড ইনফ্রাস্ট্রাকচার।"
+            },
+            "position": 6,
+            "synonyms": "framework, foundation, structure, system, network, facilities",
+            "antonyms": "fragility, weakness, instability, deterioration, collapse, dysfunction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অবকাঠামো",
+                    "word_transliteration": "obokathamo",
+                    "example_sentence_translation": "দেশটি উন্নত রাস্তা অবকাঠামোতে বিনিয়োগ করছে।",
+                    "example_sentence_transliteration": "Deshti unnoto rasta obokathamoto biniyog korchhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "innovation",
+            "phonetic": "ˌɪn.əˈveɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ইনোভেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💡",
+            "meaning": "The introduction of new ideas, methods, or products; creative and original thinking that leads to improvement.",
+            "example_sentence": "Technological innovation is transforming industries.",
+            "example_sentence_native_transliteration": {
+                "bn": "টেকনোলজিক্যাল ইনোভেশন ইজ ট্রান্সফর্মিং ইন্ডাস্ট্রিজ।"
+            },
+            "position": 7,
+            "synonyms": "invention, creativity, novelty, breakthrough, advancement, modernization",
+            "antonyms": "stagnation, imitation, tradition, conformity, repetition, conventionality",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্ভাবন",
+                    "word_transliteration": "udbhaabon",
+                    "example_sentence_translation": "প্রযুক্তিগত উদ্ভাবন শিল্পগুলিকে রূপান্তরিত করছে।",
+                    "example_sentence_transliteration": "Projuktogoto udbhaabon shilpoguliker rupantorito korchhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "integration",
+            "phonetic": "ˌɪn.tɪˈɡreɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ইন্টিগ্রেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔗",
+            "meaning": "The process of combining or coordinating separate elements into a unified whole.",
+            "example_sentence": "The integration of AI in healthcare is beneficial.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইন্টিগ্রেশন অভ এআই ইন হেলথকেয়ার ইজ বেনিফিশিয়াল।"
+            },
+            "position": 8,
+            "synonyms": "unification, incorporation, combination, merger, coordination, synthesis",
+            "antonyms": "separation, disintegration, isolation, division, fragmentation, segregation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংযোজন",
+                    "word_transliteration": "sonjojon",
+                    "example_sentence_translation": "স্বাস্থ্যসেবায় কৃত্রিম বুদ্ধিমত্তার সংহতি লাভজনক।",
+                    "example_sentence_transliteration": "Swasthyshebay krittim buddhimottar songohoti laabjanak.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "autonomous",
+            "phonetic": "ɔːˈtɒn.ə.məs",
+            "word_native_transliteration": {
+                "bn": "অটোনোমাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🤖",
+            "meaning": "Operating independently without external control; self-governing or self-directing.",
+            "example_sentence": "Autonomous cars are the future of transportation.",
+            "example_sentence_native_transliteration": {
+                "bn": "অটোনোমাস কারস আর দ্য ফিউচার অভ ট্রান্সপোর্টেশন।"
+            },
+            "position": 9,
+            "synonyms": "independent, self-governing, self-directed, automatic, self-sufficient, sovereign",
+            "antonyms": "dependent, controlled, supervised, manual, guided, subordinate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বয়ংক্রিয়",
+                    "word_transliteration": "shoyongkriyo",
+                    "example_sentence_translation": "স্বয়ংক্রিয় গাড়িগুলো পরিবহনের ভবিষ্যৎ।",
+                    "example_sentence_transliteration": "Shoyongkriyo gaarigulo poribohoner bhobishyot.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "efficiency",
+            "phonetic": "ɪˈfɪʃ.ən.si",
+            "word_native_transliteration": {
+                "bn": "এফিশিয়েন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "The ability to accomplish something with minimum waste of time, effort, or resources.",
+            "example_sentence": "Energy efficiency reduces power consumption.",
+            "example_sentence_native_transliteration": {
+                "bn": "এনার্জি এফিশিয়েন্সি রিডিউসেস পাওয়ার কনজামশন।"
+            },
+            "position": 10,
+            "synonyms": "productivity, effectiveness, competency, optimization, proficiency, capability",
+            "antonyms": "inefficiency, wastefulness, incompetence, slowness, inadequacy, dysfunction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষতা",
+                    "word_transliteration": "dokkhota",
+                    "example_sentence_translation": "শক্তির দক্ষতা বিদ্যুৎ খরচ কমায়।",
+                    "example_sentence_transliteration": "Shoktir dokkhota bidyut khoroch komay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "carbon-neutral",
+            "phonetic": "ˌkɑː.bən ˈnjuː.trəl",
+            "word_native_transliteration": {
+                "bn": "কার্বন-নিউট্রাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌍",
+            "meaning": "Having a balance between emitting carbon and absorbing carbon from the atmosphere; not adding to overall carbon emissions.",
+            "example_sentence": "The company aims to be carbon-neutral by 2030.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি এইমস টু বি কার্বন-নিউট্রাল বাই ২০৩০।"
+            },
+            "position": 11,
+            "synonyms": "eco-friendly, sustainable, environmentally neutral, green, clean, emission-free",
+            "antonyms": "polluting, harmful, carbon-positive, environmentally damaging, toxic, contaminating",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কার্বন নিরপেক্ষ",
+                    "word_transliteration": "carbon niropekkho",
+                    "example_sentence_translation": "কোম্পানিটি ২০৩০ সালের মধ্যে কার্বন নিরপেক্ষ হতে চায়।",
+                    "example_sentence_transliteration": "Companiti 2030 saler moddhe carbon niropekkho hote chay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "emission",
+            "phonetic": "ɪˈmɪʃ.ən",
+            "word_native_transliteration": {
+                "bn": "ইমিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💨",
+            "meaning": "The release or discharge of gases, particles, or other substances into the environment.",
+            "example_sentence": "Car manufacturers are reducing carbon emissions.",
+            "example_sentence_native_transliteration": {
+                "bn": "কার ম্যানুফ্যাকচারারস আর রিডিউসিং কার্বন ইমিশনস।"
+            },
+            "position": 12,
+            "synonyms": "discharge, release, output, expulsion, emanation, excretion",
+            "antonyms": "containment, reduction, absorption, suppression, retention, capture",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিঃসরণ",
+                    "word_transliteration": "nihsoron",
+                    "example_sentence_translation": "গাড়ি নির্মাতারা কার্বন নিঃসরণ কমাচ্ছে।",
+                    "example_sentence_transliteration": "Gaari nirmataara carbon nihsoron komacchhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "range",
+            "phonetic": "reɪndʒ",
+            "word_native_transliteration": {
+                "bn": "রেঞ্জ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📏",
+            "meaning": "The extent or scope of something; the distance that can be covered or the limits within which something operates.",
+            "example_sentence": "The new electric car has a range of 400 miles.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিউ ইলেকট্রিক কার হ্যাজ এ রেঞ্জ অভ ৪০০ মাইলস।"
+            },
+            "position": 13,
+            "synonyms": "scope, extent, reach, span, distance, coverage",
+            "antonyms": "limitation, constraint, restriction, boundary, confinement, narrowness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিসীমা",
+                    "word_transliteration": "porisima",
+                    "example_sentence_translation": "নতুন বৈদ্যুতিক গাড়ির পরিসীমা ৪০০ মাইল।",
+                    "example_sentence_transliteration": "Notun boidyutik garir porisima 400 mile.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "conservation",
+            "phonetic": "ˌkɒn.səˈveɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "কনজারভেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛡️",
+            "meaning": "The protection, preservation, and careful management of natural resources and the environment.",
+            "example_sentence": "Water conservation is essential for sustainability.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওয়াটার কনজারভেশন ইজ এসেনশিয়াল ফর সাসটেইনাবিলিটি।"
+            },
+            "position": 14,
+            "synonyms": "preservation, protection, safeguarding, maintenance, stewardship, care",
+            "antonyms": "destruction, exploitation, waste, depletion, consumption, misuse",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংরক্ষণ",
+                    "word_transliteration": "songrokkhon",
+                    "example_sentence_translation": "জল সংরক্ষণ টেকসইতার জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Jol songrokkhon teksoitar jonno oporihaarjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "grid",
+            "phonetic": "ɡrɪd",
+            "word_native_transliteration": {
+                "bn": "গ্রিড"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "A network of interconnected lines or a system for distributing electricity over a wide area.",
+            "example_sentence": "The national power grid must be upgraded.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ন্যাশনাল পাওয়ার গ্রিড মাস্ট বি আপগ্রেডেড।"
+            },
+            "position": 15,
+            "synonyms": "network, framework, system, matrix, infrastructure, web",
+            "antonyms": "disconnection, isolation, separation, fragmentation, disruption, breakdown",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গ্রিড",
+                    "word_transliteration": "grid",
+                    "example_sentence_translation": "জাতীয় বিদ্যুৎ গ্রিড উন্নত করতে হবে।",
+                    "example_sentence_transliteration": "Jatiyo bidyut grid unnoto korote hobe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "viability",
+            "phonetic": "ˌvaɪ.əˈbɪl.ə.ti",
+            "word_native_transliteration": {
+                "bn": "ভায়াবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✅",
+            "meaning": "The ability to work successfully or be effective; feasibility and practicality of a plan or method.",
+            "example_sentence": "The economic viability of the project is uncertain.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইকোনমিক ভায়াবিলিটি অভ দ্য প্রজেক্ট ইজ আনসার্টেন।"
+            },
+            "position": 16,
+            "synonyms": "feasibility, practicality, workability, sustainability, effectiveness, potential",
+            "antonyms": "impracticality, failure, impossibility, unworkability, ineffectiveness, futility",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কার্যকারিতা",
+                    "word_transliteration": "karjokaarita",
+                    "example_sentence_translation": "প্রকল্পের অর্থনৈতিক কার্যকারিতা অনিশ্চিত।",
+                    "example_sentence_transliteration": "Prokolper orthonaiytik karjokaarita onishchito.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "revolutionize",
+            "phonetic": "ˌrev.əˈluː.ʃən.aɪz",
+            "word_native_transliteration": {
+                "bn": "রেভলিউশনাইজ"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔄",
+            "meaning": "To completely change or transform something in a radical or fundamental way.",
+            "example_sentence": "AI is revolutionizing the medical industry.",
+            "example_sentence_native_transliteration": {
+                "bn": "এআই ইজ রেভলিউশনাইজিং দ্য মেডিকেল ইন্ডাস্ট্রি।"
+            },
+            "position": 17,
+            "synonyms": "transform, innovate, modernize, reform, overhaul, restructure",
+            "antonyms": "maintain, preserve, stagnate, conserve, keep, retain",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিপ্লব ঘটানো",
+                    "word_transliteration": "biplob ghatano",
+                    "example_sentence_translation": "কৃত্রিম বুদ্ধিমত্তা চিকিৎসা শিল্পে বিপ্লব ঘটাচ্ছে।",
+                    "example_sentence_transliteration": "Krittim buddhimotta chikitsha shilpe biplob ghatacchhe.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

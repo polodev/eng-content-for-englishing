@@ -1,0 +1,526 @@
+{
+    "position": 200,
+    "title_translation": {
+        "en": "The Importance of Livestock Farming",
+        "bn": "পশুসম্পদ চাষের গুরুত্ব"
+    },
+    "content_translation": {
+        "en": "**Livestock farming** is a crucial component of modern **agroecosystems**, helping ensure **sustainability**. It not only serves food production but also works as a means of **biodiversity** conservation. Many rural families sustain their livelihoods through **subsistence** agriculture, where **pastoralism** and **husbandry** are their main sources of income. Livestock **manure** increases soil fertility and plays a role in the **carbon sequestration** process, maintaining environmental balance.\n\nCurrently, due to **commodification** and commercialization, **macroeconomic** importance has increased, enhancing the country's **viability** and economic stability. When **forage** production and animal feed supply improve, **efficacy** increases.\n\nHowever, unplanned livestock farming can increase **deposition** and soil erosion along with **demographic** changes. Therefore, it is necessary to maintain **autarky** while **bolstering**, so that it can become a **catalyst** for long-term development.",
+        "bn": "**Livestock farming** আধুনিক **agroecosystem**-এর একটি গুরুত্বপূর্ণ অংশ, যা **sustainability** নিশ্চিত করতে সাহায্য করে। এটি শুধু খাদ্য উৎপাদনের জন্য নয়, বরং **biodiversity** সংরক্ষণের মাধ্যম হিসেবেও কাজ করে। গ্রামের অনেক পরিবার **subsistence** কৃষির মাধ্যমে জীবনধারণ করে, যেখানে **pastoralism** এবং **husbandry** তাদের মূল উপার্জনের উৎস। গবাদি পশুর **manure** মাটির উর্বরতা বাড়ায় এবং **carbon sequestration** প্রক্রিয়ায় ভূমিকা রাখে, যা পরিবেশের ভারসাম্য রক্ষা করে।\n\nবর্তমানে, **commodification** এবং বাণিজ্যিকীকরণের ফলে **macroeconomic** গুরুত্ব বেড়েছে, যা দেশের **viability** ও অর্থনৈতিক স্থিতিশীলতা বাড়ায়। **Forage** উৎপাদন এবং প্রাণীদের খাদ্য সরবরাহ উন্নত হলে, **efficacy** বৃদ্ধি পায়।\n\nকিন্তু, অপরিকল্পিত পশুপালন **demographic** পরিবর্তনের সঙ্গে **deposition** এবং মাটির ক্ষয় বাড়াতে পারে। তাই, **autarky** বজায় রেখে **bolster** করা প্রয়োজন, যাতে এটি দীর্ঘমেয়াদী উন্নতির **catalyst** হয়ে উঠতে পারে।"
+    },
+    "list": [
+        {
+            "word": "livestock farming",
+            "phonetic": "ˈlaɪv.stɒk ˈfɑː.mɪŋ",
+            "word_native_transliteration": {
+                "bn": "লাইভস্টক ফার্মিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🐄",
+            "meaning": "The breeding, raising, and care of farm animals such as cattle, horses, sheep, and pigs for food, fiber, and other products.",
+            "example_sentence": "Livestock farming plays a crucial role in food security.",
+            "example_sentence_native_transliteration": {
+                "bn": "লাইভস্টক ফার্মিং প্লেজ এ ক্রুশিয়াল রোল ইন ফুড সিকিউরিটি।"
+            },
+            "position": 1,
+            "synonyms": "animal husbandry, cattle rearing",
+            "antonyms": "crop farming, horticulture",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গবাদি পশু পালন, পশু খামার ব্যবস্থাপনা, প্রাণিসম্পদ চাষ",
+                    "word_transliteration": "gobadi poshu palon, poshu khamar bebostthapona, pranisomp0d chas",
+                    "example_sentence_translation": "লাইভস্টক ফার্মিং খাদ্য নিরাপত্তায় গুরুত্বপূর্ণ ভূমিকা রাখে।",
+                    "example_sentence_transliteration": "Livestock farming khaddo nirappottay gurutpurno bhumika rakhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "agroecosystem",
+            "phonetic": "ˈæɡ.rəʊ ˌiː.kəʊˌsɪs.təm",
+            "word_native_transliteration": {
+                "bn": "অ্যাগ্রো ইকোসিস্টেম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌱",
+            "meaning": "An agricultural system that includes living and nonliving components and their interactions within an agricultural setting.",
+            "example_sentence": "A well-maintained agroecosystem enhances soil fertility.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ ওয়েল-মেইনটেইনড অ্যাগ্রো ইকোসিস্টেম এনহান্সেস সয়েল ফার্টিলিটি।"
+            },
+            "position": 2,
+            "synonyms": "agricultural ecology, farming system",
+            "antonyms": "urban ecosystem, industrial system",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কৃষি ভিত্তিক বাস্তুতন্ত্র, চাষাবাদ ব্যবস্থার পরিবেশগত দিক",
+                    "word_transliteration": "krishi bhittik bastutontro, chasabad bebbosthar poribeshgot dik",
+                    "example_sentence_translation": "একটি সঠিকভাবে পরিচালিত অ্যাগ্রো ইকোসিস্টেম মাটির উর্বরতা বৃদ্ধি করে।",
+                    "example_sentence_transliteration": "Ekti sothikbhabe porichalit agro ecosystem matir urborotha briddhi kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sustainability",
+            "phonetic": "səˌsteɪ.nəˈbɪl.ə.ti",
+            "word_native_transliteration": {
+                "bn": "সাসটেইনেবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "♻️",
+            "meaning": "The ability to maintain or support a process continuously over time without depleting natural resources or causing environmental damage.",
+            "example_sentence": "Sustainability in agriculture ensures long-term food production.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাসটেইনেবিলিটি ইন অ্যাগ্রিকালচার এনশিওরস লং-টার্ম ফুড প্রোডাকশন।"
+            },
+            "position": 3,
+            "synonyms": "eco-friendliness, longevity",
+            "antonyms": "unsustainability, instability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "টেকসই উন্নয়ন, দীর্ঘস্থায়িত্ব, পরিবেশগত ভারসাম্য",
+                    "word_transliteration": "teksoi unnayan, dirghostthayitbo, poribeshgot bharsamyo",
+                    "example_sentence_translation": "কৃষিতে সাসটেইনেবিলিটি দীর্ঘমেয়াদী খাদ্য উৎপাদন নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Krishite sustainability dirghomeyadi khaddo utpadon nishcit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "biodiversity",
+            "phonetic": "ˌbaɪ.əʊ.daɪˈvɜː.sɪ.ti",
+            "word_native_transliteration": {
+                "bn": "বায়োডাইভার্সিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🦋",
+            "meaning": "The variety of life in the world or in a particular habitat or ecosystem, including diversity within species, between species, and of ecosystems.",
+            "example_sentence": "Biodiversity conservation is crucial for a balanced ecosystem.",
+            "example_sentence_native_transliteration": {
+                "bn": "বায়োডাইভার্সিটি কনজার্ভেশন ইজ ক্রুশিয়াল ফর এ ব্যালানসড ইকোসিস্টেম।"
+            },
+            "position": 4,
+            "synonyms": "ecosystem variety, genetic diversity",
+            "antonyms": "monoculture, habitat loss",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জীববৈচিত্র্য, প্রাকৃতিক পরিবেশে বিভিন্ন প্রজাতির অস্তিত্ব",
+                    "word_transliteration": "jibboichittro, prakritik poribesh-e bibhinno projatir ostiitbo",
+                    "example_sentence_translation": "বায়োডাইভার্সিটি সংরক্ষণ একটি ভারসাম্যপূর্ণ বাস্তুতন্ত্রের জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Biodiversity sngrokkhon ekti bharsamyopurno bastutontrer jonno oporiharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "subsistence",
+            "phonetic": "səbˈsɪs.təns",
+            "word_native_transliteration": {
+                "bn": "সাবসিস্টেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌾",
+            "meaning": "The action or fact of maintaining or supporting oneself at a minimum level, especially with basic necessities like food and shelter.",
+            "example_sentence": "Many rural communities rely on subsistence farming.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেনি রুরাল কমিউনিটিজ রিলাই অন সাবসিস্টেন্স ফার্মিং।"
+            },
+            "position": 5,
+            "synonyms": "self-sufficiency, minimal survival",
+            "antonyms": "luxury, surplus",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বেঁচে থাকার জন্য ন্যূনতম সম্পদ ব্যবহার, স্বনির্ভর কৃষি",
+                    "word_transliteration": "beche thakar jonno nnynotom sompod bebbohar, swnnirbhor krishi",
+                    "example_sentence_translation": "অনেক গ্রামীণ সম্প্রদায় সাবসিস্টেন্স কৃষির উপর নির্ভরশীল।",
+                    "example_sentence_transliteration": "Onek gramin shomprodayo subsistence krishir upor nirbhorshil.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pastoralism",
+            "phonetic": "ˈpɑː.stər.ə.lɪ.zəm",
+            "word_native_transliteration": {
+                "bn": "পাস্টোরালিজম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🐑",
+            "meaning": "A form of animal husbandry where domesticated animals are released onto large vegetated outdoor lands for grazing.",
+            "example_sentence": "Pastoralism is a traditional way of managing livestock.",
+            "example_sentence_native_transliteration": {
+                "bn": "পাস্টোরালিজম ইজ এ ট্র্যাডিশনাল ওয়ে অব ম্যানেজিং লাইভস্টক।"
+            },
+            "position": 6,
+            "synonyms": "herding, grazing system",
+            "antonyms": "industrial farming, urbanization",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "যাযাবর পশুপালন, ঘাসভিত্তিক চারণ ব্যবস্থা",
+                    "word_transliteration": "jajabor poshupalon, ghasbhittik charon bebosttha",
+                    "example_sentence_translation": "পাস্টোরালিজম গবাদি পশু ব্যবস্থাপনার একটি ঐতিহ্যবাহী পদ্ধতি।",
+                    "example_sentence_transliteration": "Pastoralism gobadi poshu bebbosthapnar ekti oitihhobahi podddhoti.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "husbandry",
+            "phonetic": "ˈhʌz.bən.dri",
+            "word_native_transliteration": {
+                "bn": "হাজব্যান্ড্রি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚜",
+            "meaning": "The care, cultivation, and breeding of crops and animals; farming and agriculture.",
+            "example_sentence": "Proper husbandry techniques improve livestock health.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোপার হাজব্যান্ড্রি টেকনিকস ইমপ্রুভ লাইভস্টক হেলথ।"
+            },
+            "position": 7,
+            "synonyms": "farming, animal care",
+            "antonyms": "neglect, mismanagement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কৃষি ও প্রাণিসম্পদ ব্যবস্থাপনা, গবাদি পশুর যত্ন",
+                    "word_transliteration": "krishi o pranishompod bebostthapana, gobadi poshur jotno",
+                    "example_sentence_translation": "সঠিক হাজব্যান্ড্রি কৌশল গবাদি পশুর স্বাস্থ্যের উন্নতি ঘটায়।",
+                    "example_sentence_transliteration": "Sothik husbandry koushol gobadi poshur swasthhyer unnoti ghotay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "manure",
+            "phonetic": "məˈnjʊər",
+            "word_native_transliteration": {
+                "bn": "ম্যানিউর"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💩",
+            "meaning": "Animal dung used for fertilizing land; organic matter used as fertilizer.",
+            "example_sentence": "Organic manure enhances soil fertility.",
+            "example_sentence_native_transliteration": {
+                "bn": "অরগ্যানিক ম্যানিউর এনহান্সেস সয়েল ফার্টিলিটি।"
+            },
+            "position": 8,
+            "synonyms": "fertilizer, compost",
+            "antonyms": "chemical fertilizer, pollution",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সার, পশুর বিষ্ঠা থেকে উৎপন্ন জৈব সার",
+                    "word_transliteration": "shar, poshur bishttha theke utpanno joib shar",
+                    "example_sentence_translation": "জৈব ম্যানিউর মাটির উর্বরতা বাড়ায়।",
+                    "example_sentence_transliteration": "Joib manure matir urborotha baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "carbon sequestration",
+            "phonetic": "ˈkɑː.bən ˌsiː.kwɪˈstreɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "কার্বন সিকোয়েস্ট্রেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌍",
+            "meaning": "The process of storing carbon dioxide in vegetation, soils, geological formations, and the ocean to reduce carbon dioxide concentrations in the atmosphere.",
+            "example_sentence": "Carbon sequestration helps combat climate change.",
+            "example_sentence_native_transliteration": {
+                "bn": "কার্বন সিকোয়েস্ট্রেশন হেলপস কমব্যাট ক্লাইমেট চেঞ্জ।"
+            },
+            "position": 9,
+            "synonyms": "CO₂ capture, carbon storage",
+            "antonyms": "carbon emission, pollution",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কার্বন সংরক্ষণ, বায়ুমণ্ডল থেকে কার্বন ডাই অক্সাইড শোষণ",
+                    "word_transliteration": "carbon shongrokkhon, bayumondol theke carbon di oxide shoshhon",
+                    "example_sentence_translation": "কার্বন সিকোয়েস্ট্রেশন জলবায়ু পরিবর্তন প্রতিরোধে সহায়তা করে।",
+                    "example_sentence_transliteration": "Carbon sequestration jolbayu poribortton protirodhe shohayota kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "commodification",
+            "phonetic": "kəˌmɒd.ɪ.fɪˈkeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "কমোডিফিকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💰",
+            "meaning": "The transformation of goods, services, ideas, or other entities that may not normally be considered goods into market goods.",
+            "example_sentence": "The commodification of natural resources threatens biodiversity.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কমোডিফিকেশন অব ন্যাচারাল রিসোর্সেস থ্রেটেনস বায়োডাইভার্সিটি।"
+            },
+            "position": 10,
+            "synonyms": "commercialization, marketization",
+            "antonyms": "preservation, protection",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পণ্যায়ন, কৃষি ও পরিবেশগত উপাদানকে বাণিজ্যিক পণ্যে রূপান্তর",
+                    "word_transliteration": "ponnyayon, krishi o poribeshgot upadanke banijjyik ponnye rupantor",
+                    "example_sentence_translation": "প্রাকৃতিক সম্পদের কমোডিফিকেশন জীববৈচিত্র্যের জন্য হুমকিস্বরূপ।",
+                    "example_sentence_transliteration": "Prakritik shompoder commodification jibboichittrer jonno humkisworup.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "macroeconomic",
+            "phonetic": "ˌmæk.rəʊˌiː.kəˈnɒm.ɪk",
+            "word_native_transliteration": {
+                "bn": "ম্যাক্রোইকোনমিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📊",
+            "meaning": "Relating to the large-scale or general economic factors, such as interest rates and national productivity.",
+            "example_sentence": "Macroeconomic policies influence inflation and GDP growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "ম্যাক্রোইকোনমিক পলিসিজ ইনফ্লুয়েন্স ইনফ্লেশন অ্যান্ড জিডিপি গ্রোথ।"
+            },
+            "position": 11,
+            "synonyms": "national economy, fiscal policy",
+            "antonyms": "microeconomic, localized",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সামষ্টিক অর্থনীতি, বৃহৎ অর্থনৈতিক প্রবাহ সম্পর্কিত",
+                    "word_transliteration": "shamoshtik orthoniti, briihot orthnoitik probah shomporkito",
+                    "example_sentence_translation": "ম্যাক্রোইকোনমিক নীতিগুলো মুদ্রাস্ফীতি ও জিডিপি প্রবৃদ্ধিকে প্রভাবিত করে।",
+                    "example_sentence_transliteration": "Macroeconomic nitigulo mudrasphiti o GDP probriddhi ke prabhabo it kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "viability",
+            "phonetic": "ˌvaɪ.əˈbɪl.ə.ti",
+            "word_native_transliteration": {
+                "bn": "ভায়াবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✅",
+            "meaning": "The ability to work successfully; the ability to survive or live successfully.",
+            "example_sentence": "The viability of the startup depends on proper investment.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ভায়াবিলিটি অব দ্য স্টার্টআপ ডিপেন্ডস অন প্রোপার ইনভেস্টমেন্ট।"
+            },
+            "position": 12,
+            "synonyms": "feasibility, sustainability",
+            "antonyms": "infeasibility, fragility",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "টেকসইতা, বেঁচে থাকার বা কার্যকর থাকার সামর্থ্য",
+                    "word_transliteration": "teksoita, beche thakar ba karjyokor thakar shamorthyo",
+                    "example_sentence_translation": "স্টার্টআপের ভায়াবিলিটি সঠিক বিনিয়োগের উপর নির্ভর করে।",
+                    "example_sentence_transliteration": "Startap-er viability sothik biniyoger upor nirbhor kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "forage",
+            "phonetic": "ˈfɒr.ɪdʒ",
+            "word_native_transliteration": {
+                "bn": "ফোরেজ"
+            },
+            "parts_of_speech": "noun/verb",
+            "emoji": "🌿",
+            "meaning": "Food for horses and cattle, especially dried hay or feed; to search for food.",
+            "example_sentence": "Animals forage for food during the winter months.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যানিমেলস ফোরেজ ফর ফুড ডিউরিং দ্য উইন্টার মানথস।"
+            },
+            "position": 13,
+            "synonyms": "scavenge, hunt",
+            "antonyms": "starvation, deprivation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পশুখাদ্য, খাবারের সন্ধান করা",
+                    "word_transliteration": "poshukhadyo, khabarer sondhan kora",
+                    "example_sentence_translation": "শীতকালে প্রাণীরা খাবারের জন্য ফোরেজ করে।",
+                    "example_sentence_transliteration": "Shitkale pranira khabarer jonno forage kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "efficacy",
+            "phonetic": "ˈef.ɪ.kə.si",
+            "word_native_transliteration": {
+                "bn": "এফিক্যাসি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The ability to produce a desired or intended result; effectiveness.",
+            "example_sentence": "The efficacy of the new vaccine has been proven.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এফিক্যাসি অব দ্য নিউ ভ্যাকসিন হ্যাজ বিন প্রুভেন।"
+            },
+            "position": 14,
+            "synonyms": "effectiveness, potency",
+            "antonyms": "ineffectiveness, uselessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কার্যকারিতা, নির্দিষ্ট ফলাফল অর্জনের ক্ষমতা",
+                    "word_transliteration": "karjyokarita, nirdishto pholaophol orjoner khomota",
+                    "example_sentence_translation": "নতুন টিকার এফিক্যাসি প্রমাণিত হয়েছে।",
+                    "example_sentence_transliteration": "Notun tikar efficacy promanto hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "demographic",
+            "phonetic": "ˌdem.əˈɡræf.ɪk",
+            "word_native_transliteration": {
+                "bn": "ডেমোগ্রাফিক"
+            },
+            "parts_of_speech": "adjective/noun",
+            "emoji": "👥",
+            "meaning": "Relating to the structure of populations; statistical data relating to the population and particular groups within it.",
+            "example_sentence": "The company analyzes demographic trends before launching a product.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি অ্যানালাইজেস ডেমোগ্রাফিক ট্রেন্ডস বিফোর লঞ্চিং এ প্রোডাক্ট।"
+            },
+            "position": 15,
+            "synonyms": "population data, census analysis",
+            "antonyms": "individual, specific",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জনসংখ্যাগত বৈশিষ্ট্য, জনগোষ্ঠী সংক্রান্ত পরিসংখ্যান",
+                    "word_transliteration": "jonshongkhyagoto boishishtyo, jongoshthi shongkranto porishongkhyan",
+                    "example_sentence_translation": "কোম্পানি পণ্য বাজারজাত করার আগে ডেমোগ্রাফিক প্রবণতা বিশ্লেষণ করে।",
+                    "example_sentence_transliteration": "Company ponyo bajarjat korar age demographic probonota bishleshon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "deposition",
+            "phonetic": "ˌdep.əˈzɪʃ.ən",
+            "word_native_transliteration": {
+                "bn": "ডিপোজিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏔️",
+            "meaning": "The action of depositing something; the laying down of matter by a natural process.",
+            "example_sentence": "River deposition leads to the formation of new landmasses.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিভার ডিপোজিশন লিডস টু দ্য ফরমেশন অব নিউ ল্যান্ডম্যাসেস।"
+            },
+            "position": 16,
+            "synonyms": "sedimentation, removal",
+            "antonyms": "erosion, depletion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জমা, কোনো পদার্থ বা ব্যক্তির অপসারণ প্রক্রিয়া",
+                    "word_transliteration": "joma, kono podartho ba bekktyir oposharon prokriya",
+                    "example_sentence_translation": "নদীর ডিপোজিশন নতুন ভূমি গঠনের কারণ হয়ে দাঁড়ায়।",
+                    "example_sentence_transliteration": "Nodir deposition notun bhumi gothoner karon hoye daray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "autarky",
+            "phonetic": "ˈɔː.tɑː.ki",
+            "word_native_transliteration": {
+                "bn": "অটার্কি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏛️",
+            "meaning": "Economic independence or self-sufficiency; a policy of establishing a self-sufficient national economy.",
+            "example_sentence": "Some nations aim for autarky to reduce reliance on imports.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাম নেশনস এইম ফর অটার্কি টু রিডিউস রিলায়েন্স অন ইমপোর্টস।"
+            },
+            "position": 17,
+            "synonyms": "self-sufficiency, economic independence",
+            "antonyms": "globalization, dependence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বনির্ভর অর্থনীতি, নিজস্ব উৎপাদন ব্যবস্থার মাধ্যমে অর্থনৈতিক স্থিতিশীলতা",
+                    "word_transliteration": "swonirbhor orthoniti, nijosh utpadon bebosthar madhyome orthnoitik sthitishilota",
+                    "example_sentence_translation": "কিছু দেশ আমদানি নির্ভরতা কমাতে অটার্কি লক্ষ্য করে।",
+                    "example_sentence_transliteration": "Kichu desh amdani nirbhorotha komate autarky lokkhyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "bolster",
+            "phonetic": "ˈbɒl.stər",
+            "word_native_transliteration": {
+                "bn": "বোলস্টার"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "💪",
+            "meaning": "To support or strengthen; to make stronger or more confident.",
+            "example_sentence": "The government plans to bolster economic growth through subsidies.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গভর্নমেন্ট প্ল্যানস টু বোলস্টার ইকোনমিক গ্রোথ থ্রু সাবসিডিজ।"
+            },
+            "position": 18,
+            "synonyms": "strengthen, support",
+            "antonyms": "undermine, weaken",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শক্তিশালী করা, সহায়তা প্রদান করা",
+                    "word_transliteration": "shokktishali kora, shohayota prodan kora",
+                    "example_sentence_translation": "সরকার ভর্তুকির মাধ্যমে অর্থনৈতিক প্রবৃদ্ধি বোলস্টার করার পরিকল্পনা করছে।",
+                    "example_sentence_transliteration": "Shorkar bhortukir madhyome orthnoitik probriddhi bolster korar porikolpona korche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "catalyst",
+            "phonetic": "ˈkæt.əl.ɪst",
+            "word_native_transliteration": {
+                "bn": "ক্যাটালিস্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "A person or thing that precipitates an event; something that causes activity between two or more persons or forces without itself being affected.",
+            "example_sentence": "Innovation acts as a catalyst for industrial growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনোভেশন অ্যাক্টস অ্যাজ এ ক্যাটালিস্ট ফর ইন্ডাস্ট্রিয়াল গ্রোথ।"
+            },
+            "position": 19,
+            "synonyms": "accelerator, stimulus",
+            "antonyms": "obstacle, hindrance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রক্রিয়াকে ত্বরান্বিতকারী উপাদান বা ব্যক্তি",
+                    "word_transliteration": "prokriyake twroanbittokari upadon ba bekti",
+                    "example_sentence_translation": "নতুন উদ্ভাবন শিল্প প্রবৃদ্ধির ক্যাটালিস্ট হিসেবে কাজ করে।",
+                    "example_sentence_transliteration": "Notun uddbhabon shilpo probriddhi r catalyst hishebe kaj kore.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

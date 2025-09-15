@@ -1,0 +1,364 @@
+{
+    "position": 196,
+    "title_translation": {
+        "en": "The Impact of Nature on Stress",
+        "bn": "প্রকৃতির মানসিক চাপের উপর প্রভাব"
+    },
+    "content_translation": {
+        "en": "Modern life's **anxiety** and mental stress are increasing day by day. However, establishing a connection with nature can significantly **alleviate** this. Spending time among trees, rivers, or mountains is a kind of **cathartic** experience that calms the mind.\n\nNatural environments enhance our **cerebral** thinking and help **invigorate** our bodies. People who regularly engage in **contemplation** or walking in nature can maintain better psychological **equilibrium**.\n\nNature's **harmonious** beauty increases our **stimuli**, which accelerates the mental **rejuvenation** process. Simply sitting in a **serene** environment for a while creates a feeling of **exhilaration**.\n\nTherefore, being close to nature is essential not only for physical health but also for mental peace. Through this, we can make our lives more **lucid**, clear, and positive.",
+        "bn": "আধুনিক জীবনের **anxiety** এবং মানসিক চাপ দিন দিন বেড়েই চলেছে। তবে প্রকৃতির সাথে সংযোগ স্থাপন করলে এটি উল্লেখযোগ্যভাবে **alleviate** হতে পারে। গাছপালা, নদী বা পাহাড়ের মাঝে সময় কাটানো একধরনের **cathartic** অভিজ্ঞতা, যা মনকে শান্ত করে।\n\nপ্রাকৃতিক পরিবেশ আমাদের **cerebral** চিন্তাভাবনা উন্নত করে এবং আমাদের শরীরকে **invigorate** করতে সাহায্য করে। যেসব মানুষ নিয়মিত প্রকৃতির মধ্যে **contemplation** বা হাঁটাহাঁটি করে, তারা তুলনামূলকভাবে মানসিকভাবে বেশি **equilibrium** বজায় রাখতে পারে।\n\nপ্রকৃতির **harmonious** সৌন্দর্য আমাদের **stimuli** বাড়ায়, যা মানসিক **rejuvenate** প্রক্রিয়াকে ত্বরান্বিত করে। শুধু একটি **serene** পরিবেশে কিছুক্ষণ বসে থাকলেই **exhilaration** অনুভূত হয়।\n\nঅতএব, প্রকৃতির সান্নিধ্য নেওয়া শুধু শারীরিক স্বাস্থ্যের জন্য নয়, বরং মানসিক প্রশান্তির জন্যও অপরিহার্য। এর মাধ্যমে আমরা আমাদের জীবনকে আরও **lucid**, স্বচ্ছ এবং ইতিবাচক করে তুলতে পারি।"
+    },
+    "list": [
+        {
+            "word": "anxiety",
+            "phonetic": "/æŋˈzaɪ.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "অ্যাংজাইটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "😰",
+            "meaning": "A feeling of worry, nervousness, or unease about something with an uncertain outcome or a mental condition characterized by excessive uneasiness.",
+            "example_sentence": "Meditation helps reduce anxiety and stress.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেডিটেশন হেল্পস রিডিউস অ্যাংজাইটি অ্যান্ড স্ট্রেস।"
+            },
+            "position": 1,
+            "synonyms": "stress, nervousness, worry",
+            "antonyms": "calmness, relaxation, confidence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্বেগ বা দুশ্চিন্তা",
+                    "word_transliteration": "udbeg ba dushchinta",
+                    "example_sentence_translation": "ধ্যান উদ্বেগ এবং চাপ কমাতে সহায়তা করে।",
+                    "example_sentence_transliteration": "Dhyan udbeg ebong chap kamate sahayata kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "alleviate",
+            "phonetic": "/əˈliː.vi.eɪt/",
+            "word_native_transliteration": {
+                "bn": "অ্যালিভিয়েট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "💆",
+            "meaning": "To make suffering, deficiency, or a problem less severe or more bearable.",
+            "example_sentence": "Meditation helps alleviate stress and anxiety.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেডিটেশন হেল্পস অ্যালিভিয়েট স্ট্রেস অ্যান্ড অ্যাংজাইটি।"
+            },
+            "position": 2,
+            "synonyms": "relieve, reduce, ease",
+            "antonyms": "aggravate, intensify, worsen",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উপশম করা বা কমানো",
+                    "word_transliteration": "uposhom kora ba kamano",
+                    "example_sentence_translation": "ধ্যান চাপ ও উদ্বেগ কমাতে সহায়ক।",
+                    "example_sentence_transliteration": "Dhyan chap o udbeg kamate sahayok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cathartic",
+            "phonetic": "/kəˈθɑːr.tɪk/",
+            "word_native_transliteration": {
+                "bn": "ক্যাথার্টিক"
+            },
+            "parts_of_speech": "adjective/noun",
+            "emoji": "🧘",
+            "meaning": "Providing psychological relief through the open expression of strong emotions; purging.",
+            "example_sentence": "Writing can be a cathartic experience for emotional healing.",
+            "example_sentence_native_transliteration": {
+                "bn": "রাইটিং ক্যান বি এ ক্যাথার্টিক এক্সপেরিয়েন্স ফর ইমোশনাল হিলিং।"
+            },
+            "position": 3,
+            "synonyms": "purifying, cleansing, releasing",
+            "antonyms": "suppressive, stressful, restrictive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আবেগ মুক্তিকর বা প্রশান্তিদায়ক",
+                    "word_transliteration": "abeg muktikor ba proshantidayok",
+                    "example_sentence_translation": "লেখালেখি আবেগগত নিরাময়ের জন্য একটি মুক্তিদায়ক অভিজ্ঞতা হতে পারে।",
+                    "example_sentence_transliteration": "Lekhalekhi abeggoto niramayer jonno ekti muktidayok obhiggota hote pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cerebral",
+            "phonetic": "/ˈsɛr.ɪ.brəl/",
+            "word_native_transliteration": {
+                "bn": "সেরিব্রাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧠",
+            "meaning": "Of or relating to the brain or intellect; intellectual rather than emotional or physical.",
+            "example_sentence": "The novel was highly cerebral, requiring deep analysis.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নভেল ওয়াজ হাইলি সেরিব্রাল, রিকোয়ারিং ডিপ অ্যানালাইসিস।"
+            },
+            "position": 4,
+            "synonyms": "intellectual, brainy, thoughtful",
+            "antonyms": "emotional, unintellectual, instinctive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বুদ্ধিবৃত্তিক বা মস্তিষ্কসংক্রান্ত",
+                    "word_transliteration": "buddhibrittik ba mostishkoshongkranto",
+                    "example_sentence_translation": "উপন্যাসটি অত্যন্ত বুদ্ধিবৃত্তিক, যা গভীর বিশ্লেষণ প্রয়োজন।",
+                    "example_sentence_transliteration": "Uponashti ottyonto buddhibrittik, ja gobhir bishlesho proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "invigorate",
+            "phonetic": "/ɪnˈvɪɡ.ər.eɪt/",
+            "word_native_transliteration": {
+                "bn": "ইনভিগোরেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⚡",
+            "meaning": "To give strength or energy to; to make more vigorous and lively.",
+            "example_sentence": "A morning walk can invigorate both body and mind.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ মর্নিং ওয়াক ক্যান ইনভিগোরেট বোথ বডি অ্যান্ড মাইন্ড।"
+            },
+            "position": 5,
+            "synonyms": "energize, refresh, stimulate",
+            "antonyms": "weaken, drain, exhaust",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সতেজ বা শক্তিশালী করা",
+                    "word_transliteration": "shotej ba shokrishali kora",
+                    "example_sentence_translation": "সকালের হাঁটা শরীর ও মনকে সতেজ করতে পারে।",
+                    "example_sentence_transliteration": "Shokaler hata shorir o monke shotej korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "contemplation",
+            "phonetic": "/ˌkɒn.təmˈpleɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "কনটেমপ্লেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤔",
+            "meaning": "The action of looking thoughtfully at something for a long time; deep reflective thought.",
+            "example_sentence": "Silence helps in peaceful contemplation.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাইলেন্স হেল্পস ইন পিসফুল কনটেমপ্লেশন।"
+            },
+            "position": 6,
+            "synonyms": "reflection, meditation, thoughtfulness",
+            "antonyms": "distraction, neglect, ignorance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গভীর চিন্তাভাবনা বা ধ্যান",
+                    "word_transliteration": "gobhir chintabhavona ba dhyan",
+                    "example_sentence_translation": "নীরবতা শান্তিপূর্ণ চিন্তাভাবনার জন্য সহায়ক।",
+                    "example_sentence_transliteration": "Nirobota shantipurno chintabhabonar jonno sahayok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "equilibrium",
+            "phonetic": "/ˌiː.kwɪˈlɪb.ri.əm/",
+            "word_native_transliteration": {
+                "bn": "ইকুইলিব্রিয়াম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "A state in which opposing forces or influences are balanced; mental or emotional stability.",
+            "example_sentence": "Yoga helps in achieving mental equilibrium.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইয়োগা হেল্পস ইন অ্যাচিভিং মেন্টাল ইকুইলিব্রিয়াম।"
+            },
+            "position": 7,
+            "synonyms": "balance, stability, steadiness",
+            "antonyms": "imbalance, instability, disproportion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভারসাম্য বা স্থিতিশীলতা",
+                    "word_transliteration": "bharosham ba sthitishilota",
+                    "example_sentence_translation": "যোগ মানসিক ভারসাম্য অর্জনে সহায়তা করে।",
+                    "example_sentence_transliteration": "Jog manoshik bharosham orjone sahayota kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "harmonious",
+            "phonetic": "/hɑːrˈmoʊ.ni.əs/",
+            "word_native_transliteration": {
+                "bn": "হারমোনিয়াস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎵",
+            "meaning": "Forming a pleasing or consistent whole; free from disagreement or dissent.",
+            "example_sentence": "Their harmonious relationship brought peace to the family.",
+            "example_sentence_native_transliteration": {
+                "bn": "দেয়ার হারমোনিয়াস রিলেশনশিপ ব্রট পিস টু দ্য ফ্যামিলি।"
+            },
+            "position": 8,
+            "synonyms": "melodious, peaceful, balanced",
+            "antonyms": "chaotic, clashing, dissonant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সুসংগত বা মধুর",
+                    "word_transliteration": "shushongoto ba modhur",
+                    "example_sentence_translation": "তাদের সুসংগত সম্পর্ক পরিবারে শান্তি এনেছে।",
+                    "example_sentence_transliteration": "Tader shushongoto shomporko poribarer shanti enechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "stimuli",
+            "phonetic": "/ˈstɪm.jʊ.laɪ/",
+            "word_native_transliteration": {
+                "bn": "স্টিমুলাই"
+            },
+            "parts_of_speech": "noun (plural of stimulus)",
+            "emoji": "⚡",
+            "meaning": "Things or events that evoke a specific functional reaction in an organ or tissue.",
+            "example_sentence": "Bright lights and loud noises are strong stimuli for the brain.",
+            "example_sentence_native_transliteration": {
+                "bn": "ব্রাইট লাইটস অ্যান্ড লাউড নয়েজেস আর স্ট্রং স্টিমুলাই ফর দ্য ব্রেইন।"
+            },
+            "position": 9,
+            "synonyms": "trigger, incentive, motivation",
+            "antonyms": "suppression, inactivity, numbness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্দীপনা বা প্রভাবক",
+                    "word_transliteration": "uddipona ba prohavok",
+                    "example_sentence_translation": "উজ্জ্বল আলো এবং উচ্চ শব্দ মস্তিষ্কের জন্য শক্তিশালী উদ্দীপনা।",
+                    "example_sentence_transliteration": "Ujjal alo ebong uchcho shobdo mostishker jonno shokrishali uddipona.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "rejuvenate",
+            "phonetic": "/rɪˈdʒuː.vɪ.neɪt/",
+            "word_native_transliteration": {
+                "bn": "রিজুভেনেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🌱",
+            "meaning": "To make or cause to appear more youthful; to give new energy or vigor to.",
+            "example_sentence": "A vacation can rejuvenate the mind and body.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ ভেকেশন ক্যান রিজুভেনেট দ্য মাইন্ড অ্যান্ড বডি।"
+            },
+            "position": 10,
+            "synonyms": "revitalize, refresh, renew",
+            "antonyms": "exhaust, weaken, drain",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুনরুজ্জীবিত করা বা তরতাজা করা",
+                    "word_transliteration": "punorujjibito kora ba tortaja kora",
+                    "example_sentence_translation": "একটি ছুটি মন ও শরীরকে পুনরুজ্জীবিত করতে পারে।",
+                    "example_sentence_transliteration": "Ekti chhuti mon o shorirke punorujjibito korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "serene",
+            "phonetic": "/səˈriːn/",
+            "word_native_transliteration": {
+                "bn": "সেরিন"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🕊️",
+            "meaning": "Calm, peaceful, and untroubled; tranquil.",
+            "example_sentence": "The lake had a serene and peaceful atmosphere.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য লেক হ্যাড এ সেরিন অ্যান্ড পিসফুল অ্যাটমসফিয়ার।"
+            },
+            "position": 11,
+            "synonyms": "calm, peaceful, tranquil",
+            "antonyms": "agitated, chaotic, tense",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শান্ত ও নির্মল",
+                    "word_transliteration": "shanto o nirmal",
+                    "example_sentence_translation": "হ্রদটির পরিবেশ ছিল শান্ত ও প্রশান্ত।",
+                    "example_sentence_transliteration": "Hrodotir poribesho chhilo shanto o proshanto.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "exhilaration",
+            "phonetic": "/ɪɡˌzɪl.əˈreɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "এক্সহিলারেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎉",
+            "meaning": "A feeling of excitement, happiness, or elation.",
+            "example_sentence": "The feeling of exhilaration after a roller-coaster ride is amazing.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফিলিং অফ এক্সহিলারেশন আফটার এ রোলার-কোস্টার রাইড ইজ অ্যামেজিং।"
+            },
+            "position": 12,
+            "synonyms": "joy, excitement, thrill",
+            "antonyms": "boredom, depression, gloom",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উল্লাস বা আনন্দ",
+                    "word_transliteration": "ullash ba anondo",
+                    "example_sentence_translation": "রোলার-কোস্টার রাইডের পর উল্লাসের অনুভূতি দুর্দান্ত।",
+                    "example_sentence_transliteration": "Rolar-kostarer raider por ullasher onubhuti durdanto.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "lucid",
+            "phonetic": "/ˈluː.sɪd/",
+            "word_native_transliteration": {
+                "bn": "লুসিড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💡",
+            "meaning": "Expressed clearly; easy to understand; showing clear thought or reasoning.",
+            "example_sentence": "His lucid explanation made the concept easy to understand.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ লুসিড এক্সপ্লানেশন মেড দ্য কনসেপ্ট ইজি টু আন্ডারস্ট্যান্ড।"
+            },
+            "position": 13,
+            "synonyms": "clear, understandable, transparent",
+            "antonyms": "confusing, obscure, vague",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্পষ্ট ও বোধগম্য",
+                    "word_transliteration": "sposhto o bodhgomyo",
+                    "example_sentence_translation": "তার স্পষ্ট ব্যাখ্যা বিষয়টিকে সহজবোধ্য করেছে।",
+                    "example_sentence_transliteration": "Tar sposhto byakha bishoyotike sohojbodhyo korechhe.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

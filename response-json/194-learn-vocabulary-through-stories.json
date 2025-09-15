@@ -1,0 +1,445 @@
+{
+    "position": 194,
+    "title_translation": {
+        "en": "The Growth Mindset Coach",
+        "bn": "Growth Mindset Coach"
+    },
+    "content_translation": {
+        "en": "A **growth mindset coach** works as a **catalyst** to improve people's skills and mentality. They teach how to increase **propensity** and **dexterity** to lead life toward improvement.\n\nThis type of coaching is not only for professional development; it helps bring about personal **metamorphosis**. A **holistic** coach understands each student's mental and physical **trajectory** and provides proper guidance according to their **pedagogy**.\n\nA **cognizant** person knows that improvement is a continuous process. The coach specifically **delineates** how to **elucidate**, how **epiphany** occurs, and how new skills can be acquired.\n\nA true **growth mindset coach** doesn't just give advice, but **exemplifies** through their thoughts and actions that success is achievable. Therefore, this teaching is not just about learning; it creates **resonance** and brings about the **synchronicity** of new possibilities.",
+        "bn": "একজন **growth mindset coach** মানুষের দক্ষতা এবং মানসিকতা উন্নত করার **catalyst** হিসেবে কাজ করেন। তিনি শিখিয়ে দেন কিভাবে **propensity** এবং **dexterity** বাড়িয়ে জীবনকে উন্নতির দিকে নিয়ে যাওয়া যায়।\n\nএই ধরনের কোচিং শুধুমাত্র পেশাগত উন্নতির জন্য নয়; এটি ব্যক্তিগত **metamorphosis** আনতে সাহায্য করে। একজন **holistic** কোচ প্রতিটি শিক্ষার্থীর মানসিক ও শারীরিক **trajectory** বোঝেন এবং তাদের **pedagogy** অনুযায়ী সঠিক দিকনির্দেশনা দেন।\n\nএকজন **cognizant** ব্যক্তি জানেন যে উন্নতি একটি নিরবচ্ছিন্ন প্রক্রিয়া। কোচ কিভাবে **elucidate** করবেন, কীভাবে **epiphany** ঘটবে এবং কীভাবে নতুন দক্ষতা অর্জন করা যায়, তা সুনির্দিষ্টভাবে **delineate** করেন।\n\nএকজন প্রকৃত **growth mindset coach** শুধুমাত্র পরামর্শ দেন না, বরং তিনি তার চিন্তা ও কাজের মাধ্যমে **exemplify** করেন যে সফলতা অর্জন করা সম্ভব। তাই এই শিক্ষা কেবল শিখার বিষয় নয়; এটি **resonance** তৈরি করে এবং নতুন সম্ভাবনার **synchronicity** ঘটায়।"
+    },
+    "list": [
+        {
+            "word": "growth mindset",
+            "phonetic": "/ɡroʊθ ˈmaɪnd.sɛt/",
+            "word_native_transliteration": {
+                "bn": "গ্রোথ মাইন্ডসেট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌱",
+            "meaning": "A mindset that believes in learning, developing, and improving skills.",
+            "example_sentence": "A growth mindset helps individuals embrace challenges.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ গ্রোথ মাইন্ডসেট হেল্পস ইন্ডিভিজুয়্যালস এমব্রেস চ্যালেঞ্জেস।"
+            },
+            "position": 1,
+            "synonyms": "Developmental Thinking, Progressive Attitude, Learning Orientation",
+            "antonyms": "Fixed Mindset, Stagnation, Rigidity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিকাশমূলক মানসিকতা",
+                    "word_transliteration": "bikashmolek manoshikota",
+                    "example_sentence_translation": "একটি বিকাশমূলক মানসিকতা ব্যক্তিদের চ্যালেঞ্জ গ্রহণে সহায়তা করে।",
+                    "example_sentence_transliteration": "Ekti bikashmolek manoshikota byektider challenge grohone sohayota kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "coach",
+            "phonetic": "/koʊtʃ/",
+            "word_native_transliteration": {
+                "bn": "কোচ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👨‍🏫",
+            "meaning": "A person who helps improve others' skills or knowledge.",
+            "example_sentence": "The football coach motivated his team before the match.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফুটবল কোচ মোটিভেটেড হিজ টিম বিফোর দ্য ম্যাচ।"
+            },
+            "position": 2,
+            "synonyms": "Mentor, Trainer, Instructor",
+            "antonyms": "Amateur, Learner, Novice",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রশিক্ষক বা উপদেষ্টা",
+                    "word_transliteration": "proshikhok ba upodesshta",
+                    "example_sentence_translation": "ফুটবল প্রশিক্ষক তার দলকে ম্যাচের আগে অনুপ্রাণিত করেছিলেন।",
+                    "example_sentence_transliteration": "Football proshikhok tar dolke matcher age onupranito korechhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "catalyst",
+            "phonetic": "/ˈkæt.ə.lɪst/",
+            "word_native_transliteration": {
+                "bn": "ক্যাটালিস্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "Something that causes rapid change or starts something new.",
+            "example_sentence": "The new policy acted as a catalyst for economic growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিউ পলিসি এ্যাক্টেড এ্যাজ এ ক্যাটালিস্ট ফর ইকোনমিক গ্রোথ।"
+            },
+            "position": 3,
+            "synonyms": "Stimulus, Motivator, Accelerator",
+            "antonyms": "Hindrance, Obstacle, Deterrent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্দীপক বা পরিবর্তন আনয়নকারী",
+                    "word_transliteration": "uddipok ba poribortone anoyonkari",
+                    "example_sentence_translation": "নতুন নীতিটি অর্থনৈতিক প্রবৃদ্ধির জন্য একটি উদ্দীপক হিসেবে কাজ করেছে।",
+                    "example_sentence_transliteration": "Notun nititi orthonaitik probriddhir jonno ekti uddipok hishebe kaj koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "propensity",
+            "phonetic": "/prəˈpɛn.sə.ti/",
+            "word_native_transliteration": {
+                "bn": "প্রোপেনসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "Natural interest or tendency toward specific behavior.",
+            "example_sentence": "He has a propensity for taking risks in business.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি হ্যাজ এ প্রোপেনসিটি ফর টেকিং রিস্কস ইন বিজনেস।"
+            },
+            "position": 4,
+            "synonyms": "Inclination, Tendency, Predisposition",
+            "antonyms": "Aversion, Dislike, Reluctance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রবণতা বা স্বাভাবিক ঝোঁক",
+                    "word_transliteration": "probonota ba svabhobik jhonk",
+                    "example_sentence_translation": "ব্যবসায় ঝুঁকি নেওয়ার প্রতি তার স্বাভাবিক প্রবণতা রয়েছে।",
+                    "example_sentence_transliteration": "Byabshaye jhunki neowar proti tar svabhobik probonota royeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dexterity",
+            "phonetic": "/dɛkˈstɛr.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "ডেক্সটেরিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤹",
+            "meaning": "The ability to work quickly and skillfully with hands or mind.",
+            "example_sentence": "A surgeon needs high dexterity for precision work.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ সার্জন নিডস হাই ডেক্সটেরিটি ফর প্রিসিশন ওয়ার্ক।"
+            },
+            "position": 5,
+            "synonyms": "Agility, Skillfulness, Nimbleness",
+            "antonyms": "Clumsiness, Incompetence, Ineptitude",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষতা বা চাতুর্য",
+                    "word_transliteration": "dokhkhota ba chaturyo",
+                    "example_sentence_translation": "একজন সার্জনের জন্য নির্ভুল কাজের দক্ষতা অপরিহার্য।",
+                    "example_sentence_transliteration": "Ekjon sarjoner jonno nirvoohol kajer dokhkhota oporiharyo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "metamorphosis",
+            "phonetic": "/ˌmɛt.əˈmɔːr.fə.sɪs/",
+            "word_native_transliteration": {
+                "bn": "মেটামরফসিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🦋",
+            "meaning": "A significant physical or mental transformation.",
+            "example_sentence": "The company's metamorphosis into a global brand took years.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানিজ মেটামরফসিস ইনটু এ গ্লোবাল ব্র্যান্ড টুক ইয়ারস।"
+            },
+            "position": 6,
+            "synonyms": "Transformation, Evolution, Conversion",
+            "antonyms": "Stagnation, Constancy, Sameness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিবর্তন বা রূপান্তর",
+                    "word_transliteration": "poribortone ba rupantor",
+                    "example_sentence_translation": "কোম্পানির একটি বিশ্বব্যাপী ব্র্যান্ডে রূপান্তর হতে কয়েক বছর লেগেছে।",
+                    "example_sentence_transliteration": "Companir ekti bishobbyapi brande rupantor hote koyekb bochor legeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "holistic",
+            "phonetic": "/hoʊˈlɪs.tɪk/",
+            "word_native_transliteration": {
+                "bn": "হলিস্টিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔄",
+            "meaning": "Analyzing and solving by considering the whole system or situation.",
+            "example_sentence": "A holistic approach to health includes both mental and physical well-being.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ হলিস্টিক এপ্রোচ টু হেলথ ইনক্লুডস বোথ মেন্টাল অ্যান্ড ফিজিক্যাল ওয়েল বিইং।"
+            },
+            "position": 7,
+            "synonyms": "Comprehensive, Integrated, Wholesome",
+            "antonyms": "Fragmented, Partial, Narrow",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সামগ্রিক বা পূর্ণাঙ্গ দৃষ্টিভঙ্গি",
+                    "word_transliteration": "shamagrik ba purnanggre drishtivongi",
+                    "example_sentence_translation": "স্বাস্থ্যের একটি সামগ্রিক দৃষ্টিভঙ্গিতে মানসিক ও শারীরিক সুস্থতা অন্তর্ভুক্ত থাকে।",
+                    "example_sentence_transliteration": "Svasththyer ekti shamagrik drishtivongite manoshik o sharirik shushthhota ontorbhukto thake.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "trajectory",
+            "phonetic": "/trəˈdʒɛk.tər.i/",
+            "word_native_transliteration": {
+                "bn": "ট্র্যাজেক্টরি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "The path of progress or development toward a specific goal.",
+            "example_sentence": "His career trajectory showed a steady rise to success.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ক্যারিয়ার ট্র্যাজেক্টরি শোড এ স্টেডি রাইজ টু সাকসেস।"
+            },
+            "position": 8,
+            "synonyms": "Path, Course, Progression",
+            "antonyms": "Stagnation, Deviation, Halt",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অগ্রগতির পথ বা গতিপথ",
+                    "word_transliteration": "ogrogtir pothe ba gotipothe",
+                    "example_sentence_translation": "তার ক্যারিয়ারের গতিপথ ধারাবাহিকভাবে সাফল্যের দিকে এগিয়েছে।",
+                    "example_sentence_transliteration": "Tar careerer gotipothe dharabahikobhabe shaflyer dike egiyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pedagogy",
+            "phonetic": "/ˈpɛd.əˌɡɒ.dʒi/",
+            "word_native_transliteration": {
+                "bn": "পেডাগজি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📚",
+            "meaning": "The science or skill of teaching.",
+            "example_sentence": "Modern pedagogy focuses on student-centered learning.",
+            "example_sentence_native_transliteration": {
+                "bn": "মডার্ন পেডাগজি ফোকাসেস অন স্টুডেন্ট সেন্টার্ড লার্নিং।"
+            },
+            "position": 9,
+            "synonyms": "Teaching Methodology, Instruction, Educational Approach",
+            "antonyms": "Misinstruction, Ignorance, Misdirection",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শিক্ষাদান পদ্ধতি বা কৌশল",
+                    "word_transliteration": "shikhadan poddhhoti ba koushole",
+                    "example_sentence_translation": "আধুনিক শিক্ষাদান পদ্ধতি শিক্ষার্থী-কেন্দ্রিক শিক্ষায় গুরুত্ব দেয়।",
+                    "example_sentence_transliteration": "Adhunik shikhadan poddhhoti shikharthhi-kendrik shikhkay gurutbo dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cognizant",
+            "phonetic": "/ˈkɒɡ.nɪ.zənt/",
+            "word_native_transliteration": {
+                "bn": "কগনিজেন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧠",
+            "meaning": "Being aware and conscious about something.",
+            "example_sentence": "He was cognizant of the risks involved in the project.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি ওয়াজ কগনিজেন্ট অব দ্য রিস্কস ইনভলভড ইন দ্য প্রোজেক্ট।"
+            },
+            "position": 10,
+            "synonyms": "Aware, Mindful, Conscious",
+            "antonyms": "Unaware, Oblivious, Ignorant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সচেতন বা অবগত",
+                    "word_transliteration": "shochetone ba obogate",
+                    "example_sentence_translation": "তিনি প্রকল্পে অন্তর্নিহিত ঝুঁকিগুলোর সম্পর্কে সচেতন ছিলেন।",
+                    "example_sentence_transliteration": "Tini prokolpe ontornihito jhukaigulor shomproke shochetone chhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "elucidate",
+            "phonetic": "/ɪˈluː.sɪ.deɪt/",
+            "word_native_transliteration": {
+                "bn": "ইলুসিডেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "💡",
+            "meaning": "To explain a complex matter in simple language.",
+            "example_sentence": "The professor used examples to elucidate the concept.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রোফেসর ইউজড এক্সাম্পেলস টু ইলুসিডেট দ্য কনসেপ্ট।"
+            },
+            "position": 11,
+            "synonyms": "Explain, Clarify, Expound",
+            "antonyms": "Confuse, Obscure, Misinterpret",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ব্যাখ্যা করা বা স্পষ্ট করা",
+                    "word_transliteration": "byakhya kora ba sposhto kora",
+                    "example_sentence_translation": "অধ্যাপক ধারণাটি স্পষ্ট করতে উদাহরণ ব্যবহার করেছিলেন।",
+                    "example_sentence_transliteration": "Odhyapok dharonati sposhto korte udahorone byabhohor korechhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "epiphany",
+            "phonetic": "/ɪˈpɪf.ə.ni/",
+            "word_native_transliteration": {
+                "bn": "এপিফানি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✨",
+            "meaning": "A sudden important realization or new understanding.",
+            "example_sentence": "He had an epiphany about his true purpose in life.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি হ্যাড অ্যান এপিফানি অ্যাবাউট হিজ ট্রু পারপাস ইন লাইফ।"
+            },
+            "position": 12,
+            "synonyms": "Revelation, Realization, Insight",
+            "antonyms": "Confusion, Unawareness, Misconception",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আকস্মিক উপলব্ধি বা জাগরণ",
+                    "word_transliteration": "akoshmik upolobdhi ba jagrone",
+                    "example_sentence_translation": "তিনি জীবনের প্রকৃত উদ্দেশ্য সম্পর্কে একটি আকস্মিক উপলব্ধি পেয়েছিলেন।",
+                    "example_sentence_transliteration": "Tini jiboner prokrito uddeshyo shomproke ekti akoshmik upolobdhi peyechhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "delineate",
+            "phonetic": "/dɪˈlɪn.i.eɪt/",
+            "word_native_transliteration": {
+                "bn": "ডেলিনিয়েট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📝",
+            "meaning": "To explain or describe something specifically and in detail.",
+            "example_sentence": "The report clearly delineates the company's future plans.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রিপোর্ট ক্লিয়ারলি ডেলিনিয়েটস দ্য কোম্পানিজ ফিউচার প্ল্যানস।"
+            },
+            "position": 13,
+            "synonyms": "Describe, Outline, Define",
+            "antonyms": "Distort, Confuse, Obscure",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সুনির্দিষ্টভাবে ব্যাখ্যা করা বা চিত্রিত করা",
+                    "word_transliteration": "shunirdishtvobhabe byakhya kora ba chitrito kora",
+                    "example_sentence_translation": "প্রতিবেদনটি কোম্পানির ভবিষ্যৎ পরিকল্পনাগুলো স্পষ্টভাবে ব্যাখ্যা করে।",
+                    "example_sentence_transliteration": "Protibedonto companir bhobishyot porikolpanagulo sposhtvobhabe byakhya kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "exemplify",
+            "phonetic": "/ɪɡˈzɛm.plɪ.faɪ/",
+            "word_native_transliteration": {
+                "bn": "এক্সেমপ্লিফাই"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🎭",
+            "meaning": "To properly present or represent a subject or idea through examples.",
+            "example_sentence": "His hard work and dedication exemplify true leadership.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ হার্ড ওয়ার্ক অ্যান্ড ডেডিকেশন এক্সেমপ্লিফাই ট্রু লিডারশিপ।"
+            },
+            "position": 14,
+            "synonyms": "Illustrate, Demonstrate, Represent",
+            "antonyms": "Misrepresent, Obscure, Distort",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদাহরণ দ্বারা ব্যাখ্যা করা",
+                    "word_transliteration": "udahorone dwara byakhya kora",
+                    "example_sentence_translation": "তার কঠোর পরিশ্রম ও নিষ্ঠা প্রকৃত নেতৃত্বের উদাহরণ হিসেবে কাজ করে।",
+                    "example_sentence_transliteration": "Tar kothore porishrom o nishtha prokrito netritboer udahorone hishebe kaj kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "resonance",
+            "phonetic": "/ˈrɛz.ə.nəns/",
+            "word_native_transliteration": {
+                "bn": "রেজোন্যান্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔊",
+            "meaning": "The powerful effect or echo of a sound or idea.",
+            "example_sentence": "His speech had a strong resonance with the audience.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ স্পিচ হ্যাড এ স্ট্রং রেজোন্যান্স উইথ দ্য অডিয়েন্স।"
+            },
+            "position": 15,
+            "synonyms": "Echo, Reverberation, Impact",
+            "antonyms": "Dissonance, Weakness, Insignificance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিক্রিয়া বা গভীর সংযোগ",
+                    "word_transliteration": "protikriya ba govire shongjoge",
+                    "example_sentence_translation": "তার বক্তব্য শ্রোতাদের মধ্যে গভীর প্রতিক্রিয়া তৈরি করেছিল।",
+                    "example_sentence_transliteration": "Tar boktobye shrotader modhye govire protikriya toiri korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "synchronicity",
+            "phonetic": "/ˌsɪŋ.krəˈnɪs.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "সিংক্রোনিসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The meaningful coincidence of two or more events that are not planned.",
+            "example_sentence": "The synchronicity of their thoughts amazed everyone.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সিংক্রোনিসিটি অব দেয়ার থটস অ্যামেজড এভরিওয়ান।"
+            },
+            "position": 16,
+            "synonyms": "Coincidence, Alignment, Harmony",
+            "antonyms": "Mismatch, Disconnection, Asynchrony",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সমাপতন বা সমকালীন ঘটনাবলি",
+                    "word_transliteration": "shmapotone ba shomakalin ghotanaboli",
+                    "example_sentence_translation": "তাদের চিন্তার সমাপতন সবাইকে বিস্মিত করেছিল।",
+                    "example_sentence_transliteration": "Tader chintar shmapotone shobaikke bishimito korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

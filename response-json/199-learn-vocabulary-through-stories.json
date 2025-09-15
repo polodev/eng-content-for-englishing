@@ -1,0 +1,553 @@
+{
+    "position": 199,
+    "title_translation": {
+        "en": "The Importance of Balanced Diet",
+        "bn": "সুষম খাদ্যের গুরুত্ব"
+    },
+    "content_translation": {
+        "en": "A **balanced diet** is not only important for physical well-being but also essential for **holistic** health. Proper **nourishment** increases our body's **immunity** and protects us from various diseases. Many people create a **dichotomy** in their food intake—fatty foods on one side, complete **deprivation** on the other. However, for a healthy lifestyle, it is necessary to maintain **equilibrium**. For ensuring proper **sustenance**, **meticulous** food planning is essential, which enhances the body's **assimilation** capacity and **revitalizes** it. Proteins, carbohydrates, vitamins, and minerals work together to create **cohesion**, which **bolsters** our energy. Eating **exorbitant** amounts of food is as harmful as nutrient deficiency can cause **malnourishment**. Proper food **invigorates** the body, ensures **fortification** of bones and muscles, and helps **replenish** energy.\n\nTherefore, building an **integral** and **adept** dietary habit is extremely important for long-term well-being.",
+        "bn": "একটি **balanced diet** শুধুমাত্র শারীরিক সুস্থতার জন্য নয়, বরং **holistic** স্বাস্থ্যের জন্য অত্যন্ত গুরুত্বপূর্ণ। সঠিক **nourishment** আমাদের শরীরের **immunity** বাড়ায় এবং বিভিন্ন রোগ থেকে সুরক্ষা দেয়। অনেকে খাদ্য গ্রহণে **dichotomy** তৈরি করে —একপাশে চর্বিযুক্ত খাবার, অন্যদিকে সম্পূর্ণ **deprivation**। কিন্তু স্বাস্থ্যকর জীবনধারার জন্য **equilibrium** বজায় রাখা প্রয়োজন। সঠিক **sustenance** নিশ্চিত করার জন্য **meticulous** খাদ্য পরিকল্পনা জরুরি, যা শরীরের **assimilation** ক্ষমতা বাড়ায় এবং **revitalize** করে। প্রোটিন, কার্বোহাইড্রেট, ভিটামিন ও মিনারেল একসঙ্গে কাজ করে **cohesion** তৈরি করে, যা আমাদের শক্তি **bolster** করে। অতিরিক্ত **exorbitant** খাবার খাওয়া যেমন ক্ষতিকর, তেমনি পুষ্টির অভাব **malnourishment** সৃষ্টি করতে পারে। সঠিক খাদ্য শরীরকে **invigorate** করে, হাড় ও পেশির **fortification** নিশ্চিত করে, এবং এনার্জি **replenish** করতে সাহায্য করে।\n\nঅতএব, দীর্ঘমেয়াদী সুস্থতার জন্য **integral** ও **adept** খাদ্যাভ্যাস গড়ে তোলা অত্যন্ত জরুরি।"
+    },
+    "list": [
+        {
+            "word": "balanced diet",
+            "phonetic": "ˈbæl.ənst daɪ.ət",
+            "word_native_transliteration": {
+                "bn": "ব্যালেন্সড ডায়েট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🥗",
+            "meaning": "A diet consisting of the proper quantities and proportions of foods needed to maintain health or growth.",
+            "example_sentence": "A balanced diet is essential for maintaining good health.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ ব্যালেন্সড ডায়েট ইজ এসেনশিয়াল ফর মেইনটেইনিং গুড হেলথ।"
+            },
+            "position": 1,
+            "synonyms": "Nutritious Diet, Healthy Eating, Well-rounded Nutrition",
+            "antonyms": "Malnutrition, Unhealthy Diet, Deficiency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সুষম খাদ্য",
+                    "word_transliteration": "shushom khadyo",
+                    "example_sentence_translation": "ভালো স্বাস্থ্য বজায় রাখার জন্য সুষম খাদ্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Bhalo swasthyo bojay rakhar jonno shushom khadyo oporiharyyo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "holistic",
+            "phonetic": "hoʊˈlɪs.tɪk",
+            "word_native_transliteration": {
+                "bn": "হলিস্টিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌍",
+            "meaning": "Relating to or concerned with complete systems rather than individual parts.",
+            "example_sentence": "A holistic approach to wellness includes mental and physical health.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ হলিস্টিক এপ্রোচ টু ওয়েলনেস ইনক্লুডস মেন্টাল এন্ড ফিজিক্যাল হেলথ।"
+            },
+            "position": 2,
+            "synonyms": "Comprehensive, Integrated, All-encompassing",
+            "antonyms": "Fragmented, Partial, Incomplete",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সামগ্রিক",
+                    "word_transliteration": "shamogrik",
+                    "example_sentence_translation": "সুস্থতার জন্য সামগ্রিক পদ্ধতিতে মানসিক ও শারীরিক স্বাস্থ্য অন্তর্ভুক্ত থাকে।",
+                    "example_sentence_transliteration": "Shusthyotar jonno shamogrik poddhyotite manoshik o sharirrik swasthyo ontorbhukto thake.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "nourishment",
+            "phonetic": "ˈnʌr.ɪʃ.mənt",
+            "word_native_transliteration": {
+                "bn": "নারিশমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🍎",
+            "meaning": "The food necessary for growth, health, and good condition.",
+            "example_sentence": "Proper nourishment is vital for child development.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোপার নারিশমেন্ট ইজ ভাইটাল ফর চাইল্ড ডেভেলপমেন্ট।"
+            },
+            "position": 3,
+            "synonyms": "Nutrition, Sustenance, Feeding",
+            "antonyms": "Starvation, Malnourishment, Deprivation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুষ্টি",
+                    "word_transliteration": "pushti",
+                    "example_sentence_translation": "শিশুর বিকাশের জন্য সঠিক পুষ্টি অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Shishur bikasher jonno shothik pushti ottoyonto guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "immunity",
+            "phonetic": "ɪˈmjuː.nɪ.ti",
+            "word_native_transliteration": {
+                "bn": "ইমিউনিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛡️",
+            "meaning": "The ability of an organism to resist a particular infection or toxin.",
+            "example_sentence": "Eating fruits and vegetables boosts immunity.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইটিং ফ্রুটস এন্ড ভেজিটেবলস বুস্টস ইমিউনিটি।"
+            },
+            "position": 4,
+            "synonyms": "Resistance, Protection, Defense",
+            "antonyms": "Susceptibility, Vulnerability, Weakness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রোগ প্রতিরোধ ক্ষমতা",
+                    "word_transliteration": "rog protirodhyo khomota",
+                    "example_sentence_translation": "ফল ও সবজি খাওয়া রোগ প্রতিরোধ ক্ষমতা বৃদ্ধি করে।",
+                    "example_sentence_transliteration": "Fol o shobji khaowa rog protirodhyo khomota briddhi kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dichotomy",
+            "phonetic": "daɪˈkɒt.ə.mi",
+            "word_native_transliteration": {
+                "bn": "ডিকটমি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "A division or contrast between two things that are or are represented as being opposed or entirely different.",
+            "example_sentence": "There is a dichotomy between modern and traditional medicine.",
+            "example_sentence_native_transliteration": {
+                "bn": "দেয়ার ইজ এ ডিকটমি বিটুইন মডার্ন এন্ড ট্র্যাডিশনাল মেডিসিন।"
+            },
+            "position": 5,
+            "synonyms": "Division, Contrast, Duality",
+            "antonyms": "Unity, Similarity, Agreement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৈপরীত্য",
+                    "word_transliteration": "boiporisho",
+                    "example_sentence_translation": "আধুনিক ও প্রথাগত চিকিৎসার মধ্যে একটি বৈপরীত্য রয়েছে।",
+                    "example_sentence_transliteration": "Adhunik o prothagoto chikitshar modhye ekti boiporisho royeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "deprivation",
+            "phonetic": "ˌdɛp.rɪˈveɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ডেপ্রিভেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "😔",
+            "meaning": "The damaging lack of material benefits considered to be basic necessities in a society.",
+            "example_sentence": "Sleep deprivation negatively affects mental health.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্লিপ ডেপ্রিভেশন নেগেটিভলি অ্যাফেক্টস মেন্টাল হেলথ।"
+            },
+            "position": 6,
+            "synonyms": "Lack, Hardship, Scarcity",
+            "antonyms": "Abundance, Wealth, Plenty",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বঞ্চনা",
+                    "word_transliteration": "bonchona",
+                    "example_sentence_translation": "ঘুমের অভাব মানসিক স্বাস্থ্যের উপর নেতিবাচক প্রভাব ফেলে।",
+                    "example_sentence_transliteration": "Ghumer obhab manoshik swasthyoyer upor netibachok probhab fele.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "equilibrium",
+            "phonetic": "ˌiː.kwɪˈlɪb.ri.əm",
+            "word_native_transliteration": {
+                "bn": "ইকুইলিব্রিয়াম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "A state in which opposing forces or influences are balanced.",
+            "example_sentence": "Yoga helps in achieving mental equilibrium.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইয়োগা হেল্পস ইন অ্যাচিভিং মেন্টাল ইকুইলিব্রিয়াম।"
+            },
+            "position": 7,
+            "synonyms": "Balance, Stability, Steadiness",
+            "antonyms": "Imbalance, Instability, Disproportion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভারসাম্য",
+                    "word_transliteration": "bharshamy",
+                    "example_sentence_translation": "যোগ মানসিক ভারসাম্য অর্জনে সহায়তা করে।",
+                    "example_sentence_transliteration": "Jog manoshik bharshamy orjone shohayota kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sustenance",
+            "phonetic": "ˈsʌs.tɪ.nəns",
+            "word_native_transliteration": {
+                "bn": "সাস্টেনেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🥙",
+            "meaning": "Food and drink regarded as a source of strength; nourishment.",
+            "example_sentence": "Water is essential for human sustenance.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওয়াটার ইজ এসেনশিয়াল ফর হিউম্যান সাস্টেনেন্স।"
+            },
+            "position": 8,
+            "synonyms": "Nourishment, Support, Livelihood",
+            "antonyms": "Starvation, Deprivation, Weakness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জীবিকা",
+                    "word_transliteration": "jibika",
+                    "example_sentence_translation": "মানুষের জীবিকা রক্ষার জন্য পানি অপরিহার্য।",
+                    "example_sentence_transliteration": "Manusher jibika rokhar jonno pani oporiharyyo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "meticulous",
+            "phonetic": "məˈtɪk.jə.ləs",
+            "word_native_transliteration": {
+                "bn": "মেটিকুলাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔍",
+            "meaning": "Showing great attention to detail; very careful and precise.",
+            "example_sentence": "A meticulous diet plan helps in maintaining a healthy lifestyle.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ মেটিকুলাস ডায়েট প্ল্যান হেল্পস ইন মেইনটেইনিং এ হেলদি লাইফস্টাইল।"
+            },
+            "position": 9,
+            "synonyms": "Precise, Thorough, Detail-oriented",
+            "antonyms": "Careless, Inaccurate, Negligent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "যত্নশীল",
+                    "word_transliteration": "jottonshil",
+                    "example_sentence_translation": "একটি নিখুঁত খাদ্য পরিকল্পনা স্বাস্থ্যকর জীবনযাত্রা বজায় রাখতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Ekti nikhunto khadyo porikolpona swasthyokor jibonjatra bojay rakhte shahajyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "assimilation",
+            "phonetic": "əˌsɪm.ɪˈleɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "অ্যাসিমিলেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧠",
+            "meaning": "The process of taking in and fully understanding information or ideas.",
+            "example_sentence": "Proper assimilation of knowledge leads to effective learning.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোপার অ্যাসিমিলেশন অব নলেজ লিডস টু ইফেক্টিভ লার্নিং।"
+            },
+            "position": 10,
+            "synonyms": "Integration, Absorption, Incorporation",
+            "antonyms": "Rejection, Separation, Isolation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আত্মস্থকরণ",
+                    "word_transliteration": "attmosthokkhron",
+                    "example_sentence_translation": "সঠিক আত্মস্থকরণ শেখার কার্যকারিতা বৃদ্ধি করে।",
+                    "example_sentence_transliteration": "Shothik attmosthokkhron shekhar karyokaritta briddhi kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "revitalize",
+            "phonetic": "ˌriːˈvaɪ.təl.aɪz",
+            "word_native_transliteration": {
+                "bn": "রিভাইটালাইজ"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⚡",
+            "meaning": "Give new life and vitality to something.",
+            "example_sentence": "A short vacation can revitalize your mind and body.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ শর্ট ভ্যাকেশন ক্যান রিভাইটালাইজ ইয়োর মাইন্ড এন্ড বডি।"
+            },
+            "position": 11,
+            "synonyms": "Renew, Refresh, Reenergize",
+            "antonyms": "Deplete, Weaken, Deteriorate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুনরুজ্জীবিত করা",
+                    "word_transliteration": "punorujjibito kora",
+                    "example_sentence_translation": "একটি ছোট ছুটি আপনার মন ও শরীর পুনরুজ্জীবিত করতে পারে।",
+                    "example_sentence_transliteration": "Ekti choto chuti apponar mon o shorir punorujjibito korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cohesion",
+            "phonetic": "kəʊˈhiː.ʒən",
+            "word_native_transliteration": {
+                "bn": "কোহিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "The action or fact of forming a united whole.",
+            "example_sentence": "Strong cohesion among team members leads to success.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্ট্রং কোহিশন অ্যামং টিম মেম্বারস লিডস টু সাকসেস।"
+            },
+            "position": 12,
+            "synonyms": "Unity, Bonding, Togetherness",
+            "antonyms": "Division, Separation, Disunity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংহতি",
+                    "word_transliteration": "songhoti",
+                    "example_sentence_translation": "দলের মধ্যে দৃঢ় সংহতি সাফল্যের দিকে নিয়ে যায়।",
+                    "example_sentence_transliteration": "Doler modhye dridho songhoti shafolyoyer dike niye jay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "bolster",
+            "phonetic": "ˈboʊl.stər",
+            "word_native_transliteration": {
+                "bn": "বোলস্টার"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "💪",
+            "meaning": "Support or strengthen; prop up.",
+            "example_sentence": "Regular training helps bolster confidence.",
+            "example_sentence_native_transliteration": {
+                "bn": "রেগুলার ট্রেনিং হেল্পস বোলস্টার কনফিডেন্স।"
+            },
+            "position": 13,
+            "synonyms": "Strengthen, Support, Reinforce",
+            "antonyms": "Weaken, Undermine, Diminish",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শক্তিশালী করা",
+                    "word_transliteration": "shoktishali kora",
+                    "example_sentence_translation": "নিয়মিত প্রশিক্ষণ আত্মবিশ্বাস শক্তিশালী করতে সহায়ক।",
+                    "example_sentence_transliteration": "Niyomito proshikkhon attmobishash shoktishali korte shohayok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "exorbitant",
+            "phonetic": "ɪɡˈzɔː.bɪ.tənt",
+            "word_native_transliteration": {
+                "bn": "এক্সরবিট্যান্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💰",
+            "meaning": "(of a price or amount charged) unreasonably high.",
+            "example_sentence": "The exorbitant cost of housing is a major concern.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এক্সরবিট্যান্ট কস্ট অব হাউসিং ইজ এ মেজর কনসার্ন।"
+            },
+            "position": 14,
+            "synonyms": "Overpriced, Excessive, Unreasonable",
+            "antonyms": "Affordable, Reasonable, Moderate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতিরিক্ত ব্যয়বহুল",
+                    "word_transliteration": "otirikto byoyobohul",
+                    "example_sentence_translation": "বাসস্থানের অতিরিক্ত ব্যয় একটি প্রধান উদ্বেগের বিষয়।",
+                    "example_sentence_transliteration": "Bashosthaner otirikto byoy ekti prodhyan udbegoyer bishoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "malnourishment",
+            "phonetic": "mælˈnʌr.ɪʃ.mənt",
+            "word_native_transliteration": {
+                "bn": "ম্যালনারিশমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "😷",
+            "meaning": "Lack of proper nutrition, caused by not having enough to eat, not eating enough of the right things, or being unable to use the food that one does eat.",
+            "example_sentence": "Children in poverty-stricken areas suffer from malnourishment.",
+            "example_sentence_native_transliteration": {
+                "bn": "চিলড্রেন ইন পভার্টি-স্ট্রিকেন এরিয়াস সাফার ফ্রম ম্যালনারিশমেন্ট।"
+            },
+            "position": 15,
+            "synonyms": "Malnutrition, Starvation, Deficiency",
+            "antonyms": "Nourishment, Nutrition, Wellness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অপুষ্টি",
+                    "word_transliteration": "opushti",
+                    "example_sentence_translation": "দারিদ্র্য পীড়িত অঞ্চলের শিশুরা অপুষ্টিতে ভুগে।",
+                    "example_sentence_transliteration": "Daridro pirito oncholor shisura opushtite bhuge.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "invigorate",
+            "phonetic": "ɪnˈvɪɡ.ər.eɪt",
+            "word_native_transliteration": {
+                "bn": "ইনভিগোরেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🏃",
+            "meaning": "Give strength or energy to something.",
+            "example_sentence": "A morning walk can invigorate both body and mind.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ মর্নিং ওয়াক ক্যান ইনভিগোরেট বোথ বডি এন্ড মাইন্ড।"
+            },
+            "position": 16,
+            "synonyms": "Energize, Refresh, Stimulate",
+            "antonyms": "Weaken, Drain, Exhaust",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সতেজ করা",
+                    "word_transliteration": "shotej kora",
+                    "example_sentence_translation": "সকালের হাঁটা শরীর ও মনকে সতেজ করতে পারে।",
+                    "example_sentence_transliteration": "Shokaler hanta shorir o monke shotej korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fortification",
+            "phonetic": "ˌfɔː.tɪ.fɪˈkeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ফর্টিফিকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏰",
+            "meaning": "The action of strengthening or protecting something.",
+            "example_sentence": "The fortification of food with vitamins prevents deficiencies.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফর্টিফিকেশন অব ফুড উইথ ভিটামিনস প্রিভেন্টস ডিফিশিয়েন্সিস।"
+            },
+            "position": 17,
+            "synonyms": "Strengthening, Reinforcement, Enhancement",
+            "antonyms": "Weakening, Deterioration, Vulnerability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শক্তিশালীকরণ",
+                    "word_transliteration": "shoktishalikoron",
+                    "example_sentence_translation": "ভিটামিনযুক্ত খাবারের শক্তিশালীকরণ পুষ্টিহীনতা প্রতিরোধ করে।",
+                    "example_sentence_transliteration": "Vitaminyukto khabarer shoktishalikoron pushtiihinota protirodh kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "replenish",
+            "phonetic": "rɪˈplɛn.ɪʃ",
+            "word_native_transliteration": {
+                "bn": "রিপ্লেনিশ"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔄",
+            "meaning": "Fill something up again.",
+            "example_sentence": "Drinking water helps replenish lost fluids in the body.",
+            "example_sentence_native_transliteration": {
+                "bn": "ড্রিঙ্কিং ওয়াটার হেল্পস রিপ্লেনিশ লস্ট ফ্লুইডস ইন দ্য বডি।"
+            },
+            "position": 18,
+            "synonyms": "Restore, Refill, Renew",
+            "antonyms": "Deplete, Empty, Drain",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুনরায় পূরণ করা",
+                    "word_transliteration": "punoray puron kora",
+                    "example_sentence_translation": "পানি পান শরীরের হারানো তরল পুনরায় পূরণ করতে সহায়ক।",
+                    "example_sentence_transliteration": "Pani pan shorirer harano torol punoray puron korte shohayok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "integral",
+            "phonetic": "ˈɪn.tɪ.ɡrəl",
+            "word_native_transliteration": {
+                "bn": "ইন্টিগ্রাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧩",
+            "meaning": "Necessary to make a complete whole; essential or fundamental.",
+            "example_sentence": "Exercise is an integral part of a healthy lifestyle.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সারসাইজ ইজ অ্যান ইন্টিগ্রাল পার্ট অব এ হেলদি লাইফস্টাইল।"
+            },
+            "position": 19,
+            "synonyms": "Essential, Fundamental, Crucial",
+            "antonyms": "Nonessential, Optional, Superfluous",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অপরিহার্য",
+                    "word_transliteration": "oporiharyyo",
+                    "example_sentence_translation": "ব্যায়াম স্বাস্থ্যকর জীবনযাত্রার একটি অপরিহার্য অংশ।",
+                    "example_sentence_transliteration": "Byayam swasthyokor jibonjatrar ekti oporiharyyo ongso.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "adept",
+            "phonetic": "əˈdɛpt",
+            "word_native_transliteration": {
+                "bn": "অ্যাডেপ্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎯",
+            "meaning": "Very skilled or proficient at something.",
+            "example_sentence": "He is adept at solving complex mathematical problems.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি ইজ অ্যাডেপ্ট অ্যাট সলভিং কমপ্লেক্স ম্যাথামেটিক্যাল প্রবলেমস।"
+            },
+            "position": 20,
+            "synonyms": "Skilled, Proficient, Expert",
+            "antonyms": "Incompetent, Inept, Unskilled",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষ",
+                    "word_transliteration": "dokkho",
+                    "example_sentence_translation": "তিনি জটিল গাণিতিক সমস্যার সমাধানে দক্ষ।",
+                    "example_sentence_transliteration": "Tini jotil ganitik shomoshyar shomadahne dokkho.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

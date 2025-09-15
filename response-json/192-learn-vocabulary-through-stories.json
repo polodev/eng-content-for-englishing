@@ -1,0 +1,553 @@
+{
+    "position": 192,
+    "title_translation": {
+        "en": "The Future of Flying Cars",
+        "bn": "ফ্লাইং কারের ভবিষ্যৎ"
+    },
+    "content_translation": {
+        "en": "Technology's **breakthrough** is changing our future transportation system, and **flying cars** are an important aspect of that transformation. This **disruptive** technology can play a role in reducing urban **congestion** and making transportation more dynamic.\n\nHowever, bringing this vehicle to reality requires many **feasibility** tests. Without proper **optimization** of **aerodynamics**, **propulsion**, and **navigation** technology, this is not possible.\n\nMany are expressing **skepticism** about the **viability** of this concept. But researchers are working on its **implementation** through **autonomous** technology **integration** and advanced **logistics** systems.\n\nThis **futuristic** vehicle will not only ensure speed but also environmentally friendly **sustainability**. This **pioneering** change in technology will **elevate** our life journey and **revolutionize** the transportation system.",
+        "bn": "প্রযুক্তির **breakthrough** আমাদের ভবিষ্যৎ যাতায়াত ব্যবস্থাকে বদলে দিচ্ছে, আর **flying cars** সেই পরিবর্তনের এক গুরুত্বপূর্ণ দিক। শহরের **congestion** কমাতে এবং যাতায়াতকে আরও গতিশীল করতে এই **disruptive** প্রযুক্তি ভূমিকা রাখতে পারে।\n\nতবে, এই যানবাহন বাস্তবে আনার জন্য অনেক **feasibility** পরীক্ষা প্রয়োজন। **Aerodynamics**, **propulsion**, এবং **navigation** প্রযুক্তির যথাযথ **optimization** ছাড়া এটি সম্ভব নয়।\n\nঅনেকে এই ধারণার **viability** নিয়ে **skepticism** প্রকাশ করছেন। কিন্তু গবেষকরা **autonomous** প্রযুক্তির **integration** এবং উন্নত **logistics** ব্যবস্থার মাধ্যমে এর **implementation** নিয়ে কাজ করছেন।\n\nএই **futuristic** যান শুধু গতি নয়, বরং পরিবেশবান্ধব **sustainability** নিশ্চিত করবে। প্রযুক্তির এই **pioneering** পরিবর্তন আমাদের জীবনযাত্রাকে **elevate** করবে এবং যাতায়াত ব্যবস্থাকে **revolutionize** করবে।"
+    },
+    "list": [
+        {
+            "word": "breakthrough",
+            "phonetic": "ˈbreɪk.θruː",
+            "word_native_transliteration": {
+                "bn": "ব্রেকথ্রু"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚀",
+            "meaning": "A sudden important development or achievement that makes progress possible.",
+            "example_sentence": "The scientist's discovery was a breakthrough in cancer research.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সায়েন্টিস্টস ডিসকভারি ওয়াজ এ ব্রেকথ্রু ইন ক্যান্সার রিসার্চ।"
+            },
+            "position": 1,
+            "synonyms": "innovation, advancement",
+            "antonyms": "setback, stagnation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "যুগান্তকারী আবিষ্কার, অগ্রগতি, সাফল্য",
+                    "word_transliteration": "jugantokari abishkar, ogroghoti, shafolyo",
+                    "example_sentence_translation": "বিজ্ঞানীর আবিষ্কার ক্যান্সার গবেষণায় একটি ব্রেকথ্রু ছিল।",
+                    "example_sentence_transliteration": "Biggyanir abishkar cancer gobeshonay ekti breakthrough chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "flying cars",
+            "phonetic": "ˈflaɪ.ɪŋ kɑːrz",
+            "word_native_transliteration": {
+                "bn": "ফ্লাইং কার্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚁",
+            "meaning": "Vehicles that can travel both on roads and in the air.",
+            "example_sentence": "Flying cars could soon solve urban traffic congestion.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফ্লাইং কার্স সুন সল্ভ আর্বান ট্রাফিক কনজেশন।"
+            },
+            "position": 2,
+            "synonyms": "aerial vehicles, hovercars",
+            "antonyms": "ground vehicles, conventional cars",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উড়ন্ত যানবাহন, আকাশগামী গাড়ি",
+                    "word_transliteration": "uronto janbahan, akashgami gari",
+                    "example_sentence_translation": "ফ্লাইং কার্স শিগ্গিরই শহরের যানজট সমস্যার সমাধান করতে পারে।",
+                    "example_sentence_transliteration": "Flying cars shiggiri shohorer yanjot shomoshyar shomadhan korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "congestion",
+            "phonetic": "kənˈdʒes.tʃən",
+            "word_native_transliteration": {
+                "bn": "কনজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚗",
+            "meaning": "A situation where there is too much traffic and movement becomes difficult.",
+            "example_sentence": "The city's congestion has worsened due to rapid urbanization.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সিটিস কনজেশন হ্যাজ ওয়ার্সেনড ডিউ টু র‍্যাপিড আর্বানাইজেশন।"
+            },
+            "position": 3,
+            "synonyms": "overcrowding, blockage",
+            "antonyms": "clearance, free-flowing",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "যানজট, ভিড়, গড়িমসি",
+                    "word_transliteration": "yanjot, bhir, gorimoshi",
+                    "example_sentence_translation": "দ্রুত নগরায়নের ফলে শহরের কনজেশন আরও বেড়েছে।",
+                    "example_sentence_transliteration": "Druto ngorayoner fole shohorer congestion aro bereche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "disruptive",
+            "phonetic": "dɪsˈrʌp.tɪv",
+            "word_native_transliteration": {
+                "bn": "ডিসরাপটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚡",
+            "meaning": "Causing or tending to cause disruption or revolutionary change.",
+            "example_sentence": "Artificial intelligence is one of the most disruptive technologies today.",
+            "example_sentence_native_transliteration": {
+                "bn": "আর্টিফিশিয়াল ইনটেলিজেন্স ইজ ওয়ান অফ দ্য মোস্ট ডিসরাপটিভ টেকনোলজিজ টুডে।"
+            },
+            "position": 4,
+            "synonyms": "transformational, revolutionary",
+            "antonyms": "stabilizing, predictable",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ব্যাঘাত সৃষ্টিকারী, বিপর্যয়কারী, পরিবর্তন আনয়নকারী",
+                    "word_transliteration": "byaghat srishtikari, biporjoykari, poriborton anoyonkari",
+                    "example_sentence_translation": "কৃত্রিম বুদ্ধিমত্তা আজকের অন্যতম ডিসরাপটিভ প্রযুক্তি।",
+                    "example_sentence_transliteration": "Kritrim buddhimotta ajker onnytom disruptive projukti.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "feasibility",
+            "phonetic": "ˌfiː.zəˈbɪl.ə.ti",
+            "word_native_transliteration": {
+                "bn": "ফিজিবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✅",
+            "meaning": "The state or degree of being easily or conveniently done.",
+            "example_sentence": "The feasibility of building smart cities depends on technological progress.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফিজিবিলিটি অফ বিল্ডিং স্মার্ট সিটিজ ডিপেন্ডস অন টেকনোলজিক্যাল প্রোগ্রেস।"
+            },
+            "position": 5,
+            "synonyms": "practicality, viability",
+            "antonyms": "impracticality, unlikelihood",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সম্ভাব্যতা, কার্যকারিতা, বাস্তবায়নযোগ্যতা",
+                    "word_transliteration": "shombhabyota, karjokariota, bastobayonjogyota",
+                    "example_sentence_translation": "স্মার্ট শহর নির্মাণের ফিজিবিলিটি প্রযুক্তিগত অগ্রগতির উপর নির্ভর করে।",
+                    "example_sentence_transliteration": "Smart shohor nirmaner feasibility projuktigoto ogrogtir upor nirbhor kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "aerodynamics",
+            "phonetic": "ˌeə.rəʊ.daɪˈnæm.ɪks",
+            "word_native_transliteration": {
+                "bn": "এরোডাইনামিক্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✈️",
+            "meaning": "The study of the properties of moving air and the interaction between the air and solid bodies moving through it.",
+            "example_sentence": "The aerodynamics of an aircraft determines its speed and efficiency.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এরোডাইনামিক্স অফ অ্যান এয়ারক্রাফট ডিটারমিনস ইটস স্পিড অ্যান্ড এফিশিয়েন্সি।"
+            },
+            "position": 6,
+            "synonyms": "flight mechanics, streamlining",
+            "antonyms": "drag, resistance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বায়ুগতিবিদ্যা, বায়ুপ্রবাহ ও গতি সংক্রান্ত বিজ্ঞান",
+                    "word_transliteration": "bayugotibidya, bayuprobaaho o goti shongkranto bigyan",
+                    "example_sentence_translation": "একটি বিমানের এরোডাইনামিক্স এর গতি ও দক্ষতা নির্ধারণ করে।",
+                    "example_sentence_transliteration": "Ekti bimaner aerodynamics er goti o dokkhota nirdharon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "propulsion",
+            "phonetic": "prəˈpʌl.ʃən",
+            "word_native_transliteration": {
+                "bn": "প্রোপালশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚀",
+            "meaning": "The action of driving or pushing forward.",
+            "example_sentence": "Jet engines provide propulsion for aircraft to travel long distances.",
+            "example_sentence_native_transliteration": {
+                "bn": "জেট ইঞ্জিনস প্রোভাইড প্রোপালশন ফর এয়ারক্রাফট টু ট্রাভেল লং ডিস্ট্যান্সেস।"
+            },
+            "position": 7,
+            "synonyms": "thrust, acceleration",
+            "antonyms": "inertia, stagnation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গতিশক্তি, চালনাশক্তি, গতি সৃষ্টি করার প্রক্রিয়া",
+                    "word_transliteration": "gotishokti, chalnashokti, goti srishti korar prokriya",
+                    "example_sentence_translation": "জেট ইঞ্জিন বিমানকে দীর্ঘ দূরত্ব অতিক্রমের জন্য প্রোপালশন প্রদান করে।",
+                    "example_sentence_transliteration": "Jet engine bimanke dirgho durotyo otikromer jonno propulsion prodan kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "navigation",
+            "phonetic": "ˌnæv.ɪˈɡeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "নেভিগেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧭",
+            "meaning": "The process or activity of accurately ascertaining one's position and planning and following a route.",
+            "example_sentence": "GPS technology has improved the navigation of self-driving cars.",
+            "example_sentence_native_transliteration": {
+                "bn": "জিপিএস টেকনোলজি হ্যাজ ইমপ্রুভড দ্য নেভিগেশন অফ সেলফ-ড্রাইভিং কার্স।"
+            },
+            "position": 8,
+            "synonyms": "route planning, directional control",
+            "antonyms": "misguidance, disorientation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দিকনির্দেশনা, পথচলা, স্থান নির্ধারণ",
+                    "word_transliteration": "diknirdeshona, pothochola, sthan nirdharon",
+                    "example_sentence_translation": "জিপিএস প্রযুক্তি স্বয়ংক্রিয় গাড়ির নেভিগেশন উন্নত করেছে।",
+                    "example_sentence_transliteration": "GPS projukti swoyongkrio garir navigation unnoto koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "optimization",
+            "phonetic": "ˌɒp.tɪ.maɪˈzeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "অপটিমাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚙️",
+            "meaning": "The action of making the best or most effective use of a situation or resource.",
+            "example_sentence": "Optimization of energy consumption is crucial for sustainability.",
+            "example_sentence_native_transliteration": {
+                "bn": "অপটিমাইজেশন অফ এনার্জি কনজাম্পশন ইজ ক্রুশিয়াল ফর সাসটেইনাবিলিটি।"
+            },
+            "position": 9,
+            "synonyms": "enhancement, refinement",
+            "antonyms": "inefficiency, wastefulness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সর্বোচ্চ দক্ষতা অর্জন, উন্নতিসাধন",
+                    "word_transliteration": "shorbochcho dokkhota orjon, unnotisadhan",
+                    "example_sentence_translation": "শক্তি ব্যবহারের অপটিমাইজেশন টেকসই উন্নয়নের জন্য অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Shokti byoharer optimization teksoi unnyoyner jonno ottonto guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "viability",
+            "phonetic": "ˌvaɪ.əˈbɪl.ə.ti",
+            "word_native_transliteration": {
+                "bn": "ভায়াবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💡",
+            "meaning": "Ability to work successfully or the quality of being practicable.",
+            "example_sentence": "The viability of renewable energy depends on cost-effectiveness.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ভায়াবিলিটি অফ রিনিউয়েবল এনার্জি ডিপেন্ডস অন কস্ট-ইফেক্টিভনেস।"
+            },
+            "position": 10,
+            "synonyms": "sustainability, feasibility",
+            "antonyms": "impossibility, fragility",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "টিকে থাকার সক্ষমতা, কার্যকারিতা, বাস্তবতা",
+                    "word_transliteration": "tike thakar shokkhomota, karjokariota, bastobota",
+                    "example_sentence_translation": "নবায়নযোগ্য শক্তির ভায়াবিলিটি ব্যয়ের কার্যকারিতার উপর নির্ভর করে।",
+                    "example_sentence_transliteration": "Nobayonjogyo shoktir viability byoyer karjokaritotar upor nirbhor kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "skepticism",
+            "phonetic": "ˈskep.tɪ.sɪ.zəm",
+            "word_native_transliteration": {
+                "bn": "স্কেপটিসিজম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤔",
+            "meaning": "A skeptical attitude; doubt as to the truth of something.",
+            "example_sentence": "His skepticism about the new technology delayed its implementation.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ স্কেপটিসিজম অ্যাবাউট দ্য নিউ টেকনোলজি ডিলেড ইটস ইমপ্লিমেন্টেশন।"
+            },
+            "position": 11,
+            "synonyms": "doubt, mistrust",
+            "antonyms": "confidence, certainty",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংশয়বাদ, অবিশ্বাস, সন্দেহপ্রবণতা",
+                    "word_transliteration": "shongshoyobad, obishbash, shondeho probonota",
+                    "example_sentence_translation": "নতুন প্রযুক্তির ব্যাপারে তার স্কেপটিসিজম বাস্তবায়নে দেরি করেছিল।",
+                    "example_sentence_transliteration": "Notun projuktir byapare tar skepticism bastobayome deri korechilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "autonomous",
+            "phonetic": "ɔːˈtɒn.ə.məs",
+            "word_native_transliteration": {
+                "bn": "অটোনোমাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🤖",
+            "meaning": "Acting independently or having the freedom to do so.",
+            "example_sentence": "Autonomous vehicles are expected to revolutionize transportation.",
+            "example_sentence_native_transliteration": {
+                "bn": "অটোনোমাস ভেহিকেলস আর এক্সপেক্টেড টু রেভোলিউশনাইজ ট্রান্সপোর্টেশন।"
+            },
+            "position": 12,
+            "synonyms": "independent, self-governing",
+            "antonyms": "dependent, controlled",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বয়ংক্রিয়, স্বনির্ভর, স্বাধীনভাবে পরিচালিত",
+                    "word_transliteration": "swoyongkriyo, swonirbhor, shadhinbhabe poriochalito",
+                    "example_sentence_translation": "অটোনোমাস যানবাহন পরিবহনে বিপ্লব আনতে চলেছে।",
+                    "example_sentence_transliteration": "Autonomous janbahan poribohone biplob ante choleche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "integration",
+            "phonetic": "ˌɪn.tɪˈɡreɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ইন্টিগ্রেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔗",
+            "meaning": "The action or process of integrating or combining things to form a unified whole.",
+            "example_sentence": "The integration of artificial intelligence in healthcare is accelerating.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইন্টিগ্রেশন অফ আর্টিফিশিয়াল ইনটেলিজেন্স ইন হেলথকেয়ার ইজ এক্সেলারেটিং।"
+            },
+            "position": 13,
+            "synonyms": "unification, incorporation",
+            "antonyms": "segregation, separation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংযুক্তকরণ, একত্রীকরণ, অন্তর্ভুক্তি",
+                    "word_transliteration": "shongjuktokron, ektrikkron, antorbhukti",
+                    "example_sentence_translation": "স্বাস্থ্য খাতে কৃত্রিম বুদ্ধিমত্তার ইন্টিগ্রেশন দ্রুততর হচ্ছে।",
+                    "example_sentence_transliteration": "Swasthyo khate kritrim buddhimottar integration drutotoro hoche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "logistics",
+            "phonetic": "ləˈdʒɪs.tɪks",
+            "word_native_transliteration": {
+                "bn": "লজিস্টিক্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📦",
+            "meaning": "The detailed coordination of a complex operation involving many people, facilities, or supplies.",
+            "example_sentence": "Efficient logistics is crucial for global trade and commerce.",
+            "example_sentence_native_transliteration": {
+                "bn": "এফিশিয়েন্ট লজিস্টিক্স ইজ ক্রুশিয়াল ফর গ্লোবাল ট্রেড অ্যান্ড কমার্স।"
+            },
+            "position": 14,
+            "synonyms": "coordination, supply chain",
+            "antonyms": "disorganization, inefficiency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সরবরাহ ব্যবস্থাপনা, পরিবহন পরিকল্পনা, সমন্বয়",
+                    "word_transliteration": "shorboraho byabosthapona, poribohon porikolpona, shomonoy",
+                    "example_sentence_translation": "বৈশ্বিক বাণিজ্যের জন্য দক্ষ লজিস্টিক্স অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Boishbik banijyer jonno dokkhho logistics ottonto guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "implementation",
+            "phonetic": "ˌɪm.plɪ.menˈteɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ইমপ্লিমেন্টেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "The process of putting a decision or plan into effect; execution.",
+            "example_sentence": "The implementation of new regulations improved workplace efficiency.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইমপ্লিমেন্টেশন অফ নিউ রেগুলেশনস ইমপ্রুভড ওয়ার্কপ্লেস এফিশিয়েন্সি।"
+            },
+            "position": 15,
+            "synonyms": "execution, deployment",
+            "antonyms": "delay, abandonment",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাস্তবায়ন, কার্যকরকরণ, প্রয়োগ",
+                    "word_transliteration": "bastobayoon, karjokorkron, proyog",
+                    "example_sentence_translation": "নতুন বিধিনিষেধের ইমপ্লিমেন্টেশন কর্মক্ষেত্রের দক্ষতা বৃদ্ধি করেছে।",
+                    "example_sentence_transliteration": "Notun bidhinishshedher implementation kormokkhettrer dokkhota briddhi koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "futuristic",
+            "phonetic": "ˌfjuː.tʃəˈrɪs.tɪk",
+            "word_native_transliteration": {
+                "bn": "ফিউচারিস্টিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔮",
+            "meaning": "Having or involving very modern technology or design.",
+            "example_sentence": "The futuristic design of smart cities includes AI-driven systems.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফিউচারিস্টিক ডিজাইন অফ স্মার্ট সিটিজ ইনক্লুডস এআই-ড্রিভেন সিস্টেমস।"
+            },
+            "position": 16,
+            "synonyms": "innovative, cutting-edge",
+            "antonyms": "outdated, conventional",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভবিষ্যৎমুখী, আধুনিক, উন্নত প্রযুক্তিনির্ভর",
+                    "word_transliteration": "bhobishyotmukhi, adhunik, unnoto projuktinirbhor",
+                    "example_sentence_translation": "স্মার্ট শহরের ফিউচারিস্টিক ডিজাইন এআই-নির্ভর ব্যবস্থা অন্তর্ভুক্ত করে।",
+                    "example_sentence_transliteration": "Smart shohorer futuristic design AI-nirbhor byabostha antorbhukto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sustainability",
+            "phonetic": "səˌsteɪ.nəˈbɪl.ə.ti",
+            "word_native_transliteration": {
+                "bn": "সাসটেইনেবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌱",
+            "meaning": "The ability to be maintained at a certain rate or level, especially regarding environmental balance.",
+            "example_sentence": "Sustainability in agriculture helps protect natural resources.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাসটেইনেবিলিটি ইন এগ্রিকালচার হেল্পস প্রোটেক্ট ন্যাচারাল রিসোর্সেস।"
+            },
+            "position": 17,
+            "synonyms": "eco-friendliness, longevity",
+            "antonyms": "unsustainability, instability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "টেকসই উন্নয়ন, দীর্ঘস্থায়িত্ব, পরিবেশগত ভারসাম্য",
+                    "word_transliteration": "teksoi unnoyon, dirgho sthayitto, poribeshgoto bharsammo",
+                    "example_sentence_translation": "কৃষিতে সাসটেইনেবিলিটি প্রাকৃতিক সম্পদ রক্ষায় সহায়ক।",
+                    "example_sentence_transliteration": "Krishite sustainability prakritik shompod rokkhay sahayok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pioneering",
+            "phonetic": "ˌpaɪəˈnɪə.rɪŋ",
+            "word_native_transliteration": {
+                "bn": "পাইওনিয়ারিং"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🚀",
+            "meaning": "Involving new ideas or methods; innovative and original.",
+            "example_sentence": "His pioneering research in nanotechnology changed the field forever.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ পাইওনিয়ারিং রিসার্চ ইন ন্যানোটেকনোলজি চেঞ্জড দ্য ফিল্ড ফরএভার।"
+            },
+            "position": 18,
+            "synonyms": "groundbreaking, trailblazing",
+            "antonyms": "following, imitative",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পথপ্রদর্শক, নতুন কিছু সৃষ্টিতে অগ্রণী, উদ্ভাবনী",
+                    "word_transliteration": "pothoprodorshok, notun kichu srishtite ogroni, udbhaboni",
+                    "example_sentence_translation": "ন্যানোটেকনোলজিতে তার পাইওনিয়ারিং গবেষণা চিরতরে ক্ষেত্রটিকে পরিবর্তন করেছে।",
+                    "example_sentence_transliteration": "Nanotechnology te tar pioneering gobeshona chirtore khettrotike poriborton koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "elevate",
+            "phonetic": "ˈel.ɪ.veɪt",
+            "word_native_transliteration": {
+                "bn": "এলিভেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⬆️",
+            "meaning": "To lift to a higher position; to raise to a more important or impressive level.",
+            "example_sentence": "Good leadership can elevate team performance.",
+            "example_sentence_native_transliteration": {
+                "bn": "গুড লিডারশিপ ক্যান এলিভেট টিম পারফরমেন্স।"
+            },
+            "position": 19,
+            "synonyms": "boost, enhance",
+            "antonyms": "lower, diminish",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উন্নত করা, উচ্চতর করা, উন্নয়নসাধন করা",
+                    "word_transliteration": "unnoto kora, uchotoro kora, unnoyon sadhan kora",
+                    "example_sentence_translation": "দক্ষ নেতৃত্ব দলীয় কার্যকারিতা এলিভেট করতে পারে।",
+                    "example_sentence_transliteration": "Dokkhho netritoo doliyo karjokariota elevate korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "revolutionize",
+            "phonetic": "ˌrev.əˈluː.ʃə.naɪz",
+            "word_native_transliteration": {
+                "bn": "রেভোলিউশনাইজ"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🌟",
+            "meaning": "To change something completely and fundamentally.",
+            "example_sentence": "Artificial intelligence is set to revolutionize multiple industries.",
+            "example_sentence_native_transliteration": {
+                "bn": "আর্টিফিশিয়াল ইনটেলিজেন্স ইজ সেট টু রেভোলিউশনাইজ মাল্টিপল ইন্ডাস্ট্রিজ।"
+            },
+            "position": 20,
+            "synonyms": "transform, innovate",
+            "antonyms": "maintain, preserve",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিপ্লব ঘটানো, আমূল পরিবর্তন আনা, পুনর্গঠন করা",
+                    "word_transliteration": "biplob ghotano, amul poriborton ana, punorgothon kora",
+                    "example_sentence_translation": "কৃত্রিম বুদ্ধিমত্তা বহু শিল্পে রেভোলিউশনাইজ আনতে চলেছে।",
+                    "example_sentence_transliteration": "Kritrim buddhimotta bohu shilpe revolutionize ante choleche.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

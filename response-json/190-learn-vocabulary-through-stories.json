@@ -1,0 +1,283 @@
+{
+    "position": 190,
+    "title_translation": {
+        "en": "The Four Agreements",
+        "bn": "The Four Agreements"
+    },
+    "content_translation": {
+        "en": "**The Four Agreements** book's core concepts are extremely powerful for improving the quality of life. The first agreement, **be impeccable with your word**, means our words should never be aggressive or **negative** towards others. The second agreement, **don't take anything personally**, teaches us that what others say or do should not be taken personally. The third agreement, **don't make assumptions**, teaches us to be cautious of our own **assumptions**, because often we create wrong assumptions. The fourth agreement, **always do your best**, through which we must try our best, but we must not let feelings of **resignation** or defeat come to us.\n\nThese agreements help bring **equanimity** and **reconciliation** to our lives, because these are the fundamental power of our mental peace and self-confidence. Through **zeal** and **camaraderie**, success is possible by following these principles.",
+        "bn": "**The Four Agreements** বইয়ের মূল ধারণাগুলি জীবনের মান উন্নত করার জন্য অত্যন্ত শক্তিশালী। প্রথম চুক্তি, **be impeccable with your word**, মানে আমাদের কথা যেন কখনো অন্যদের প্রতি আক্রমণাত্মক বা **negative** না হয়। দ্বিতীয় চুক্তি, **don't take anything personally**, এই চুক্তি আমাদের শেখায়, অন্যরা যা বলে বা করে তা আমাদের ব্যক্তিগত না হওয়া উচিত। তৃতীয় চুক্তি, **don't make assumptions**, এই চুক্তি আমাদের নিজস্ব **assumptions** গুলির প্রতি সতর্ক থাকতে শেখায়, কারণ অনেক সময় আমরা ভুল ধারণা তৈরি করে ফেলি। চতুর্থ চুক্তি, **always do your best**, যার মাধ্যমে আমাদের সর্বোচ্চ চেষ্টা করতে হবে, তবে আমাদের **resignation** বা পরাজয়ের অনুভূতি না আসতে দিতে হবে।\n\nএই চুক্তিগুলি আমাদের জীবনে **equanimity** এবং **reconciliation** আনতে সাহায্য করে, কারণ এগুলি আমাদের মানসিক শান্তি এবং আত্মবিশ্বাসের মূল শক্তি। **Zeal** এবং **camaraderie**-এর মাধ্যমে এগুলি মানে সফলতা পাওয়া সম্ভব।"
+    },
+    "list": [
+        {
+            "word": "impeccable",
+            "phonetic": "ɪmˈpɛk.ə.bəl",
+            "word_native_transliteration": {
+                "bn": "ইমপেকেবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "✨",
+            "meaning": "Without fault or error; flawless.",
+            "example_sentence": "His impeccable manners impressed everyone at the event.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ইমপেকেবল ম্যানার্স ইমপ্রেসড এভরিওয়ান অ্যাট দ্য ইভেন্ট।"
+            },
+            "position": 1,
+            "synonyms": "flawless, perfect, unblemished",
+            "antonyms": "flawed, imperfect, defective",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিখুঁত",
+                    "word_transliteration": "nikhunto",
+                    "example_sentence_translation": "তার নিখুঁত আচরণ সবাইকে অনুষ্ঠানে মুগ্ধ করেছে।",
+                    "example_sentence_transliteration": "Tar nikhunto acharon shobaike onushthaney mugdho korechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "negative",
+            "phonetic": "ˈnɛɡ.ə.tɪv",
+            "word_native_transliteration": {
+                "bn": "নেগেটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "👎",
+            "meaning": "Not desirable or optimistic; harmful or unpleasant.",
+            "example_sentence": "She had a negative attitude about the upcoming project.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি হ্যাড এ নেগেটিভ অ্যাটিটিউড অ্যাবাউট দ্য আপকামিং প্রজেক্ট।"
+            },
+            "position": 2,
+            "synonyms": "pessimistic, dismal, unfavorable",
+            "antonyms": "positive, optimistic, affirmative",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নেতিবাচক",
+                    "word_transliteration": "netibachok",
+                    "example_sentence_translation": "সে আসন্ন প্রকল্প নিয়ে নেতিবাচক মনোভাব পোষণ করেছিল।",
+                    "example_sentence_transliteration": "She ashonno prokkolpo niye netibachok monobhab poshon korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "take personally",
+            "phonetic": "teɪk ˈpɜː.sən.əl.i",
+            "word_native_transliteration": {
+                "bn": "টেক পার্সোনালি"
+            },
+            "parts_of_speech": "phrase",
+            "emoji": "😞",
+            "meaning": "To interpret someone's words or actions as a personal attack or criticism.",
+            "example_sentence": "Don't take it personally, he didn't mean to upset you.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডোন্ট টেক ইট পার্সোনালি, হি ডিডন্ট মিন টু আপসেট ইউ।"
+            },
+            "position": 3,
+            "synonyms": "be offended, take offense, be hurt",
+            "antonyms": "accept professionally, let go, remain unaffected",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ব্যক্তিগতভাবে নেওয়া",
+                    "word_transliteration": "bektigotbhabe neoya",
+                    "example_sentence_translation": "এটা ব্যক্তিগতভাবে নিও না, সে তোমাকে বিরক্ত করতে চায়নি।",
+                    "example_sentence_transliteration": "Eta bektigotbhabe nio na, she tomake birokto korte chaynni.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "assumptions",
+            "phonetic": "əˈsʌmp.ʃənz",
+            "word_native_transliteration": {
+                "bn": "অ্যাসাম্পশনস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤔",
+            "meaning": "Things that are accepted as true or certain to happen, without proof.",
+            "example_sentence": "His assumptions about the project were completely wrong.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ অ্যাসাম্পশনস অ্যাবাউট দ্য প্রজেক্ট ওয়ার কমপ্লিটলি রং।"
+            },
+            "position": 4,
+            "synonyms": "presumption, belief, hypothesis",
+            "antonyms": "facts, certainty, reality",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ধারণা",
+                    "word_transliteration": "dharona",
+                    "example_sentence_translation": "প্রকল্প সম্পর্কে তার অনুমানগুলি পুরোপুরি ভুল ছিল।",
+                    "example_sentence_transliteration": "Prokkolpo shomporke tar onumanguli puropuri bhul chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "best effort",
+            "phonetic": "bɛst ˈɛf.ərt",
+            "word_native_transliteration": {
+                "bn": "বেস্ট এফোর্ট"
+            },
+            "parts_of_speech": "phrase",
+            "emoji": "💪",
+            "meaning": "The maximum amount of effort or energy that someone can give.",
+            "example_sentence": "He gave his best effort to complete the task on time.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি গেভ হিজ বেস্ট এফোর্ট টু কমপ্লিট দ্য টাস্ক অন টাইম।"
+            },
+            "position": 5,
+            "synonyms": "maximum effort, full commitment, hard work",
+            "antonyms": "half-hearted attempt, negligence, laziness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সর্বোচ্চ প্রচেষ্টা",
+                    "word_transliteration": "shorbochcho procheshta",
+                    "example_sentence_translation": "সে সময়মতো কাজ সম্পন্ন করার জন্য সর্বোচ্চ প্রচেষ্টা দিয়েছে।",
+                    "example_sentence_transliteration": "She shoymotho kaj shompnno korar jonno shorbochcho procheshta diyechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "resignation",
+            "phonetic": "ˌrɛzɪɡˈneɪʃən",
+            "word_native_transliteration": {
+                "bn": "রেজিগনেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "😔",
+            "meaning": "The acceptance of something undesirable but inevitable; giving up.",
+            "example_sentence": "Her resignation from the position was unexpected.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার রেজিগনেশন ফ্রম দ্য পজিশন ওয়াজ আনএক্সপেক্টেড।"
+            },
+            "position": 6,
+            "synonyms": "withdrawal, surrender, retire",
+            "antonyms": "resistance, persistence, continuation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অপসারণ",
+                    "word_transliteration": "opsharon",
+                    "example_sentence_translation": "তার পদত্যাগ অপ্রত্যাশিত ছিল।",
+                    "example_sentence_transliteration": "Tar podtotyag oprotyashito chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "equanimity",
+            "phonetic": "ˌiː.kwəˈnɪm.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "ইকুয়ানিমিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧘",
+            "meaning": "Mental calmness, composure, and evenness of temper, especially in difficult situations.",
+            "example_sentence": "She handled the stressful situation with equanimity.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি হ্যান্ডলড দ্য স্ট্রেসফুল সিচুয়েশন উইথ ইকুয়ানিমিটি।"
+            },
+            "position": 7,
+            "synonyms": "composure, calmness, serenity",
+            "antonyms": "agitation, anxiety, disturbance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শান্ত মনোভাব",
+                    "word_transliteration": "shanto monobhab",
+                    "example_sentence_translation": "সে চাপপূর্ণ পরিস্থিতি শান্ত মনোভাব নিয়ে মোকাবিলা করেছে।",
+                    "example_sentence_transliteration": "She chappurno poristhiti shanto monobhab niye mokabila korechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "reconciliation",
+            "phonetic": "ˌrɛk.ənˌsɪl.iˈeɪʃən",
+            "word_native_transliteration": {
+                "bn": "রেকনসিলিয়েশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "The restoration of friendly relations; the action of making one view or belief compatible with another.",
+            "example_sentence": "The reconciliation between the two friends was heartfelt.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রেকনসিলিয়েশন বিটুইন দ্য টু ফ্রেন্ডস ওয়াজ হার্টফেল্ট।"
+            },
+            "position": 8,
+            "synonyms": "settlement, agreement, resolution",
+            "antonyms": "conflict, disagreement, estrangement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুনর্মিলন",
+                    "word_transliteration": "punormillon",
+                    "example_sentence_translation": "দুই বন্ধুর পুনর্মিলন ছিল হৃদয়গ্রাহী।",
+                    "example_sentence_transliteration": "Dui bondhur punormillon chhilo hridoygrahi.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "zeal",
+            "phonetic": "ziːl",
+            "word_native_transliteration": {
+                "bn": "জিল"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔥",
+            "meaning": "Great energy or enthusiasm in pursuit of a cause or objective.",
+            "example_sentence": "He worked with great zeal to finish the project on time.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি ওয়ার্কড উইথ গ্রেট জিল টু ফিনিশ দ্য প্রজেক্ট অন টাইম।"
+            },
+            "position": 9,
+            "synonyms": "enthusiasm, passion, eagerness",
+            "antonyms": "apathy, indifference, lethargy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উৎসাহ",
+                    "word_transliteration": "utshaho",
+                    "example_sentence_translation": "সে সময়মতো প্রকল্প শেষ করার জন্য গভীর উৎসাহ নিয়ে কাজ করেছে।",
+                    "example_sentence_transliteration": "She shoymotho prokkolpo shesh korar jonno gobhir utshaho niye kaj korechhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "camaraderie",
+            "phonetic": "ˌkæm.əˈrɑː.dəri",
+            "word_native_transliteration": {
+                "bn": "ক্যামারাডেরি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👥",
+            "meaning": "Mutual trust and friendship among people who spend a lot of time together.",
+            "example_sentence": "The team's camaraderie made the work environment enjoyable.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য টিমস ক্যামারাডেরি মেড দ্য ওয়ার্ক এনভায়রনমেন্ট এনজয়েবল।"
+            },
+            "position": 10,
+            "synonyms": "fellowship, friendship, team spirit",
+            "antonyms": "isolation, alienation, division",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভ্রাতৃত্ব",
+                    "word_transliteration": "bhratritwo",
+                    "example_sentence_translation": "দলের ভ্রাতৃত্ব কাজের পরিবেশকে উপভোগ্য করে তুলেছিল।",
+                    "example_sentence_transliteration": "Doler bhratritwo kajer poribeshke upobhogyo kore tulechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

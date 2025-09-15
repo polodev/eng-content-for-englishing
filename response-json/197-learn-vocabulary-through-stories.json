@@ -1,0 +1,472 @@
+{
+    "position": 197,
+    "title_translation": {
+        "en": "The Impact of Trade on Economies",
+        "bn": "অর্থনীতিতে বাণিজ্যের প্রভাব"
+    },
+    "content_translation": {
+        "en": "**International trade** plays a crucial role in maintaining a country's **macroeconomic** stability. When two countries establish **bilateral** commercial relationships through agreements, both countries experience increased economic **capitalization**. However, sometimes **protectionism** policies are adopted to protect domestic producers by controlling foreign competition through **tariffs**. Again, if a country imposes **embargo** or **retaliatory** sanctions, it creates business **disparity**, which has a negative impact on the economy.\n\nMany countries adopt **deregulation** policies to create a **laissez-faire** environment in the market, which creates new business opportunities through increased **diversification**. On the other hand, excessive **subsidization** and **expropriation** policies can disrupt market **equilibrium**.\n\nTherefore, when trade is conducted properly, it controls **inflationary** pressure and ensures overall development by increasing economic **monetization**.",
+        "bn": "আন্তর্জাতিক **trade** একটি দেশের **macroeconomic** স্থিতিশীলতা বজায় রাখতে গুরুত্বপূর্ণ ভূমিকা পালন করে। যখন দুটি দেশ **bilateral** চুক্তির মাধ্যমে বাণিজ্যিক সম্পর্ক স্থাপন করে, তখন উভয় দেশের অর্থনৈতিক **capitalization** বৃদ্ধি পায়। তবে, কখনো কখনো **protectionism** নীতি গ্রহণ করে দেশীয় উৎপাদনকারীদের রক্ষা করা হয়, যা **tariff** আরোপের মাধ্যমে বৈদেশিক প্রতিযোগিতা নিয়ন্ত্রণ করে। আবার, কোনো দেশ যদি **embargo** বা **retaliatory** নিষেধাজ্ঞা আরোপ করে, তাহলে ব্যবসায়িক **disparity** তৈরি হয়, যা অর্থনীতির উপর নেতিবাচক প্রভাব ফেলে।\n\nঅনেক দেশ **deregulation** নীতি গ্রহণ করে বাজারে **laissez-faire** পরিবেশ তৈরি করে, যা **diversification** বৃদ্ধির মাধ্যমে নতুন ব্যবসায়িক সুযোগ তৈরি করে। অন্যদিকে, অতিরিক্ত **subsidization** এবং **expropriation** নীতি বাজারের **equilibrium** নষ্ট করতে পারে।\n\nঅতএব, বাণিজ্য সঠিকভাবে পরিচালনা করলে এটি **inflationary** চাপ নিয়ন্ত্রণ করে এবং অর্থনৈতিক **monetization** বাড়িয়ে সামগ্রিক উন্নয়ন নিশ্চিত করে।"
+    },
+    "list": [
+        {
+            "word": "trade",
+            "phonetic": "/treɪd/",
+            "word_native_transliteration": {
+                "bn": "ট্রেড"
+            },
+            "parts_of_speech": "noun/verb",
+            "emoji": "🏪",
+            "meaning": "The exchange of goods and services or the commercial buying and selling process.",
+            "example_sentence": "International trade fosters economic growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইন্টারনেশনাল ট্রেড ফস্টারস ইকোনমিক গ্রোথ।"
+            },
+            "position": 1,
+            "synonyms": "commerce, exchange, business",
+            "antonyms": "isolation, self-sufficiency, autarky",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাণিজ্য",
+                    "word_transliteration": "banijyo",
+                    "example_sentence_translation": "আন্তর্জাতিক বাণিজ্য অর্থনৈতিক প্রবৃদ্ধিকে উৎসাহিত করে।",
+                    "example_sentence_transliteration": "Antarjatik banijyo orthonoitik probriddhike utsahit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "macroeconomic",
+            "phonetic": "/ˌmæk.roʊ.iː.kəˈnɒm.ɪk/",
+            "word_native_transliteration": {
+                "bn": "ম্যাক্রোইকোনমিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📊",
+            "meaning": "Related to the overall economic matters of a country including national economy, economic trends, and large-scale financial systems.",
+            "example_sentence": "Government policies impact macroeconomic stability.",
+            "example_sentence_native_transliteration": {
+                "bn": "গভর্নমেন্ট পলিসিজ ইম্প্যাক্ট ম্যাক্রোইকোনমিক স্ট্যাবিলিটি।"
+            },
+            "position": 2,
+            "synonyms": "national economy, economic trends, large-scale financial system",
+            "antonyms": "microeconomic, individual finance, localized economy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সামষ্টিক অর্থনৈতিক",
+                    "word_transliteration": "shamoshthik orthonoitik",
+                    "example_sentence_translation": "সরকারের নীতি সামষ্টিক অর্থনৈতিক স্থিতিশীলতাকে প্রভাবিত করে।",
+                    "example_sentence_transliteration": "Sorkarer niti shamoshthik orthonoitik sthitishiltake probhabit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "bilateral",
+            "phonetic": "/ˌbaɪˈlæt.ər.əl/",
+            "word_native_transliteration": {
+                "bn": "বাইল্যাটারেল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🤝",
+            "meaning": "An agreement or relationship between two parties that is mutual, two-sided, or reciprocal.",
+            "example_sentence": "The two countries signed a bilateral trade agreement.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য টু কান্ট্রিজ সাইনড এ বাইল্যাটারেল ট্রেড এগ্রিমেন্ট।"
+            },
+            "position": 3,
+            "synonyms": "mutual, two-sided, reciprocal",
+            "antonyms": "unilateral, one-sided, independent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্বিপাক্ষিক",
+                    "word_transliteration": "dhipakkhik",
+                    "example_sentence_translation": "দুটি দেশ একটি দ্বিপাক্ষিক বাণিজ্য চুক্তি স্বাক্ষর করেছে।",
+                    "example_sentence_transliteration": "Duti desh ekti dhipakkhik banijyo chukti swakkhor koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "capitalization",
+            "phonetic": "/ˌkæp.ɪ.təl.aɪˈzeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ক্যাপিটালাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💰",
+            "meaning": "The total value of a business's assets or investments, including investment, financing, and asset allocation.",
+            "example_sentence": "The company's capitalization reached $1 billion in market value.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানিজ ক্যাপিটালাইজেশন রিচড ওয়ান বিলিয়ন ইন মার্কেট ভ্যালিউ।"
+            },
+            "position": 4,
+            "synonyms": "investment, financing, asset allocation",
+            "antonyms": "underfunding, bankruptcy, insolvency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মূলধনায়ন",
+                    "word_transliteration": "muldhonayan",
+                    "example_sentence_translation": "কোম্পানির মূলধনায়ন বাজারে ১ বিলিয়ন ডলারে পৌঁছেছে।",
+                    "example_sentence_transliteration": "Kompanir muldhonayan bajare 1 billion dollare poucheche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "protectionism",
+            "phonetic": "/prəˈtɛk.ʃəˌnɪz.əm/",
+            "word_native_transliteration": {
+                "bn": "প্রোটেকশনিজম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛡️",
+            "meaning": "A trade policy that restricts imports to safeguard domestic industries through trade restriction, economic nationalism, or isolationism.",
+            "example_sentence": "The government imposed protectionism to safeguard local businesses.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গভর্নমেন্ট ইমপোজড প্রোটেকশনিজম টু সেফগার্ড লোকাল বিজনেসেস।"
+            },
+            "position": 5,
+            "synonyms": "trade restriction, economic nationalism, isolationism",
+            "antonyms": "free trade, globalization, open markets",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রক্ষণশীল বাণিজ্য নীতি",
+                    "word_transliteration": "rokkkhonshil banijyo niti",
+                    "example_sentence_translation": "সরকার স্থানীয় ব্যবসাগুলোকে রক্ষার জন্য রক্ষণশীল বাণিজ্য নীতি গ্রহণ করেছে।",
+                    "example_sentence_transliteration": "Sorkar sthanio byabsaguloke rokkhar jonno rokkkhonshil banijyo niti grohon koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "tariff",
+            "phonetic": "/ˈtær.ɪf/",
+            "word_native_transliteration": {
+                "bn": "ট্যারিফ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💲",
+            "meaning": "A tax imposed by the government on imported or exported goods, also known as duty, customs tax, or levy.",
+            "example_sentence": "The new tariff increased the cost of imported goods.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিউ ট্যারিফ ইনক্রিসড দ্য কস্ট অফ ইমপোর্টেড গুডস।"
+            },
+            "position": 6,
+            "synonyms": "duty, customs tax, levy",
+            "antonyms": "free trade, duty-free, exemption",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শুল্ক",
+                    "word_transliteration": "shulko",
+                    "example_sentence_translation": "নতুন শুল্ক আমদানিকৃত পণ্যের খরচ বৃদ্ধি করেছে।",
+                    "example_sentence_transliteration": "Notun shulko amdanikrito ponyer khoroch briddhi koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "embargo",
+            "phonetic": "/ɪmˈbɑː.ɡoʊ/",
+            "word_native_transliteration": {
+                "bn": "এমবার্গো"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚫",
+            "meaning": "A trade ban, restriction, or prohibition imposed by a government or international organization on a country.",
+            "example_sentence": "The UN imposed an embargo on arms exports.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইউএন ইমপোজড এন এমবার্গো অন আর্মস এক্সপোর্টস।"
+            },
+            "position": 7,
+            "synonyms": "trade ban, restriction, prohibition",
+            "antonyms": "trade agreement, free trade, open market",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাণিজ্য নিষেধাজ্ঞা",
+                    "word_transliteration": "banijyo nishedhagya",
+                    "example_sentence_translation": "জাতিসংঘ অস্ত্র রপ্তানির উপর নিষেধাজ্ঞা আরোপ করেছে।",
+                    "example_sentence_transliteration": "Jatishongho ostro roptanir upor nishedhagya arop koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "retaliatory",
+            "phonetic": "/rɪˈtæl.i.ə.tɔːr.i/",
+            "word_native_transliteration": {
+                "bn": "রিট্যালিয়েটরি"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚔️",
+            "meaning": "Taking action in response to another's action, characterized as punitive, revengeful, or counteractive.",
+            "example_sentence": "The country imposed retaliatory tariffs in response to trade sanctions.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কান্ট্রি ইমপোজড রিট্যালিয়েটরি ট্যারিফস ইন রেসপন্স টু ট্রেড স্যাংশনস।"
+            },
+            "position": 8,
+            "synonyms": "punitive, revengeful, counteractive",
+            "antonyms": "conciliatory, forgiving, passive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিশোধমূলক",
+                    "word_transliteration": "protishodhmulok",
+                    "example_sentence_translation": "দেশটি বাণিজ্য নিষেধাজ্ঞার প্রতিক্রিয়ায় প্রতিশোধমূলক শুল্ক আরোপ করেছে।",
+                    "example_sentence_transliteration": "Deshti banijyo nishedhagya protikriyay protishodhmulok shulko arop koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "disparity",
+            "phonetic": "/dɪˈspær.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "ডিস্প্যারিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "Inequality, difference, or imbalance between two or more things.",
+            "example_sentence": "The disparity in income between rich and poor is increasing.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডিস্প্যারিটি ইন ইনকাম বিটউইন রিচ এন্ড পুর ইজ ইনক্রিসিং।"
+            },
+            "position": 9,
+            "synonyms": "inequality, difference, imbalance",
+            "antonyms": "equality, similarity, parity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৈষম্য",
+                    "word_transliteration": "boishomyo",
+                    "example_sentence_translation": "ধনী ও দরিদ্রদের মধ্যে আয়ের বৈষম্য বাড়ছে।",
+                    "example_sentence_transliteration": "Dhoni o doridrodor modhye ayer boishomyo barche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "deregulation",
+            "phonetic": "/ˌdiː.rɛɡ.jʊˈleɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ডিরেগুলেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔓",
+            "meaning": "The removal or reduction of government regulations and controls, often involving liberalization, free market policies, or privatization.",
+            "example_sentence": "The deregulation of industries boosted economic growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডিরেগুলেশন অফ ইন্ডাস্ট্রিজ বুস্টেড ইকোনমিক গ্রোথ।"
+            },
+            "position": 10,
+            "synonyms": "liberalization, free market, privatization",
+            "antonyms": "regulation, control, restriction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিয়ন্ত্রণমুক্তকরণ",
+                    "word_transliteration": "niyontronmuktokoron",
+                    "example_sentence_translation": "শিল্প খাতের নিয়ন্ত্রণমুক্তকরণ অর্থনৈতিক প্রবৃদ্ধি ত্বরান্বিত করেছে।",
+                    "example_sentence_transliteration": "Shilpo khater niyontronmuktokoron orthonoitik probiddhi tworanbit koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "laissez-faire",
+            "phonetic": "/ˌlɛ.seɪˈfɛər/",
+            "word_native_transliteration": {
+                "bn": "ল্যাসেজ-ফেয়ার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏛️",
+            "meaning": "A free-market policy of minimal government intervention in economic affairs, characterized by non-interventionism and capitalism.",
+            "example_sentence": "The country adopted a laissez-faire approach to economic policies.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কান্ট্রি এডপটেড এ ল্যাসেজ-ফেয়ার এপ্রোচ টু ইকোনমিক পলিসিজ।"
+            },
+            "position": 11,
+            "synonyms": "free-market policy, non-interventionism, capitalism",
+            "antonyms": "interventionism, regulation, protectionism",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অহস্তক্ষেপবাদ",
+                    "word_transliteration": "ohastokkhepobaad",
+                    "example_sentence_translation": "দেশটি অর্থনৈতিক নীতিতে অহস্তক্ষেপবাদ গ্রহণ করেছে।",
+                    "example_sentence_transliteration": "Deshti orthonoitik nitite ohastokkhepobaad grohon koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "diversification",
+            "phonetic": "/daɪˌvɜː.sɪ.fɪˈkeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ডাইভার্সিফিকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌐",
+            "meaning": "The process of expanding into different areas or markets to reduce risk, involving expansion, variety, and differentiation.",
+            "example_sentence": "The company's diversification into new markets increased its revenue.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানিজ ডাইভার্সিফিকেশন ইনটু নিউ মার্কেটস ইনক্রিসড ইটস রেভিনিউ।"
+            },
+            "position": 12,
+            "synonyms": "expansion, variety, differentiation",
+            "antonyms": "specialization, uniformity, concentration",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৈচিত্র্যকরণ",
+                    "word_transliteration": "boichitryokoron",
+                    "example_sentence_translation": "নতুন বাজারে কোম্পানির বৈচিত্র্যকরণ আয় বৃদ্ধি করেছে।",
+                    "example_sentence_transliteration": "Notun bajare kompanir boichitryokoron ay briddhi koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "subsidization",
+            "phonetic": "/ˌsʌb.sɪ.dɪˈzeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "সাবসিডাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💸",
+            "meaning": "Financial assistance provided by government or organizations, also known as financial aid, grant, or sponsorship.",
+            "example_sentence": "The government provided subsidization to support farmers.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গভর্নমেন্ট প্রোভাইডেড সাবসিডাইজেশন টু সাপোর্ট ফার্মারস।"
+            },
+            "position": 13,
+            "synonyms": "financial aid, grant, sponsorship",
+            "antonyms": "taxation, financial withdrawal, self-sufficiency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনুদান",
+                    "word_transliteration": "anudan",
+                    "example_sentence_translation": "সরকার কৃষকদের সহায়তার জন্য ভর্তুকি প্রদান করেছে।",
+                    "example_sentence_transliteration": "Sorkar krishokder shohayotar jonno bhortuki prodan koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "expropriation",
+            "phonetic": "/ɪkˌsprəʊ.priˈeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "এক্সপ্রোপ্রিয়েশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏛️",
+            "meaning": "The act of government taking private property, also known as confiscation, nationalization, or seizure.",
+            "example_sentence": "The land expropriation led to disputes among landowners.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ল্যান্ড এক্সপ্রোপ্রিয়েশন লেড টু ডিসপিউটস এমাং ল্যান্ডওনারস।"
+            },
+            "position": 14,
+            "synonyms": "confiscation, nationalization, seizure",
+            "antonyms": "privatization, ownership, reimbursement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সম্পত্তি অধিগ্রহণ",
+                    "word_transliteration": "shompotti odhigrohon",
+                    "example_sentence_translation": "জমি অধিগ্রহণের কারণে ভূমি মালিকদের মধ্যে বিরোধ দেখা দেয়।",
+                    "example_sentence_transliteration": "Jomi odhigrohoner karone bhumi maliokder modhye birodh dekha dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "equilibrium",
+            "phonetic": "/ˌiː.kwɪˈlɪb.ri.əm/",
+            "word_native_transliteration": {
+                "bn": "ইকুইলিব্রিয়াম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "A state of balance, stability, and steadiness between supply and demand or different forces.",
+            "example_sentence": "The market reached equilibrium between supply and demand.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য মার্কেট রিচড ইকুইলিব্রিয়াম বিটউইন সাপ্লাই এন্ড ডিমান্ড।"
+            },
+            "position": 15,
+            "synonyms": "balance, stability, steadiness",
+            "antonyms": "imbalance, instability, disproportion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভারসাম্য",
+                    "word_transliteration": "bharshamy",
+                    "example_sentence_translation": "বাজারে চাহিদা ও সরবরাহের মধ্যে ভারসাম্য প্রতিষ্ঠিত হয়েছে।",
+                    "example_sentence_transliteration": "Bajare chahida o shorborhaer modhye bharshamy protishthit hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "inflationary",
+            "phonetic": "/ɪnˈfleɪ.ʃən.ər.i/",
+            "word_native_transliteration": {
+                "bn": "ইনফ্লেশনারি"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📈",
+            "meaning": "Related to rising prices and decreasing purchasing power of money, characterized as price-rising, cost-increasing, or expansionary.",
+            "example_sentence": "The country faced an inflationary crisis due to excessive money printing.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কান্ট্রি ফেসড এন ইনফ্লেশনারি ক্রাইসিস ডিউ টু এক্সেসিভ মানি প্রিন্টিং।"
+            },
+            "position": 16,
+            "synonyms": "price-rising, cost-increasing, expansionary",
+            "antonyms": "deflationary, price-reducing, contractionary",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মূল্যস্ফীতিজনিত",
+                    "word_transliteration": "mulyosphitijonit",
+                    "example_sentence_translation": "অতিরিক্ত মুদ্রা ছাপানোর কারণে দেশটি একটি মূল্যস্ফীতিজনিত সংকটের সম্মুখীন হয়েছে।",
+                    "example_sentence_transliteration": "Otirikto mudra chapanor karone deshti ekti mulyosphitijonit shongkoter shommukhin hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "monetization",
+            "phonetic": "/ˌmɒn.ɪ.taɪˈzeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "মনেটাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💱",
+            "meaning": "The process of converting assets or services into money, involving commercialization, profit generation, and revenue creation.",
+            "example_sentence": "The monetization of digital content has created new income streams.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য মনেটাইজেশন অফ ডিজিটাল কনটেন্ট হ্যাজ ক্রিয়েটেড নিউ ইনকাম স্ট্রিমস।"
+            },
+            "position": 17,
+            "synonyms": "commercialization, profit generation, revenue creation",
+            "antonyms": "devaluation, financial loss, depreciation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অর্থায়ন",
+                    "word_transliteration": "orthayan",
+                    "example_sentence_translation": "ডিজিটাল কনটেন্টের নগদীকরণ নতুন আয়ের পথ সৃষ্টি করেছে।",
+                    "example_sentence_transliteration": "Digital kontenter nogdikoron notun ayer poth srishti koreche.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

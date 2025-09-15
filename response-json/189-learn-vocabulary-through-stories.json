@@ -1,0 +1,526 @@
+{
+    "position": 189,
+    "title_translation": {
+        "en": "The Evolution of Modern Farming",
+        "bn": "আধুনিক কৃষির বিকাশ"
+    },
+    "content_translation": {
+        "en": "The history of agriculture has undergone changes over many centuries. At one time, agricultural work was completely manual, but **mechanization** has brought a new revolution to the agricultural sector. Modern agriculture is no longer limited to **cultivation** or crop production alone, it also emphasizes **sustainability** and maintaining **biodiversity**.\n\nModern agricultural methods have improved **irrigation** and **fertilization** systems, which help increase crop **yield** **optimization**. However, **industrialization** has created problems of **soil erosion** and **depletion**. Therefore, **regenerative farming** and **organic farming** are now much more popular.\n\nAs a result of scientific research, **genetic modification** and **precision agriculture** have brought new possibilities for farmers. In many places, **hydroponics** is being used to produce vegetables without soil.\n\nHowever, **monoculture** agricultural systems increase the risk of **ecosystem** destruction. Therefore, the application of **agroecology** model is now essential to ensure sustainable development in agriculture.",
+        "bn": "কৃষির ইতিহাস বহু শতাব্দী ধরে পরিবর্তনের মধ্য দিয়ে গেছে। একসময় কৃষি কাজ ছিল সম্পূর্ণ হাতে পরিচালিত, কিন্তু **mechanization** কৃষিক্ষেত্রে নতুন বিপ্লব ঘটিয়েছে। আধুনিক কৃষি এখন শুধু **cultivation** বা ফসল উৎপাদনের মধ্যে সীমাবদ্ধ নেই, এটি **sustainability** এবং **biodiversity** বজায় রাখার ওপরও গুরুত্ব দিচ্ছে।\n\nআধুনিক কৃষি পদ্ধতিতে **irrigation** এবং **fertilization** ব্যবস্থার উন্নতি হয়েছে, যা ফসলের **yield** **optimization** বাড়াতে সাহায্য করছে। কিন্তু **industrialization**-এর ফলে **soil erosion** এবং **depletion** সমস্যা তৈরি হয়েছে। তাই **regenerative farming** ও **organic farming** এখন অনেক বেশি জনপ্রিয়।\n\nবৈজ্ঞানিক গবেষণার ফলে **genetic modification** ও **precision agriculture** কৃষকদের জন্য নতুন সম্ভাবনা নিয়ে এসেছে। অনেক জায়গায় **hydroponics** ব্যবহার করে মাটি ছাড়াই শাকসবজি উৎপাদন করা হচ্ছে।\n\nতবে, **monoculture** কৃষি ব্যবস্থায় **ecosystem** ধ্বংসের ঝুঁকি বাড়ায়। তাই, কৃষিতে টেকসই উন্নয়ন নিশ্চিত করতে **agroecology** মডেলের প্রয়োগ এখন জরুরি।"
+    },
+    "list": [
+        {
+            "word": "mechanization",
+            "phonetic": "ˌmɛk.ə.nɪˈzeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "মেকানাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚙️",
+            "meaning": "The use of machines in agriculture or industry to increase production efficiency.",
+            "example_sentence": "The mechanization of agriculture increased productivity.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য মেকানাইজেশন অব অ্যাগ্রিকালচার ইনক্রিজড প্রোডাক্টিভিটি।"
+            },
+            "position": 1,
+            "synonyms": "automation, industrialization, modernization",
+            "antonyms": "manual labor, traditional methods, handcraft",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "যান্ত্রিকীকরণ",
+                    "word_transliteration": "jantrikikaron",
+                    "example_sentence_translation": "কৃষির যান্ত্রিকীকরণ উৎপাদনশীলতা বৃদ্ধি করেছে।",
+                    "example_sentence_transliteration": "Krishir jantrikikaron utpadanshilota bridhi koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cultivation",
+            "phonetic": "ˌkʌl.tɪˈveɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "কাল্টিভেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌱",
+            "meaning": "The practice of farming and growing crops on land.",
+            "example_sentence": "Modern cultivation techniques improve crop yield.",
+            "example_sentence_native_transliteration": {
+                "bn": "মডার্ন কাল্টিভেশন টেকনিকস ইমপ্রুভ ক্রপ ইল্ড।"
+            },
+            "position": 2,
+            "synonyms": "farming, agriculture, tilling",
+            "antonyms": "neglect, abandonment, barren land",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চাষাবাদ",
+                    "word_transliteration": "chasabad",
+                    "example_sentence_translation": "আধুনিক চাষাবাদ কৌশল ফসলের উৎপাদন বাড়ায়।",
+                    "example_sentence_transliteration": "Adhunik chasabad koushal foshler utpadan baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sustainability",
+            "phonetic": "səˌsteɪ.nəˈbɪl.ə.ti",
+            "word_native_transliteration": {
+                "bn": "সাস্টেইনঅ্যাবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "♻️",
+            "meaning": "The ability to maintain balance in environment, economy and society for the long term.",
+            "example_sentence": "Sustainability is key to preserving natural resources.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাস্টেইনঅ্যাবিলিটি ইজ কি টু প্রিজার্ভিং ন্যাচারাল রিসোর্সেস।"
+            },
+            "position": 3,
+            "synonyms": "durability, eco-friendliness, long-term viability",
+            "antonyms": "unsustainability, instability, short-term growth",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "টেকসই উন্নয়ন",
+                    "word_transliteration": "tekshoi unnayan",
+                    "example_sentence_translation": "প্রাকৃতিক সম্পদ সংরক্ষণের জন্য টেকসই উন্নয়ন অপরিহার্য।",
+                    "example_sentence_transliteration": "Prakritik sompod songrokkhoner jonno tekshoi unnayan oporhario.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "biodiversity",
+            "phonetic": "ˌbaɪ.oʊ.daɪˈvɜː.sə.ti",
+            "word_native_transliteration": {
+                "bn": "বায়োডাইভার্সিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌿",
+            "meaning": "The presence of different species of plants and animals in a particular region.",
+            "example_sentence": "Protecting biodiversity is essential for ecological balance.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোটেক্টিং বায়োডাইভার্সিটি ইজ এসেনশিয়াল ফর ইকোলজিক্যাল ব্যালেন্স।"
+            },
+            "position": 4,
+            "synonyms": "ecosystem variety, species richness, genetic diversity",
+            "antonyms": "monoculture, uniformity, species loss",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জীববৈচিত্র্য",
+                    "word_transliteration": "jibboichitro",
+                    "example_sentence_translation": "জীববৈচিত্র্য সংরক্ষণ পরিবেশগত ভারসাম্যের জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Jibboichitro songrokkhon poribeshhogoto bharshammer jonno oporhario.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "irrigation",
+            "phonetic": "ˌɪr.ɪˈɡeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ইরিগেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚿",
+            "meaning": "The controlled supply of water to land for agricultural production.",
+            "example_sentence": "Irrigation helps increase agricultural productivity.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইরিগেশন হেল্পস ইনক্রিজ অ্যাগ্রিকালচারাল প্রোডাক্টিভিটি।"
+            },
+            "position": 5,
+            "synonyms": "watering, hydration, flooding",
+            "antonyms": "drought, dehydration, dryness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সেচ ব্যবস্থা",
+                    "word_transliteration": "shech bebostha",
+                    "example_sentence_translation": "সেচ ব্যবস্থা কৃষি উৎপাদনশীলতা বৃদ্ধি করতে সহায়ক।",
+                    "example_sentence_transliteration": "Shech bebostha krishi utpadanshilota bridhi korte shohayok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fertilization",
+            "phonetic": "ˌfɜːr.tɪ.laɪˈzeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ফার্টিলাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌾",
+            "meaning": "The process of adding nutrients to soil to increase crop productivity.",
+            "example_sentence": "Organic fertilization enhances soil health.",
+            "example_sentence_native_transliteration": {
+                "bn": "অর্গানিক ফার্টিলাইজেশন এনহান্সেস সয়েল হেলথ।"
+            },
+            "position": 6,
+            "synonyms": "soil enrichment, composting, manuring",
+            "antonyms": "soil depletion, erosion, nutrient loss",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সার প্রয়োগ",
+                    "word_transliteration": "shar proyog",
+                    "example_sentence_translation": "জৈব সার প্রয়োগ মাটির স্বাস্থ্যের উন্নতি করে।",
+                    "example_sentence_transliteration": "Joibo shar proyog matir shasthyer unnoti kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "yield",
+            "phonetic": "jiːld",
+            "word_native_transliteration": {
+                "bn": "ইল্ড"
+            },
+            "parts_of_speech": "noun/verb",
+            "emoji": "📈",
+            "meaning": "The amount of agricultural or industrial products produced in a specific time.",
+            "example_sentence": "The farm's wheat yield increased due to better irrigation.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফার্মস হুইট ইল্ড ইনক্রিজড ডিউ টু বেটার ইরিগেশন।"
+            },
+            "position": 7,
+            "synonyms": "production, harvest, output",
+            "antonyms": "loss, deficiency, reduction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উৎপাদন",
+                    "word_transliteration": "utpadan",
+                    "example_sentence_translation": "উন্নত সেচ ব্যবস্থার কারণে খামারের গমের ফলন বৃদ্ধি পেয়েছে।",
+                    "example_sentence_transliteration": "Unnoto shech bebosthar karone khamarer gomer folon bridhi peyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "optimization",
+            "phonetic": "ˌɒp.tɪ.mɪˈzeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "অপটিমাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "The process of making something work in the best possible way or achieving maximum efficiency.",
+            "example_sentence": "The company focused on optimization of resources to maximize profits.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি ফোকাসড অন অপটিমাইজেশন অব রিসোর্সেস টু ম্যাক্সিমাইজ প্রফিটস।"
+            },
+            "position": 8,
+            "synonyms": "efficiency, improvement, refinement",
+            "antonyms": "inefficiency, wastefulness, mismanagement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সর্বোচ্চ কার্যকারিতা",
+                    "word_transliteration": "sorbochcho karjokaritto",
+                    "example_sentence_translation": "কোম্পানিটি মুনাফা বাড়ানোর জন্য সম্পদের সর্বোচ্চ ব্যবহার নিশ্চিত করতে মনোযোগ দিয়েছে।",
+                    "example_sentence_transliteration": "Kompaniti munafa barhanor jonno sompoder sorbochcho bebhar nishchito korte monojog diyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "industrialization",
+            "phonetic": "ɪnˌdʌs.tri.ə.laɪˈzeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ইন্ডাস্ট্রিয়ালাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏭",
+            "meaning": "The development of manufacturing sectors for economic growth.",
+            "example_sentence": "Rapid industrialization transformed rural economies.",
+            "example_sentence_native_transliteration": {
+                "bn": "র‍্যাপিড ইন্ডাস্ট্রিয়ালাইজেশন ট্রান্সফর্মড রুরাল ইকোনমিজ।"
+            },
+            "position": 9,
+            "synonyms": "manufacturing growth, urbanization, mechanization",
+            "antonyms": "deindustrialization, agrarianism, underdevelopment",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শিল্পায়ন",
+                    "word_transliteration": "shilpayon",
+                    "example_sentence_translation": "দ্রুত শিল্পায়ন গ্রামীণ অর্থনীতিকে পরিবর্তন করেছে।",
+                    "example_sentence_transliteration": "Druto shilpayon gramin orthnitike poriborton koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "soil erosion",
+            "phonetic": "sɔɪl ɪˈroʊ.ʒən",
+            "word_native_transliteration": {
+                "bn": "সয়েল ইরোশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌪️",
+            "meaning": "The damage to the topsoil due to wind, water or agricultural activities.",
+            "example_sentence": "Deforestation accelerates soil erosion, reducing agricultural productivity.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিফরেস্টেশন অ্যাক্সিলারেটস সয়েল ইরোশন, রিডিউসিং অ্যাগ্রিকালচারাল প্রোডাক্টিভিটি।"
+            },
+            "position": 10,
+            "synonyms": "land degradation, soil loss, weathering",
+            "antonyms": "soil conservation, land stability, fertility enhancement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মাটিক্ষয়",
+                    "word_transliteration": "matikhkhoy",
+                    "example_sentence_translation": "বন উজাড় মাটিক্ষয় ত্বরান্বিত করে এবং কৃষি উৎপাদনশীলতা হ্রাস করে।",
+                    "example_sentence_transliteration": "Bon ujad matikhkhoy tbranbito kore ebong krishi utpadanshilota hrash kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "depletion",
+            "phonetic": "dɪˈpliː.ʃən",
+            "word_native_transliteration": {
+                "bn": "ডিপ্লিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📉",
+            "meaning": "The gradual reduction or exhaustion of a resource or substance.",
+            "example_sentence": "Overuse of groundwater leads to depletion of water resources.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওভারইউজ অব গ্রাউন্ডওয়াটার লিডস টু ডিপ্লিশন অব ওয়াটার রিসোর্সেস।"
+            },
+            "position": 11,
+            "synonyms": "exhaustion, reduction, decline",
+            "antonyms": "growth, increase, abundance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "হ্রাস",
+                    "word_transliteration": "hrash",
+                    "example_sentence_translation": "অতিরিক্ত ভূগর্ভস্থ পানি ব্যবহার পানির সম্পদের হ্রাস ঘটায়।",
+                    "example_sentence_transliteration": "Otirikto bhugorbostho pani bebhar panir sompoder hrash ghotay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "regenerative farming",
+            "phonetic": "rɪˈdʒɛn.ər.ə.tɪv ˈfɑːr.mɪŋ",
+            "word_native_transliteration": {
+                "bn": "রিজেনারেটিভ ফার্মিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "Agricultural practices that improve soil health and biodiversity.",
+            "example_sentence": "Regenerative farming improves soil fertility and biodiversity.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিজেনারেটিভ ফার্মিং ইমপ্রুভস সয়েল ফার্টিলিটি অ্যান্ড বায়োডাইভার্সিটি।"
+            },
+            "position": 12,
+            "synonyms": "sustainable farming, ecological agriculture, soil restoration",
+            "antonyms": "conventional farming, soil degradation, monoculture",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুনর্জীবনশীল কৃষি",
+                    "word_transliteration": "punorjibonoshill krishi",
+                    "example_sentence_translation": "পুনর্জীবনশীল কৃষি মাটির উর্বরতা ও জীববৈচিত্র্য বৃদ্ধি করে।",
+                    "example_sentence_transliteration": "Punorjibonoshill krishi matir urborota o jibboichitro bridhi kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "organic farming",
+            "phonetic": "ˈɔːr.ɡə.nɪk ˈfɑːr.mɪŋ",
+            "word_native_transliteration": {
+                "bn": "অর্গানিক ফার্মিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌱",
+            "meaning": "Farming without chemical fertilizers and pesticides using natural methods.",
+            "example_sentence": "Organic farming reduces pollution and promotes healthier food.",
+            "example_sentence_native_transliteration": {
+                "bn": "অর্গানিক ফার্মিং রিডিউসেস পলিউশন অ্যান্ড প্রোমোটস হেলথিয়ার ফুড।"
+            },
+            "position": 13,
+            "synonyms": "natural farming, eco-friendly agriculture, sustainable cultivation",
+            "antonyms": "conventional farming, chemical-based farming, GMO farming",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জৈব কৃষি",
+                    "word_transliteration": "joibo krishi",
+                    "example_sentence_translation": "জৈব কৃষি দূষণ কমায় এবং স্বাস্থ্যকর খাদ্য উৎপাদন করে।",
+                    "example_sentence_transliteration": "Joibo krishi dushon komay ebong shasthyokor khadyo utpadan kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "genetic modification",
+            "phonetic": "dʒəˈnɛt.ɪk ˌmɒd.ɪ.fɪˈkeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "জেনেটিক মডিফিকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧬",
+            "meaning": "The process of altering the genetic code of plants or animals.",
+            "example_sentence": "Genetic modification enhances crop resistance to pests and diseases.",
+            "example_sentence_native_transliteration": {
+                "bn": "জেনেটিক মডিফিকেশন এনহান্সেস ক্রপ রেসিস্ট্যান্স টু পেস্টস অ্যান্ড ডিজিজেস।"
+            },
+            "position": 14,
+            "synonyms": "biotechnology, genetic engineering, GMOs",
+            "antonyms": "natural selection, traditional breeding, unaltered organisms",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জিনগত পরিবর্তন",
+                    "word_transliteration": "jingoto poriborton",
+                    "example_sentence_translation": "জিনগত পরিবর্তন ফসলের কীটপতঙ্গ ও রোগ প্রতিরোধ ক্ষমতা বৃদ্ধি করে।",
+                    "example_sentence_transliteration": "Jingoto poriborton foshler kitpotongo o rog protirodh kkhomota bridhi kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "precision agriculture",
+            "phonetic": "prɪˈsɪʒ.ən ˈæɡ.rɪ.kʌl.tʃər",
+            "word_native_transliteration": {
+                "bn": "প্রিসিশন অ্যাগ্রিকালচার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The technique of conducting agricultural work using advanced technology.",
+            "example_sentence": "Precision agriculture optimizes resource use and increases efficiency.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রিসিশন অ্যাগ্রিকালচার অপটিমাইজেস রিসোর্স ইউজ অ্যান্ড ইনক্রিজেস এফিশিয়েন্সি।"
+            },
+            "position": 15,
+            "synonyms": "smart farming, data-driven agriculture, high-tech cultivation",
+            "antonyms": "traditional farming, guesswork cultivation, low-tech farming",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নির্ভুল কৃষি",
+                    "word_transliteration": "nirbhul krishi",
+                    "example_sentence_translation": "নির্ভুল কৃষি সম্পদের সর্বোত্তম ব্যবহার নিশ্চিত করে এবং দক্ষতা বৃদ্ধি করে।",
+                    "example_sentence_transliteration": "Nirbhul krishi sompoder sorbottom bebhar nishchito kore ebong dokkhota bridhi kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "hydroponics",
+            "phonetic": "ˌhaɪ.droʊˈpɒn.ɪks",
+            "word_native_transliteration": {
+                "bn": "হাইড্রোপনিক্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💧",
+            "meaning": "Growing plants using nutrient-rich water instead of soil.",
+            "example_sentence": "Hydroponics allows crops to grow without soil.",
+            "example_sentence_native_transliteration": {
+                "bn": "হাইড্রোপনিক্স অ্যালাউস ক্রপস টু গ্রো উইদাউট সয়েল।"
+            },
+            "position": 16,
+            "synonyms": "soilless farming, aquaponics, controlled agriculture",
+            "antonyms": "traditional farming, soil-based cultivation, land-dependent agriculture",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জলচাষ",
+                    "word_transliteration": "jolchash",
+                    "example_sentence_translation": "জলচাষ পদ্ধতিতে মাটির প্রয়োজন ছাড়াই ফসল চাষ করা যায়।",
+                    "example_sentence_transliteration": "Jolchash poddhotite matir proyojon charai foshol chash kora jay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "monoculture",
+            "phonetic": "ˈmɒn.əˌkʌl.tʃər",
+            "word_native_transliteration": {
+                "bn": "মনোকালচার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌾",
+            "meaning": "Growing the same species of crop in a particular area for a long time.",
+            "example_sentence": "Monoculture can lead to soil depletion and pest outbreaks.",
+            "example_sentence_native_transliteration": {
+                "bn": "মনোকালচার ক্যান লিড টু সয়েল ডিপ্লিশন অ্যান্ড পেস্ট আউটব্রেকস।"
+            },
+            "position": 17,
+            "synonyms": "single-crop farming, intensive cultivation, large-scale farming",
+            "antonyms": "crop rotation, polyculture, diversified farming",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একক ফসল চাষ",
+                    "word_transliteration": "ekko foshol chash",
+                    "example_sentence_translation": "একক ফসল চাষ মাটির উর্বরতা হ্রাস ও কীটপতঙ্গ বৃদ্ধির কারণ হতে পারে।",
+                    "example_sentence_transliteration": "Ekko foshol chash matir urborota hrash o kitpotongo briddhir karon hote pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ecosystem",
+            "phonetic": "ˈiː.kəʊˌsɪs.təm",
+            "word_native_transliteration": {
+                "bn": "ইকোসিস্টেম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌍",
+            "meaning": "The interconnection between animals, plants and environment.",
+            "example_sentence": "Climate change is disrupting the global ecosystem.",
+            "example_sentence_native_transliteration": {
+                "bn": "ক্লাইমেট চেঞ্জ ইজ ডিসরাপটিং দ্য গ্লোবাল ইকোসিস্টেম।"
+            },
+            "position": 18,
+            "synonyms": "habitat, biodiversity, natural environment",
+            "antonyms": "environmental degradation, artificial system, pollution",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিবেশ ব্যবস্থা",
+                    "word_transliteration": "protibesh bebostha",
+                    "example_sentence_translation": "জলবায়ু পরিবর্তন বৈশ্বিক প্রতিবেশ ব্যবস্থা ব্যাহত করছে।",
+                    "example_sentence_transliteration": "Jolbayu poriborton boishbik protibesh bebostha baahoto korche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "agroecology",
+            "phonetic": "ˌæɡ.roʊ.iːˈkɒl.ə.dʒi",
+            "word_native_transliteration": {
+                "bn": "অ্যাগ্রোইকোলজি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌿",
+            "meaning": "An integrated system of environmental and social components for sustainable agriculture.",
+            "example_sentence": "Agroecology promotes farming practices that protect the environment.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাগ্রোইকোলজি প্রোমোটস ফার্মিং প্র্যাকটিসেস দ্যাট প্রোটেক্ট দ্য এনভায়রনমেন্ট।"
+            },
+            "position": 19,
+            "synonyms": "sustainable agriculture, eco-friendly farming, green farming",
+            "antonyms": "industrial agriculture, chemical farming, unregulated farming",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কৃষি-পরিবেশ বিজ্ঞান",
+                    "word_transliteration": "krishi-poribesh biggan",
+                    "example_sentence_translation": "কৃষি-পরিবেশ বিজ্ঞান এমন কৃষি পদ্ধতিকে উৎসাহিত করে যা পরিবেশ রক্ষা করে।",
+                    "example_sentence_transliteration": "Krishi-poribesh biggan emon krishi poddhotike utsahito kore ja poribesh rokkha kore.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

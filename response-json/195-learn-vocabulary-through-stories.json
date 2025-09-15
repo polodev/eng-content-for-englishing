@@ -1,0 +1,553 @@
+{
+    "position": 195,
+    "title_translation": {
+        "en": "The Impact of Climate on Farming",
+        "bn": "কৃষিতে জলবায়ুর প্রভাব"
+    },
+    "content_translation": {
+        "en": "In today's time, **climate change** is bringing a huge transformation in the agricultural sector. Due to **erratic** rainfall and lack of **precipitation**, farmers are facing difficult situations. Due to increasing **aridity**, soil fertility is decreasing, resulting in reduced **yields**.\n\n**Meteorological** research says that **fluctuation** and temperature increase are creating **thermal stress**, which is destroying crop growth and the effectiveness of **photosynthesis**. **Soil erosion** and soil **degradation** are becoming more harmful to the agricultural system.\n\nMany farmers are turning to **drought-resistant** crop cultivation to ensure **sustainability**. Efforts are being made to bring some balance by improving **irrigation** systems and applying **mitigation** techniques.\n\nHowever, **ecological** and **biodiversity** conservation is essential to solve this problem. If the **agroecosystem** is kept organized, agricultural sector **resilience** will increase and it will be possible to deal with this **catastrophic** impact in the future.",
+        "bn": "বর্তমান সময়ে **climate change** কৃষি ক্ষেত্রে এক বিশাল পরিবর্তন আনছে। **Erratic** বৃষ্টিপাত এবং **precipitation**-এর অভাবের কারণে কৃষকরা কঠিন পরিস্থিতির সম্মুখীন হচ্ছেন। **Aridity** বাড়ার ফলে জমির উর্বরতা কমছে, যার ফলে **yields** কমে যাচ্ছে।\n\n**Meteorological** গবেষণা বলছে, **fluctuation** এবং তাপমাত্রার বৃদ্ধি **thermal stress** সৃষ্টি করছে, যা ফসলের বৃদ্ধি এবং **photosynthesis**-এর কার্যকারিতা নষ্ট করছে। **Soil erosion** এবং মাটির **degradation** কৃষি ব্যবস্থার জন্য আরও বেশি ক্ষতিকর হয়ে উঠছে।\n\nঅনেক কৃষক **drought-resistant** শস্য চাষের দিকে ঝুঁকছেন, যাতে **sustainability** নিশ্চিত করা যায়। **Irrigation** ব্যবস্থার উন্নতি এবং **mitigation** কৌশল প্রয়োগ করে কিছুটা ভারসাম্য আনার চেষ্টা চলছে।\n\nতবে, এই সমস্যার সমাধানের জন্য **ecological** এবং **biodiversity** সংরক্ষণ জরুরি। **Agroecosystem** সুসংহত রাখা হলে, কৃষি খাতের **resilience** বাড়বে এবং ভবিষ্যতে এই **catastrophic** প্রভাব মোকাবিলা করা সম্ভব হবে।"
+    },
+    "list": [
+        {
+            "word": "climate change",
+            "phonetic": "ˈklaɪ.mət tʃeɪndʒ",
+            "word_native_transliteration": {
+                "bn": "ক্লাইমেট চেঞ্জ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌍",
+            "meaning": "Long-term changes in global or regional climate patterns, primarily caused by human activities.",
+            "example_sentence": "Climate change has severe impacts on agriculture.",
+            "example_sentence_native_transliteration": {
+                "bn": "ক্লাইমেট চেঞ্জ হ্যাজ সিভিয়ার ইমপ্যাক্টস অন অ্যাগ্রিকালচার।"
+            },
+            "position": 1,
+            "synonyms": "global warming, climatic shift, environmental change",
+            "antonyms": "climate stability, environmental balance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জলবায়ু পরিবর্তন",
+                    "word_transliteration": "jolbayu poriborton",
+                    "example_sentence_translation": "ক্লাইমেট চেঞ্জ কৃষির উপর মারাত্মক প্রভাব ফেলে।",
+                    "example_sentence_transliteration": "Climate change krishir upor maratmok probhab phele.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "erratic",
+            "phonetic": "ɪˈræt.ɪk",
+            "word_native_transliteration": {
+                "bn": "এরাটিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌀",
+            "meaning": "Changing irregularly; unpredictable in behavior or appearance.",
+            "example_sentence": "The erratic rainfall is affecting crop production.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এরাটিক রেইনফল ইজ অ্যাফেক্টিং ক্রপ প্রোডাকশন।"
+            },
+            "position": 2,
+            "synonyms": "unpredictable, inconsistent, unstable",
+            "antonyms": "stable, predictable, consistent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনিয়মিত",
+                    "word_transliteration": "oniomit",
+                    "example_sentence_translation": "এরাটিক বৃষ্টিপাত ফসল উৎপাদনে প্রভাব ফেলছে।",
+                    "example_sentence_transliteration": "Erratic brishtipat phosol utpadone probhab phelchhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "precipitation",
+            "phonetic": "prɪˌsɪp.ɪˈteɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "প্রিসিপিটেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌧️",
+            "meaning": "Rain, snow, sleet, or hail that falls to or condenses on the ground.",
+            "example_sentence": "Annual precipitation levels are decreasing.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যানুয়াল প্রিসিপিটেশন লেভেলস আর ডিক্রিসিং।"
+            },
+            "position": 3,
+            "synonyms": "rainfall, snowfall, condensation",
+            "antonyms": "dryness, aridity, drought",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৃষ্টিপাত",
+                    "word_transliteration": "brishtipat",
+                    "example_sentence_translation": "বার্ষিক প্রিসিপিটেশন স্তর কমছে।",
+                    "example_sentence_transliteration": "Barshik precipitation stor komchhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "aridity",
+            "phonetic": "əˈrɪd.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "অ্যারিডিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏜️",
+            "meaning": "The state of being extremely dry, especially having insufficient rainfall to support vegetation.",
+            "example_sentence": "The aridity of the land is increasing due to climate change.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যারিডিটি অব দ্য ল্যান্ড ইজ ইনক্রিসিং ডিউ টু ক্লাইমেট চেঞ্জ।"
+            },
+            "position": 4,
+            "synonyms": "drought, dryness, dehydration",
+            "antonyms": "humidity, moisture, fertility",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "খরা প্রবণতা",
+                    "word_transliteration": "khora probonota",
+                    "example_sentence_translation": "জলবায়ু পরিবর্তনের কারণে ভূমির অ্যারিডিটি বৃদ্ধি পাচ্ছে।",
+                    "example_sentence_transliteration": "Jolbayu poribortonor karone bhumir aridity briddhi pachhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "yields",
+            "phonetic": "jiːldz",
+            "word_native_transliteration": {
+                "bn": "ইল্ডস"
+            },
+            "parts_of_speech": "noun/verb",
+            "emoji": "🌾",
+            "meaning": "The amount of agricultural produce harvested per unit of land area.",
+            "example_sentence": "Crop yields have declined due to extreme weather.",
+            "example_sentence_native_transliteration": {
+                "bn": "ক্রপ ইল্ডস হ্যাভ ডিক্লাইন্ড ডিউ টু এক্সট্রিম ওয়েদার।"
+            },
+            "position": 5,
+            "synonyms": "harvest, output, production",
+            "antonyms": "loss, deficiency, scarcity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উৎপাদন",
+                    "word_transliteration": "utpadon",
+                    "example_sentence_translation": "চরম আবহাওয়ার কারণে ফসলের ইল্ডস কমে গেছে।",
+                    "example_sentence_transliteration": "Chorom abohaowar karone phosoler yields kome geche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "meteorological",
+            "phonetic": "ˌmiː.ti.ər.əˈlɒdʒ.ɪ.kəl",
+            "word_native_transliteration": {
+                "bn": "মিটিওরোলজিকাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌡️",
+            "meaning": "Relating to weather conditions and atmospheric phenomena.",
+            "example_sentence": "Meteorological conditions affect farming cycles.",
+            "example_sentence_native_transliteration": {
+                "bn": "মিটিওরোলজিকাল কন্ডিশনস অ্যাফেক্ট ফার্মিং সাইকেলস।"
+            },
+            "position": 6,
+            "synonyms": "climatic, atmospheric, weather-related",
+            "antonyms": "non-meteorological",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আবহাওয়াবিষয়ক",
+                    "word_transliteration": "abohaowabishoyok",
+                    "example_sentence_translation": "মিটিওরোলজিকাল পরিস্থিতি কৃষিকাজের চক্রকে প্রভাবিত করে।",
+                    "example_sentence_transliteration": "Meteorological poristhiti krishikajer chokroke probhabito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fluctuation",
+            "phonetic": "ˌflʌk.tʃuˈeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ফ্লাকচুয়েশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "An irregular rising and falling in number or amount; variation.",
+            "example_sentence": "Fluctuations in temperature affect water cycles.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফ্লাকচুয়েশনস ইন টেমপারেচার অ্যাফেক্ট ওয়াটার সাইকেলস।"
+            },
+            "position": 7,
+            "synonyms": "variation, instability, oscillation",
+            "antonyms": "stability, consistency, uniformity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ওঠানামা",
+                    "word_transliteration": "othanama",
+                    "example_sentence_translation": "তাপমাত্রার ফ্লাকচুয়েশন পানির চক্রকে প্রভাবিত করে।",
+                    "example_sentence_transliteration": "Tapmatrar fluctuation panir chokroke probhabito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "thermal stress",
+            "phonetic": "ˈθɜː.məl stres",
+            "word_native_transliteration": {
+                "bn": "থার্মাল স্ট্রেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌡️",
+            "meaning": "Stress caused by excessive heat that affects plant growth and development.",
+            "example_sentence": "High thermal stress affects plant growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "হাই থার্মাল স্ট্রেস অ্যাফেক্টস প্ল্যান্ট গ্রোথ।"
+            },
+            "position": 8,
+            "synonyms": "heat strain, temperature stress, climate stress",
+            "antonyms": "thermal balance, cooling, insulation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "তাপজনিত চাপ",
+                    "word_transliteration": "tapojonito chap",
+                    "example_sentence_translation": "অতিরিক্ত থার্মাল স্ট্রেস উদ্ভিদের বৃদ্ধি বাধাগ্রস্ত করে।",
+                    "example_sentence_transliteration": "Otirikto thermal stress udbhider briddhi badhagrostho kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "photosynthesis",
+            "phonetic": "ˌfəʊ.təʊˈsɪn.θə.sɪs",
+            "word_native_transliteration": {
+                "bn": "ফটোসিন্থেসিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌱",
+            "meaning": "The process by which green plants use sunlight to synthesize nutrients from carbon dioxide and water.",
+            "example_sentence": "Photosynthesis is essential for oxygen production.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফটোসিন্থেসিস ইজ এসেনশিয়াল ফর অক্সিজেন প্রোডাকশন।"
+            },
+            "position": 9,
+            "synonyms": "light reaction, carbon fixation, chlorophyll process",
+            "antonyms": "non-photosynthetic, darkness, energy deficiency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সালোকসংশ্লেষণ",
+                    "word_transliteration": "salokshongshleshon",
+                    "example_sentence_translation": "ফটোসিন্থেসিস অক্সিজেন উৎপাদনের জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Photosynthesis oxygen utpadonor jonno oporiharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "soil erosion",
+            "phonetic": "sɔɪl ɪˈrəʊ.ʒən",
+            "word_native_transliteration": {
+                "bn": "সয়েল ইরোশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏔️",
+            "meaning": "The removal of topsoil by wind, water, or other natural forces, reducing agricultural productivity.",
+            "example_sentence": "Soil erosion reduces agricultural productivity.",
+            "example_sentence_native_transliteration": {
+                "bn": "সয়েল ইরোশন রিডিউসেস অ্যাগ্রিকালচারাল প্রোডাক্টিভিটি।"
+            },
+            "position": 10,
+            "synonyms": "land degradation, sediment loss, soil depletion",
+            "antonyms": "soil conservation, land stability, fertility retention",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মাটিক্ষয়",
+                    "word_transliteration": "matikkhoy",
+                    "example_sentence_translation": "সয়েল ইরোশন কৃষি উৎপাদনশীলতা কমায়।",
+                    "example_sentence_transliteration": "Soil erosion krishi utpadonsheelota komay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "degradation",
+            "phonetic": "ˌdeɡ.rəˈdeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ডিগ্রাডেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📉",
+            "meaning": "The process of deterioration or decline in quality, especially of environmental conditions.",
+            "example_sentence": "Land degradation leads to loss of agricultural productivity.",
+            "example_sentence_native_transliteration": {
+                "bn": "ল্যান্ড ডিগ্রাডেশন লিডস টু লস অব অ্যাগ্রিকালচারাল প্রোডাক্টিভিটি।"
+            },
+            "position": 11,
+            "synonyms": "deterioration, erosion, decline",
+            "antonyms": "improvement, restoration, enhancement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অবক্ষয়",
+                    "word_transliteration": "obokkoy",
+                    "example_sentence_translation": "ভূমির ডিগ্রাডেশন কৃষির উৎপাদনশীলতা কমিয়ে দেয়।",
+                    "example_sentence_transliteration": "Bhumir degradation krishir utpadonsheelota komiye dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "drought-resistant",
+            "phonetic": "draʊt rɪˈzɪs.tənt",
+            "word_native_transliteration": {
+                "bn": "ড্রাউট-রেজিস্ট্যান্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌵",
+            "meaning": "Able to survive and grow despite limited water availability or drought conditions.",
+            "example_sentence": "Drought-resistant crops can survive in arid conditions.",
+            "example_sentence_native_transliteration": {
+                "bn": "ড্রাউট-রেজিস্ট্যান্ট ক্রপস ক্যান সারভাইভ ইন অ্যারিড কন্ডিশনস।"
+            },
+            "position": 12,
+            "synonyms": "arid-tolerant, water-efficient, hardy",
+            "antonyms": "drought-prone, water-dependent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "খরা প্রতিরোধী",
+                    "word_transliteration": "khora protirodhi",
+                    "example_sentence_translation": "ড্রাউট-রেজিস্ট্যান্ট ফসল শুষ্ক পরিবেশেও টিকে থাকতে পারে।",
+                    "example_sentence_transliteration": "Drought-resistant phosol shushko poribesheo tike thakte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sustainability",
+            "phonetic": "səˌsteɪ.nəˈbɪl.ə.ti",
+            "word_native_transliteration": {
+                "bn": "সাসটেইনাবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "♻️",
+            "meaning": "The ability to maintain or support a process continuously over time without depleting resources.",
+            "example_sentence": "Sustainability is crucial for future generations.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাসটেইনাবিলিটি ইজ ক্রুশিয়াল ফর ফিউচার জেনারেশনস।"
+            },
+            "position": 13,
+            "synonyms": "viability, stability, endurance",
+            "antonyms": "unsustainability, instability, depletion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "টেকসই উন্নয়ন",
+                    "word_transliteration": "teksoi unnyon",
+                    "example_sentence_translation": "ভবিষ্যৎ প্রজন্মের জন্য সাসটেইনাবিলিটি অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Bhobishyot projonmer jonno sustainability ottonto guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "irrigation",
+            "phonetic": "ˌɪr.ɪˈɡeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ইরিগেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💧",
+            "meaning": "The artificial application of water to land for growing crops.",
+            "example_sentence": "Modern irrigation techniques improve crop yield.",
+            "example_sentence_native_transliteration": {
+                "bn": "মডার্ন ইরিগেশন টেকনিকস ইমপ্রুভ ক্রপ ইল্ড।"
+            },
+            "position": 14,
+            "synonyms": "watering, hydration, sprinkling",
+            "antonyms": "drought, dehydration, aridity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সেচ",
+                    "word_transliteration": "shech",
+                    "example_sentence_translation": "আধুনিক ইরিগেশন প্রযুক্তি ফসলের উৎপাদন বৃদ্ধি করে।",
+                    "example_sentence_transliteration": "Adhunik irrigation projukti phosoler utpadon briddhi kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "mitigation",
+            "phonetic": "ˌmɪt.ɪˈɡeɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "মিটিগেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛡️",
+            "meaning": "The action of reducing the severity, seriousness, or painfulness of something.",
+            "example_sentence": "Climate mitigation strategies are essential to prevent disasters.",
+            "example_sentence_native_transliteration": {
+                "bn": "ক্লাইমেট মিটিগেশন স্ট্র্যাটেজিজ আর এসেনশিয়াল টু প্রিভেন্ট ডিজাস্টারস।"
+            },
+            "position": 15,
+            "synonyms": "reduction, alleviation, minimization",
+            "antonyms": "aggravation, exacerbation, intensification",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রশমন",
+                    "word_transliteration": "proshomon",
+                    "example_sentence_translation": "দুর্যোগ প্রতিরোধে জলবায়ু মিটিগেশন কৌশল অপরিহার্য।",
+                    "example_sentence_transliteration": "Durjog protirodhe jolbayu mitigation kousol oporiharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ecological",
+            "phonetic": "ˌiː.kəˈlɒdʒ.ɪ.kəl",
+            "word_native_transliteration": {
+                "bn": "ইকোলজিকাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌿",
+            "meaning": "Relating to the environment and the relationship of living things to it and to each other.",
+            "example_sentence": "Ecological balance is necessary for sustainability.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইকোলজিকাল ব্যালান্স ইজ নেসেসারি ফর সাসটেইনাবিলিটি।"
+            },
+            "position": 16,
+            "synonyms": "environmental, natural, organic",
+            "antonyms": "artificial, synthetic, polluting",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিবেশগত",
+                    "word_transliteration": "poribeshgoto",
+                    "example_sentence_translation": "ইকোলজিকাল ভারসাম্য টেকসই উন্নয়নের জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Ecological bharsammo teksoi unnoynor jonno oporiharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "biodiversity",
+            "phonetic": "ˌbaɪ.oʊ.daɪˈvɜː.sə.ti",
+            "word_native_transliteration": {
+                "bn": "বায়োডাইভারসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🦋",
+            "meaning": "The variety of plant and animal life in the world or in a particular habitat.",
+            "example_sentence": "Biodiversity conservation is key to ecological balance.",
+            "example_sentence_native_transliteration": {
+                "bn": "বায়োডাইভারসিটি কনসারভেশন ইজ কি টু ইকোলজিকাল ব্যালান্স।"
+            },
+            "position": 17,
+            "synonyms": "ecosystem variety, genetic diversity, flora and fauna",
+            "antonyms": "monoculture, homogeneity, uniformity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জীববৈচিত্র্য",
+                    "word_transliteration": "jibboichittro",
+                    "example_sentence_translation": "বায়োডাইভারসিটি সংরক্ষণ ইকোলজিকাল ভারসাম্যের জন্য গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Biodiversity shongrokkhon ecological bharsammyer jonno guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "agroecosystem",
+            "phonetic": "ˌæɡ.roʊˈiː.koʊˌsɪs.təm",
+            "word_native_transliteration": {
+                "bn": "অ্যাগ্রোইকোসিস্টেম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚜",
+            "meaning": "An ecological system centered on agricultural activities and processes.",
+            "example_sentence": "A healthy agroecosystem improves soil fertility.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ হেলদি অ্যাগ্রোইকোসিস্টেম ইমপ্রুভস সয়েল ফার্টিলিটি।"
+            },
+            "position": 18,
+            "synonyms": "agricultural ecosystem, farming system, sustainable agriculture",
+            "antonyms": "industrial farming, chemical-dependent farming",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কৃষি নির্ভর বাস্তুতন্ত্র",
+                    "word_transliteration": "krishi nirbhor bastutontro",
+                    "example_sentence_translation": "সুস্থ অ্যাগ্রোইকোসিস্টেম মাটির উর্বরতা বৃদ্ধি করে।",
+                    "example_sentence_transliteration": "Shustho agroecosystem matir urborvota briddhi kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "resilience",
+            "phonetic": "rɪˈzɪl.jəns",
+            "word_native_transliteration": {
+                "bn": "রেজিলিয়েন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "The capacity to recover quickly from difficulties; the ability to adapt and bounce back.",
+            "example_sentence": "Farmers need resilience to cope with climate change.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফার্মারস নিড রেজিলিয়েন্স টু কোপ উইথ ক্লাইমেট চেঞ্জ।"
+            },
+            "position": 19,
+            "synonyms": "adaptability, endurance, strength",
+            "antonyms": "weakness, fragility, vulnerability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহনশীলতা",
+                    "word_transliteration": "shohonsheelota",
+                    "example_sentence_translation": "কৃষকদের রেজিলিয়েন্স থাকতে হবে জলবায়ু পরিবর্তনের সাথে মানিয়ে নিতে।",
+                    "example_sentence_transliteration": "Krishokder resilience thakte hobe jolbayu poribortonor shathe maniye nite.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "catastrophic",
+            "phonetic": "ˌkæt.əˈstrɒf.ɪk",
+            "word_native_transliteration": {
+                "bn": "ক্যাটাস্ট্রফিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚠️",
+            "meaning": "Involving or causing sudden great damage or suffering; extremely unfortunate or unsuccessful.",
+            "example_sentence": "The catastrophic effects of climate change are visible everywhere.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ক্যাটাস্ট্রফিক ইফেক্টস অব ক্লাইমেট চেঞ্জ আর ভিজিবল এভরিহোয়ার।"
+            },
+            "position": 20,
+            "synonyms": "disastrous, devastating, calamitous",
+            "antonyms": "beneficial, favorable, positive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিপর্যয়কর",
+                    "word_transliteration": "biporjoykor",
+                    "example_sentence_translation": "জলবায়ু পরিবর্তনের বিপর্যয়কর প্রভাব সর্বত্র দৃশ্যমান।",
+                    "example_sentence_transliteration": "Jolbayu poribortonor biporjoykor probhab shorbotro drishyoman.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}
