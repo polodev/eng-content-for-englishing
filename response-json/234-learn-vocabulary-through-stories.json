@@ -1,0 +1,445 @@
+{
+    "position": 234,
+    "title_translation": {
+        "en": "Mnemonics Memory",
+        "bn": "**Mnemonics** স্মৃতি"
+    },
+    "content_translation": {
+        "en": "**Mnemonics** is a special technique that helps our brain **compartmentalize** information. It works as a way to easily remember **abstruse** subjects, because this method keeps information **organized** and **delineated**.\n\nIn the **Mnemonic** method, the **accretion** of information gradually accumulates in our brain and transforms it into **engrained** memory. In this way, memory does not become **ephemeral**, but rather becomes permanent and is easy to **recapitulate**.\n\nWhen we use a **surrogate** thought, it helps to **perpetuate** memory, which might otherwise be lost. **Extrapolating** subjects becomes possible in this process, because **ineffable** information is transformed into a practical **confluence**.\n\nFinally, **mnemonics** is a powerful method that helps overcome the **transitory** nature of our memory to create lasting **imprints**.",
+        "bn": "**Mnemonics** একটি বিশেষ কৌশল যা আমাদের মস্তিষ্কে তথ্যকে **compartmentalize** করতে সাহায্য করে। এটি **abstruse** বিষয়গুলিকে সহজে মনে রাখার উপায় হিসেবে কাজ করে, কারণ এই পদ্ধতি তথ্যকে সুসংগঠিত এবং **delineate** করে রাখে।\n\n**Mnemonic** পদ্ধতিতে, তথ্যের **accretion** ধীরে ধীরে আমাদের মস্তিষ্কে জমা হয় এবং একে **engrained** স্মৃতিতে রূপান্তরিত করে। এইভাবে, স্মৃতি **ephemeral** হয়ে ওঠে না, বরং তা স্থায়ী হয় এবং পুনরায় **recapitulate** করা সহজ হয়।\n\nযখন আমরা একটি **surrogate** চিন্তা ব্যবহার করি, তখন এটি **perpetuate** করতে সাহায্য করে স্মৃতিকে, যা অন্যথায় হারিয়ে যেতে পারে। **Extrapolating** বিষয়গুলি এই প্রক্রিয়ায় সম্ভব হয়, যেহেতু **ineffable** তথ্যগুলি একটি বাস্তবভাবে ব্যবহারযোগ্য **confluence** তে রূপান্তরিত হয়।\n\nশেষে, **mnemonics** একটি শক্তিশালী পদ্ধতি, যা আমাদের স্মৃতির **transitory** প্রকৃতিকে কাটিয়ে দীর্ঘমেয়াদী **imprint** তৈরি করতে সাহায্য করে।"
+    },
+    "list": [
+        {
+            "word": "mnemonics",
+            "phonetic": "/nɪˈmɒnɪks/",
+            "word_native_transliteration": {
+                "bn": "নিমনিক্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧠",
+            "meaning": "A device such as a pattern of letters, ideas, or associations that assists in remembering something.",
+            "example_sentence": "Mnemonics help to improve memory retention by associating information with easily remembered cues.",
+            "example_sentence_native_transliteration": {
+                "bn": "নিমনিক্স হেল্প টু ইমপ্রুভ মেমরি রিটেনশন বাই এসোসিয়েটিং ইনফরমেশন উইথ ইজিলি রিমেম্বার্ড কিউস।"
+            },
+            "position": 1,
+            "synonyms": "memory aids, reminders",
+            "antonyms": "forgetfulness, amnesia",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্মৃতিচিহ্ন, স্মৃতির জন্য কৌশল",
+                    "word_transliteration": "smriticihno, smritir jonno koushal",
+                    "example_sentence_translation": "নিমনিক্স তথ্য স্মরণযোগ্য সংকেতের সাথে যুক্ত করে স্মৃতির ধারণ ক্ষমতা উন্নত করতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Nimoniks tothyo shoronyogyo shonketer shathe jukto kore smritir dharron khomota unnoto korote shahajyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "compartmentalize",
+            "phonetic": "/kəmˈpɑːtməntəˌlaɪz/",
+            "word_native_transliteration": {
+                "bn": "কম্পার্টমেন্টালাইজ"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📦",
+            "meaning": "To divide into sections or categories.",
+            "example_sentence": "It is important to compartmentalize work and personal life to maintain balance.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইট ইজ ইম্পরট্যান্ট টু কম্পার্টমেন্টালাইজ ওয়ার্ক এন্ড পার্সোনাল লাইফ টু মেইনটেইন ব্যালেন্স।"
+            },
+            "position": 2,
+            "synonyms": "segregate, separate",
+            "antonyms": "combine, integrate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভাগ করা, বিভাগীকরণ করা",
+                    "word_transliteration": "bhag kora, bibhagikorn kora",
+                    "example_sentence_translation": "কাজ এবং ব্যক্তিগত জীবন ভাগ করা গুরুত্বপূর্ণ যাতে সুষমতা বজায় থাকে।",
+                    "example_sentence_transliteration": "Kaj ebong bektigoto jibon bhag kora gurutbopurno jate sushomota bojay thake.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "abstruse",
+            "phonetic": "/æbˈstruːs/",
+            "word_native_transliteration": {
+                "bn": "অ্যাবস্ট্রুস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🤔",
+            "meaning": "Difficult to understand; obscure.",
+            "example_sentence": "The abstruse nature of the philosophical debate left many confused.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যাবস্ট্রুস নেচার অফ দ্য ফিলোসফিক্যাল ডিবেট লেফট মেনি কনফিউজড।"
+            },
+            "position": 3,
+            "synonyms": "complex, obscure",
+            "antonyms": "simple, straightforward",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কঠিন, জটিল",
+                    "word_transliteration": "kothin, jotil",
+                    "example_sentence_translation": "দার্শনিক বিতর্কের জটিল প্রকৃতি অনেককে বিভ্রান্ত করে দিয়েছিল।",
+                    "example_sentence_transliteration": "Darshhonik bitorker jotil prokiti onekke bibhranto kore diyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "organized",
+            "phonetic": "/ˈɔːɡənaɪzd/",
+            "word_native_transliteration": {
+                "bn": "অর্গানাইজড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📋",
+            "meaning": "Arranged in a systematic way, especially on a large scale.",
+            "example_sentence": "An organized approach to work increases productivity and reduces stress.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যান অর্গানাইজড অ্যাপ্রোচ টু ওয়ার্ক ইনক্রিসেস প্রোডাক্টিভিটি এন্ড রিডিউসেস স্ট্রেস।"
+            },
+            "position": 4,
+            "synonyms": "systematic, methodical",
+            "antonyms": "disorganized, chaotic",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সুশৃঙ্খল, সংবদ্ধ",
+                    "word_transliteration": "shushrinkhol, shongbaddho",
+                    "example_sentence_translation": "কাজের প্রতি সুশৃঙ্খল পদ্ধতি উৎপাদনশীলতা বাড়ায় এবং চাপ কমায়।",
+                    "example_sentence_transliteration": "Kajer proti shushrinkhol poddhoti utpadonsheelota baray ebong chap komay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "delineate",
+            "phonetic": "/dɪˈlɪnɪeɪt/",
+            "word_native_transliteration": {
+                "bn": "ডেলিনিয়েট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "✏️",
+            "meaning": "Describe or portray (something) precisely.",
+            "example_sentence": "The diagram clearly delineates the process of photosynthesis.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডায়াগ্রাম ক্লিয়ারলি ডেলিনিয়েটস দ্য প্রোসেস অফ ফটোসিনথেসিস।"
+            },
+            "position": 5,
+            "synonyms": "outline, define",
+            "antonyms": "confuse, obscure",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সীমারেখা নির্ধারণ করা, বিশদভাবে বর্ণনা করা",
+                    "word_transliteration": "simarekha nirdharon kora, bishodbhabe bornona kora",
+                    "example_sentence_translation": "ডায়াগ্রামটি ফটোসিনথেসিসের প্রক্রিয়া স্পষ্টভাবে চিহ্নিত করে।",
+                    "example_sentence_transliteration": "Diagramti photosynthesiser prokriya sposhtobtabe chihnitio kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "accretion",
+            "phonetic": "/əˈkriːʃən/",
+            "word_native_transliteration": {
+                "bn": "অ্যাক্রিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "The process of growth or increase, typically by the gradual accumulation of additional layers or matter.",
+            "example_sentence": "The accretion of wealth allowed him to invest in various projects.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যাক্রিশন অফ ওয়েলথ অ্যালাউড হিম টু ইনভেস্ট ইন ভেরিয়াস প্রোজেক্টস।"
+            },
+            "position": 6,
+            "synonyms": "accumulation, growth",
+            "antonyms": "reduction, decline",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৃদ্ধি, সঞ্চয়",
+                    "word_transliteration": "briddhi, shonchoy",
+                    "example_sentence_translation": "ধন সঞ্চয় তার বিভিন্ন প্রকল্পে বিনিয়োগ করতে সাহায্য করেছিল।",
+                    "example_sentence_transliteration": "Dhon shonchoy tar bibhinno prokotpe biniyog korote shahajyo korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "engrained",
+            "phonetic": "/ɪnˈɡreɪnd/",
+            "word_native_transliteration": {
+                "bn": "এনগ্রেইন্ড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🏗️",
+            "meaning": "Firmly fixed or established; difficult to change.",
+            "example_sentence": "Cultural practices are often deeply engrained in the fabric of society.",
+            "example_sentence_native_transliteration": {
+                "bn": "কালচারাল প্র্যাকটিসেস আর অফটেন ডিপলি এনগ্রেইন্ড ইন দ্য ফ্যাব্রিক অফ সোসাইটি।"
+            },
+            "position": 7,
+            "synonyms": "deep-rooted, ingrained",
+            "antonyms": "superficial, fleeting",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গভীরভাবে স্থাপন করা, অগোচরভাবে বসানো",
+                    "word_transliteration": "gobhirbhabe sthapon kora, agochorbhabe boshano",
+                    "example_sentence_translation": "সাংস্কৃতিক রীতিনীতি প্রায়শই সমাজের গভীরভাবে স্থাপন করা থাকে।",
+                    "example_sentence_transliteration": "Sangskritik ritiniti proyoshoi shomajer gobhirbhabe sthapon kora thake.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ephemeral",
+            "phonetic": "/ɪˈfɛmərəl/",
+            "word_native_transliteration": {
+                "bn": "এফিমেরাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌸",
+            "meaning": "Lasting for a very short time.",
+            "example_sentence": "The beauty of the sunset was ephemeral, disappearing as quickly as it arrived.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য বিউটি অফ দ্য সানসেট ওয়াজ এফিমেরাল, ডিসঅ্যাপিয়ারিং অ্যাজ কুইকলি অ্যাজ ইট অ্যারাইভড।"
+            },
+            "position": 8,
+            "synonyms": "fleeting, temporary",
+            "antonyms": "permanent, enduring",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্ষণস্থায়ী, অস্থায়ী",
+                    "word_transliteration": "khonoshthayee, osthayee",
+                    "example_sentence_translation": "সূর্যাস্তের সৌন্দর্য অস্থায়ী ছিল, আসামাত্রই দ্রুত চলে যায়।",
+                    "example_sentence_transliteration": "Surjaster shoundorjo osthayee chhilo, ashamatrai druto chole jay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "recapitulate",
+            "phonetic": "/ˌriːkəˈpɪtʃʊleɪt/",
+            "word_native_transliteration": {
+                "bn": "রিক্যাপিচুলেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📝",
+            "meaning": "To summarize and state again the main points of.",
+            "example_sentence": "The professor recapitulated the key points of the lecture at the end.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রফেসর রিক্যাপিচুলেটেড দ্য কি পয়েন্টস অফ দ্য লেকচার অ্যাট দ্য এন্ড।"
+            },
+            "position": 9,
+            "synonyms": "summarize, reiterate",
+            "antonyms": "confuse, elaborate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুনরাবৃত্তি করা, সারাংশ দান করা",
+                    "word_transliteration": "punorabritti kora, sharangsho dan kora",
+                    "example_sentence_translation": "প্রফেসর শেষের দিকে বক্তৃতার মূল বিষয়গুলি পুনরাবৃত্তি করেছেন।",
+                    "example_sentence_transliteration": "Professor shesher dike boktittar mul bishoygulio punorabritti korechhen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "surrogate",
+            "phonetic": "/ˈsɜːrəɡət/",
+            "word_native_transliteration": {
+                "bn": "সারোগেট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "A substitute, especially a person deputizing for another in a specific role or office.",
+            "example_sentence": "The surrogate mother gave birth to the child after carrying it for nine months.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সারোগেট মাদার গেভ বার্থ টু দ্য চাইল্ড আফটার ক্যারিয়িং ইট ফর নাইন মানথস।"
+            },
+            "position": 10,
+            "synonyms": "substitute, proxy",
+            "antonyms": "original, primary",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিনিধি, প্রয়োগকারী",
+                    "word_transliteration": "protinidhi, proyogkari",
+                    "example_sentence_translation": "সারোগেট মা নয় মাস ধরে সন্তানটি ধারণ করার পর জন্ম দিয়েছেন।",
+                    "example_sentence_transliteration": "Surrogate ma noy mash dhore shontanti dharron korar por jonmo diyechhen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "perpetuate",
+            "phonetic": "/pəˈpɛtʃueɪt/",
+            "word_native_transliteration": {
+                "bn": "পারপেচুয়েট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "♾️",
+            "meaning": "Make (something, typically an undesirable situation or an unfounded belief) continue indefinitely.",
+            "example_sentence": "The goal is to perpetuate the traditions of the community for future generations.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গোল ইজ টু পারপেচুয়েট দ্য ট্র্যাডিশনস অফ দ্য কমিউনিটি ফর ফিউচার জেনারেশনস।"
+            },
+            "position": 11,
+            "synonyms": "maintain, sustain",
+            "antonyms": "cease, stop",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্থায়ী করা, চিরস্থায়ী করা",
+                    "word_transliteration": "sthayee kora, chiroshthayee kora",
+                    "example_sentence_translation": "লক্ষ্য হল ভবিষ্যৎ প্রজন্মের জন্য সম্প্রদায়ের ঐতিহ্য চিরস্থায়ী করা।",
+                    "example_sentence_transliteration": "Lokkhyo hol bhobishyot projnomer jonno shomprodayer oitijhyo chiroshthayee kora.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "extrapolating",
+            "phonetic": "/ɪkˈstræpəleɪtɪŋ/",
+            "word_native_transliteration": {
+                "bn": "এক্সট্র্যাপোলেটিং"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔮",
+            "meaning": "Extend the application of (a method or conclusion) to an unknown situation by assuming that existing trends will continue.",
+            "example_sentence": "Extrapolating from the current data, we can estimate the trends for next year.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সট্র্যাপোলেটিং ফ্রম দ্য কারেন্ট ডেটা, উই ক্যান এস্টিমেট দ্য ট্রেন্ডস ফর নেক্সট ইয়ার।"
+            },
+            "position": 12,
+            "synonyms": "predict, estimate",
+            "antonyms": "guess, ignore",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনুমান করা, পূর্বানুমান করা",
+                    "word_transliteration": "onuman kora, purbanuman kora",
+                    "example_sentence_translation": "বর্তমান তথ্য থেকে পূর্বানুমান করে, আমরা আগামী বছরের প্রবণতাগুলি অনুমান করতে পারি।",
+                    "example_sentence_transliteration": "Bortoman tothyo theke purbanuman kore, amra agami bochhorer probontaguli onuman korote pari.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ineffable",
+            "phonetic": "/ɪˈnɛfəbl/",
+            "word_native_transliteration": {
+                "bn": "ইনেফেবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "✨",
+            "meaning": "Too great or extreme to be expressed or described in words.",
+            "example_sentence": "The beauty of the sunset was ineffable, leaving everyone in awe.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য বিউটি অফ দ্য সানসেট ওয়াজ ইনেফেবল, লিভিং এভরিওয়ান ইন অ।"
+            },
+            "position": 13,
+            "synonyms": "indescribable, unutterable",
+            "antonyms": "expressible, describable",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বর্ণনাযোগ্য নয়, অমুখর",
+                    "word_transliteration": "bornona joggo noy, omukhor",
+                    "example_sentence_translation": "সূর্যাস্তের সৌন্দর্য অমুখর ছিল, সবাই মুগ্ধ হয়ে গিয়েছিল।",
+                    "example_sentence_transliteration": "Surjaster shoundorjo omukhor chhilo, shobai mugdho hoye giyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "confluence",
+            "phonetic": "/ˈkɒnflʊəns/",
+            "word_native_transliteration": {
+                "bn": "কনফ্লুয়েন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌊",
+            "meaning": "An act or process of merging; a flowing together.",
+            "example_sentence": "The confluence of two rivers creates a large delta.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কনফ্লুয়েন্স অফ টু রিভারস ক্রিয়েটস এ লার্জ ডেল্টা।"
+            },
+            "position": 14,
+            "synonyms": "junction, meeting",
+            "antonyms": "separation, divergence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সঙ্গম, মিলন",
+                    "word_transliteration": "shongom, milon",
+                    "example_sentence_translation": "দুইটি নদীর সঙ্গম একটি বড় ডেল্টা সৃষ্টি করে।",
+                    "example_sentence_transliteration": "Duiti nodir shongom ekti boro delta srishti kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "transitory",
+            "phonetic": "/ˈtrænzɪtɔːri/",
+            "word_native_transliteration": {
+                "bn": "ট্রানজিটরি"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⏳",
+            "meaning": "Not permanent; temporary.",
+            "example_sentence": "The transitory nature of fame makes it difficult to maintain.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ট্রানজিটরি নেচার অফ ফেম মেকস ইট ডিফিকাল্ট টু মেইনটেইন।"
+            },
+            "position": 15,
+            "synonyms": "temporary, short-lived",
+            "antonyms": "permanent, long-lasting",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অস্থায়ী, ক্ষণস্থায়ী",
+                    "word_transliteration": "osthayee, khonoshthayee",
+                    "example_sentence_translation": "খ্যাতির অস্থায়ী প্রকৃতি এটি বজায় রাখা কঠিন করে তোলে।",
+                    "example_sentence_transliteration": "Khyatir osthayee prokiti eti bojay rakha kothin kore tole.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "imprint",
+            "phonetic": "/ˈɪmprɪnt/",
+            "word_native_transliteration": {
+                "bn": "ইমপ্রিন্ট"
+            },
+            "parts_of_speech": "noun/verb",
+            "emoji": "👣",
+            "meaning": "A mark or impression made by pressure; to establish or fix firmly in someone's mind.",
+            "example_sentence": "The event left an indelible imprint on the city's history.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইভেন্ট লেফট অ্যান ইনডেলিবল ইমপ্রিন্ট অন দ্য সিটিজ হিস্টরি।"
+            },
+            "position": 16,
+            "synonyms": "mark, impression",
+            "antonyms": "erase, remove",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চিহ্ন, প্রভাব, ছাপ",
+                    "word_transliteration": "chihno, prabhab, chhap",
+                    "example_sentence_translation": "ঘটনাটি শহরের ইতিহাসে এক অমোচনীয় ছাপ রেখে গেছে।",
+                    "example_sentence_transliteration": "Ghotonati shohorer itihashe ek omochaneeya chhap rekhe gechhe.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

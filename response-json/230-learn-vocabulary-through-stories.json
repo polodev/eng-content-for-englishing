@@ -1,0 +1,553 @@
+{
+    "position": 230,
+    "title_translation": {
+        "en": "Vertical Farming: The Future of Agriculture",
+        "bn": "Vertical Farming: The Future of Agriculture"
+    },
+    "content_translation": {
+        "en": "As global **urbanization** continues to expand, agricultural land is diminishing, making **vertical farming** an emerging **tech-driven** solution. This is an **innovative** method where higher **yield** can be achieved in smaller spaces through **resource-efficient** **cultivation**. In this farming system, plants are provided with necessary nutrients through **hydroponic** and **aquaponics** systems, maintaining **sustainability** and reducing **carbon footprint**. Additionally, it uses **biodegradable** materials, making it environmentally friendly. This **ecosystem** not only helps in food production but also assists in protecting **biodiversity**. The **photosynthesis** process is **optimized**, allowing plants to grow faster and significantly increasing production capacity. However, its **viability** depends on proper planning and **autonomous** systems. The combination of **synthetic** and modern technology in agriculture could revolutionize **agroecology** in the coming days.",
+        "bn": "বিশ্বব্যাপী **urbanization** বৃদ্ধি পাওয়ায় কৃষি জমির পরিমাণ কমছে, তাই **vertical farming** আধুনিক **tech-driven** সমাধান হিসেবে দেখা হচ্ছে। এটি একটি **innovative** পদ্ধতি, যেখানে কম জায়গায় বেশি **yield** পাওয়া যায় এবং **resource-efficient** উপায়ে **cultivation** করা সম্ভব।এই চাষাবাদে **hydroponic** ও **aquaponics** ব্যবস্থার মাধ্যমে গাছকে প্রয়োজনীয় পুষ্টি সরবরাহ করা হয়, ফলে এটি **sustainability** বজায় রাখে এবং **carbon footprint** কমিয়ে আনে। তাছাড়া, এটি **biodegradable** উপাদান ব্যবহার করে, যা পরিবেশবান্ধব।এই **ecosystem** শুধুমাত্র খাদ্য উৎপাদনকেই নয়, বরং **biodiversity** রক্ষা করতেও সহায়তা করে। **Photosynthesis** প্রক্রিয়া **optimized** হওয়ায় উদ্ভিদ দ্রুত বৃদ্ধি পায়, ফলে উৎপাদন ক্ষমতা বহুগুণে বেড়ে যায়।তবে, এর **viability** নির্ভর করে সঠিক পরিকল্পনা ও **autonomous** ব্যবস্থাপনার ওপর। কৃষি ক্ষেত্রে এই **synthetic** ও আধুনিক প্রযুক্তির মিশ্রণ আগামী দিনে **agroecology**-তে বিপ্লব ঘটাতে পারে।"
+    },
+    "list": [
+        {
+            "word": "urbanization",
+            "phonetic": "/ˌɜː.bən.aɪˈzeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "আরবানাইজেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏙️",
+            "meaning": "The process by which towns and cities are formed and become larger as more people begin living and working in central areas.",
+            "example_sentence": "Rapid urbanization has led to increased infrastructure development.",
+            "example_sentence_native_transliteration": {
+                "bn": "র‍্যাপিড আরবানাইজেশন হ্যাজ লেড টু ইনক্রিজড ইনফ্রাস্ট্রাকচার ডেভেলপমেন্ট।"
+            },
+            "position": 1,
+            "synonyms": "metropolization, city expansion, urban development",
+            "antonyms": "ruralization, deurbanization, countrification",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নগরায়ণ",
+                    "word_transliteration": "nogorayon",
+                    "example_sentence_translation": "দ্রুত নগরায়ণের ফলে অবকাঠামো উন্নয়ন বৃদ্ধি পেয়েছে।",
+                    "example_sentence_transliteration": "Druto nogorayoner fole obokathamo unnyon briddhi peyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "vertical farming",
+            "phonetic": "/ˈvɜː.tɪ.kəl ˈfɑː.mɪŋ/",
+            "word_native_transliteration": {
+                "bn": "ভার্টিক্যাল ফার্মিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌱",
+            "meaning": "The practice of growing crops in vertically stacked layers, often incorporating controlled-environment agriculture.",
+            "example_sentence": "Vertical farming ensures maximum space utilization in urban areas.",
+            "example_sentence_native_transliteration": {
+                "bn": "ভার্টিক্যাল ফার্মিং এনশিওরস ম্যাক্সিমাম স্পেস ইউটিলাইজেশন ইন আরবান এরিয়াস।"
+            },
+            "position": 2,
+            "synonyms": "multi-layer farming, urban agriculture, indoor cultivation",
+            "antonyms": "traditional farming, horizontal farming, conventional agriculture",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উল্লম্ব কৃষি",
+                    "word_transliteration": "ullombo krishi",
+                    "example_sentence_translation": "ভার্টিক্যাল ফার্মিং শহর এলাকায় সর্বোচ্চ স্থান ব্যবহার নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Vertical farming shohor elakay sorbochcho sthan bybohar nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "tech-driven",
+            "phonetic": "/tɛk ˈdrɪv.ən/",
+            "word_native_transliteration": {
+                "bn": "টেক-ড্রিভেন"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💻",
+            "meaning": "Powered or guided by technology; dependent on technological advancement for operation.",
+            "example_sentence": "The agricultural sector is becoming more tech-driven for higher efficiency.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যাগ্রিকালচারাল সেক্টর ইজ বিকামিং মোর টেক-ড্রিভেন ফর হায়ার এফিশিয়েন্সি।"
+            },
+            "position": 3,
+            "synonyms": "technology-powered, digitally advanced, innovation-led",
+            "antonyms": "manual, traditional, non-automated",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রযুক্তি-নির্ভর",
+                    "word_transliteration": "proyukti-nirbhor",
+                    "example_sentence_translation": "উচ্চ দক্ষতার জন্য কৃষি খাত আরও প্রযুক্তি-নির্ভর হয়ে উঠছে।",
+                    "example_sentence_transliteration": "Uchcho dokkhatar jonno krishi khat aro proyukti-nirbhor hoye uthche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "innovative",
+            "phonetic": "/ˈɪn.ə.və.tɪv/",
+            "word_native_transliteration": {
+                "bn": "ইনোভেটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💡",
+            "meaning": "Featuring new methods; advanced and original.",
+            "example_sentence": "Innovative solutions are required for sustainable agriculture.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইনোভেটিভ সলিউশনস আর রিকোয়ার্ড ফর সাসটেইনেবল অ্যাগ্রিকালচার।"
+            },
+            "position": 4,
+            "synonyms": "groundbreaking, pioneering, revolutionary",
+            "antonyms": "conventional, unoriginal, stagnant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্ভাবনী",
+                    "word_transliteration": "udbhaboni",
+                    "example_sentence_translation": "টেকসই কৃষির জন্য উদ্ভাবনী সমাধান প্রয়োজন।",
+                    "example_sentence_transliteration": "Teksoi krishir jonno udbhaboni somadhan proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "yield",
+            "phonetic": "/jiːld/",
+            "word_native_transliteration": {
+                "bn": "ইয়িল্ড"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌾",
+            "meaning": "The amount of a crop harvested from a particular area.",
+            "example_sentence": "The new farming technique has increased crop yield by 30%.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিউ ফার্মিং টেকনিক হ্যাজ ইনক্রিজড ক্রপ ইয়িল্ড বাই ৩০%।"
+            },
+            "position": 5,
+            "synonyms": "harvest, output, productivity",
+            "antonyms": "deficit, loss, shortfall",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ফলন",
+                    "word_transliteration": "folon",
+                    "example_sentence_translation": "নতুন কৃষি প্রযুক্তি দ্বারা ফসলের ফলন ৩০% বৃদ্ধি পেয়েছে।",
+                    "example_sentence_transliteration": "Notun krishi proyukti dwara foshler folon 30% briddhi peyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "resource-efficient",
+            "phonetic": "/rɪˈsɔːrs ɪˈfɪʃ.ənt/",
+            "word_native_transliteration": {
+                "bn": "রিসোর্স-এফিশিয়েন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "♻️",
+            "meaning": "Using resources in a way that minimizes waste and maximizes productivity.",
+            "example_sentence": "Resource-efficient farming conserves water and energy.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিসোর্স-এফিশিয়েন্ট ফার্মিং কনজার্ভস ওয়াটার অ্যান্ড এনার্জি।"
+            },
+            "position": 6,
+            "synonyms": "sustainable, cost-effective, energy-efficient",
+            "antonyms": "wasteful, inefficient, extravagant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সম্পদদক্ষ",
+                    "word_transliteration": "shompod-dokkhho",
+                    "example_sentence_translation": "সম্পদদক্ষ চাষাবাদ পানি ও শক্তি সংরক্ষণ করে।",
+                    "example_sentence_transliteration": "Shompod-dokkhho chashabaad paani o shokti shongrokkhon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cultivation",
+            "phonetic": "/ˌkʌl.tɪˈveɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "কাল্টিভেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚜",
+            "meaning": "The process of trying to develop or improve something.",
+            "example_sentence": "Organic cultivation is gaining popularity due to health benefits.",
+            "example_sentence_native_transliteration": {
+                "bn": "অর্গানিক কাল্টিভেশন ইজ গেইনিং পপুলারিটি ডিউ টু হেলথ বেনিফিটস।"
+            },
+            "position": 7,
+            "synonyms": "farming, agriculture, plantation",
+            "antonyms": "barren land, uncultivated, neglect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চাষাবাদ",
+                    "word_transliteration": "chashabaad",
+                    "example_sentence_translation": "স্বাস্থ্য উপকারিতার কারণে জৈব চাষাবাদ জনপ্রিয়তা পাচ্ছে।",
+                    "example_sentence_transliteration": "Shasthyo upokaritaar karone joibo chashabaad jonopriota pachche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "hydroponic",
+            "phonetic": "/ˌhaɪ.drəˈpɒn.ɪk/",
+            "word_native_transliteration": {
+                "bn": "হাইড্রোপনিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💧",
+            "meaning": "Relating to the process of growing plants in sand, gravel, or liquid, with added nutrients but without soil.",
+            "example_sentence": "Hydroponic farming allows crops to grow without soil.",
+            "example_sentence_native_transliteration": {
+                "bn": "হাইড্রোপনিক ফার্মিং অ্যালাউজ ক্রপস টু গ্রো উইথআউট সয়েল।"
+            },
+            "position": 8,
+            "synonyms": "soil-free farming, aquaculture, nutrient-based growth",
+            "antonyms": "traditional farming, soil-dependent, conventional",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মাটিবিহীন চাষ",
+                    "word_transliteration": "matibiheen chaash",
+                    "example_sentence_translation": "হাইড্রোপনিক চাষাবাদে মাটি ছাড়াই ফসল উৎপন্ন করা যায়।",
+                    "example_sentence_transliteration": "Hydroponic chashabaade maati charaayi foshol utponno kora jay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "aquaponics",
+            "phonetic": "/ˌækwəˈpɒnɪks/",
+            "word_native_transliteration": {
+                "bn": "অ্যাকুয়াপোনিক্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🐟",
+            "meaning": "A system of aquaculture in which the waste produced by farmed fish or other aquatic animals supplies nutrients for plants grown hydroponically.",
+            "example_sentence": "Aquaponics efficiently utilizes water by integrating fish and plant farming.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাকুয়াপোনিক্স এফিশিয়েন্টলি ইউটিলাইজেস ওয়াটার বাই ইন্টিগ্রেটিং ফিশ অ্যান্ড প্লান্ট ফার্মিং।"
+            },
+            "position": 9,
+            "synonyms": "hydroponics, aquaculture, integrated farming",
+            "antonyms": "traditional farming, monoculture, soil-based agriculture",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মিশ্র কৃষি পদ্ধতি",
+                    "word_transliteration": "mishro krishi poddhoti",
+                    "example_sentence_translation": "অ্যাকুয়াপোনিক্স পদ্ধতিতে মাছ ও উদ্ভিদের চাষ একসঙ্গে করা হয়, যা পানির কার্যকর ব্যবহার নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Aquaponics poddhoti mach o udvider chaash ekshonge kora hoy, ja panir karjokoro bybohar nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sustainability",
+            "phonetic": "/səˌsteɪ.nəˈbɪl.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "সাসটেইনেবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌍",
+            "meaning": "The ability to be maintained at a certain rate or level.",
+            "example_sentence": "Sustainability in agriculture ensures long-term food security.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাসটেইনেবিলিটি ইন অ্যাগ্রিকালচার এনশিওরস লং-টার্ম ফুড সিকিউরিটি।"
+            },
+            "position": 10,
+            "synonyms": "longevity, eco-friendliness, viability",
+            "antonyms": "unsustainable, short-lived, depletion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "টেকসই উন্নয়ন",
+                    "word_transliteration": "teksoi unnyon",
+                    "example_sentence_translation": "কৃষিতে টেকসই পদ্ধতি দীর্ঘমেয়াদী খাদ্য নিরাপত্তা নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Krishite teksoi poddhoti dirghomeyadi khadyo nirapotta nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "carbon footprint",
+            "phonetic": "/ˈkɑː.bən ˈfʊt.prɪnt/",
+            "word_native_transliteration": {
+                "bn": "কার্বন ফুটপ্রিন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌡️",
+            "meaning": "The amount of carbon dioxide and other carbon compounds emitted due to the consumption of fossil fuels by a particular person, group, etc.",
+            "example_sentence": "Reducing carbon footprint is essential for combating climate change.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিডিউসিং কার্বন ফুটপ্রিন্ট ইজ এসেনশিয়াল ফর কমব্যাটিং ক্লাইমেট চেঞ্জ।"
+            },
+            "position": 11,
+            "synonyms": "emission levels, environmental impact, carbon output",
+            "antonyms": "carbon neutrality, low emission, eco-friendly practices",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিবেশে নির্গত কার্বন ডাই অক্সাইডের পরিমাণ",
+                    "word_transliteration": "poribesh nirgoton carbon dioxide poriman",
+                    "example_sentence_translation": "জলবায়ু পরিবর্তনের বিরুদ্ধে লড়াই করতে কার্বন ফুটপ্রিন্ট কমানো অপরিহার্য।",
+                    "example_sentence_transliteration": "Jolbayu poribortonner biruddhe lorai korte carbon footprint komano oporihajro.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "biodegradable",
+            "phonetic": "/ˌbaɪ.oʊ.dɪˈɡreɪ.də.bəl/",
+            "word_native_transliteration": {
+                "bn": "বায়োডিগ্রেডেবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🍃",
+            "meaning": "Able to decay naturally and in a way that is not harmful.",
+            "example_sentence": "Using biodegradable products reduces environmental pollution.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইউজিং বায়োডিগ্রেডেবল প্রোডাক্টস রিডিউসেস এনভায়রনমেন্টাল পলিউশন।"
+            },
+            "position": 12,
+            "synonyms": "decomposable, eco-friendly, organic",
+            "antonyms": "non-biodegradable, synthetic, plastic-based",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহজেই পরিবেশে মিশে যাওয়া",
+                    "word_transliteration": "shohojei poribesh mishe jaoa",
+                    "example_sentence_translation": "বায়োডিগ্রেডেবল পণ্য ব্যবহারের মাধ্যমে পরিবেশ দূষণ কমানো যায়।",
+                    "example_sentence_transliteration": "Biodegradable ponno bybohaarer maddhome poribesh dushon komano jay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ecosystem",
+            "phonetic": "/ˈiː.kəʊˌsɪs.təm/",
+            "word_native_transliteration": {
+                "bn": "ইকোসিস্টেম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌿",
+            "meaning": "A biological community of interacting organisms and their physical environment.",
+            "example_sentence": "Protecting the ecosystem is crucial for maintaining biodiversity.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোটেক্টিং দ্য ইকোসিস্টেম ইজ ক্রুশিয়াল ফর মেইনটেইনিং বায়োডাইভারসিটি।"
+            },
+            "position": 13,
+            "synonyms": "biome, ecological system, habitat",
+            "antonyms": "artificial environment, desertification, degradation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিবেশগত ব্যবস্থা",
+                    "word_transliteration": "poribeshgoto bybosha",
+                    "example_sentence_translation": "জীববৈচিত্র্য সংরক্ষণে ইকোসিস্টেম রক্ষা করা অপরিহার্য।",
+                    "example_sentence_transliteration": "Jibboichittro shongrokkhone ecosystem rokkha kora oporihajro.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "biodiversity",
+            "phonetic": "/ˌbaɪ.oʊ.daɪˈvɜː.sɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "বায়োডাইভারসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🦋",
+            "meaning": "The variety of life in the world or in a particular habitat or ecosystem.",
+            "example_sentence": "Deforestation is a major threat to biodiversity.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিফরেস্টেশন ইজ এ মেজর থ্রেট টু বায়োডাইভারসিটি।"
+            },
+            "position": 14,
+            "synonyms": "species variety, genetic diversity, biological richness",
+            "antonyms": "extinction, habitat destruction, monoculture",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জীববৈচিত্র্য",
+                    "word_transliteration": "jibboichittro",
+                    "example_sentence_translation": "বন উজাড় হওয়া জীববৈচিত্র্যের জন্য প্রধান হুমকি।",
+                    "example_sentence_transliteration": "Bon ujaar hoa jibboichittroer jonno prodhan humki.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "photosynthesis",
+            "phonetic": "/ˌfoʊ.t̬oʊˈsɪn.θə.sɪs/",
+            "word_native_transliteration": {
+                "bn": "ফটোসিন্থেসিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "☀️",
+            "meaning": "The process by which green plants and some other organisms use sunlight to synthesize nutrients from carbon dioxide and water.",
+            "example_sentence": "Photosynthesis plays a vital role in oxygen production.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফটোসিন্থেসিস প্লেজ এ ভাইটাল রোল ইন অক্সিজেন প্রোডাকশন।"
+            },
+            "position": 15,
+            "synonyms": "light reaction, carbon fixation, chlorophyll process",
+            "antonyms": "respiration, decomposition, non-photosynthetic",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সালোকসংশ্লেষণ",
+                    "word_transliteration": "salokshongshlesho",
+                    "example_sentence_translation": "সালোকসংশ্লেষণ অক্সিজেন উৎপাদনে গুরুত্বপূর্ণ ভূমিকা পালন করে।",
+                    "example_sentence_transliteration": "Salokshongshlesho oxygen utpadone guruttopurno bhumika palon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "optimized",
+            "phonetic": "/ˈɒp.tɪ.maɪzd/",
+            "word_native_transliteration": {
+                "bn": "অপ্টিমাইজড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚡",
+            "meaning": "Made as effective, perfect, or functional as possible.",
+            "example_sentence": "Optimized irrigation techniques conserve water in farming.",
+            "example_sentence_native_transliteration": {
+                "bn": "অপ্টিমাইজড ইরিগেশন টেকনিকস কনজার্ভ ওয়াটার ইন ফার্মিং।"
+            },
+            "position": 16,
+            "synonyms": "improved, refined, maximized",
+            "antonyms": "inefficient, suboptimal, wasted",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সর্বোচ্চ কার্যকারিতা অর্জনের জন্য উন্নত",
+                    "word_transliteration": "sorbochcho karjokaarita orjoner jonno unnoto",
+                    "example_sentence_translation": "অপ্টিমাইজড সেচ প্রযুক্তি কৃষিতে পানি সংরক্ষণে সহায়ক।",
+                    "example_sentence_transliteration": "Optimized shech proyukti krishite paani shongrokkhone shohayok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "viability",
+            "phonetic": "/ˌvaɪ.əˈbɪl.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "ভায়াবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✅",
+            "meaning": "Ability to work successfully.",
+            "example_sentence": "The viability of a business depends on financial stability.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ভায়াবিলিটি অফ এ বিজনেস ডিপেন্ডস অন ফাইনান্সিয়াল স্ট্যাবিলিটি।"
+            },
+            "position": 17,
+            "synonyms": "feasibility, practicality, sustainability",
+            "antonyms": "impracticality, unfeasibility, failure",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "টিকে থাকার ও সফল হওয়ার ক্ষমতা",
+                    "word_transliteration": "tike thakar o shofol hoar kkhomota",
+                    "example_sentence_translation": "একটি ব্যবসার টিকে থাকার ক্ষমতা আর্থিক স্থিতিশীলতার উপর নির্ভর করে।",
+                    "example_sentence_transliteration": "Ekti byobshar tike thakar kkhomota arthik sthitishilotar upor nirbhor kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "autonomous",
+            "phonetic": "/ɔːˈtɒn.ə.məs/",
+            "word_native_transliteration": {
+                "bn": "অটোনোমাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🤖",
+            "meaning": "Acting independently or having the freedom to do so.",
+            "example_sentence": "Autonomous vehicles will revolutionize transportation.",
+            "example_sentence_native_transliteration": {
+                "bn": "অটোনোমাস ভেহিকেলস উইল রেভোলিউশনাইজ ট্রান্সপোর্টেশন।"
+            },
+            "position": 18,
+            "synonyms": "independent, self-sufficient, self-governing",
+            "antonyms": "dependent, controlled, subordinate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্বয়ংক্রিয়",
+                    "word_transliteration": "shoyongkriyo",
+                    "example_sentence_translation": "স্বয়ংক্রিয় যানবাহন পরিবহন ব্যবস্থায় বিপ্লব ঘটাবে।",
+                    "example_sentence_transliteration": "Shoyongkriyo janbahon poribohon byboshshay biplob ghotabe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "synthetic",
+            "phonetic": "/sɪnˈθet.ɪk/",
+            "word_native_transliteration": {
+                "bn": "সিন্থেটিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧪",
+            "meaning": "Made by chemical synthesis, especially to imitate a natural product.",
+            "example_sentence": "Synthetic fabrics are often cheaper than natural fibers.",
+            "example_sentence_native_transliteration": {
+                "bn": "সিন্থেটিক ফ্যাব্রিকস আর অফেন চিপার দ্যান ন্যাচারাল ফাইবারস।"
+            },
+            "position": 19,
+            "synonyms": "artificial, man-made, fabricated",
+            "antonyms": "natural, organic, genuine",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কৃত্রিমভাবে প্রস্তুতকৃত",
+                    "word_transliteration": "kkrittimobhabe prostutkrito",
+                    "example_sentence_translation": "সিন্থেটিক কাপড় প্রায়শই প্রাকৃতিক তন্তুর তুলনায় সস্তা হয়।",
+                    "example_sentence_transliteration": "Synthetic kapor prayoshoi prakritik tontur tulonay shoshta hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "agroecology",
+            "phonetic": "/ˌæɡ.roʊ.iˈkɑː.lə.dʒi/",
+            "word_native_transliteration": {
+                "bn": "অ্যাগ্রোইকোলজি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌱",
+            "meaning": "The study of ecological processes applied to agricultural production systems.",
+            "example_sentence": "Agroecology promotes environmentally friendly farming methods.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাগ্রোইকোলজি প্রোমোটস এনভায়রনমেন্টালি ফ্রেন্ডলি ফার্মিং মেথডস।"
+            },
+            "position": 20,
+            "synonyms": "sustainable agriculture, eco-farming, agroforestry",
+            "antonyms": "conventional farming, industrial agriculture, chemical-based farming",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিবেশবান্ধব কৃষি বিজ্ঞান",
+                    "word_transliteration": "poribeshbandho krishi biggyan",
+                    "example_sentence_translation": "অ্যাগ্রোইকোলজি পরিবেশবান্ধব কৃষি পদ্ধতি প্রচার করে।",
+                    "example_sentence_transliteration": "Agroecology poribeshbandho krishi poddhoti prochar kore.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

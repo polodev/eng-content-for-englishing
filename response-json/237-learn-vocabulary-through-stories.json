@@ -1,0 +1,526 @@
+{
+    "position": 237,
+    "title_translation": {
+        "en": "Why Regular Paint Touch-Ups Are Necessary",
+        "bn": "কেন নিয়মিত পেইন্ট টাচ-আপ প্রয়োজন"
+    },
+    "content_translation": {
+        "en": "Maintaining the **aesthetic** value of a home or building requires **maintenance** which is extremely important. Over time, **coating** gets damaged and **discoloration**, **blemish**, and even **degradation** appear.\n\nIf regular **touch-up** is not done, the **durability** of paint decreases and it becomes more **susceptible** to **erosion** and **corrosion**. Especially, weather **fluctuation** and air **oxidation** process deteriorate the quality of paint.\n\nThose who want to maintain **pristine** and long-lasting beauty need **meticulous** planning. To ensure **preservation**, paint wear and **vulnerability** must be reduced.\n\nRegular paint care **revitalizes** the house and increases its **resilience**. Therefore, regular paint **touch-up** should be done to avoid major problems in the future.",
+        "bn": "একটি ঘর বা ভবনের **aesthetic** মান বজায় রাখতে **maintenance** অত্যন্ত গুরুত্বপূর্ণ। সময়ের সঙ্গে সঙ্গে **coating** ক্ষতিগ্রস্ত হয় এবং **discoloration**, **blemish**, এমনকি **degradation** দেখা দেয়।\n\nনিয়মিত **touch-up** না করলে, রঙের **durability** কমে যায় এবং এটি **erosion** ও **corrosion**-এর জন্য আরও **susceptible** হয়ে ওঠে। বিশেষ করে, আবহাওয়ার **fluctuation** এবং বাতাসের **oxidation** প্রক্রিয়া রঙের মান নষ্ট করে।\n\nযারা **pristine** এবং দীর্ঘস্থায়ী সৌন্দর্য বজায় রাখতে চান, তাদের **meticulous** পরিকল্পনার প্রয়োজন। **Preservation** নিশ্চিত করতে হলে রঙের ক্ষয় এবং **vulnerability** কমাতে হবে।\n\nনিয়মিত রঙের যত্ন **revitalize** করে ঘরকে এবং এটি **resilience** বাড়ায়। তাই, ভবিষ্যতে বড় সমস্যাগুলো এড়াতে নিয়মিত রঙের **touch-up** করা উচিত।"
+    },
+    "list": [
+        {
+            "word": "aesthetic",
+            "phonetic": "/es'θet.ɪk/",
+            "word_native_transliteration": {
+                "bn": "এসথেটিক"
+            },
+            "parts_of_speech": "adjective/noun",
+            "emoji": "🎨",
+            "meaning": "Relating to beauty, art, or design; concerned with beauty or the appreciation of beauty.",
+            "example_sentence": "The building's aesthetic design makes it stand out.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য বিল্ডিংস এসথেটিক ডিজাইন মেকস ইট স্ট্যান্ড আউট।"
+            },
+            "position": 1,
+            "synonyms": "artistic, attractive, pleasing",
+            "antonyms": "unattractive, unappealing, unpleasant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নান্দনিকতা বা সৌন্দর্য সম্পর্কিত",
+                    "word_transliteration": "nandonikata ba shounddorjo shomporkit",
+                    "example_sentence_translation": "ভবনের নান্দনিক নকশা এটিকে আলাদা করে তোলে।",
+                    "example_sentence_transliteration": "Bhoboner nandronik noksha etike alada kore tole.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "maintenance",
+            "phonetic": "/ˈmeɪn.tən.əns/",
+            "word_native_transliteration": {
+                "bn": "মেইনটেন্যান্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔧",
+            "meaning": "The process of keeping something in proper working condition; upkeep.",
+            "example_sentence": "Regular maintenance increases the lifespan of machines.",
+            "example_sentence_native_transliteration": {
+                "bn": "রেগুলার মেইনটেন্যান্স ইনক্রিসেস দ্য লাইফস্প্যান অফ মেশিনস।"
+            },
+            "position": 2,
+            "synonyms": "upkeep, preservation, care",
+            "antonyms": "neglect, abandonment, deterioration",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রক্ষণাবেক্ষণ বা দেখভাল",
+                    "word_transliteration": "rokkhonabekkhon ba dekhabhal",
+                    "example_sentence_translation": "নিয়মিত রক্ষণাবেক্ষণ যন্ত্রের আয়ু বৃদ্ধি করে।",
+                    "example_sentence_transliteration": "Niyomit rokkhonabekkhon jontrer ayu briddhi kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "coating",
+            "phonetic": "/ˈkəʊ.tɪŋ/",
+            "word_native_transliteration": {
+                "bn": "কোটিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "A protective or decorative layer applied to a surface.",
+            "example_sentence": "A protective coating prevents rust formation.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ প্রোটেক্টিভ কোটিং প্রিভেন্টস রাস্ট ফরমেশন।"
+            },
+            "position": 3,
+            "synonyms": "layer, covering, film",
+            "antonyms": "exposure, removal, uncoated",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আবরণ বা স্তর প্রয়োগ",
+                    "word_transliteration": "aboron ba stor proyog",
+                    "example_sentence_translation": "একটি প্রতিরক্ষামূলক আবরণ মরিচা গঠনে বাধা দেয়।",
+                    "example_sentence_transliteration": "Ekti protirokkhaumolok aboron moricha gothone badha dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "discoloration",
+            "phonetic": "/ˌdɪs.kʌl.əˈreɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ডিসকলরেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌈",
+            "meaning": "The process of changing or losing color; fading.",
+            "example_sentence": "Sun exposure causes discoloration of fabrics.",
+            "example_sentence_native_transliteration": {
+                "bn": "সান এক্সপোজার কজেস ডিসকলরেশন অফ ফ্যাব্রিক্স।"
+            },
+            "position": 4,
+            "synonyms": "fading, staining, tarnishing",
+            "antonyms": "color retention, brightness, freshness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিবর্ণতা বা রং পরিবর্তন",
+                    "word_transliteration": "bibornota ba rong poriborton",
+                    "example_sentence_translation": "সূর্যালোকের সংস্পর্শে কাপড় বিবর্ণ হয়ে যায়।",
+                    "example_sentence_transliteration": "Shurjaloker sонgsপorshe kapor biborn hoye jay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "blemish",
+            "phonetic": "/ˈblɛm.ɪʃ/",
+            "word_native_transliteration": {
+                "bn": "ব্লেমিশ"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔍",
+            "meaning": "A small mark or flaw that spoils the appearance of something.",
+            "example_sentence": "The mirror had a small blemish on the surface.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য মিরর হ্যাড এ স্মল ব্লেমিশ অন দ্য সারফেস।"
+            },
+            "position": 5,
+            "synonyms": "imperfection, flaw, stain",
+            "antonyms": "perfection, spotlessness, clarity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দাগ বা ক্ষতি",
+                    "word_transliteration": "dag ba khoti",
+                    "example_sentence_translation": "আয়নার উপর একটি ছোট দাগ ছিল।",
+                    "example_sentence_transliteration": "Aynar upor ekti chhoto dag chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "degradation",
+            "phonetic": "/ˌdɛɡ.rəˈdeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ডিগ্রেডেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📉",
+            "meaning": "The process by which something deteriorates or declines in quality.",
+            "example_sentence": "Pollution leads to the degradation of natural ecosystems.",
+            "example_sentence_native_transliteration": {
+                "bn": "পলিউশন লিডস টু দ্য ডিগ্রেডেশন অফ ন্যাচারাল ইকোসিস্টেমস।"
+            },
+            "position": 6,
+            "synonyms": "deterioration, decay, erosion",
+            "antonyms": "improvement, restoration, enhancement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অবনতি বা ক্ষয়",
+                    "word_transliteration": "obonoti ba khoy",
+                    "example_sentence_translation": "দূষণ প্রকৃতির বাস্তুসংস্থানের অবনতি ঘটায়।",
+                    "example_sentence_transliteration": "Dushon prokritir bastushongshaner obonoti ghotay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "touch-up",
+            "phonetic": "/ˈtʌtʃ.ʌp/",
+            "word_native_transliteration": {
+                "bn": "টাচ-আপ"
+            },
+            "parts_of_speech": "noun/verb",
+            "emoji": "🖌️",
+            "meaning": "Small corrections or improvements made to something.",
+            "example_sentence": "The artist gave a quick touch-up to the painting.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য আর্টিস্ট গেভ এ কুইক টাচ-আপ টু দ্য পেইন্টিং।"
+            },
+            "position": 7,
+            "synonyms": "refinement, adjustment, fix",
+            "antonyms": "damage, neglect, worsening",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংশোধন বা সামান্য মেরামত",
+                    "word_transliteration": "shongshodhon ba shamanya meramot",
+                    "example_sentence_translation": "শিল্পী চিত্রটির একটি দ্রুত সংশোধন করলেন।",
+                    "example_sentence_transliteration": "Shilpi chitrotir ekti druto shongshodhon korlen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "durability",
+            "phonetic": "/ˌdjʊə.rəˈbɪl.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "ডিউরেবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "The ability to withstand wear, pressure, or damage; lasting quality.",
+            "example_sentence": "The durability of the material makes it ideal for construction.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডিউরেবিলিটি অফ দ্য ম্যাটেরিয়াল মেকস ইট আইডিয়াল ফর কনস্ট্রাকশন।"
+            },
+            "position": 8,
+            "synonyms": "strength, longevity, resilience",
+            "antonyms": "fragility, weakness, short-lived",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্থিতিশীলতা বা দীর্ঘস্থায়িত্ব",
+                    "word_transliteration": "shthitishilota ba dirghoshthayitto",
+                    "example_sentence_translation": "উপাদানটির দীর্ঘস্থায়িত্ব এটিকে নির্মাণের জন্য উপযুক্ত করে তোলে।",
+                    "example_sentence_transliteration": "Upadantir dirghoshthayitto etike nirmaner jonno upjukto kore tole.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "erosion",
+            "phonetic": "/ɪˈrəʊ.ʒən/",
+            "word_native_transliteration": {
+                "bn": "ইরোশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌊",
+            "meaning": "The gradual destruction or diminution of something by natural forces.",
+            "example_sentence": "Soil erosion is a major concern for agriculture.",
+            "example_sentence_native_transliteration": {
+                "bn": "সয়েল ইরোশন ইজ এ মেজর কনসার্ন ফর এগ্রিকালচার।"
+            },
+            "position": 9,
+            "synonyms": "wearing away, corrosion, deterioration",
+            "antonyms": "preservation, protection, stability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্ষয় বা ধীরে ধীরে কমে যাওয়া",
+                    "word_transliteration": "khoy ba dhire dhire kome jaoa",
+                    "example_sentence_translation": "মাটির ক্ষয় কৃষির জন্য একটি বড় উদ্বেগের বিষয়।",
+                    "example_sentence_transliteration": "Matir khoy krishir jonno ekti boro udbeger bishoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "corrosion",
+            "phonetic": "/kəˈrəʊ.ʒən/",
+            "word_native_transliteration": {
+                "bn": "করোশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🦠",
+            "meaning": "The process of corroding metal, stone, or other materials by chemical action.",
+            "example_sentence": "Moisture accelerates metal corrosion over time.",
+            "example_sentence_native_transliteration": {
+                "bn": "ময়েসচার এক্সেলারেটস মেটাল করোশন ওভার টাইম।"
+            },
+            "position": 10,
+            "synonyms": "rusting, deterioration, erosion",
+            "antonyms": "protection, preservation, durability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্ষয় বা ধীরে ধীরে নষ্ট হওয়া",
+                    "word_transliteration": "khoy ba dhire dhire noshto howa",
+                    "example_sentence_translation": "আর্দ্রতা ধাতুর ক্ষয়কে সময়ের সাথে ত্বরান্বিত করে।",
+                    "example_sentence_transliteration": "Ardrata dhatur khoyke shomeyer shathe ttoranbit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "susceptible",
+            "phonetic": "/səˈsɛp.tə.bəl/",
+            "word_native_transliteration": {
+                "bn": "সাসেপটিবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎯",
+            "meaning": "Likely or liable to be influenced or harmed by a particular thing.",
+            "example_sentence": "Children are more susceptible to infections.",
+            "example_sentence_native_transliteration": {
+                "bn": "চিলড্রেন আর মোর সাসেপটিবল টু ইনফেকশনস।"
+            },
+            "position": 11,
+            "synonyms": "vulnerable, sensitive, prone",
+            "antonyms": "resistant, immune, unaffected",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংবেদনশীল বা সহজে প্রভাবিত হওয়ার প্রবণতা",
+                    "word_transliteration": "shongbedonshil ba shohoje prabhobito howar probonota",
+                    "example_sentence_translation": "শিশুরা সংক্রমণের প্রতি বেশি সংবেদনশীল।",
+                    "example_sentence_transliteration": "Shishura shongkromonre proti beshi shongbedonshil.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fluctuation",
+            "phonetic": "/ˌflʌk.tʃuˈeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ফ্লাকচুয়েশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "An irregular rising and falling in number or amount; variation.",
+            "example_sentence": "The stock market experiences frequent fluctuation.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্টক মার্কেট এক্সপেরিয়েন্সেস ফ্রিকোয়েন্ট ফ্লাকচুয়েশন।"
+            },
+            "position": 12,
+            "synonyms": "variation, instability, shift",
+            "antonyms": "stability, consistency, steadiness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উত্থান-পতন বা পরিবর্তন",
+                    "word_transliteration": "utthan-poton ba poriborton",
+                    "example_sentence_translation": "শেয়ারবাজার প্রায়শই ওঠানামা করে।",
+                    "example_sentence_transliteration": "Sheyarbazar proyshoi othanama kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "oxidation",
+            "phonetic": "/ˌɒk.sɪˈdeɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "অক্সিডেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚗️",
+            "meaning": "The process or result of oxidizing or being oxidized.",
+            "example_sentence": "Oxidation causes iron to turn into rust.",
+            "example_sentence_native_transliteration": {
+                "bn": "অক্সিডেশন কজেস আয়রন টু টার্ন ইনটু রাস্ট।"
+            },
+            "position": 13,
+            "synonyms": "rusting, chemical reaction, degradation",
+            "antonyms": "reduction, purification, prevention",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অক্সিডেশন বা রাসায়নিক বিক্রিয়া",
+                    "word_transliteration": "oksideshon ba rashayonik bikriya",
+                    "example_sentence_translation": "অক্সিডেশনের কারণে লোহা মরিচায় পরিণত হয়।",
+                    "example_sentence_transliteration": "Oksideshoner karone loha morichay porinoto hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pristine",
+            "phonetic": "/ˈprɪs.tiːn/",
+            "word_native_transliteration": {
+                "bn": "প্রিস্টিন"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "✨",
+            "meaning": "In its original condition; unspoiled; clean and fresh as if new.",
+            "example_sentence": "The mountain air was fresh and pristine.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য মাউন্টেইন এয়ার ওয়াজ ফ্রেশ অ্যান্ড প্রিস্টিন।"
+            },
+            "position": 14,
+            "synonyms": "pure, untouched, unspoiled",
+            "antonyms": "polluted, contaminated, damaged",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিষ্কলুষ বা একেবারে নতুন",
+                    "word_transliteration": "nishkolush ba ekebare notun",
+                    "example_sentence_translation": "পর্বতের বাতাস ছিল নির্মল ও নিষ্কলুষ।",
+                    "example_sentence_transliteration": "Porboter batas chhilo nirmal o nishkolush.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "meticulous",
+            "phonetic": "/məˈtɪk.jə.ləs/",
+            "word_native_transliteration": {
+                "bn": "মেটিকুলাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔍",
+            "meaning": "Showing great attention to detail; very careful and precise.",
+            "example_sentence": "The architect was meticulous in designing the blueprint.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য আর্কিটেক্ট ওয়াজ মেটিকুলাস ইন ডিজাইনিং দ্য ব্লুপ্রিন্ট।"
+            },
+            "position": 15,
+            "synonyms": "precise, thorough, detail-oriented",
+            "antonyms": "careless, inaccurate, negligent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অত্যন্ত যত্নবান বা নিখুঁতভাবে কাজ করা",
+                    "word_transliteration": "ottyonto jotnoban ba nikhuntobhabe kaj kora",
+                    "example_sentence_translation": "স্থপতি নকশা তৈরিতে অত্যন্ত যত্নবান ছিলেন।",
+                    "example_sentence_transliteration": "Sthopoti noksha tairite ottyonto jotnoban chhilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "preservation",
+            "phonetic": "/ˌprɛz.əˈveɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "প্রেজারভেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛡️",
+            "meaning": "The action of maintaining something in its original or existing state.",
+            "example_sentence": "The museum focuses on the preservation of ancient artifacts.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য মিউজিয়াম ফোকাসেস অন দ্য প্রেজারভেশন অফ এনশিয়েন্ট আর্টিফ্যাক্টস।"
+            },
+            "position": 16,
+            "synonyms": "conservation, protection, maintenance",
+            "antonyms": "destruction, neglect, deterioration",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংরক্ষণ বা রক্ষা করা",
+                    "word_transliteration": "shongrokkhon ba rokkha kora",
+                    "example_sentence_translation": "জাদুঘরটি প্রাচীন শিল্পকর্মের সংরক্ষণে মনোযোগ দেয়।",
+                    "example_sentence_transliteration": "Jadughortir pracheen shilpokormer shongrokkhonet monojog dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "vulnerability",
+            "phonetic": "/ˌvʌl.nər.əˈbɪl.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "ভালনারেবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The quality or state of being exposed to the possibility of being attacked or harmed.",
+            "example_sentence": "Cybersecurity breaches expose systems to vulnerability.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাইবার সিকিউরিটি ব্রিচেস এক্সপোজ সিস্টেমস টু ভালনারেবিলিটি।"
+            },
+            "position": 17,
+            "synonyms": "weakness, exposure, susceptibility",
+            "antonyms": "strength, resilience, protection",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দুর্বলতা বা আক্রমণের ঝুঁকি",
+                    "word_transliteration": "durbolota ba akromoner jhuki",
+                    "example_sentence_translation": "সাইবার নিরাপত্তা লঙ্ঘন সিস্টেমকে দুর্বলতার মুখে ফেলে।",
+                    "example_sentence_transliteration": "Cyber nirappotta longgon sistemke durbolotar mukhe phele.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "revitalize",
+            "phonetic": "/ˌriːˈvaɪ.təl.aɪz/",
+            "word_native_transliteration": {
+                "bn": "রিভাইটালাইজ"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔄",
+            "meaning": "To give new life and vitality to something.",
+            "example_sentence": "The new policies aim to revitalize the economy.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিউ পলিসিস এইম টু রিভাইটালাইজ দ্য ইকোনমি।"
+            },
+            "position": 18,
+            "synonyms": "rejuvenate, refresh, restore",
+            "antonyms": "dull, weaken, drain",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুনরুজ্জীবিত বা নতুন প্রাণ সঞ্চার করা",
+                    "word_transliteration": "punorujibit ba notun pran shonchar kora",
+                    "example_sentence_translation": "নতুন নীতিগুলো অর্থনীতিকে পুনরুজ্জীবিত করার লক্ষ্য রাখে।",
+                    "example_sentence_transliteration": "Notun nitigulo orthonitike punorujibit korar lokkhyo rakhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "resilience",
+            "phonetic": "/rɪˈzɪl.i.əns/",
+            "word_native_transliteration": {
+                "bn": "রেজিলিয়েন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "The capacity to recover quickly from difficulties; toughness.",
+            "example_sentence": "Mental resilience is crucial in challenging times.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেন্টাল রেজিলিয়েন্স ইজ ক্রুশিয়াল ইন চ্যালেঞ্জিং টাইমস।"
+            },
+            "position": 19,
+            "synonyms": "toughness, adaptability, endurance",
+            "antonyms": "fragility, weakness, vulnerability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহনশীলতা বা প্রতিরোধ ক্ষমতা",
+                    "word_transliteration": "shohonshilota ba protirodh khomota",
+                    "example_sentence_translation": "চ্যালেঞ্জিং সময়ে মানসিক সহনশীলতা অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Challengeing shomeye manoshik shohonshilota ottyonto guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

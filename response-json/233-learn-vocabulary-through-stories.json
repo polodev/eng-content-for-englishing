@@ -1,0 +1,418 @@
+{
+    "position": 233,
+    "title_translation": {
+        "en": "Why Hydration is Essential Daily",
+        "bn": "কেন প্রতিদিন হাইড্রেশন প্রয়োজনীয়"
+    },
+    "content_translation": {
+        "en": "**Hydration** is extremely important for the body. Our body is composed of approximately 60% water, so drinking adequate amounts of water daily helps maintain **vitality** and **homeostasis**.\n\nWhen the body doesn't get enough water, **dehydration** can occur, which reduces **cognitive** and physical abilities. Water keeps the body's **metabolism** active and facilitates the **detoxification** process.\n\nAdditionally, water maintains proper **circulation** in the body and maintains the correct **balance** of **electrolytes**. Water increases **absorption** and **solubility**, helping the body absorb nutrients quickly. Water is also essential for increasing the body's **permeability**.\n\nTherefore, drinking adequate water daily works **optimum** for the body and increases our energy and **endurance**.",
+        "bn": "**Hydration** হলো শরীরের জন্য অত্যন্ত গুরুত্বপূর্ণ। আমাদের শরীর প্রায় 60% পানি দিয়ে গঠিত, তাই প্রতিদিন সঠিক পরিমাণে পানি পান করা **vitality** এবং **homeostasis** বজায় রাখতে সাহায্য করে।\n\nযখন শরীর পর্যাপ্ত পানি পায় না, তখন **dehydration** হতে পারে, যা **cognitive** এবং শারীরিক ক্ষমতা কমিয়ে দেয়। পানি শরীরের **metabolism** কে সক্রিয় রাখে এবং **detoxification** প্রক্রিয়াকে সহজ করে।\n\nএছাড়া, পানি শরীরের **circulation** ঠিক রাখে এবং **electrolytes** এর সঠিক **balance** বজায় রাখে। পানি **absorption** ও **solubility** বাড়িয়ে, শরীরের পুষ্টি উপাদান দ্রুত শোষণ করতে সাহায্য করে। শরীরের **permeability** বাড়ানোর জন্যও পানি অপরিহার্য।\n\nঅতএব, প্রতিদিন পর্যাপ্ত পানি পান করা শরীরের জন্য **optimum** কাজ করে এবং আমাদের শক্তি ও **endurance** বাড়িয়ে তোলে।"
+    },
+    "list": [
+        {
+            "word": "hydration",
+            "phonetic": "/haɪˈdreɪʃən/",
+            "word_native_transliteration": {
+                "bn": "হাইড্রেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💧",
+            "meaning": "The process of providing an adequate amount of liquid to bodily tissues.",
+            "example_sentence": "Proper hydration is essential for maintaining body functions.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রপার হাইড্রেশন ইজ এসেনশিয়াল ফর মেইনটেইনিং বডি ফাংশনস।"
+            },
+            "position": 1,
+            "synonyms": "rehydration, moistening",
+            "antonyms": "dehydration, desiccation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শরীরের জল শোষণ, পানি গ্রহণ, জলবরাবর থাকা",
+                    "word_transliteration": "sharirer jol shoshon, pani grohon, jolbaraabar thaka",
+                    "example_sentence_translation": "যথাযথ হাইড্রেশন শরীরের কার্যাবলি বজায় রাখতে অপরিহার্য।",
+                    "example_sentence_transliteration": "jothajotho hydration sharirer karjaboli bojay rakhte oporoharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "vitality",
+            "phonetic": "/vaɪˈtælɪti/",
+            "word_native_transliteration": {
+                "bn": "ভাইটালিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "The state of being strong and active; energy.",
+            "example_sentence": "Exercise enhances vitality and mental alertness.",
+            "example_sentence_native_transliteration": {
+                "bn": "এক্সারসাইজ এনহান্সেস ভাইটালিটি অ্যান্ড মেন্টাল অ্যালার্টনেস।"
+            },
+            "position": 2,
+            "synonyms": "energy, vigor",
+            "antonyms": "fatigue, lethargy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জীবনশক্তি, শক্তি, জীবন্ততা",
+                    "word_transliteration": "jibonshokti, shokti, jibontota",
+                    "example_sentence_translation": "ব্যায়াম জীবন্ততা এবং মানসিক সজাগতা বৃদ্ধি করে।",
+                    "example_sentence_transliteration": "byayam jibontota ebong manoshik shojagota briddhi kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "homeostasis",
+            "phonetic": "/ˌhəʊ.mi.əʊˈsteɪ.sɪs/",
+            "word_native_transliteration": {
+                "bn": "হোমিওস্ট্যাসিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "The tendency toward a relatively stable equilibrium between interdependent elements.",
+            "example_sentence": "The body maintains homeostasis through various systems.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য বডি মেইনটেইনস হোমিওস্ট্যাসিস থ্রু ভেরিয়াস সিস্টেমস।"
+            },
+            "position": 3,
+            "synonyms": "equilibrium, balance",
+            "antonyms": "imbalance, instability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শারীরিক সমতা বজায় রাখা, দেহের অভ্যন্তরীণ পরিবেশের ভারসাম্য",
+                    "word_transliteration": "sharirikh shomota bojay rakha, deher obhyntorio poribesh er bharishamy",
+                    "example_sentence_translation": "শরীর বিভিন্ন সিস্টেমের মাধ্যমে হোমিওস্ট্যাসিস বজায় রাখে।",
+                    "example_sentence_transliteration": "shorir bibhinno system er madhyome homeostasis bojay rakhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dehydration",
+            "phonetic": "/ˌdiː.haɪˈdreɪʃən/",
+            "word_native_transliteration": {
+                "bn": "ডিহাইড্রেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏜️",
+            "meaning": "A condition in which the body or tissue lacks adequate water content.",
+            "example_sentence": "Dehydration can lead to fatigue and confusion.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিহাইড্রেশন ক্যান লিড টু ফ্যাটিগ অ্যান্ড কনফিউশন।"
+            },
+            "position": 4,
+            "synonyms": "dryness, thirst",
+            "antonyms": "hydration, saturation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পানি অভাব, শারীরিক অবস্থায় পানি কমে যাওয়া",
+                    "word_transliteration": "pani obhab, sharirikh obosthay pani kome jaowa",
+                    "example_sentence_translation": "ডিহাইড্রেশন ক্লান্তি এবং বিভ্রান্তির কারণ হতে পারে।",
+                    "example_sentence_transliteration": "dehydration klanti ebong bibhrantir karon hote pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cognitive",
+            "phonetic": "/ˈkɒɡ.nɪ.tɪv/",
+            "word_native_transliteration": {
+                "bn": "কগনিটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧠",
+            "meaning": "Related to the mental processes of perception, memory, judgment, and reasoning.",
+            "example_sentence": "Cognitive abilities help in problem-solving and decision-making.",
+            "example_sentence_native_transliteration": {
+                "bn": "কগনিটিভ অ্যাবিলিটিজ হেল্প ইন প্রবলেম-সলভিং অ্যান্ড ডিসিশন-মেকিং।"
+            },
+            "position": 5,
+            "synonyms": "intellectual, mental",
+            "antonyms": "non-cognitive, physical",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বুদ্ধিবৃত্তিক, মস্তিষ্কের কার্যক্রম সম্পর্কিত",
+                    "word_transliteration": "buddhibrittik, mostishker karjokrom shomporkhito",
+                    "example_sentence_translation": "কগনিটিভ দক্ষতাগুলি সমস্যা সমাধান এবং সিদ্ধান্ত গ্রহণে সাহায্য করে।",
+                    "example_sentence_transliteration": "cognitive dokkhota guli shomoshya shomadhan ebong siddhanto grohone shahajyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "metabolism",
+            "phonetic": "/məˈtæbəlɪzəm/",
+            "word_native_transliteration": {
+                "bn": "মেটাবোলিজম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔥",
+            "meaning": "The chemical processes that occur within a living organism in order to maintain life.",
+            "example_sentence": "Faster metabolism can help with weight management.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফাস্টার মেটাবোলিজম ক্যান হেল্প উইথ ওয়েট ম্যানেজমেন্ট।"
+            },
+            "position": 6,
+            "synonyms": "biochemical process, digestion",
+            "antonyms": "stasis, inactivity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শারীরিক প্রক্রিয়া, বিপাক",
+                    "word_transliteration": "sharirikh prokriya, bipak",
+                    "example_sentence_translation": "দ্রুত মেটাবোলিজম ওজন নিয়ন্ত্রণে সহায়ক হতে পারে।",
+                    "example_sentence_transliteration": "druto metabolism ojon niyontrone shohayok hote pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "detoxification",
+            "phonetic": "/diːˌtɒksɪfɪˈkeɪʃən/",
+            "word_native_transliteration": {
+                "bn": "ডিটক্সিফিকেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧹",
+            "meaning": "The process of removing toxic substances from a living organism.",
+            "example_sentence": "Detoxification helps to cleanse the body of harmful substances.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিটক্সিফিকেশন হেল্পস টু ক্লিনজ দ্য বডি অব হার্মফুল সাবস্ট্যান্সেস।"
+            },
+            "position": 7,
+            "synonyms": "purification, cleansing",
+            "antonyms": "toxicity, poisoning",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিষাক্ত পদার্থ দূরীকরণ, শরীর থেকে বিষ পরিস্কার",
+                    "word_transliteration": "bishakto podartho durikoron, shorir theke bish porishkar",
+                    "example_sentence_translation": "ডিটক্সিফিকেশন শরীরকে ক্ষতিকর পদার্থ থেকে পরিষ্কার করতে সাহায্য করে।",
+                    "example_sentence_transliteration": "detoxification shorirke kkhotikar podartho theke porishkar korte shahajyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "circulation",
+            "phonetic": "/ˌsɜː.kjʊˈleɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "সার্কুলেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🫀",
+            "meaning": "The movement of blood through the body, or the movement of any fluid through a closed system.",
+            "example_sentence": "Proper circulation ensures that oxygen and nutrients reach every cell.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রপার সার্কুলেশন এনশিউরস দ্যাট অক্সিজেন অ্যান্ড নিউট্রিয়েন্টস রিচ এভরি সেল।"
+            },
+            "position": 8,
+            "synonyms": "flow, distribution",
+            "antonyms": "stagnation, blockage",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রক্ত প্রবাহ, ঘুরে আসা, পরিবহন ব্যবস্থা",
+                    "word_transliteration": "rokto probah, ghure asha, poribohon bebostha",
+                    "example_sentence_translation": "যথাযথ সার্কুলেশন নিশ্চিত করে যে অক্সিজেন এবং পুষ্টি প্রতিটি কোষে পৌঁছায়।",
+                    "example_sentence_transliteration": "jothajotho circulation nishchito kore je oxygen ebong pushti protiti koshey pounchay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "electrolytes",
+            "phonetic": "/ɪˈlɛk.trəʊ.laɪts/",
+            "word_native_transliteration": {
+                "bn": "ইলেকট্রোলাইটস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "Minerals in body fluids that carry an electric charge and are essential for many bodily functions.",
+            "example_sentence": "Electrolytes help maintain proper fluid balance in the body.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইলেকট্রোলাইটস হেল্প মেইনটেইন প্রপার ফ্লুইড ব্যালেন্স ইন দ্য বডি।"
+            },
+            "position": 9,
+            "synonyms": "ions, minerals",
+            "antonyms": "non-electrolytes, imbalance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৈদ্যুতিন শূন্যতার বিশ্লেষণ, জলশক্তির ব্যালেন্সে অবদানকারী পদার্থ",
+                    "word_transliteration": "boidyutin shunnyotar bishleshon, jolshokti balance e obodankaari podartho",
+                    "example_sentence_translation": "ইলেকট্রোলাইটগুলি শরীরের সঠিক তরলের ভারসাম্য বজায় রাখতে সাহায্য করে।",
+                    "example_sentence_transliteration": "electrolyte guli shorirer shothik toroler bharishamy bojay rakhte shahajyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "balance",
+            "phonetic": "/ˈbæləns/",
+            "word_native_transliteration": {
+                "bn": "ব্যালেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "A condition in which different elements are equal or in the correct proportions.",
+            "example_sentence": "A good diet helps maintain a balance between nutrients.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ গুড ডায়েট হেল্পস মেইনটেইন এ ব্যালেন্স বিটউইন নিউট্রিয়েন্টস।"
+            },
+            "position": 10,
+            "synonyms": "stability, harmony",
+            "antonyms": "imbalance, instability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভারসাম্য, সুষমতা, সমতা",
+                    "word_transliteration": "bharishamy, shushmota, shomota",
+                    "example_sentence_translation": "ভাল খাদ্য পুষ্টির মধ্যে ভারসাম্য বজায় রাখতে সাহায্য করে।",
+                    "example_sentence_transliteration": "bhal khadyo pushtir modhye bharishamy bojay rakhte shahajyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "absorption",
+            "phonetic": "/əbˈzɔːpʃən/",
+            "word_native_transliteration": {
+                "bn": "অ্যাবজর্সন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧽",
+            "meaning": "The process of taking in or soaking up substances by chemical or physical action.",
+            "example_sentence": "The absorption of nutrients in the intestines is essential for health.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যাবজর্সন অব নিউট্রিয়েন্টস ইন দ্য ইনটেস্টাইনস ইজ এসেনশিয়াল ফর হেলথ।"
+            },
+            "position": 11,
+            "synonyms": "assimilation, intake",
+            "antonyms": "emission, rejection",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শোষণ, গ্রহণ, শোষণ প্রক্রিয়া",
+                    "word_transliteration": "shoshon, grohon, shoshon prokriya",
+                    "example_sentence_translation": "অন্ত্রে পুষ্টির শোষণ স্বাস্থ্যের জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "ontre pushtir shoshon swasthyer jonyo oporoharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "solubility",
+            "phonetic": "/ˌsɒl.jʊˈbɪləti/",
+            "word_native_transliteration": {
+                "bn": "সল্যুবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧪",
+            "meaning": "The ability of a substance to dissolve in a solvent.",
+            "example_sentence": "The solubility of salt in water is high.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সল্যুবিলিটি অব সল্ট ইন ওয়াটার ইজ হাই।"
+            },
+            "position": 12,
+            "synonyms": "dissolution, liquefaction",
+            "antonyms": "insolubility, immiscibility",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্রবণীয়তা, দ্রবীভূত হওয়ার ক্ষমতা",
+                    "word_transliteration": "droboniyota, drobibhuto howar kkhomota",
+                    "example_sentence_translation": "পানিতে লবণের দ্রবণীয়তা বেশি।",
+                    "example_sentence_transliteration": "panite loboner droboniyota beshi.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "permeability",
+            "phonetic": "/ˌpɜː.mɪˈæbɪlɪti/",
+            "word_native_transliteration": {
+                "bn": "পারমিয়াবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🕳️",
+            "meaning": "The quality or state of being permeable; allowing liquids or gases to pass through.",
+            "example_sentence": "The permeability of the soil affects water retention.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য পারমিয়াবিলিটি অব দ্য সয়েল অ্যাফেক্টস ওয়াটার রিটেনশন।"
+            },
+            "position": 13,
+            "synonyms": "porosity, permeableness",
+            "antonyms": "impermeability, sealed",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রবাহ্যতা, যে পদার্থ কিছু অপরিহার্য উপাদান পার করতে পারে",
+                    "word_transliteration": "probahyota, je podartho kichu oporoharjo upodan par korte pare",
+                    "example_sentence_translation": "মাটির প্রবাহ্যতা জল ধারণ ক্ষমতা প্রভাবিত করে।",
+                    "example_sentence_transliteration": "matir probahyota jol dharon kkhomota probhabito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "optimum",
+            "phonetic": "/ˈɒptɪməm/",
+            "word_native_transliteration": {
+                "bn": "অপটিমাম"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎯",
+            "meaning": "Most conducive to a favorable outcome; best.",
+            "example_sentence": "To achieve optimum results, we need to improve efficiency.",
+            "example_sentence_native_transliteration": {
+                "bn": "টু অ্যাচিভ অপটিমাম রেজাল্টস, উই নিড টু ইমপ্রুভ এফিশিয়েন্সি।"
+            },
+            "position": 14,
+            "synonyms": "ideal, best",
+            "antonyms": "suboptimal, inadequate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সর্বোত্তম, সর্বোচ্চ ফলপ্রসূ, আদর্শ",
+                    "word_transliteration": "shorbottom, shorbochchho pholproshuu, adorsho",
+                    "example_sentence_translation": "সর্বোত্তম ফলাফল অর্জনের জন্য আমাদের দক্ষতা বাড়াতে হবে।",
+                    "example_sentence_transliteration": "shorbottom pholaphol orjoner jonyo amader dokkhota barate hobe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "endurance",
+            "phonetic": "/ɪnˈdjʊə.rəns/",
+            "word_native_transliteration": {
+                "bn": "এনডিউরেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏃‍♂️",
+            "meaning": "The ability to withstand hardship or adversity; persistence.",
+            "example_sentence": "Endurance is necessary for long-distance running.",
+            "example_sentence_native_transliteration": {
+                "bn": "এনডিউরেন্স ইজ নেসেসারি ফর লং-ডিস্ট্যান্স রানিং।"
+            },
+            "position": 15,
+            "synonyms": "stamina, fortitude",
+            "antonyms": "fragility, weakness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহ্য শক্তি, দেহের দীর্ঘস্থায়ী ক্ষমতা, টেকসইতা",
+                    "word_transliteration": "shojjo shokti, deher dirghosthayi kkhomota, tekshoitaa",
+                    "example_sentence_translation": "দূরপাল্লার দৌড়ের জন্য সহ্য শক্তি প্রয়োজন।",
+                    "example_sentence_transliteration": "durpallaar dourer jonyo shojjo shokti proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

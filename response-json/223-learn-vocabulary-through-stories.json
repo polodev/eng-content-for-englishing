@@ -1,0 +1,472 @@
+{
+    "position": 223,
+    "title_translation": {
+        "en": "Think and Grow Rich",
+        "bn": "Think and Grow Rich"
+    },
+    "content_translation": {
+        "en": "To achieve **affluence**, hard work alone is not enough; one must have proper **acumen** and **discernment**. The secret to becoming wealthy lies in **cogitation** and mental transformation.\n\nAn **entrepreneurial** person doesn't just look for opportunities; they use their **ingenuity** to create new **lucrative** paths. Successful people know that without **perseverance** and **diligence**, **prosperity** is impossible.\n\nThrough proper **manifestation** and **astute** planning, anyone can bring about a **metamorphosis** in their life. For success, **frugality** and proper use of money is necessary, as it plays a **consummate** role in future investments.\n\nTherefore, those who truly want to succeed must be **sagacious** and **extrapolate** life. This is not just about wealth, but it is also the path to mental development.",
+        "bn": "**Affluence** অর্জনের জন্য শুধুমাত্র কঠোর পরিশ্রমই যথেষ্ট নয়, সঠিক **acumen** এবং **discernment** থাকা জরুরি। ধনী হওয়ার রহস্য লুকিয়ে আছে **cogitation** এবং মানসিকতার পরিবর্তনের মধ্যে।\n\nএকজন **entrepreneurial** ব্যক্তি শুধু সুযোগ খোঁজে না, বরং সে নিজের **ingenuity** ব্যবহার করে নতুন **lucrative** পথ তৈরি করে। সফল ব্যক্তিরা জানেন যে **perseverance** এবং **diligence** ছাড়া **prosperity** সম্ভব নয়।\n\nসঠিক **manifestation** এবং **astute** পরিকল্পনার মাধ্যমে যে কেউ তার জীবনের **metamorphosis** ঘটাতে পারে। সাফল্যের জন্য **frugality** এবং অর্থের সঠিক ব্যবহার করা প্রয়োজন, কারণ এটি ভবিষ্যতের বিনিয়োগের জন্য **consummate** ভূমিকা রাখে।\n\nতাই, যারা সত্যিই সফল হতে চায়, তাদের **sagacious** হতে হবে এবং জীবনকে **extrapolate** করতে হবে। এটি শুধুমাত্র সম্পদের কথা নয়, বরং এটি মানসিক উন্নতিরও পথ।"
+    },
+    "list": [
+        {
+            "word": "affluence",
+            "phonetic": "ˈæf.luː.əns",
+            "word_native_transliteration": {
+                "bn": "অ্যাফ্লুয়েন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💰",
+            "meaning": "The state of having a great deal of money; wealth or prosperity.",
+            "example_sentence": "His affluence allowed him to travel the world.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ অ্যাফ্লুয়েন্স অ্যালাউড হিম টু ট্র্যাভেল দ্য ওয়ার্ল্ড।"
+            },
+            "position": 1,
+            "synonyms": "wealth, prosperity, abundance",
+            "antonyms": "poverty, impoverishment, scarcity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সম্পদ বা প্রাচুর্য",
+                    "word_transliteration": "shompod ba prachuryo",
+                    "example_sentence_translation": "তার প্রাচুর্য তাকে বিশ্বের বিভিন্ন প্রান্তে ভ্রমণ করার সুযোগ দিয়েছে।",
+                    "example_sentence_transliteration": "Tar prachuryo take bishwer bibhinno prante bhromon korar sujog diyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "acumen",
+            "phonetic": "ˈæk.jʊ.mən",
+            "word_native_transliteration": {
+                "bn": "অ্যাকিউমেন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧠",
+            "meaning": "The ability to make good judgments and quick decisions, typically in a particular domain.",
+            "example_sentence": "Her business acumen helped her become a successful entrepreneur.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার বিজনেস অ্যাকিউমেন হেল্পড হার বিকাম এ সাকসেসফুল এন্ট্রাপ্রেনিউর।"
+            },
+            "position": 2,
+            "synonyms": "insight, sharpness, wisdom",
+            "antonyms": "ignorance, ineptitude, foolishness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "তীক্ষ্ণ বিচারশক্তি বা বুদ্ধিমত্তা",
+                    "word_transliteration": "tikkhno bicharshokti ba buddhimotta",
+                    "example_sentence_translation": "তার ব্যবসায়িক বুদ্ধিমত্তা তাকে একজন সফল উদ্যোক্তা করে তুলেছে।",
+                    "example_sentence_transliteration": "Tar byabsayik buddhimotta take ekjon shofol uddyokta kore tuleche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "discernment",
+            "phonetic": "dɪˈsɜːn.mənt",
+            "word_native_transliteration": {
+                "bn": "ডিসার্নমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👁️",
+            "meaning": "The ability to judge well; good judgment or understanding.",
+            "example_sentence": "His discernment in business decisions made him successful.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ডিসার্নমেন্ট ইন বিজনেস ডিসিশনস মেইড হিম সাকসেসফুল।"
+            },
+            "position": 3,
+            "synonyms": "insight, perception, judgment",
+            "antonyms": "ignorance, indiscretion, foolishness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "তীক্ষ্ণ বিচার-বুদ্ধি বা বোঝার ক্ষমতা",
+                    "word_transliteration": "tikkhno bichar-buddhi ba bojhar khomota",
+                    "example_sentence_translation": "ব্যবসায়িক সিদ্ধান্ত নেওয়ার তার বিচক্ষণতা তাকে সফল করেছে।",
+                    "example_sentence_transliteration": "Byabsayik siddhanto neowar tar bichokkhonota take shofol koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cogitation",
+            "phonetic": "ˌkɒdʒ.ɪˈteɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "কজিটেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤔",
+            "meaning": "Deep thought; contemplation or meditation.",
+            "example_sentence": "After much cogitation, he decided to change his career path.",
+            "example_sentence_native_transliteration": {
+                "bn": "আফটার মাচ কজিটেশন, হি ডিসাইডেড টু চেঞ্জ হিজ ক্যারিয়ার পাথ।"
+            },
+            "position": 4,
+            "synonyms": "reflection, contemplation, thought",
+            "antonyms": "indifference, disregard, negligence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গভীর চিন্তা বা পর্যালোচনা",
+                    "word_transliteration": "gobhir chinta ba poryalochona",
+                    "example_sentence_translation": "অনেক চিন্তা-ভাবনার পর, তিনি তার ক্যারিয়ারের পথ পরিবর্তন করার সিদ্ধান্ত নিয়েছিলেন।",
+                    "example_sentence_transliteration": "Onek chinta-bhabnar por, tini tar careerer poth poriborton korar siddhanto niyechilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "entrepreneurial",
+            "phonetic": "ˌɒn.trə.prəˈnɜː.rɪəl",
+            "word_native_transliteration": {
+                "bn": "এন্ট্রাপ্রেনিউরিয়াল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🚀",
+            "meaning": "Characterized by initiative and willingness to undertake new ventures.",
+            "example_sentence": "His entrepreneurial spirit led him to start his own company.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ এন্ট্রাপ্রেনিউরিয়াল স্পিরিট লেড হিম টু স্টার্ট হিজ ওন কোম্পানি।"
+            },
+            "position": 5,
+            "synonyms": "innovative, business-oriented, resourceful",
+            "antonyms": "passive, non-innovative, unambitious",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্যোক্তা মনোভাব বা পদ্ধতি",
+                    "word_transliteration": "uddyokta monobhab ba poddhoti",
+                    "example_sentence_translation": "তার উদ্যোক্তা মনোভাব তাকে নিজস্ব কোম্পানি শুরু করতে অনুপ্রাণিত করেছে।",
+                    "example_sentence_transliteration": "Tar uddyokta monobhab take nijoshwo company shuru korte onupranito koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ingenuity",
+            "phonetic": "ˌɪn.dʒəˈnjuː.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "ইনজেনিউটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💡",
+            "meaning": "The quality of being clever, original, and inventive.",
+            "example_sentence": "His ingenuity led to the invention of a groundbreaking device.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ইনজেনিউটি লেড টু দ্য ইনভেনশন অফ এ গ্রাউন্ডব্রেকিং ডিভাইস।"
+            },
+            "position": 6,
+            "synonyms": "creativity, innovation, resourcefulness",
+            "antonyms": "incompetence, unimaginativeness, stagnation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সৃজনশীলতা বা উদ্ভাবনী দক্ষতা",
+                    "word_transliteration": "srijonshilota ba udbhaboni dokkhota",
+                    "example_sentence_translation": "তার সৃজনশীলতা একটি যুগান্তকারী ডিভাইস আবিষ্কারের পথ দেখিয়েছে।",
+                    "example_sentence_transliteration": "Tar srijonshilota ekti jugantokaari device abishkarer poth dekhiyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "lucrative",
+            "phonetic": "ˈluː.krə.tɪv",
+            "word_native_transliteration": {
+                "bn": "লুক্রেটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💸",
+            "meaning": "Producing a great deal of profit; profitable.",
+            "example_sentence": "He secured a lucrative contract with a multinational company.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি সিকিউরড এ লুক্রেটিভ কন্ট্র্যাক্ট উইথ এ মাল্টিন্যাশনাল কোম্পানি।"
+            },
+            "position": 7,
+            "synonyms": "profitable, rewarding, beneficial",
+            "antonyms": "unprofitable, loss-making, fruitless",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "লাভজনক বা উপকারী",
+                    "word_transliteration": "labhojonok ba upokaari",
+                    "example_sentence_translation": "তিনি একটি বহুজাতিক কোম্পানির সাথে লাভজনক চুক্তি নিশ্চিত করেছেন।",
+                    "example_sentence_transliteration": "Tini ekti bohujaatik companir sathe labhojonok chuktik nishchit korechen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "perseverance",
+            "phonetic": "ˌpɜː.sɪˈvɪə.rəns",
+            "word_native_transliteration": {
+                "bn": "পার্সিভিয়ারেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "Persistence in doing something despite difficulty or delay in achieving success.",
+            "example_sentence": "His perseverance helped him achieve his dreams.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ পার্সিভিয়ারেন্স হেল্পড হিম অ্যাচিভ হিজ ড্রিমস।"
+            },
+            "position": 8,
+            "synonyms": "persistence, determination, endurance",
+            "antonyms": "laziness, weakness, giving up",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অধ্যবসায় বা টিকে থাকার ক্ষমতা",
+                    "word_transliteration": "odhyoboshay ba tike thakar khomota",
+                    "example_sentence_translation": "তার অধ্যবসায় তাকে স্বপ্ন পূরণে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Tar odhyoboshay take shopno purone shahajyo koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "diligence",
+            "phonetic": "ˈdɪl.ɪ.dʒəns",
+            "word_native_transliteration": {
+                "bn": "ডিলিজেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📚",
+            "meaning": "Careful and persistent work or effort.",
+            "example_sentence": "Her diligence in her studies paid off with top grades.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার ডিলিজেন্স ইন হার স্টাডিজ পেইড অফ উইথ টপ গ্রেডস।"
+            },
+            "position": 9,
+            "synonyms": "hard work, effort, commitment",
+            "antonyms": "laziness, carelessness, negligence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিশ্রম বা অধ্যবসায়",
+                    "word_transliteration": "porishrom ba odhyoboshay",
+                    "example_sentence_translation": "তার পড়াশোনার প্রতি পরিশ্রম ভালো ফলাফল এনেছে।",
+                    "example_sentence_transliteration": "Tar porashonr proti porishrom bhalo pholaafol eneche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "prosperity",
+            "phonetic": "prɒsˈpɛr.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "প্রসপেরিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌟",
+            "meaning": "The state of being prosperous; success or wealth.",
+            "example_sentence": "The country achieved great prosperity during the last decade.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কান্ট্রি অ্যাচিভড গ্রেট প্রসপেরিটি ডিউরিং দ্য লাস্ট ডিকেড।"
+            },
+            "position": 10,
+            "synonyms": "wealth, success, affluence",
+            "antonyms": "poverty, hardship, misfortune",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সমৃদ্ধি বা উন্নতি",
+                    "word_transliteration": "shomriddhi ba unnoti",
+                    "example_sentence_translation": "গত দশকে দেশটি বিশাল সমৃদ্ধি অর্জন করেছে।",
+                    "example_sentence_transliteration": "Gato doshoke deshti bishal shomriddhi orjon koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "manifestation",
+            "phonetic": "ˌmæn.ɪ.fɛsˈteɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "ম্যানিফেস্টেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✨",
+            "meaning": "An event, action, or object that clearly shows or embodies something abstract or theoretical.",
+            "example_sentence": "His generosity was a manifestation of his kind nature.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ জেনেরসিটি ওয়াজ এ ম্যানিফেস্টেশন অফ হিজ কাইন্ড নেচার।"
+            },
+            "position": 11,
+            "synonyms": "expression, display, demonstration",
+            "antonyms": "concealment, obscurity, disguise",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রকাশ বা প্রতিফলন",
+                    "word_transliteration": "prokash ba protipholon",
+                    "example_sentence_translation": "তার উদারতা তার দয়ালুপ্রকৃতির প্রতিফলন ছিল।",
+                    "example_sentence_transliteration": "Tar udarota tar doyaluprokritir protipholon chilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "astute",
+            "phonetic": "əsˈtjuːt",
+            "word_native_transliteration": {
+                "bn": "অ্যাস্টিউট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎯",
+            "meaning": "Having or showing an ability to accurately assess situations or people and turn this to one's advantage.",
+            "example_sentence": "His astute observations helped solve the complex problem.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ অ্যাস্টিউট অবজার্ভেশনস হেল্পড সলভ দ্য কমপ্লেক্স প্রবলেম।"
+            },
+            "position": 12,
+            "synonyms": "shrewd, insightful, perceptive",
+            "antonyms": "foolish, naive, incompetent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিচক্ষণ বা দূরদর্শী",
+                    "word_transliteration": "bichokkhon ba durdorshi",
+                    "example_sentence_translation": "তার তীক্ষ্ণ পর্যবেক্ষণগুলি জটিল সমস্যা সমাধানে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Tar tikkhno poryabekhonguli jotil shomoshya shomadhane shahajyo koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "metamorphosis",
+            "phonetic": "ˌmɛt.əˈmɔːr.fə.sɪs",
+            "word_native_transliteration": {
+                "bn": "মেটামরফোসিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🦋",
+            "meaning": "A change of the form or nature of a thing or person into a completely different one.",
+            "example_sentence": "The company's metamorphosis into a global brand took years.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানিজ মেটামরফোসিস ইনটু এ গ্লোবাল ব্র্যান্ড টুক ইয়ারস।"
+            },
+            "position": 13,
+            "synonyms": "transformation, evolution, conversion",
+            "antonyms": "stagnation, constancy, sameness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিবর্তন বা রূপান্তর",
+                    "word_transliteration": "poriborton ba rupantor",
+                    "example_sentence_translation": "কোম্পানির একটি বিশ্বব্যাপী ব্র্যান্ডে রূপান্তর হতে কয়েক বছর লেগেছে।",
+                    "example_sentence_transliteration": "Companir ekti bishwobapi brande rupantor hote koyekti bochhor legeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "frugality",
+            "phonetic": "fruːˈɡæl.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "ফ্রুগ্যালিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💰",
+            "meaning": "The quality of being economical with resources; thrift.",
+            "example_sentence": "His frugality allowed him to save a significant amount of money.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ফ্রুগ্যালিটি অ্যালাউড হিম টু সেভ এ সিগনিফিক্যান্ট অ্যামাউন্ট অফ মানি।"
+            },
+            "position": 14,
+            "synonyms": "thrift, economy, prudence",
+            "antonyms": "extravagance, wastefulness, profligacy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মিতব্যয়িতা বা সাশ্রয়ী জীবনযাপন",
+                    "word_transliteration": "mitbyoyita ba sashroyi jibon-yapan",
+                    "example_sentence_translation": "তার মিতব্যয়িতা তাকে অনেক টাকা সঞ্চয় করতে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Tar mitbyoyita take onek taka shonchoy korte shahajyo koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "consummate",
+            "phonetic": "ˈkɒn.sə.mət",
+            "word_native_transliteration": {
+                "bn": "কনসামেট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🏆",
+            "meaning": "Showing great skill and flair; perfect or complete.",
+            "example_sentence": "He is a consummate artist with years of experience.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি ইজ এ কনসামেট আর্টিস্ট উইথ ইয়ারস অফ এক্সপেরিয়েন্স।"
+            },
+            "position": 15,
+            "synonyms": "perfect, skilled, accomplished",
+            "antonyms": "incomplete, unfinished, inept",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পূর্ণতা অর্জন করা বা নিখুঁত করা",
+                    "word_transliteration": "purnota orjon kora ba nikhut kora",
+                    "example_sentence_translation": "তিনি বহু বছরের অভিজ্ঞতাসম্পন্ন একজন নিখুঁত শিল্পী।",
+                    "example_sentence_transliteration": "Tini bohu bochhorer obhiggotashomponno ekjon nikhut shilpi.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sagacious",
+            "phonetic": "səˈɡeɪ.ʃəs",
+            "word_native_transliteration": {
+                "bn": "সেগেশাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🦉",
+            "meaning": "Having or showing keen mental discernment and good judgment; wise.",
+            "example_sentence": "His sagacious leadership saved the company from failure.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ সেগেশাস লিডারশিপ সেভড দ্য কোম্পানি ফ্রম ফেইলিউর।"
+            },
+            "position": 16,
+            "synonyms": "wise, insightful, perceptive",
+            "antonyms": "foolish, shortsighted, unwise",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিচক্ষণ বা দূরদর্শী",
+                    "word_transliteration": "bichokkhon ba durdorshi",
+                    "example_sentence_translation": "তার বিচক্ষণ নেতৃত্ব কোম্পানিকে ব্যর্থতা থেকে রক্ষা করেছে।",
+                    "example_sentence_transliteration": "Tar bichokkhon netritwo companike byorthotar theke rokkha koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "extrapolate",
+            "phonetic": "ɪkˈstræp.ə.leɪt",
+            "word_native_transliteration": {
+                "bn": "এক্সট্র্যাপোলেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📈",
+            "meaning": "Extend the application of something to an unknown situation by assuming that existing trends will continue.",
+            "example_sentence": "Based on current data, we can extrapolate future trends.",
+            "example_sentence_native_transliteration": {
+                "bn": "বেসড অন কারেন্ট ডেটা, উই ক্যান এক্সট্র্যাপোলেট ফিউচার ট্রেন্ডস।"
+            },
+            "position": 17,
+            "synonyms": "predict, estimate, project",
+            "antonyms": "miscalculate, guess, speculate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনুমান বা ভবিষ্যদ্বাণী করা",
+                    "word_transliteration": "onuman ba bhobishyodbani kora",
+                    "example_sentence_translation": "বর্তমান তথ্যের উপর ভিত্তি করে আমরা ভবিষ্যত প্রবণতা অনুমান করতে পারি।",
+                    "example_sentence_transliteration": "Bortoman tothyer upor bhitti kore amra bhobishyoto probonota onuman korte pari.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

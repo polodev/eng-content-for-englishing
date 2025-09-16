@@ -1,0 +1,391 @@
+{
+    "position": 238,
+    "title_translation": {
+        "en": "Why Self-Control Leads to Growth",
+        "bn": "কেন আত্মসংযম উন্নতির দিকে নিয়ে যায়"
+    },
+    "content_translation": {
+        "en": "**Self-control**, or self-restraint, brings true improvement and personal growth to our lives. When we apply **discipline** to our **emotional** tendencies, we can better cope with situations.\n\n**Self-control** strengthens us in dealing with **adversity** and helps us **thwart** various **tactical** challenges in our lives. It aids in **strategic** decision-making because our **cognitive** skills improve and decisions become **deliberate**.\n\nThis ability, which improves our lives, also provides **impetus** through developing **perseverance** and **resilience**. Achieving small goals helps us set bigger goals.\n\nTherefore, **self-control** provides us with **volition** to improve in personal and professional life and helps enhance the quality of life.",
+        "bn": "**Self-control**, বা **self-restraint**, আমাদের জীবনে সত্যিকার উন্নতি এবং ব্যক্তিগত বৃদ্ধি নিয়ে আসে। যখন আমরা আমাদের **emotional** প্রবণতাগুলোর ওপর **discipline** প্রয়োগ করি, তখন আমরা পরিস্থিতি আরও ভালোভাবে মোকাবিলা করতে পারি।\n\n**Self-control** আমাদেরকে **adversity**-র মোকাবিলায় শক্তিশালী করে তোলে এবং আমাদের জীবনের বিভিন্ন **tactical** চ্যালেঞ্জগুলোকে **thwart** করতে সাহায্য করে। এটি **strategic** সিদ্ধান্ত গ্রহণে সহায়ক, কারণ আমাদের **cognitive** দক্ষতা উন্নত হয় এবং সিদ্ধান্তগুলি **deliberate** হয়।\n\nএই ক্ষমতা, একদিকে যেমন আমাদের জীবনের উন্নতি ঘটায়, তেমনি **perseverance** এবং **resilience** উন্নত করার মাধ্যমে **impetus** দেয়। ছোট ছোট লক্ষ্য অর্জন আমাদেরকে আরও বড় লক্ষ্য নির্ধারণে সহায়তা করে।\n\nঅতএব, **self-control** আমাদেরকে ব্যক্তিগত এবং পেশাগত জীবনে উন্নতি করার জন্য **volition** প্রদান করে এবং জীবনের মান বৃদ্ধি করতে সাহায্য করে।"
+    },
+    "list": [
+        {
+            "word": "self-control",
+            "phonetic": "ˌsɛlf.kənˈtrəʊl",
+            "word_native_transliteration": {
+                "bn": "সেলফ-কন্ট্রোল"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧘",
+            "meaning": "The ability to control one's emotions, behavior, and desires in order to obtain some reward, or avoid some punishment, typically in the longer term.",
+            "example_sentence": "Self-control is important for maintaining a balanced life.",
+            "example_sentence_native_transliteration": {
+                "bn": "সেলফ-কন্ট্রোল ইজ ইমপর্ট্যান্ট ফর মেইনটেইনিং এ ব্যালান্সড লাইফ।"
+            },
+            "position": 1,
+            "synonyms": "restraint, discipline, willpower, moderation",
+            "antonyms": "impulsiveness, weakness, indulgence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আত্মসংযম",
+                    "word_transliteration": "atshongshom",
+                    "example_sentence_translation": "আত্মসংযম একটি সুষম জীবন বজায় রাখার জন্য গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Atshongshom ekti shushom jibon bojay rakhar jonno guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "self-restraint",
+            "phonetic": "ˌsɛlf.rɪˈstreɪnt",
+            "word_native_transliteration": {
+                "bn": "সেলফ-রেস্ট্রেইন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛑",
+            "meaning": "The practice of restraining oneself from indulging in something, typically an impulse or desire.",
+            "example_sentence": "Practicing self-restraint helps in avoiding impulsive decisions.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্র্যাকটিসিং সেলফ-রেস্ট্রেইন্ট হেল্পস ইন এভয়ডিং ইমপালসিভ ডিসিশনস।"
+            },
+            "position": 2,
+            "synonyms": "moderation, willpower, control, temperance",
+            "antonyms": "excessiveness, indulgence, abandon",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আত্মনিয়ন্ত্রণ",
+                    "word_transliteration": "atmoniyontron",
+                    "example_sentence_translation": "আত্মনিয়ন্ত্রণ চর্চা প্ররোচনামূলক সিদ্ধান্তগুলি এড়াতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Atmoniyontron chorcha prorochonamulok siddhantoguli edate shahajjo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "emotional",
+            "phonetic": "ɪˈməʊʃənl",
+            "word_native_transliteration": {
+                "bn": "ইমোশনাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💭",
+            "meaning": "Relating to a person's emotions or arising from or influenced by emotions.",
+            "example_sentence": "She gave an emotional speech about her experiences.",
+            "example_sentence_native_transliteration": {
+                "bn": "শী গেভ অ্যান ইমোশনাল স্পিচ অ্যাবাউট হার এক্সপিরিয়েন্সেস।"
+            },
+            "position": 3,
+            "synonyms": "sentimental, passionate, heartfelt, moving",
+            "antonyms": "indifferent, apathetic, unemotional",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আবেগপূর্ণ",
+                    "word_transliteration": "abegpurno",
+                    "example_sentence_translation": "সে তার অভিজ্ঞতার উপর আবেগপূর্ণ বক্তৃতা দিয়েছিল।",
+                    "example_sentence_transliteration": "She tar obhiggatar upor abegpurno boktrita diyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "discipline",
+            "phonetic": "ˈdɪsɪplɪn",
+            "word_native_transliteration": {
+                "bn": "ডিসিপ্লিন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📏",
+            "meaning": "The practice of training people to obey rules or a code of behavior, using punishment to correct disobedience.",
+            "example_sentence": "Discipline is essential for achieving long-term goals.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিসিপ্লিন ইজ এসেনশিয়াল ফর অ্যাচিভিং লং-টার্ম গোলস।"
+            },
+            "position": 4,
+            "synonyms": "control, orderliness, regulation, training",
+            "antonyms": "disorder, chaos, indiscipline",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শৃঙ্খলা",
+                    "word_transliteration": "shringkhola",
+                    "example_sentence_translation": "দীর্ঘমেয়াদী লক্ষ্য অর্জনের জন্য শৃঙ্খলা অপরিহার্য।",
+                    "example_sentence_transliteration": "Dirghomeyadi lokkhyo orjoner jonno shringkhola oporhario.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "adversity",
+            "phonetic": "ədˈvɜːsɪti",
+            "word_native_transliteration": {
+                "bn": "অ্যাডভার্সিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⛈️",
+            "meaning": "Difficulties; misfortune; a difficult or unpleasant situation.",
+            "example_sentence": "Overcoming adversity is a testament to one's strength.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওভারকামিং অ্যাডভার্সিটি ইজ এ টেস্টামেন্ট টু ওয়ানস স্ট্রেংথ।"
+            },
+            "position": 5,
+            "synonyms": "hardship, misfortune, difficulty, trouble",
+            "antonyms": "prosperity, success, fortune",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিপর্যয়",
+                    "word_transliteration": "biporjoy",
+                    "example_sentence_translation": "বিপর্যয় কাটিয়ে ওঠা মানুষের শক্তির একটি প্রমাণ।",
+                    "example_sentence_transliteration": "Biporjoy katiye otha manusher shoktir ekti proman.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "tactical",
+            "phonetic": "ˈtæktɪkəl",
+            "word_native_transliteration": {
+                "bn": "ট্যাকটিক্যাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎯",
+            "meaning": "Relating to or constituting actions carefully planned to gain a specific military or political end.",
+            "example_sentence": "Tactical thinking is crucial in business negotiations.",
+            "example_sentence_native_transliteration": {
+                "bn": "ট্যাকটিক্যাল থিংকিং ইজ ক্রুশিয়াল ইন বিজনেস নেগোসিয়েশনস।"
+            },
+            "position": 6,
+            "synonyms": "strategic, planned, calculated, deliberate",
+            "antonyms": "spontaneous, impromptu, random",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কৌশলগত",
+                    "word_transliteration": "kousholgate",
+                    "example_sentence_translation": "ব্যবসায়িক আলোচনা-কৌশলে পরিকল্পনা গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Byabshayik alochona-koushale porikalpona guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "thwart",
+            "phonetic": "θwɔːt",
+            "word_native_transliteration": {
+                "bn": "থওয়ার্ট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🚫",
+            "meaning": "Prevent (someone) from accomplishing something; oppose successfully.",
+            "example_sentence": "His efforts to thwart the proposal were unsuccessful.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ এফর্টস টু থওয়ার্ট দ্য প্রপোজাল ওয়্যার আনসাকসেসফুল।"
+            },
+            "position": 7,
+            "synonyms": "hinder, obstruct, block, frustrate",
+            "antonyms": "assist, support, help, facilitate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিঘ্নিত করা",
+                    "word_transliteration": "bighito kora",
+                    "example_sentence_translation": "প্রস্তাব প্রতিরোধে তার প্রচেষ্টা ব্যর্থ হয়েছে।",
+                    "example_sentence_transliteration": "Prostab protirodhe tar prochesta byortho hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "strategic",
+            "phonetic": "strəˈtiːdʒɪk",
+            "word_native_transliteration": {
+                "bn": "স্ট্র্যাটেজিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎲",
+            "meaning": "Relating to the identification of long-term or overall aims and interests and the means of achieving them.",
+            "example_sentence": "A strategic plan can help improve business outcomes.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ স্ট্র্যাটেজিক প্ল্যান ক্যান হেল্প ইমপ্রুভ বিজনেস আউটকামস।"
+            },
+            "position": 8,
+            "synonyms": "tactical, calculated, planned, deliberate",
+            "antonyms": "haphazard, random, unplanned",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কৌশলগত",
+                    "word_transliteration": "kousholgate",
+                    "example_sentence_translation": "একটি কৌশলগত পরিকল্পনা ব্যবসায়িক ফলাফল উন্নত করতে সাহায্য করতে পারে।",
+                    "example_sentence_transliteration": "Ekti kousholgate porikalpona byabshayik folafel unnoto korte shahajjo korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cognitive",
+            "phonetic": "ˈkɒɡ.nɪ.tɪv",
+            "word_native_transliteration": {
+                "bn": "কগনিটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧠",
+            "meaning": "Relating to cognition; concerned with the act or process of knowing, perceiving, etc.",
+            "example_sentence": "Cognitive skills are essential for problem-solving.",
+            "example_sentence_native_transliteration": {
+                "bn": "কগনিটিভ স্কিলস আর এসেনশিয়াল ফর প্রব্লেম-সলভিং।"
+            },
+            "position": 9,
+            "synonyms": "mental, intellectual, cerebral, psychological",
+            "antonyms": "non-cognitive, physical, emotional",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বুদ্ধিবৃত্তিক",
+                    "word_transliteration": "buddhibrittik",
+                    "example_sentence_translation": "কগনিটিভ দক্ষতাগুলি সমস্যা সমাধানের জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Kognitive dokkhataaguli shomoshya shomadhaner jonno oporhario.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "deliberate",
+            "phonetic": "dɪˈlɪbərət",
+            "word_native_transliteration": {
+                "bn": "ডিলিবারেট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🤔",
+            "meaning": "Done consciously and intentionally; carefully considered.",
+            "example_sentence": "He made a deliberate decision to improve his health.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি মেড এ ডিলিবারেট ডিসিশন টু ইমপ্রুভ হিজ হেলথ।"
+            },
+            "position": 10,
+            "synonyms": "intentional, conscious, planned, calculated",
+            "antonyms": "unintentional, careless, accidental",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ইচ্ছাকৃত",
+                    "word_transliteration": "icchakrito",
+                    "example_sentence_translation": "সে তার স্বাস্থ্য উন্নত করার জন্য একটি ইচ্ছাকৃত সিদ্ধান্ত নিয়েছিল।",
+                    "example_sentence_transliteration": "She tar shastho unnoto korar jonno ekti icchakrito siddhanto niyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "perseverance",
+            "phonetic": "ˌpɜːsɪˈvɪərəns",
+            "word_native_transliteration": {
+                "bn": "পারসেভিয়ারেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "Persistence in doing something despite difficulty or delay in achieving success.",
+            "example_sentence": "Perseverance is key to overcoming challenges.",
+            "example_sentence_native_transliteration": {
+                "bn": "পারসেভিয়ারেন্স ইজ কি টু ওভারকামিং চ্যালেঞ্জেস।"
+            },
+            "position": 11,
+            "synonyms": "determination, persistence, tenacity, endurance",
+            "antonyms": "abandonment, surrender, giving up",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অধ্যবসায়",
+                    "word_transliteration": "odhyoboshay",
+                    "example_sentence_translation": "চ্যালেঞ্জগুলি অতিক্রম করতে অধ্যবসায় হল মূল বিষয়।",
+                    "example_sentence_transliteration": "Challengeguli otikrom korte odhyoboshay hol mul bishoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "resilience",
+            "phonetic": "rɪˈzɪlɪəns",
+            "word_native_transliteration": {
+                "bn": "রেজিলিয়েন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌱",
+            "meaning": "The capacity to recover quickly from difficulties; toughness.",
+            "example_sentence": "His resilience during difficult times was admirable.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ রেজিলিয়েন্স ডিউরিং ডিফিকাল্ট টাইমস ওয়াজ অ্যাডমিরেবল।"
+            },
+            "position": 12,
+            "synonyms": "toughness, endurance, strength, durability",
+            "antonyms": "fragility, weakness, vulnerability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহনশক্তি",
+                    "word_transliteration": "shohonshokti",
+                    "example_sentence_translation": "কঠিন সময়ে তার সহনশক্তি প্রশংসনীয় ছিল।",
+                    "example_sentence_transliteration": "Kothin shomoy tar shohonshokti proshongshoniyo chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "impetus",
+            "phonetic": "ˈɪmpɪtəs",
+            "word_native_transliteration": {
+                "bn": "ইমপেটাস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚀",
+            "meaning": "The force or energy with which a body moves; driving force; stimulus.",
+            "example_sentence": "The new project gave an impetus to the company's growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিউ প্রজেক্ট গেভ অ্যান ইমপেটাস টু দ্য কোম্পানিজ গ্রোথ।"
+            },
+            "position": 13,
+            "synonyms": "motivation, drive, stimulus, momentum",
+            "antonyms": "discouragement, inertia, hindrance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রেরণা",
+                    "word_transliteration": "prerona",
+                    "example_sentence_translation": "নতুন প্রকল্পটি কোম্পানির বৃদ্ধিতে প্রেরণা দিয়েছিল।",
+                    "example_sentence_transliteration": "Notun prokolpoti companiir briddhite prerona diyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "volition",
+            "phonetic": "vəˈlɪʃən",
+            "word_native_transliteration": {
+                "bn": "ভোলিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The faculty or power of using one's will; the power of choosing or determining.",
+            "example_sentence": "She left the job of her own volition.",
+            "example_sentence_native_transliteration": {
+                "bn": "শী লেফট দ্য জব অফ হার ওন ভোলিশন।"
+            },
+            "position": 14,
+            "synonyms": "willpower, choice, determination, free will",
+            "antonyms": "force, compulsion, coercion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ইচ্ছাশক্তি",
+                    "word_transliteration": "icchashokti",
+                    "example_sentence_translation": "সে তার ইচ্ছাশক্তির মাধ্যমে চাকরি ছেড়েছে।",
+                    "example_sentence_transliteration": "She tar icchashoktir madhome chakri chherecche.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

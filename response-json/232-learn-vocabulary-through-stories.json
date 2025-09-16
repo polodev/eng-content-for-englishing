@@ -1,0 +1,472 @@
+{
+    "position": 232,
+    "title_translation": {
+        "en": "Why Digital Detox Improves Focus",
+        "bn": "ডিজিটাল ডিটক্স কেন ফোকাস উন্নত করে"
+    },
+    "content_translation": {
+        "en": "In today's world, smartphones, laptops, and social media have become an integral part of our lives. However, in this **overstimulated** life, **digital detox** can help enhance our concentration and **cognitive** abilities. When we **abstain** from technology for some time, the level of **distraction** in our brain decreases and our **perception** becomes clearer.\n\n**Digital detox** gives rest to our **subconscious**, which revitalizes our **meticulous** thinking process. Getting rid of **monotony** and **exhaustion**, we become able to be more **focused** and achieve **self-discipline**. This reduces **saturation** and makes the mind calm and **tranquil**.\n\nThis process naturally **rejuvenates** us, which is helpful for concentrating on **tangible** goals. Therefore, digital detox can bring **sustainability** and long-term success to our lives.",
+        "bn": "বর্তমানে, স্মার্টফোন, ল্যাপটপ এবং সোশ্যাল মিডিয়া আমাদের জীবনের অঙ্গ হয়ে দাঁড়িয়েছে। তবে এই **overstimulated** জীবনে **digital detox** আমাদের মনোযোগ এবং **cognitive** ক্ষমতা বাড়াতে সাহায্য করতে পারে। যখন আমরা প্রযুক্তি থেকে কিছু সময়ের জন্য **abstain** করি, আমাদের মস্তিষ্কের **distraction**-এর স্তর কমে যায় এবং আমাদের **perception** পরিষ্কার হয়।\n\n**Digital detox** আমাদের **subconscious** কে বিশ্রাম দেয়, যা আমাদের **meticulous** চিন্তা প্রক্রিয়াকে পুনরুজ্জীবিত করে। একঘেয়েমি এবং **exhaustion** থেকে মুক্তি পেয়ে, আমরা আরো বেশি ফোকাসড এবং **self-discipline** অর্জন করতে সক্ষম হই। এতে **saturation** কমে এবং মন শান্ত ও **tranquil** হয়।\n\nএই প্রক্রিয়া আমাদেরকে প্রাকৃতিকভাবে **rejuvenate** করে, যা আমাদের **tangible** লক্ষ্যে মনোনিবেশ করার জন্য সহায়ক। তাই, ডিজিটাল ডিটক্স আমাদের জীবনে **sustainability** এবং দীর্ঘমেয়াদী সফলতা এনে দিতে পারে।"
+    },
+    "list": [
+        {
+            "word": "overstimulated",
+            "phonetic": "/ˌəʊvərˈstɪmjʊˌleɪtɪd/",
+            "word_native_transliteration": {
+                "bn": "ওভারস্টিমুলেটেড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🤯",
+            "meaning": "Excessively excited or aroused, overwhelmed by too much stimulus.",
+            "example_sentence": "Overstimulated minds can lead to burnout and decreased productivity.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওভারস্টিমুলেটেড মাইন্ডস ক্যান লিড টু বার্নআউট অ্যান্ড ডিক্রিজড প্রোডাক্টিভিটি।"
+            },
+            "position": 1,
+            "synonyms": "overexcited, overwhelmed, hyperactive, agitated",
+            "antonyms": "calm, relaxed, understimulated, peaceful",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অত্যধিক উত্তেজিত",
+                    "word_transliteration": "ottodhik uttejito",
+                    "example_sentence_translation": "অত্যধিক উত্তেজিত মনগুলো পরিশ্রম এবং কম কার্যকারিতা সৃষ্টি করতে পারে।",
+                    "example_sentence_transliteration": "Ottodhik uttejito mongulo porishrom ebong kom karjokkarita srishti korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "digital detox",
+            "phonetic": "/ˈdɪdʒɪtl ˈdɛtɒks/",
+            "word_native_transliteration": {
+                "bn": "ডিজিটাল ডিটক্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔌",
+            "meaning": "A period of time during which a person refrains from using electronic devices such as smartphones or computers, regarded as an opportunity to reduce stress or focus on social interaction in the physical world.",
+            "example_sentence": "A digital detox can help improve mental clarity and reduce stress.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ ডিজিটাল ডিটক্স ক্যান হেল্প ইমপ্রুভ মেন্টাল ক্ল্যারিটি অ্যান্ড রিডিউস স্ট্রেস।"
+            },
+            "position": 2,
+            "synonyms": "technology break, screen break, offline time, unplugging",
+            "antonyms": "digital immersion, constant connection, tech addiction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ডিজিটাল ব্যবহারের বিরতি",
+                    "word_transliteration": "digital byaboharer birti",
+                    "example_sentence_translation": "ডিজিটাল ডিটক্স মানসিক স্পষ্টতা উন্নত করতে এবং চাপ কমাতে সাহায্য করতে পারে।",
+                    "example_sentence_transliteration": "Digital detox manoshik sposhthota unnoto korte ebong chap komate shahajjo korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cognitive",
+            "phonetic": "/ˈkɒɡnɪtɪv/",
+            "word_native_transliteration": {
+                "bn": "কগনিটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧠",
+            "meaning": "Related to cognition; concerning the mental processes of perception, memory, judgment, and reasoning.",
+            "example_sentence": "Cognitive abilities are crucial for effective problem solving.",
+            "example_sentence_native_transliteration": {
+                "bn": "কগনিটিভ অ্যাবিলিটিজ আর ক্রুশিয়াল ফর ইফেক্টিভ প্রবলেম সলভিং।"
+            },
+            "position": 3,
+            "synonyms": "intellectual, mental, cerebral, psychological",
+            "antonyms": "emotional, physical, instinctive, intuitive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জ্ঞানসংক্রান্ত",
+                    "word_transliteration": "gyansongkranto",
+                    "example_sentence_translation": "কগনিটিভ ক্ষমতা কার্যকর সমস্যা সমাধানের জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Cognitive khomota karjokor shomoshja shomadhaner jonno oporoharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "abstain",
+            "phonetic": "/əbˈsteɪn/",
+            "word_native_transliteration": {
+                "bn": "এবস্টেইন"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🚫",
+            "meaning": "To restrain oneself from indulging in or partaking of something.",
+            "example_sentence": "People often abstain from digital devices to enhance focus.",
+            "example_sentence_native_transliteration": {
+                "bn": "পিপল অফেন এবস্টেইন ফ্রম ডিজিটাল ডিভাইসেস টু এনহান্স ফোকাস।"
+            },
+            "position": 4,
+            "synonyms": "refrain, avoid, resist, forgo",
+            "antonyms": "indulge, partake, consume, engage",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিরত থাকা",
+                    "word_transliteration": "birito thaka",
+                    "example_sentence_translation": "লোকেরা প্রায়ই ফোকাস বাড়ানোর জন্য ডিজিটাল ডিভাইস থেকে বিরত থাকে।",
+                    "example_sentence_transliteration": "Lokera prayoi focus baranor jonno digital device theke birito thake.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "distraction",
+            "phonetic": "/dɪsˈtrækʃən/",
+            "word_native_transliteration": {
+                "bn": "ডিসট্রাকশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "A thing that prevents someone from giving full attention to something else.",
+            "example_sentence": "Distractions can severely impact your ability to concentrate.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিসট্রাকশনস ক্যান সিভিয়ারলি ইমপ্যাক্ট ইওর অ্যাবিলিটি টু কনসেনট্রেট।"
+            },
+            "position": 5,
+            "synonyms": "diversion, interruption, interference, disruption",
+            "antonyms": "focus, attention, concentration, engagement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিভ্রান্তি",
+                    "word_transliteration": "bibhranti",
+                    "example_sentence_translation": "বিভ্রান্তি আপনার মনোযোগ নিবদ্ধ করার ক্ষমতাকে গুরুতরভাবে প্রভাবিত করতে পারে।",
+                    "example_sentence_transliteration": "Bibhranti apnar monojog nibdho korar khomotake gurutorbhabe probhabito korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "perception",
+            "phonetic": "/pərˈsɛpʃən/",
+            "word_native_transliteration": {
+                "bn": "পারসেপশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👁️",
+            "meaning": "The ability to see, hear, or become aware of something through the senses; the way in which something is regarded, understood, or interpreted.",
+            "example_sentence": "Our perception of stress often influences how we handle challenges.",
+            "example_sentence_native_transliteration": {
+                "bn": "আওয়ার পারসেপশন অব স্ট্রেস অফেন ইনফ্লুয়েন্সেস হাও উই হ্যান্ডেল চ্যালেঞ্জেস।"
+            },
+            "position": 6,
+            "synonyms": "awareness, insight, understanding, recognition",
+            "antonyms": "misunderstanding, ignorance, blindness, unawareness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উপলব্ধি",
+                    "word_transliteration": "upolbdhi",
+                    "example_sentence_translation": "চাপের আমাদের উপলব্ধি প্রায়ই এটি কীভাবে মোকাবিলা করি তা প্রভাবিত করে।",
+                    "example_sentence_transliteration": "Chaper amader upolbdhi prayoi eti kibhabe mokabila kori ta probhabito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "subconscious",
+            "phonetic": "/ˌsʌbˈkɒnʃəs/",
+            "word_native_transliteration": {
+                "bn": "সাবকনশাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧘",
+            "meaning": "Of or concerning the part of the mind of which one is not fully aware but which influences one's actions and feelings.",
+            "example_sentence": "The subconscious mind influences many of our actions without us realizing it.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সাবকনশাস মাইন্ড ইনফ্লুয়েন্সেস মেনি অব আওয়ার অ্যাকশনস উইদাউট আস রিয়ালাইজিং ইট।"
+            },
+            "position": 7,
+            "synonyms": "unconscious, implicit, subliminal, latent",
+            "antonyms": "conscious, aware, deliberate, intentional",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অবচেতন",
+                    "word_transliteration": "obcheton",
+                    "example_sentence_translation": "অবচেতন মন আমাদের অনেক কাজকে প্রভাবিত করে, আমরা এটি বুঝতে পারি না।",
+                    "example_sentence_transliteration": "Obcheton mon amader onek kajke probhabito kore, amra eti bujhte pari na.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "meticulous",
+            "phonetic": "/mɪˈtɪkjʊləs/",
+            "word_native_transliteration": {
+                "bn": "মেটিকুলাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔍",
+            "meaning": "Showing great attention to detail; very careful and precise.",
+            "example_sentence": "She is meticulous in her planning, ensuring every detail is covered.",
+            "example_sentence_native_transliteration": {
+                "bn": "শী ইজ মেটিকুলাস ইন হার প্ল্যানিং, এনশিউরিং এভরি ডিটেইল ইজ কভার্ড।"
+            },
+            "position": 8,
+            "synonyms": "careful, diligent, thorough, precise",
+            "antonyms": "careless, negligent, sloppy, hasty",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অত্যন্ত যত্নশীল",
+                    "word_transliteration": "ottonto jotnoshhil",
+                    "example_sentence_translation": "সে তার পরিকল্পনায় অত্যন্ত মনোযোগী, প্রতিটি বিস্তারিত নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Se tar porikalponay ottonto monojogi, protiti bistharito nishchito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "monotony",
+            "phonetic": "/məˈnɒtəni/",
+            "word_native_transliteration": {
+                "bn": "মোনোটনি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "😴",
+            "meaning": "Lack of variety and interest; tedious repetition and routine.",
+            "example_sentence": "Breaking the monotony of everyday life can improve mental health.",
+            "example_sentence_native_transliteration": {
+                "bn": "ব্রেকিং দ্য মোনোটনি অব এভরিডে লাইফ ক্যান ইমপ্রুভ মেন্টাল হেলথ।"
+            },
+            "position": 9,
+            "synonyms": "repetition, dullness, tedium, uniformity",
+            "antonyms": "variety, change, excitement, diversity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একঘেয়েমি",
+                    "word_transliteration": "ekgheyemi",
+                    "example_sentence_translation": "প্রতিদিনের একঘেয়েমি ভেঙে মানসিক স্বাস্থ্য উন্নত করা যেতে পারে।",
+                    "example_sentence_transliteration": "Protidiner ekgheyemi bhenge manoshik shastho unnoto kora jete pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "exhaustion",
+            "phonetic": "/ɪɡˈzɔːstʃən/",
+            "word_native_transliteration": {
+                "bn": "এক্সহস্টশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "😵",
+            "meaning": "A state of extreme physical or mental fatigue.",
+            "example_sentence": "Chronic exhaustion can lead to burnout and decreased productivity.",
+            "example_sentence_native_transliteration": {
+                "bn": "ক্রনিক এক্সহস্টশন ক্যান লিড টু বার্নআউট অ্যান্ড ডিক্রিজড প্রোডাক্টিভিটি।"
+            },
+            "position": 10,
+            "synonyms": "fatigue, tiredness, weariness, depletion",
+            "antonyms": "vitality, energy, vigor, strength",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শারীরিক বা মানসিক ক্লান্তি",
+                    "word_transliteration": "sharirik ba manoshik klanti",
+                    "example_sentence_translation": "দীর্ঘস্থায়ী ক্লান্তি পরিশ্রম এবং কম কার্যকারিতা সৃষ্টি করতে পারে।",
+                    "example_sentence_transliteration": "Dirghosthayi klanti porishrom ebong kom karjokkarita srishti korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "focused",
+            "phonetic": "/ˈfəʊkəst/",
+            "word_native_transliteration": {
+                "bn": "ফোকাসড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎯",
+            "meaning": "Directing a great deal of attention or effort toward a particular activity, situation, or person.",
+            "example_sentence": "Staying focused during work hours enhances productivity.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্টেয়িং ফোকাসড ডিউরিং ওয়ার্ক আওয়ারস এনহান্সেস প্রোডাক্টিভিটি।"
+            },
+            "position": 11,
+            "synonyms": "concentrated, attentive, absorbed, dedicated",
+            "antonyms": "distracted, unfocused, scattered, inattentive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মনোযোগী",
+                    "word_transliteration": "monojogi",
+                    "example_sentence_translation": "কাজের সময় মনোযোগী থাকা উৎপাদনশীলতা বাড়ায়।",
+                    "example_sentence_transliteration": "Kajer shomoy monojogi thaka utpadonshhilota baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "self-discipline",
+            "phonetic": "/ˈsɛlf ˈdɪsɪplɪn/",
+            "word_native_transliteration": {
+                "bn": "সেল্ফ-ডিসিপ্লিন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "The ability to control one's feelings and overcome one's weaknesses; the ability to pursue what one thinks is right despite temptations to abandon it.",
+            "example_sentence": "Self-discipline is essential for achieving long-term goals.",
+            "example_sentence_native_transliteration": {
+                "bn": "সেল্ফ-ডিসিপ্লিন ইজ এসেনশিয়াল ফর অ্যাচিভিং লং-টার্ম গোলস।"
+            },
+            "position": 12,
+            "synonyms": "self-control, restraint, willpower, determination",
+            "antonyms": "indulgence, impulsivity, weakness, lack of control",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আত্ম-শৃঙ্খলা",
+                    "word_transliteration": "atmo-shringkhola",
+                    "example_sentence_translation": "আত্ম-শৃঙ্খলা দীর্ঘমেয়াদী লক্ষ্য অর্জনের জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Atmo-shringkhola dirghomeyadi lokkhho orjoner jonno oporoharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "saturation",
+            "phonetic": "/ˌsætʃəˈreɪʃən/",
+            "word_native_transliteration": {
+                "bn": "স্যাচুরেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💧",
+            "meaning": "The state or process that occurs when no more of something can be absorbed, combined with, or added.",
+            "example_sentence": "Saturation of the market leads to a decrease in product demand.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্যাচুরেশন অব দ্য মার্কেট লিডস টু এ ডিক্রিজ ইন প্রোডাক্ট ডিমান্ড।"
+            },
+            "position": 13,
+            "synonyms": "fullness, completion, satiety, maximum capacity",
+            "antonyms": "depletion, emptiness, scarcity, deficiency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পূর্ণতা",
+                    "word_transliteration": "purnota",
+                    "example_sentence_translation": "বাজারের পূর্ণতা পণ্যের চাহিদা কমিয়ে দেয়।",
+                    "example_sentence_transliteration": "Bajarer purnota ponyer chahida komiye dey.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "tranquil",
+            "phonetic": "/ˈtræŋkwɪl/",
+            "word_native_transliteration": {
+                "bn": "ট্রানকুইল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧘‍♀️",
+            "meaning": "Free from disturbance; calm and peaceful.",
+            "example_sentence": "A tranquil environment promotes relaxation and focus.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ ট্রানকুইল এনভায়রনমেন্ট প্রমোটস রিলাক্সেশন অ্যান্ড ফোকাস।"
+            },
+            "position": 14,
+            "synonyms": "calm, peaceful, serene, quiet",
+            "antonyms": "agitated, disturbed, chaotic, turbulent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শান্ত",
+                    "word_transliteration": "shanto",
+                    "example_sentence_translation": "একটি শান্ত পরিবেশ শিথিলতা এবং মনোযোগ বৃদ্ধিতে সহায়ক।",
+                    "example_sentence_transliteration": "Ekti shanto poribesh shithilota ebong monojog briddhite shahayok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "rejuvenate",
+            "phonetic": "/rɪˈdʒuːvəneɪt/",
+            "word_native_transliteration": {
+                "bn": "রিজুভেনেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🌱",
+            "meaning": "To make or feel young, healthy, or energetic again; to give new energy or vigor to.",
+            "example_sentence": "Taking a break can rejuvenate your energy and focus.",
+            "example_sentence_native_transliteration": {
+                "bn": "টেকিং এ ব্রেক ক্যান রিজুভেনেট ইওর এনার্জি অ্যান্ড ফোকাস।"
+            },
+            "position": 15,
+            "synonyms": "revitalize, refresh, renew, restore",
+            "antonyms": "deteriorate, deplete, exhaust, weaken",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুনরুজ্জীবিত করা",
+                    "word_transliteration": "punorujjibito kora",
+                    "example_sentence_translation": "বিশ্রাম নেওয়া আপনার শক্তি এবং মনোযোগ পুনরুজ্জীবিত করতে পারে।",
+                    "example_sentence_transliteration": "Bishram neoya apnar shokti ebong monojog punorujjibito korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "tangible",
+            "phonetic": "/ˈtændʒɪbəl/",
+            "word_native_transliteration": {
+                "bn": "ট্যাঙ্গিবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "👆",
+            "meaning": "Perceptible by touch; clear and definite; real.",
+            "example_sentence": "Tangible results are easier to measure and track.",
+            "example_sentence_native_transliteration": {
+                "bn": "ট্যাঙ্গিবল রেজাল্টস আর ইজিয়ার টু মেজার অ্যান্ড ট্র্যাক।"
+            },
+            "position": 16,
+            "synonyms": "concrete, palpable, physical, real",
+            "antonyms": "intangible, abstract, theoretical, conceptual",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্পষ্ট",
+                    "word_transliteration": "sposhto",
+                    "example_sentence_translation": "স্পষ্ট ফলাফলগুলি পরিমাপ এবং ট্র্যাক করা সহজ।",
+                    "example_sentence_transliteration": "Sposhto pholafolgulio porimmap ebong track kora shohoj.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "sustainability",
+            "phonetic": "/səˌsteɪnəˈbɪləti/",
+            "word_native_transliteration": {
+                "bn": "সাসটেইনেবিলিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "♻️",
+            "meaning": "The ability to be maintained at a certain rate or level; the ability to be upheld or defended.",
+            "example_sentence": "Sustainability is a key focus in today's environmental policies.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাসটেইনেবিলিটি ইজ এ কি ফোকাস ইন টুডেজ এনভায়রনমেন্টাল পলিসিজ।"
+            },
+            "position": 17,
+            "synonyms": "endurance, viability, longevity, permanence",
+            "antonyms": "unsustainability, depletion, temporariness, instability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "টেকসইতা",
+                    "word_transliteration": "tekshoita",
+                    "example_sentence_translation": "টেকসইতা আজকের পরিবেশগত নীতিতে একটি প্রধান দৃষ্টিনিবদ্ধ করা হয়েছে।",
+                    "example_sentence_transliteration": "Tekshoita ajker poribeshogoto nitite ekti prodhan drishtinibddho kora hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

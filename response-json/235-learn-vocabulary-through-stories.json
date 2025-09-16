@@ -1,0 +1,472 @@
+{
+    "position": 235,
+    "title_translation": {
+        "en": "Why Multitasking Reduces Productivity",
+        "bn": "কেন মাল্টিটাস্কিং প্রোডাক্টিভিটি কমায়"
+    },
+    "content_translation": {
+        "en": "In today's society, **multitasking** is very popular, but it can reduce **productivity**. When multiple tasks are done **simultaneously**, there is a lack of **cognitive** focus. **Distraction** is created between multiple tasks, which reduces work **efficiency**.\n\n**Fragmentation** occurs between different tasks, which makes it impossible to give adequate **concentration** to each task. These **impediments** ultimately have a **detrimental** effect, and **subsequent** work is not completed properly.\n\nHowever, **monotasking** or doing work one by one increases our focus and **synergy**. It creates focus on work and **optimizes** the use of time.\n\nTherefore, instead of **multitasking** with an **exorbitant** amount of **workload**, **deliberate** and individual work is more **productive**.",
+        "bn": "বর্তমান সমাজে **multitasking** অনেক জনপ্রিয়, কিন্তু এটি **productivity** কমাতে পারে। যখন একাধিক কাজ **simultaneously** করা হয়, তখন **cognitive** মনোযোগের অভাব হতে থাকে। একাধিক কাজের মাঝে **distraction** তৈরি হয়, যা কাজের **efficiency** কমিয়ে দেয়।\n\nবিভিন্ন কাজের মধ্যে **fragmentation** ঘটে, যার ফলে প্রতিটি কাজের জন্য পর্যাপ্ত **concentration** দেওয়া সম্ভব হয় না। এই **impediment** গুলি শেষে **detrimental** প্রভাব ফেলে, এবং **subsequent** সময়ে কাজগুলো সঠিকভাবে শেষ হয় না।\n\nতবে, **monotasking** বা একে একে কাজ করার মাধ্যমে আমাদের মনোযোগ এবং **synergy** বৃদ্ধি পায়। এটি কাজের প্রতি একাগ্রতা তৈরি করে এবং সময়ের ব্যবহারকে **optimize** করে।\n\nঅতএব, **exorbitant** পরিমাণ **workload** নিয়ে **multitasking** করার চেয়ে, **deliberate** এবং এককভাবে কাজ করা অধিক **productive** হয়।"
+    },
+    "list": [
+        {
+            "word": "multitasking",
+            "phonetic": "ˈmʌltɪˌtɑːskɪŋ",
+            "word_native_transliteration": {
+                "bn": "মাল্টিটাস্কিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔀",
+            "meaning": "The practice of doing multiple tasks at the same time.",
+            "example_sentence": "Multitasking may reduce the quality of each individual task.",
+            "example_sentence_native_transliteration": {
+                "bn": "মাল্টিটাস্কিং মে রিডিউস দ্য কোয়ালিটি অব ইচ ইন্ডিভিজুয়াল টাস্ক।"
+            },
+            "position": 1,
+            "synonyms": "juggling, simultaneous tasks, concurrent work",
+            "antonyms": "single-tasking, focused task, unilateral task",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একাধিক কাজ একসঙ্গে করা",
+                    "word_transliteration": "ekadhik kaj eksongge kora",
+                    "example_sentence_translation": "মাল্টিটাস্কিং প্রতিটি পৃথক কাজের গুণগত মান কমাতে পারে।",
+                    "example_sentence_transliteration": "Multitasking protiți pṛthok kajer guṇgoto man kamate pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "productivity",
+            "phonetic": "prəˈdʌktɪvɪti",
+            "word_native_transliteration": {
+                "bn": "প্রোডাক্টিভিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📈",
+            "meaning": "The effectiveness of productive effort, especially in industry, as measured in terms of the rate of output per unit of input.",
+            "example_sentence": "The team's productivity has increased due to streamlined processes.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য টিমস প্রোডাক্টিভিটি হ্যাজ ইনক্রিজড ডিউ টু স্ট্রিমলাইনড প্রসেসেস।"
+            },
+            "position": 2,
+            "synonyms": "efficiency, output, performance",
+            "antonyms": "inefficiency, unproductiveness, stagnation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উৎপাদনশীলতা, কার্যক্ষমতা",
+                    "word_transliteration": "utpadonsīlota, karyokkhomota",
+                    "example_sentence_translation": "টিমের উৎপাদনশীলতা সুনির্দিষ্ট প্রক্রিয়াদ্বারা বৃদ্ধি পেয়েছে।",
+                    "example_sentence_transliteration": "Ṭimer utpadonsīlota sunirdishṭo prokiyadbara briddhi peyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "simultaneously",
+            "phonetic": "ˌsɪməlˈteɪnɪəsli",
+            "word_native_transliteration": {
+                "bn": "সিমালটেনিয়াসলি"
+            },
+            "parts_of_speech": "adverb",
+            "emoji": "⏱️",
+            "meaning": "At the same time; occurring or existing at the same time.",
+            "example_sentence": "He worked on two projects simultaneously.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি ওয়ার্কড অন টু প্রজেক্টস সিমালটেনিয়াসলি।"
+            },
+            "position": 3,
+            "synonyms": "concurrently, in parallel, at the same time",
+            "antonyms": "separately, sequentially, disjointedly",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একসঙ্গে, এক সময়ে",
+                    "word_transliteration": "eksongge, ek somoye",
+                    "example_sentence_translation": "সে দুটি প্রকল্প একসঙ্গে কাজ করেছে।",
+                    "example_sentence_transliteration": "Se duṭi prokḷpo eksongge kaj koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cognitive",
+            "phonetic": "ˈkɒɡnɪtɪv",
+            "word_native_transliteration": {
+                "bn": "কগনিটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧠",
+            "meaning": "Related to cognition; involving or relating to thinking or conscious mental activities.",
+            "example_sentence": "Cognitive skills are important for problem-solving.",
+            "example_sentence_native_transliteration": {
+                "bn": "কগনিটিভ স্কিলস আর ইমপরট্যান্ট ফর প্রবলেম সলভিং।"
+            },
+            "position": 4,
+            "synonyms": "intellectual, mental, psychological",
+            "antonyms": "physical, emotional, unrelated",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জ্ঞানীয়, চিন্তাভাবনা সম্পর্কিত",
+                    "word_transliteration": "gyānīyo, chintābhābanā somporkit",
+                    "example_sentence_translation": "জ্ঞানীয় দক্ষতা সমস্যার সমাধানে গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Gyānīyo dokkhota somossar somadhane gurutvopūrṇo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "distraction",
+            "phonetic": "dɪˈstrækʃən",
+            "word_native_transliteration": {
+                "bn": "ডিস্ট্রাকশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💭",
+            "meaning": "A thing that prevents someone from giving full attention to something else.",
+            "example_sentence": "Distractions can reduce productivity in the workplace.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিস্ট্রাকশনস ক্যান রিডিউস প্রোডাক্টিভিটি ইন দ্য ওয়ার্কপ্লেস।"
+            },
+            "position": 5,
+            "synonyms": "interruption, diversion, disturbance",
+            "antonyms": "focus, concentration, attention",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিভ্রান্তি, ব্যাঘাত",
+                    "word_transliteration": "bibhrānti, byāghāt",
+                    "example_sentence_translation": "কাজের পরিবেশে বিভ্রান্তি উৎপাদনশীলতা কমাতে পারে।",
+                    "example_sentence_transliteration": "Kajer poribese bibhrānti utpadonsīlota kamate pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "efficiency",
+            "phonetic": "ɪˈfɪʃənsi",
+            "word_native_transliteration": {
+                "bn": "এফিশিয়েন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "The state or quality of being efficient; achieving maximum productivity with minimum wasted effort or expense.",
+            "example_sentence": "His efficiency at work has increased significantly.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ এফিশিয়েন্সি অ্যাট ওয়ার্ক হ্যাজ ইনক্রিজড সিগনিফিক্যান্টলি।"
+            },
+            "position": 6,
+            "synonyms": "productivity, effectiveness, competence",
+            "antonyms": "inefficiency, wastefulness, unproductiveness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কার্যক্ষমতা, দক্ষতা",
+                    "word_transliteration": "karyokkhomota, dokkhota",
+                    "example_sentence_translation": "তার কাজের দক্ষতা উল্লেখযোগ্যভাবে বেড়েছে।",
+                    "example_sentence_transliteration": "Tar kajer dokkhota ullekhjogbyabe bereche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fragmentation",
+            "phonetic": "ˌfræɡmɛnˈteɪʃən",
+            "word_native_transliteration": {
+                "bn": "ফ্র্যাগমেন্টেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧩",
+            "meaning": "The process or state of breaking or being broken into fragments.",
+            "example_sentence": "The fragmentation of the report made it difficult to understand.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফ্র্যাগমেন্টেশন অব দ্য রিপোর্ট মেড ইট ডিফিকাল্ট টু আন্ডারস্ট্যান্ড।"
+            },
+            "position": 7,
+            "synonyms": "division, disintegration, separation",
+            "antonyms": "integration, unity, cohesion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "টুকরো টুকরো হওয়া, ভাঙা",
+                    "word_transliteration": "ṭukro ṭukro howa, bhāṅā",
+                    "example_sentence_translation": "রিপোর্টের ভাঙন তা বোঝা কঠিন করে তুলেছিল।",
+                    "example_sentence_transliteration": "Riporṭer bhāṅon ta boja koṭhin kore tulechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "concentration",
+            "phonetic": "ˌkɒnsnˈtreɪʃən",
+            "word_native_transliteration": {
+                "bn": "কনসেন্ট্রেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The action or power of focusing one's attention or mental effort on a particular object or activity.",
+            "example_sentence": "Concentration is key to completing tasks efficiently.",
+            "example_sentence_native_transliteration": {
+                "bn": "কনসেন্ট্রেশন ইজ কি টু কমপ্লিটিং টাস্কস এফিশিয়েন্টলি।"
+            },
+            "position": 8,
+            "synonyms": "focus, attention, intensity",
+            "antonyms": "distraction, diverted attention, diffusion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মনোযোগ, নিবিড়তা",
+                    "word_transliteration": "manojog, nibṛtā",
+                    "example_sentence_translation": "কাজগুলো দক্ষতার সাথে সম্পন্ন করার জন্য মনোযোগ থাকা গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Kajgulo dokkhatar sathe somponnyo korar jonno manojog thaka gurutvopūrṇo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "impediment",
+            "phonetic": "ɪmˈpɛdɪmənt",
+            "word_native_transliteration": {
+                "bn": "ইম্পিডিমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚧",
+            "meaning": "A hindrance or obstruction in doing something; an obstacle.",
+            "example_sentence": "Language barriers can be an impediment to communication.",
+            "example_sentence_native_transliteration": {
+                "bn": "ল্যাঙ্গুয়েজ ব্যারিয়ারস ক্যান বি অ্যান ইম্পিডিমেন্ট টু কমিউনিকেশন।"
+            },
+            "position": 9,
+            "synonyms": "obstacle, barrier, hindrance",
+            "antonyms": "aid, assistance, help",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাধা, প্রতিবন্ধকতা",
+                    "word_transliteration": "bādhā, protibondhoktā",
+                    "example_sentence_translation": "ভাষার প্রতিবন্ধকতা যোগাযোগে বাধা সৃষ্টি করতে পারে।",
+                    "example_sentence_transliteration": "Bhāsar protibondhoktā jogajoge bādhā sṛshṭi korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "detrimental",
+            "phonetic": "ˌdɛtrɪˈmɛntəl",
+            "word_native_transliteration": {
+                "bn": "ডেট্রিমেন্টাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚠️",
+            "meaning": "Tending to cause harm; harmful or damaging.",
+            "example_sentence": "Smoking has detrimental effects on health.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্মোকিং হ্যাজ ডেট্রিমেন্টাল এফেক্টস অন হেলথ।"
+            },
+            "position": 10,
+            "synonyms": "harmful, damaging, injurious",
+            "antonyms": "beneficial, advantageous, helpful",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্ষতিকর, অপকারী",
+                    "word_transliteration": "kkhotikar, opokarī",
+                    "example_sentence_translation": "ধূমপান স্বাস্থ্যর জন্য ক্ষতিকর প্রভাব ফেলে।",
+                    "example_sentence_transliteration": "Dhūmopan swasthyor jonno kkhotikar prabhābo phele.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "subsequent",
+            "phonetic": "ˈsʌbsɪkwənt",
+            "word_native_transliteration": {
+                "bn": "সাবসিকুয়েন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⏭️",
+            "meaning": "Coming after something in time; following in time or order.",
+            "example_sentence": "The subsequent meeting was more productive.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সাবসিকুয়েন্ট মিটিং ওয়াজ মোর প্রোডাক্টিভ।"
+            },
+            "position": 11,
+            "synonyms": "following, succeeding, afterward",
+            "antonyms": "preceding, prior, former",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরবর্তী, পরবর্তী সময়ে",
+                    "word_transliteration": "porobortī, porobortī somoye",
+                    "example_sentence_translation": "পরবর্তী বৈঠকটি আরও উৎপাদনশীল ছিল।",
+                    "example_sentence_transliteration": "Porobortī boiṭhokṭi āro utpadonsīl chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "monotasking",
+            "phonetic": "mɒnəˈtɑːskɪŋ",
+            "word_native_transliteration": {
+                "bn": "মনোটাস্কিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The practice of dedicating oneself to a given task and minimizing potential interruptions until the task is completed or a significant period of time has elapsed.",
+            "example_sentence": "Monotasking can often lead to higher quality work.",
+            "example_sentence_native_transliteration": {
+                "bn": "মনোটাস্কিং ক্যান অফটেন লিড টু হায়ার কোয়ালিটি ওয়ার্ক।"
+            },
+            "position": 12,
+            "synonyms": "single-tasking, focusing, concentrating",
+            "antonyms": "multitasking, distraction, diversion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একক কাজ করা, এক সময়ে এক কাজ করা",
+                    "word_transliteration": "ekok kaj kora, ek somoye ek kaj kora",
+                    "example_sentence_translation": "মনোটাস্কিং সাধারণত উচ্চ মানের কাজের দিকে নিয়ে যায়।",
+                    "example_sentence_transliteration": "Monotasking sadharonoto uccho maner kajer dike niye jay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "synergy",
+            "phonetic": "ˈsɪnərdʒi",
+            "word_native_transliteration": {
+                "bn": "সিনার্জি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "The interaction or cooperation of two or more organizations, substances, or other agents to produce a combined effect greater than the sum of their separate effects.",
+            "example_sentence": "The synergy between the two teams led to great success.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সিনার্জি বিটুইন দ্য টু টিমস লেড টু গ্রেট সাকসেস।"
+            },
+            "position": 13,
+            "synonyms": "cooperation, collaboration, alliance",
+            "antonyms": "disagreement, conflict, disunity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহযোগিতা, মিলিত শক্তি",
+                    "word_transliteration": "sohojogita, milito shokti",
+                    "example_sentence_translation": "দুটি দলের সহযোগিতা দুর্দান্ত সাফল্য এনেছে।",
+                    "example_sentence_transliteration": "Duṭi doler sohojogita durdanto shafollo eneche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "optimize",
+            "phonetic": "ˈɒptɪmaɪz",
+            "word_native_transliteration": {
+                "bn": "অপটিমাইজ"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⚙️",
+            "meaning": "Make the best or most effective use of a situation, opportunity, or resource.",
+            "example_sentence": "They optimized the software for faster performance.",
+            "example_sentence_native_transliteration": {
+                "bn": "দে অপটিমাইজড দ্য সফটওয়্যার ফর ফাস্টার পারফরমেন্স।"
+            },
+            "position": 14,
+            "synonyms": "enhance, improve, refine",
+            "antonyms": "worsen, degrade, diminish",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সর্বোত্তম করা, উন্নত করা",
+                    "word_transliteration": "sorbottom kora, unnoto kora",
+                    "example_sentence_translation": "তারা সফটওয়্যারটি দ্রুত কর্মক্ষমতার জন্য অপটিমাইজ করেছে।",
+                    "example_sentence_transliteration": "Tara sofṭoyarṭi druto kormokkhomotar jonno optimize koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "exorbitant",
+            "phonetic": "ɪɡˈzɔːbɪtənt",
+            "word_native_transliteration": {
+                "bn": "এক্সোরবিট্যান্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💰",
+            "meaning": "Unreasonably high in price or amount; excessive.",
+            "example_sentence": "The price of the concert tickets was exorbitant.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রাইস অব দ্য কনসার্ট টিকিটস ওয়াজ এক্সোরবিট্যান্ট।"
+            },
+            "position": 15,
+            "synonyms": "excessive, overpriced, outrageous",
+            "antonyms": "reasonable, affordable, modest",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতিরিক্ত, অত্যধিক",
+                    "word_transliteration": "otirikto, ottyadhik",
+                    "example_sentence_translation": "কনসার্ট টিকিটের দাম অত্যধিক ছিল।",
+                    "example_sentence_transliteration": "Konsarṭo ṭikiṭer dam ottyadhik chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "workload",
+            "phonetic": "ˈwɜːrkˌləʊd",
+            "word_native_transliteration": {
+                "bn": "ওয়ার্কলোড"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "The amount of work to be done by someone or something.",
+            "example_sentence": "His workload has increased dramatically in the past month.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ওয়ার্কলোড হ্যাজ ইনক্রিজড ড্রামাটিক্যালি ইন দ্য পাস্ট মান্থ।"
+            },
+            "position": 16,
+            "synonyms": "task load, responsibility, duty",
+            "antonyms": "leisure, break, rest",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কাজের বোঝা, কর্মভার",
+                    "word_transliteration": "kajer bojha, kormobar",
+                    "example_sentence_translation": "গত মাসে তার কর্মভার ব্যাপকভাবে বেড়েছে।",
+                    "example_sentence_transliteration": "Goto mase tar kormobar byapokbhabe bereche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "deliberate",
+            "phonetic": "dɪˈlɪbəreɪt",
+            "word_native_transliteration": {
+                "bn": "ডেলিবারেট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🤔",
+            "meaning": "Done consciously and intentionally; carefully considered.",
+            "example_sentence": "His deliberate actions showed great care and thoughtfulness.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ডেলিবারেট অ্যাকশনস শোড গ্রেট কেয়ার অ্যান্ড থটফুলনেস।"
+            },
+            "position": 17,
+            "synonyms": "intentional, thoughtful, considered",
+            "antonyms": "hasty, impulsive, careless",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মনোযোগী, সচেতনভাবে করা",
+                    "word_transliteration": "manojogī, sochetnobbabe kora",
+                    "example_sentence_translation": "তার সচেতন কাজগুলো অনেক যত্ন এবং চিন্তাভাবনা প্রকাশ করেছে।",
+                    "example_sentence_transliteration": "Tar socheton kajgulo oneko jotno ebong chintabhābonā prakash koreche.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

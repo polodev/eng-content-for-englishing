@@ -1,0 +1,499 @@
+{
+    "position": 225,
+    "title_translation": {
+        "en": "Time Management for Reducing Stress Levels",
+        "bn": "Time Management for Reducing Stress Levels"
+    },
+    "content_translation": {
+        "en": "When **time management** is lacking, life falls into **disarray**, and work gradually creates **stress**. To increase work **efficiency**, one must avoid **procrastination** and plan with **meticulous** attention. Many believe that working with extra time is good, but success doesn't come by spending **exorbitant** amounts of time. Instead, work should be **compartmentalized**. With **scrutiny** and **foresight**, we can properly utilize time.\n\nIf someone works through **rigorous** planning, **stress** can be **alleviated** and work can quickly **culminate**. With **adherence** and **punctuality**, the **repercussions** of work become positive.\n\nTherefore, by **streamlining** time and proceeding in a planned manner, work becomes easier and it works to **revitalize** our mental health as well.",
+        "bn": "**Time management** না থাকলে জীবন **disarray**-এ চলে যায়, এবং কাজের চাপ ধীরে ধীরে **stress** সৃষ্টি করে। কাজের **efficiency** বাড়াতে হলে **procrastination** বাদ দিয়ে **meticulous** পরিকল্পনা করা প্রয়োজন। অনেকেই মনে করেন, অতিরিক্ত সময় নিয়ে কাজ করা ভালো, কিন্তু **exorbitant** সময় ব্যয় করলেই সফলতা আসে না। বরং, কাজকে **compartmentalize** করে নেওয়া উচিত। **Scrutiny** এবং **foresight** থাকলে আমরা সময়ের সঠিক ব্যবহার করতে পারি।\n\nযদি কেউ **rigorous** পরিকল্পনার মাধ্যমে কাজ করে, তাহলে **stress** **alleviate** হয় এবং কাজ দ্রুত **culminate** করতে পারে। **Adherence** ও **punctuality** থাকলে কাজের **repercussion** ইতিবাচক হয়।\n\nতাই, সময়কে **streamline** করে পরিকল্পিতভাবে এগিয়ে গেলে, কাজ সহজ হয়ে যায় এবং আমাদের মানসিক স্বাস্থ্যের জন্যও এটি **revitalize** করার মতো কাজ করে।"
+    },
+    "list": [
+        {
+            "word": "time management",
+            "phonetic": "/taɪm ˈmæn.ɪdʒ.mənt/",
+            "word_native_transliteration": {
+                "bn": "টাইম ম্যানেজমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⏰",
+            "meaning": "The practice of organizing and planning how to divide your time between specific activities to increase productivity and efficiency.",
+            "example_sentence": "Effective time management enhances productivity.",
+            "example_sentence_native_transliteration": {
+                "bn": "এফেক্টিভ টাইম ম্যানেজমেন্ট এনহ্যান্সেস প্রোডাক্টিভিটি।"
+            },
+            "position": 1,
+            "synonyms": "scheduling, productivity, organization",
+            "antonyms": "mismanagement, inefficiency, disorder",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সময় ব্যবস্থাপনা",
+                    "word_transliteration": "shomoy byobosthapona",
+                    "example_sentence_translation": "দক্ষ সময় ব্যবস্থাপনা উৎপাদনশীলতা বৃদ্ধি করে।",
+                    "example_sentence_transliteration": "Dokkho shomoy byobosthapona utpadonsheelota briddhi kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "disarray",
+            "phonetic": "/ˌdɪs.əˈreɪ/",
+            "word_native_transliteration": {
+                "bn": "ডিসঅ্যারে"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌪️",
+            "meaning": "A state of disorganization or untidiness; confusion or disorder.",
+            "example_sentence": "His desk was in complete disarray.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ডেস্ক ওয়্যাজ ইন কমপ্লিট ডিসঅ্যারে।"
+            },
+            "position": 2,
+            "synonyms": "chaos, disorder, confusion",
+            "antonyms": "order, organization, harmony",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিশৃঙ্খলা",
+                    "word_transliteration": "bishrinkhola",
+                    "example_sentence_translation": "তার ডেস্ক সম্পূর্ণ বিশৃঙ্খল ছিল।",
+                    "example_sentence_transliteration": "Tar desk shompurno bishrinkhol chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "stress",
+            "phonetic": "/stres/",
+            "word_native_transliteration": {
+                "bn": "স্ট্রেস"
+            },
+            "parts_of_speech": "noun/verb",
+            "emoji": "😰",
+            "meaning": "A state of mental or emotional strain or tension resulting from adverse or demanding circumstances.",
+            "example_sentence": "Meditation helps in reducing stress.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেডিটেশন হেল্পস ইন রিডিউসিং স্ট্রেস।"
+            },
+            "position": 3,
+            "synonyms": "anxiety, tension, pressure",
+            "antonyms": "relaxation, calmness, ease",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মানসিক চাপ",
+                    "word_transliteration": "manoshik chap",
+                    "example_sentence_translation": "ধ্যান স্ট্রেস কমাতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Dhyan stress komate shahajyo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "efficiency",
+            "phonetic": "/ɪˈfɪʃ.ən.si/",
+            "word_native_transliteration": {
+                "bn": "এফিশিয়েন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "The state or quality of being efficient; competency in performance.",
+            "example_sentence": "Energy efficiency reduces electricity bills.",
+            "example_sentence_native_transliteration": {
+                "bn": "এনার্জি এফিশিয়েন্সি রিডিউসেস ইলেক্ট্রিসিটি বিলস।"
+            },
+            "position": 4,
+            "synonyms": "effectiveness, productivity, competence",
+            "antonyms": "inefficiency, wastefulness, incompetence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষতা",
+                    "word_transliteration": "dokkshota",
+                    "example_sentence_translation": "শক্তির দক্ষতা বিদ্যুৎ বিল কমায়।",
+                    "example_sentence_transliteration": "Shaktir dokkshota bidyut bil komay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "procrastination",
+            "phonetic": "/prəˌkræs.tɪˈneɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "প্রোক্রাস্টিনেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⏳",
+            "meaning": "The action of delaying or postponing something.",
+            "example_sentence": "Procrastination can hinder success.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোক্রাস্টিনেশন ক্যান হিন্ডার সাকসেস।"
+            },
+            "position": 5,
+            "synonyms": "delay, hesitation, postponement",
+            "antonyms": "promptness, action, efficiency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিলম্ব",
+                    "word_transliteration": "bilambo",
+                    "example_sentence_translation": "প্রোক্রাস্টিনেশন সফলতা বাধাগ্রস্ত করতে পারে।",
+                    "example_sentence_transliteration": "Procrastination shofolota badhagrosto korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "meticulous",
+            "phonetic": "/məˈtɪk.jə.ləs/",
+            "word_native_transliteration": {
+                "bn": "মেটিকুলাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔍",
+            "meaning": "Showing great attention to detail; very careful and precise.",
+            "example_sentence": "She is meticulous about her work.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি ইজ মেটিকুলাস অ্যাবাউট হার ওয়ার্ক।"
+            },
+            "position": 6,
+            "synonyms": "precise, thorough, detail-oriented",
+            "antonyms": "careless, reckless, negligent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অত্যন্ত সতর্ক",
+                    "word_transliteration": "ottonto shotorko",
+                    "example_sentence_translation": "তিনি তার কাজ নিয়ে অত্যন্ত সতর্ক।",
+                    "example_sentence_transliteration": "Tini tar kaj niye ottonto shotorko.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "exorbitant",
+            "phonetic": "/ɪɡˈzɔː.bɪ.tənt/",
+            "word_native_transliteration": {
+                "bn": "এক্সর্বিট্যান্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💸",
+            "meaning": "Unreasonably high; excessive.",
+            "example_sentence": "The hotel charges exorbitant prices.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য হোটেল চার্জেস এক্সর্বিট্যান্ট প্রাইসেস।"
+            },
+            "position": 7,
+            "synonyms": "excessive, overpriced, outrageous",
+            "antonyms": "reasonable, moderate, affordable",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অত্যধিক",
+                    "word_transliteration": "ottodhik",
+                    "example_sentence_translation": "হোটেলটি অত্যধিক দাম রাখে।",
+                    "example_sentence_transliteration": "Hotelti ottodhik dam rakhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "compartmentalize",
+            "phonetic": "/ˌkɒm.pɑːtˈmen.təl.aɪz/",
+            "word_native_transliteration": {
+                "bn": "কমপার্টমেন্টালাইজ"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📦",
+            "meaning": "To divide into sections or categories; to separate into distinct parts.",
+            "example_sentence": "He tends to compartmentalize his emotions.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি টেন্ডস টু কমপার্টমেন্টালাইজ হিজ ইমোশনস।"
+            },
+            "position": 8,
+            "synonyms": "categorize, divide, organize",
+            "antonyms": "merge, integrate, unify",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আলাদা বিভাগে ভাগ করা",
+                    "word_transliteration": "alada vibhage bhag kora",
+                    "example_sentence_translation": "তিনি তার আবেগকে আলাদা করে রাখতে অভ্যস্ত।",
+                    "example_sentence_transliteration": "Tini tar abegke alada kore rakhte obhyosto.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "scrutiny",
+            "phonetic": "/ˈskruː.tɪ.ni/",
+            "word_native_transliteration": {
+                "bn": "স্ক্রুটিনি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔎",
+            "meaning": "Critical observation or examination; close and careful study.",
+            "example_sentence": "The contract is under strict scrutiny.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কন্ট্রাক্ট ইজ আন্ডার স্ট্রিক্ট স্ক্রুটিনি।"
+            },
+            "position": 9,
+            "synonyms": "inspection, examination, analysis",
+            "antonyms": "neglect, superficiality, oversight",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গভীর পর্যবেক্ষণ",
+                    "word_transliteration": "gobhir porjobokkhon",
+                    "example_sentence_translation": "চুক্তিটি কঠোর পরীক্ষার আওতায় রয়েছে।",
+                    "example_sentence_transliteration": "Chuktiti kothor porikhar awotay royeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "foresight",
+            "phonetic": "/ˈfɔː.saɪt/",
+            "word_native_transliteration": {
+                "bn": "ফোরসাইট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔮",
+            "meaning": "The ability to predict or plan for the future; prudent concern for the future.",
+            "example_sentence": "Good foresight is essential for success.",
+            "example_sentence_native_transliteration": {
+                "bn": "গুড ফোরসাইট ইজ এসেনশিয়াল ফর সাকসেস।"
+            },
+            "position": 10,
+            "synonyms": "vision, planning, anticipation",
+            "antonyms": "shortsightedness, impulsiveness, carelessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দূরদর্শিতা",
+                    "word_transliteration": "durdorshita",
+                    "example_sentence_translation": "সফলতার জন্য ভালো foresight অপরিহার্য।",
+                    "example_sentence_transliteration": "Shofolotar jonno bhalo foresight oporhario.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "rigorous",
+            "phonetic": "/ˈrɪɡ.ər.əs/",
+            "word_native_transliteration": {
+                "bn": "রিগোরাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💪",
+            "meaning": "Extremely thorough and careful; demanding exact conformity to rules.",
+            "example_sentence": "The training program is extremely rigorous.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ট্রেনিং প্রোগ্রাম ইজ এক্সট্রিমলি রিগোরাস।"
+            },
+            "position": 11,
+            "synonyms": "strict, precise, thorough",
+            "antonyms": "lenient, careless, relaxed",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "কঠোর",
+                    "word_transliteration": "kothor",
+                    "example_sentence_translation": "প্রশিক্ষণ কার্যক্রমটি অত্যন্ত কঠোর।",
+                    "example_sentence_transliteration": "Proshikkhon karjokromti ottonto kothor.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "alleviate",
+            "phonetic": "/əˈliː.vi.eɪt/",
+            "word_native_transliteration": {
+                "bn": "অ্যালিভিয়েট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🤗",
+            "meaning": "To make something less intense or severe; to relieve or reduce.",
+            "example_sentence": "Meditation can help alleviate stress.",
+            "example_sentence_native_transliteration": {
+                "bn": "মেডিটেশন ক্যান হেল্প অ্যালিভিয়েট স্ট্রেস।"
+            },
+            "position": 12,
+            "synonyms": "relieve, ease, mitigate",
+            "antonyms": "aggravate, intensify, exacerbate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "লাঘব করা",
+                    "word_transliteration": "laghob kora",
+                    "example_sentence_translation": "ধ্যান স্ট্রেস কমাতে সাহায্য করতে পারে।",
+                    "example_sentence_transliteration": "Dhyan stress komate shahajyo korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "culminate",
+            "phonetic": "/ˈkʌl.mɪ.neɪt/",
+            "word_native_transliteration": {
+                "bn": "কালমিনেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🎯",
+            "meaning": "To reach the highest point or final stage; to result in.",
+            "example_sentence": "The negotiations culminated in an agreement.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নেগোসিয়েশনস কালমিনেটেড ইন অ্যান অ্যাগ্রিমেন্ট।"
+            },
+            "position": 13,
+            "synonyms": "conclude, peak, result",
+            "antonyms": "begin, initiate, commence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চূড়ান্ত পর্যায়ে পৌঁছানো",
+                    "word_transliteration": "chudanto porjaye pouchhano",
+                    "example_sentence_translation": "আলোচনা একটি চুক্তিতে শেষ হয়।",
+                    "example_sentence_transliteration": "Alochona ekti chuktite shesh hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "adherence",
+            "phonetic": "/ədˈhɪə.rəns/",
+            "word_native_transliteration": {
+                "bn": "অ্যাডহিয়ারেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "The practice of following or keeping to a rule, standard, or belief.",
+            "example_sentence": "Adherence to rules is crucial in any organization.",
+            "example_sentence_native_transliteration": {
+                "bn": "অ্যাডহিয়ারেন্স টু রুলস ইজ ক্রুশিয়াল ইন এনি অর্গানাইজেশন।"
+            },
+            "position": 14,
+            "synonyms": "compliance, obedience, devotion",
+            "antonyms": "defiance, disobedience, neglect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আনুগত্য",
+                    "word_transliteration": "anugotyo",
+                    "example_sentence_translation": "যেকোনো প্রতিষ্ঠানে নিয়ম মেনে চলা অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Jekono protishthane niyom mene chola ottonto gurutbopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "punctuality",
+            "phonetic": "/ˌpʌŋk.tʃuˈæl.ə.ti/",
+            "word_native_transliteration": {
+                "bn": "পাংচুয়ালিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⏰",
+            "meaning": "The quality or habit of being on time; arriving or occurring at the scheduled time.",
+            "example_sentence": "His punctuality at work is commendable.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ পাংচুয়ালিটি অ্যাট ওয়ার্ক ইজ কমেন্ডেবল।"
+            },
+            "position": 15,
+            "synonyms": "promptness, timeliness, regularity",
+            "antonyms": "tardiness, delay, lateness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সময়নিষ্ঠতা",
+                    "word_transliteration": "shomoynishthota",
+                    "example_sentence_translation": "তার কর্মস্থলে সময়নিষ্ঠতা প্রশংসনীয়।",
+                    "example_sentence_transliteration": "Tar kormosthle shomoynishthota proshongshoniyo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "repercussion",
+            "phonetic": "/ˌriː.pəˈkʌʃ.ən/",
+            "word_native_transliteration": {
+                "bn": "রিপারকাশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "An unintended consequence occurring some time after an event or action.",
+            "example_sentence": "The new policy had serious repercussions.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিউ পলিসি হ্যাড সিরিয়াস রিপারকাশনস।"
+            },
+            "position": 16,
+            "synonyms": "consequence, outcome, effect",
+            "antonyms": "cause, source, origin",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিণতি",
+                    "word_transliteration": "porinoti",
+                    "example_sentence_translation": "নতুন নীতির গুরুতর পরিণতি ছিল।",
+                    "example_sentence_transliteration": "Notun nitir gurutor porinoti chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "streamline",
+            "phonetic": "/ˈstriːm.laɪn/",
+            "word_native_transliteration": {
+                "bn": "স্ট্রিমলাইন"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⚡",
+            "meaning": "To make something more efficient by simplifying or eliminating unnecessary steps.",
+            "example_sentence": "The company is streamlining its processes.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি ইজ স্ট্রিমলাইনিং ইটস প্রসেসেস।"
+            },
+            "position": 17,
+            "synonyms": "simplify, optimize, modernize",
+            "antonyms": "complicate, hinder, obstruct",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষ ও কার্যকর করা",
+                    "word_transliteration": "dokkho o karjokor kora",
+                    "example_sentence_translation": "কোম্পানিটি তাদের প্রক্রিয়া সহজতর করছে।",
+                    "example_sentence_transliteration": "Companiti tader prokriya shohojtoro korche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "revitalize",
+            "phonetic": "/ˌriːˈvaɪ.təl.aɪz/",
+            "word_native_transliteration": {
+                "bn": "রিভাইটালাইজ"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🌱",
+            "meaning": "To give new life and vitality to something; to restore to a former state.",
+            "example_sentence": "The government plans to revitalize the economy.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গভর্নমেন্ট প্ল্যানস টু রিভাইটালাইজ দ্য ইকোনমি।"
+            },
+            "position": 18,
+            "synonyms": "rejuvenate, restore, energize",
+            "antonyms": "deplete, weaken, exhaust",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পুনরুজ্জীবিত করা",
+                    "word_transliteration": "punorujjibito kora",
+                    "example_sentence_translation": "সরকার অর্থনীতিকে পুনরুজ্জীবিত করার পরিকল্পনা করছে।",
+                    "example_sentence_transliteration": "Shorkar orthnitike punorujjibito korar porikalpona korche.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

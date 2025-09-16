@@ -1,0 +1,553 @@
+{
+    "position": 229,
+    "title_translation": {
+        "en": "Types of Forests Around the World",
+        "bn": "বিশ্বজুড়ে বিভিন্ন প্রকার বন"
+    },
+    "content_translation": {
+        "en": "There are different **arboreal** environments around the world, which depend on climate and **ecological** characteristics. Mainly, forests are divided into three main categories— **coniferous**, **deciduous**, and **tropical**.\n\n**Coniferous** forests are mainly found in cold regions, where **evergreen** trees survive year after year. Their **canopy** is dense and creates important **habitat** for soil **fauna**. On the other hand, **deciduous** forests shed leaves in harmony with seasonal changes. There is plenty of **biodiversity** here, and the **flora** of this forest changes every year through the **succession** process. **Tropical** forests of warm and humid regions, such as the Amazon, receive plenty of **precipitation** and are home to many **endemic** species of plants and animals. In addition, **montane** forests are found in mountainous areas and **riparian** forests near rivers. However, excessive **deforestation** and **fragmentation** are threatening the existence of forests, which is destroying the natural **microclimate** and **understory** layers. Without forest conservation, it is not possible to maintain environmental balance.",
+        "bn": "বিশ্বজুড়ে বিভিন্ন **arboreal** পরিবেশ রয়েছে, যা জলবায়ু এবং **ecological** বৈশিষ্ট্যের উপর নির্ভর করে। প্রধানত, বনভূমিগুলোকে তিনটি প্রধান শ্রেণিতে ভাগ করা হয়— **coniferous**, **deciduous**, এবং **tropical**।\n\n**Coniferous** বন প্রধানত ঠাণ্ডা অঞ্চলে পাওয়া যায়, যেখানে **evergreen** গাছ বছরের পর বছর বেঁচে থাকে। এদের **canopy** ঘন এবং মাটি **fauna**-র জন্য গুরুত্বপূর্ণ **habitat** তৈরি করে। অন্যদিকে, **deciduous** বন মৌসুমি পরিবর্তনের সাথে তাল মিলিয়ে পত্রঝরা হয়। এখানে প্রচুর **biodiversity** থাকে, এবং এই বনের **flora** প্রতি বছর **succession** প্রক্রিয়ার মাধ্যমে পরিবর্তিত হয়। উষ্ণ এবং আর্দ্র অঞ্চলের **tropical** forests, যেমন আমাজন, প্রচুর **precipitation** পায় এবং এতে অনেক **endemic** প্রজাতির উদ্ভিদ ও প্রাণী বাস করে। এছাড়া, পার্বত্য অঞ্চলে **montane** forests এবং নদীর কাছাকাছি **riparian** forests পাওয়া যায়। তবে, অতিরিক্ত **deforestation** এবং **fragmentation** বনের অস্তিত্বকে হুমকির মুখে ফেলছে, যা প্রাকৃতিক **microclimate** এবং **understory** স্তরকে নষ্ট করছে। বন সংরক্ষণ ছাড়া পরিবেশের ভারসাম্য রক্ষা করা সম্ভব নয়।"
+    },
+    "list": [
+        {
+            "word": "arboreal",
+            "phonetic": "/ɑːrˈbɔːr.i.əl/",
+            "word_native_transliteration": {
+                "bn": "আর্বোরিয়াল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌳",
+            "meaning": "Relating to trees or living in trees; tree-dwelling.",
+            "example_sentence": "Monkeys are arboreal animals that spend most of their time in trees.",
+            "example_sentence_native_transliteration": {
+                "bn": "মাঙ্কিজ আর আর্বোরিয়াল অ্যানিমালস দ্যাট স্পেন্ড মোস্ট অফ দেয়ার টাইম ইন ট্রিজ।"
+            },
+            "position": 1,
+            "synonyms": "tree-dwelling, forest-related, woody",
+            "antonyms": "terrestrial, ground-dwelling, non-forest",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৃক্ষবাসী বা গাছসম্পর্কিত",
+                    "word_transliteration": "brikhkho-bashi ba gach-shomporkit",
+                    "example_sentence_translation": "বানর বৃক্ষবাসী প্রাণী যারা বেশিরভাগ সময় গাছে কাটায়।",
+                    "example_sentence_transliteration": "Banor brikhkho-bashi prani jara beshirbhag somoy gache katay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ecological",
+            "phonetic": "/ˌiː.kəˈlɒdʒ.ɪ.kəl/",
+            "word_native_transliteration": {
+                "bn": "ইকোলজিকাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌿",
+            "meaning": "Relating to ecology or the relationships between living organisms and their environment.",
+            "example_sentence": "The factory adopted ecological practices to reduce pollution.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফ্যাক্টরি অ্যাডপ্টেড ইকোলজিকাল প্র্যাক্টিসেস টু রিডিউস পলিউশন।"
+            },
+            "position": 2,
+            "synonyms": "environmental, green, sustainable",
+            "antonyms": "artificial, non-biological, man-made",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাস্তুসংস্থানগত বা পরিবেশ সম্পর্কিত",
+                    "word_transliteration": "bastushongsthan-got ba poribesh shomporkit",
+                    "example_sentence_translation": "কারখানটি দূষণ কমাতে পরিবেশগত অনুশীলন গ্রহণ করেছে।",
+                    "example_sentence_transliteration": "Karkhanti dushon komate poribeshgot onushilon grokhon koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "coniferous",
+            "phonetic": "/ˈkɒn.ɪ.fər.əs/",
+            "word_native_transliteration": {
+                "bn": "কনিফেরাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌲",
+            "meaning": "Relating to cone-bearing trees that usually have needle-like leaves and remain green year-round.",
+            "example_sentence": "Pine trees are coniferous and grow in colder climates.",
+            "example_sentence_native_transliteration": {
+                "bn": "পাইন ট্রিজ আর কনিফেরাস অ্যান্ড গ্রো ইন কোল্ডার ক্লাইমেটস।"
+            },
+            "position": 3,
+            "synonyms": "needle-leaved, pine-bearing, evergreen",
+            "antonyms": "deciduous, leaf-shedding, non-coniferous",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "শঙ্কুযুক্ত গাছ সম্পর্কিত",
+                    "word_transliteration": "shongku-jukto gach shomporkit",
+                    "example_sentence_translation": "পাইন গাছ শঙ্কুযুক্ত এবং শীতল জলবায়ুতে বৃদ্ধি পায়।",
+                    "example_sentence_transliteration": "Pain gach shongku-jukto ebong shitol jolbayu-te briddhi pay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "deciduous",
+            "phonetic": "/dɪˈsɪd.ju.əs/",
+            "word_native_transliteration": {
+                "bn": "ডিসিডুয়াস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🍂",
+            "meaning": "Referring to trees that shed their leaves seasonally, typically in autumn.",
+            "example_sentence": "Oak and maple trees are deciduous, shedding leaves in autumn.",
+            "example_sentence_native_transliteration": {
+                "bn": "ওক অ্যান্ড ম্যাপল ট্রিজ আর ডিসিডুয়াস, শেডিং লিভস ইন অটাম।"
+            },
+            "position": 4,
+            "synonyms": "leaf-shedding, seasonal, broad-leaved",
+            "antonyms": "evergreen, perennial, coniferous",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পর্ণমোচী বা মৌসুমি পাতা ঝরা",
+                    "word_transliteration": "pornomochi ba mousumi pata jhora",
+                    "example_sentence_translation": "ওক ও ম্যাপল গাছ পর্ণমোচী, যা শরতে পাতা ঝরিয়ে ফেলে।",
+                    "example_sentence_transliteration": "Oak o maple gach pornomochi, ja shorote pata jhoriye phele.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "tropical",
+            "phonetic": "/ˈtrɒp.ɪ.kəl/",
+            "word_native_transliteration": {
+                "bn": "ট্রপিকাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌴",
+            "meaning": "Relating to the tropics; characterized by hot and humid climate.",
+            "example_sentence": "The Amazon rainforest is home to many tropical species.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য আমাজন রেইনফরেস্ট ইজ হোম টু মেনি ট্রপিকাল স্পিসিজ।"
+            },
+            "position": 5,
+            "synonyms": "equatorial, hot-climate, humid",
+            "antonyms": "temperate, arctic, cold-climate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উষ্ণমণ্ডলীয় বা গরম অঞ্চলের",
+                    "word_transliteration": "ushno-mondoliya ba gorom onchol-er",
+                    "example_sentence_translation": "আমাজন বন বহু উষ্ণমণ্ডলীয় প্রজাতির আবাসস্থল।",
+                    "example_sentence_transliteration": "Amazon bon bohu ushno-mondoliya projatir abashsthal.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "evergreen",
+            "phonetic": "/ˈɛv.ə.ɡriːn/",
+            "word_native_transliteration": {
+                "bn": "এভারগ্রিন"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌲",
+            "meaning": "Remaining green and functional throughout the year; not shedding leaves seasonally.",
+            "example_sentence": "Evergreen trees like pine and fir stay green year-round.",
+            "example_sentence_native_transliteration": {
+                "bn": "এভারগ্রিন ট্রিজ লাইক পাইন অ্যান্ড ফার স্টে গ্রিন ইয়ার-রাউন্ড।"
+            },
+            "position": 6,
+            "synonyms": "perennial, constant, always-green",
+            "antonyms": "deciduous, seasonal, leaf-shedding",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চিরসবুজ বা সারা বছর পাতা যুক্ত",
+                    "word_transliteration": "chiroshabuj ba shara bochor pata jukto",
+                    "example_sentence_translation": "পাইন ও ফার গাছের মতো চিরসবুজ গাছ সারা বছর সবুজ থাকে।",
+                    "example_sentence_transliteration": "Pain o far gacher moto chiroshabuj gach shara bochor shabuj thake.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "canopy",
+            "phonetic": "/ˈkæn.ə.pi/",
+            "word_native_transliteration": {
+                "bn": "ক্যানোপি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌳",
+            "meaning": "The upper layer of a forest formed by the crowns of trees; overhead cover.",
+            "example_sentence": "The rainforest canopy provides shelter to many birds and insects.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রেইনফরেস্ট ক্যানোপি প্রোভাইডস শেল্টার টু মেনি বার্ডস অ্যান্ড ইনসেক্টস।"
+            },
+            "position": 7,
+            "synonyms": "overhead cover, tree cover, forest roof",
+            "antonyms": "understory, ground layer, open space",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গাছের উপরের স্তর বা ছাদ",
+                    "word_transliteration": "gacher uporer stor ba chad",
+                    "example_sentence_translation": "বৃষ্টিবনের গাছের ছাদ বহু পাখি ও পোকামাকড়ের আশ্রয়স্থল।",
+                    "example_sentence_transliteration": "Brishtiboner gacher chad bohu pakhi o pokamakorer ashroysthal.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fauna",
+            "phonetic": "/ˈfɔː.nə/",
+            "word_native_transliteration": {
+                "bn": "ফনা"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🦌",
+            "meaning": "The animal life of a particular region, habitat, or geological period.",
+            "example_sentence": "The fauna of the African savannah includes lions and elephants.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফনা অফ দ্য আফ্রিকান সাভান্না ইনক্লুডস লায়নস অ্যান্ড এলিফ্যান্টস।"
+            },
+            "position": 8,
+            "synonyms": "wildlife, animals, zoological life",
+            "antonyms": "flora, plants, vegetation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রাণীজগৎ বা নির্দিষ্ট অঞ্চলের প্রাণী",
+                    "word_transliteration": "pranijogtto ba nirdishto onchol-er prani",
+                    "example_sentence_translation": "আফ্রিকার সাভান্নার প্রাণীজগতে সিংহ ও হাতি রয়েছে।",
+                    "example_sentence_transliteration": "Afrikar savannar pranijogtote shingho o hati royeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "habitat",
+            "phonetic": "/ˈhæb.ɪ.tæt/",
+            "word_native_transliteration": {
+                "bn": "হ্যাবিট্যাট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏠",
+            "meaning": "The natural environment where an organism lives and meets its needs.",
+            "example_sentence": "The polar bear's natural habitat is the Arctic region.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য পোলার বিয়ারস ন্যাচারাল হ্যাবিট্যাট ইজ দ্য আর্কটিক রিজিয়ন।"
+            },
+            "position": 9,
+            "synonyms": "natural environment, ecosystem, living area",
+            "antonyms": "uninhabitable, artificial setting, displacement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আবাসস্থল বা বাসস্থান",
+                    "word_transliteration": "abashsthal ba bashsthan",
+                    "example_sentence_translation": "মেরু ভাল্লুকের প্রাকৃতিক আবাসস্থল হলো আর্কটিক অঞ্চল।",
+                    "example_sentence_transliteration": "Meru bhalluker prakritik abashsthal hollo Arctic onchol.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "biodiversity",
+            "phonetic": "/ˌbaɪ.əʊ.daɪˈvɜː.sɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "বায়োডাইভার্সিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌺",
+            "meaning": "The variety of plant and animal life in a particular habitat or ecosystem.",
+            "example_sentence": "Protecting biodiversity helps maintain ecological balance.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোটেক্টিং বায়োডাইভার্সিটি হেল্পস মেইনটেইন ইকোলজিকাল ব্যালান্স।"
+            },
+            "position": 10,
+            "synonyms": "biological variety, species richness, ecological diversity",
+            "antonyms": "extinction, homogeneity, monoculture",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "জীববৈচিত্র্য বা জীবজগতের বৈচিত্র্য",
+                    "word_transliteration": "jibboi-chitrryo ba jibjogot-er boi-chitrrryo",
+                    "example_sentence_translation": "জীববৈচিত্র্য সংরক্ষণ বাস্তুসংস্থানের ভারসাম্য বজায় রাখতে সহায়তা করে।",
+                    "example_sentence_transliteration": "Jibboi-chitrryo shongrokshon bastushongsthan-er bharshammyo bojay rakhte shohayota kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "flora",
+            "phonetic": "/ˈflɔː.rə/",
+            "word_native_transliteration": {
+                "bn": "ফ্লোরা"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌸",
+            "meaning": "The plant life found in a particular region or habitat.",
+            "example_sentence": "The Amazon rainforest is home to a vast flora diversity.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য আমাজন রেইনফরেস্ট ইজ হোম টু এ ভাস্ট ফ্লোরা ডাইভার্সিটি।"
+            },
+            "position": 11,
+            "synonyms": "plant life, vegetation, botany",
+            "antonyms": "fauna, wildlife, animals",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্ভিদজগৎ বা নির্দিষ্ট অঞ্চলের গাছপালা",
+                    "word_transliteration": "uddbhidjogtto ba nirdishto onchol-er gachpala",
+                    "example_sentence_translation": "আমাজন বন বিপুল উদ্ভিদ বৈচিত্র্যের আবাসস্থল।",
+                    "example_sentence_transliteration": "Amazon bon bipul uddbhid boi-chittyer abashsthal.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "succession",
+            "phonetic": "/səkˈsɛʃ.ən/",
+            "word_native_transliteration": {
+                "bn": "সাকসেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔄",
+            "meaning": "The process of ecological change in which one community of organisms is gradually replaced by another.",
+            "example_sentence": "Forest succession occurs when old ecosystems are replaced by new ones.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফরেস্ট সাকসেশন অকারস হোয়েন ওল্ড ইকোসিস্টেমস আর রিপ্লেসড বাই নিউ ওয়ানস।"
+            },
+            "position": 12,
+            "synonyms": "ecological progression, natural development, evolution",
+            "antonyms": "stagnation, unchangeability, constancy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাস্তুক্রম বা পরিবেশগত ক্রমবিকাশ",
+                    "word_transliteration": "bastukrom ba poribeshgot krombikar",
+                    "example_sentence_translation": "বনবাস্তু ক্রমবিকাশ ঘটে যখন পুরনো বাস্তুসংস্থান নতুন দ্বারা প্রতিস্থাপিত হয়।",
+                    "example_sentence_transliteration": "Bonbastu krombikar ghote jokhon purono bastushongsthan notun dwara protishthapito hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "precipitation",
+            "phonetic": "/prɪˌsɪp.ɪˈteɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "প্রিসিপিটেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌧️",
+            "meaning": "Water that falls from the atmosphere to the Earth's surface, including rain, snow, sleet, and hail.",
+            "example_sentence": "Heavy precipitation can cause flooding in low-lying areas.",
+            "example_sentence_native_transliteration": {
+                "bn": "হেভি প্রিসিপিটেশন ক্যান কজ ফ্লাডিং ইন লো-লায়িং এরিয়াস।"
+            },
+            "position": 13,
+            "synonyms": "rainfall, snowfall, moisture",
+            "antonyms": "aridity, dryness, drought",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৃষ্টিপাত বা অন্য ধরনের জলীয় অবক্ষেপন",
+                    "word_transliteration": "brishtipat ba onno dhoroner joliya obokshpepon",
+                    "example_sentence_translation": "অত্যধিক বৃষ্টিপাত নিচু এলাকায় বন্যার কারণ হতে পারে।",
+                    "example_sentence_transliteration": "Ottodhik brishtipat nichu elakay bonnyar karon hote pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "endemic",
+            "phonetic": "/ɛnˈdɛm.ɪk/",
+            "word_native_transliteration": {
+                "bn": "এনডেমিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🦘",
+            "meaning": "Native to and found only in a particular region; not occurring naturally elsewhere.",
+            "example_sentence": "The Bengal tiger is endemic to the Indian subcontinent.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য বেঙ্গল টাইগার ইজ এনডেমিক টু দ্য ইন্ডিয়ান সাবকন্টিনেন্ট।"
+            },
+            "position": 14,
+            "synonyms": "native, localized, indigenous",
+            "antonyms": "foreign, non-native, exotic",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "স্থানীয় বা নির্দিষ্ট অঞ্চলের জন্য স্বতন্ত্র",
+                    "word_transliteration": "sthaniya ba nirdishto onchol-er jonno shotontro",
+                    "example_sentence_translation": "বাংলার বাঘ ভারতীয় উপমহাদেশের জন্য স্থানীয়।",
+                    "example_sentence_transliteration": "Banglar bagh bharotiya upomohadeser jonno sthaniya.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "montane",
+            "phonetic": "/ˈmɒn.teɪn/",
+            "word_native_transliteration": {
+                "bn": "মনটেইন"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⛰️",
+            "meaning": "Relating to mountainous regions; found in mountain environments.",
+            "example_sentence": "Montane forests host a variety of unique species.",
+            "example_sentence_native_transliteration": {
+                "bn": "মনটেইন ফরেস্টস হোস্ট এ ভ্যারাইটি অফ ইউনিক স্পিসিজ।"
+            },
+            "position": 15,
+            "synonyms": "mountainous, highland, alpine",
+            "antonyms": "lowland, coastal, plains",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পর্বতসংক্রান্ত বা পাহাড়ি পরিবেশে সম্পর্কিত",
+                    "word_transliteration": "porbot-shongkranto ba pahari poribesh-e shomporkit",
+                    "example_sentence_translation": "পর্বতমালার বন বহু অনন্য প্রজাতির আবাসস্থল।",
+                    "example_sentence_transliteration": "Porbot-malar bon bohu ononnyo projatir abashsthal.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "riparian",
+            "phonetic": "/raɪˈpɛə.ri.ən/",
+            "word_native_transliteration": {
+                "bn": "রিপারিয়ান"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🏞️",
+            "meaning": "Relating to or situated on the banks of a river or other watercourse.",
+            "example_sentence": "Riparian vegetation helps prevent soil erosion along rivers.",
+            "example_sentence_native_transliteration": {
+                "bn": "রিপারিয়ান ভেজিটেশন হেল্পস প্রিভেন্ট সয়েল ইরোশন অ্যালং রিভারস।"
+            },
+            "position": 16,
+            "synonyms": "riverine, waterside, bank-related",
+            "antonyms": "inland, desert, dryland",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নদীতীরবর্তী বা জলাধারের আশপাশের অঞ্চল",
+                    "word_transliteration": "noditirborti ba joladhar-er ashpash-er onchol",
+                    "example_sentence_translation": "নদীতীরবর্তী গাছপালা মাটির ক্ষয় প্রতিরোধে সহায়ক।",
+                    "example_sentence_transliteration": "Noditirborti gachpala matir kshoy protirodhe shohayok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "deforestation",
+            "phonetic": "/ˌdiː.fɒr.ɪˈsteɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ডিফরেস্টেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🪓",
+            "meaning": "The action of clearing a wide area of trees; removal of forests.",
+            "example_sentence": "Deforestation leads to habitat loss and climate change.",
+            "example_sentence_native_transliteration": {
+                "bn": "ডিফরেস্টেশন লিডস টু হ্যাবিট্যাট লস অ্যান্ড ক্লাইমেট চেইঞ্জ।"
+            },
+            "position": 17,
+            "synonyms": "tree-cutting, land clearing, deforesting",
+            "antonyms": "reforestation, afforestation, forest preservation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বন নিধন বা গাছ কেটে ফেলা",
+                    "word_transliteration": "bon nidhon ba gach kete phela",
+                    "example_sentence_translation": "বন নিধন বাস্তুসংস্থান ধ্বংস ও জলবায়ু পরিবর্তনের কারণ হয়।",
+                    "example_sentence_transliteration": "Bon nidhon bastushongsthan dhongsho o jolbayu poribortoner karon hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fragmentation",
+            "phonetic": "/ˌfræɡ.mənˈteɪ.ʃən/",
+            "word_native_transliteration": {
+                "bn": "ফ্র্যাগমেন্টেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧩",
+            "meaning": "The process of breaking into fragments; division of habitat into isolated patches.",
+            "example_sentence": "Fragmentation of forests disrupts wildlife habitats.",
+            "example_sentence_native_transliteration": {
+                "bn": "ফ্র্যাগমেন্টেশন অফ ফরেস্টস ডিসরাপ্টস ওয়াইল্ডলাইফ হ্যাবিট্যাটস।"
+            },
+            "position": 18,
+            "synonyms": "division, separation, disintegration",
+            "antonyms": "integration, unification, continuity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিভাজন বা খণ্ডন",
+                    "word_transliteration": "bibhajon ba khandon",
+                    "example_sentence_translation": "বনভূমির বিভাজন বন্যপ্রাণীর বাসস্থানকে ব্যাহত করে।",
+                    "example_sentence_transliteration": "Bonbhumir bibhajon bonnypranir bashsthankhe bahhat kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "microclimate",
+            "phonetic": "/ˈmaɪ.krəʊˌklaɪ.mət/",
+            "word_native_transliteration": {
+                "bn": "মাইক্রোক্লাইমেট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌡️",
+            "meaning": "The climate of a small, specific area that differs from the surrounding climate.",
+            "example_sentence": "The microclimate in valleys is often cooler than in surrounding areas.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য মাইক্রোক্লাইমেট ইন ভ্যালিজ ইজ অফেন কুলার দ্যান ইন সারাউন্ডিং এরিয়াস।"
+            },
+            "position": 19,
+            "synonyms": "local climate, environmental niche, weather condition",
+            "antonyms": "global climate, uniformity, general weather",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ক্ষুদ্র জলবায়ু বা স্থানীয় আবহাওয়া",
+                    "word_transliteration": "kshudro jolbayu ba sthaniya abohawa",
+                    "example_sentence_translation": "উপত্যকার ক্ষুদ্র জলবায়ু আশপাশের অঞ্চলের চেয়ে প্রায়ই ঠান্ডা হয়।",
+                    "example_sentence_transliteration": "Upotykar kshudro jolbayu ashpasher onchol-er cheye prayoi thanda hoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "understory",
+            "phonetic": "/ˈʌn.dɚˌstɔː.ri/",
+            "word_native_transliteration": {
+                "bn": "আন্ডারস্টোরি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌿",
+            "meaning": "The layer of vegetation beneath the main canopy of a forest.",
+            "example_sentence": "The understory of a rainforest is home to small mammals and insects.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য আন্ডারস্টোরি অফ এ রেইনফরেস্ট ইজ হোম টু স্মল ম্যামেলস অ্যান্ড ইনসেক্টস।"
+            },
+            "position": 20,
+            "synonyms": "forest floor, lower vegetation, shrub layer",
+            "antonyms": "canopy, open space, upper layer",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিম্নস্তরীয় বনভূমি বা গাছপালার নিচের স্তর",
+                    "word_transliteration": "nimnosto-riya bonbhumi ba gachpalar nicher stor",
+                    "example_sentence_translation": "বৃষ্টিবনের নিম্নস্তর ছোট স্তন্যপায়ী প্রাণী ও পোকামাকড়ের আবাসস্থল।",
+                    "example_sentence_transliteration": "Brishtiboner nimnosto choto stonnopayii prani o pokamakorer abashsthal.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

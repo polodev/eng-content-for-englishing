@@ -1,0 +1,445 @@
+{
+    "position": 236,
+    "title_translation": {
+        "en": "Why Reading is a Great Hobby",
+        "bn": "কেন পড়া একটি দুর্দান্ত শখ"
+    },
+    "content_translation": {
+        "en": "Reading habits enhance a person's **acumen** and bring depth to thinking. It not only helps in acquiring knowledge but also enhances **aesthetic** understanding. When someone reads regularly, their **comprehension** ability improves and they become capable of **fathoming** complex concepts. Through reading, we learn to **discern** different opinions and **assimilate** new information. This is not just **empirical** knowledge, but it expands our **introspective** thinking. A **voracious** reader is always eager to learn something new. Their **repertoire** becomes enriched, making them more **eloquent**. Reading enhances our **nuanced** thinking ability, allowing us to understand reality without making **conjectures**. Reading plays a **quintessential** role in our mental development. It teaches us to be **meticulous** and helps us **extrapolate** the deeper meaning of life.",
+        "bn": "পড়ার অভ্যাস একজন মানুষের **acumen** বৃদ্ধি করে এবং চিন্তাধারায় গভীরতা আনে। এটি শুধুমাত্র জ্ঞান অর্জনের জন্য নয়, বরং **aesthetic** উপলব্ধিও বাড়ায়। যখন কেউ নিয়মিত বই পড়ে, তখন তার **comprehension** ক্ষমতা উন্নত হয় এবং সে জটিল ধারণা **fathom** করতে সক্ষম হয়। বই পড়ার মাধ্যমে আমরা বিভিন্ন মতামত **discern** করতে শিখি এবং নতুন তথ্য **assimilate** করি। এটি শুধু **empirical** জ্ঞান নয়, বরং আমাদের **introspective** চিন্তাভাবনাকে প্রসারিত করে। একজন **voracious** পাঠক সবসময় নতুন কিছু শেখার জন্য উদগ্রীব থাকে। তার **repertoire** সমৃদ্ধ হয়, যা তাকে আরও **eloquent** করে তোলে। পড়া আমাদের **nuanced** চিন্তার ক্ষমতা বৃদ্ধি করে, যাতে আমরা **conjecture** না করে বাস্তবতা বুঝতে পারি। বই পড়া আমাদের মানসিক বিকাশে **quintessential** ভূমিকা রাখে। এটি আমাদের **meticulous** হতে শেখায় এবং জীবনের গভীর অর্থ **extrapolate** করতে সাহায্য করে।"
+    },
+    "list": [
+        {
+            "word": "acumen",
+            "phonetic": "ˈæk.jʊ.mən",
+            "word_native_transliteration": {
+                "bn": "অ্যাক্যুমেন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧠",
+            "meaning": "The ability to make good judgments and quick decisions, typically in a particular domain; shrewdness; wisdom.",
+            "example_sentence": "His business acumen helped him build a successful empire.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ বিজনেস অ্যাক্যুমেন হেল্পড হিম বিল্ড এ সাকসেসফুল এম্পায়ার।"
+            },
+            "position": 1,
+            "synonyms": "insight, sharpness, intuition",
+            "antonyms": "ignorance, ineptitude, incompetence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সূক্ষ্ম বিচারক্ষমতা",
+                    "word_transliteration": "shukshmo bicharokkhomota",
+                    "example_sentence_translation": "তার ব্যবসায়িক প্রজ্ঞা তাকে সফল সাম্রাজ্য গড়তে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Tar byabsayik progga take shofol shamrajjo godte shahajjo koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "aesthetic",
+            "phonetic": "esˈθet.ɪk",
+            "word_native_transliteration": {
+                "bn": "এস্থেটিক"
+            },
+            "parts_of_speech": "adjective/noun",
+            "emoji": "🎨",
+            "meaning": "Concerned with beauty or the appreciation of beauty; having a sense of the beautiful.",
+            "example_sentence": "The aesthetic design of the building attracts many tourists.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য এস্থেটিক ডিজাইন অব দ্য বিল্ডিং অ্যাট্র্যাক্টস মেনি ট্যুরিস্টস।"
+            },
+            "position": 2,
+            "synonyms": "artistic, elegant, refined",
+            "antonyms": "unattractive, tasteless, unappealing",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সৌন্দর্যবোধ",
+                    "word_transliteration": "shoundarjobodh",
+                    "example_sentence_translation": "ভবনের সৌন্দর্যময় নকশা অনেক পর্যটককে আকৃষ্ট করে।",
+                    "example_sentence_transliteration": "Bhoboner shoundarjomoy noksha onek porjotokke akrishto kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "comprehension",
+            "phonetic": "ˌkɒm.prɪˈhen.ʃən",
+            "word_native_transliteration": {
+                "bn": "কমপ্রিহেনশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💡",
+            "meaning": "The action or capability of understanding something; the ability to understand.",
+            "example_sentence": "His comprehension of complex topics is remarkable.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ কমপ্রিহেনশন অব কমপ্লেক্স টপিকস ইজ রিমার্কেবল।"
+            },
+            "position": 3,
+            "synonyms": "understanding, grasp, interpretation",
+            "antonyms": "misinterpretation, confusion, incomprehension",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনুধাবন",
+                    "word_transliteration": "anudhaban",
+                    "example_sentence_translation": "জটিল বিষয়গুলোর প্রতি তার অনুধাবন ক্ষমতা অসাধারণ।",
+                    "example_sentence_transliteration": "Jotil bishoygulor proti tar anudhaban kkhomota oshadharon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "fathom",
+            "phonetic": "ˈfæð.əm",
+            "word_native_transliteration": {
+                "bn": "ফ্যাদম"
+            },
+            "parts_of_speech": "verb/noun",
+            "emoji": "🌊",
+            "meaning": "To understand after much thought; to measure the depth of water; to comprehend.",
+            "example_sentence": "It is difficult to fathom the depths of the ocean.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইট ইজ ডিফিকাল্ট টু ফ্যাদম দ্য ডেপথস অব দ্য ওশান।"
+            },
+            "position": 4,
+            "synonyms": "understand, gauge, discern",
+            "antonyms": "misunderstand, confuse, ignore",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উপলব্ধি করা",
+                    "word_transliteration": "upalabdhi kora",
+                    "example_sentence_translation": "সমুদ্রের গভীরতা অনুধাবন করা কঠিন।",
+                    "example_sentence_transliteration": "Shomudrer gobhirota anudhaban kora kothin.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "discern",
+            "phonetic": "dɪˈsɜːn",
+            "word_native_transliteration": {
+                "bn": "ডিসার্ন"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "👁️",
+            "meaning": "To perceive or recognize something; to distinguish with difficulty by sight or with the other senses.",
+            "example_sentence": "He could barely discern the distant figure in the fog.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি কুড বেয়ারলি ডিসার্ন দ্য ডিস্ট্যান্ট ফিগার ইন দ্য ফগ।"
+            },
+            "position": 5,
+            "synonyms": "perceive, differentiate, detect",
+            "antonyms": "overlook, ignore, neglect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পার্থক্য নির্ণয় করা",
+                    "word_transliteration": "parthokko nirnoy kora",
+                    "example_sentence_translation": "তিনি কুয়াশার মধ্যে দূরের অবয়বটি ঠিকমতো বুঝতে পারলেন না।",
+                    "example_sentence_transliteration": "Tini kuyashar modhye durer oboybti thikmoto bujhte parlen na.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "assimilate",
+            "phonetic": "əˈsɪm.ɪ.leɪt",
+            "word_native_transliteration": {
+                "bn": "অ্যাসিমিলেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🧩",
+            "meaning": "To take in and understand fully; to absorb and integrate ideas, knowledge, or experience.",
+            "example_sentence": "Immigrants often struggle to assimilate into a new culture.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইমিগ্র্যান্টস অফেন স্ট্রাগল টু অ্যাসিমিলেট ইনটু এ নিউ কালচার।"
+            },
+            "position": 6,
+            "synonyms": "absorb, integrate, incorporate",
+            "antonyms": "reject, misinterpret, isolate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আত্মস্থ করা",
+                    "word_transliteration": "atmoshtho kora",
+                    "example_sentence_translation": "অভিবাসীরা প্রায়ই নতুন সংস্কৃতির সাথে মানিয়ে নিতে কঠিন সময় পার করে।",
+                    "example_sentence_transliteration": "Obhibashira prayoi notun shongskritir shathe maniye nite kothin shomoy par kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "empirical",
+            "phonetic": "ɪmˈpɪr.ɪ.kəl",
+            "word_native_transliteration": {
+                "bn": "এমপিরিক্যাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔬",
+            "meaning": "Based on, concerned with, or verifiable by observation or experience rather than theory or pure logic.",
+            "example_sentence": "Scientific research relies on empirical evidence.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাইন্টিফিক রিসার্চ রিলাইজ অন এমপিরিক্যাল এভিডেন্স।"
+            },
+            "position": 7,
+            "synonyms": "practical, observational, experimental",
+            "antonyms": "theoretical, hypothetical, speculative",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অভিজ্ঞতালব্ধ",
+                    "word_transliteration": "obhiggoтalabdho",
+                    "example_sentence_translation": "বৈজ্ঞানিক গবেষণা বাস্তব অভিজ্ঞতালব্ধ প্রমাণের উপর নির্ভর করে।",
+                    "example_sentence_transliteration": "Boigganik gobeshona bastob obhiggoталabdho promaner upor nirbhor kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "introspective",
+            "phonetic": "ˌɪn.trəˈspek.tɪv",
+            "word_native_transliteration": {
+                "bn": "ইনট্রোস্পেকটিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🤔",
+            "meaning": "Characterized by or given to introspection; examining one's own thoughts and feelings.",
+            "example_sentence": "Writers tend to be highly introspective individuals.",
+            "example_sentence_native_transliteration": {
+                "bn": "রাইটার্স টেন্ড টু বি হাইলি ইনট্রোস্পেকটিভ ইন্ডিভিজুয়ালস।"
+            },
+            "position": 8,
+            "synonyms": "reflective, thoughtful, contemplative",
+            "antonyms": "shallow, unreflective, superficial",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আত্মবিশ্লেষণমূলক",
+                    "word_transliteration": "atmobishleshonmulok",
+                    "example_sentence_translation": "লেখকেরা সাধারণত অত্যন্ত আত্মবিশ্লেষণমূলক ব্যক্তি হয়ে থাকেন।",
+                    "example_sentence_transliteration": "Lekhokera sadharonoto ottonto atmobishleshonmulok bekti hoye thaken.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "voracious",
+            "phonetic": "vəˈreɪ.ʃəs",
+            "word_native_transliteration": {
+                "bn": "ভোরাসিয়াস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📚",
+            "meaning": "Having a very eager approach to an activity; wanting or devouring great quantities of food or having an insatiable appetite.",
+            "example_sentence": "He has a voracious appetite for knowledge.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি হ্যাজ এ ভোরাসিয়াস অ্যাপেটাইট ফর নলেজ।"
+            },
+            "position": 9,
+            "synonyms": "insatiable, ravenous, greedy",
+            "antonyms": "indifferent, apathetic, satisfied",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতিশয় ক্ষুধার্ত",
+                    "word_transliteration": "otishoy kkhudarto",
+                    "example_sentence_translation": "তার জ্ঞানের প্রতি অদম্য ক্ষুধা রয়েছে।",
+                    "example_sentence_transliteration": "Tar gganer proti odommo kkhudha royeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "repertoire",
+            "phonetic": "ˈrɛp.ə.twɑːr",
+            "word_native_transliteration": {
+                "bn": "রেপার্টোয়ার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎭",
+            "meaning": "A stock of plays, dances, or pieces that a company or a performer knows or is prepared to perform.",
+            "example_sentence": "The actor's repertoire includes both comedy and drama.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যাক্টরস রেপার্টোয়ার ইনক্লুডস বোথ কমেডি অ্যান্ড ড্রামা।"
+            },
+            "position": 10,
+            "synonyms": "inventory, collection, range",
+            "antonyms": "incompetence, scarcity, limitation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষতার সংগ্রহ",
+                    "word_transliteration": "dokkhtar shongroho",
+                    "example_sentence_translation": "অভিনেতার দক্ষতার সংগ্রহে কমেডি ও নাটক উভয়ই রয়েছে।",
+                    "example_sentence_transliteration": "Obhinatar dokkhtar shongrohe komedi o natok uboyoi royeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "eloquent",
+            "phonetic": "ˈɛl.ə.kwənt",
+            "word_native_transliteration": {
+                "bn": "এলোকুয়েন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🗣️",
+            "meaning": "Fluent or persuasive in speaking or writing; clearly expressing or indicating something.",
+            "example_sentence": "Her eloquent speech inspired the entire audience.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার এলোকুয়েন্ট স্পিচ ইনস্পায়ার্ড দ্য এন্টায়ার অডিয়েন্স।"
+            },
+            "position": 11,
+            "synonyms": "articulate, expressive, persuasive",
+            "antonyms": "inarticulate, mute, tongue-tied",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাকপটু",
+                    "word_transliteration": "bakpotu",
+                    "example_sentence_translation": "তার স্পষ্টভাষী বক্তৃতা পুরো দর্শকদের অনুপ্রাণিত করেছিল।",
+                    "example_sentence_transliteration": "Tar sposhtoвashi boktrita puro dorshokder onupranito korechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "nuanced",
+            "phonetic": "ˈnuː.ɑːnst",
+            "word_native_transliteration": {
+                "bn": "নুয়ান্সড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎨",
+            "meaning": "Characterized by subtle shades of meaning or expression; having or characterized by subtle and often appealingly complex qualities.",
+            "example_sentence": "His argument was nuanced and well-structured.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ আর্গুমেন্ট ওয়াজ নুয়ান্সড অ্যান্ড ওয়েল-স্ট্রাকচার্ড।"
+            },
+            "position": 12,
+            "synonyms": "subtle, refined, delicate",
+            "antonyms": "blunt, crude, simplistic",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সূক্ষ্ম পার্থক্য যুক্ত",
+                    "word_transliteration": "shukshmo parthokko jukto",
+                    "example_sentence_translation": "তার যুক্তিটি সূক্ষ্ম ও সুগঠিত ছিল।",
+                    "example_sentence_transliteration": "Tar juktiti shukshmo o shugothito chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "conjecture",
+            "phonetic": "kənˈdʒɛk.tʃər",
+            "word_native_transliteration": {
+                "bn": "কনজেকচার"
+            },
+            "parts_of_speech": "noun/verb",
+            "emoji": "🤷",
+            "meaning": "An opinion or conclusion formed on the basis of incomplete information; to form an opinion or supposition about something.",
+            "example_sentence": "The scientist's conjecture was later proven true.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সাইন্টিস্টস কনজেকচার ওয়াজ লেটার প্রুভেন ট্রু।"
+            },
+            "position": 13,
+            "synonyms": "speculation, hypothesis, guesswork",
+            "antonyms": "fact, certainty, evidence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনুমান",
+                    "word_transliteration": "onuman",
+                    "example_sentence_translation": "বিজ্ঞানীর অনুমান পরে সত্য প্রমাণিত হয়েছিল।",
+                    "example_sentence_transliteration": "Biggyanir onuman pore shatto promanito hoyechhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "quintessential",
+            "phonetic": "ˌkwɪn.tɪˈsɛn.ʃəl",
+            "word_native_transliteration": {
+                "bn": "কুইন্টিসেনশিয়াল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⭐",
+            "meaning": "Representing the most perfect or typical example of a quality or class; the essence of something in its purest form.",
+            "example_sentence": "Shakespeare is the quintessential English playwright.",
+            "example_sentence_native_transliteration": {
+                "bn": "শেক্সপিয়ার ইজ দ্য কুইন্টিসেনশিয়াল ইংলিশ প্লেরাইট।"
+            },
+            "position": 14,
+            "synonyms": "ultimate, ideal, classic",
+            "antonyms": "atypical, inferior, uncharacteristic",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সেরা উদাহরণ",
+                    "word_transliteration": "shera udaharon",
+                    "example_sentence_translation": "শেক্সপিয়ার ইংরেজি নাটকের প্রকৃষ্টতম উদাহরণ।",
+                    "example_sentence_transliteration": "Shakespeare Ingrezi natoker prokrishтotom udaharon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "meticulous",
+            "phonetic": "məˈtɪk.jʊ.ləs",
+            "word_native_transliteration": {
+                "bn": "মেটিকুলাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔍",
+            "meaning": "Showing great attention to detail; very careful and precise; characterized by extreme care and attention to detail.",
+            "example_sentence": "She is meticulous in her research and documentation.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি ইজ মেটিকুলাস ইন হার রিসার্চ অ্যান্ড ডকুমেন্টেশন।"
+            },
+            "position": 15,
+            "synonyms": "precise, thorough, diligent",
+            "antonyms": "careless, negligent, sloppy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতি সতর্ক",
+                    "word_transliteration": "oti shotorko",
+                    "example_sentence_translation": "তিনি গবেষণা ও নথিপত্রে অত্যন্ত নিখুঁত।",
+                    "example_sentence_transliteration": "Tini gobeshona o nothipotre ottonto nikhunto.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "extrapolate",
+            "phonetic": "ɪkˈstræp.ə.leɪt",
+            "word_native_transliteration": {
+                "bn": "এক্সট্রাপোলেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📊",
+            "meaning": "To extend the application of a method or conclusion to an unknown situation by assuming existing trends will continue.",
+            "example_sentence": "Scientists extrapolate climate trends based on past data.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাইন্টিস্টস এক্সট্রাপোলেট ক্লাইমেট ট্রেন্ডস বেসড অন পাস্ট ডেটা।"
+            },
+            "position": 16,
+            "synonyms": "infer, deduce, predict",
+            "antonyms": "misinterpret, guess, miscalculate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পূর্বানুমান করা",
+                    "word_transliteration": "purbanuman kora",
+                    "example_sentence_translation": "বিজ্ঞানীরা অতীত তথ্যের ভিত্তিতে জলবায়ুর প্রবণতা অনুমান করেন।",
+                    "example_sentence_transliteration": "Biggyanira otit tothyer bhittite jolbayur probonota onuman koren.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,553 @@
+{
+    "position": 227,
+    "title_translation": {
+        "en": "Time Management Tips for Students",
+        "bn": "শিক্ষার্থীদের জন্য সময় ব্যবস্থাপনা"
+    },
+    "content_translation": {
+        "en": "Time management for students is extremely important, especially when **procrastination** becomes their main problem. Many cannot maintain **diligence**, and as a result, they lose motivation before completing tasks. Therefore, being **meticulous** in time management is essential.\n\nAn **adroit** student properly **scrutinizes** their time and creates plans. By maintaining daily **punctuality**, stress can be significantly reduced. With **alacrity**, work can be completed quickly, and time is not wasted. Therefore, to finish work on time, it is necessary to **expedite**.\n\nOften students cannot maintain **perseverance** because they do not change their wrong and **erroneous** methods. For time management, it is necessary to be **cognizant** and maintaining **equilibrium** reduces the pressure of studying.\n\nThere should be **pragmatic** **allotment** for daily work and **adherence** must be ensured. When students are under mental pressure, **resilience** can be the key to their success. But often when things become **obfuscated**, time management fails and it becomes **inefficacious**.\n\nTherefore, **concurrent** tasks should be planned with **acumen**, so that time is not wasted and future success is ensured.",
+        "bn": "শিক্ষার্থীদের জন্য সময় ব্যবস্থাপনা অত্যন্ত গুরুত্বপূর্ণ, বিশেষ করে যখন **procrastination** তাদের প্রধান সমস্যা হয়ে দাঁড়ায়। অনেকেই **diligence** বজায় রাখতে পারে না, ফলে কাজ শেষ করার আগেই মনোযোগ হারিয়ে ফেলে। তাই সময় ব্যবস্থাপনায় **meticulous** হওয়া জরুরি।\n\nএকজন **adroit** শিক্ষার্থী তার সময়কে সঠিকভাবে **scrutinize** করে পরিকল্পনা তৈরি করে। প্রতিদিনের **punctuality** বজায় রাখতে পারলে, চাপ অনেক কমে যায়। **alacrity** থাকলে কাজ দ্রুত শেষ করা সম্ভব হয় এবং সময় নষ্ট হয় না। তাই সময়মতো কাজ শেষ করতে হলে **expedite** করা প্রয়োজন।\n\nঅনেক সময় শিক্ষার্থীরা **perseverance** ধরে রাখতে পারে না, কারণ তারা তাদের ভুল এবং **erroneous** পদ্ধতি পরিবর্তন করে না। সময় ব্যবস্থাপনার জন্য **cognizant** থাকা প্রয়োজন এবং **equilibrium** বজায় রাখলে পড়াশোনার চাপ কম অনুভূত হয়।\n\nপ্রতিদিনের কাজের জন্য **pragmatic** **allotment** থাকা উচিত এবং **adherence** নিশ্চিত করতে হবে। যখন শিক্ষার্থীরা মানসিক চাপে থাকে, তখন **resilience** তাদের সফলতার চাবিকাঠি হতে পারে। কিন্তু অনেক সময় **obfuscate** হয়ে পড়লে সময় ব্যবস্থাপনা ব্যর্থ হয় এবং এটি **inefficacious** হয়ে যায়।\n\nতাই **concurrent** কাজগুলো **acumen** দিয়ে পরিকল্পনা করা উচিত, যাতে সময় নষ্ট না হয় এবং ভবিষ্যতে সফলতা নিশ্চিত হয়।"
+    },
+    "list": [
+        {
+            "word": "procrastination",
+            "phonetic": "prəˌkræs.tɪˈneɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "প্রোক্র্যাস্টিনেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⏰",
+            "meaning": "The action of delaying or postponing something.",
+            "example_sentence": "Procrastination reduces productivity and increases stress.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রোক্র্যাস্টিনেশন প্রোডাক্টিভিটি রিডিউসেস অ্যান্ড ইনক্রিজেস স্ট্রেস।"
+            },
+            "position": 1,
+            "synonyms": "delay, postponement, hesitation",
+            "antonyms": "diligence, promptness, expediency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গড়িমসি, দেরি করা, কালক্ষেপণ",
+                    "word_transliteration": "gorimoshi, deri kora, kalkhshepon",
+                    "example_sentence_translation": "গড়িমসি উৎপাদনশীলতা কমায় এবং মানসিক চাপ বাড়ায়।",
+                    "example_sentence_transliteration": "Gorimoshi utpadonsheelota komay ebong manoshik chap baray.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "diligence",
+            "phonetic": "ˈdɪl.ɪ.dʒəns",
+            "word_native_transliteration": {
+                "bn": "ডিলিজেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "Careful and persistent work or effort.",
+            "example_sentence": "Success requires diligence and patience.",
+            "example_sentence_native_transliteration": {
+                "bn": "সাকসেস রিকোয়ার্স ডিলিজেন্স অ্যান্ড পেশেন্স।"
+            },
+            "position": 2,
+            "synonyms": "hard work, persistence, dedication",
+            "antonyms": "laziness, negligence, carelessness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অধ্যবসায়, পরিশ্রম, নিষ্ঠা",
+                    "word_transliteration": "addhyaboshay, porishrom, nishtha",
+                    "example_sentence_translation": "সফলতার জন্য অধ্যবসায় ও ধৈর্য প্রয়োজন।",
+                    "example_sentence_transliteration": "Shofolotar jonno addhyaboshay o dhoirjo proyojon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "meticulous",
+            "phonetic": "məˈtɪk.jə.ləs",
+            "word_native_transliteration": {
+                "bn": "মেটিকুলাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔍",
+            "meaning": "Showing great attention to detail; very careful and precise.",
+            "example_sentence": "He is meticulous in his work.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি ইজ মেটিকুলাস ইন হিজ ওয়ার্ক।"
+            },
+            "position": 3,
+            "synonyms": "precise, thorough, fastidious",
+            "antonyms": "careless, negligent, reckless",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতিরিক্ত যত্নবান, খুঁটিনাটি পর্যবেক্ষণকারী, সূক্ষ্মদর্শী",
+                    "word_transliteration": "otiriktyo jotnoban, khutinati porjobekshhonkari, shukhsmodorshi",
+                    "example_sentence_translation": "সে তার কাজে অত্যন্ত যত্নবান।",
+                    "example_sentence_transliteration": "She tar kaje ottonto jotnoban.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "adroit",
+            "phonetic": "əˈdrɔɪt",
+            "word_native_transliteration": {
+                "bn": "অ্যাড্রয়েট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎯",
+            "meaning": "Clever or skillful in using the hands or mind.",
+            "example_sentence": "She is adroit at solving complex problems.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি ইজ অ্যাড্রয়েট অ্যাট সলভিং কমপ্লেক্স প্রবলেমস।"
+            },
+            "position": 4,
+            "synonyms": "skillful, clever, dexterous",
+            "antonyms": "clumsy, incompetent, unskilled",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষ, নিপুণ, চালাক",
+                    "word_transliteration": "dokkho, nipun, chalak",
+                    "example_sentence_translation": "সে জটিল সমস্যা সমাধানে দক্ষ।",
+                    "example_sentence_transliteration": "She jotil shomoshya shomadhane dokkho.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "scrutinize",
+            "phonetic": "ˈskruː.tɪ.naɪz",
+            "word_native_transliteration": {
+                "bn": "স্ক্রুটিনাইজ"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔬",
+            "meaning": "Examine or inspect closely and thoroughly.",
+            "example_sentence": "The teacher scrutinized the students' assignments.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য টিচার স্ক্রুটিনাইজড দ্য স্টুডেন্টস অ্যাসাইনমেন্টস।"
+            },
+            "position": 5,
+            "synonyms": "examine, inspect, analyze",
+            "antonyms": "overlook, ignore, neglect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "খুঁটিয়ে দেখা, বিশ্লেষণ করা, গভীরভাবে পর্যবেক্ষণ করা",
+                    "word_transliteration": "khutiye dekha, bishleshshon kora, gobhirbhabe porjobekshhon kora",
+                    "example_sentence_translation": "শিক্ষক শিক্ষার্থীদের অ্যাসাইনমেন্ট খুঁটিয়ে দেখলেন।",
+                    "example_sentence_transliteration": "Shikkhok shikkharthider assignment khutiye dekhlen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "punctuality",
+            "phonetic": "ˌpʌŋk.tʃuˈæl.ə.t̬i",
+            "word_native_transliteration": {
+                "bn": "পাংকচুয়ালিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⏱️",
+            "meaning": "The fact or quality of being on time.",
+            "example_sentence": "Punctuality is a sign of professionalism.",
+            "example_sentence_native_transliteration": {
+                "bn": "পাংকচুয়ালিটি ইজ এ সাইন অব প্রফেশনালিজম।"
+            },
+            "position": 6,
+            "synonyms": "timeliness, promptness, regularity",
+            "antonyms": "tardiness, delay, irresponsibility",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সময়নিষ্ঠতা, যথাসময়ে উপস্থিতি, শৃঙ্খলা",
+                    "word_transliteration": "shomoynishthhota, jothashtomoy uposthiti, shringkhola",
+                    "example_sentence_translation": "সময়নিষ্ঠতা পেশাদারিত্বের লক্ষণ।",
+                    "example_sentence_transliteration": "Shomoynishthhota peshadarittyer lokhshon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "alacrity",
+            "phonetic": "əˈlæk.rə.t̬i",
+            "word_native_transliteration": {
+                "bn": "অ্যালাক্রিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "Brisk and cheerful readiness.",
+            "example_sentence": "He accepted the challenge with alacrity.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি অ্যাকসেপ্টেড দ্য চ্যালেঞ্জ উইথ অ্যালাক্রিটি।"
+            },
+            "position": 7,
+            "synonyms": "eagerness, enthusiasm, readiness",
+            "antonyms": "lethargy, slowness, indifference",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্দীপনা, চটপট করা, উৎসাহ",
+                    "word_transliteration": "uddipona, chotpot kora, utsaho",
+                    "example_sentence_translation": "সে উদ্দীপনার সাথে চ্যালেঞ্জটি গ্রহণ করল।",
+                    "example_sentence_transliteration": "She uddiponar shathe challengeti grohon korol.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "expedite",
+            "phonetic": "ˈek.spə.daɪt",
+            "word_native_transliteration": {
+                "bn": "এক্সপেডাইট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🚀",
+            "meaning": "Make an action or process happen sooner or be accomplished more quickly.",
+            "example_sentence": "The manager expedited the approval process.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ম্যানেজার এক্সপেডাইটেড দ্য অ্যাপ্রুভাল প্রসেস।"
+            },
+            "position": 8,
+            "synonyms": "accelerate, hasten, facilitate",
+            "antonyms": "delay, slow down, hinder",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্রুত করা, গতিশীল করা, ত্বরান্বিত করা",
+                    "word_transliteration": "druto kora, gotisheel kora, ttoranbit kora",
+                    "example_sentence_translation": "ম্যানেজার অনুমোদন প্রক্রিয়াটি দ্রুত করলেন।",
+                    "example_sentence_transliteration": "Manager onumodon prokiyati druto korlen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "perseverance",
+            "phonetic": "ˌpɝː.səˈvɪr.əns",
+            "word_native_transliteration": {
+                "bn": "পারসিভিরেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏔️",
+            "meaning": "Persistence in doing something despite difficulty or delay in achieving success.",
+            "example_sentence": "Perseverance is key to success.",
+            "example_sentence_native_transliteration": {
+                "bn": "পারসিভিরেন্স ইজ কি টু সাকসেস।"
+            },
+            "position": 9,
+            "synonyms": "determination, persistence, endurance",
+            "antonyms": "giving up, weakness, inconsistency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অধ্যবসায়, ধৈর্য, লেগে থাকা",
+                    "word_transliteration": "addhyaboshay, dhoirjo, lege thaka",
+                    "example_sentence_translation": "সফলতার মূল চাবিকাঠি অধ্যবসায়।",
+                    "example_sentence_transliteration": "Shofolotar mul chabikathi addhyaboshay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "erroneous",
+            "phonetic": "ɪˈroʊ.ni.əs",
+            "word_native_transliteration": {
+                "bn": "এরোনিয়াস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "❌",
+            "meaning": "Wrong; incorrect.",
+            "example_sentence": "His assumptions were completely erroneous.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ অ্যাসামশনস ওয়ার কমপ্লিটলি এরোনিয়াস।"
+            },
+            "position": 10,
+            "synonyms": "incorrect, false, misleading",
+            "antonyms": "accurate, correct, valid",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভুল, ত্রুটিপূর্ণ, ভুল তথ্য যুক্ত",
+                    "word_transliteration": "bhul, trutipurno, bhul tothyo jukto",
+                    "example_sentence_translation": "তার অনুমান সম্পূর্ণ ভুল ছিল।",
+                    "example_sentence_transliteration": "Tar onuman shompurno bhul chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cognizant",
+            "phonetic": "ˈkɑːɡ.nɪ.zənt",
+            "word_native_transliteration": {
+                "bn": "কগনিজেন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🧠",
+            "meaning": "Having knowledge or being aware of.",
+            "example_sentence": "He is cognizant of the risks involved.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি ইজ কগনিজেন্ট অব দ্য রিস্কস ইনভলভড।"
+            },
+            "position": 11,
+            "synonyms": "aware, informed, conscious",
+            "antonyms": "unaware, oblivious, ignorant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সচেতন, জ্ঞাত, অবগত",
+                    "word_transliteration": "shocheton, gyato, obogoto",
+                    "example_sentence_translation": "সে ঝুঁকির ব্যাপারে সচেতন।",
+                    "example_sentence_transliteration": "She jhukir byapare shocheton.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "equilibrium",
+            "phonetic": "ˌiː.kwəˈlɪb.ri.əm",
+            "word_native_transliteration": {
+                "bn": "ইকুইলিব্রিয়াম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚖️",
+            "meaning": "A state in which opposing forces or influences are balanced.",
+            "example_sentence": "The ecosystem maintains a natural equilibrium.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইকোসিস্টেম মেইনটেইনস এ ন্যাচারাল ইকুইলিব্রিয়াম।"
+            },
+            "position": 12,
+            "synonyms": "balance, stability, harmony",
+            "antonyms": "imbalance, instability, disorder",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভারসাম্য, সাম্যাবস্থা, স্থিতিশীলতা",
+                    "word_transliteration": "bharshamy, shamyabostha, sthitisheelyata",
+                    "example_sentence_translation": "পরিবেশ একটি প্রাকৃতিক ভারসাম্য বজায় রাখে।",
+                    "example_sentence_transliteration": "Poribesh ekti prakritik bharshamy bojay rakhe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pragmatic",
+            "phonetic": "præɡˈmæt̬.ɪk",
+            "word_native_transliteration": {
+                "bn": "প্র্যাগম্যাটিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔧",
+            "meaning": "Dealing with things sensibly and realistically in a way that is based on practical rather than idealistic considerations.",
+            "example_sentence": "She took a pragmatic approach to solving the issue.",
+            "example_sentence_native_transliteration": {
+                "bn": "শি টুক এ প্র্যাগম্যাটিক অ্যাপ্রোচ টু সলভিং দ্য ইস্যু।"
+            },
+            "position": 13,
+            "synonyms": "practical, realistic, logical",
+            "antonyms": "idealistic, impractical, unrealistic",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাস্তববাদী, বাস্তবমুখী, কর্মক্ষম",
+                    "word_transliteration": "bastobadi, bastobmukhi, kormokhshom",
+                    "example_sentence_translation": "সে সমস্যাটি সমাধানে বাস্তববাদী পদ্ধতি গ্রহণ করল।",
+                    "example_sentence_transliteration": "She shomoshyati shomadhane bastobadi poddhoti grohon korol.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "allotment",
+            "phonetic": "əˈlɑːt.mənt",
+            "word_native_transliteration": {
+                "bn": "অ্যালটমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "The action of distributing or sharing something out among a number of recipients.",
+            "example_sentence": "The government announced the allotment of funds.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গভর্নমেন্ট অ্যানাউন্সড দ্য অ্যালটমেন্ট অব ফান্ডস।"
+            },
+            "position": 14,
+            "synonyms": "allocation, distribution, share",
+            "antonyms": "withholding, retention, denial",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বণ্টন, বরাদ্দ, অংশ প্রদান",
+                    "word_transliteration": "bonton, boroddo, ongsh prodan",
+                    "example_sentence_translation": "সরকার অর্থ বরাদ্দ ঘোষণা করেছে।",
+                    "example_sentence_transliteration": "Shorkar ortho boroddo ghoshona koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "adherence",
+            "phonetic": "ədˈhɪr.əns",
+            "word_native_transliteration": {
+                "bn": "অ্যাডহিয়ারেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "Attachment or commitment to a person, cause, or belief.",
+            "example_sentence": "Strict adherence to rules ensures discipline.",
+            "example_sentence_native_transliteration": {
+                "bn": "স্ট্রিক্ট অ্যাডহিয়ারেন্স টু রুলস এনশুরস ডিসিপ্লিন।"
+            },
+            "position": 15,
+            "synonyms": "compliance, devotion, fidelity",
+            "antonyms": "disregard, neglect, rebellion",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আনুগত্য, দৃঢ়তা, অটল থাকা",
+                    "word_transliteration": "anugotyo, dridhota, otol thaka",
+                    "example_sentence_translation": "নিয়মের প্রতি কঠোর আনুগত্য শৃঙ্খলা নিশ্চিত করে।",
+                    "example_sentence_transliteration": "Niyomer proti kothor anugotyo shringkhola nishchit kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "resilience",
+            "phonetic": "rɪˈzɪl.jəns",
+            "word_native_transliteration": {
+                "bn": "রেজিলিয়েন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛡️",
+            "meaning": "The ability to recover quickly from difficulties; toughness.",
+            "example_sentence": "Her resilience helped her overcome adversity.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার রেজিলিয়েন্স হেল্পড হার ওভারকাম অ্যাডভার্সিটি।"
+            },
+            "position": 16,
+            "synonyms": "endurance, fortitude, toughness",
+            "antonyms": "fragility, weakness, vulnerability",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহনশীলতা, স্থিতিস্থাপকতা, মানসিক দৃঢ়তা",
+                    "word_transliteration": "shohonshilota, sthitisthapoktya, manoshik dridhota",
+                    "example_sentence_translation": "তার সহনশীলতা তাকে প্রতিকূলতা কাটিয়ে উঠতে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Tar shohonshilota take protikulty katiye uthte shahajjo koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "obfuscate",
+            "phonetic": "ˈɑːb.fə.skeɪt",
+            "word_native_transliteration": {
+                "bn": "অবফাস্কেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🌫️",
+            "meaning": "Render obscure, unclear, or unintelligible.",
+            "example_sentence": "Politicians often obfuscate facts to mislead people.",
+            "example_sentence_native_transliteration": {
+                "bn": "পলিটিশিয়ানস অফেন অবফাস্কেট ফ্যাক্টস টু মিসলিড পিপল।"
+            },
+            "position": 17,
+            "synonyms": "confuse, muddle, complicate",
+            "antonyms": "clarify, simplify, illuminate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিভ্রান্ত করা, জটিল করে তোলা, অস্পষ্ট করা",
+                    "word_transliteration": "bibhranto kora, jotil kore tola, oshposhto kora",
+                    "example_sentence_translation": "রাজনীতিবিদরা প্রায়শই মানুষকে বিভ্রান্ত করতে তথ্য জটিল করে তোলেন।",
+                    "example_sentence_transliteration": "Rajnitibidra prayshoi manushke bibhranto korte tothyo jotil kore tolen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "inefficacious",
+            "phonetic": "ˌɪn.ɪ.fɪˈkeɪ.ʃəs",
+            "word_native_transliteration": {
+                "bn": "ইনএফিকেশিয়াস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "❌",
+            "meaning": "Not producing any or the desired effect; ineffective.",
+            "example_sentence": "The treatment was inefficacious in curing the disease.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ট্রিটমেন্ট ওয়াজ ইনএফিকেশিয়াস ইন কিউরিং দ্য ডিজিজ।"
+            },
+            "position": 18,
+            "synonyms": "ineffective, futile, useless",
+            "antonyms": "effective, powerful, productive",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অকার্যকর, নিষ্প্রভ, ফলহীন",
+                    "word_transliteration": "akarjyokor, nishprobho, pholhin",
+                    "example_sentence_translation": "চিকিৎসাটি রোগ নিরাময়ে অকার্যকর ছিল।",
+                    "example_sentence_transliteration": "Chikitsati rog niramoy akarjyokor chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "concurrent",
+            "phonetic": "kənˈkɝː.ənt",
+            "word_native_transliteration": {
+                "bn": "কনকারেন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⏩",
+            "meaning": "Existing, happening, or done at the same time.",
+            "example_sentence": "The conference had concurrent sessions on various topics.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কনফারেন্স হ্যাড কনকারেন্ট সেশনস অন ভেরিয়াস টপিক্স।"
+            },
+            "position": 19,
+            "synonyms": "simultaneous, coinciding, parallel",
+            "antonyms": "separate, successive, distinct",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একইসঙ্গে সংঘটিত, সমসাময়িক, একযোগে বিদ্যমান",
+                    "word_transliteration": "ekishonge shonghotito, shomoshayik, ekyoge bidyoman",
+                    "example_sentence_translation": "সম্মেলনে বিভিন্ন বিষয়ে সমসাময়িক অধিবেশন ছিল।",
+                    "example_sentence_transliteration": "Shommelone bibhinno bishoy shomoshayik odhibeshon chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "acumen",
+            "phonetic": "ˈæk.jə.mən",
+            "word_native_transliteration": {
+                "bn": "অ্যাকিউমেন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧩",
+            "meaning": "The ability to make good judgments and quick decisions, typically in a particular domain.",
+            "example_sentence": "His business acumen made him a successful entrepreneur.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ বিজনেস অ্যাকিউমেন মেইড হিম এ সাকসেসফুল এন্ট্রাপ্রেনার।"
+            },
+            "position": 20,
+            "synonyms": "insight, sharpness, shrewdness",
+            "antonyms": "ignorance, foolishness, incompetence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "তীক্ষ্ণ বুদ্ধি, দূরদৃষ্টি, সূক্ষ্ম বিচারশক্তি",
+                    "word_transliteration": "tikshno buddhi, durdristi, shukhsmo bicharshokti",
+                    "example_sentence_translation": "তার ব্যবসায়িক দূরদৃষ্টি তাকে সফল উদ্যোক্তায় পরিণত করেছে।",
+                    "example_sentence_transliteration": "Tar byaboshayik durdristi take shofol uddyoktay porinoto koreche.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

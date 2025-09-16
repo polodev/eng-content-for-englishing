@@ -1,0 +1,472 @@
+{
+    "position": 228,
+    "title_translation": {
+        "en": "Tracking Progress Towards Your Goals",
+        "bn": "লক্ষ্য অর্জনের জন্য Tracking Progress"
+    },
+    "content_translation": {
+        "en": "**Tracking progress** is extremely important for achieving goals. If we don't conduct regular **appraisal**, it becomes difficult to understand our improvement.\n\nFirst, to achieve goals, it's necessary to set a **benchmark** so we know where our **milestone** is. Often, we **deviate** and go on other paths, which creates **impediment** for us. Therefore, using **foresight** to plan is appropriate so that our work gets **expedited**.\n\nWhen we become slow in achieving goals, we must avoid **complacency** and maintain **diligence**. Our progress must be **quantifiable** so that **discrepancy** can be understood and necessary **mitigation** measures can be taken.\n\nFor a successful plan, we should **scrutinize** and **augment** development through **meticulous** analysis. If we maintain **perseverance**, achieving goals is possible.",
+        "bn": "লক্ষ্য অর্জনের জন্য **tracking progress** অত্যন্ত গুরুত্বপূর্ণ। যদি আমরা নিয়মিত **appraisal** না করি, তবে আমাদের উন্নতি বোঝা কঠিন হয়ে যায়।\n\nপ্রথম ধাপে, লক্ষ্য অর্জনের জন্য একটি **benchmark** সেট করা প্রয়োজন, যাতে আমরা জানি আমাদের **milestone** কোথায়। অনেক সময়, আমরা **deviate** করে অন্য পথে চলে যাই, যা আমাদের **impediment** তৈরি করে। তাই, **foresight** ব্যবহার করে পরিকল্পনা করা উচিত, যাতে আমাদের কাজগুলো **expedite** হয়।\n\nযখন আমরা লক্ষ্য অর্জনে ধীরগতির হয়ে যাই, তখন **complacency** এড়িয়ে যেতে হবে এবং **diligence** বজায় রাখতে হবে। আমাদের উন্নতি **quantifiable** হতে হবে, যাতে **discrepancy** বোঝা যায় এবং প্রয়োজনীয় **mitigate** ব্যবস্থা নেওয়া যায়।\n\nএকটি সফল পরিকল্পনার জন্য, আমাদের উচিত **scrutiny** করা এবং **meticulous** বিশ্লেষণের মাধ্যমে উন্নয়ন **augment** করা। যদি আমরা **perseverance** বজায় রাখি, তবে লক্ষ্য অর্জন সম্ভব।"
+    },
+    "list": [
+        {
+            "word": "tracking progress",
+            "phonetic": "ˈtrækɪŋ ˈprɒɡrɛs",
+            "word_native_transliteration": {
+                "bn": "ট্র্যাকিং প্রোগ্রেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "The process of monitoring and evaluating advancement towards goals or objectives.",
+            "example_sentence": "Regular tracking progress helps in achieving long-term goals.",
+            "example_sentence_native_transliteration": {
+                "bn": "রেগুলার ট্র্যাকিং প্রোগ্রেস হেল্পস ইন অ্যাচিভিং লং-টার্ম গোলস।"
+            },
+            "position": 1,
+            "synonyms": "monitoring, evaluation",
+            "antonyms": "neglect, ignorance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উন্নতির পরিমাপ",
+                    "word_transliteration": "unnoti'r porima'p",
+                    "example_sentence_translation": "নিয়মিত ট্র্যাকিং প্রোগ্রেস দীর্ঘমেয়াদী লক্ষ্য অর্জনে সহায়ক।",
+                    "example_sentence_transliteration": "Niyomit tracking progress dirghomeyadi lokkhyo orjone sahayok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "appraisal",
+            "phonetic": "əˈpreɪ.zəl",
+            "word_native_transliteration": {
+                "bn": "অ্যাপ্রেইজাল"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📋",
+            "meaning": "An assessment or evaluation of performance or quality.",
+            "example_sentence": "The annual appraisal determines salary increments.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য অ্যানুয়াল অ্যাপ্রেইজাল ডিটারমাইনস স্যালারি ইনক্রিমেন্টস।"
+            },
+            "position": 2,
+            "synonyms": "assessment, evaluation",
+            "antonyms": "misjudgment, overlooking",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মূল্যায়ন",
+                    "word_transliteration": "mulyayon",
+                    "example_sentence_translation": "বার্ষিক অ্যাপ্রেইজাল বেতন বৃদ্ধির নির্ধারক।",
+                    "example_sentence_transliteration": "Barshik appraisal beton briddhir nirdharak.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "benchmark",
+            "phonetic": "ˈbɛntʃ.mɑːk",
+            "word_native_transliteration": {
+                "bn": "বেঞ্চমার্ক"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "A standard or point of reference for comparison or measurement.",
+            "example_sentence": "This product sets a new benchmark in technology.",
+            "example_sentence_native_transliteration": {
+                "bn": "দিস প্রোডাক্ট সেটস এ নিউ বেঞ্চমার্ক ইন টেকনোলজি।"
+            },
+            "position": 3,
+            "synonyms": "standard, yardstick",
+            "antonyms": "irregularity, variance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মানদণ্ড",
+                    "word_transliteration": "mandondo",
+                    "example_sentence_translation": "এই পণ্য প্রযুক্তিতে নতুন বেঞ্চমার্ক স্থাপন করেছে।",
+                    "example_sentence_transliteration": "Ei ponyo proyuktite notun benchmark sthapan koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "milestone",
+            "phonetic": "ˈmaɪl.stəʊn",
+            "word_native_transliteration": {
+                "bn": "মাইলস্টোন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏆",
+            "meaning": "An important achievement or stage in a process or journey.",
+            "example_sentence": "Winning this award is a milestone in his career.",
+            "example_sentence_native_transliteration": {
+                "bn": "উইনিং দিস অ্যাওয়ার্ড ইজ এ মাইলস্টোন ইন হিজ ক্যারিয়ার।"
+            },
+            "position": 4,
+            "synonyms": "landmark, breakthrough",
+            "antonyms": "setback, obstacle",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গুরুত্বপূর্ণ অর্জন",
+                    "word_transliteration": "guruttvopurno orjon",
+                    "example_sentence_translation": "এই পুরস্কার জয় তার ক্যারিয়ারের একটি মাইলস্টোন।",
+                    "example_sentence_transliteration": "Ei puroskar joy tar careerer ekti milestone.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "deviate",
+            "phonetic": "ˈdiː.vi.eɪt",
+            "word_native_transliteration": {
+                "bn": "ডিভিয়েট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "↩️",
+            "meaning": "To depart from an established course or normal pattern.",
+            "example_sentence": "He tends to deviate from the original plan.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি টেন্ডস টু ডিভিয়েট ফ্রম দ্য অরিজিনাল প্ল্যান।"
+            },
+            "position": 5,
+            "synonyms": "diverge, stray",
+            "antonyms": "conform, follow",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পথচ্যুত হওয়া",
+                    "word_transliteration": "pothchyut houa",
+                    "example_sentence_translation": "তিনি মূল পরিকল্পনা থেকে ডিভিয়েট করার প্রবণতা রাখেন।",
+                    "example_sentence_transliteration": "Tini mul porikolpona theke deviate korar probonota rakhen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "impediment",
+            "phonetic": "ɪmˈpɛd.ɪ.mənt",
+            "word_native_transliteration": {
+                "bn": "ইমপেডিমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚧",
+            "meaning": "A hindrance or obstruction in doing something.",
+            "example_sentence": "Lack of funds is a major impediment to the project.",
+            "example_sentence_native_transliteration": {
+                "bn": "ল্যাক অব ফান্ডস ইজ এ মেজর ইমপেডিমেন্ট টু দ্য প্রজেক্ট।"
+            },
+            "position": 6,
+            "synonyms": "obstruction, barrier",
+            "antonyms": "assistance, facilitation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিবন্ধকতা",
+                    "word_transliteration": "protibondhokota",
+                    "example_sentence_translation": "অর্থের অভাব প্রকল্পের প্রধান ইমপেডিমেন্ট।",
+                    "example_sentence_transliteration": "Orther abhab prokolper prodhan impediment.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "foresight",
+            "phonetic": "ˈfɔː.saɪt",
+            "word_native_transliteration": {
+                "bn": "ফোরসাইট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔮",
+            "meaning": "The ability to predict or the action of predicting what will happen or be needed in the future.",
+            "example_sentence": "His foresight helped the company avoid a financial crisis.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ফোরসাইট হেল্পড দ্য কোম্পানি অ্যাভয়েড এ ফাইন্যান্সিয়াল ক্রাইসিস।"
+            },
+            "position": 7,
+            "synonyms": "vision, anticipation",
+            "antonyms": "shortsightedness, hindsight",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দূরদৃষ্টি",
+                    "word_transliteration": "durdrishti",
+                    "example_sentence_translation": "তার ফোরসাইট কোম্পানিকে আর্থিক সংকট থেকে বাঁচিয়েছে।",
+                    "example_sentence_transliteration": "Tar foresight companike arthik sonkot theke bachiyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "expedite",
+            "phonetic": "ˈɛk.spɪ.daɪt",
+            "word_native_transliteration": {
+                "bn": "এক্সপিডাইট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⚡",
+            "meaning": "To make an action or process happen sooner or be accomplished more quickly.",
+            "example_sentence": "The new policy will expedite the approval process.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিউ পলিসি উইল এক্সপিডাইট দ্য অ্যাপ্রুভাল প্রসেস।"
+            },
+            "position": 8,
+            "synonyms": "accelerate, facilitate",
+            "antonyms": "delay, hinder",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্রুততর করা",
+                    "word_transliteration": "druttotor kora",
+                    "example_sentence_translation": "নতুন নীতিমালা অনুমোদন প্রক্রিয়া এক্সপিডাইট করবে।",
+                    "example_sentence_transliteration": "Notun nitimala onumodon prokriya expedite korbe.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "complacency",
+            "phonetic": "kəmˈpleɪ.sən.si",
+            "word_native_transliteration": {
+                "bn": "কমপ্লেসেন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "😴",
+            "meaning": "A feeling of smug or uncritical satisfaction with oneself or one's achievements.",
+            "example_sentence": "Complacency can lead to stagnation in personal growth.",
+            "example_sentence_native_transliteration": {
+                "bn": "কমপ্লেসেন্সি ক্যান লিড টু স্ট্যাগনেশন ইন পার্সোনাল গ্রোথ।"
+            },
+            "position": 9,
+            "synonyms": "smugness, satisfaction",
+            "antonyms": "determination, ambition",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "আত্মতুষ্টি",
+                    "word_transliteration": "attotushti",
+                    "example_sentence_translation": "কমপ্লেসেন্সি ব্যক্তিগত উন্নতিতে স্থবিরতা সৃষ্টি করতে পারে।",
+                    "example_sentence_transliteration": "Complacency byoktigot unnotite sthobirota srishti korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "diligence",
+            "phonetic": "ˈdɪl.ɪ.dʒəns",
+            "word_native_transliteration": {
+                "bn": "ডিলিজেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "Careful and persistent work or effort.",
+            "example_sentence": "His diligence led to remarkable success in his career.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ডিলিজেন্স লেড টু রিমার্কেবল সাকসেস ইন হিজ ক্যারিয়ার।"
+            },
+            "position": 10,
+            "synonyms": "persistence, assiduity",
+            "antonyms": "negligence, laziness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অধ্যবসায়",
+                    "word_transliteration": "odhyoboshay",
+                    "example_sentence_translation": "তার ডিলিজেন্স ক্যারিয়ারে অসাধারণ সাফল্য এনেছে।",
+                    "example_sentence_transliteration": "Tar diligence careere oshadharon shafolyo eneche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "quantifiable",
+            "phonetic": "ˈkwɒn.tɪ.faɪ.ə.bəl",
+            "word_native_transliteration": {
+                "bn": "কোয়ান্টিফায়েবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📏",
+            "meaning": "Able to be expressed or measured as a quantity.",
+            "example_sentence": "Sales performance should be quantifiable to measure progress.",
+            "example_sentence_native_transliteration": {
+                "bn": "সেলস পারফরমেন্স শুড বি কোয়ান্টিফায়েবল টু মেজার প্রোগ্রেস।"
+            },
+            "position": 11,
+            "synonyms": "measurable, assessable",
+            "antonyms": "unquantifiable, intangible",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিমাপযোগ্য",
+                    "word_transliteration": "porimapjogyo",
+                    "example_sentence_translation": "বিক্রয় কার্যকারিতা কোয়ান্টিফায়েবল হওয়া উচিত উন্নতি পরিমাপের জন্য।",
+                    "example_sentence_transliteration": "Bikroy karjokarota quantifiable howa uchit unnoti porimaper jonyo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "discrepancy",
+            "phonetic": "dɪˈskrep.ən.si",
+            "word_native_transliteration": {
+                "bn": "ডিসক্রেপেন্সি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "❗",
+            "meaning": "A lack of compatibility or similarity between two or more facts.",
+            "example_sentence": "The discrepancy in the reports raised suspicion.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডিসক্রেপেন্সি ইন দ্য রিপোর্টস রেইজড সাসপিশন।"
+            },
+            "position": 12,
+            "synonyms": "inconsistency, divergence",
+            "antonyms": "consistency, agreement",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পার্থক্য",
+                    "word_transliteration": "parthokyo",
+                    "example_sentence_translation": "রিপোর্টের ডিসক্রেপেন্সি সন্দেহ তৈরি করল।",
+                    "example_sentence_transliteration": "Reporter discrepancy sondeh tori korol.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "mitigate",
+            "phonetic": "ˈmɪt.ɪ.ɡeɪt",
+            "word_native_transliteration": {
+                "bn": "মিটিগেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🛡️",
+            "meaning": "To make less severe, serious, or painful.",
+            "example_sentence": "Proper measures can mitigate environmental damage.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্রপার মেজারস ক্যান মিটিগেট এনভায়রনমেন্টাল ড্যামেজ।"
+            },
+            "position": 13,
+            "synonyms": "alleviate, reduce",
+            "antonyms": "exacerbate, aggravate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রশমিত করা",
+                    "word_transliteration": "proshomito kora",
+                    "example_sentence_translation": "সঠিক ব্যবস্থা পরিবেশগত ক্ষতি মিটিগেট করতে পারে।",
+                    "example_sentence_transliteration": "Sothik byobostha poribeshgoto khoti mitigate korte pare.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "scrutiny",
+            "phonetic": "ˈskruː.tɪ.ni",
+            "word_native_transliteration": {
+                "bn": "স্ক্রুটিনি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔍",
+            "meaning": "Critical observation or examination.",
+            "example_sentence": "His work was under close scrutiny by the manager.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ওয়ার্ক ওয়াজ আন্ডার ক্লোজ স্ক্রুটিনি বাই দ্য ম্যানেজার।"
+            },
+            "position": 14,
+            "synonyms": "examination, inspection",
+            "antonyms": "oversight, neglect",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সতর্ক তদন্ত",
+                    "word_transliteration": "shotorko todonno",
+                    "example_sentence_translation": "তার কাজ ম্যানেজারের কড়া স্ক্রুটিনির অধীনে ছিল।",
+                    "example_sentence_transliteration": "Tar kaj managerer kora scrutinir odhine chilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "meticulous",
+            "phonetic": "məˈtɪk.jə.ləs",
+            "word_native_transliteration": {
+                "bn": "মেটিকিউলাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎯",
+            "meaning": "Showing great attention to detail; very careful and precise.",
+            "example_sentence": "A meticulous researcher leaves no detail unchecked.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ মেটিকিউলাস রিসার্চার লিভস নো ডিটেইল আনচেকড।"
+            },
+            "position": 15,
+            "synonyms": "thorough, painstaking",
+            "antonyms": "careless, reckless",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অত্যন্ত সতর্ক",
+                    "word_transliteration": "ottyonto shotorko",
+                    "example_sentence_translation": "একজন মেটিকিউলাস গবেষক কোনো তথ্য যাচাইবাছাই বাদ দেন না।",
+                    "example_sentence_transliteration": "Ekjon meticulous gobeshok kono tothyo jachaibachai bad den na.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "augment",
+            "phonetic": "ɔːɡˈmɛnt",
+            "word_native_transliteration": {
+                "bn": "অগমেন্ট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📈",
+            "meaning": "To make something greater by adding to it; to increase.",
+            "example_sentence": "The company aims to augment its market presence.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানি এইমস টু অগমেন্ট ইটস মার্কেট প্রেজেন্স।"
+            },
+            "position": 16,
+            "synonyms": "enhance, amplify",
+            "antonyms": "diminish, reduce",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বৃদ্ধি করা",
+                    "word_transliteration": "briddhi kora",
+                    "example_sentence_translation": "কোম্পানিটি তার বাজার উপস্থিতি অগমেন্ট করতে চায়।",
+                    "example_sentence_transliteration": "Companiti tar bajar uposthiti augment korte chay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "perseverance",
+            "phonetic": "ˌpɜː.sɪˈvɪə.rəns",
+            "word_native_transliteration": {
+                "bn": "পার্সিভেরেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💯",
+            "meaning": "Persistence in doing something despite difficulty or delay in achieving success.",
+            "example_sentence": "Perseverance is the key to overcoming challenges.",
+            "example_sentence_native_transliteration": {
+                "bn": "পার্সিভেরেন্স ইজ দ্য কি টু ওভারকামিং চ্যালেঞ্জেস।"
+            },
+            "position": 17,
+            "synonyms": "determination, tenacity",
+            "antonyms": "apathy, idleness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অবিচল নিষ্ঠা",
+                    "word_transliteration": "obichol nishtha",
+                    "example_sentence_translation": "চ্যালেঞ্জ অতিক্রমের চাবিকাঠি হলো পার্সিভেরেন্স।",
+                    "example_sentence_transliteration": "Challenge otikromer chabikathi holo perseverance.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,553 @@
+{
+    "position": 222,
+    "title_translation": {
+        "en": "The Seven Wonders of World",
+        "bn": "বিশ্বের Seven Wonders"
+    },
+    "content_translation": {
+        "en": "The world's **Seven Wonders** are not just tourist destinations but are known as **iconic** symbols in history. They showcase human **ingenuity** and the **epitome** of architecture. Each structure contains a certain **aesthetic** style and **grandeur**.\n\nFor example, the **Taj Mahal** is famous for its **majestic** beauty, which is the **quintessential** symbol of love. On the other hand, the **Great Wall of China** is unique for its **colossal** expanse and **monumental** architectural style.\n\nEach of these seven wonders has a unique **resonance** that tells stories of the past. However, their **preservation** is a major **conundrum**, as many structures are deteriorating over time.\n\nEach structure is a **transcendent** part of history that stands as a monument to civilization. These are not merely **spectacles**, but symbols of humanity's **unparalleled** **success**.",
+        "bn": "বিশ্বের **Seven Wonders** শুধু ভ্রমণস্থান নয়, বরং ইতিহাসের **iconic** চিহ্ন হিসেবে পরিচিত। এগুলো মানুষের **ingenuity** এবং স্থাপত্যের **epitome** তুলে ধরে। প্রতিটি স্থাপনার মধ্যে এক ধরণের **aesthetic** শৈলী এবং **grandeur** বিদ্যমান।\n\nযেমন, **Taj Mahal** তার **majestic** সৌন্দর্যের জন্য বিখ্যাত, যা প্রেমের **quintessential** প্রতীক। অন্যদিকে, **Great Wall of China** তার **colossal** বিস্তৃতি এবং **monumental** স্থাপত্য শৈলীর জন্য অনন্য।\n\nএই সপ্তাশ্চর্যের প্রতিটিতেই রয়েছে এক অনন্য **resonance** যা অতীতের গল্প বলে। তবে, এদের **preservation** একটি বড় **conundrum**, কারণ সময়ের সাথে সাথে অনেক স্থাপনা ক্ষয়প্রাপ্ত হচ্ছে।\n\nপ্রতিটি স্থাপনা ইতিহাসের **transcendent** অংশ যা সভ্যতার স্মারক হিসেবে দাঁড়িয়ে আছে। এগুলো কেবলমাত্র **spectacle** নয়, বরং মানবজাতির **unparalleled** সাফল্যের চিহ্ন।"
+    },
+    "list": [
+        {
+            "word": "Seven Wonders",
+            "phonetic": "ˈsɛv.ən ˈwʌn.dərz",
+            "word_native_transliteration": {
+                "bn": "সেভেন ওয়ান্ডারস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏛️",
+            "meaning": "The seven most remarkable and famous structures in the world, representing architectural feats and cultural significance.",
+            "example_sentence": "The Seven Wonders of the world reflect human brilliance.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সেভেন ওয়ান্ডারস অফ দ্য ওয়ার্ল্ড রিফ্লেক্ট হিউম্যান ব্রিলিয়ান্স।"
+            },
+            "position": 1,
+            "synonyms": "Marvels, Landmarks, Architectural Feats",
+            "antonyms": "Ordinary Places, Unremarkable Sites, Common Structures",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিশ্বের সাতটি আশ্চর্য",
+                    "word_transliteration": "bishwer shattoti ashchorjo",
+                    "example_sentence_translation": "বিশ্বের সেভেন ওয়ান্ডারস মানুষের অসাধারণ কীর্তির প্রতিফলন।",
+                    "example_sentence_transliteration": "Bishwer Seven Wonders manusher oshadharon kirtir protifolon.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Iconic",
+            "phonetic": "aɪˈkɒn.ɪk",
+            "word_native_transliteration": {
+                "bn": "আইকনিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌟",
+            "meaning": "Symbolic, legendary, famous, representing something significant or characteristic.",
+            "example_sentence": "The Eiffel Tower is an iconic landmark of France.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য আইফেল টাওয়ার ইজ অ্যান আইকনিক ল্যান্ডমার্ক অফ ফ্রান্স।"
+            },
+            "position": 2,
+            "synonyms": "Legendary, Symbolic, Famous",
+            "antonyms": "Obscure, Unknown, Uncelebrated",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতীকী",
+                    "word_transliteration": "protikhi",
+                    "example_sentence_translation": "আইফেল টাওয়ার ফ্রান্সের একটি আইকনিক স্থাপনা।",
+                    "example_sentence_transliteration": "Eiffel Tower Franser ekti iconic sthapona.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Ingenuity",
+            "phonetic": "ˌɪn.dʒəˈnjuː.ɪ.ti",
+            "word_native_transliteration": {
+                "bn": "ইনজেনুইটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🧠",
+            "meaning": "The quality of being clever, inventive, creative, and resourceful in solving problems or creating something new.",
+            "example_sentence": "The construction of the pyramids showcases ancient ingenuity.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কনস্ট্রাকশন অফ দ্য পিরামিডস শোকেসেস এনশিয়েন্ট ইনজেনুইটি।"
+            },
+            "position": 3,
+            "synonyms": "Creativity, Inventiveness, Resourcefulness",
+            "antonyms": "Unimaginative, Ineptness, Clumsiness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উদ্ভাবনী ক্ষমতা",
+                    "word_transliteration": "udbhaboni khomota",
+                    "example_sentence_translation": "পিরামিডের নির্মাণ প্রাচীন ইনজেনুইটি প্রদর্শন করে।",
+                    "example_sentence_transliteration": "Piramider nirman prachín ingenuity prodarshon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Epitome",
+            "phonetic": "ɪˈpɪt.ə.mi",
+            "word_native_transliteration": {
+                "bn": "এপিটমি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "👑",
+            "meaning": "A perfect example or embodiment of something; the ideal representation or typical example.",
+            "example_sentence": "The Taj Mahal is the epitome of love and beauty.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য তাজ মহল ইজ দ্য এপিটমি অফ লাভ অ্যান্ড বিউটি।"
+            },
+            "position": 4,
+            "synonyms": "Ideal, Embodiment, Paragon",
+            "antonyms": "Imperfection, Mediocrity, Deficiency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মূর্ত প্রতীক",
+                    "word_transliteration": "murto protik",
+                    "example_sentence_translation": "তাজমহল প্রেম ও সৌন্দর্যের এপিটমি।",
+                    "example_sentence_transliteration": "Tajmohal prem o shoundarjer epitome.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Aesthetic",
+            "phonetic": "esˈθet.ɪk",
+            "word_native_transliteration": {
+                "bn": "এসথেটিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎨",
+            "meaning": "Relating to beauty, artistic, elegant, and pleasing to the senses or taste.",
+            "example_sentence": "The architecture of the Parthenon has an aesthetic appeal.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য আর্কিটেকচার অফ দ্য পার্থেনন হ্যাজ অ্যান এসথেটিক অ্যাপিল।"
+            },
+            "position": 5,
+            "synonyms": "Artistic, Elegant, Pleasing",
+            "antonyms": "Unattractive, Unappealing, Tasteless",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নান্দনিক",
+                    "word_transliteration": "nandonic",
+                    "example_sentence_translation": "পার্থেননের স্থাপত্যে এসথেটিক আকর্ষণ রয়েছে।",
+                    "example_sentence_transliteration": "Parthenonner sthapottye aesthetic akorshon royeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Grandeur",
+            "phonetic": "ˈɡræn.dʒər",
+            "word_native_transliteration": {
+                "bn": "গ্র্যান্ডিয়ার"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "✨",
+            "meaning": "Magnificence, majesty, splendor; impressive beauty and scale.",
+            "example_sentence": "The grandeur of the Colosseum attracts millions of visitors.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গ্র্যান্ডিয়ার অফ দ্য কলিজিয়াম অ্যাট্রাক্টস মিলিয়নস অফ ভিজিটরস।"
+            },
+            "position": 6,
+            "synonyms": "Magnificence, Majesty, Splendor",
+            "antonyms": "Simplicity, Insignificance, Humbleness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মহিমা",
+                    "word_transliteration": "mohima",
+                    "example_sentence_translation": "কলিজিয়ামের গ্র্যান্ডিয়ার লক্ষ লক্ষ পর্যটককে আকর্ষণ করে।",
+                    "example_sentence_transliteration": "Colosseum-er grandeur lokkho lokkho porjotokke akorshon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Taj Mahal",
+            "phonetic": "ˌtɑːdʒ məˈhɑːl",
+            "word_native_transliteration": {
+                "bn": "তাজমহল"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🕌",
+            "meaning": "A famous mausoleum in India, considered one of the most beautiful structures ever built and a symbol of love.",
+            "example_sentence": "The Taj Mahal is considered one of the most beautiful structures ever built.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য তাজ মহল ইজ কনসিডার্ড ওয়ান অফ দ্য মোস্ট বিউটিফুল স্ট্রাকচারস এভার বিল্ট।"
+            },
+            "position": 7,
+            "synonyms": "Mausoleum, Love Monument, Heritage Site",
+            "antonyms": "-",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভারতের ঐতিহাসিক সমাধি",
+                    "word_transliteration": "Bharoter oitihashik somadhi",
+                    "example_sentence_translation": "তাজমহল ইতিহাসের সবচেয়ে সুন্দর স্থাপত্যের মধ্যে একটি।",
+                    "example_sentence_transliteration": "Tajmohal itihaser shobcheye shundor sthapottyer modhye ekti.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Majestic",
+            "phonetic": "məˈdʒes.tɪk",
+            "word_native_transliteration": {
+                "bn": "মাজেস্টিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "👑",
+            "meaning": "Having impressive beauty, dignity, or grandeur; regal and stately in appearance.",
+            "example_sentence": "The majestic Himalayas stand tall against the sky.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য মাজেস্টিক হিমালয়া স্ট্যান্ড টল অ্যাগেইনস্ট দ্য স্কাই।"
+            },
+            "position": 8,
+            "synonyms": "Grand, Regal, Stately",
+            "antonyms": "Modest, Commonplace, Insignificant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রাজকীয়",
+                    "word_transliteration": "rajkiyo",
+                    "example_sentence_translation": "মাজেস্টিক হিমালয় আকাশের পটভূমিতে উঁচু দাঁড়িয়ে আছে।",
+                    "example_sentence_transliteration": "Majestic Himaloy akasher potbhumite unchu dariye ache.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Quintessential",
+            "phonetic": "ˌkwɪn.tɪˈsen.ʃəl",
+            "word_native_transliteration": {
+                "bn": "কুইনটেসেনশিয়াল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💎",
+            "meaning": "Representing the most perfect or typical example of a quality or class; the essence of something.",
+            "example_sentence": "The Great Wall of China is a quintessential symbol of strength.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গ্রেট ওয়াল অফ চায়না ইজ এ কুইনটেসেনশিয়াল সিম্বল অফ স্ট্রেংথ।"
+            },
+            "position": 9,
+            "synonyms": "Exemplary, Classic, Ideal",
+            "antonyms": "Atypical, Imperfect, Uncharacteristic",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সারমর্ম",
+                    "word_transliteration": "sharomrmo",
+                    "example_sentence_translation": "চীনের প্রাচীর শক্তির একটি কুইনটেসেনশিয়াল প্রতীক।",
+                    "example_sentence_transliteration": "Chiner prachir shoktir ekti quintessential protik.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Great Wall of China",
+            "phonetic": "ɡreɪt wɔːl əv ˈtʃaɪ.nə",
+            "word_native_transliteration": {
+                "bn": "গ্রেট ওয়াল অফ চায়না"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🏯",
+            "meaning": "A massive ancient fortification system in China, built to protect against invasions and considered one of the most famous landmarks in the world.",
+            "example_sentence": "The Great Wall of China is one of the most famous landmarks in the world.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গ্রেট ওয়াল অফ চায়না ইজ ওয়ান অফ দ্য মোস্ট ফেমাস ল্যান্ডমার্কস ইন দ্য ওয়ার্ল্ড।"
+            },
+            "position": 10,
+            "synonyms": "Ancient Wall, Barrier, Historic Defense",
+            "antonyms": "-",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চীনের বিশাল প্রাচীর",
+                    "word_transliteration": "Chiner bishal prachir",
+                    "example_sentence_translation": "গ্রেট ওয়াল অফ চায়না বিশ্বের অন্যতম বিখ্যাত স্থাপনা।",
+                    "example_sentence_transliteration": "Great Wall of China bishwer onnotom bikhyato sthapona.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Colossal",
+            "phonetic": "kəˈlɒs.əl",
+            "word_native_transliteration": {
+                "bn": "কলোসাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🏔️",
+            "meaning": "Extremely large, gigantic, enormous in size or extent.",
+            "example_sentence": "The colossal pyramids of Egypt are a marvel of architecture.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কলোসাল পিরামিডস অফ ইজিপ্ট আর এ মার্ভেল অফ আর্কিটেকচার।"
+            },
+            "position": 11,
+            "synonyms": "Gigantic, Enormous, Immense",
+            "antonyms": "Tiny, Minuscule, Insignificant",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিশাল",
+                    "word_transliteration": "bishal",
+                    "example_sentence_translation": "মিশরের কলোসাল পিরামিডগুলো স্থাপত্যের বিস্ময়।",
+                    "example_sentence_transliteration": "Mishorer colossal piramidgulo sthapottyer bishmoy.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Monumental",
+            "phonetic": "ˌmɒn.jəˈmen.təl",
+            "word_native_transliteration": {
+                "bn": "মনুমেন্টাল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🗿",
+            "meaning": "Of great importance, significance, or scale; historic, immense, and grand.",
+            "example_sentence": "The Great Wall of China is a monumental structure.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গ্রেট ওয়াল অফ চায়না ইজ এ মনুমেন্টাল স্ট্রাকচার।"
+            },
+            "position": 12,
+            "synonyms": "Historic, Immense, Grand",
+            "antonyms": "Trivial, Insignificant, Negligible",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "গুরুত্বপূর্ণ",
+                    "word_transliteration": "guruttopurno",
+                    "example_sentence_translation": "চীনের প্রাচীর একটি মনুমেন্টাল স্থাপনা।",
+                    "example_sentence_transliteration": "Chiner prachir ekti monumental sthapona.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Resonance",
+            "phonetic": "ˈrez.ən.əns",
+            "word_native_transliteration": {
+                "bn": "রেজোনেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔊",
+            "meaning": "A deep, reverberating sound; a quality that evokes a response or profound impact.",
+            "example_sentence": "The speech had a profound resonance among the audience.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য স্পিচ হ্যাড এ প্রোফাউন্ড রেজোনেন্স অ্যামং দ্য অডিয়েন্স।"
+            },
+            "position": 13,
+            "synonyms": "Reverberation, Impact, Echo",
+            "antonyms": "Dissonance, Weakness, Muted",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিধ্বনি",
+                    "word_transliteration": "protidhoni",
+                    "example_sentence_translation": "বক্তৃতাটি শ্রোতাদের মধ্যে গভীর রেজোনেন্স সৃষ্টি করেছিল।",
+                    "example_sentence_transliteration": "Boktritati shrotader modhye gobhir resonance srishti koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Preservation",
+            "phonetic": "ˌprez.əˈveɪ.ʃən",
+            "word_native_transliteration": {
+                "bn": "প্রিজারভেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛡️",
+            "meaning": "The action of maintaining something in its original or existing state; conservation and protection.",
+            "example_sentence": "The preservation of ancient artifacts is crucial.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য প্রিজারভেশন অফ এনশিয়েন্ট আর্টিফ্যাক্টস ইজ ক্রুশিয়াল।"
+            },
+            "position": 14,
+            "synonyms": "Conservation, Protection, Maintenance",
+            "antonyms": "Destruction, Neglect, Deterioration",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংরক্ষণ",
+                    "word_transliteration": "shongrokkhon",
+                    "example_sentence_translation": "প্রাচীন নিদর্শনের প্রিজারভেশন অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Prachin nidorshoner preservation ottonto guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Conundrum",
+            "phonetic": "kəˈnʌn.drəm",
+            "word_native_transliteration": {
+                "bn": "কনানড্রাম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "❓",
+            "meaning": "A confusing and difficult problem or question; a riddle or puzzle that is hard to solve.",
+            "example_sentence": "Solving the energy crisis is a global conundrum.",
+            "example_sentence_native_transliteration": {
+                "bn": "সলভিং দ্য এনার্জি ক্রাইসিস ইজ এ গ্লোবাল কনানড্রাম।"
+            },
+            "position": 15,
+            "synonyms": "Dilemma, Riddle, Enigma",
+            "antonyms": "Solution, Clarity, Explanation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ধাঁধা",
+                    "word_transliteration": "dhadha",
+                    "example_sentence_translation": "জ্বালানি সংকট সমাধান করা একটি বৈশ্বিক কনানড্রাম।",
+                    "example_sentence_transliteration": "Jwalani shongkot somadhon kora ekti boishwik conundrum.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Transcendent",
+            "phonetic": "trænˈsen.dənt",
+            "word_native_transliteration": {
+                "bn": "ট্রানসেন্ডেন্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌟",
+            "meaning": "Beyond ordinary limits; surpassing usual boundaries; extraordinary and superior.",
+            "example_sentence": "His performance was truly transcendent.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ পারফরম্যান্স ওয়াজ ট্রুলি ট্রানসেন্ডেন্ট।"
+            },
+            "position": 16,
+            "synonyms": "Sublime, Extraordinary, Superior",
+            "antonyms": "Mediocre, Inferior, Ordinary",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতীন্দ্রিয়",
+                    "word_transliteration": "atindriya",
+                    "example_sentence_translation": "তার পারফরম্যান্স সত্যিই ট্রানসেন্ডেন্ট ছিল।",
+                    "example_sentence_transliteration": "Tar performance shottyii transcendent chilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Spectacle",
+            "phonetic": "ˈspek.tə.kəl",
+            "word_native_transliteration": {
+                "bn": "স্পেক্টাকল"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎭",
+            "meaning": "A visually striking performance or display; an impressive sight or show.",
+            "example_sentence": "The festival was a breathtaking spectacle.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ফেস্টিভাল ওয়াজ এ ব্রেথটেকিং স্পেক্টাকল।"
+            },
+            "position": 17,
+            "synonyms": "Pageantry, Display, Show",
+            "antonyms": "Normality, Simplicity, Unremarkable",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চিত্তাকর্ষক দৃশ্য",
+                    "word_transliteration": "chittakorshok drishyo",
+                    "example_sentence_translation": "উৎসবটি একটি দৃষ্টিনন্দন স্পেক্টাকল ছিল।",
+                    "example_sentence_transliteration": "Utshotbi ekti drishtinondro spectacle chilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Unparalleled",
+            "phonetic": "ʌnˈpær.ə.leld",
+            "word_native_transliteration": {
+                "bn": "আনপ্যারালেলড"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🏆",
+            "meaning": "Having no equal; unmatched, peerless, and supreme in quality or achievement.",
+            "example_sentence": "The unparalleled beauty of the Taj Mahal amazes visitors.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য আনপ্যারালেলড বিউটি অফ দ্য তাজ মহল অ্যামেজেস ভিজিটরস।"
+            },
+            "position": 18,
+            "synonyms": "Unmatched, Peerless, Supreme",
+            "antonyms": "Common, Inferior, Ordinary",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "তুলনাহীন",
+                    "word_transliteration": "tulonahin",
+                    "example_sentence_translation": "তাজমহলের আনপ্যারালেলড সৌন্দর্য দর্শকদের বিমোহিত করে।",
+                    "example_sentence_transliteration": "Tajmohler unparalleled shoundarjo dorshokder bimohito kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "Success",
+            "phonetic": "səkˈses",
+            "word_native_transliteration": {
+                "bn": "সাকসেস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎯",
+            "meaning": "The accomplishment of an aim or purpose; achievement, triumph, and prosperity.",
+            "example_sentence": "Hard work is the key to success.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার্ড ওয়ার্ক ইজ দ্য কি টু সাকসেস।"
+            },
+            "position": 19,
+            "synonyms": "Achievement, Triumph, Prosperity",
+            "antonyms": "Failure, Defeat, Setback",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সফলতা",
+                    "word_transliteration": "shofolota",
+                    "example_sentence_translation": "কঠোর পরিশ্রমই সাকসেস এর চাবিকাঠি।",
+                    "example_sentence_transliteration": "Kothor porishromii success er chabikathi.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "History",
+            "phonetic": "ˈhɪs.tər.i",
+            "word_native_transliteration": {
+                "bn": "হিস্টরি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📚",
+            "meaning": "The study of past events; a chronological record of events and heritage.",
+            "example_sentence": "The history of ancient civilizations fascinates scholars.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য হিস্টরি অফ এনশিয়েন্ট সিভিলাইজেশনস ফ্যাসিনেটস স্কলারস।"
+            },
+            "position": 20,
+            "synonyms": "Chronicle, Record, Heritage",
+            "antonyms": "Fiction, Myth, Untruth",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ইতিহাস",
+                    "word_transliteration": "itihas",
+                    "example_sentence_translation": "প্রাচীন সভ্যতার হিস্টরি গবেষকদের মুগ্ধ করে।",
+                    "example_sentence_transliteration": "Prachin shobhyotar history gobeshokder mugdho kore.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

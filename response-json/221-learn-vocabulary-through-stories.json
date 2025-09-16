@@ -1,0 +1,391 @@
+{
+    "position": 221,
+    "title_translation": {
+        "en": "The Seven Habits",
+        "bn": "সাতটি অভ্যাস"
+    },
+    "content_translation": {
+        "en": "**Seven habits** play an important role in the lives of successful people. These habits are helpful not only in professional life but also in personal development. First of all, it is important to be **conscientious**, because responsibility makes people more trustworthy.\n\nA **pragmatic** person always makes decisions considering reality, where **foresight** makes their planning more effective. **Diligence** and **tenacity** are essential for achieving any goal, because hard work is the key to success.\n\nOn the other hand, **punctuality** and **scrupulous** attitude improve the quality of a person's work. **Ingenuity** and **dexterity** help people find solutions to problems, making them more **adroit**.\n\nThe most important thing is to maintain a learning attitude by being **erudite**. This **metamorphosis** can transform an ordinary person into an **exemplary** personality, which is essential for long-term success.",
+        "bn": "সফল ব্যক্তিদের জীবনে **seven habits** গুরুত্বপূর্ণ ভূমিকা পালন করে। এই অভ্যাসগুলো শুধু পেশাগত জীবনে নয়, বরং ব্যক্তিগত উন্নতিতেও সহায়ক। প্রথমত, **conscientious** হওয়া জরুরি, কারণ দায়িত্বশীলতা মানুষকে আরও বিশ্বাসযোগ্য করে তোলে।\n\nএকজন **pragmatic** ব্যক্তি সবসময় বাস্তবতা বিবেচনা করে সিদ্ধান্ত নেয়, যেখানে **foresight** তার পরিকল্পনাকে আরও কার্যকর করে। **Diligence** এবং **tenacity** ছাড়া কোনো লক্ষ্য অর্জন করা সম্ভব নয়, কারণ কঠোর পরিশ্রমই সফলতার চাবিকাঠি।\n\nঅন্যদিকে, **punctuality** এবং **scrupulous** মনোভাব একজন ব্যক্তির কাজের মান উন্নত করে। **Ingenuity** এবং **dexterity** মানুষকে সমস্যার সমাধান খুঁজতে সাহায্য করে, যা তাকে আরও **adroit** করে তোলে।\n\nসবচেয়ে গুরুত্বপূর্ণ বিষয় হলো **erudite** হয়ে শেখার মনোভাব বজায় রাখা। এই **metamorphosis** একজন সাধারণ ব্যক্তিকে **exemplary** ব্যক্তিত্বে রূপান্তর করতে পারে, যা দীর্ঘমেয়াদী সফলতার জন্য অপরিহার্য।"
+    },
+    "list": [
+        {
+            "word": "seven habits",
+            "phonetic": "ˈsɛvən ˈhæbɪts",
+            "word_native_transliteration": {
+                "bn": "সেভেন হ্যাবিটস"
+            },
+            "parts_of_speech": "phrase",
+            "emoji": "7️⃣",
+            "meaning": "Regular behaviors or actions that are done consistently over time, specifically referring to a set of seven key practices.",
+            "example_sentence": "Even habits help in maintaining a balanced lifestyle.",
+            "example_sentence_native_transliteration": {
+                "bn": "ইভেন হ্যাবিটস হেল্প ইন মেইনটেইনিং এ ব্যালান্সড লাইফস্টাইল।"
+            },
+            "position": 1,
+            "synonyms": "consistent habits, steady routine",
+            "antonyms": "irregular habits, unpredictable habits",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "নিয়মিত অভ্যাস",
+                    "word_transliteration": "niyomito obhyash",
+                    "example_sentence_translation": "নিয়মিত অভ্যাস একটি সুষম জীবনযাপন বজায় রাখতে সাহায্য করে।",
+                    "example_sentence_transliteration": "Niyomito obhyash ekti shushom jibonjapon bojay rakhte shahajjo kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "conscientious",
+            "phonetic": "ˌkɒnʃiˈenʃəs",
+            "word_native_transliteration": {
+                "bn": "কনশিয়েনশাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎯",
+            "meaning": "Being careful and attentive when fulfilling work or responsibilities, showing diligence and responsibility.",
+            "example_sentence": "She is a conscientious worker who always meets deadlines.",
+            "example_sentence_native_transliteration": {
+                "bn": "শী ইজ এ কনশিয়েনশাস ওয়ার্কার হু অলওয়েজ মিটস ডেডলাইনস।"
+            },
+            "position": 2,
+            "synonyms": "diligent, careful, responsible",
+            "antonyms": "careless, negligent, irresponsible",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "মনোযোগী",
+                    "word_transliteration": "monojogi",
+                    "example_sentence_translation": "সে একজন মনোযোগী কর্মী যিনি সর্বদা সময়মতো কাজ সম্পন্ন করেন।",
+                    "example_sentence_transliteration": "She ekjon monojogi kormi jini shorboda shomoymoto kaj shomponnno koren.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pragmatic",
+            "phonetic": "prægˈmætɪk",
+            "word_native_transliteration": {
+                "bn": "প্র্যাগম্যাটিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔧",
+            "meaning": "Realistic and practical in approach, solving problems through practical and result-oriented perspective.",
+            "example_sentence": "His pragmatic approach helped solve the crisis efficiently.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ প্র্যাগম্যাটিক অ্যাপ্রোচ হেল্পড সলভ দ্য ক্রাইসিস এফিশিয়েন্টলি।"
+            },
+            "position": 3,
+            "synonyms": "practical, realistic, sensible",
+            "antonyms": "idealistic, theoretical, impractical",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাস্তববাদী",
+                    "word_transliteration": "bastobadi",
+                    "example_sentence_translation": "তার বাস্তববাদী দৃষ্টিভঙ্গি সংকট সমাধানে সহায়ক হয়েছে।",
+                    "example_sentence_transliteration": "Tar bastobadi drishtibhongi shongkot shomadhane shahajjok hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "foresight",
+            "phonetic": "ˈfɔːsaɪt",
+            "word_native_transliteration": {
+                "bn": "ফোরসাইট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🔮",
+            "meaning": "The ability to think about future situations or needs and plan accordingly before they occur.",
+            "example_sentence": "His foresight in planning helped the company grow.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ফোরসাইট ইন প্ল্যানিং হেল্পড দ্য কোম্পানি গ্রো।"
+            },
+            "position": 4,
+            "synonyms": "anticipation, vision, insight",
+            "antonyms": "shortsightedness, hindsight, unawareness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পূর্বাভাস",
+                    "word_transliteration": "purboabash",
+                    "example_sentence_translation": "তার পরিকল্পনায় ভবিষ্যৎদ্বাণী কোম্পানিকে বৃদ্ধি করতে সাহায্য করেছে।",
+                    "example_sentence_transliteration": "Tar porikalpona-e bhobishyot-dwani kompanike briddhi korte shahajjo koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "diligence",
+            "phonetic": "ˈdɪlɪdʒəns",
+            "word_native_transliteration": {
+                "bn": "ডিলিজেন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💪",
+            "meaning": "Hard work done with patience and concentration, showing persistent effort and commitment.",
+            "example_sentence": "Her diligence in her studies paid off with top grades.",
+            "example_sentence_native_transliteration": {
+                "bn": "হার ডিলিজেন্স ইন হার স্টাডিজ পেইড অফ উইথ টপ গ্রেডস।"
+            },
+            "position": 5,
+            "synonyms": "hard work, effort, commitment",
+            "antonyms": "laziness, carelessness, negligence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিশ্রম",
+                    "word_transliteration": "porishrom",
+                    "example_sentence_translation": "তার পড়াশোনার প্রতি পরিশ্রম ভালো ফলাফল এনেছে।",
+                    "example_sentence_transliteration": "Tar porashona-r proti porishrom bhalo folaafol eneche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "tenacity",
+            "phonetic": "təˈnæsəti",
+            "word_native_transliteration": {
+                "bn": "টেনাসিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🛡️",
+            "meaning": "Strong determination and persistence in achieving specific goals, not giving up despite challenges.",
+            "example_sentence": "His tenacity in solving problems led to his success.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ টেনাসিটি ইন সলভিং প্রবলেমস লেড টু হিজ সাকসেস।"
+            },
+            "position": 6,
+            "synonyms": "determination, persistence, resilience",
+            "antonyms": "indecision, weakness, hesitation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দৃঢ় সংকল্প",
+                    "word_transliteration": "dridho shongkolpo",
+                    "example_sentence_translation": "সমস্যা সমাধানে তার দৃঢ় সংকল্প তাকে সাফল্যের পথে নিয়ে গেছে।",
+                    "example_sentence_transliteration": "Shomoshya shomadhane tar dridho shongkolpo take shafoljer pothe niye geche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "punctuality",
+            "phonetic": "ˌpʌŋktʃuˈælɪti",
+            "word_native_transliteration": {
+                "bn": "পাংচুয়ালিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⏰",
+            "meaning": "The quality of being on time or arriving at the scheduled time, showing respect for time management.",
+            "example_sentence": "His punctuality at work earned him respect from colleagues.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ পাংচুয়ালিটি অ্যাট ওয়ার্ক আর্নড হিম রেস্পেক্ট ফ্রম কলিগস।"
+            },
+            "position": 7,
+            "synonyms": "timeliness, promptness, regularity",
+            "antonyms": "tardiness, delay, unpunctuality",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সময়ানুবর্তিতা",
+                    "word_transliteration": "shomoyanoborti-ta",
+                    "example_sentence_translation": "তার সময়ানুবর্তিতা তাকে সহকর্মীদের থেকে সম্মান এনে দিয়েছে।",
+                    "example_sentence_transliteration": "Tar shomoyanoborti-ta take shohokormider theke shomman ene diyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "scrupulous",
+            "phonetic": "ˈskruːpjʊləs",
+            "word_native_transliteration": {
+                "bn": "স্ক্রুপুলাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔍",
+            "meaning": "Being extremely careful and morally honest, having a tendency to work with high ethical standards.",
+            "example_sentence": "A scrupulous lawyer never compromises on ethics.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ স্ক্রুপুলাস লয়ার নেভার কমপ্রোমাইজেস অন এথিক্স।"
+            },
+            "position": 8,
+            "synonyms": "meticulous, honest, conscientious",
+            "antonyms": "careless, corrupt, negligent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সতর্ক",
+                    "word_transliteration": "shotorko",
+                    "example_sentence_translation": "একজন সতর্ক আইনজীবী কখনো নৈতিকতার সাথে আপস করেন না।",
+                    "example_sentence_transliteration": "Ekjon shotorko ainjibee kokhono noitikota-r shathe aposh koren na.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ingenuity",
+            "phonetic": "ˌɪndʒəˈnjuːɪti",
+            "word_native_transliteration": {
+                "bn": "ইনজেনুইটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "💡",
+            "meaning": "Creativity or innovative skill in finding new and clever solutions to problems.",
+            "example_sentence": "His ingenuity led to the invention of a groundbreaking device.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ইনজেনুইটি লেড টু দ্য ইনভেনশন অব এ গ্রাউন্ডব্রেকিং ডিভাইস।"
+            },
+            "position": 9,
+            "synonyms": "creativity, innovation, resourcefulness",
+            "antonyms": "incompetence, unimaginativeness, stagnation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সৃজনশীলতা",
+                    "word_transliteration": "srijonshilota",
+                    "example_sentence_translation": "তার সৃজনশীলতা একটি যুগান্তকারী ডিভাইস আবিষ্কারের পথ দেখিয়েছে।",
+                    "example_sentence_transliteration": "Tar srijonshilota ekti jugantokari device abishkarer poth dekhiyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dexterity",
+            "phonetic": "dɛkˈstɛrɪti",
+            "word_native_transliteration": {
+                "bn": "ডেক্সটেরিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤹",
+            "meaning": "Skill and agility in using hands or mind to perform tasks quickly and accurately.",
+            "example_sentence": "A surgeon needs high dexterity for precision work.",
+            "example_sentence_native_transliteration": {
+                "bn": "এ সার্জন নিডস হাই ডেক্সটেরিটি ফর প্রিসিশন ওয়ার্ক।"
+            },
+            "position": 10,
+            "synonyms": "agility, skillfulness, nimbleness",
+            "antonyms": "clumsiness, incompetence, ineptitude",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষতা",
+                    "word_transliteration": "dokkhota",
+                    "example_sentence_translation": "একজন সার্জনের জন্য নির্ভুল কাজের দক্ষতা অপরিহার্য।",
+                    "example_sentence_transliteration": "Ekjon surjoner jonno nirvul kajer dokkhota oporishajjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "adroit",
+            "phonetic": "əˈdrɔɪt",
+            "word_native_transliteration": {
+                "bn": "অ্যাড্রয়েট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎯",
+            "meaning": "Extremely skilled or clever in any work or technique, showing sharp intelligence.",
+            "example_sentence": "She is adroit at solving complex problems.",
+            "example_sentence_native_transliteration": {
+                "bn": "শী ইজ অ্যাড্রয়েট অ্যাট সলভিং কমপ্লেক্স প্রবলেমস।"
+            },
+            "position": 11,
+            "synonyms": "skillful, clever, expert",
+            "antonyms": "inept, clumsy, unskilled",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষ",
+                    "word_transliteration": "dokkhho",
+                    "example_sentence_translation": "সে জটিল সমস্যা সমাধানে দক্ষ।",
+                    "example_sentence_transliteration": "She jotil shomoshya shomadhane dokkhho.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "erudite",
+            "phonetic": "ˈɛrʊdaɪt",
+            "word_native_transliteration": {
+                "bn": "এরুডাইট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "📚",
+            "meaning": "Having extensive knowledge and education, skilled in high-level learning and scholarship.",
+            "example_sentence": "He is an erudite scholar in the field of physics.",
+            "example_sentence_native_transliteration": {
+                "bn": "হী ইজ অ্যান এরুডাইট স্কলার ইন দ্য ফিল্ড অব ফিজিক্স।"
+            },
+            "position": 12,
+            "synonyms": "knowledgeable, scholarly, learned",
+            "antonyms": "ignorant, uneducated, illiterate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বিজ্ঞ",
+                    "word_transliteration": "biggo",
+                    "example_sentence_translation": "সে পদার্থবিজ্ঞানে একটি বিজ্ঞ পণ্ডিত।",
+                    "example_sentence_transliteration": "She podarthobiggyane ekti biggo pondit.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "metamorphosis",
+            "phonetic": "ˌmɛtəˈmɔːrfəsɪs",
+            "word_native_transliteration": {
+                "bn": "মেটামরফোসিস"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🦋",
+            "meaning": "A significant physical or mental transformation, a complete change in form or nature.",
+            "example_sentence": "The company's metamorphosis into a global brand took years.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য কোম্পানিজ মেটামরফোসিস ইনটু এ গ্লোবাল ব্র্যান্ড টুক ইয়ার্স।"
+            },
+            "position": 13,
+            "synonyms": "transformation, evolution, conversion",
+            "antonyms": "stagnation, constancy, sameness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "রূপান্তর",
+                    "word_transliteration": "rupantor",
+                    "example_sentence_translation": "কোম্পানির একটি বিশ্বব্যাপী ব্র্যান্ডে রূপান্তর হতে কয়েক বছর লেগেছে।",
+                    "example_sentence_transliteration": "Kompanir ekti bishwobyapi brande rupantor hote koyyek bochor legeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "exemplary",
+            "phonetic": "ɪɡˈzɛmpləri",
+            "word_native_transliteration": {
+                "bn": "এগজেমপ্লারি"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⭐",
+            "meaning": "Serving as an ideal example for others, representing a perfect model to follow.",
+            "example_sentence": "His exemplary behavior earned him numerous awards.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ এগজেমপ্লারি বিহেভিয়ার আর্নড হিম নিউমেরাস অ্যাওয়ার্ডস।"
+            },
+            "position": 14,
+            "synonyms": "model, perfect, ideal",
+            "antonyms": "inferior, substandard, unworthy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অনুকরণীয়",
+                    "word_transliteration": "onukoroneeyo",
+                    "example_sentence_translation": "তার অনুকরণীয় আচরণ তাকে অসংখ্য পুরস্কার এনে দিয়েছে।",
+                    "example_sentence_transliteration": "Tar onukoroneeyo acharon take oshongkhyo puroshkar ene diyeche.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}

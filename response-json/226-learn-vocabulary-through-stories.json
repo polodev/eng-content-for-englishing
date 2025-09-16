@@ -1,0 +1,553 @@
+{
+    "position": 226,
+    "title_translation": {
+        "en": "Time Management Tips for Homeschooling Parents",
+        "bn": "হোমস্কুলিং প্যারেন্টদের জন্য Time Management Tips"
+    },
+    "content_translation": {
+        "en": "**Time management** can be a significant **conundrum** for homeschooling parents. Maintaining **cohesion** among daily tasks and ensuring **equitable allotment** of time is not easy.\n\nFirst, parents should **compartmentalize** time to give adequate importance to each subject. It is necessary to **delineate** which tasks will be done when so that everything can proceed **synchronized**.\n\nSecond, taking a **pragmatic** approach is needed, which will be **conducive** to the child's learning. They need to be given opportunities to develop **dexterity** and become **adept** in time skills. Third, parents need to be **meticulous**, as time waste can create **impediments**. If time is used correctly, it can **ameliorate** the quality of education and life's **repercussions**.\n\nFinally, avoiding **dichotomy**, plans must be implemented effectively so that there is no **juxtaposition** between education and personal time. To **expedite** the right **planning**, alongside proper strategies, teaching techniques also need to be changed.",
+        "bn": "হোমস্কুলিং প্যারেন্টদের জন্য **time management** একটি বড় **conundrum** হতে পারে। প্রতিদিনের কাজগুলোর মধ্যে **cohesion** বজায় রাখা এবং সময়ের **equitable allotment** নিশ্চিত করা সহজ নয়।\n\nপ্রথমত, অভিভাবকদের উচিত সময়কে **compartmentalize** করা, যাতে প্রতিটি বিষয়ে পর্যাপ্ত গুরুত্ব দেওয়া যায়। **Delineate** করা প্রয়োজন কোন কাজটি কখন করা হবে, যাতে **synchronize** করে সবকিছু চলতে পারে।\n\nদ্বিতীয়ত, **pragmatic** পরিকল্পনা গ্রহণ করা দরকার, যা **conducive** হবে শিশুর শেখার জন্য। তাদের সময়ের দক্ষতা উন্নত করতে **dexterity** এবং **adept** হওয়ার সুযোগ দিতে হবে। তৃতীয়ত, অভিভাবকদের **meticulous** হতে হবে, কারণ সময় অপচয় **impediment** সৃষ্টি করতে পারে। সময় সঠিকভাবে ব্যবহার করতে পারলে **ameliorate** করা যাবে শিক্ষার মান এবং জীবনযাত্রার **repercussions**।\n\nপরিশেষে, **dichotomy** এড়িয়ে পরিকল্পনাগুলো কার্যকর করতে হবে, যাতে শিক্ষা এবং ব্যক্তিগত সময়ের মধ্যে **juxtaposition** না হয়। **Expedite** করার জন্য সঠিক **planning** এর পাশাপাশি, শেখানোর কৌশল পরিবর্তন করাও প্রয়োজন।"
+    },
+    "list": [
+        {
+            "word": "time management",
+            "phonetic": "/taɪm ˈmæn.ɪdʒ.mənt/",
+            "word_native_transliteration": {
+                "bn": "টাইম ম্যানেজমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⏰",
+            "meaning": "The process of planning and exercising conscious control of time spent on specific activities to increase effectiveness, efficiency, and productivity.",
+            "example_sentence": "Time management is essential for success.",
+            "example_sentence_native_transliteration": {
+                "bn": "টাইম ম্যানেজমেন্ট ইজ এসেনশিয়াল ফর সাকসেস।"
+            },
+            "position": 1,
+            "synonyms": "organization, scheduling, productivity",
+            "antonyms": "procrastination, disorganization, inefficiency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সময় পরিকল্পনা",
+                    "word_transliteration": "shomoy porikalpona",
+                    "example_sentence_translation": "টাইম ম্যানেজমেন্ট সফলতার জন্য অপরিহার্য।",
+                    "example_sentence_transliteration": "Time management shofoltaar jonno oporiharjo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "conundrum",
+            "phonetic": "/kəˈnʌn.drəm/",
+            "word_native_transliteration": {
+                "bn": "কানানড্রাম"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤔",
+            "meaning": "A confusing and difficult problem or question; a puzzle or riddle.",
+            "example_sentence": "The scientist faced a conundrum in the experiment.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য সাইন্টিস্ট ফেসড আ কানানড্রাম ইন দ্য এক্সপেরিমেন্ট।"
+            },
+            "position": 2,
+            "synonyms": "puzzle, enigma, dilemma",
+            "antonyms": "solution, answer, clarity",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ধাঁধা",
+                    "word_transliteration": "dhandha",
+                    "example_sentence_translation": "বিজ্ঞানী পরীক্ষায় একটি কানানড্রাম এর সম্মুখীন হলেন।",
+                    "example_sentence_transliteration": "Biggani porikkhay ekti conundrum er shommukhhin holen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "cohesion",
+            "phonetic": "/kəʊˈhiː.ʒən/",
+            "word_native_transliteration": {
+                "bn": "কোহেশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🤝",
+            "meaning": "The action or fact of forming a united whole; unity and solidarity.",
+            "example_sentence": "The team's cohesion was vital for their success.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য টিমস কোহেশন ওয়াজ ভাইটাল ফর দেয়ার সাকসেস।"
+            },
+            "position": 3,
+            "synonyms": "unity, bonding, consistency",
+            "antonyms": "fragmentation, disunity, separation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সংহতি",
+                    "word_transliteration": "shonghoti",
+                    "example_sentence_translation": "দলের কোহেশন তাদের সফলতার জন্য গুরুত্বপূর্ণ ছিল।",
+                    "example_sentence_transliteration": "Doler cohesion tader shofoltaar jonno guruttopurno chhilo.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "equitable",
+            "phonetic": "/ˈek.wɪ.tə.bəl/",
+            "word_native_transliteration": {
+                "bn": "ইকুইটেবল"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "⚖️",
+            "meaning": "Fair and impartial; treating everyone equally.",
+            "example_sentence": "The judge gave an equitable decision.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য জাজ গেভ অ্যান ইকুইটেবল ডিসিশন।"
+            },
+            "position": 4,
+            "synonyms": "fair, just, impartial",
+            "antonyms": "biased, unfair, discriminatory",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ন্যায্য",
+                    "word_transliteration": "nyayyo",
+                    "example_sentence_translation": "বিচারক একটি ইকুইটেবল রায় দিলেন।",
+                    "example_sentence_transliteration": "Bicharok ekti equitable ray dilen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "allotment",
+            "phonetic": "/əˈlɒt.mənt/",
+            "word_native_transliteration": {
+                "bn": "অ্যালটমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📊",
+            "meaning": "The action of allotting or assigning something as a share or portion.",
+            "example_sentence": "The government announced the allotment of funds.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গভর্নমেন্ট অ্যানাউন্সড দ্য অ্যালটমেন্ট অফ ফান্ডস।"
+            },
+            "position": 5,
+            "synonyms": "distribution, allocation, assignment",
+            "antonyms": "withdrawal, retraction, reduction",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বরাদ্দ",
+                    "word_transliteration": "boraddo",
+                    "example_sentence_translation": "সরকার তহবিলের অ্যালটমেন্ট ঘোষণা করেছে।",
+                    "example_sentence_transliteration": "Shorkar tohbiler allotment ghoshona koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "compartmentalize",
+            "phonetic": "/ˌkɒm.pɑːt ˈmen.təl.aɪz/",
+            "word_native_transliteration": {
+                "bn": "কম্পার্টমেন্টালাইজ"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📦",
+            "meaning": "To divide into separate sections or categories; to separate into distinct parts.",
+            "example_sentence": "She tends to compartmentalize her personal and work life.",
+            "example_sentence_native_transliteration": {
+                "bn": "শী টেন্ডস টু কম্পার্টমেন্টালাইজ হার পার্সোনাল অ্যান্ড ওয়ার্ক লাইফ।"
+            },
+            "position": 6,
+            "synonyms": "categorize, classify, segregate",
+            "antonyms": "integrate, merge, unify",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ভাগ করা",
+                    "word_transliteration": "bhag kora",
+                    "example_sentence_translation": "সে তার ব্যক্তিগত ও পেশাগত জীবন কম্পার্টমেন্টালাইজ করে।",
+                    "example_sentence_transliteration": "She tar byoktigoto o peshagoto jibon compartmentalize kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "delineate",
+            "phonetic": "/dɪˈlɪn.i.eɪt/",
+            "word_native_transliteration": {
+                "bn": "ডিলিনিয়েট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📝",
+            "meaning": "To describe or portray something precisely; to outline or define clearly.",
+            "example_sentence": "The report delineates the roles of employees.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য রিপোর্ট ডিলিনিয়েটস দ্য রোলস অফ এমপ্লয়িজ।"
+            },
+            "position": 7,
+            "synonyms": "describe, outline, define",
+            "antonyms": "obscure, confuse, misrepresent",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "চিত্রিত করা",
+                    "word_transliteration": "chitrito kora",
+                    "example_sentence_translation": "রিপোর্টে কর্মীদের ভূমিকা ডিলিনিয়েট করা হয়েছে।",
+                    "example_sentence_transliteration": "Reporte korrmider bhumika delineate kora hoyeche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "synchronize",
+            "phonetic": "/ˈsɪŋ.krə.naɪz/",
+            "word_native_transliteration": {
+                "bn": "সিঙ্ক্রোনাইজ"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "🔄",
+            "meaning": "To cause to occur or operate at the same time or rate; to coordinate in time.",
+            "example_sentence": "The dancers synchronized their movements perfectly.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ড্যান্সারস সিঙ্ক্রোনাইজড দেয়ার মুভমেন্টস পারফেক্টলি।"
+            },
+            "position": 8,
+            "synonyms": "align, coordinate, harmonize",
+            "antonyms": "mismatch, disrupt, desynchronize",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "একত্রে করা",
+                    "word_transliteration": "ektrey kora",
+                    "example_sentence_translation": "নৃত্যশিল্পীরা তাদের নড়াচড়া চমৎকারভাবে সিঙ্ক্রোনাইজ করলেন।",
+                    "example_sentence_transliteration": "Nrittyoshilpira tader norachora chotmkarabhabe synchronize korlen.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "pragmatic",
+            "phonetic": "/præɡˈmæt.ɪk/",
+            "word_native_transliteration": {
+                "bn": "প্র্যাগম্যাটিক"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🎯",
+            "meaning": "Dealing with things sensibly and realistically in a way that is based on practical rather than idealistic considerations.",
+            "example_sentence": "He takes a pragmatic approach to solving problems.",
+            "example_sentence_native_transliteration": {
+                "bn": "হি টেকস আ প্র্যাগম্যাটিক অ্যাপ্রোচ টু সলভিং প্রবলেমস।"
+            },
+            "position": 9,
+            "synonyms": "practical, realistic, sensible",
+            "antonyms": "idealistic, impractical, theoretical",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাস্তববাদী",
+                    "word_transliteration": "bastobbadi",
+                    "example_sentence_translation": "সে সমস্যা সমাধানে প্র্যাগম্যাটিক দৃষ্টিভঙ্গি গ্রহণ করে।",
+                    "example_sentence_transliteration": "She shomoshya somadhaney pragmatic drishtibhongi grohon kore.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "conducive",
+            "phonetic": "/kənˈdjuː.sɪv/",
+            "word_native_transliteration": {
+                "bn": "কনডুসিভ"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🌱",
+            "meaning": "Making a certain situation or outcome likely or possible; favorable to.",
+            "example_sentence": "A quiet environment is conducive to studying.",
+            "example_sentence_native_transliteration": {
+                "bn": "আ কোয়াইট এনভায়রনমেন্ট ইজ কনডুসিভ টু স্টাডিং।"
+            },
+            "position": 10,
+            "synonyms": "favorable, beneficial, supportive",
+            "antonyms": "hindering, obstructive, detrimental",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "সহায়ক",
+                    "word_transliteration": "shohayok",
+                    "example_sentence_translation": "একটি শান্ত পরিবেশ পড়াশোনার জন্য কনডুসিভ।",
+                    "example_sentence_transliteration": "Ekti shanto poribesh porashoner jonno conducive.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dexterity",
+            "phonetic": "/dɛkˈstɛr.ɪ.ti/",
+            "word_native_transliteration": {
+                "bn": "ডেক্সটেরিটি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎨",
+            "meaning": "Skill in performing tasks, especially with the hands; mental skill or adroitness.",
+            "example_sentence": "His dexterity in playing the violin is remarkable.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ডেক্সটেরিটি ইন প্লেয়িং দ্য ভায়োলিন ইজ রিমার্কেবল।"
+            },
+            "position": 11,
+            "synonyms": "agility, proficiency, finesse",
+            "antonyms": "clumsiness, ineptitude, incompetence",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষতা",
+                    "word_transliteration": "dokkhota",
+                    "example_sentence_translation": "বেহালা বাজানোর ক্ষেত্রে তার ডেক্সটেরিটি আশ্চর্যজনক।",
+                    "example_sentence_transliteration": "Behala bajanoar khetre tar dexterity ashchoryojonok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "adept",
+            "phonetic": "/əˈdɛpt/",
+            "word_native_transliteration": {
+                "bn": "অ্যাডেপ্ট"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "💪",
+            "meaning": "Very skilled or proficient at something; expert.",
+            "example_sentence": "She is adept at solving complex problems.",
+            "example_sentence_native_transliteration": {
+                "bn": "শী ইজ অ্যাডেপ্ট অ্যাট সলভিং কমপ্লেক্স প্রবলেমস।"
+            },
+            "position": 12,
+            "synonyms": "skilled, proficient, masterful",
+            "antonyms": "inept, unskilled, amateur",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দক্ষ",
+                    "word_transliteration": "dokkhho",
+                    "example_sentence_translation": "সে জটিল সমস্যা সমাধানে অ্যাডেপ্ট।",
+                    "example_sentence_transliteration": "She jotil shomoshya somadhaney adept.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "meticulous",
+            "phonetic": "/məˈtɪk.jə.ləs/",
+            "word_native_transliteration": {
+                "bn": "মেটিকুলাস"
+            },
+            "parts_of_speech": "adjective",
+            "emoji": "🔍",
+            "meaning": "Showing great attention to detail; very careful and precise.",
+            "example_sentence": "The architect is meticulous about every detail.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য আর্কিটেক্ট ইজ মেটিকুলাস অ্যাবাউট এভরি ডিটেইল।"
+            },
+            "position": 13,
+            "synonyms": "precise, thorough, detailed",
+            "antonyms": "careless, negligent, sloppy",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "অতি সতর্ক",
+                    "word_transliteration": "oti shotorko",
+                    "example_sentence_translation": "স্থপতিটি প্রতিটি বিষয়ে মেটিকুলাস।",
+                    "example_sentence_transliteration": "Sthopotiti protiti bishye meticulous.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "impediment",
+            "phonetic": "/ɪmˈpɛd.ɪ.mənt/",
+            "word_native_transliteration": {
+                "bn": "ইমপেডিমেন্ট"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🚧",
+            "meaning": "A hindrance or obstruction in doing something; a barrier.",
+            "example_sentence": "His lack of funds was a major impediment to his success.",
+            "example_sentence_native_transliteration": {
+                "bn": "হিজ ল্যাক অফ ফান্ডস ওয়াজ আ মেজর ইমপেডিমেন্ট টু হিজ সাকসেস।"
+            },
+            "position": 14,
+            "synonyms": "obstacle, hindrance, barrier",
+            "antonyms": "assistance, aid, facilitation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "বাধা",
+                    "word_transliteration": "badha",
+                    "example_sentence_translation": "তার সাফল্যের প্রধান ইমপেডিমেন্ট ছিল অর্থের অভাব।",
+                    "example_sentence_transliteration": "Tar shafollyer prodhan impediment chhilo orther obhab.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "ameliorate",
+            "phonetic": "/əˈmiː.li.ə.reɪt/",
+            "word_native_transliteration": {
+                "bn": "অমিলিওরেট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "📈",
+            "meaning": "To make or become better; to improve or enhance.",
+            "example_sentence": "The new policies aim to ameliorate working conditions.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য নিউ পলিসিজ এইম টু অমিলিওরেট ওয়ার্কিং কনডিশনস।"
+            },
+            "position": 15,
+            "synonyms": "improve, enhance, alleviate",
+            "antonyms": "worsen, degrade, deteriorate",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "উন্নতি করা",
+                    "word_transliteration": "unnoti kora",
+                    "example_sentence_translation": "নতুন নীতিগুলো কাজের পরিবেশ অমিলিওরেট করতে চায়।",
+                    "example_sentence_transliteration": "Notun nitigulo kajer poribesh ameliorate korte chay.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "repercussions",
+            "phonetic": "/ˌriː.pəˈkʌʃ.ənz/",
+            "word_native_transliteration": {
+                "bn": "রিপারকাশন্স"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🌊",
+            "meaning": "An unintended consequence occurring some time after an event or action; the effects or results of something.",
+            "example_sentence": "The economic repercussions of war are severe.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ইকোনমিক রিপারকাশন্স অফ ওয়ার আর সিভেয়ার।"
+            },
+            "position": 16,
+            "synonyms": "consequences, ramifications, aftermath",
+            "antonyms": "cause, origin, ignorance",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "প্রতিক্রিয়া",
+                    "word_transliteration": "protikriya",
+                    "example_sentence_translation": "যুদ্ধের অর্থনৈতিক রিপারকাশন্স মারাত্মক।",
+                    "example_sentence_transliteration": "Juddher orthonaitik repercussions maratmok.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "dichotomy",
+            "phonetic": "/daɪˈkɒt.ə.mi/",
+            "word_native_transliteration": {
+                "bn": "ডাইকোটমি"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "⚡",
+            "meaning": "A division or contrast between two things that are or are represented as being opposed or entirely different.",
+            "example_sentence": "The dichotomy between tradition and modernity is evident.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য ডাইকোটমি বিটুইন ট্র্যাডিশন অ্যান্ড মডার্নিটি ইজ এভিডেন্ট।"
+            },
+            "position": 17,
+            "synonyms": "division, contrast, polarity",
+            "antonyms": "unity, similarity, consistency",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "দ্বৈততা",
+                    "word_transliteration": "dvoitota",
+                    "example_sentence_translation": "ঐতিহ্য ও আধুনিকতার মধ্যে ডাইকোটমি স্পষ্ট।",
+                    "example_sentence_transliteration": "Oitihyo o adhunikotar modhye dichotomy sposhto.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "juxtaposition",
+            "phonetic": "/ˌdʒʌk.stə.pəˈzɪʃ.ən/",
+            "word_native_transliteration": {
+                "bn": "জাক্সটাপজিশন"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "🎭",
+            "meaning": "The fact of two things being seen or placed close together with contrasting effect.",
+            "example_sentence": "The juxtaposition of colors in this painting is striking.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য জাক্সটাপজিশন অফ কালারস ইন দিস পেইনটিং ইজ স্ট্রাইকিং।"
+            },
+            "position": 18,
+            "synonyms": "comparison, contrast, adjacency",
+            "antonyms": "separation, disconnection, isolation",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পাশাপাশি স্থাপন",
+                    "word_transliteration": "pashapashi sthapan",
+                    "example_sentence_translation": "এই চিত্রকর্মের রঙের জাক্সটাপজিশন মনোমুগ্ধকর।",
+                    "example_sentence_transliteration": "Ei chitrokurmur ronger juxtaposition monomugdhkor.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "expedite",
+            "phonetic": "/ˈɛk.spɪ.daɪt/",
+            "word_native_transliteration": {
+                "bn": "এক্সপেডাইট"
+            },
+            "parts_of_speech": "verb",
+            "emoji": "⚡",
+            "meaning": "To make an action or process happen sooner or be accomplished more quickly.",
+            "example_sentence": "The government plans to expedite the vaccine distribution.",
+            "example_sentence_native_transliteration": {
+                "bn": "দ্য গভর্নমেন্ট প্ল্যানস টু এক্সপেডাইট দ্য ভ্যাকসিন ডিস্ট্রিবিউশন।"
+            },
+            "position": 19,
+            "synonyms": "accelerate, hasten, facilitate",
+            "antonyms": "delay, hinder, obstruct",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "ত্বরান্বিত করা",
+                    "word_transliteration": "tboranbito kora",
+                    "example_sentence_translation": "সরকার টিকা বিতরণ এক্সপেডাইট করার পরিকল্পনা করেছে।",
+                    "example_sentence_transliteration": "Shorkar tika bitoron expedite korar porikalpona koreche.",
+                    "source": "oxford"
+                }
+            ]
+        },
+        {
+            "word": "planning",
+            "phonetic": "/ˈplæn.ɪŋ/",
+            "word_native_transliteration": {
+                "bn": "প্ল্যানিং"
+            },
+            "parts_of_speech": "noun",
+            "emoji": "📋",
+            "meaning": "The process of making plans for something; detailed arrangement beforehand.",
+            "example_sentence": "Planning ahead is crucial for success.",
+            "example_sentence_native_transliteration": {
+                "bn": "প্ল্যানিং অ্যাহেড ইজ ক্রুশিয়াল ফর সাকসেস।"
+            },
+            "position": 20,
+            "synonyms": "strategy, organization, preparation",
+            "antonyms": "disorganization, improvisation, unpreparedness",
+            "translations": [
+                {
+                    "locale": "bn",
+                    "word_translation": "পরিকল্পনা",
+                    "word_transliteration": "porikalpona",
+                    "example_sentence_translation": "সফলতার জন্য আগেভাগে প্ল্যানিং করা অত্যন্ত গুরুত্বপূর্ণ।",
+                    "example_sentence_transliteration": "Shofoltaar jonno agebhage planning kora ottyonto guruttopurno.",
+                    "source": "oxford"
+                }
+            ]
+        }
+    ]
+}
